@@ -25,8 +25,8 @@ def load_brain(filepath="learning_weights.json"):
         try:
             with open(filepath, "r") as f:
                 return json.load(f)
-        except Exception:
-            pass
+        except Exception as e:
+            print(f"Bhai JSON read karne mein error aaya: {e}")
 
     return {"winner_tags": [], "qa_rejected_tags": []}
 
@@ -42,7 +42,20 @@ def save_rejection(bad_video_data, filepath="learning_weights.json"):
         if tag and tag not in brain["qa_rejected_tags"]:
             brain["qa_rejected_tags"].append(tag)
     with open(filepath, "w") as f:
-        print(f"Buri video reject ho gayi! Naye tags add ho gaye: {bad_tags}")
+        json.dump(brain, f, indent=2)
+
+    print(f"Buri video reject ho gayi! Naye tags add ho gaye: {bad_tags}")
+
+
+def save_winner(good_video_data, filepath="learning_weights.json"):
+    brain = load_brain(filepath)
+    good_tags = good_video_data.get("structural_tags", []) + good_video_data.get("visual_keywords", [])
+    for tag in good_tags:
+        if tag and tag not in brain["winner_tags"]:
+            brain["winner_tags"].append(tag)
+    with open(filepath, "w") as f:
+        json.dump(brain, f, indent=2)
+    print(f"Badhai ho! Nayi winner video mili. Naye tags add ho gaye: {good_tags}")
 
 
 
