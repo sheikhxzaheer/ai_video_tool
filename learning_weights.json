@@ -1,25 +1,12 @@
 {
-  "winner_tags": [
-    "pillow",
-    "sleep",
-    "bed",
-    "peaceful",
-    "night",
-    "morning",
-    "cozy",
-    "sunlight",
-    "fluffy_pillow",
-    "smiling"
-  ],
-  "qa_rejected_tags": [
-    "collapse",
-    "rubble",
-    "falling",
-    "disaster",
-    "beach",
-    "outdoor",
-    "sand",
-    "walking",
-    "sun"
-  ]
+  "winner_tags": {
+    "pillow": 0.15,
+    "sleep": 0.15,
+    "bed": 0.15
+  },
+  "qa_rejected_tags": {
+    "collapse": -0.20,
+    "rubble": -0.20,
+    "disaster": -0.20
+  }
 }

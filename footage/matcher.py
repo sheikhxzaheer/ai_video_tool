@@ -1,7 +1,7 @@
 """Match segments to footage using ChromaDB vector search and penalty logic."""
 
 import random
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Mapping, Optional
 
 import chromadb
 
@@ -40,7 +40,7 @@ def _split_pipe_list(s: Any) -> List[str]:
     return [txt]
 
 
-def _candidate_from_metadata(m: Dict[str, Any], distance: Optional[float]) -> Dict[str, Any]:
+def _candidate_from_metadata(m: Mapping[str, Any], distance: Optional[float]) -> Dict[str, Any]:
     d = float(distance) if distance is not None else None
     similarity = 1 - d if d is not None else 0.0
     video_path = m.get("video_path") or m.get("path") or ""
@@ -249,8 +249,8 @@ def match_segments_to_footage(
             result.append(seg_copy)
             continue
 
-        metadatas = base_results.get("metadatas", [[]])[0] or []
-        distances = base_results.get("distances", [[]])[0] or []
+        metadatas = (base_results.get("metadatas") or [[]])[0] or []
+        distances = (base_results.get("distances") or [[]])[0] or []
         base_candidates = [_candidate_from_metadata(m, d) for m, d in zip(metadatas, distances)]
         if not base_candidates:
             result.append(seg_copy)
@@ -262,15 +262,15 @@ def match_segments_to_footage(
         if enable_top_down and top_sources:
             try:
                 # Chroma supports rich filters; $in may not be available on all versions.
-                where = {"video_path": {"$in": top_sources}}
+                where: Any = {"video_path": {"$in": top_sources}}
                 restricted = collection.query(
                     query_embeddings=[q_emb],
                     n_results=min(top_k, max(1, collection.count())),
                     include=["metadatas", "distances"],
                     where=where,
                 )
-                metadatas2 = restricted.get("metadatas", [[]])[0] or []
-                distances2 = restricted.get("distances", [[]])[0] or []
+                metadatas2 = (restricted.get("metadatas") or [[]])[0] or []
+                distances2 = (restricted.get("distances") or [[]])[0] or []
                 candidates = [_candidate_from_metadata(m, d) for m, d in zip(metadatas2, distances2)]
             except Exception:
                 candidates = [c for c in base_candidates if (c.get("video_path") or "") in set(top_sources)]
