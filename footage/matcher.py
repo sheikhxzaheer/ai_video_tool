@@ -6,7 +6,8 @@ from typing import Any, Dict, List, Optional
 import chromadb
 
 from footage.embeddings import embed_texts_batch
-from footage.reranker import RerankContext, rerank_candidates
+from footage.reranker import RerankContext, rerank_candidates, load_brain
+
 
 # Default ChromaDB path
 DEFAULT_CHROMA_PATH = "chroma_db"
@@ -286,9 +287,14 @@ def match_segments_to_footage(
             penalty_reused=penalty_reused,
         )
 
+        brain_data = load_brain()
+
         penalized = rerank_candidates(
             penalized,
             ctx=RerankContext(query_text=query, segment=seg),
+
+            winners_signal=brain_data.get("winner_tags", []),
+            qa_signal=brain_data.get("qa_rejected_tags", [])
         )
 
         if not penalized:
@@ -315,6 +321,8 @@ def match_segments_to_footage(
             "in_point": float(in_point),
             "out_point": float(out_point),
             "similarity_score": round(float(best.get("similarity") or 0.0), 4),
+            "final_similarity_score": round(float(best.get("final_similarity_score") or best.get("similarity") or 0.0), 4),
+            
         }
 
         if enable_anchor_broll and broll:
