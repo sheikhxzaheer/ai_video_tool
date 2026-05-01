@@ -6,7 +6,8 @@ from typing import Any, Dict, List, Mapping, Optional
 import chromadb
 
 from footage.embeddings import embed_texts_batch
-from footage.reranker import RerankContext, rerank_candidates, load_brain
+from footage.reranker import RerankContext, rerank_candidates
+from footage.qa_store import load_brain
 
 
 # Default ChromaDB path
@@ -292,9 +293,8 @@ def match_segments_to_footage(
         penalized = rerank_candidates(
             penalized,
             ctx=RerankContext(query_text=query, segment=seg),
-
-            winners_signal=brain_data.get("winner_tags", []),
-            qa_signal=brain_data.get("qa_rejected_tags", [])
+            winners_signal=brain_data.get("winner_tags", {}),
+            qa_signal=brain_data.get("qa_rejected_tags", {})
         )
 
         if not penalized:
