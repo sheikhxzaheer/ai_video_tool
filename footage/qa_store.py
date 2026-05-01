@@ -1,5 +1,15 @@
 import json
 import os
+import logging
+
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - [%(levelname)s] - %(message)s',
+    handlers=[
+        logging.FileHandler("ai_learning_loop.log"),
+        logging.StreamHandler()
+    ]
+)
 
 def load_brain(filepath="learning_weights.json"):
     if os.path.exists(filepath):
@@ -8,6 +18,9 @@ def load_brain(filepath="learning_weights.json"):
                 return json.load(f)
         except Exception as e:
             print(f"Error reading JSON: {e}")
+    else:
+        logging.warning(f"Can't find Brain file '{filepath}'. Starting with new empty brain.")
+
     return {"winner_tags": {}, "qa_rejected_tags": {}}
 
 def save_rejection(bad_video_data, filepath="learning_weights.json"):
@@ -22,7 +35,7 @@ def save_rejection(bad_video_data, filepath="learning_weights.json"):
             
     with open(filepath, "w") as f:
         json.dump(brain, f, indent=2)
-    print(f"Saved Rejection! Updated weights for: {bad_tags}")
+    logging.info(f"🛑 REJECTED: Video rejected. Applied {REJECT_PENALTY} penalty to tags: {bad_tags}")
 
 def save_winner(good_video_data, filepath="learning_weights.json"):
     brain = load_brain(filepath)
@@ -36,4 +49,4 @@ def save_winner(good_video_data, filepath="learning_weights.json"):
             
     with open(filepath, "w") as f:
         json.dump(brain, f, indent=2)
-    print(f"Saved Winner! Updated weights for: {good_tags}")
+    logging.info(f"✅ SAVED WINNER: Video accepted. Applied {WINNER_BOOST} boost to tags: {good_tags}")
