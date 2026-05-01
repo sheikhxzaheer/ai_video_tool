@@ -1,0 +1,88 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@makewayforchucklings_1769710553857.mp4",
+  "detailed_description": "This video captures a poignant 'Honor Walk' in a hospital hallway, a solemn tribute to an organ donor. Medical staff line both sides of the corridor, showing profound respect and gratitude as the patient is wheeled past, en route to the operating room for organ donation. The scene highlights the emotional depth and humanity within healthcare, acknowledging the selfless act of giving life through organ donation, which provides hope and a second chance for recipients.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:24.789",
+      "structural_tags": [
+        "Human_Interaction",
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Macro_Detail",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "medical staff",
+        "patient",
+        "hospital bed",
+        "organ donor",
+        "hallway",
+        "medical equipment",
+        "IV drip",
+        "oxygen mask",
+        "touching arm"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "serious",
+          "calm",
+          "emotional",
+          "respectful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "bright hallway",
+          "observational camera"
+        ]
+      },
+      "why_kept": "This segment is the semantic core, vividly demonstrating the 'Honor Walk' as the patient (organ donor) is moved through a corridor lined by respectful medical staff. It captures the central emotional tribute, human interaction, and the significant moment of the patient being honored, including a close-up of a hand gently touching the patient's arm."
+    },
+    {
+      "start_time": "00:24.789",
+      "end_time": "00:38.257",
+      "structural_tags": [
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "medical staff",
+        "hospital hallway",
+        "line of people",
+        "solemn crowd"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "serious",
+          "calm",
+          "respectful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead lighting",
+          "tiled floor",
+          "glass wall"
+        ]
+      },
+      "why_kept": "This segment provides a wider perspective of the assembled medical staff, reinforcing the collective respect and solemn atmosphere of the 'Honor Walk'. Although the patient has passed out of frame, this shot emphasizes the scale of the tribute and the community of healthcare workers involved, serving as strong supporting visual context for the main event."
+    }
+  ]
+}

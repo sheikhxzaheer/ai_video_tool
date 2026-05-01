@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250522_090901142.mp4",
+  "detailed_description": "This video features a single pouch of 'PRFCT MORNING TANGERINE PULSE' floating in clear, rippling water under natural light. The camera slowly tracks the product, showcasing its packaging details, branding, and key benefits printed on the label. The serene aquatic setting emphasizes the product's refreshing and hydrating qualities, presenting it in a visually calm and appealing manner.",
+  "segments": [
+    {
+      "start_time": "00:00:00",
+      "end_time": "00:00:04",
+      "structural_tags": [
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Lifestyle_Active",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "product pouch",
+        "tangerine pulse",
+        "water",
+        "ripples",
+        "clear water",
+        "sunlight"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "refreshing"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "gentle movement",
+          "product focus"
+        ]
+      },
+      "why_kept": "This entire segment serves as the 'Product Interaction' and 'Product Standalone' hero moment, effectively showcasing the product in an aesthetic environment. There is no setup, dead air, or extraneous footage; the video directly presents the product floating, fulfilling the core purpose without needing any trims."
+    }
+  ]
+}

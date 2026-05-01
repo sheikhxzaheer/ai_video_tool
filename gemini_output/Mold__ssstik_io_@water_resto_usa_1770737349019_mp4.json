@@ -1,0 +1,157 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold\\ssstik.io_@water.resto.usa_1770737349019.mp4",
+  "detailed_description": "The video vividly portrays the 'before' state of a vacation home severely infested with mold. It documents extensive mold growth across various rooms, including hallways, a laundry area, pantry, bathrooms, and bedrooms, covering walls, ceilings, and doors. The footage serves as a stark visual record of the pervasive damage, emphasizing the critical condition of the property and the urgent necessity for professional remediation services. The continuous pan highlights the widespread nature and severity of the mold, substantiating the claim of a home 'full of mold' as a problem state requiring attention.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Messy_Unorganized",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "hallway",
+        "mold on walls",
+        "baseboards",
+        "laundry machines",
+        "white doors"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "shock_surprise"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "wide angle pan",
+          "documentation style"
+        ]
+      },
+      "why_kept": "This segment serves as the initial visual hook, introducing the widespread mold problem from the entryway and setting the tone for the severe infestation throughout the home."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Problem_State",
+        "Messy_Unorganized",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "pantry",
+        "shelves",
+        "mold on walls",
+        "food items",
+        "toilet paper"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "shock_surprise"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "overhead lighting",
+          "detail shot"
+        ]
+      },
+      "why_kept": "It specifically highlights mold growth within a critical storage area like a pantry, demonstrating the extent of contamination beyond just exposed walls."
+    },
+    {
+      "start_time": "00:24.000",
+      "end_time": "00:27.000",
+      "structural_tags": [
+        "Problem_State",
+        "Messy_Unorganized",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "bathroom",
+        "toilet",
+        "mold on walls",
+        "black mold"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "shock_surprise"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "overhead lighting",
+          "confined space"
+        ]
+      },
+      "why_kept": "This segment captures a highly concentrated and visually alarming mold infestation in a bathroom, a common area for severe moisture-related issues, reinforcing the severity of the problem."
+    },
+    {
+      "start_time": "00:59.000",
+      "end_time": "01:08.000",
+      "structural_tags": [
+        "Problem_State",
+        "Messy_Unorganized",
+        "Reveal_Result",
+        "Negative_Emotion",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "bedroom",
+        "bed",
+        "dresser",
+        "window",
+        "mold on walls",
+        "ceiling",
+        "extensive coverage",
+        "black and grey mold",
+        "white furniture"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "bedroom",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "shock_surprise"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "natural light from window",
+          "pan across room",
+          "detailed texture"
+        ]
+      },
+      "why_kept": "This segment most effectively serves as the 'Before' reveal, showcasing the most extensive and visually striking mold growth from floor to ceiling across multiple walls in a bedroom, truly embodying the phrase 'vacation home full of mold' and acting as the climax of the problem state."
+    }
+  ]
+}

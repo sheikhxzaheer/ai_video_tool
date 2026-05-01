@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250522_090632485.mp4",
+  "detailed_description": "This video serves as a visual introduction to the PRFCT Morning Tangerine Pulse product. It showcases both a larger pouch and a single-serving stick pack, highlighting their branding, 'Tangerine Pulse' flavor, and key benefits such as 'Hydration Fuel' and 'Metabolic Activators.' The camera gently pans and zooms, drawing attention to important nutritional information and ingredients listed on the packaging, all set against a tranquil outdoor backdrop of rock and water.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.560",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Macro_Detail",
+        "Aesthetic_Broll",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "PRFCT Morning Tangerine Pulse pouch",
+        "single-serving stick pack",
+        "product packaging",
+        "nutritional information",
+        "ingredients list",
+        "rock",
+        "water",
+        "outdoor setting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clear focus",
+          "gentle camera movement",
+          "detailed product shot"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it comprehensively introduces the product, explicitly showcasing its packaging, branding, and key features as detailed on the labels. The subtle camera movement effectively functions to highlight these critical pieces of information, fulfilling the 'Product Interaction' (through visual presentation) and 'Key Information' criteria by displaying the product's benefits and ingredients without needing a 'talking head' or active human interaction. It's a complete product showcase from beginning to end."
+    }
+  ]
+}

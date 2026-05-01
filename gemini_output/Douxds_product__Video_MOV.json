@@ -1,0 +1,223 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Douxds product\\Video.MOV",
+  "detailed_description": "This video showcases a personal journey of improving skin health, starting with a clear problem state of acne. It introduces a facial cleansing device, demonstrates its easy application process including cleansing and self-cleaning features. The video culminates with a powerful 'before and after' transformation, revealing significantly clearer skin after three months of consistent use, highlighting the product's effectiveness and the user's satisfaction.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man",
+        "face",
+        "acne",
+        "bumps",
+        "skin irritation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct lighting",
+          "natural look"
+        ]
+      },
+      "why_kept": "This segment serves as the crucial 'before' visual, clearly establishing the problem of acne and creating a strong visual hook for the viewer to understand the need for a solution."
+    },
+    {
+      "start_time": "00:05.500",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "facial cleansing device",
+        "black device",
+        "packaging",
+        "hand holding device",
+        "e-commerce interface"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio",
+          "other"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "soft lighting",
+          "product focus"
+        ]
+      },
+      "why_kept": "This segment visually introduces the product (facial cleansing device) that is central to the solution, showing its design and potential use in a clean, professional manner."
+    },
+    {
+      "start_time": "00:21.000",
+      "end_time": "00:23.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "hand",
+        "facial cleansing device",
+        "pumping cleanser",
+        "foam",
+        "silicone bristles"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "focus on action"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial step of interacting with the product: applying facial cleanser directly onto the device, illustrating its ease of use."
+    },
+    {
+      "start_time": "00:45.000",
+      "end_time": "00:49.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Morning_Routine",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "face",
+        "wetting face",
+        "water"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bathroom setting",
+          "natural movement"
+        ]
+      },
+      "why_kept": "This segment shows the preparatory step of wetting the face before using the cleansing device, which is part of the overall skincare process."
+    },
+    {
+      "start_time": "00:52.000",
+      "end_time": "01:39.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Calm_Relaxation",
+        "Morning_Routine",
+        "Night_Routine",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "facial cleansing device",
+        "massaging face",
+        "blue light",
+        "silicone bristles",
+        "smiling",
+        "cleaner"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "relaxed"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "gentle scrubbing action",
+          "visible product feature (light)",
+          "facial expression"
+        ]
+      },
+      "why_kept": "This is a core 'hero moment' demonstrating the product in action. It visually shows the cleansing device being used on the face, the blue light feature (implying self-cleaning), and the user's positive emotional response during the process."
+    },
+    {
+      "start_time": "01:41.000",
+      "end_time": "02:03.000",
+      "structural_tags": [
+        "Reveal_Result",
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "man",
+        "clear skin",
+        "smooth skin",
+        "smiling",
+        "happy",
+        "beard"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "outdoor"
+        ],
+        "mood": [
+          "happy",
+          "confident",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "glowing skin",
+          "various angles",
+          "expressive smile"
+        ]
+      },
+      "why_kept": "This segment is the ultimate 'after' reveal, clearly showcasing the dramatic positive transformation of the man's skin over three months, reinforcing the product's effectiveness and the user's happiness."
+    }
+  ]
+}

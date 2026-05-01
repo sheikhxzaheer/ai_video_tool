@@ -1,0 +1,77 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid naughty\\ssstik.io_@shkerebertt_1763718304925.mp4",
+  "detailed_description": "The video's core meaning revolves around a child's intense emotional outburst, depicted by a young girl crying and screaming. This raw display of emotion serves as the central visual theme, potentially hinting at a common scenario of childhood tantrums or distress. The focus is entirely on the child's powerful facial expressions and body language, conveying a strong sense of negative emotion and an emotional climax.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Emotional_Climax",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "young girl",
+        "crying",
+        "screaming",
+        "distress",
+        "wide open mouth",
+        "closed eyes",
+        "red face"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "high_energy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment is the primary 'Hero Moment' as it clearly captures an emotional climax: the young girl's intense crying and screaming. Her facial expression is a clear 'Wow' (or in this case, 'Oh No') reaction, demonstrating raw emotion which is a key criterion for the semantic core."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Emotional_Climax",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "young girl",
+        "crying",
+        "head down",
+        "distress"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "high_energy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment reinforces the 'Emotional Climax' established in the anchor, showing another angle of the young girl's distress. It provides supporting visual evidence of her negative emotional state, contributing to the core narrative of a child's tantrum."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Treatmant_skin\\ssstik.io_@sani_and_haeng_1761316827905.mp4",
+  "detailed_description": "This video showcases a woman demonstrating the use of a handheld red light therapy device as part of her comprehensive skincare routine. While wearing a face mask, she skillfully applies the glowing red light to her forehead and cheek, emphasizing facial treatment. The demonstration extends to other body parts, including her arm and hand, highlighting the device's versatility. The visual narrative focuses on product interaction and the process of self-care, set against a calm, nightly backdrop.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Night_Routine",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "red light therapy device",
+        "face mask",
+        "skincare",
+        "forehead",
+        "cheek",
+        "arm",
+        "hand",
+        "beauty routine"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "product-focused"
+        ]
+      },
+      "why_kept": "This entire segment serves as the core demonstration, showing the product being actively used on various body parts (face, arm, hand) and showcasing its mechanism of action (red light). It captures consistent product interaction and the process of the skincare routine without any extraneous footage or dead air, making it the complete 'Hero Moment'."
+    }
+  ]
+}

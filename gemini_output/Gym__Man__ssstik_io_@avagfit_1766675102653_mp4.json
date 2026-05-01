@@ -1,0 +1,138 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Gym\\Man\\ssstik.io_@avagfit_1766675102653.mp4",
+  "detailed_description": "The video captures a man's fitness journey at the gym, showcasing his dedication and physical results. It opens with him posing and flexing his bicep, setting the tone for a workout. The core action involves him performing dumbbell bench presses, demonstrating the effort behind his physique. These workout segments are complemented by reveals of his toned abs and further flexing, highlighting the successful outcome of his training and reinforcing an active lifestyle.",
+  "segments": [
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:02.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Lifestyle_Active",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "flexing bicep",
+        "gym mirror",
+        "green tank top"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "mirror shot",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment serves as an engaging visual hook, immediately establishing the subject's fitness and confidence before the main workout begins."
+    },
+    {
+      "start_time": "00:06.900",
+      "end_time": "00:07.800",
+      "structural_tags": [
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man",
+        "dumbbell bench press",
+        "gym bench",
+        "weights",
+        "workout"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "workout action",
+          "clear exercise form"
+        ]
+      },
+      "why_kept": "This is the primary 'process/labor' segment, demonstrating the actual physical effort and central activity of the video. It's chosen as the ANCHOR due to its clear depiction of the workout."
+    },
+    {
+      "start_time": "00:09.600",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man",
+        "abs",
+        "toned physique",
+        "gym mirror"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "confident",
+          "achieved"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "physique reveal",
+          "mirror shot"
+        ]
+      },
+      "why_kept": "This segment is a clear 'reveal/result' moment, showing the visible outcome of the exercise and reinforcing the fitness theme."
+    },
+    {
+      "start_time": "00:10.800",
+      "end_time": "00:11.700",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "flexing bicep",
+        "gym bench",
+        "confident smile"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "confident",
+          "satisfied",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "final pose",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment serves as a concluding 'emotional climax' and 'reveal/result', summarizing the fitness achievement and the positive feeling associated with it."
+    }
+  ]
+}

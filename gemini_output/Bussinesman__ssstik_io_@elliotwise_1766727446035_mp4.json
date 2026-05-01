@@ -1,0 +1,124 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bussinesman\\ssstik.io_@elliotwise_1766727446035.mp4",
+  "detailed_description": "This video chronicles a luxurious \"Business Meeting Day,\" showcasing the protagonist's journey and professional activities. It begins with his elegant arrival in a high-end vehicle, followed by his preparation and entry into an opulent building. The core of his professional day is depicted through moments of focused reading and a sophisticated break with a drink, highlighting both diligent work and refined social interaction. The video concludes with his departure, reinforcing a lifestyle of professional engagement and upscale living.",
+  "segments": [
+    {
+      "start_time": "00:04.200",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "man",
+        "car",
+        "blazer",
+        "getting out",
+        "putting on jacket"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "premium",
+          "serious",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "high-quality video",
+          "professional attire",
+          "luxury car"
+        ]
+      },
+      "why_kept": "This segment visually establishes the start of the 'Business Meeting Day,' showcasing the protagonist's arrival in a luxury vehicle and his act of putting on a blazer, symbolizing preparation and a professional appearance. It's a key 'Process/Labor' moment of getting ready for the day's events."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Workspace_Office",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "sitting",
+        "reading",
+        "book",
+        "notebook",
+        "luxury interior"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "office",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused lighting",
+          "professional setting",
+          "high-end decor"
+        ]
+      },
+      "why_kept": "This segment is the most direct depiction of 'Process/Labor' related to a business meeting, showing the protagonist engrossed in reading a book or notes. It represents intellectual engagement and preparation, which is central to the concept of a 'Business Meeting Day,' making it the primary 'Anchor' moment."
+    },
+    {
+      "start_time": "00:14.200",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "man",
+        "drinking",
+        "glass",
+        "cocktail",
+        "restaurant",
+        "bar"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "relaxed"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "sophisticated atmosphere",
+          "drinks on table"
+        ]
+      },
+      "why_kept": "This segment showcases a 'Product Interaction' (drinking) and represents a common social or reflective activity during a business meeting day, such as a lunch meeting or a post-meeting drink. It adds to the overall portrayal of a comprehensive 'Business Meeting Day' lifestyle."
+    }
+  ]
+}

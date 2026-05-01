@@ -1,0 +1,375 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury home\\ssstik.io_@agentthorburn_1767011584694.mp4",
+  "detailed_description": "This video showcases a luxurious penthouse in Brickell, Miami, responding to the question of its cost by detailing its impressive features. The tour highlights a grand living area with 20-foot high ceilings spanning two floors, five spacious bedrooms, and seven and a half modern bathrooms. Viewers are taken through a huge, well-appointed kitchen, a vast dining space totaling nearly 7,000 square feet of interior, and an expansive balcony offering breathtaking city and ocean views. The primary suite features unobstructed bay views even from the bathtub, complemented by two large walk-in closets and a stylish bar area. The video culminates in the reveal of the penthouse's price: just under $9 million.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.800",
+      "structural_tags": [
+        "Visual_Hook",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man walking",
+        "palm trees",
+        "city skyline",
+        "skyscrapers"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street",
+          "city"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "sunny day",
+          "modern architecture"
+        ]
+      },
+      "why_kept": "This segment serves as the visual hook, setting the context by posing the central question about the cost of a Brickell penthouse, prompting the subsequent tour."
+    },
+    {
+      "start_time": "00:02.800",
+      "end_time": "00:05.600",
+      "structural_tags": [
+        "Product_Intro",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man presenting",
+        "luxury living room",
+        "high ceilings",
+        "ocean view",
+        "modern furniture",
+        "marble pillars"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "ocean"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "minimalist design",
+          "high-end finishes"
+        ]
+      },
+      "why_kept": "This is the initial reveal of the penthouse interior, showcasing the impressive high ceilings and luxurious living space, immediately demonstrating the 'result' of high-end design."
+    },
+    {
+      "start_time": "00:05.600",
+      "end_time": "00:07.900",
+      "structural_tags": [
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Key_Information",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man on stairs",
+        "floating staircase",
+        "two floors",
+        "modern decor",
+        "gold wall art"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "architectural features",
+          "clean lines",
+          "ambient lighting"
+        ]
+      },
+      "why_kept": "This segment highlights key architectural features like the multi-floor layout and adds specific 'key information' about the number of bedrooms, contributing to the overall penthouse description."
+    },
+    {
+      "start_time": "00:07.900",
+      "end_time": "00:09.900",
+      "structural_tags": [
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Key_Information",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man in bathroom",
+        "modern bathroom",
+        "bathtub",
+        "wooden wall paneling",
+        "shower"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sleek design",
+          "contemporary fixtures",
+          "warm wood accents"
+        ]
+      },
+      "why_kept": "This segment showcases another essential feature, the number of bathrooms, detailing the modern and high-quality finishes, which is part of the 'result' of the penthouse's design."
+    },
+    {
+      "start_time": "00:09.900",
+      "end_time": "00:11.900",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man in kitchen",
+        "large kitchen island",
+        "modern kitchen",
+        "stainless steel appliances",
+        "bar stools"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dark cabinetry",
+          "marble countertops",
+          "integrated lighting"
+        ]
+      },
+      "why_kept": "The 'huge kitchen' is a significant feature of a luxury home, highlighting the extent of the amenities and contributing to the 'result' of the penthouse tour."
+    },
+    {
+      "start_time": "00:11.900",
+      "end_time": "00:14.900",
+      "structural_tags": [
+        "Result_Transformation",
+        "Key_Information",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man in dining room",
+        "long dining table",
+        "city views",
+        "high windows",
+        "modern chairs"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "city"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "panoramic views",
+          "spacious layout",
+          "luxury dining"
+        ]
+      },
+      "why_kept": "This segment provides crucial 'key information' about the almost 7,000 square feet of interior space, emphasizing the scale of the penthouse and showcasing a large dining area with city views."
+    },
+    {
+      "start_time": "00:14.900",
+      "end_time": "00:16.800",
+      "structural_tags": [
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man on balcony",
+        "ocean view",
+        "city view",
+        "high-rise buildings",
+        "glass railing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "city",
+          "ocean"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "expansive views",
+          "sunny weather",
+          "modern high-rise"
+        ]
+      },
+      "why_kept": "The city and ocean views are a significant selling point for a luxury penthouse in Brickell, serving as a powerful 'result transformation' by showcasing the lifestyle and location."
+    },
+    {
+      "start_time": "00:16.800",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man in bedroom",
+        "primary bedroom",
+        "bay views",
+        "modern bed",
+        "bathtub with view"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "ocean"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "luxury suite",
+          "minimalist decor",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment highlights the primary bedroom's luxurious features, including unobstructed bay views and a bathtub with a view, showcasing premium amenities as part of the penthouse's 'result'."
+    },
+    {
+      "start_time": "00:20.000",
+      "end_time": "00:23.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man in closet",
+        "walk-in closet",
+        "home bar",
+        "modern shelves",
+        "bar stools"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "custom cabinetry",
+          "organized space",
+          "entertaining area"
+        ]
+      },
+      "why_kept": "These segments showcase additional luxury amenities like dual walk-in closets and a dedicated bar, further detailing the 'result' of high-end living in the penthouse."
+    },
+    {
+      "start_time": "00:23.000",
+      "end_time": "00:26.500",
+      "structural_tags": [
+        "Key_Information",
+        "Result_Transformation",
+        "Product_Standalone",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man in living room",
+        "luxury living room",
+        "ocean view",
+        "price reveal",
+        "on-screen text"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "ocean"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "grand scale",
+          "bright lighting",
+          "luxury lifestyle"
+        ]
+      },
+      "why_kept": "This is the ANCHOR segment as it delivers the ultimate 'key information' – the price of the penthouse – which is the direct answer to the initial question and the culmination of the entire property showcase."
+    }
+  ]
+}

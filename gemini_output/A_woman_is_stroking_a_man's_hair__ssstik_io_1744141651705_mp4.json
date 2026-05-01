@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\A woman is stroking a man's hair\\ssstik.io_1744141651705.mp4",
+  "detailed_description": "This video captures a man with tattoos, wearing a tank top and loose pants, confidently walking down a bustling city street on a sunny day. He turns towards the camera with a friendly smile before continuing his urban exploration, often seen holding a water bottle. The footage emphasizes an active lifestyle and the vibrant atmosphere of a city environment, showcasing the subject's positive engagement with his surroundings.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:26.066",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Travel_Transit",
+        "Product_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man walking",
+        "city street",
+        "buildings",
+        "people",
+        "water bottle",
+        "tattoos",
+        "smile",
+        "sunlight",
+        "urban environment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "daytime",
+          "handheld camera"
+        ]
+      },
+      "why_kept": "The entire video is kept as a single ANCHOR segment because it consistently demonstrates the core action of walking through an urban environment (Process/Labor, Lifestyle_Active, Travel_Transit). The initial smiles at the camera serve as a clear Emotional Climax and Human_Interaction, setting a positive tone for the continuous journey. The man's consistent presence, coupled with holding the water bottle (Product_Interaction), reinforces the theme without any significant 'setup' or 'post-action dead air,' adhering to the 'No-Mistake' rule."
+    }
+  ]
+}

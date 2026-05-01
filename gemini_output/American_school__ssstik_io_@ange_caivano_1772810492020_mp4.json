@@ -1,0 +1,211 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\American school\\ssstik.io_@ange_caivano_1772810492020.mp4",
+  "detailed_description": "This video compiles various short, dynamic clips showcasing the energetic and diverse atmosphere of an American high school. It highlights key aspects of student life, including academic activities like science experiments, lively social events such as sports games with cheering crowds, and fun, spirited interactions within classrooms and gyms, often featuring enthusiastic teachers and students. The overall message emphasizes the vibrant and memorable experiences associated with high school culture and community.",
+  "segments": [
+    {
+      "start_time": "00:02.046",
+      "end_time": "00:04.706",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "students",
+        "goggles",
+        "gloves",
+        "lab equipment",
+        "beaker",
+        "burette",
+        "science experiment"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "classroom"
+        ],
+        "mood": [
+          "serious",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": []
+      },
+      "why_kept": "This segment demonstrates the academic aspect and 'process/labor' of high school life, showcasing students engaged in a science experiment."
+    },
+    {
+      "start_time": "00:07.026",
+      "end_time": "00:09.136",
+      "structural_tags": [
+        "High_Energy",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "students",
+        "teacher",
+        "dancing",
+        "gym",
+        "costumes",
+        "pink outfits"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": []
+      },
+      "why_kept": "This segment captures the fun, social, and energetic side of school events, highlighting positive interaction between students and a teacher."
+    },
+    {
+      "start_time": "00:09.906",
+      "end_time": "00:11.396",
+      "structural_tags": [
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "teacher",
+        "rock star costume",
+        "wig",
+        "tattoos",
+        "classroom",
+        "whiteboard"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "classroom"
+        ],
+        "mood": [
+          "playful",
+          "humorous"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": []
+      },
+      "why_kept": "This clip showcases a unique and engaging teacher personality, adding to the diverse and memorable 'high school vibes'."
+    },
+    {
+      "start_time": "00:17.066",
+      "end_time": "00:19.496",
+      "structural_tags": [
+        "High_Energy",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "students",
+        "cheering",
+        "football game",
+        "stadium lights",
+        "crowd",
+        "red shirts"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "night",
+          "stadium lighting"
+        ]
+      },
+      "why_kept": "This segment represents a quintessential and high-energy American high school experience, the camaraderie of a night football game, making it the strongest anchor for the 'vibes' theme."
+    },
+    {
+      "start_time": "00:20.736",
+      "end_time": "00:22.616",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "students",
+        "goggles",
+        "lab coats/aprons",
+        "lab equipment",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "classroom"
+        ],
+        "mood": [
+          "positive",
+          "engaged"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "vibrant lighting"
+        ]
+      },
+      "why_kept": "This segment further illustrates the academic side of high school with a clear display of positive emotion and student engagement in a lab setting."
+    },
+    {
+      "start_time": "00:24.476",
+      "end_time": "00:26.476",
+      "structural_tags": [
+        "High_Energy",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "students",
+        "cheering",
+        "gym",
+        "crowd",
+        "basketball court"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": []
+      },
+      "why_kept": "This segment reinforces the high-energy school spirit and collective excitement, complementing the outdoor sports scene with an indoor gym event."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1745520280121.mp4",
+  "detailed_description": "This video showcases the effective use of the Slick Gorilla Texture Comb to add volume and texture to a person's hair. The barber demonstrates the comb's unique design by skillfully running it through the hair, creating distinct waves and definition. The segment highlights the comb's mechanism of action and the immediate visual transformation it provides, resulting in a stylish, textured look.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.183",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hair styling",
+        "texture comb",
+        "Slick Gorilla",
+        "barber",
+        "haircut",
+        "styling product",
+        "hair texture",
+        "comb"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "demonstrative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "steady shot",
+          "product focus"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it fully demonstrates the product's function, showcasing the 'Slick Gorilla Texture Comb' in action. It perfectly illustrates the 'Mechanism_Of_Action' by showing how the comb creates texture and leads to a 'Result_Transformation' of the hair, all while introducing the 'Product_Intro' with an on-screen text overlay. The entire clip is a continuous 'Human_Interaction' with the product and serves as an 'Aesthetic_Broll' of the styling process."
+    }
+  ]
+}

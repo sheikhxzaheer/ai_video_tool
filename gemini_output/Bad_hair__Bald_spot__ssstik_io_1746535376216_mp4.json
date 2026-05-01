@@ -1,0 +1,86 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\Bald spot\\ssstik.io_1746535376216.mp4",
+  "detailed_description": "The video showcases a dramatic hair transformation. Initially, a young man with long, blonde hair makes a series of expressive faces for the camera, establishing his 'before' look. The video then abruptly transitions to reveal the same individual with a completely shaved head, maintaining a similar serious and pouting demeanor while subtly flexing his arm. This short clip effectively highlights a significant change in appearance, creating a compelling before-and-after visual. The transformation itself is the central and most impactful moment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "young man",
+        "long blonde hair",
+        "grey t-shirt",
+        "cross necklace",
+        "facial expressions",
+        "pouting",
+        "wide eyes"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address",
+          "clean lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the initial appearance of the subject with long hair, creating a 'before' visual that sets the context for the upcoming transformation. His engaging facial expressions serve as a visual hook for the viewer."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:09.183",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Shock_Surprise",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "young man",
+        "bald head",
+        "shaved head",
+        "grey t-shirt",
+        "cross necklace",
+        "facial expressions",
+        "pouting",
+        "flexing arm",
+        "muscle"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "playful",
+          "shock"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address",
+          "clean lighting",
+          "dramatic reveal"
+        ]
+      },
+      "why_kept": "This is the primary 'hero moment' of the video, showcasing the dramatic and complete transformation to a shaved head. It serves as the 'after' segment, delivering the core 'reveal' and demonstrating the significant change, which is the central action or result of the video. The flexing adds a final dramatic and assertive touch to the new look."
+    }
+  ]
+}

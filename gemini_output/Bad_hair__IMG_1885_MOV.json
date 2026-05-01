@@ -1,0 +1,277 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\IMG_1885.MOV",
+  "detailed_description": "This video showcases the step-by-step process of applying a men's hair system (toupee) to address hair loss. It begins by revealing the shaved scalp, followed by the application of skin adhesive and double-sided tape to the hair unit. The man carefully places the hair system on his head, instantly transforming his appearance and revealing a full head of hair with a satisfied smile. The process concludes with a quick styling using a bandana and hands, highlighting the natural-looking and seamless result. The video effectively demonstrates the product interaction and the impressive before-and-after transformation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.300",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man removing hat",
+        "bald head",
+        "receding hairline"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct gaze",
+          "clear reveal"
+        ]
+      },
+      "why_kept": "This segment serves as the initial 'Problem State' hook, clearly showing the 'Before' condition and setting the stage for the transformation."
+    },
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:04.500",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "applying glue",
+        "scalp",
+        "finger",
+        "adhesive"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "clinical",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "demonstration",
+          "precise action"
+        ]
+      },
+      "why_kept": "This segment shows the first step of the application process, demonstrating the use of the adhesive on the scalp."
+    },
+    {
+      "start_time": "00:04.900",
+      "end_time": "00:05.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "Ultra-Hold tape",
+        "product packaging",
+        "double-sided tape"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear product shot",
+          "brand visibility"
+        ]
+      },
+      "why_kept": "This segment introduces the specific product used for securing the hair system, providing key information about the adhesive."
+    },
+    {
+      "start_time": "00:05.900",
+      "end_time": "00:07.800",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "applying tape",
+        "hair system",
+        "wig base",
+        "hands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed action",
+          "close hand work"
+        ]
+      },
+      "why_kept": "This segment illustrates the precise application of the tape onto the hair system, crucial for its secure placement."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "placing hair system",
+        "hair unit",
+        "man smiling",
+        "instant transformation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic action",
+          "expressive facial reaction"
+        ]
+      },
+      "why_kept": "This is a key 'Hero Moment' showing the core action of applying the hair system and the immediate, satisfying visual transformation, coupled with a positive emotional climax."
+    },
+    {
+      "start_time": "00:11.100",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "red bandana",
+        "tying bandana",
+        "pressing hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "routine"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "quick action",
+          "transitional moment"
+        ]
+      },
+      "why_kept": "This segment shows a common method for ensuring the hair system adheres properly and aids in initial styling."
+    },
+    {
+      "start_time": "00:15.100",
+      "end_time": "00:19.900",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "styling hair",
+        "wet look hair",
+        "hands in hair",
+        "hair texture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "focused",
+          "routine"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural styling",
+          "grooming"
+        ]
+      },
+      "why_kept": "This segment demonstrates the final manual styling of the hair, showcasing its flexibility and natural appearance after application."
+    },
+    {
+      "start_time": "00:20.000",
+      "end_time": "00:24.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "final hair look",
+        "styled hair",
+        "man's face",
+        "side profile",
+        "satisfied expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "satisfied",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "showcase",
+          "final aesthetic",
+          "multiple angles"
+        ]
+      },
+      "why_kept": "This segment provides the ultimate 'Reveal' and 'After' shot, clearly demonstrating the successful transformation and the man's satisfaction with the natural-looking result."
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Man\\ssstik.io_1748420123905.mp4",
+  "detailed_description": "This video humorously showcases a dental assistant narrating three reasons why her doctor is supposedly 'mad' at her or the situation. Each reason, ranging from incorrect suction placement and a patient's small mouth to a patient being late, is visually demonstrated with the doctor's exaggerated reactions of frustration and exasperation. The video combines practical dental work with comedic timing and a relatable office dynamic, focusing on the challenges faced in a dental practice from an assistant's perspective.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.442",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "dentist",
+        "assistant",
+        "patient",
+        "dental chair",
+        "dental tools",
+        "mask",
+        "gloves"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "professional setting"
+        ]
+      },
+      "why_kept": "This segment introduces the setting, the main characters (dentist, assistant, patient), and sets up the premise of the video's narrative with the opening voiceover."
+    },
+    {
+      "start_time": "00:01.442",
+      "end_time": "00:06.902",
+      "structural_tags": [
+        "Problem_State",
+        "Human_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "assistant",
+        "suction tool",
+        "patient's mouth",
+        "gloves",
+        "dental tools"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up",
+          "action shot"
+        ]
+      },
+      "why_kept": "This segment visually demonstrates the first 'reason' for the doctor's frustration – the assistant's incorrect suction placement, showing the actual work being done and the specific tool interaction."
+    },
+    {
+      "start_time": "00:06.902",
+      "end_time": "00:09.302",
+      "structural_tags": [
+        "Face_Reaction",
+        "UGC_Talking_Head",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "assistant's face",
+        "glasses",
+        "mask",
+        "dental tools"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "playful",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct gaze",
+          "narrator's perspective"
+        ]
+      },
+      "why_kept": "This segment captures the assistant's humorous, slightly sarcastic reaction/explanation to the 'problem,' providing the 'user-generated commentary' aspect of the video."
+    },
+    {
+      "start_time": "00:09.302",
+      "end_time": "00:13.292",
+      "structural_tags": [
+        "Problem_State",
+        "Human_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "dentist",
+        "patient's mouth",
+        "gloves",
+        "dental tools",
+        "mask"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused action",
+          "dental procedure"
+        ]
+      },
+      "why_kept": "This segment introduces and demonstrates the second 'reason' – the challenge of working with a patient's small mouth, showing the doctor's initial attempts at the procedure."
+    },
+    {
+      "start_time": "00:13.292",
+      "end_time": "00:16.892",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Negative_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "dentist's face",
+        "mask",
+        "gloves",
+        "patient"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "frustrated",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "exaggerated expression",
+          "comedic reaction"
+        ]
+      },
+      "why_kept": "This segment captures the doctor's clear, exaggerated facial and body language expressing frustration, serving as an emotional climax related to the patient's small mouth."
+    },
+    {
+      "start_time": "00:16.892",
+      "end_time": "00:22.422",
+      "structural_tags": [
+        "Problem_State",
+        "Emotional_Climax",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "dentist",
+        "patient's mouth",
+        "gloves",
+        "dental tools",
+        "mask"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "frustrated",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "struggle",
+          "focused frustration"
+        ]
+      },
+      "why_kept": "This segment continues to show the doctor's struggle and mounting frustration while trying to work in the patient's small mouth, reinforcing the problem and his emotional state."
+    },
+    {
+      "start_time": "00:22.422",
+      "end_time": "00:29.272",
+      "structural_tags": [
+        "Problem_State",
+        "Workspace_Office",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "dentist",
+        "computer screen",
+        "office cabinets",
+        "watch",
+        "mask"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "frustrated"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "professional setting",
+          "time-checking"
+        ]
+      },
+      "why_kept": "This segment introduces the third 'reason' – a late patient – showing the doctor at the computer, checking the schedule and his watch, visually conveying the impact of lateness on the workflow."
+    },
+    {
+      "start_time": "00:29.272",
+      "end_time": "00:36.192",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Negative_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "dentist's face",
+        "mask",
+        "office setting",
+        "hand gestures"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "frustrated",
+          "exasperated"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "upward gaze",
+          "sigh of resignation",
+          "comedic gesture"
+        ]
+      },
+      "why_kept": "This final segment captures the culmination of the doctor's frustration with the exasperated expressions and gestures, effectively concluding the comedic narrative of his 'madness'."
+    }
+  ]
+}

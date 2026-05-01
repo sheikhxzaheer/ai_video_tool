@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated Before_After\\ssstik.io_@nyah.leann10_1774365925953.mp4",
+  "detailed_description": "This video presents a straightforward 'Before and After' comparison, showcasing the difference in a woman's abdominal appearance between going to bed and waking up. The first segment displays a visibly bloated stomach, labeled as 'how I went to bed,' while the second segment reveals a noticeably flatter and more toned stomach, captioned 'vs how I woke up.' The content highlights a common physiological change, likely related to digestion or fluid retention, offering a relatable insight into daily body fluctuations.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.780",
+      "structural_tags": [
+        "Visual_Hook",
+        "Before_After",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Night_Routine",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "belly",
+        "stomach",
+        "phone",
+        "mirror",
+        "bedroom",
+        "shorts",
+        "sports bra",
+        "t-shirt",
+        "sweatpants",
+        "smiling",
+        "bloated",
+        "toned"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "mirror selfie",
+          "natural lighting",
+          "casual attire"
+        ]
+      },
+      "why_kept": "This entire video constitutes the semantic core as it is a direct 'Before/After' comparison, explicitly showing the change in the subject's body from night to morning. Both segments are essential to convey the full message, illustrating the contrast and providing the central point of the content without any superfluous footage."
+    }
+  ]
+}

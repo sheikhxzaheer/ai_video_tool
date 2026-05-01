@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Man\\ssstik.io_@codex_kg_1766749421374.mp4",
+  "detailed_description": "This video captures a dynamic time-lapse of an IT company's office, showcasing a team of developers engrossed in their work. It highlights the continuous process of coding and problem-solving, with individuals typing on laptops and interacting with multiple monitors. The fast-paced visual effectively conveys a sense of productivity and focused effort within a professional workspace, with a brief moment of a team member engaging with a Rubik's cube as a creative break.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:24.717",
+      "structural_tags": [
+        "Workspace_Office",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Behind_The_Scenes",
+        "The Process/Labor"
+      ],
+      "visual_keywords": [
+        "developers",
+        "coding",
+        "typing",
+        "laptops",
+        "monitors",
+        "office",
+        "Rubik's cube",
+        "time-lapse"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "productive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "time-lapse",
+          "natural light",
+          "busy atmosphere",
+          "dynamic"
+        ]
+      },
+      "why_kept": "The entire video serves as the semantic core, demonstrating the continuous work process and atmosphere of an IT company's development team over a period of time, effectively captured through time-lapse. It directly showcases 'The Process/Labor' hero moment, and there are no distinct shorter segments that would better convey the core message than the full duration."
+    }
+  ]
+}

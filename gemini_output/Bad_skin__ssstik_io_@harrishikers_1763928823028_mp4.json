@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad skin\\ssstik.io_@harrishikers_1763928823028.mp4",
+  "detailed_description": "A young woman, wearing a pink headband and shirt, addresses online comments about her skin while applying lip tint and lip gloss. She expresses frustration and concern about people's obsession with her appearance, suggesting that if they were genuinely concerned, they would reach out privately instead of making public criticisms. The video highlights her emotional response to negative feedback regarding her skin condition as part of her routine.",
+  "segments": [
+    {
+      "start_time": "00:13.600",
+      "end_time": "00:34.900",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Interaction",
+        "UGC_Talking_Head",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "blonde hair",
+        "pink headband",
+        "pink shirt",
+        "skin issues",
+        "red lip tint",
+        "pink lip gloss",
+        "applying makeup"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious",
+          "concerned",
+          "frustrated"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "bright lighting",
+          "casual",
+          "self-shot"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it encapsulates the emotional climax of the video, where the subject directly addresses the problem state (comments about her skin) while actively demonstrating product interaction (applying lip tint and lip gloss). It combines key information delivery with a clear facial reaction and product use, making it the most valuable and context-setting portion according to the 'Visual Priority Rule' and 'Emotional Climax' criteria."
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold\\ssstik.io_@itsnotashleyelizabeth_1772817979821.mp4",
+  "detailed_description": "This video showcases a dramatic before-and-after transformation of a shower, highlighting the effectiveness of a mold removal gel. It begins by presenting various angles of a shower with visible mold and stains, establishing a clear 'problem state.' This is followed by a series of shots of the same shower, now sparkling clean, demonstrating the product's powerful cleaning capabilities. The video concludes by explicitly revealing the 'AZQPOD Home Stain Cleaner' product, linking the impressive results directly to its use.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "dirty shower",
+        "moldy grout lines",
+        "stained caulk",
+        "shower door frame",
+        "shower tiles"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious",
+          "problem-focused"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "mundane lighting",
+          "handheld camera",
+          "close-up shots of grime"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'before' state, showcasing the mold and stains that need to be addressed, thus creating a strong visual hook and illustrating the problem the product solves."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:12.600",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "clean shower",
+        "white tiled walls",
+        "sparkling grout",
+        "chrome showerhead",
+        "faucet handle",
+        "white shower base",
+        "water droplets",
+        "shampoo bottle on shelf"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "satisfying",
+          "clean"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "fresh aesthetic",
+          "smooth camera movement"
+        ]
+      },
+      "why_kept": "This is the core 'reveal' moment, demonstrating the dramatic transformation and the product's effectiveness. It visually conveys the desired outcome and the primary value proposition."
+    },
+    {
+      "start_time": "00:12.600",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Product_Interaction",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "hand holding bottle",
+        "AZQPOD brand",
+        "HOME STAIN CLEANER label",
+        "deep cleaning formula",
+        "gel applicator tip"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "informative",
+          "practical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear branding",
+          "direct product view",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment explicitly introduces the product responsible for the transformation, providing crucial information about the solution and serving as a direct product call to action."
+    }
+  ]
+}

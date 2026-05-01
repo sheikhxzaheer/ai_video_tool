@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_15.mp4",
+  "detailed_description": "The video opens with a woman yawning, effectively conveying a state of tiredness and the desire for rest. She then demonstrates the use of a 'quality pillow' by settling into a comfortable sleeping position. The scene highlights the product's ability to provide comfort and facilitate a peaceful night's sleep, as she appears deeply relaxed and content while asleep. The text overlay 'quality pillows' reinforces the central message that the product offers superior comfort for a good night's rest.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.090",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Interaction",
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "Night_Routine",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman sleeping",
+        "yawning",
+        "pillow",
+        "bed",
+        "relaxed face"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "relaxed",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "natural",
+          "comfortable"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core. It clearly depicts a 'Problem_State' (tiredness indicated by the yawn), followed by the 'Product_Interaction' (sleeping on the pillow), leading to a 'Positive_Emotion' and 'Calm_Relaxation' (deep sleep). The video effectively demonstrates the benefit of 'quality pillows' for a restful night."
+    }
+  ]
+}

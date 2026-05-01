@@ -1,0 +1,284 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan cap\\BROLL RFS.mp4",
+  "detailed_description": "This video effectively demonstrates the Spartan Red Light Growth Cap, showcasing its core functionality, design, and practical application in daily life. It highlights the internal LED array, simple power-on mechanism, and USB charging. The content emphasizes the cap's portability and seamless integration into various routines, making it a convenient solution for users seeking hair growth benefits while working, commuting, or relaxing.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "cap",
+        "red light LEDs",
+        "hand",
+        "power on",
+        "glowing lights"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dark setting",
+          "bright red lights",
+          "textured background"
+        ]
+      },
+      "why_kept": "This segment provides an immediate visual hook, revealing the product's primary function (red light emission) and its instant activation, which is a key 'Mechanism of Action' and 'Product_Intro'."
+    },
+    {
+      "start_time": "00:32.000",
+      "end_time": "00:43.900",
+      "structural_tags": [
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "black cap",
+        "SPARTAN logo",
+        "rotating product",
+        "marble floor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "smooth rotation",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment clearly displays the cap's external design and branding from multiple angles, serving as an effective 'Product_Standalone' introduction before showing internal features or usage."
+    },
+    {
+      "start_time": "00:44.000",
+      "end_time": "00:48.800",
+      "structural_tags": [
+        "Product_Standalone",
+        "Macro_Detail",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "cap interior",
+        "LED panel",
+        "control unit",
+        "hand holding cap"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "detailed texture",
+          "focus on internal components"
+        ]
+      },
+      "why_kept": "This segment provides a detailed 'Macro_Detail' of the cap's internal LED panel and control unit while off, explaining the product's construction and key components."
+    },
+    {
+      "start_time": "00:59.000",
+      "end_time": "01:13.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process_Labor"
+      ],
+      "visual_keywords": [
+        "charging",
+        "USB cable",
+        "power outlet",
+        "red light indicator",
+        "green light indicator",
+        "hand"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear action",
+          "focus on charging port",
+          "indicator light transition"
+        ]
+      },
+      "why_kept": "This segment demonstrates a crucial 'Product_Interaction' by showing the simple and clear 'The_Process_Labor' of charging the cap, including the visual cues of its charging status."
+    },
+    {
+      "start_time": "01:15.000",
+      "end_time": "01:32.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "hand",
+        "power button",
+        "red light LEDs",
+        "on/off function"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear demonstration",
+          "visible light transition",
+          "easy operation"
+        ]
+      },
+      "why_kept": "This segment showcases the 'Mechanism_Of_Action' of the cap's power button, demonstrating how easily the user can activate and deactivate the red light therapy."
+    },
+    {
+      "start_time": "02:06.000",
+      "end_time": "02:13.900",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "cap",
+        "putting on hat",
+        "red light active",
+        "kitchen counter"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home_kitchen"
+        ],
+        "mood": [
+          "calm",
+          "lifestyle"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural movement",
+          "everyday setting",
+          "cap worn properly"
+        ]
+      },
+      "why_kept": "This segment is an ideal 'ANCHOR' as it shows the full 'Human_Interaction' of a user picking up, activating, and putting on the cap, demonstrating its seamless integration into a 'Morning_Routine'."
+    },
+    {
+      "start_time": "02:39.900",
+      "end_time": "02:58.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Workspace_Office",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man",
+        "cap",
+        "laptop",
+        "phone call",
+        "typing",
+        "office chair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "workspace_office"
+        ],
+        "mood": [
+          "serious",
+          "lifestyle"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "casual wear",
+          "functional use",
+          "multi-tasking"
+        ]
+      },
+      "why_kept": "This 'ANCHOR' segment effectively showcases the cap's 'Lifestyle_Active' integration, with the user wearing it comfortably while performing common daily tasks like working on a laptop and taking a phone call, highlighting its non-intrusive design."
+    },
+    {
+      "start_time": "02:59.000",
+      "end_time": "03:13.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Travel_Transit",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man",
+        "cap",
+        "suitcase",
+        "packing",
+        "zipping"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "top-down",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "convenient"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "organized packing",
+          "product portability"
+        ]
+      },
+      "why_kept": "This segment emphasizes the cap's portability and 'Travel_Transit' suitability, demonstrating how easily it can be packed into a suitcase for on-the-go use, aligning with a 'Lifestyle_Active' attribute."
+    }
+  ]
+}

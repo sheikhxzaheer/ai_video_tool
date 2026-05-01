@@ -1,0 +1,83 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Perfum\\ssstik.io_@nataliesgrwms_1760869131085.mp4",
+  "detailed_description": "This video humorously compares how a young woman applies two different perfumes, demonstrating a common behavioral difference based on product value. For her more affordable £18 perfume, she uses a generous and widespread spraying technique across her neck and hair. In contrast, when applying her £90 perfume, she adopts a more precise and reserved approach, targeting specific pulse points on her neck and wrist. The video effectively highlights the perceived preciousness of higher-priced items through distinct product interaction styles.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.450",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Comparison",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "spraying",
+        "perfume",
+        "pink bottle",
+        "neck",
+        "hair",
+        "uniform",
+        "desk"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "relatable"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual home setting"
+        ]
+      },
+      "why_kept": "This segment establishes the first part of the comparison, showing a liberal application of the cheaper perfume, and introduces the 'vs.' narrative via text overlay."
+    },
+    {
+      "start_time": "00:07.450",
+      "end_time": "00:12.433",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Comparison",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "spraying",
+        "perfume",
+        "clear bottle",
+        "neck",
+        "wrist",
+        "uniform",
+        "desk"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "premium",
+          "relatable"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual home setting"
+        ]
+      },
+      "why_kept": "This segment completes the comparison, demonstrating a more precise and conservative application of the expensive perfume, which is the core punchline and relatable observation of the video."
+    }
+  ]
+}

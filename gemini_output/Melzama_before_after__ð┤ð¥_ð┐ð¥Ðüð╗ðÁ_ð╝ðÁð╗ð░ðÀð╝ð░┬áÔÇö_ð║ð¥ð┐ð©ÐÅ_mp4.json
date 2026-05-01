@@ -1,0 +1,210 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ð╝ðÁð╗ð░ðÀð╝ð░┬áÔÇö ð║ð¥ð┐ð©ÐÅ.mp4",
+  "detailed_description": "The video showcases a woman's comprehensive skincare routine featuring a facial peel. It begins by establishing her natural complexion, followed by the careful application of a dark, clay-like mask. The process highlights the product's powerful action through visible skin peeling and redness, demonstrating its transformative mechanism. This transformation is then managed with a subsequent cleansing step using a foamy product. The routine culminates in a radiant 'after' reveal, presenting her skin as visibly smoother, clearer, and radiating a healthy glow, underscoring the product's transformative effects and her positive emotional response.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.300",
+      "structural_tags": [
+        "Visual_Hook",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bare face",
+        "light makeup",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "natural"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "natural look"
+        ]
+      },
+      "why_kept": "This segment serves as the 'before' shot, establishing the initial state of the subject's skin for a clear transformation comparison."
+    },
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face mask",
+        "headband",
+        "dark mask"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct gaze",
+          "skincare application"
+        ]
+      },
+      "why_kept": "This segment shows the product, a face mask, applied to the skin, initiating the 'process' part of the routine."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "woman",
+        "removing mask",
+        "tissue",
+        "peeling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "active removal",
+          "detailed action"
+        ]
+      },
+      "why_kept": "This segment captures the active process of removing the mask, showcasing the labor involved and direct product interaction."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:14.333",
+      "structural_tags": [
+        "Result_Transformation",
+        "Mechanism_Of_Action",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "woman",
+        "peeling skin",
+        "redness",
+        "skin texture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "raw",
+          "transformative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "visible peeling",
+          "focused on skin condition"
+        ]
+      },
+      "why_kept": "This clip explicitly shows the skin undergoing the peeling process, which is a key 'reveal' of the product's transformative action."
+    },
+    {
+      "start_time": "00:14.500",
+      "end_time": "00:15.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying cleanser",
+        "foamy product"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "routine"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "cleansing action",
+          "foaming texture"
+        ]
+      },
+      "why_kept": "This segment illustrates the next step in the skincare routine, showing the application of a cleanser to complete the treatment."
+    },
+    {
+      "start_time": "00:23.000",
+      "end_time": "00:29.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Visual_Hook",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "woman",
+        "glowing skin",
+        "radiant",
+        "smiling",
+        "light makeup"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "positive",
+          "satisfied",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "final look",
+          "radiant glow",
+          "confident smile"
+        ]
+      },
+      "why_kept": "This is the ultimate 'after' shot, clearly demonstrating the successful transformation and the subject's satisfaction, making it the strongest context-setting and value-showing moment."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pills\\ssstik.io_1745431703225.mp4",
+  "detailed_description": "This video features a long, moving shot of a large industrial factory in Guadalajara at night. The brightly lit facility is shown with multiple chimneys actively emitting plumes of smoke, emphasizing its ongoing operations and significant scale. The video uses on-screen text to identify it as one of the largest factories in Guadalajara and then engages the viewer by asking if they recognize it and know its location.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:46.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "industrial factory",
+        "smoke stacks",
+        "chimneys",
+        "night lights",
+        "trucks",
+        "urban street",
+        "Guadalajara"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "industrial",
+          "energetic",
+          "mysterious"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "night shot",
+          "smooth camera movement",
+          "illuminated structure",
+          "atmospheric smoke"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, showcasing the described 'largest factory in Guadalajara' in its active, nighttime state. The continuous visual presentation of the factory combined with the engaging text overlays directly fulfills the video's purpose of introducing and questioning the viewer about this specific landmark, implicitly demonstrating the 'process/labor' through the active smoke emissions and serving as the 'reveal' of the subject."
+    }
+  ]
+}

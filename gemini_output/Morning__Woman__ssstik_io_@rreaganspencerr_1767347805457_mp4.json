@@ -1,0 +1,434 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Morning\\Woman\\ssstik.io_@rreaganspencerr_1767347805457.mp4",
+  "detailed_description": "This video visually showcases a comprehensive healthy morning routine, emphasizing habits the creator never skips. It begins with waking up early and performing a skincare ritual, followed by a dedicated time for scripture study and personal reflection. The routine further integrates physical well-being through hydration, an extensive cardio and strength training workout, and the consumption of essential supplements. Concluding with a deliberate outdoor walk for fresh air, the video culminates in the preparation and enjoyment of a nutrient-dense, visually appealing breakfast, highlighting the holistic approach to a healthy start to the day.",
+  "segments": [
+    {
+      "start_time": "00:01.900",
+      "end_time": "00:02.500",
+      "structural_tags": [
+        "Morning_Routine",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "alarm clock",
+        "Hatch Restore"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "minimalist aesthetic"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the first habit of waking up and interacting with an alarm clock, establishing the morning routine."
+    },
+    {
+      "start_time": "00:03.400",
+      "end_time": "00:04.200",
+      "structural_tags": [
+        "Morning_Routine",
+        "Product_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "woman",
+        "skincare device",
+        "face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This clip shows the direct application of a skincare product, illustrating the 'skincare' habit as part of the morning routine."
+    },
+    {
+      "start_time": "00:05.700",
+      "end_time": "00:07.100",
+      "structural_tags": [
+        "Morning_Routine",
+        "Product_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "woman",
+        "lip balm",
+        "mirror reflection"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "reflection shot"
+        ]
+      },
+      "why_kept": "This segment highlights another specific skincare step (lip balm application), reinforcing the 'skincare' habit."
+    },
+    {
+      "start_time": "00:09.900",
+      "end_time": "00:11.700",
+      "structural_tags": [
+        "Morning_Routine",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "couch",
+        "book",
+        "blanket"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "cozy setting",
+          "warm lighting"
+        ]
+      },
+      "why_kept": "This demonstrates a quiet, reflective habit of 'scripture study/time with God,' adding a mental/spiritual aspect to the healthy routine."
+    },
+    {
+      "start_time": "00:12.400",
+      "end_time": "00:13.300",
+      "structural_tags": [
+        "Morning_Routine",
+        "Product_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "woman",
+        "insulated mug",
+        "water",
+        "kitchen counter"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "functional"
+        ]
+      },
+      "why_kept": "This clip visually represents the crucial habit of 'hydration,' showing interaction with a water bottle."
+    },
+    {
+      "start_time": "00:14.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Morning_Routine",
+        "Lifestyle_Active",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "woman",
+        "treadmill",
+        "gym"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "modern gym"
+        ]
+      },
+      "why_kept": "This segment shows the start of the exercise routine, highlighting physical activity as a core healthy habit."
+    },
+    {
+      "start_time": "00:16.500",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Morning_Routine",
+        "Lifestyle_Active",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "mirror",
+        "gym clothes",
+        "smile"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "mirror shot",
+          "natural light"
+        ]
+      },
+      "why_kept": "This quick selfie adds a personal touch and shows positive emotion associated with the workout, fulfilling the 'emotional climax' criterion."
+    },
+    {
+      "start_time": "00:17.600",
+      "end_time": "00:19.900",
+      "structural_tags": [
+        "Morning_Routine",
+        "Lifestyle_Active",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "woman",
+        "dumbbells",
+        "lunges",
+        "rows",
+        "gym mat"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear demonstration",
+          "focused action"
+        ]
+      },
+      "why_kept": "These shots clearly demonstrate strength training exercises, showcasing a detailed aspect of the physical movement habit."
+    },
+    {
+      "start_time": "00:21.100",
+      "end_time": "00:22.100",
+      "structural_tags": [
+        "Morning_Routine",
+        "Product_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "hand",
+        "protein powder",
+        "scoop",
+        "cup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct action",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment shows the preparation of supplements, demonstrating the 'protein + electrolytes + colostrum' habit."
+    },
+    {
+      "start_time": "00:22.900",
+      "end_time": "00:23.500",
+      "structural_tags": [
+        "Product_Standalone",
+        "Micro_Nutrients_Anim"
+      ],
+      "visual_keywords": [
+        "hand",
+        "colostrum container",
+        "label"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "product showcase",
+          "clear branding"
+        ]
+      },
+      "why_kept": "This is a direct 'Product_Standalone' shot of one of the key supplements mentioned, adding specific product information."
+    },
+    {
+      "start_time": "00:24.700",
+      "end_time": "00:26.400",
+      "structural_tags": [
+        "Morning_Routine",
+        "Lifestyle_Active",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "outdoor walk",
+        "overcast sky",
+        "rocky terrain"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "scenic view"
+        ]
+      },
+      "why_kept": "This segment shows the habit of 'getting fresh air,' diversifying the types of healthy activities shown."
+    },
+    {
+      "start_time": "00:27.000",
+      "end_time": "00:28.100",
+      "structural_tags": [
+        "Morning_Routine",
+        "Process_Labor",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hands",
+        "cracking eggs",
+        "frying pan",
+        "stove"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "cooking action",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This clearly shows the 'Process/Labor' of preparing the 'nutrient dense breakfast,' leading to the final result."
+    },
+    {
+      "start_time": "00:29.400",
+      "end_time": "00:30.500",
+      "structural_tags": [
+        "Morning_Routine",
+        "Result_Transformation",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "breakfast bowl",
+        "eggs",
+        "avocado",
+        "pomegranate",
+        "toast",
+        "seeds"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "food styling",
+          "appetizing",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment is the ultimate 'Reveal/Result' of a major healthy habit (nutrient-dense breakfast) and serves as the visual culmination of the entire routine, making it the strongest anchor."
+    }
+  ]
+}

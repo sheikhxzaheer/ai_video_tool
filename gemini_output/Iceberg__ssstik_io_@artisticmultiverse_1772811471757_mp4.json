@@ -1,0 +1,115 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Iceberg\\ssstik.io_@artisticmultiverse_1772811471757.mp4",
+  "detailed_description": "This video captivatingly reveals the majestic and often unseen beauty of icebergs, showcasing their massive, intricate structures both above and, predominantly, beneath the ocean's surface. Through a split-view perspective, viewers witness the hidden grandeur, including sculpted underwater formations and vast ice walls. One segment features a diver exploring these depths, highlighting the immense scale and mysterious allure of these natural wonders.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Reveal_Result",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "iceberg",
+        "ocean",
+        "underwater",
+        "above water",
+        "blue sky",
+        "clouds",
+        "reflection"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "ocean",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "awe-inspiring",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "split view",
+          "bright natural light"
+        ]
+      },
+      "why_kept": "This segment introduces the core concept of the video: revealing the massive, hidden underwater structures of icebergs, serving as a strong visual hook and the primary 'reveal/result' moment."
+    },
+    {
+      "start_time": "00:04.900",
+      "end_time": "00:09.900",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "diver",
+        "iceberg wall",
+        "underwater exploration",
+        "light beam",
+        "deep blue water"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "ocean",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "exploratory",
+          "awe-inspiring"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "underwater lighting",
+          "perspective shot"
+        ]
+      },
+      "why_kept": "This segment shows a diver exploring the underwater part of an iceberg, adding a sense of scale, human interaction, and the 'process' of discovery to the theme."
+    },
+    {
+      "start_time": "00:09.900",
+      "end_time": "00:14.900",
+      "structural_tags": [
+        "Reveal_Result",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "iceberg",
+        "underwater caves",
+        "ocean surface",
+        "snowy mountains"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "ocean",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "awe-inspiring",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "split view",
+          "clear water",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment further reinforces the video's core theme by showcasing another distinct and intricate underwater structure of an iceberg, emphasizing its hidden beauty and magnitude."
+    }
+  ]
+}

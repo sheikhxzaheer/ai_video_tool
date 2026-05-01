@@ -1,0 +1,80 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\oMd4QWFn5iP3dkekDTDAI3kpRSmQPBcE3hEUfL.mp4",
+  "detailed_description": "This video presents a striking before-and-after transformation of a man's appearance. It opens with a clear 'before' shot of the subject, a bald man with a beard, smiling outdoors with a golf course in the background. The video then transitions seamlessly to an 'after' shot, revealing the same man now sporting a full, styled head of hair, looking content while seated in a barber's chair and wearing a cape with a barbershop logo. The sequence effectively showcases the dramatic change achieved through a hair restoration service, emphasizing the visual impact and the positive emotional outcome.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.300",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "bald man",
+        "beard",
+        "red polo shirt",
+        "golf course",
+        "smiling face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "positive",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright natural lighting",
+          "clear focus"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state, visually presenting the subject's initial appearance. It acts as a visual hook and sets the context for the transformation that is about to be revealed, implicitly highlighting the 'problem' that the service addresses."
+    },
+    {
+      "start_time": "00:02.300",
+      "end_time": "00:05.109",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man with hair",
+        "styled hair",
+        "beard",
+        "barber cape",
+        "Empire Barbers logo",
+        "content expression",
+        "barber shop interior"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean interior design",
+          "soft studio lighting"
+        ]
+      },
+      "why_kept": "This segment is the core 'after' state, showcasing the complete and successful transformation. It highlights the positive result of the hair restoration service, serving as the main reveal and the video's primary demonstration of value and expertise."
+    }
+  ]
+}

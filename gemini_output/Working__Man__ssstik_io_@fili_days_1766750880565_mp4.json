@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Man\\ssstik.io_@fili.days_1766750880565.mp4",
+  "detailed_description": "The video captures a person's late-night work routine in a sleek, dimly lit home office. It primarily showcases the focused process of video editing, with the individual actively interacting with multiple computer monitors, a mechanical keyboard, and a mouse. The ambiance is set with ambient blue and orange lighting, potted plants, and an organized desk, highlighting a calm yet productive nocturnal work session.",
+  "segments": [
+    {
+      "start_time": "00:12.700",
+      "end_time": "00:38.270",
+      "structural_tags": [
+        "Workspace_Office",
+        "Night_Routine",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "person working",
+        "video editing software",
+        "multiple monitors",
+        "mechanical keyboard",
+        "mouse",
+        "desk setup",
+        "ambient lighting",
+        "plants"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "focused",
+          "productive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "low light",
+          "modern aesthetic",
+          "RGB lighting",
+          "clean desk"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the 'Process/Labor' of video editing and 'Product Interaction' with the computer setup. It shows the individual actively engaged in their work, which is the core action and value being conveyed. The various camera angles enhance the visual appeal without interrupting the core activity."
+    }
+  ]
+}

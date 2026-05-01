@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\With friend\\ssstik.io_@jasmin.hoppe_1760548149359.mp4",
+  "detailed_description": "The video humorously depicts the contrasting personalities of two best friends. One friend embodies a calm and collected demeanor, seen casually eating a snack and putting on sunglasses. In stark contrast, her 'dramatic bestie' in the background is bursting with energy, dancing wildly and playfully singing into a bottle. The scene effectively illustrates the idea that 'Every calm girly needs their dramatic bestie' by showcasing their distinct yet complementary natures in a lively outdoor setting, set to an energetic tune.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.016",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "two women",
+        "street",
+        "eating snack",
+        "sunglasses",
+        "dancing",
+        "singing",
+        "bottle as microphone",
+        "white top",
+        "black top",
+        "jeans",
+        "white pants",
+        "bags"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright daylight",
+          "casual",
+          "dynamic framing",
+          "contrast"
+        ]
+      },
+      "why_kept": "The entire segment clearly demonstrates the core message presented in the overlay text: 'Every calm girly needs their dramatic bestie'. It captures the full interaction and visual contrast between the two friends, from the calm girl eating a snack and putting on sunglasses to the dramatic friend dancing and singing energetically. No part of this segment is 'setup' or 'dead air'; the action and character interaction are consistent throughout, making the entire duration the semantic core."
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Nurse\\ssstik.io_@alirodmd_1770894685115.mp4",
+  "detailed_description": "This video offers a candid glimpse into a 24-hour shift of an OBGYN, showcasing the demanding and varied aspects of her role. It covers a range of professional duties from C-sections and ER consultations for heavy bleeding, miscarriages, pelvic pain, and ectopic pregnancies, to triage visits for labor and broken water. Beyond her medical responsibilities, the video also highlights the personal challenges of managing such a demanding schedule, including finding time for meals, coffee, and notably, breast pumping for her daughter, underscoring the balance between her career and motherhood.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.385",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Behind_The_Scenes",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "scrubs",
+        "surgical cap",
+        "glasses",
+        "smiling",
+        "camera"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "selfie-style, bright lighting"
+        ]
+      },
+      "why_kept": "This segment serves as the visual hook, introducing the OBGYN and setting the tone for her 24-hour shift, conveying her positive attitude despite the demands."
+    },
+    {
+      "start_time": "00:01.385",
+      "end_time": "00:02.135",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "The_Process_Labor",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "hand",
+        "blue scrubs",
+        "shelf"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "neutral lighting"
+        ]
+      },
+      "why_kept": "Shows the initial step of getting ready for the shift, picking up scrubs, symbolizing the start of her duties."
+    },
+    {
+      "start_time": "00:03.201",
+      "end_time": "00:04.901",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "The_Process_Labor",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "hand",
+        "medical supplies",
+        "box",
+        "masks",
+        "shelf"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "neutral lighting, practical"
+        ]
+      },
+      "why_kept": "Illustrates preparation for a C-section, a direct professional task, by showing the retrieval of medical supplies."
+    },
+    {
+      "start_time": "00:05.503",
+      "end_time": "00:06.503",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "The_Process_Labor",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "running water",
+        "sink",
+        "faucet"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "clean, sterile"
+        ]
+      },
+      "why_kept": "Represents the essential act of scrubbing in for surgery, a core part of an OBGYN's work."
+    },
+    {
+      "start_time": "00:10.518",
+      "end_time": "00:11.838",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "breakfast",
+        "scrambled eggs",
+        "sausage",
+        "avocado",
+        "plate"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "casual, functional"
+        ]
+      },
+      "why_kept": "Highlights a personal moment of sustenance during a long shift, showing the need for breaks."
+    },
+    {
+      "start_time": "00:14.394",
+      "end_time": "00:26.386",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "scrubs",
+        "surgical cap",
+        "breast pump bottles",
+        "milk",
+        "thermal bottle",
+        "pumping"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hospital",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "practical, personal"
+        ]
+      },
+      "why_kept": "This is a strong semantic core segment, demonstrating 'the process' of an OBGYN's personal life integrated into her demanding shift. It shows her actively engaged in breast pumping, a unique and relatable 'product interaction' for a working mother in healthcare, highlighting the balance of professional and maternal duties."
+    },
+    {
+      "start_time": "00:29.873",
+      "end_time": "00:30.933",
+      "structural_tags": [
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "pasta",
+        "meal",
+        "black container"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "functional, casual"
+        ]
+      },
+      "why_kept": "Further emphasizes the necessity of fueling throughout a 24-hour shift, showing another meal break."
+    },
+    {
+      "start_time": "00:35.390",
+      "end_time": "00:37.319",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "woman",
+        "scrubs",
+        "surgical cap",
+        "glasses",
+        "smiling",
+        "walking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "selfie-style, bright lighting"
+        ]
+      },
+      "why_kept": "This concluding shot provides a sense of completion for the 24-hour shift, reinforcing the persona and the overall narrative of a busy, yet accomplished, day."
+    }
+  ]
+}

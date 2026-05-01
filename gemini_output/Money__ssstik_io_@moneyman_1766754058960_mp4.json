@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Money\\ssstik.io_@moneyman_1766754058960.mp4",
+  "detailed_description": "This video captures an individual displaying a significant amount of wealth and luxury items. The person is seen filming themselves in a mirror, holding a large stack of banded cash. Concurrently, they are prominently wearing multiple diamond-encrusted watches on one wrist and a heavy diamond chain, showcasing a lavish and opulent lifestyle. The camera focuses on these high-value accessories, emphasizing the details of the watches.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.411",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "High_Energy",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "money",
+        "cash",
+        "stack",
+        "watches",
+        "diamonds",
+        "jewelry",
+        "tattoos",
+        "phone",
+        "mirror",
+        "person",
+        "luxury",
+        "wealth"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "mirror selfie",
+          "bling",
+          "display of wealth",
+          "close-up detail"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the 'Semantic Core' because it continuously showcases the video's main theme: a person proudly displaying a large stack of cash and multiple diamond-encrusted luxury watches. The sequence moves from a general shot of the individual and the money to a detailed close-up of the watches, effectively demonstrating a lavish lifestyle and financial success without any significant 'dead air' or setup/calibration moments."
+    }
+  ]
+}

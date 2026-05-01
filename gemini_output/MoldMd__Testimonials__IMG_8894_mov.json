@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Testimonials\\IMG_8894.mov",
+  "detailed_description": "A young woman enthusiastically endorses 'MoldMD' Mold Spot Remover, highlighting its safety for pets while maintaining a clean home. She smiles directly at the camera, holding the product prominently, and expresses gratitude for its effectiveness. The segment combines a personal testimonial with a clear product display, emphasizing the cleaner's benefits for pet owners.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.133",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Product_Intro",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Social_Proof",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "MoldMD spray bottle",
+        "smiling",
+        "holding product",
+        "tiled background",
+        "long hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "positive",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "well-lit",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it captures a 'Talking Head' delivering key information about the product's safety and effectiveness (UGC_Talking_Head, Social_Proof). It features continuous 'Product Interaction' as the woman holds and presents the product, and an 'Emotional Climax' through her positive facial expression and enthusiastic endorsement. The entire segment directly communicates the product's value."
+    }
+  ]
+}

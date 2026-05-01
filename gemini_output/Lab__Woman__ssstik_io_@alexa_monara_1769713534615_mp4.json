@@ -1,0 +1,186 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Lab\\Woman\\ssstik.io_@alexa_monara_1769713534615.mp4",
+  "detailed_description": "This video compilation showcases the daily activities of a 'lab girl,' providing an aesthetic glimpse into scientific work. It features a scientist in a lab coat working at a fume hood, various laboratory equipment like test tubes and stacked petri dishes, and close-ups of microscopic observations. The montage highlights both the tools and the visual results of laboratory experiments, emphasizing the precision and visual appeal inherent in scientific research.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Aesthetic_Broll",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "lab coat",
+        "lab hood",
+        "long hair",
+        "science"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "scientific environment"
+        ]
+      },
+      "why_kept": "This segment serves as the primary visual hook, introducing the 'lab girl' in her work environment, establishing the core theme and setting for the video."
+    },
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Macro_Detail",
+        "Product_Standalone",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "test tubes",
+        "rack",
+        "purple liquid",
+        "lab equipment",
+        "chemistry"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "scientific"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean",
+          "bright"
+        ]
+      },
+      "why_kept": "This segment shows common lab equipment and materials, contributing to the 'Process/Labor' aspect of scientific work and adding visual detail."
+    },
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Macro_Detail",
+        "Product_Standalone",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "petri dishes",
+        "stack",
+        "clear containers",
+        "lab supplies",
+        "biology"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "scientific"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean",
+          "organized"
+        ]
+      },
+      "why_kept": "This segment further illustrates the lab environment by showcasing essential equipment like petri dishes, reinforcing the scientific context."
+    },
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Reveal_Transformation",
+        "Macro_Detail",
+        "Cellular_Deep_Dive",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "microscope view",
+        "purple background",
+        "white dots",
+        "cells",
+        "particles",
+        "biology"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "macro",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "scientific",
+          "intriguing"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "microscopic",
+          "vibrant purple"
+        ]
+      },
+      "why_kept": "This segment is a 'Reveal/Result' moment, showing the microscopic findings, which is a core outcome of lab work and visually captivating."
+    },
+    {
+      "start_time": "00:05.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Reveal_Transformation",
+        "Macro_Detail",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "petri dish",
+        "pink agar",
+        "bacteria growth",
+        "culture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "scientific observation"
+        ]
+      },
+      "why_kept": "This segment captures both 'Product Interaction' (holding the petri dish) and a 'Reveal/Result' (the cultured medium), demonstrating the hands-on aspect and outcomes of lab work."
+    }
+  ]
+}

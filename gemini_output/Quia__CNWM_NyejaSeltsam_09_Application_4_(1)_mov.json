@@ -1,0 +1,41 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\CNWM_NyejaSeltsam_09_Application 4 (1).mov",
+  "detailed_description": "This video captures a moment from a skincare routine, showing a woman with a pink headband diligently applying a clear gel product to her cheek using a white and gold silicone brush. The focus is on the precise and gentle application of the product, highlighting a step in a self-care ritual. Her calm and focused expression suggests a mindful approach to her skincare.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:06.94",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman applying face gel",
+        "silicone brush",
+        "skincare routine",
+        "pink headband",
+        "face mask application"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "direct view",
+          "skincare aesthetic"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully demonstrates the process of applying a skincare product with a specific tool. It showcases the 'Product Interaction' and 'The Process/Labor' criteria, with the subject calmly performing a key step in a beauty routine, which is the primary action and value presented in the video."
+    }
+  ]
+}

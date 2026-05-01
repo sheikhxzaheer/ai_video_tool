@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Laugh\\Man\\ssstik.io_@jcburnsy_1766750458127.mp4",
+  "detailed_description": "The video captures a man at a dinner table laughing intensely, covering his face with his hands due to the force of his laughter. His friend is also seen smiling in the background. The scene, set in a restaurant, highlights what the on-screen text describes as \"That friend with the iconic laugh,\" emphasizing the unique and memorable nature of his joyous expression.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:23.000",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Face_Reaction",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "man laughing heartily",
+        "hands covering face",
+        "dinner table",
+        "restaurant setting",
+        "friends laughing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "restaurant"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "joyful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "warm lighting",
+          "candid",
+          "social gathering"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it fully encompasses the emotional climax and the core subject of the video: a person exhibiting an 'iconic laugh' as described by the on-screen text. The continuous laughter and the subject's physical reaction (covering his face) clearly demonstrate the 'Emotional Climax' hero moment, making the whole duration essential."
+    }
+  ]
+}

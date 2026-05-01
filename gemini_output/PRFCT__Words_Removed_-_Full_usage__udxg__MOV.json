@@ -1,0 +1,84 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\Words Removed - Full usage\\udxg_.MOV",
+  "detailed_description": "The video features a man enthusiastically introducing 'PRDCT MORNING TANGERINE PULSE,' a hydration fuel and metabolic activator. He showcases the product, highlighting its benefits for energy and performance, mentioning its ingredients like optimized sodium, potassium, glucose, turmeric, apple cider vinegar, and black pepper. He then shares a personal testimonial, stating how essential the product is for him, emphasizing its game-changing ability to provide energy and concluding with a strong call to action for viewers to try it.",
+  "segments": [
+    {
+      "start_time": "00:03.600",
+      "end_time": "00:13.300",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Key_Information",
+        "UGC_Talking_Head",
+        "Ingredient_Highlight",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man",
+        "hand",
+        "product packaging",
+        "tangerine pulse",
+        "hydration fuel",
+        "metabolic activators",
+        "turmeric",
+        "apple cider vinegar",
+        "black pepper"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "close-up on product"
+        ]
+      },
+      "why_kept": "This segment is kept as the primary 'ANCHOR' because it clearly introduces the product, displays its packaging with key features and ingredients, and provides direct verbal information about its benefits as 'Hydration Fuel' and 'Metabolic Activators'. This is a direct product interaction and information delivery."
+    },
+    {
+      "start_time": "00:14.500",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Social_Proof",
+        "Positive_Emotion",
+        "Offer_CTA",
+        "Key_Information",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man",
+        "face",
+        "expression",
+        "talking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "positive",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address",
+          "enthusiastic tone"
+        ]
+      },
+      "why_kept": "This segment acts as strong 'Social Proof' and a 'Call to Action'. The speaker expresses a clear 'Emotional Climax' of satisfaction and reliance on the product, reinforcing its value through personal testimony directly to the viewer. Although the product is not held in this specific frame, it immediately follows the product showcase and provides essential key information and a directive."
+    }
+  ]
+}

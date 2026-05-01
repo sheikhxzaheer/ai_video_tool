@@ -1,0 +1,112 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\Words Removed - Full usage\\dryscoopgirl(2).MOV",
+  "detailed_description": "The video showcases a woman in her car discussing her busy schedule and the need for an energy boost. She introduces a supplement packet, explaining how it helps her maintain her demanding routine, which includes a cycle class and teaching. The core meaning is demonstrated through her preparing and consuming the supplement by mixing it with water, followed by her positive reaction, highlighting the product's role in her active lifestyle.",
+  "segments": [
+    {
+      "start_time": "00:00.600",
+      "end_time": "00:12.500",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Problem_State",
+        "Product_Intro",
+        "Product_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "car interior",
+        "supplement packet",
+        "opening packet",
+        "smiling",
+        "blue top"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment introduces the core problem (busy schedule, needing energy), presents the product as the solution, and shows initial product interaction (holding and opening the packet) while the subject explains its benefit. It sets the context and purpose of the product."
+    },
+    {
+      "start_time": "00:33.000",
+      "end_time": "00:44.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pouring powder",
+        "water bottle",
+        "yellow liquid",
+        "ring",
+        "dark nail polish"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "calm",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up on hands",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the 'Mechanism of Action' by showing the direct interaction of mixing the supplement with water. It's a key part of the product's usage process."
+    },
+    {
+      "start_time": "00:46.000",
+      "end_time": "00:56.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "drinking",
+        "water bottle",
+        "yellow liquid",
+        "smiling",
+        "pointing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "satisfied",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment shows the final step of product interaction (drinking) and captures the 'Emotional Climax' with the subject's clear facial expression of satisfaction and positive verbal feedback, reinforcing the product's benefit."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\A woman is stroking a man's hair\\ssstik.io_1746121022962.mp4",
+  "detailed_description": "This video humorously depicts a common relationship scenario: a man is pinned down in bed by his girlfriend, who is comfortably snuggled on his chest. Despite his visible discomfort and internal sighs, he refrains from asking her to move, recognizing her cozy state. The on-screen text perfectly encapsulates this relatable dilemma, emphasizing the man's affectionate sacrifice for his partner's comfort.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.720",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Positive_Emotion",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "couple",
+        "bed",
+        "cuddling",
+        "man",
+        "woman",
+        "discomfort",
+        "resignation",
+        "smartphone"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "resigned"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "home video",
+          "natural light"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it clearly demonstrates the 'Emotional Climax' and 'Key Information' through the man's relatable discomfort and resignation, juxtaposed with his girlfriend's comfortable embrace and teasing dialogue, all reinforced by the explanatory on-screen text. No trimming is needed as the action and dialogue begin and end perfectly within the clip, adhering to the 'No-Mistake Rule'."
+    }
+  ]
+}

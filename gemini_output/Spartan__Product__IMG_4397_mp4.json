@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Product\\IMG_4397.mp4",
+  "detailed_description": "This video captures a close-up demonstration of the Spartan Root Activator Shampoo. It focuses on a person's hands using the pump dispenser to release the dark, viscous shampoo onto their palm, highlighting the product's texture and the efficiency of its delivery mechanism within a clean, tiled shower setting. The segment emphasizes direct product interaction and its physical characteristics.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.575",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands",
+        "shampoo bottle",
+        "pump dispenser",
+        "shampoo liquid",
+        "brown liquid",
+        "shower tiles"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "clinical",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "clean background",
+          "direct lighting",
+          "high contrast",
+          "minimalist"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it perfectly encapsulates the 'Product Interaction' hero moment. It clearly demonstrates the dispensing action of the shampoo, showcasing the product's texture and the ease of use of its pump. There are no setup, calibration, or post-action dead air frames, adhering to the 'No-Mistake Rule'."
+    }
+  ]
+}

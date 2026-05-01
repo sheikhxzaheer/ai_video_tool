@@ -1,0 +1,90 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ð╝ðÁð╗ð░ðÀð╝ð░ 8.mp4",
+  "detailed_description": "This video vividly illustrates a 'before and after' skin transformation, focusing on the reduction of hyperpigmentation or dark spots. Initially, the subject highlights noticeable dark areas on her face, establishing a clear problem state on June 17th. Subsequently, on June 30th, she proudly displays her face, freshly washed and without makeup or filters, revealing a significant improvement in skin clarity and tone. Her confident and satisfied expression underscores the successful outcome, making the visual comparison the core message of the video.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "dark spots",
+        "pointing at face",
+        "concerned expression",
+        "date overlay 'Junio 17'"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "concerned"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment establishes the crucial 'Before' state of the skin, clearly presenting the problem (dark spots/hyperpigmentation) through the woman's gesture and facial expression, which is essential for the subsequent transformation reveal."
+    },
+    {
+      "start_time": "00:04.900",
+      "end_time": "00:15.533",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction",
+        "UGC_Talking_Head",
+        "Social_Proof",
+        "Calm_Relaxation",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "clear skin",
+        "glowing skin",
+        "smiling",
+        "touching face",
+        "wet hair",
+        "date overlay 'Junio 30'",
+        "text overlay 'Sin filtro sin maquillaje recién lavada mi carita'"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "natural look",
+          "glowing skin"
+        ]
+      },
+      "why_kept": "This segment is the 'After' component, showcasing the dramatic improvement in the woman's skin. Her confident smile and the explicit text stating 'no filter, no makeup, freshly washed' authenticate the impressive transformation, serving as the core reveal and demonstration of positive results."
+    }
+  ]
+}

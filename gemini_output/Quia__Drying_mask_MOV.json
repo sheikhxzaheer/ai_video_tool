@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Drying mask.MOV",
+  "detailed_description": "The video captures a young woman with a charming bunny and bear headband applying a skincare product to her face. She exhibits a calm and contented smile while gently dabbing the shiny liquid, indicating a positive and satisfying experience with her beauty routine. The warm, soft lighting in the background contributes to the serene and personal atmosphere of the moment, highlighting her radiant expression.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.280",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "skincare application",
+        "glowing face",
+        "smiling",
+        "dabbing",
+        "bunny headband",
+        "bear headband"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "warm glow",
+          "casual"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it clearly demonstrates the core action of product interaction (applying skincare) combined with a genuine positive emotional reaction (a contented smile). There is no 'setup' or 'dead air,' making the entire clip a cohesive hero moment of product engagement and user satisfaction."
+    }
+  ]
+}

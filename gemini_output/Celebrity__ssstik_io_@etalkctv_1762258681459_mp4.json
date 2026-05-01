@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Celebrity\\ssstik.io_@etalkctv_1762258681459.mp4",
+  "detailed_description": "The video features Angela Bassett showcasing a vibrant, sequined, and fringed yellow dress. She exudes confidence and joy, dancing and swaying playfully for the camera. This segment highlights the dynamic movement and sparkle of the garment, enhanced by her infectious smile and energetic presence. Her charismatic performance creates a strong emotional climax. This visually appealing display is central to the video's core meaning of glamour and celebration.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Angela Bassett",
+        "yellow sequin dress",
+        "fringe",
+        "dancing",
+        "smiling",
+        "earrings",
+        "glamorous attire"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "premium",
+          "glamorous"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sparkling",
+          "dynamic movement",
+          "elegant",
+          "celebratory",
+          "festive lighting"
+        ]
+      },
+      "why_kept": "This segment captures Angela Bassett's joyful and confident persona while dynamically showcasing the vibrant, sequined, and fringed yellow dress. Her expressive smile and energetic movements create a strong emotional climax and visual hook, embodying the essence of glamour and celebration, making it the most impactful 'hero moment' of the video."
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Acne Before_After\\ssstik.io_@mdcoreea_1768345676302.mp4",
+  "detailed_description": "The video showcases the 7-day journey of using Anua Niacinamide 10% + TXA 4% Serum to address skin spots and acne. It effectively uses an initial visual hook by presenting the problem of blemished skin, followed by a quick glimpse of the desired clear skin before returning to the initial condition. The core of the video demonstrates the consistent daily application of the pink spot eraser serum over a week. It concludes with a triumphant display of significantly clearer skin and the user happily holding the product, signifying a successful transformation and the serum's efficacy.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "face with acne",
+        "red spots",
+        "skin texture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'before' state and the skin problem the product aims to solve, acting as a visual hook."
+    },
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Before_After",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "clear skin",
+        "smooth complexion",
+        "face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This serves as an early 'after' shot, creating intrigue and a compelling 'before/after' contrast at the beginning of the video."
+    },
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Problem_State",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "face with acne",
+        "red spots",
+        "skin texture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "Reiterates the initial problem state, reinforcing the 'before' condition for a clearer comparison later."
+    },
+    {
+      "start_time": "00:04.700",
+      "end_time": "00:05.600",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "hand holding serum bottle",
+        "pink serum",
+        "dropper bottle"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetics",
+          "focused shot"
+        ]
+      },
+      "why_kept": "Introduces the product to be used, connecting it directly to the problem presented earlier."
+    },
+    {
+      "start_time": "00:05.600",
+      "end_time": "00:06.600",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "dropper dispensing serum",
+        "pink liquid",
+        "bottle neck"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "macro",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "detailed texture",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "Highlights the serum's texture and application method, showcasing the product itself in action."
+    },
+    {
+      "start_time": "00:06.600",
+      "end_time": "00:07.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "applying serum to face",
+        "pink liquid on cheek",
+        "Day 1 text"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural skin glow"
+        ]
+      },
+      "why_kept": "Initiates the demonstration of the product's application and marks the beginning of the '7 days' process."
+    },
+    {
+      "start_time": "00:07.400",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Product_Standalone",
+        "Key_Information",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "serum bottle label",
+        "Anua Niacinamide 10% + TXA 4% Serum"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clear product view"
+        ]
+      },
+      "why_kept": "Provides specific product information and branding, establishing credibility and product identity."
+    },
+    {
+      "start_time": "00:08.500",
+      "end_time": "00:09.300",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "massaging serum on face",
+        "Day 3 text",
+        "skin care routine"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "smooth application"
+        ]
+      },
+      "why_kept": "Shows the continuation of the daily treatment, reinforcing the 'process' aspect over time."
+    },
+    {
+      "start_time": "00:09.300",
+      "end_time": "00:10.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "applying serum to face",
+        "pink liquid",
+        "Day 5 text"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "gentle application"
+        ]
+      },
+      "why_kept": "Continues to illustrate the routine application of the serum, showing consistency in the treatment plan."
+    },
+    {
+      "start_time": "00:10.400",
+      "end_time": "00:11.300",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "massaging serum into skin",
+        "Day 5 text",
+        "finger on cheek"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "skin absorption"
+        ]
+      },
+      "why_kept": "Demonstrates the step of massaging the serum into the skin, completing the application process for a given day."
+    },
+    {
+      "start_time": "00:13.400",
+      "end_time": "00:14.300",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "applying serum to face",
+        "Day 6 text",
+        "minimal spots"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "improving complexion"
+        ]
+      },
+      "why_kept": "Further demonstrates the ongoing process and hints at visual improvement on Day 6."
+    },
+    {
+      "start_time": "00:15.300",
+      "end_time": "00:16.300",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "applying serum to face",
+        "Day 7 text",
+        "smooth skin"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "final application",
+          "nearly clear skin"
+        ]
+      },
+      "why_kept": "Marks the final day of the 7-day treatment, signifying the completion of the process leading to the final result."
+    },
+    {
+      "start_time": "00:16.300",
+      "end_time": "00:18.500",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "clear skin",
+        "smiling face",
+        "holding serum bottle",
+        "successful outcome"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "confident expression",
+          "polished appearance"
+        ]
+      },
+      "why_kept": "This is the ultimate 'reveal' segment, showcasing the product's effectiveness with clear skin and a happy user, which is the core value proposition of the video."
+    }
+  ]
+}

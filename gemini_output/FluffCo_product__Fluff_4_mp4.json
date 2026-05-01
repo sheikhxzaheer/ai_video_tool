@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_4.mp4",
+  "detailed_description": "This video effectively demonstrates the key features of a white 'FLUFF Co' pillow. It shows a hand pressing into the pillow, highlighting its responsive and adjustable nature as it compresses and then quickly regains its original shape. The visual interaction emphasizes the pillow's ability to conform and support, making it suitable for personalized comfort.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.486",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Macro_Detail",
+        "Product_Standalone",
+        "Calm_Relaxation",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "pillow",
+        "bed",
+        "white pillow",
+        "pressing",
+        "fluffy",
+        "responsive",
+        "adjusting",
+        "FLUFF Co tag"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "smooth movement",
+          "natural light"
+        ]
+      },
+      "why_kept": "This entire segment is the core demonstration, showcasing the pillow's primary attributes (responsiveness and adjustability) through direct product interaction. It starts and ends precisely with the action, making it a complete and self-contained 'Hero Moment' without any pre or post-action dead air."
+    }
+  ]
+}

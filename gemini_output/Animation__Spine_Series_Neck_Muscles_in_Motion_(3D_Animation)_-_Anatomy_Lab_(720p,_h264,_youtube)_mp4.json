@@ -1,0 +1,188 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\Spine Series Neck Muscles in Motion (3D Animation) - Anatomy Lab (720p, h264, youtube).mp4",
+  "detailed_description": "This video provides a detailed 3D animation of the spine and neck muscles in motion, demonstrating various head movements. It showcases the intricate contraction and relaxation of these muscles during rotation, lateral flexion, extension, hyperextension, and complex circular movements. The animation offers a clear visual explanation of how these muscles facilitate different ranges of motion in the cervical and upper thoracic spine, making it an excellent educational resource for understanding spinal biomechanics.",
+  "segments": [
+    {
+      "start_time": "00:13.500",
+      "end_time": "00:48.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Key_Information",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "human skeleton",
+        "skull",
+        "spine",
+        "neck muscles",
+        "head rotation",
+        "muscle contraction",
+        "anatomical movement"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "anatomical detail",
+          "clear labeling"
+        ]
+      },
+      "why_kept": "This segment is kept as a primary hero moment because it clearly introduces the first specific head movement ('Head Rotation') with a text overlay and vividly demonstrates the muscle contractions and skeletal motion involved from multiple angles. It showcases the core educational value of the video."
+    },
+    {
+      "start_time": "00:48.000",
+      "end_time": "01:18.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "human skeleton",
+        "skull",
+        "spine",
+        "neck muscles",
+        "lateral head flex",
+        "muscle contraction",
+        "anatomical movement"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "anatomical detail",
+          "clear labeling"
+        ]
+      },
+      "why_kept": "This segment is crucial as it displays another distinct head movement ('Lateral Head Flex'), providing clear visual and textual information. The animated muscle action offers valuable insight into the biomechanics of side-bending."
+    },
+    {
+      "start_time": "01:18.000",
+      "end_time": "01:48.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "human skeleton",
+        "skull",
+        "spine",
+        "neck muscles",
+        "head extension",
+        "hyperextension",
+        "muscle contraction",
+        "anatomical movement"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "anatomical detail",
+          "clear labeling"
+        ]
+      },
+      "why_kept": "This segment is a hero moment for demonstrating 'Extension; Hyperextension Head.' It visually explains how the neck muscles work to extend the head backward, a key anatomical function, supported by descriptive text."
+    },
+    {
+      "start_time": "01:48.000",
+      "end_time": "02:22.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "human skeleton",
+        "skull",
+        "spine",
+        "neck muscles",
+        "full circle movement",
+        "muscle contraction",
+        "anatomical movement"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "anatomical detail",
+          "clear labeling"
+        ]
+      },
+      "why_kept": "This segment presents a 'Full Circle' head movement, which is a more complex action combining previous motions. It's essential for illustrating the coordinated effort of multiple muscle groups, making it a valuable demonstration of advanced movement."
+    },
+    {
+      "start_time": "02:43.000",
+      "end_time": "02:54.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "human skeleton",
+        "skull",
+        "spine",
+        "neck muscles",
+        "subtle head movement",
+        "muscle stabilization",
+        "anatomical movement"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "anatomical detail",
+          "clear labeling"
+        ]
+      },
+      "why_kept": "The 'Stay in the Groove' segment is included because it demonstrates a nuanced, precise movement, highlighting muscle stabilization rather than extreme range of motion. This illustrates a different aspect of muscle function crucial for posture and fine motor control."
+    }
+  ]
+}

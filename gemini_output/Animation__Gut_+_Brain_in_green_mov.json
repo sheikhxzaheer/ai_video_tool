@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\Gut + Brain in green.mov",
+  "detailed_description": "This video utilizes a transparent 3D human body model to visually articulate the concept of internal biological activity and connectivity. Initially, the digestive system and other vital organs are depicted with a prominent green glow, symbolizing their active processes. The animation then extends this idea by showcasing a clear white arrow ascending from the glowing torso organs to the highlighted brain, effectively illustrating the crucial communication pathway known as the gut-brain axis.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "human body",
+        "internal organs",
+        "digestive system",
+        "brain",
+        "green glow",
+        "ascending arrow",
+        "gut-brain axis animation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "informative",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "translucent body",
+          "glowing organs",
+          "scientific visualization"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it clearly and concisely demonstrates the 'Mechanism of Action' by visually representing the internal workings and the vital communication pathway (gut-brain axis) within the human body. The entire duration is essential for conveying this scientific concept, making it a complete 'hero moment' of explanation through animation."
+    }
+  ]
+}

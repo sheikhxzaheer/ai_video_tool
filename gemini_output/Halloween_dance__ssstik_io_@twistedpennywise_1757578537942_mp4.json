@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Halloween_dance\\ssstik.io_@twistedpennywise_1757578537942.mp4",
+  "detailed_description": "This video features two individuals dressed as iconic horror movie characters, Pennywise the clown and Jason Voorhees, performing an energetic and synchronized dance routine. Set in a studio bathed in dramatic red lighting, the performers engage in playful and dynamic movements. The full segment serves as a visual spectacle, highlighting the detailed costumes and the characters' spooky yet entertaining personas through their dance.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "High_Energy",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Pennywise costume",
+        "Jason Voorhees costume",
+        "dancing",
+        "horror characters",
+        "red lighting",
+        "studio setting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "spooky"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dramatic red lighting",
+          "costume focus",
+          "dynamic movement"
+        ]
+      },
+      "why_kept": "The entire video constitutes the semantic core as it immediately launches into the main action: two popular horror characters performing a continuous, high-energy dance. There are no setup frames, dead air, or extraneous footage; the performance begins at the start and concludes with the video's end, fulfilling the 'NO-MISTAKE' rule and representing the complete 'process' and 'emotional climax' of the featured dance."
+    }
+  ]
+}

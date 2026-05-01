@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid naughty\\ssstik.io_@badparentingmoments_1763717818736.mp4",
+  "detailed_description": "This video humorously captures a toddler's dramatic reaction to 'bedtime' being called. It begins with the child engrossed in watching television, which is then abruptly turned off by a parent's remote control. Upon hearing the command, the baby immediately collapses onto the floor, face down, in a comical act of protest. The child remains motionless on the floor for the remainder of the clip, perfectly embodying a classic and relatable toddler tantrum.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Interaction",
+        "Emotional_Climax",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Home_Kitchen",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "baby",
+        "toddler",
+        "television",
+        "remote control",
+        "parent's hand",
+        "living room",
+        "wooden floor",
+        "dramatic fall",
+        "protest",
+        "bedtime"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "humorous"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "static shot",
+          "slight zoom"
+        ]
+      },
+      "why_kept": "This segment encompasses the entire humorous narrative, from the setup of the baby watching TV, the parent's interaction turning off the TV, the 'bedtime' command, and the baby's immediate, dramatic, and sustained protest. The entire duration is crucial for establishing context, showing the trigger, and highlighting the full comedic effect of the emotional climax, adhering to the 'No-Mistake Rule'."
+    }
+  ]
+}

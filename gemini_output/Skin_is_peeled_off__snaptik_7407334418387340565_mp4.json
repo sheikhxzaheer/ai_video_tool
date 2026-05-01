@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Skin is peeled off\\snaptik_7407334418387340565.mp4",
+  "detailed_description": "This video captures a precise moment of a cosmetic skin treatment designed to address sun damage. A gloved hand is meticulously peeling off a layer from a client's forehead, visibly removing sun-damaged skin cells. As the film-like layer is lifted, it reveals a stark contrast between the dull, freckled skin and the fresh, lighter skin underneath, illustrating an immediate transformation. The clip emphasizes the process and the instant results of the skin rejuvenation procedure.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:18.828",
+      "structural_tags": [
+        "Problem_State",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Macro_Detail",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "peeling skin",
+        "forehead",
+        "sun damage",
+        "freckles",
+        "gloved hand",
+        "skin treatment",
+        "facial peel",
+        "skin rejuvenation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "transformative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "procedural",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment is kept entirely as it perfectly demonstrates the 'Mechanism of Action' (the peeling process) and the immediate 'Result Transformation' as sun-damaged skin is removed, revealing clearer skin underneath. It also clearly shows 'Human Interaction' with the product and highlights a 'Problem State' being addressed, fulfilling multiple 'Hero Moment' criteria without any dead air or setup/calibration."
+    }
+  ]
+}

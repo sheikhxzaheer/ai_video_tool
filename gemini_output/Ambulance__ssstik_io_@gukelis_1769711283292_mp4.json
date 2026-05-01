@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@gukelis_1769711283292.mp4",
+  "detailed_description": "The video captures a specialized medical procedure taking place in an operating room. A patient, sedated and connected to medical equipment, lies on an operating table. A medical professional in scrubs and a mask is shown meticulously applying a substance, likely liquid nitrogen, to the patient's chest and arm, generating a distinct cloud of cryogenic vapor. This segment highlights the precise and controlled nature of a clinical treatment.",
+  "segments": [
+    {
+      "start_time": "00:06.400",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "The_Process_Labor",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "patient",
+        "operating table",
+        "doctor",
+        "scrubs",
+        "mask",
+        "cryogenic fog",
+        "medical procedure",
+        "breathing tube",
+        "operating room",
+        "liquid nitrogen"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "sterile",
+          "procedural"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it visually demonstrates the primary action and expertise: a medical professional performing a specific cryotherapy or similar cold-based procedure on a patient in an operating room. The distinct cryogenic fog makes it a strong visual hook, and it clearly shows the 'doing the work' aspect of the hero moment criteria."
+    }
+  ]
+}

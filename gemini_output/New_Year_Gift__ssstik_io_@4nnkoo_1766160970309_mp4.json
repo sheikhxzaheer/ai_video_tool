@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\New Year Gift\\ssstik.io_@4nnkoo_1766160970309.mp4",
+  "detailed_description": "This video captures the heartwarming moment a young woman unboxes a Christmas gift, revealing an adorable surprise inside. With anticipation, she unties the pink ribbon and lifts the lid of a gift box, her face lighting up with pure joy and surprise as she discovers a pile of sleepy, fluffy orange kittens nestled within. The video emphasizes the emotional climax of receiving such a delightful and unexpected present, showcasing her genuine happiness and adoration for the furry bundles.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Reveal_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "girl",
+        "glasses",
+        "gift box",
+        "pink ribbon",
+        "unboxing",
+        "kittens",
+        "orange kittens",
+        "cute animals",
+        "smiling",
+        "surprise"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "calm",
+          "happy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "casual attire",
+          "home setting"
+        ]
+      },
+      "why_kept": "This entire segment forms a coherent narrative, beginning with the anticipation of unwrapping, moving to the core 'reveal' of the adorable kittens, and culminating in the subject's clear and sustained emotional climax of happiness and surprise. It perfectly demonstrates the 'product interaction' (unboxing the gift), the 'reveal/result' (the kittens), and the 'emotional climax' (her joyful reaction), fulfilling all hero moment criteria seamlessly from start to finish."
+    }
+  ]
+}

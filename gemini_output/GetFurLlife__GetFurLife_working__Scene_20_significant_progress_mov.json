@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLife_working\\Scene 20_significant progress.mov",
+  "detailed_description": "The video showcases a small, light-brown dog, possibly a Chihuahua mix, wearing a pink bow and a purple collar, sitting on a wooden floor. The dog initially sits calmly, responding to an off-camera voice. As the interaction progresses, the dog's happiness becomes evident through its enthusiastic tail wags and panting with its tongue out, looking up at the speaker. The clip captures a sweet and simple moment of positive human-animal interaction, highlighting the dog's joyful and affectionate demeanor.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.573",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "small dog",
+        "chihuahua",
+        "pink bow",
+        "purple collar",
+        "wooden floor",
+        "tail wagging",
+        "panting",
+        "looking up",
+        "sitting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "happy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "overhead shot",
+          "warm tones"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it fully captures the core interaction and emotional climax of the video: a dog responding to its owner with increasing happiness and playful energy, demonstrated through tail wagging and panting. There is no significant setup, dead air, or non-essential footage to trim, adhering to the 'No-Mistake' rule."
+    }
+  ]
+}

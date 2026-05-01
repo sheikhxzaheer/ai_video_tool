@@ -1,0 +1,146 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad electrolyte drink\\ssstik.io_@nicoleannette__1770994142072.mp4",
+  "detailed_description": "This video features a woman conducting a taste test of Ultima electrolyte powder in pink lemonade flavor. She demonstrates the process of preparing the drink, from scooping the powder into a glass, adding water, and mixing it. After tasting the electrolyte drink, she shares her positive feedback on its flavor, highlighting its zero-calorie and zero-sugar benefits. The video concludes with her recommending the product, emphasizing its pleasant taste and health advantages.",
+  "segments": [
+    {
+      "start_time": "00:04.200",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "electrolyte powder container",
+        "Ultima brand",
+        "pink lemonade flavor"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear focus"
+        ]
+      },
+      "why_kept": "This segment introduces the product clearly, showing the container and specifying the brand and flavor, setting the context for the taste test."
+    },
+    {
+      "start_time": "00:11.500",
+      "end_time": "00:28.900",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Process_Labor",
+        "Result_Transformation",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "scooping powder",
+        "glass",
+        "water",
+        "pink drink",
+        "frother",
+        "mixing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "demonstrative"
+        ]
+      },
+      "why_kept": "This segment demonstrates the full preparation process, showing how the powder is mixed with water and transforms into the final drink, which is a key part of using the product."
+    },
+    {
+      "start_time": "00:31.000",
+      "end_time": "00:36.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "drinking",
+        "straw",
+        "pink beverage",
+        "facial expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "evaluative",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "expressive"
+        ]
+      },
+      "why_kept": "This is the core 'taste test' moment, showing the direct interaction with the prepared product and capturing the immediate, positive emotional reaction of the subject."
+    },
+    {
+      "start_time": "00:56.900",
+      "end_time": "01:07.500",
+      "structural_tags": [
+        "Offer_CTA",
+        "Social_Proof",
+        "UGC_Talking_Head",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "electrolyte powder container",
+        "recommending",
+        "talking to camera"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "positive",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "endorsement"
+        ]
+      },
+      "why_kept": "This segment serves as the video's conclusion, where the subject actively holds and recommends the product, providing key information about its benefits and a clear call to action, reinforcing social proof."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\IMG_1892.MOV",
+  "detailed_description": "This video showcases a client who experienced a disappointing and failed hair transplant in Turkey. He sought assistance from Unyozi Beauty to revitalize his appearance using Scalp Micropigmentation (SMP). The video documents the transformation, starting from his initial sparse hair, through the meticulous SMP process performed by Shirley and Michael, and concluding with the incredible results: a full, seamlessly blended 'shaved head' look. The client regains confidence, demonstrating how SMP effectively erases the appearance of hair loss.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:10.87",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "sparse hair",
+        "balding scalp",
+        "failed hair transplant",
+        "looking down"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean lighting",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This segment introduces the client's initial problem (sparse, failed hair transplant) which sets the necessary context for the service provided. It's the 'before' state."
+    },
+    {
+      "start_time": "00:10.87",
+      "end_time": "00:20.50",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "technician",
+        "SMP tool",
+        "micropigmentation",
+        "shaved head",
+        "scalp"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "meticulous"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused lighting",
+          "detailed shot"
+        ]
+      },
+      "why_kept": "This segment is the core 'doing the work' hero moment, directly demonstrating the Scalp Micropigmentation process, showcasing the expertise and the product interaction. It represents the primary action and solution."
+    },
+    {
+      "start_time": "00:20.50",
+      "end_time": "00:35.33",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Social_Proof",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "shaved head look",
+        "dense hair appearance",
+        "transformed scalp",
+        "blended hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "confident",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean lighting",
+          "various angles"
+        ]
+      },
+      "why_kept": "This segment shows the powerful 'after' transformation, highlighting the successful and natural-looking result of the SMP, serving as direct proof of the service's value."
+    },
+    {
+      "start_time": "00:35.33",
+      "end_time": "00:43.00",
+      "structural_tags": [
+        "Offer_CTA",
+        "Positive_Emotion",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man",
+        "confident expression",
+        "profile view",
+        "back of head",
+        "salon environment"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "confident",
+          "inviting"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean background",
+          "final showcase"
+        ]
+      },
+      "why_kept": "This final segment emphasizes the reclaimed confidence and provides a clear call to action, reinforcing the emotional and practical benefits of the service."
+    }
+  ]
+}

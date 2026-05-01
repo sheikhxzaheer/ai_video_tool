@@ -1,0 +1,179 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold\\ssstik.io_@marireyez00_1769346835304.mp4",
+  "detailed_description": "This video showcases the remarkable effectiveness of Zep Mold Stain & Mildew Stain Remover on a heavily soiled and moldy tablecloth. It begins by revealing the severe initial state of the fabric, riddled with dark mold spots. The product is then applied directly to the stained areas inside a washing machine, first as an overall wash and then specifically targeted at stubborn residual mold. The video climaxes by demonstrating the instant and dramatic dissolution of mold upon direct application, highlighting the cleaner's powerful and rapid action in restoring the fabric's cleanliness.",
+  "segments": [
+    {
+      "start_time": "00:01.200",
+      "end_time": "00:09.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Macro_Detail",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "mold",
+        "tablecloth",
+        "dirty fabric",
+        "black spots",
+        "yellow stains"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "home",
+          "laundry area"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "handheld camera"
+        ]
+      },
+      "why_kept": "To clearly establish the severe mold problem on the tablecloth, providing compelling 'before' visuals that underscore the challenge the product aims to solve."
+    },
+    {
+      "start_time": "00:11.200",
+      "end_time": "00:12.900",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "Zep bottle",
+        "mold stain remover",
+        "bleach cleaner",
+        "yellow bottle"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home",
+          "laundry area"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "stable shot"
+        ]
+      },
+      "why_kept": "To explicitly introduce the specific product being used to treat the mold and mildew stains."
+    },
+    {
+      "start_time": "00:13.600",
+      "end_time": "00:23.900",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "spraying cleaner",
+        "moldy fabric",
+        "washing machine",
+        "hand with glove",
+        "spray bottle"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "home",
+          "laundry area"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "action shot",
+          "focused on hands"
+        ]
+      },
+      "why_kept": "Demonstrates the initial application of the Zep product directly onto the mold stains inside the washing machine, illustrating the 'process' of using the product."
+    },
+    {
+      "start_time": "00:24.800",
+      "end_time": "00:31.900",
+      "structural_tags": [
+        "Result_Transformation",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "partially cleaned fabric",
+        "residual mold",
+        "washing machine interior",
+        "hand pointing at stain"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "home",
+          "laundry area"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "revealing shot",
+          "showing progress"
+        ]
+      },
+      "why_kept": "Shows the result after the first wash cycle, indicating partial success and highlighting the persistence of some stains, which provides context for the subsequent direct and more targeted application."
+    },
+    {
+      "start_time": "00:32.400",
+      "end_time": "00:44.900",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Positive_Emotion",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "spraying cleaner",
+        "mold dissolving",
+        "fabric whitening",
+        "instant cleaning",
+        "bubbles",
+        "black spots vanishing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "home",
+          "laundry area"
+        ],
+        "mood": [
+          "energetic",
+          "shock_surprise"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic action",
+          "instant transformation",
+          "macro focus"
+        ]
+      },
+      "why_kept": "This is the most impactful 'hero moment' where the product's instant and highly effective mold removal capabilities are visually demonstrated, showing a dramatic and immediate transformation of the fabric."
+    }
+  ]
+}

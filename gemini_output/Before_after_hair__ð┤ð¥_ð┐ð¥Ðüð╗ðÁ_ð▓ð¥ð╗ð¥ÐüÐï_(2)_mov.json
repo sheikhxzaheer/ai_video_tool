@@ -1,0 +1,111 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ð▓ð¥ð╗ð¥ÐüÐï (2).mov",
+  "detailed_description": "This video chronicles a man's journey from experiencing significant hair loss at a young age, starting in 2018, which led to a loss of confidence. It visually documents the progression of his receding hairline and bald spots. The narrative then shifts to the introduction of 'Medic Hair' serum. The video showcases the dramatic transformation of his hair, which regrew in just four months, restoring his confidence and allowing him to 'feel himself again,' attributing the positive results to the product.",
+  "segments": [
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:13.900",
+      "structural_tags": [
+        "Problem_State",
+        "Before_After",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "receding hairline",
+        "bald spot",
+        "thinning hair",
+        "lack of confidence",
+        "various camera angles"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "somber"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "close-up shots",
+          "textured hair"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the core problem of hair loss from multiple angles, visually demonstrating the extent of the issue and the implied negative emotional impact. It sets the crucial 'before' state for the product's solution."
+    },
+    {
+      "start_time": "00:14.000",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "Medic Hair product box",
+        "hand holding product",
+        "man in mirror",
+        "phone"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "mirror reflection",
+          "direct product shot"
+        ]
+      },
+      "why_kept": "This segment introduces the product that promises a solution and shows initial interaction with it. It also serves as a bridge, showing the man's hair just before the significant transformation, maintaining a sense of 'before' the product's full effect."
+    },
+    {
+      "start_time": "00:17.000",
+      "end_time": "00:27.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Social_Proof",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "man with full hair",
+        "smiling",
+        "confident expression",
+        "mirror selfie",
+        "man with dogs",
+        "Medic Hair text"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "mirror reflection",
+          "lifestyle shots",
+          "text overlay"
+        ]
+      },
+      "why_kept": "This segment showcases the dramatic 'after' transformation, highlighting the successful hair regrowth and the restoration of confidence. It includes various shots emphasizing the positive change and culminates with the product's name, serving as a direct call to action/credit for the solution."
+    }
+  ]
+}

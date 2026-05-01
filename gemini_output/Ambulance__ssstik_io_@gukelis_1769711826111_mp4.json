@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@gukelis_1769711826111.mp4",
+  "detailed_description": "The video vividly portrays a dedicated medical professional, donning green scrubs, a mask, and a surgical cap, meticulously transporting a patient through a hospital corridor on a gurney. The patient, covered in a green blanket, is shown with an IV drip, underscoring the ongoing medical attention. The professional carefully adjusts the patient's head and the associated medical equipment while skillfully navigating the gurney into a treatment or operating area. This scene effectively highlights the precise and attentive nature of patient care within a clinical environment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:25.500",
+      "structural_tags": [
+        "Human_Interaction",
+        "Workspace_Office",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "medical professional",
+        "patient",
+        "gurney",
+        "hospital hallway",
+        "IV drip",
+        "medical equipment",
+        "green scrubs",
+        "surgical cap",
+        "mask"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "observational camera",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the 'Process/Labor' hero moment. It clearly shows a medical professional actively engaged in the task of patient transport and care, including adjustments to the patient and equipment, without any setup, dead air, or non-essential dialogue."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Spraying\\spraying moldmd 2.mov",
+  "detailed_description": "This video showcases a man demonstrating the use of 'MoldMD Mold Spot Remover' in a clean, tiled shower environment. He is seen actively spraying the product onto the shower walls, indicating ease of application. The sequence concludes with him turning to the camera, smiling broadly, and giving a confident thumbs-up, effectively conveying a positive user experience and implicit endorsement of the product's effectiveness.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Social_Proof",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "shower",
+        "tiled wall",
+        "spray bottle",
+        "MoldMD",
+        "spraying",
+        "smiling",
+        "thumbs up"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "clean"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it perfectly encapsulates product interaction (spraying the MoldMD cleaner), immediately followed by an emotional climax (a satisfied smile) and social proof (a thumbs-up gesture), all while the product is clearly visible. It efficiently demonstrates both the 'doing the work' and the 'emotional climax' aspects of a hero moment without any extraneous setup or dead air."
+    }
+  ]
+}

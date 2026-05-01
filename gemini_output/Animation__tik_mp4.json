@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\tik.mp4",
+  "detailed_description": "This video showcases a 3D animated model of a man's head, dynamically illustrating the progression and various stages of male pattern baldness. The model rotates slowly, allowing viewers to observe a receding hairline and thinning hair at the crown from multiple angles. The animation highlights how hair loss affects different areas of the scalp, providing a comprehensive visual representation of the condition. It acts as a clear visual explanation of the 'problem state' of hair loss.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.680",
+      "structural_tags": [
+        "Problem_State",
+        "Result_Transformation",
+        "Before_After",
+        "Aesthetic_Broll",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "male model",
+        "hair loss",
+        "balding",
+        "receding hairline",
+        "thinning hair",
+        "visible scalp",
+        "head rotation",
+        "3D animation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "informative",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "3D render",
+          "smooth animation",
+          "neutral background",
+          "realistic rendering"
+        ]
+      },
+      "why_kept": "This entire segment serves as the Semantic Core by comprehensively demonstrating the 'Problem_State' of male pattern baldness. The continuous rotation and subtle shifts in hair density and recession effectively illustrate a 'Result_Transformation' or 'Before_After' view of different stages of hair loss from various angles on a 3D model. There is no 'setup' or 'dead air'; the visual information is continuously presented, making the full duration the most impactful demonstration of the condition."
+    }
+  ]
+}

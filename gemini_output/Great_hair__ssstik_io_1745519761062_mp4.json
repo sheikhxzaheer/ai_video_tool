@@ -1,0 +1,149 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1745519761062.mp4",
+  "detailed_description": "The video illustrates a hair styling process using Slick Gorilla products. It begins by introducing a texture comb, followed by the application of Slick Gorilla volumizing matte effect hair styling powder to the client's hair for volume and texture. The barber then meticulously uses the specialized texture comb to shape and define the hairstyle, creating distinct waves and lift. The video concludes by showcasing the polished, textured final look, emphasizing the effectiveness of the Slick Gorilla products in achieving a stylish, modern haircut.",
+  "segments": [
+    {
+      "start_time": "00:00.600",
+      "end_time": "00:01.633",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "Slick Gorilla comb",
+        "hair styling tool",
+        "black comb",
+        "branding"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "product focus"
+        ]
+      },
+      "why_kept": "Introduces one of the main styling tools, the Slick Gorilla comb, setting the context for the styling process."
+    },
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "The_Process/Labor",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "Slick Gorilla hair styling powder",
+        "barber applying powder",
+        "client hair",
+        "rubbing hair",
+        "man smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "professional barber shop",
+          "dynamic camera work"
+        ]
+      },
+      "why_kept": "This segment introduces the styling powder and demonstrates its direct application to the client's hair, showing the initial step of volumizing and texture creation, complete with a positive client reaction."
+    },
+    {
+      "start_time": "00:05.200",
+      "end_time": "00:11.900",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "The_Process/Labor",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "Slick Gorilla texture comb",
+        "unboxing comb",
+        "barber styling hair",
+        "combing hair",
+        "hair texture",
+        "fade haircut"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "professional barber shop",
+          "close-up action",
+          "detailed styling"
+        ]
+      },
+      "why_kept": "This segment shows the introduction of the texture comb and its detailed use by the barber to sculpt and define the hair, showcasing the professional skill and the product's function in creating a specific style."
+    },
+    {
+      "start_time": "00:11.900",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Standalone",
+        "Product_Intro"
+      ],
+      "visual_keywords": [
+        "styled hair",
+        "textured hair",
+        "fade haircut",
+        "Slick Gorilla comb",
+        "client side profile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean finish",
+          "final product shot"
+        ]
+      },
+      "why_kept": "This segment serves as the 'reveal' of the complete and successfully styled hair, prominently featuring the Slick Gorilla comb as the tool that achieved the desired look."
+    }
+  ]
+}

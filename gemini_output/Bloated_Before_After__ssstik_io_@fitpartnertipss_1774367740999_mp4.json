@@ -1,0 +1,121 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated Before_After\\ssstik.io_@fitpartnertipss_1774367740999.mp4",
+  "detailed_description": "The video highlights a woman's significant transformation from experiencing severe bloating and digestive discomfort to achieving a flat, toned stomach. She initially demonstrates her bloated 'before' state, expressing how everything upset her stomach and caused issues with bowel movements. The 'after' state shows her confidently displaying a flat abdomen, attributing this positive change to a product she holds and opens, revealing capsules. She explains that these capsules contain digestive enzymes, ginger, turmeric, and dandelion, which help her feel light and free from daily bloating, concluding with a call to action for viewers to try the product.",
+  "segments": [
+    {
+      "start_time": "00:00.300",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Problem_State",
+        "Before_After",
+        "Negative_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "bloated belly",
+        "touching stomach",
+        "woman",
+        "white crop top",
+        "pink pajama pants"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "home setting",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' problem state, visually demonstrating the bloating and discomfort, which is crucial context for the product's solution and the subsequent transformation."
+    },
+    {
+      "start_time": "00:05.800",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Intro",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Before_After",
+        "Human_Interaction",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "flat stomach",
+        "smiling woman",
+        "holding product bottle",
+        "opening lid",
+        "showing capsules",
+        "crop top",
+        "jeans"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean background",
+          "confident pose"
+        ]
+      },
+      "why_kept": "This segment serves as the main 'hero moment,' showcasing the desired 'after' state, introducing the product responsible for the change, demonstrating direct interaction with the product (opening and showing capsules), and verbally highlighting its key ingredients."
+    },
+    {
+      "start_time": "00:12.700",
+      "end_time": "00:26.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Offer_CTA",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "flat stomach",
+        "smiling woman",
+        "posing",
+        "holding product bottle",
+        "showing capsules",
+        "pointing gesture",
+        "crop top",
+        "jeans"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "confident pose",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment reinforces the positive outcome with further visual confirmation of a flat stomach and a confident demeanor. It also includes a clear call to action, guiding viewers on how to acquire the product, completing the product's narrative."
+    }
+  ]
+}

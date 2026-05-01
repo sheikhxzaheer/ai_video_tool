@@ -1,0 +1,41 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated Before_After\\ssstik.io_@theasianbellygirl_1774372002144.mp4",
+  "detailed_description": "This video visually and audibly demonstrates the sensation of extreme bloating. It features a person's midsection with a noticeably distended belly, partially unbuttoned jeans to accommodate the bloat, and hands resting on the waistband. An overlaid text explains that the video illustrates 'how farts sound when your belly is bloated to the max,' accompanied by a distinct auditory effect. The clip aims to convey the physical state and associated sound of severe abdominal bloating.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.038",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "bloated belly",
+        "unbuttoned jeans",
+        "hands on waistband",
+        "text overlay",
+        "auditory demonstration"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informational",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "static shot",
+          "clear text overlay"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core because it fully captures the intended demonstration: the visual state of a bloated belly, the implied discomfort shown by the unbuttoned jeans, and the auditory representation of the sound described in the text overlay. It perfectly executes the video's stated purpose without any extraneous footage."
+    }
+  ]
+}

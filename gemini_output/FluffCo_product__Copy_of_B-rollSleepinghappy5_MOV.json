@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B-rollSleepinghappy5.MOV",
+  "detailed_description": "This video showcases the comfort and relaxation offered by a 'FLUFF' brand pillow. A woman is seen approaching a bed, then gently laying her head down onto a white pillow. Her posture and closed eyes convey a deep sense of calm and comfort, suggesting the pillow is ideal for sleep or restful relaxation. The visible product tag reinforces the brand identity while the user interaction highlights the product's primary benefit.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Human_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pillow",
+        "bed",
+        "sleeping",
+        "relaxing",
+        "closed eyes",
+        "hand",
+        "FLUFF tag"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "natural light",
+          "intimate"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it directly demonstrates the product's use and primary benefit. The woman's action of laying on the pillow and her subsequent relaxed facial expression with closed eyes clearly illustrate the comfort and peacefulness the 'FLUFF' pillow provides, which is the core value proposition. The visible brand tag on the pillow reinforces product identity."
+    }
+  ]
+}

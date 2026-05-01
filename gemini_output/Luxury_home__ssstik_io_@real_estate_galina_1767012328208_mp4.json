@@ -1,0 +1,69 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury home\\ssstik.io_@real.estate.galina_1767012328208.mp4",
+  "detailed_description": "This video provides a comprehensive tour of a two-story penthouse unit, showcasing its luxurious and modern design. It highlights key features such as an open-concept living area with dining and kitchen spaces, a beautiful staircase leading to the upper floor, and expansive northwest-facing views from large windows. The tour also details the three bedrooms, three and a half bathrooms, including primary and secondary bedrooms with walk-in closets and elegant en-suite bathrooms, one featuring a bathtub with a view.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "01:09.608",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Result_Transformation",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Home_Kitchen",
+        "Workspace_Office",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "entryway",
+        "kitchen",
+        "dining area",
+        "living room",
+        "staircase",
+        "floor-to-ceiling windows",
+        "city view",
+        "snowy landscape",
+        "powder room",
+        "laundry room",
+        "primary bedroom",
+        "walk-in closet",
+        "en-suite bathroom",
+        "double vanity",
+        "walk-in shower",
+        "secondary bedrooms",
+        "bathtub with view",
+        "modern furniture",
+        "hardwood floors"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home",
+          "kitchen",
+          "bathroom",
+          "bedroom",
+          "office"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "luxurious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "modern minimalist",
+          "high ceilings",
+          "bright lighting",
+          "elegant finishes",
+          "panoramic views"
+        ]
+      },
+      "why_kept": "The entire video serves as a continuous 'Product Intro' and 'Reveal/Result' of the penthouse unit. The narrator consistently provides 'Key Information' about the features and layout as the camera moves through the space, making every segment essential for understanding the 'Semantic Core' of what is being showcased. There is no 'Setup & Calibration' or 'Post-Action Dead Air' to trim, and all visual and auditory information contributes directly to presenting the property."
+    }
+  ]
+}

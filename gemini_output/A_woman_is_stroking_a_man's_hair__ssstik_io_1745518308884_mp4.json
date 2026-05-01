@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\A woman is stroking a man's hair\\ssstik.io_1745518308884.mp4",
+  "detailed_description": "A woman in a red fitness outfit attempts a pull-up on her own, then engages in a cheerful interaction with a male spotter. He then assists her in performing a collaborative pull-up, showcasing positive human interaction and active lifestyle in a gym setting. The video highlights shared fitness and support.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:18.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman exercising",
+        "man spotting",
+        "pull-up bar",
+        "assisted pull-up",
+        "gym",
+        "smiling",
+        "talking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym",
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "natural light"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core as it continuously demonstrates the core actions of exercising, human interaction, and support in a gym, with no significant 'setup' or 'dead air' that warrants trimming according to the 'No-Mistake' rule."
+    }
+  ]
+}

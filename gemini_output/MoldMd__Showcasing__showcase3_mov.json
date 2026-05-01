@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\showcase3.mov",
+  "detailed_description": "This video features a woman enthusiastically introducing a cleaning product called \"MoldMD Mold Spot Remover.\" She holds the product, points to its label, and announces that she will be providing an honest review. The segment effectively introduces the product and the video's core purpose, setting an inviting and informative tone for potential viewers.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.225",
+      "structural_tags": [
+        "Product_Intro",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "MoldMD bottle",
+        "spray bottle",
+        "kitchen cabinets",
+        "smiling",
+        "pointing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct address",
+          "home video feel"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it directly introduces the product and the video's intent (an honest review), fulfilling the 'Key Information' and 'Product Interaction' hero moment criteria. The speaker is actively holding and gesturing towards the product while delivering the main point. The segment starts and ends precisely with the action and dialogue, without any setup or post-action dead air, adhering to the 'NO-MISTAKE' rule and the 'Visual Priority Rule' by maintaining product interaction during speech."
+    }
+  ]
+}

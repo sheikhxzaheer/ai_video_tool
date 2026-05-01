@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250521_111012619.mp4",
+  "detailed_description": "This video serves as a direct product introduction for 'PRFCT MORNING TANGERINE PULSE,' a rapid hydration and metabolic energy supplement. The core meaning is to visually present the product's packaging, featuring both the larger pouch and individual stick packs. The segment highlights the product's branding, key benefits such as 'Nutrient Charge' and 'Metabolic Activators,' and specific ingredients like B-vitamins, zinc, turmeric, ginger, and electrolytes listed on the label. The presentation aims to clearly showcase the product's identity and its intended uses.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.359",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Macro_Detail",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "PRFCT MORNING Tangerine Pulse",
+        "supplement pouch",
+        "individual stick packs",
+        "nutritional information",
+        "tangerine flavor",
+        "orange and white packaging",
+        "wooden surface"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "shallow depth of field",
+          "product-focused display",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment functions as the product's introduction and standalone display. It showcases the product packaging, branding, and visible key benefits and ingredients without any extraneous elements, fulfilling the 'Product Intro' and 'Product Standalone' criteria directly. As there is no dynamic action, interaction, or spoken content, this static display of the product constitutes the complete semantic core, presenting the product's identity and visual information."
+    }
+  ]
+}

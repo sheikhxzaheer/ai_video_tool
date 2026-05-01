@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20251211_134926166.mp4",
+  "detailed_description": "This video concisely demonstrates the user-friendly interaction with a 'Tangerine Pulse' supplement. It captures the process of unboxing the single-serving stick packs from a larger package, followed by a hand picking up, opening, and pouring the contents of one packet. The focus is on the ease and simplicity of preparing the supplement, highlighting its convenient design for quick consumption in a daily routine. The entire sequence serves as a direct showcase of the product's practical application.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.917",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hand",
+        "Tangerine Pulse",
+        "supplement",
+        "stick pack",
+        "powder",
+        "white counter",
+        "opening packet",
+        "pouring"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it fully encompasses the primary 'Product Interaction' and 'Mechanism_Of_Action'. It visually demonstrates the entire process of engaging with the 'Tangerine Pulse' supplement, from presenting the packets to opening and pouring a single serving. There is no 'Setup & Calibration' or 'Post-Action Dead Air', making the entire duration a continuous and valuable demonstration of the product's ease of use and functionality."
+    }
+  ]
+}

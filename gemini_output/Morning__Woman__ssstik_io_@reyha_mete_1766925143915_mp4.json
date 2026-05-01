@@ -1,0 +1,288 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Morning\\Woman\\ssstik.io_@reyha_mete_1766925143915.mp4",
+  "detailed_description": "This video captures a serene and productive morning routine. It begins with the individual waking up at 7:00 AM, opening curtains, and tidying the bed, setting a calm tone for the day. The routine includes preparing coffee with an espresso machine and making a simple yet thoughtful breakfast. Interspersed with these domestic activities are clear segments of engaging with work, showcasing focused time on a laptop and sketching in a notebook, suggesting a creative or professional endeavor. A short walk with a leashed cat outdoors adds a charming lifestyle element, reinforcing the balanced atmosphere of the morning.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.200",
+      "structural_tags": [
+        "Morning_Routine",
+        "Calm_Relaxation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "person waking up",
+        "looking out window",
+        "bedside table",
+        "lamp"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "calm",
+          "serene"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "minimalist aesthetic"
+        ]
+      },
+      "why_kept": "Establishes the beginning of the morning routine and sets a calm tone."
+    },
+    {
+      "start_time": "00:03.200",
+      "end_time": "00:05.900",
+      "structural_tags": [
+        "Morning_Routine",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "person standing",
+        "opening curtains",
+        "window view"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "calm",
+          "fresh"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light entering",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "Continues the morning routine, showing the transition from sleep to waking and bringing in natural light."
+    },
+    {
+      "start_time": "00:05.900",
+      "end_time": "00:09.600",
+      "structural_tags": [
+        "Morning_Routine",
+        "Human_Interaction",
+        "The_Process"
+      ],
+      "visual_keywords": [
+        "making bed",
+        "arranging pillows",
+        "blanket"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "calm",
+          "orderly"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean white bedding",
+          "organized space"
+        ]
+      },
+      "why_kept": "Shows a core part of a morning routine, representing tidiness and starting the day organized."
+    },
+    {
+      "start_time": "00:09.600",
+      "end_time": "00:14.900",
+      "structural_tags": [
+        "Morning_Routine",
+        "Home_Kitchen",
+        "Product_Interaction",
+        "The_Process"
+      ],
+      "visual_keywords": [
+        "making coffee",
+        "espresso machine",
+        "purple mug",
+        "stirring coffee",
+        "latte art"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "indulgent"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "modern kitchen",
+          "aesthetic drink prep"
+        ]
+      },
+      "why_kept": "Demonstrates a key morning ritual, showcasing product interaction with the espresso machine and the process of making a beverage, which is a common start to a productive day."
+    },
+    {
+      "start_time": "00:14.900",
+      "end_time": "00:17.300",
+      "structural_tags": [
+        "Workspace_Office",
+        "Human_Interaction",
+        "The_Process",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "working on laptop",
+        "typing",
+        "drinking coffee",
+        "notebook",
+        "desk setup"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "workspace"
+        ],
+        "mood": [
+          "productive",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean desk",
+          "natural light",
+          "plant decor"
+        ]
+      },
+      "why_kept": "Transitions to the work aspect of the routine, showing active engagement with professional tools (laptop) and the enjoyment of the prepared coffee."
+    },
+    {
+      "start_time": "00:17.300",
+      "end_time": "00:21.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Lifestyle_Active",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "cat walking",
+        "cat on leash",
+        "walking outdoors",
+        "grass",
+        "leaves"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "pet interaction",
+          "sunny day",
+          "autumn leaves"
+        ]
+      },
+      "why_kept": "Adds a lifestyle and personal touch, contributing to the overall calm and balanced mood of the morning routine."
+    },
+    {
+      "start_time": "00:21.000",
+      "end_time": "00:23.500",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Human_Interaction",
+        "The_Process",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "preparing breakfast",
+        "peeling egg",
+        "squeezing lemon",
+        "tomatoes",
+        "bagel"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "nurturing",
+          "fresh"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "food preparation",
+          "healthy eating"
+        ]
+      },
+      "why_kept": "Highlights another key 'process' moment of the morning, focusing on preparing food and interacting with kitchen tools."
+    },
+    {
+      "start_time": "00:23.500",
+      "end_time": "00:27.400",
+      "structural_tags": [
+        "Workspace_Office",
+        "Human_Interaction",
+        "The_Process",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "sketching in notebook",
+        "drawing",
+        "using laptop",
+        "design work"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "workspace"
+        ],
+        "mood": [
+          "creative",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "organized desk",
+          "design tools",
+          "creative workflow"
+        ]
+      },
+      "why_kept": "Emphasizes the productive and creative aspect of the day, showcasing the 'doing of work' through sketching and continued laptop engagement."
+    }
+  ]
+}

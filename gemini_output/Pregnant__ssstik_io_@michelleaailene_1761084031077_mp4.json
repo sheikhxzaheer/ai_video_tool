@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pregnant\\ssstik.io_@michelleaailene_1761084031077.mp4",
+  "detailed_description": "The video features a pregnant woman with long dark hair, dressed in a form-fitting gray ribbed dress, showcasing her advanced pregnancy. She poses playfully and dramatically, gently cradling her visibly large baby bump while making various facial expressions, including a pout and surprised looks. A voiceover provides commentary, admiring her size and beauty, humorously referring to her as a \"mammoth\" and \"cutesy.\" The entire video focuses on her body and expressions related to her pregnancy.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.064",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "pregnant woman",
+        "long dark hair",
+        "gray ribbed dress",
+        "pregnant belly",
+        "hands on belly",
+        "pouting lips",
+        "surprised expression",
+        "white door"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "simple background"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core because it continuously showcases the pregnant woman's large belly and her emotional expressions and poses, which are central to the video's content. It effectively captures the 'reveal' of her pregnant body and her playful interaction with it, enhanced by an admiring voiceover."
+    }
+  ]
+}

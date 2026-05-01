@@ -1,0 +1,146 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Gym\\Woman\\ssstik.io_@puckvandrenth_1769680306478.mp4",
+  "detailed_description": "This video provides a concise demonstration of a lower body workout routine using a Smith machine. It features a woman performing three key exercises: heel-elevated squats, hip thrusts, and Romanian Deadlifts (RDLs). The video highlights the setup and execution of each movement, offering a clear visual guide for effective leg and glute training within a gym setting. The core meaning is to showcase a structured lower body workout that can be completed with a single piece of equipment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.415",
+      "structural_tags": [
+        "Visual_Hook",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "Woman",
+        "gym",
+        "smith machine",
+        "fitness attire",
+        "workout intro text"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "instructional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "modern gym setting",
+          "dynamic camera"
+        ]
+      },
+      "why_kept": "This segment introduces the video's theme, 'LOWER BODY: 3 exercises (smith machine)', setting the context for the workout demonstration that follows. It also shows the initial positioning for the first exercise."
+    },
+    {
+      "start_time": "00:03.415",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "Woman",
+        "smith machine",
+        "heel elevated squats",
+        "barbell",
+        "workout",
+        "exercise demonstration"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "instructional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "modern gym setting",
+          "focused on action"
+        ]
+      },
+      "why_kept": "This segment directly demonstrates the first core exercise, heel-elevated Smith machine squats, showcasing the 'process/labor' of the workout."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "Woman",
+        "smith machine",
+        "hip thrust",
+        "bench",
+        "barbell",
+        "workout",
+        "exercise demonstration"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "instructional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "modern gym setting",
+          "focused on action"
+        ]
+      },
+      "why_kept": "This segment demonstrates the second core exercise, Smith machine hip thrusts, providing another 'process/labor' moment essential to the workout routine."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:14.333",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "Woman",
+        "smith machine",
+        "Romanian Deadlifts (RDLs)",
+        "barbell",
+        "workout",
+        "exercise demonstration"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "instructional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "modern gym setting",
+          "focused on action"
+        ]
+      },
+      "why_kept": "This segment demonstrates the third and final core exercise, Smith machine Romanian Deadlifts (RDLs), completing the instructional sequence of the workout."
+    }
+  ]
+}

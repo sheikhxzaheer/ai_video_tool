@@ -1,0 +1,84 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Couple\\ssstik.io_@twotrends_1761832126742.mp4",
+  "detailed_description": "This video humorously contrasts the idealized 'expectation' of how a couple sleeps, showing a perfectly spooning pair in a serene setting, with the 'reality' of tangled bodies, scattered pillows, and less-than-graceful positions. It effectively uses a popular meme format to highlight the relatable, messy, and often amusing truth about sharing a bed, creating a lighthearted observation on relationship dynamics during sleep.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.117",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "couple sleeping",
+        "spooning",
+        "bed",
+        "pillows",
+        "white bedding",
+        "grey bedding"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "clean aesthetic",
+          "warm lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the 'expectation' part of the meme, setting up the idealized visual hook and introducing the core theme of sleeping as a couple. It's crucial for the contrast that follows."
+    },
+    {
+      "start_time": "00:09.117",
+      "end_time": "00:10.150",
+      "structural_tags": [
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "couple sleeping",
+        "tangled",
+        "scattered pillows",
+        "bed",
+        "white bedding",
+        "grey bedding"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "humorous"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "relatable messiness"
+        ]
+      },
+      "why_kept": "This segment presents the 'reality' part of the meme, delivering the humorous punchline and completing the 'expectation vs. reality' contrast. It's the core reveal and emotional climax of the video."
+    }
+  ]
+}

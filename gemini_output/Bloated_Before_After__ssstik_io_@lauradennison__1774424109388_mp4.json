@@ -1,0 +1,81 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated Before_After\\ssstik.io_@lauradennison__1774424109388.mp4",
+  "detailed_description": "This video presents a personal transformation focused on stomach appearance. It opens with a 'before' shot, showing a woman's stomach which she describes as it was before cutting out sugar. The video then transitions to an 'after' shot, taken three weeks later, revealing a noticeably flatter and more toned midsection. The comparison highlights the positive impact of dietary changes, specifically eliminating sugar, on body composition.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.700",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "stomach",
+        "bloated",
+        "pajamas",
+        "bathroom",
+        "belly fat"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "informative",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "personal footage",
+          "self-shot"
+        ]
+      },
+      "why_kept": "This segment establishes the initial 'problem state' and the 'before' part of the transformation, providing the essential starting point for the video's core message about dietary impact."
+    },
+    {
+      "start_time": "00:07.100",
+      "end_time": "00:15.549",
+      "structural_tags": [
+        "Before_After",
+        "Result_Transformation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "stomach",
+        "toned",
+        "pajamas",
+        "bedroom",
+        "flat stomach"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "personal footage",
+          "self-shot"
+        ]
+      },
+      "why_kept": "This segment presents the 'after' result, completing the 'Before/After' transformation shown in the video. It demonstrates the positive change achieved, which is crucial for the video's core message."
+    }
+  ]
+}

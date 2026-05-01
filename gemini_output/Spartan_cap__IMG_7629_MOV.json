@@ -1,0 +1,76 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan cap\\IMG_7629.MOV",
+  "detailed_description": "The video demonstrates a unique light therapy baseball cap. It intricately showcases the integration of an innovative LED panel, capable of emitting red, blue, and purple light, into a standard black cap. The process begins with introducing the cap, followed by the detachment of the internal LED panel. The panel's distinct light modes are then activated and displayed independently, before it is seamlessly re-inserted and adjusted within the cap, highlighting the product's design and functionality for hair wellness.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.600",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "black cap",
+        "hands",
+        "detaching insert",
+        "Spartan logo"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear focus"
+        ]
+      },
+      "why_kept": "This segment introduces the light therapy cap, displaying its external appearance and initiating the core process of detaching the internal LED panel, which is a crucial first step in demonstrating the product's unique design and modularity."
+    },
+    {
+      "start_time": "00:16.700",
+      "end_time": "01:04.800",
+      "structural_tags": [
+        "Product_Standalone",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "LED panel",
+        "red light",
+        "blue light",
+        "purple light",
+        "black cap",
+        "inserting panel",
+        "adjusting cap"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear focus"
+        ]
+      },
+      "why_kept": "This segment showcases the core functionality of the LED panel by activating its various light modes (red, blue, purple). It then demonstrates the seamless re-insertion and adjustment of the panel into the cap, concluding with the fully integrated and operational product, highlighting its practical use and transformation."
+    }
+  ]
+}

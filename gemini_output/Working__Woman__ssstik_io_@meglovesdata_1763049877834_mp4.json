@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Woman\\ssstik.io_@meglovesdata_1763049877834.mp4",
+  "detailed_description": "The video captures a 'Point of View' of a woman, identified as a 'girl in tech', diligently working at her brightly lit home office. She is actively engaged with her three-monitor setup, typing on her laptop while two large external screens display lines of code and web interfaces. The scene effectively portrays the intensive and often immersive nature of tech work. The semantic core culminates in a humorous and relatable moment of everyday frustration as she pauses her focused work, scanning her desk with a look of exasperation, and asks, 'Where the f*ck is my mouse?' highlighting a common and authentic experience for anyone working with computers.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.330",
+      "structural_tags": [
+        "Visual_Hook",
+        "Workspace_Office",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "woman",
+        "typing",
+        "laptop",
+        "monitors",
+        "code",
+        "desk",
+        "mouse",
+        "purple lighting",
+        "neon sign",
+        "plants"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "purple lighting",
+          "neon accents",
+          "modern desk setup"
+        ]
+      },
+      "why_kept": "This segment encompasses the entire 'hero moment' of the video. It begins with the 'process/labor' of a tech worker, showing active 'product interaction' with a multi-monitor setup. The overlaid text provides 'key information' and acts as a 'visual hook'. The segment culminates in an 'emotional climax' with a 'face reaction' and verbal expression of 'negative emotion' (frustration) when the subject realizes her mouse is missing, a highly relatable moment that delivers the core message and humor of the video."
+    }
+  ]
+}

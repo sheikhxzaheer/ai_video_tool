@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Man\\ssstik.io_@sleeping_grandpa1_1762942388508.mp4",
+  "detailed_description": "The video captures an elderly man in a deep, peaceful sleep on a comfortable recliner couch. He is covered with a blanket and has his hand resting near his face, conveying a sense of profound relaxation. Soft background music plays, enhancing the serene and cozy atmosphere of the indoor setting. The entire segment focuses on this quiet moment of rest.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:18.064",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man sleeping",
+        "recliner couch",
+        "blanket",
+        "pillow",
+        "peaceful",
+        "relaxed"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "relaxed",
+          "cozy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "low light",
+          "serene atmosphere",
+          "static shot"
+        ]
+      },
+      "why_kept": "This entire segment constitutes the semantic core of the video, as it continuously depicts the primary action (sleeping) and the associated emotional state (calm, relaxation). There is no distinct setup, specific product interaction, or post-action 'dead air' to trim, making the full duration the most accurate representation of the content's meaning. The sleeping man's expression is the 'emotional climax' of peace."
+    }
+  ]
+}

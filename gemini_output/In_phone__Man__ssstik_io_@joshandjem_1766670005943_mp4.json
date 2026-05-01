@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\In phone\\Man\\ssstik.io_@joshandjem_1766670005943.mp4",
+  "detailed_description": "This video captures a relatable and humorous moment where a boyfriend is engrossed in his phone. An overlaid audio track lists 'signs your husband is unhappy,' specifically mentioning 'always on his phone.' As this phrase plays, the boyfriend looks up from his device with a clear, surprised, and slightly indignant expression, caught in the act. The clip effectively uses sound to elicit a direct, unscripted facial reaction, highlighting the irony of the situation.",
+  "segments": [
+    {
+      "start_time": "00:00:03.500",
+      "end_time": "00:00:14.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man on phone",
+        "surprised expression",
+        "looking up",
+        "couch",
+        "kitchen in background"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "casual setting",
+          "spontaneous reaction"
+        ]
+      },
+      "why_kept": "This segment captures the core interaction: the boyfriend is shown on his phone (the 'problem state' described by the audio), and then his facial reaction (surprise/indignation) as the audio explicitly calls out the behavior. This 'emotional climax' is the clear 'Hero Moment' where the video's premise and humor are fully realized. It includes the lead-up to the reaction and the reaction itself, making it a self-contained narrative."
+    }
+  ]
+}

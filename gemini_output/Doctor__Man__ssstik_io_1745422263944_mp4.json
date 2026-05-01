@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Man\\ssstik.io_1745422263944.mp4",
+  "detailed_description": "A medical professional, dressed in blue scrubs and a face mask, is meticulously preparing a syringe in a sterile clinical environment. The video highlights his focused demeanor as he carefully handles the medical instruments, showcasing the precise steps involved in the preparation for a procedure. The setting includes a treatment room with a sink and mirror, reflecting another individual who appears to be observing or filming, adding a layer of context to the professional's actions. The continuous, steady action throughout the clip emphasizes the diligent nature of the work.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:20.30",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "man",
+        "medical professional",
+        "scrubs",
+        "face mask",
+        "syringe",
+        "vial",
+        "clinic",
+        "treatment room",
+        "mirror",
+        "sink",
+        "wooden cabinet"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "clinical"
+        ],
+        "mood": [
+          "serious",
+          "clinical",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "clean aesthetic",
+          "direct address",
+          "steady camera"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it fully captures the core action of a medical professional preparing a syringe, demonstrating the 'Process/Labor' and 'Product Interaction' from the very beginning to the end of the clip without any discernible setup, dead air, or irrelevant footage. The subject maintains a professional and focused presence throughout."
+    }
+  ]
+}

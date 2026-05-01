@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad mold spray\\IMG_0175.MOV",
+  "detailed_description": "This video concisely captures the routine action of a person disposing of used cleaning supplies, specifically a Clorox spray bottle and other items, into a dual pull-out kitchen trash bin system. The segment highlights the practical aspect of household waste management and the ease of using integrated kitchen storage solutions for cleanup. The clear visual and auditory cue of items being dropped into the bin makes it an impactful demonstration of a common domestic task.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.833",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "hand",
+        "trash can",
+        "Clorox spray bottle",
+        "kitchen cabinets",
+        "waste disposal",
+        "pull-out bin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "routine action",
+          "practical demonstration"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully captures the professional action of waste disposal in a kitchen context. It demonstrates product interaction (with both the cleaning product and the trash bin system) and represents a complete, concise 'process' moment without any setup or post-action dead air, adhering to the 'no-mistake' rule for short, action-packed clips."
+    }
+  ]
+}

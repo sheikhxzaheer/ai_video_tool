@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\shutterstock_3444948465.mov",
+  "detailed_description": "This animation visually demonstrates the mechanism of action of a hair treatment. A golden droplet, representing a potent ingredient or serum, precisely lands on and is absorbed by a hair follicle within the scalp. The substance then spreads around the hair root, followed by the depiction of a strong, healthy hair strand among others. The sequence effectively highlights the targeted delivery and transformative effects of the product, suggesting nourishment and rejuvenation at a microscopic level.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:05.10",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Macro_Detail",
+        "Micro_Nutrients_Anim",
+        "Ingredient_Highlight",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "golden droplet",
+        "hair follicle",
+        "scalp",
+        "hair shaft",
+        "absorption",
+        "nourishment",
+        "healthy hair",
+        "animated particles"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "premium",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "3D animation",
+          "bright",
+          "clean",
+          "soft lighting",
+          "scientific visualization"
+        ]
+      },
+      "why_kept": "This entire video segment is kept as it constitutes a complete 'Hero Moment' demonstrating the 'Mechanism of Action' and 'Result Transformation' of a hair treatment. It visually shows a substance (represented by the golden droplet) applying to a hair follicle, being absorbed, and subsequently illustrating the hair's improved state, making it a powerful visual explanation of a product's efficacy without any extraneous footage."
+    }
+  ]
+}

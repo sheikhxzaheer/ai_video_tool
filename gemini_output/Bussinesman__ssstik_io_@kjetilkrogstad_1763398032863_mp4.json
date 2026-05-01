@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bussinesman\\ssstik.io_@kjetilkrogstad_1763398032863.mp4",
+  "detailed_description": "This video features a man in a full suit and red tie exuberantly moving and splashing in clear turquoise ocean water under a bright blue sky. His actions are highly energetic and expressive, characterized by wide arm movements, vocalizations, and a joyful facial expression. The scene suggests a release of energy or a celebration, with a distant ship and port visible in the background, adding to the expansive outdoor setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.021",
+      "structural_tags": [
+        "Visual_Hook",
+        "High_Energy",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "suit",
+        "red tie",
+        "ocean",
+        "water",
+        "splashing",
+        "dancing",
+        "energetic movement",
+        "joy",
+        "ship",
+        "port"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clear water",
+          "dynamic camera work"
+        ]
+      },
+      "why_kept": "This entire segment showcases the core action of the video: a man enthusiastically moving and splashing in the ocean while fully dressed in a suit. His exaggerated movements, facial expressions, and the high energy create a strong 'emotional climax' and 'visual hook,' making the entire duration essential for conveying the video's playful and unexpected nature."
+    }
+  ]
+}

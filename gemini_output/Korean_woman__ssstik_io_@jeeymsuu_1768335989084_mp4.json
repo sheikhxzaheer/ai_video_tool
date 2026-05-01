@@ -1,0 +1,57 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Korean woman\\ssstik.io_@jeeymsuu_1768335989084.mp4",
+  "detailed_description": "This video captures the elegant arrival of a woman, likely a celebrity, at a public event. Dressed in a flowing white gown, she exits a black luxury vehicle onto a red carpet. She engages with the enthusiastic crowd, smiling, waving, and giving a peace sign as photographers capture her entrance. The footage culminates with her graceful walk into a modern building, showcasing a quintessential red carpet appearance.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:20.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "woman in white dress",
+        "red carpet",
+        "black car",
+        "chauffeur",
+        "crowd",
+        "phones",
+        "cameras",
+        "smiling",
+        "waving",
+        "peace sign",
+        "building entrance"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "premium",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "night event",
+          "red carpet",
+          "celebrity arrival",
+          "paparazzi style",
+          "fan interaction",
+          "bright lighting on subject"
+        ]
+      },
+      "why_kept": "This segment captures the complete sequence of a woman making a grand entrance at an event. It showcases her elegant attire, positive interaction with a cheering crowd, and the overall atmosphere of a high-profile public appearance, making it the central and most valuable part of the video."
+    }
+  ]
+}

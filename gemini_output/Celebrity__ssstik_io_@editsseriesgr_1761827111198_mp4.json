@@ -1,0 +1,181 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Celebrity\\ssstik.io_@editsseriesgr_1761827111198.mp4",
+  "detailed_description": "This video captures Kim Kardashian's professional makeup application process, showcasing the meticulous steps involved in creating her signature look. It highlights various product interactions, from baking the face with powder to applying detailed eyeshadow and eyeliner. The footage includes close-ups of different makeup products being expertly used by the artists. Throughout the transformation, Kim displays subtle positive emotions, culminating in a radiant smile. The video provides a behind-the-scenes glimpse into the artistry and precision required for high-glamour makeup, demonstrating the layered application techniques that define her iconic style.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Behind_The_Scenes",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "makeup application",
+        "powder",
+        "baking",
+        "face",
+        "brush",
+        "contouring"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "professional setup"
+        ]
+      },
+      "why_kept": "This segment shows the initial crucial step of applying face powder for baking and contouring, setting the base for the makeup look."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Behind_The_Scenes",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "eyeshadow",
+        "brush",
+        "palette",
+        "eyelid",
+        "blending",
+        "eye makeup"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "detailed work"
+        ]
+      },
+      "why_kept": "This segment demonstrates the detailed process of applying and blending eyeshadow, a key element of the eye makeup look."
+    },
+    {
+      "start_time": "00:20.000",
+      "end_time": "00:24.000",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "smiling",
+        "happy",
+        "reaction",
+        "looking up"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural expression",
+          "engaging facial expression"
+        ]
+      },
+      "why_kept": "This segment captures a clear positive emotional response from Kim Kardashian, adding an engaging human element and a hint of satisfaction with the ongoing process."
+    },
+    {
+      "start_time": "00:42.000",
+      "end_time": "00:50.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "eyeliner",
+        "lower lash line",
+        "precise application",
+        "eye pencil",
+        "eye makeup"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed work",
+          "professional technique"
+        ]
+      },
+      "why_kept": "This segment highlights the precision and detail involved in applying eyeliner and working on the lower lash line, showcasing advanced makeup techniques."
+    },
+    {
+      "start_time": "00:55.000",
+      "end_time": "01:03.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "blush",
+        "highlighter",
+        "lip liner",
+        "lip gloss",
+        "final touches",
+        "finished look"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "complete makeup process"
+        ]
+      },
+      "why_kept": "This segment shows the final stages of the makeup application, including cheek contour/highlight and lip definition, bringing the transformation to completion."
+    }
+  ]
+}

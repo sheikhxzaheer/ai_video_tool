@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\Bald spot\\532531331_AE4425E9DF09DBCF5174C32B878E318A_video_dashinit.mp4",
+  "detailed_description": "This video features a man directly addressing the camera, announcing the start of 'Phase 1' and that a 'landing place' has been 'released' or 'approved.' He maintains a serious and direct gaze throughout, emphasizing the importance of the information being conveyed. His demeanor and the specific, albeit brief, update suggest he is providing a critical instruction or status report. The setting appears to be indoors with simple lighting, focusing entirely on the speaker's message.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.900",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Serious"
+      ],
+      "visual_keywords": [
+        "man",
+        "speaking",
+        "white t-shirt",
+        "necklace",
+        "bald",
+        "direct gaze",
+        "gesturing",
+        "indoor room"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address",
+          "well-lit",
+          "simple background"
+        ]
+      },
+      "why_kept": "This segment is the entirety of the video and contains the speaker's direct communication of key information, specifically announcing 'Phase 1' and the approval of a 'landing place.' This constitutes the complete semantic core as per the 'Key Information' hero moment criteria, with no extraneous content to trim."
+    }
+  ]
+}

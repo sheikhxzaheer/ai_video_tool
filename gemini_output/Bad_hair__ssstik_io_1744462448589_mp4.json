@@ -1,0 +1,115 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\ssstik.io_1744462448589.mp4",
+  "detailed_description": "This video documents a man's 6-month journey using Kirkland minoxidil to combat hair loss. It begins by showcasing his initial receding hairline, clearly establishing the problem state. The video then progresses to highlight key milestones, particularly at the 3-month mark where new hair growth becomes noticeable. The final segment presents a significant transformation after six months, demonstrating substantial hair regrowth, and concludes with a call to action for viewers to subscribe and follow the ongoing evolution of his treatment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.600",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "receding hairline",
+        "sparse hair",
+        "forehead wrinkles",
+        "man's hand",
+        "hair loss"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "self-shot",
+          "documentary style"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state, highlighting the problem of hair loss and setting the context for the entire transformation narrative."
+    },
+    {
+      "start_time": "00:22.000",
+      "end_time": "00:31.960",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "hair regrowth",
+        "new hair follicles",
+        "denser hairline",
+        "man's hand",
+        "forehead"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "hopeful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "progress update",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates an early, positive result of the treatment at the 3-month mark, showing tangible new hair growth and reinforcing the product's effectiveness."
+    },
+    {
+      "start_time": "00:42.500",
+      "end_time": "00:53.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Offer_CTA",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "fuller hair",
+        "improved hairline",
+        "man smiling",
+        "man's hand",
+        "subscription prompt"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "satisfied",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "final reveal",
+          "engaging presentation"
+        ]
+      },
+      "why_kept": "This segment shows the most significant hair regrowth, serving as the ultimate 'after' reveal. It also includes the man's positive reaction and a clear call to action, driving viewer engagement."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\Hyrox Training B-Roll\\IMG_4388.MOV",
+  "detailed_description": "The video showcases a man performing an intense sled pull exercise on an outdoor rooftop gym. He demonstrates a full range of motion, pulling a weighted sled with a rope across an artificial turf track. The action emphasizes physical exertion and dedicated strength training, with modern urban buildings forming a dynamic backdrop to the workout.",
+  "segments": [
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:49.000",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "High_Energy",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "Man",
+        "Sled pull",
+        "Rope",
+        "Weights",
+        "Outdoor gym",
+        "Urban skyline",
+        "Exercise"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "rugged"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "cloudy sky",
+          "artificial turf",
+          "modern architecture"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully captures the main action and value of the video: a man actively performing an intensive sled pull exercise. It demonstrates the 'Process/Labor' of the workout without any setup or post-action dead air, adhering to all trimming rules."
+    }
+  ]
+}

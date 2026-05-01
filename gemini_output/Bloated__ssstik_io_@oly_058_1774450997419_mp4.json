@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated\\ssstik.io_@oly_058_1774450997419.mp4",
+  "detailed_description": "The video features a woman in comfortable pink striped pajamas, smiling confidently as she records herself in a mirror. She gently touches her stomach, highlighting the relaxed fit and comfort of the loungewear. The overall mood is positive and self-assured, showcasing the pajamas in a home setting. This segment serves as a lifestyle presentation of the sleepwear, emphasizing ease and body positivity.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:18.899",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink pajamas",
+        "striped loungewear",
+        "mirror selfie",
+        "smiling",
+        "touching belly",
+        "home setting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "mirror shot",
+          "relaxed pose"
+        ]
+      },
+      "why_kept": "This segment comprehensively captures the core message of the video, which is a woman confidently showcasing comfortable pajamas. It features clear product interaction (wearing and touching the pajamas), a strong emotional climax (her consistent positive smile), and the entire duration effectively presents the lifestyle and aesthetic without any setup or post-action dead air."
+    }
+  ]
+}

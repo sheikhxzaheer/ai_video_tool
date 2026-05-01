@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ðÆð¥ð╗ð¥ÐüÐï ð│ð¥ÐÇÐÅÐé.mp4",
+  "detailed_description": "This video captures a unique and dramatic hair burning technique performed by a barber at P Square Salon. The barber expertly applies a lit match to the client's hair, allowing it to catch fire, and then uses combs to skillfully manage and spread the flames, likely to style the hair or remove split ends. The client's facial expressions convey a mix of initial surprise and slight apprehension, evolving into a relaxed and amused demeanor, highlighting the unusual nature of this fiery haircut experience.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:26.540",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Shock_Surprise",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "barber",
+        "client",
+        "hair",
+        "fire",
+        "flames",
+        "comb",
+        "haircut",
+        "styling",
+        "salon"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "surprising"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic lighting from fire",
+          "clear action",
+          "focus on process",
+          "client reaction"
+        ]
+      },
+      "why_kept": "This entire segment demonstrates the core value and action of the video: the fire haircut technique. It clearly shows the process (Mechanism_Of_Action), the interaction between the barber and client (Human_Interaction), and the client's emotional response (Face_Reaction, Positive_Emotion, Shock_Surprise), without any significant setup or post-action dead air to trim."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold bad treatment\\ssstik.io_@homecleaners.ph_1769250213220.mp4",
+  "detailed_description": "This video showcases a disinfection fogging process in a modern home environment. A person operates a handheld fogging device, releasing a dense mist that visibly spreads throughout the living area, including a hallway, staircase, and around potted plants. The entire clip demonstrates the 'mechanism of action' of the disinfection device, showing how it effectively fills a space with disinfectant fog.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:15.93",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Aesthetic_Broll",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "person holding fogging machine",
+        "white mist",
+        "disinfection fogging",
+        "modern home interior",
+        "staircase",
+        "potted plants",
+        "wooden doors"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "modern interior design",
+          "smooth camera movement"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the core action of disinfection fogging, showcasing the product in use (product interaction), its mechanism of action (emitting fog), and the immediate effect (mist filling the room). The entire duration is relevant as it continuously illustrates the process without setup or dead air, making it the complete semantic core."
+    }
+  ]
+}

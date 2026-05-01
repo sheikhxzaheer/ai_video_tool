@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Korean woman\\ssstik.io_@yurim1228_1762002161598.mp4",
+  "detailed_description": "This video features a young woman dancing and posing in a casual, indoor setting. She exhibits positive emotions through her expressions and movements, showcasing a relaxed and aesthetic lifestyle. The video captures her full body as she moves to music, conveying a cheerful and engaging mood.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.410",
+      "structural_tags": [
+        "Visual_Hook",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman dancing",
+        "woman posing",
+        "smiling",
+        "crop top",
+        "hoodie",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "casual outfit",
+          "vertical video"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it captures the subject's full performance of dancing and posing, which is the primary action and value presented in the video. There are no setup frames or post-action dead air; the subject starts immediately and continues the performance until the end, conveying a positive emotional climax and a general lifestyle aesthetic."
+    }
+  ]
+}

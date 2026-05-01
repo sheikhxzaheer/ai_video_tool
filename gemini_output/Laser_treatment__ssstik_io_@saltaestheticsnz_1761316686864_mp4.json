@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Laser treatment\\ssstik.io_@saltaestheticsnz_1761316686864.mp4",
+  "detailed_description": "This video captures the intricate process of a carbon laser facial treatment. A skilled technician, wearing gloves, meticulously guides a specialized laser device over the client's face, which is prepped with a dark, charcoal-like mask. The laser pulses are visibly interacting with the mask and skin, creating subtle wisps of smoke, indicating the treatment's action. The client wears protective eyewear, maintaining a calm demeanor throughout the precise procedure.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:26.584",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Clinical"
+      ],
+      "visual_keywords": [
+        "laser device",
+        "carbon mask",
+        "facial treatment",
+        "gloved hands",
+        "protective eyewear",
+        "skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "steady camera",
+          "focus on action",
+          "professional"
+        ]
+      },
+      "why_kept": "This entire segment serves as the 'The Process/Labor' hero moment, showcasing the professional application and mechanism of action of the carbon laser facial treatment. It directly demonstrates the core value and expertise without any setup, dead air, or speaking segments that would require trimming based on the visual priority rule. The full duration represents the continuous workflow."
+    }
+  ]
+}

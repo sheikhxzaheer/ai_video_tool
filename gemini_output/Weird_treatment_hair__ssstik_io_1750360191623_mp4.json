@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ssstik.io_1750360191623.mp4",
+  "detailed_description": "This video captures a lighthearted and playful moment where three women are seen humorously applying various liquids and shaving cream onto a bald man's head. The man, a good sport, maintains a cheerful smile throughout the process, while the women surrounding him are visibly laughing and enjoying the mischievous activity. The scene highlights the fun interaction and positive emotions shared between them.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:59.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Playful",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "bald man",
+        "women",
+        "shaving cream",
+        "liquids",
+        "bottles",
+        "head massage",
+        "laughter",
+        "smiling",
+        "dining table"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "static shot"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it continuously demonstrates the core action of women playfully applying substances to the man's head, his positive reaction (smiling), and their shared laughter. There are no discernible 'setup' or 'post-action dead air' moments; the interaction begins at the start of the video and continues until the end, fulfilling the 'NO-MISTAKE' rule for continuous action and emotional climax."
+    }
+  ]
+}

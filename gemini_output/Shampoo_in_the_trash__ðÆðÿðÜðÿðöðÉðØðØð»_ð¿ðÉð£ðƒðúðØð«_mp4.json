@@ -1,0 +1,167 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Shampoo in the trash\\ðÆðÿðÜðÿðöðÉðØðØð» ð¿ðÉð£ðƒðúðØð«.mp4",
+  "detailed_description": "This video introduces Bondi Boost HG Dry Shampoo as a superior alternative to traditional dry shampoos, emphasizing its clean formulation free from talc and benzene. It highlights the product's benefits, such as leaving hair clean, soft, amazing-smelling, and, crucially, without any white residue. The creator encourages viewers to discard their old, 'crusty, dusty' dry shampoos and demonstrates the easy application of Bondi Boost.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.400",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "trash can",
+        "dry shampoo bottle",
+        "discarding product"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment serves as an engaging visual hook, immediately addressing the problem of outdated dry shampoos and prompting the viewer to consider switching, thereby setting up the context for the featured product."
+    },
+    {
+      "start_time": "00:01.400",
+      "end_time": "00:02.400",
+      "structural_tags": [
+        "Product_Intro",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "Bondi Boost box",
+        "pink packaging",
+        "brand name",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This segment introduces the specific product (Bondi Boost) and highlights a key differentiator (no talc and benzene), establishing the product's core value proposition early on."
+    },
+    {
+      "start_time": "00:02.400",
+      "end_time": "00:08.700",
+      "structural_tags": [
+        "Product_Standalone",
+        "Result_Transformation",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "Bondi Boost dry shampoo bottle",
+        "rosemary oil",
+        "white residue claim",
+        "product packaging",
+        "tissue paper"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft focus",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This close-up shot of the product provides a detailed view while text overlays clearly communicate the primary benefits and key features, such as zero white residue, which is a common concern with dry shampoos."
+    },
+    {
+      "start_time": "00:08.700",
+      "end_time": "00:10.400",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Product_Interaction",
+        "Offer_CTA",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "woman",
+        "Bondi Boost dry shampoo bottle",
+        "gesturing",
+        "direct address"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct eye contact",
+          "authentic"
+        ]
+      },
+      "why_kept": "This segment serves as the main anchor, featuring the creator directly endorsing the product with conviction and a clear call to action (to discard old dry shampoos), engaging the audience personally and driving the core message."
+    },
+    {
+      "start_time": "00:10.400",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying dry shampoo",
+        "hair roots",
+        "product spray"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "practical demonstration",
+          "clear action"
+        ]
+      },
+      "why_kept": "This final segment visually demonstrates the product's application, showing 'the process' of using the dry shampoo, which reinforces its ease of use and the implied immediate results."
+    }
+  ]
+}

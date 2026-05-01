@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_20.mp4",
+  "detailed_description": "This video highlights a key feature of a comforter: its ability to resist clumping. A hand gently presses and moves through the soft, white bedding, visually demonstrating how the filling maintains an even distribution. The on-screen text reinforces the message that the product 'doesn't clump,' emphasizing its quality and consistent comfort.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:02.13",
+      "structural_tags": [
+        "Product_Interaction",
+        "Result_Transformation",
+        "Calm_Relaxation",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "comforter",
+        "white bedding",
+        "bedding",
+        "lace cuff",
+        "pushing",
+        "doesn't clump"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "relaxed"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "focus on texture",
+          "gentle movement"
+        ]
+      },
+      "why_kept": "This segment is the entire semantic core as it directly demonstrates the product's primary benefit (anti-clumping) through clear physical interaction and is supported by a key information text overlay. It perfectly showcases the 'Product Interaction' and 'Result Transformation' hero moments without any unnecessary footage."
+    }
+  ]
+}

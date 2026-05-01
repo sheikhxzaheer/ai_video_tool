@@ -1,0 +1,61 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Coffee\\ssstik.io_@laura.byrnes0_1774426543100.mp4",
+  "detailed_description": "The video captures a woman enjoying a peaceful moment at an outdoor cafe. Dressed stylishly in a beige coat and white turtleneck, she sips from a coffee cup and smiles, embodying a sense of calm and self-care. A Prada bag rests on the table beside her, adding a touch of luxury to the scene, while the on-screen text 'Girl therapy ☕' and a voiceover about deserving a 'little treat' reinforce the theme of personal indulgence and relaxation. The clip highlights a desirable lifestyle centered around self-care and aesthetic pleasure.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.633",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Product_Interaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "blonde hair",
+        "cafe",
+        "coffee",
+        "latte",
+        "Prada bag",
+        "beige coat",
+        "white turtleneck",
+        "satin skirt",
+        "sneakers",
+        "sunglasses",
+        "table",
+        "chair",
+        "stirring",
+        "sipping",
+        "smiling",
+        "London street"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "aesthetic",
+          "relaxed"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "soft focus background",
+          "warm tones",
+          "candid feel"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it perfectly encapsulates the 'Semantic Core' of the video. It demonstrates the 'Product Interaction' (drinking and stirring coffee), 'Emotional Climax' (woman smiling and looking content), and 'Key Information' (the 'Girl therapy' text overlay and the accompanying voiceover about a 'little treat'). There is no setup, post-action dead air, or irrelevant footage to trim, making the entire duration a concentrated 'hero moment' of self-care and lifestyle portrayal."
+    }
+  ]
+}

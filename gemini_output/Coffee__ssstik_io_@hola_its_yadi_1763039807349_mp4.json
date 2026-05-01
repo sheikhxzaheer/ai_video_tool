@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Coffee\\ssstik.io_@hola.its.yadi_1763039807349.mp4",
+  "detailed_description": "The video captures a woman driving, confidently enjoying an iced coffee in her car. The overlaid text \"POV: running on cafecito and high energy vibes only ☕️ 🦞\" perfectly frames her actions. She sips her drink with visible enjoyment, making animated facial expressions and subtle body movements to the rhythm of the music. The clip showcases a blend of product interaction (drinking coffee) and emotional climax, portraying a high-energy, positive lifestyle while on the go.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Face_Reaction",
+        "Travel_Transit",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "driving",
+        "car",
+        "iced coffee",
+        "drinking",
+        "straw",
+        "hand gestures",
+        "smiling",
+        "head nodding"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clean aesthetics",
+          "dynamic movement"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it fully encapsulates the core message: a woman actively enjoying her coffee with high energy and positive vibes while driving. There are no extraneous frames, and the entire duration showcases product interaction, emotional climax (high energy facial expressions and movements), and key lifestyle information conveyed by the text overlay, making it a complete semantic core."
+    }
+  ]
+}

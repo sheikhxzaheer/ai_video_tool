@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B-rollRelaxing1.MOV",
+  "detailed_description": "The video captures a serene moment of a woman enjoying a relaxing routine in bed. She is seen comfortably propped up, engrossed in reading a book, wearing black pajamas. The core of the scene unfolds as she reaches for a ceramic mug, takes a leisurely sip of its contents, and then continues reading. The interaction concludes with her placing the mug back down, followed by a soft, satisfied smile, perfectly encapsulating a moment of calm and personal enjoyment.",
+  "segments": [
+    {
+      "start_time": "00:02.500",
+      "end_time": "00:48.360",
+      "structural_tags": [
+        "Product_Interaction",
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Night_Routine",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "book",
+        "mug",
+        "reading",
+        "sipping",
+        "smiling",
+        "pajamas"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "warm tones",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it encapsulates all key 'Hero Moments' criteria: the 'Product Interaction' (reaching for, holding, sipping from, and placing the mug), the 'Process/Labor' (reading the book), and an 'Emotional Climax' (the satisfied smile at the end). It effectively conveys the overall theme of calm relaxation and a personal routine with a beverage."
+    }
+  ]
+}

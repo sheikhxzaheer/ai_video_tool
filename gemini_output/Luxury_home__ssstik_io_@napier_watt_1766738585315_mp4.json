@@ -1,0 +1,60 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury home\\ssstik.io_@napier.watt_1766738585315.mp4",
+  "detailed_description": "The video showcases a luxurious, multi-level penthouse apartment, opening with a view of the apartment number 11.1 on a dark wooden door. It then transitions to a grand interior featuring a modern living room with a curved sofa, a sleek dining area, and a high-end kitchen. The tour extends to a balcony offering breathtaking night-time city views, including a crescent moon. The video continues to highlight the apartment's sophisticated design, including a grand spiral staircase, leading to an upper floor lounge, emphasizing the spaciousness and premium aesthetic throughout. The repeated text \"imagine coming home to this\" underscores the aspirational lifestyle depicted.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:20.407",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Home_Kitchen",
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "luxury apartment",
+        "penthouse",
+        "city skyline",
+        "night view",
+        "modern interior",
+        "curved staircase",
+        "living room",
+        "kitchen",
+        "dining room",
+        "balcony",
+        "high-rise building",
+        "chandelier",
+        "elegant design"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "outdoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "aspirational"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "night lighting",
+          "modern design",
+          "sleek",
+          "elegant",
+          "dark wood",
+          "metallic accents",
+          "city lights"
+        ]
+      },
+      "why_kept": "This entire segment serves as the continuous 'reveal' of a luxurious and aspirational living space. It comprehensively demonstrates the high-end features, spaciousness, and stunning city views of the apartment, aligning perfectly with the 'Result/Reveal' hero moment criteria. The consistent visual showcasing of the home, combined with the repeated aspirational text, makes the entire duration essential for conveying the core message and value."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ssstik.io_1747651932901.mp4",
+  "detailed_description": "This video showcases a unique, multi-step scalp treatment applied to a man's head, which has visible red spots. The process begins with lemon juice being squeezed onto the scalp, followed by the application of two different white powders, labeled as 'Duzzz' (salt) and 'Garbonatt' (baking soda). A second squeeze of lemon juice initiates a significant foaming reaction, demonstrating the chemical interaction of the ingredients. Finally, soda water is poured onto the head, further enhancing the fizzing, before the mixture is vigorously massaged into the scalp.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:33.729",
+      "structural_tags": [
+        "Visual_Hook",
+        "Process_Labor",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Problem_State",
+        "Human_Interaction",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "lemon squeeze",
+        "powder application",
+        "soda water pour",
+        "foaming reaction",
+        "scalp massage",
+        "shaved head",
+        "red spots",
+        "barber basin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "fast-paced editing",
+          "clear product visibility",
+          "gloved hands"
+        ]
+      },
+      "why_kept": "The entire video constitutes a continuous demonstration of a unique scalp treatment, acting as the primary value proposition. It effectively captures the 'Process/Labor' and 'Product Interaction' from start to finish, including the 'Mechanism_Of_Action' through the visual foaming, without any unnecessary setup or post-action dead air."
+    }
+  ]
+}

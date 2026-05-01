@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ðôð░ÐÇð¢ðÁ ð▓ð¥ð╗ð¥ÐüÐüÐÅ .mp4",
+  "detailed_description": "This video showcases a man applying hair oil as part of his personal care routine. He dispenses 'The Good Habit Hybrid Oil' by ARKIVE into his hand and then massages it into his hair, demonstrating its application. The video strategically overlays text questions, 'Do you boys use hair oil? If not... why not?', inviting audience engagement and conversation around men's hair care and product usage, while visually presenting a grooming ritual.",
+  "segments": [
+    {
+      "start_time": "00:00.600",
+      "end_time": "00:16.816",
+      "structural_tags": [
+        "Product_Interaction",
+        "Product_Intro",
+        "Process_Labor",
+        "Key_Information",
+        "Human_Interaction",
+        "Morning_Routine",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair oil",
+        "applying product",
+        "pink bottle",
+        "curly hair",
+        "facial hair",
+        "direct gaze"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "engaging",
+          "personal"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "clean background",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it encapsulates the entire message and action of the video. It begins with the product interaction (dispensing oil), clearly introduces the product, demonstrates the full process of applying hair oil, and includes the critical overlaid text asking the central question of the video. The final eye contact reinforces engagement, making it a complete and self-contained 'hero moment' without any unnecessary setup or dead air."
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Couple\\ssstik.io_@apsmilelive_1763808844145.mp4",
+  "detailed_description": "This video introduces a highly-rated duvet, showcasing its exceptional softness, comfort, and aesthetic appeal. It features various clips of people enjoying and interacting with the plush, white duvet, emphasizing its role in providing daily comfort and a feeling of luxury. The video highlights the duvet as the 'best purchase all year' and concludes by promoting a 50% off sale, encouraging viewers to experience its quality themselves.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.883",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "couple",
+        "bed",
+        "white duvet",
+        "snuggling",
+        "comfortable"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "cozy atmosphere"
+        ]
+      },
+      "why_kept": "This segment immediately establishes the product's primary benefit (comfort and intimacy) through human interaction, serving as a strong visual hook and product introduction."
+    },
+    {
+      "start_time": "00:02.166",
+      "end_time": "00:03.216",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "person",
+        "white duvet",
+        "hugging",
+        "embracing",
+        "fluffy"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "dynamic movement"
+        ]
+      },
+      "why_kept": "This clip reinforces the product's extreme comfort and the user's satisfaction, visually demonstrating its plushness and appeal."
+    },
+    {
+      "start_time": "00:05.000",
+      "end_time": "00:07.083",
+      "structural_tags": [
+        "Product_Interaction",
+        "Calm_Relaxation",
+        "Morning_Routine",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "person",
+        "white duvet",
+        "snuggling",
+        "hiding",
+        "comfortable"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "inviting atmosphere"
+        ]
+      },
+      "why_kept": "This segment effectively conveys the deep comfort and daily desire to snuggle into the duvet, highlighting its benefit for morning routines."
+    },
+    {
+      "start_time": "00:11.216",
+      "end_time": "00:12.683",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hand",
+        "white duvet",
+        "pressing",
+        "softness",
+        "texture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed shot",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This close-up interaction directly demonstrates the 'unbelievably soft' quality of the duvet, a key feature mentioned in the voiceover."
+    },
+    {
+      "start_time": "00:14.283",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Product_Standalone",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "white duvet",
+        "bed",
+        "bedroom",
+        "pillows",
+        "modern decor",
+        "sale",
+        "price"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "bright natural light"
+        ]
+      },
+      "why_kept": "This segment showcases the duvet's aesthetic appeal in a complete bedroom setting and crucially delivers the call to action, highlighting the 50% off sale."
+    }
+  ]
+}

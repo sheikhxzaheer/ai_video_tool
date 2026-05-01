@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ssstik.io_1747652710442.mp4",
+  "detailed_description": "This video demonstrates a natural home remedy for dandruff, itching, and seborrhea. It shows a person applying a slice of lemon directly to a shaved scalp, emphasizing that it might sting a little but promises to free the user from common scalp issues. The action highlights the process of rubbing the lemon and the visual presence of flakes, suggesting the treatment of a pre-existing condition.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.867",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Problem_State",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "hand",
+        "lemon slice",
+        "scalp",
+        "hair",
+        "man",
+        "rubbing",
+        "dandruff flakes",
+        "barber shop"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "informative",
+          "practical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "bright lighting",
+          "handheld perspective"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the semantic core because it visually demonstrates the 'super utility tip' of using lemon on the scalp. It shows the 'product interaction' (lemon on skin), the 'mechanism of action' (rubbing), implicitly addresses a 'problem state' (flakes visible, text refers to dandruff/seborrhea), and promises a 'result transformation' (freedom from scalp issues). The text overlay provides crucial information that makes the visual understandable and valuable. There are no redundant frames or setup/post-action dead air to trim."
+    }
+  ]
+}

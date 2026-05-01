@@ -1,0 +1,58 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury hotel\\ssstik.io_@hotelairportdeepshree_1761902839556.mp4",
+  "detailed_description": "This video provides a complete visual tour of a hotel room, starting from the comfortable bed with red accents and moving clockwise to reveal the different sections. It showcases a cozy sitting area with a wooden couch and coffee table, a wall-mounted television, a wardrobe, and a glimpse into the attached private bathroom. The continuous, smooth panning shot highlights the room's modern decor, warm lighting, and functional layout, effectively presenting the full offering of the accommodation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.828",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "bed",
+        "pillows",
+        "blanket",
+        "nightstand",
+        "kettle",
+        "painting",
+        "air conditioner",
+        "curtains",
+        "coffee table",
+        "water bottles",
+        "couch",
+        "television",
+        "mirror",
+        "wardrobe",
+        "bathroom",
+        "toilet",
+        "wooden floor",
+        "rug",
+        "ceiling lights"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "smooth camera pan",
+          "modern decor",
+          "warm lighting",
+          "LED accents",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "The entire video segment acts as a 'Reveal/Result' of the hotel room. It's a continuous, smooth panoramic shot that showcases all the features and the overall ambiance of the room, which is the primary subject being presented. There are no redundant frames, setup/calibration, or post-action dead air; the video starts and ends precisely with the complete demonstration of the room."
+    }
+  ]
+}

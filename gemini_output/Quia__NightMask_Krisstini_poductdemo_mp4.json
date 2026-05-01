@@ -1,0 +1,206 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_Krisstini_poductdemo.mp4",
+  "detailed_description": "This video demonstrates a two-step Korean beauty skincare routine featuring OUIYA collagen products. The woman first applies a transparent collagen night wrapping mask from a tube onto her face using a brush, showcasing its texture and the unique peel-off mechanism. Subsequently, she applies a hydrating pink gel from a jar with a spatula, gently massaging it into her skin. The routine emphasizes simple, effective steps for achieving smooth and radiant skin.",
+  "segments": [
+    {
+      "start_time": "00:03.400",
+      "end_time": "00:04.666",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman holding tube",
+        "pink skincare tube",
+        "OUIYA product"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment introduces the first product used in the routine, showing the woman holding it clearly."
+    },
+    {
+      "start_time": "00:04.666",
+      "end_time": "00:05.700",
+      "structural_tags": [
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman opening tube",
+        "unscrewing cap",
+        "skincare product"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial interaction with the product, showing how it is opened."
+    },
+    {
+      "start_time": "00:05.700",
+      "end_time": "00:18.800",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Reveal_Result",
+        "Face_Reaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman applying mask",
+        "gel mask",
+        "silicone brush",
+        "peeling mask",
+        "glowing skin",
+        "collagen mask"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "smooth application",
+          "clear mask texture",
+          "peel-off effect"
+        ]
+      },
+      "why_kept": "This is the core 'hero moment' of the video, showing the application of the first product, its texture on the skin, and the unique and satisfying peel-off action, which is a key feature of the mask."
+    },
+    {
+      "start_time": "00:18.800",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman holding jar",
+        "pink skincare jar",
+        "OUIYA product"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment introduces the second product, a jar of skincare gel, setting up the next step of the routine."
+    },
+    {
+      "start_time": "00:20.000",
+      "end_time": "00:27.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman applying gel",
+        "spatula application",
+        "massaging face",
+        "hydrating gel"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "smooth application",
+          "gentle massage",
+          "glowing skin"
+        ]
+      },
+      "why_kept": "This segment shows the application and integration of the second product, demonstrating another key step in the skincare routine."
+    },
+    {
+      "start_time": "00:28.500",
+      "end_time": "00:31.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Product_Intro",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman holding products",
+        "OUIYA tube and jar",
+        "finished look"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "final product display",
+          "confident pose"
+        ]
+      },
+      "why_kept": "This segment serves as a concluding shot, presenting both products together after their use, reinforcing brand and product identity."
+    }
+  ]
+}

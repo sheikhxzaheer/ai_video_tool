@@ -1,0 +1,144 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan cap\\ssstik.io_@hashem.alghaili_1756383401817.mp4",
+  "detailed_description": "This video expands on the crucial role of mitochondria, illustrating them not merely as energy generators but as complex control centers within cells. It visualizes their dynamic interactions, movement, fusion, and communication through tiny tubes. The content also provides actionable insights into improving mitochondrial health through lifestyle choices like exercise and specific dietary approaches, such as a ketogenic diet, which supplies efficient ketone bodies for optimal cellular function.",
+  "segments": [
+    {
+      "start_time": "00:03.498",
+      "end_time": "00:08.538",
+      "structural_tags": [
+        "Cellular_Deep_Dive",
+        "Mechanism_Of_Action",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "mitochondria",
+        "cell organelles",
+        "energy particles",
+        "communication",
+        "control center"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "glowing elements",
+          "scientific visualization"
+        ]
+      },
+      "why_kept": "This segment is kept as the primary ANCHOR because it directly articulates and visually demonstrates the core message: mitochondria's complex role as a control center beyond just energy generation, showing internal activity and communication."
+    },
+    {
+      "start_time": "00:20.658",
+      "end_time": "00:28.948",
+      "structural_tags": [
+        "Cellular_Deep_Dive",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "mitochondria",
+        "cell organelles",
+        "movement",
+        "fusion",
+        "tubes",
+        "connection"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "dynamic movement",
+          "interconnected structures"
+        ]
+      },
+      "why_kept": "This segment visually supports the ANCHOR by illustrating the 'social' and dynamic behavior of mitochondria, demonstrating their movement, fusion, and connection via tubes, which is key to their complex functions."
+    },
+    {
+      "start_time": "00:51.058",
+      "end_time": "00:56.518",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "person exercising",
+        "jump rope",
+        "hands",
+        "physical activity"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dynamic camera",
+          "focused action",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This segment is crucial as it presents a clear, actionable 'process/labor' hero moment, showing exercise as a direct method to improve mitochondrial function, linking abstract biology to real-world behavior."
+    },
+    {
+      "start_time": "00:56.518",
+      "end_time": "01:02.728",
+      "structural_tags": [
+        "Cellular_Deep_Dive",
+        "Mechanism_Of_Action",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "cell animation",
+        "mitochondria",
+        "ketone bodies",
+        "fuel source",
+        "brain preference"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "glowing elements",
+          "cellular structure"
+        ]
+      },
+      "why_kept": "This segment effectively combines visual explanation with key information, detailing how specific diets (ketogenic) provide an efficient fuel source (ketone bodies) that benefits mitochondrial function, especially in the brain."
+    }
+  ]
+}

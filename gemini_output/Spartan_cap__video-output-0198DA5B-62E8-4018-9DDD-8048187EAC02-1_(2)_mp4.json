@@ -1,0 +1,197 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan cap\\video-output-0198DA5B-62E8-4018-9DDD-8048187EAC02-1 (2).mp4",
+  "detailed_description": "This video showcases the Spartan Red Light Therapy Cap as an easy and effective solution for hair loss. It highlights the common frustration with thinning hair and introduces the cap as an innovative, comfortable, and simple alternative to traditional treatments. The video demonstrates the cap's red light technology, emphasizing its ease of use with one-touch operation and seamless integration into daily routines. The user expresses satisfaction with noticeable improvements in hair fullness and scalp health after just two weeks, positioning the cap as a superior and inventive solution for those concerned about hair loss.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.144",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Intro",
+        "Product_Interaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "beard",
+        "black cap",
+        "red lights",
+        "hairline",
+        "indoors",
+        "sofa"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "thoughtful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clear focus"
+        ]
+      },
+      "why_kept": "This segment establishes the problem of hair loss and immediately introduces the product (red light cap) by showing its core function and the user putting it on."
+    },
+    {
+      "start_time": "00:15.939",
+      "end_time": "00:23.770",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "beard",
+        "black cap",
+        "red lights",
+        "smiling",
+        "outdoors",
+        "sunny"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "happy",
+          "optimistic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "selfie style"
+        ]
+      },
+      "why_kept": "This segment clearly showcases the product, its red light therapy mechanism, and the user's positive reception, emphasizing its visual appeal and ease of wear."
+    },
+    {
+      "start_time": "00:29.805",
+      "end_time": "00:38.257",
+      "structural_tags": [
+        "Product_Standalone",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hand",
+        "black cap",
+        "SPARTAN logo",
+        "red lights",
+        "green grass",
+        "rechargeable",
+        "battery powered"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "informative",
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed view",
+          "product focus"
+        ]
+      },
+      "why_kept": "This segment provides a detailed view of the product's features, highlights the brand, and demonstrates the internal red light panel and its easy operation with different modes."
+    },
+    {
+      "start_time": "00:54.000",
+      "end_time": "01:01.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Social_Proof",
+        "Lifestyle_Active",
+        "Workspace_Office",
+        "Product_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "beard",
+        "black cap",
+        "red lights",
+        "laptop",
+        "indoors",
+        "office"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "productive",
+          "healthy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "everyday use",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment illustrates the convenience of using the red light therapy cap while performing other tasks like working, showcasing its seamless integration into a busy lifestyle, and is directly supported by narration about positive results."
+    },
+    {
+      "start_time": "01:10.871",
+      "end_time": "01:15.228",
+      "structural_tags": [
+        "Offer_CTA",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "beard",
+        "black cap",
+        "red lights",
+        "smiling",
+        "indoors",
+        "office"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "satisfied",
+          "friendly"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear call to action",
+          "positive closing"
+        ]
+      },
+      "why_kept": "This segment provides a final visual of the product with its active red lights and the user's satisfied expression, concluding with a clear call to action."
+    }
+  ]
+}

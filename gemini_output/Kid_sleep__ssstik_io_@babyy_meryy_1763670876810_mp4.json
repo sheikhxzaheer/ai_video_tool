@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid sleep\\ssstik.io_@babyy_meryy_1763670876810.mp4",
+  "detailed_description": "This video features a close-up shot of a young child, likely a toddler, deeply and peacefully asleep. The child is wearing a pink long-sleeved shirt and has two small pink hair clips. Their flushed cheeks and gently resting hands convey a state of profound calm and slumber. The entire scene, accompanied by soft music, evokes a tender and serene atmosphere, highlighting the innocence and tranquility of a sleeping baby.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.621",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "sleeping baby",
+        "toddler",
+        "peaceful slumber",
+        "pink shirt",
+        "hair clips",
+        "flushed cheeks",
+        "small hands"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "tender",
+          "serene"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "warm tones",
+          "gentle movement"
+        ]
+      },
+      "why_kept": "The entire video segment represents the semantic core, showcasing the peaceful and calm slumber of a baby. There are no identifiable 'setup' or 'post-action dead air' moments; the video begins and ends with the core visual of the sleeping child, which is a 'Hero Moment' due to the emotional climax of calm and positive emotion it evokes."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\ssstik.io_1745228614449.mp4",
+  "detailed_description": "This video demonstrates a unique hairbrush designed for effortless cleaning. It begins by showcasing a hairbrush covered in tangled hair, visually representing a common grooming challenge. The user then expertly pulls a removable mesh cover from the brush, efficiently collecting all the accumulated hair. This action immediately reveals a clean brush underneath, highlighting the innovative mechanism for hygienic maintenance. The video concludes by demonstrating the simple process of reattaching the mesh cover, reinforcing the product's user-friendly functionality and ease of assembly.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hairbrush",
+        "tangled hair",
+        "removable mesh",
+        "hands",
+        "cleaning",
+        "brush bristles"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear demonstration",
+          "white background",
+          "functional focus"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the product's unique selling proposition: an easy-to-clean hairbrush. It starts by showing the 'problem state' (brush full of hair), transitions through the 'mechanism of action' (removing the mesh to collect hair), reveals the 'result transformation' (clean brush and separated hair), and concludes with 'product interaction' (re-attaching the mesh), providing a complete and concise demonstration of the product's value."
+    }
+  ]
+}

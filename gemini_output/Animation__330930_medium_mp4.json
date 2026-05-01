@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\330930_medium.mp4",
+  "detailed_description": "This video showcases a sophisticated 3D animation of the human head and upper torso, rendered with a translucent skin layer that reveals the brain and the intricate network of the nervous system. Glowing points and lines animate within the brain and along the nerve pathways, visually representing electrical impulses and neural activity. The camera slowly rotates, offering various perspectives of this complex biological mechanism, emphasizing the dynamic and interconnected nature of the human neurological system.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Aesthetic_Broll",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "human brain",
+        "nervous system",
+        "neural activity",
+        "glowing impulses",
+        "translucent body",
+        "anatomy",
+        "3D animation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "premium",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "3D rendering",
+          "glowing effects",
+          "dark background",
+          "scientific visualization"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it visually demonstrates the complex mechanism of the human nervous system and brain activity through high-quality 3D animation. There are no extraneous frames, setup/calibration, or post-action dead air; the action begins and ends precisely with the video's duration, adhering to the 'No-Mistake' rule. The animation itself is the primary value and educational content."
+    }
+  ]
+}

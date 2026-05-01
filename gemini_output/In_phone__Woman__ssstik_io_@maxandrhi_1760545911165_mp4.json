@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\In phone\\Woman\\ssstik.io_@maxandrhi_1760545911165.mp4",
+  "detailed_description": "The video captures a playful interaction between a person off-camera and a young woman with long blonde hair, who is sitting in an office chair and scrolling on her smartphone. The person off-camera repeatedly asks her what she's doing, to which she responds with a slight smile and a good-natured, 'Why do you keep asking? It's like the third time you've asked.' The scene highlights a casual, everyday moment of social interaction and smartphone use, culminating in her positive emotional reaction.",
+  "segments": [
+    {
+      "start_time": "00:01.375",
+      "end_time": "00:15.939",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "blonde hair",
+        "smartphone",
+        "office chair",
+        "smiling",
+        "room",
+        "window"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "static shot"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it captures the entire central interaction: the woman's casual use of her phone, the dialogue with the person off-camera, and her clear emotional reaction (a smile and playful exasperation) to the repeated question. It fulfills 'Product Interaction' (with the phone), 'Human Interaction' (dialogue), and 'Emotional Climax' (her smile and response)."
+    }
+  ]
+}

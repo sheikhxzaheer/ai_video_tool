@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Korean woman\\ssstik.io_@gq_1767964874763.mp4",
+  "detailed_description": "In this video, BLACKPINK's Jennie reveals her essential travel secret for maintaining clear skin: a portable shower filter. She explains that using a shower filter, especially when traveling between different cities, helps prevent skin irritation from varying water qualities. Jennie showcases her preferred Korean brand, \"atojet,\" demonstrating how she uses it. She highlights its high compatibility, fitting in 95% of hotel showers, ensuring her skin remains healthy and clear on the go, making it a crucial travel essential.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:32.748",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Key_Information",
+        "Travel_Transit",
+        "Calm_Relaxation",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "Jennie",
+        "shower filter",
+        "atojet brand",
+        "product demonstration",
+        "speaking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "informative",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean blue background",
+          "direct address"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core. Jennie introduces a problem (potential skin irritation from varying water quality while traveling), presents her solution (a portable shower filter), clearly demonstrates and interacts with the product (holding it, showing the brand 'atojet'), and provides key information about its benefits and success rate. There are no redundant frames or dead air; the segment begins and ends precisely with the delivery of valuable information and product interaction."
+    }
+  ]
+}

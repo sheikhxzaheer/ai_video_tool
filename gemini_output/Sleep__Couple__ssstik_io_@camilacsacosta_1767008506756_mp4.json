@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Couple\\ssstik.io_@camilacsacosta_1767008506756.mp4",
+  "detailed_description": "This video captures a tender and peaceful moment of a couple cuddling in bed under soft purple ambient lighting. The man embraces the woman, eventually leaning in to gently kiss her head, conveying a deep sense of affection, comfort, and security. The scene is a visual representation of a cherished, intimate feeling shared between partners during their night routine, evoking calm and positive emotions.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Night_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "couple",
+        "cuddling",
+        "sleeping",
+        "bed",
+        "blanket",
+        "kiss",
+        "purple lighting",
+        "intimacy"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "romantic",
+          "cozy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft purple lighting",
+          "intimate setting",
+          "peaceful atmosphere"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it perfectly illustrates the 'Essa sensação' (This feeling) mentioned in the text. It depicts genuine human interaction, positive emotion, and calm relaxation through the continuous act of cuddling and affection between the couple, directly aligning with the emotional climax criteria and the overall message."
+    }
+  ]
+}

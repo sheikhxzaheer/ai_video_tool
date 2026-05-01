@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pills\\ssstik.io_1745432231081.mp4",
+  "detailed_description": "This video showcases the Volkswagen plant in Wolfsburg, Germany, highlighting its immense scale and operational complexity. It emphasizes that this facility is the largest factory in the world, capable of fitting over 400 Eiffel Towers inside. The video details the factory's vast footprint, significant workforce, and self-sustaining infrastructure, including its own power plant, fire department, and canal system for direct car shipping. It also touches upon the plant's historical roots in military vehicle production and its current status as a highly advanced automotive facility, producing hundreds of thousands of vehicles annually, alongside being home to the Autostadt car-themed park.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:54.600",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Workspace_Office",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "Volkswagen factory",
+        "Wolfsburg",
+        "Germany",
+        "industrial complex",
+        "aerial view",
+        "river",
+        "canal",
+        "power plant",
+        "chimneys",
+        "car parking lots",
+        "rooftops",
+        "buildings"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "informative",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "aerial footage",
+          "Google Earth view",
+          "descriptive text overlays",
+          "informative voiceover",
+          "panoramic shot"
+        ]
+      },
+      "why_kept": "This segment is the core of the video, visually revealing the enormous scale of the Volkswagen plant in Wolfsburg, Germany. It directly addresses the claim of it being the 'largest factory in the world' and provides key information about its size, workforce, internal infrastructure (power plant, fire department, canal system), and its role in automotive production. The continuous aerial footage coupled with the narration perfectly conveys the semantic value."
+    }
+  ]
+}

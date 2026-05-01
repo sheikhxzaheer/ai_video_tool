@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Peeling\\CNWM_JillianGray_031_Peeling.MOV",
+  "detailed_description": "The video features a woman, adorned with a pink headband, meticulously peeling off a clear, gel-like face mask. The mask is shown detaching from her skin in a satisfying, continuous sheet, highlighting the product's peel-off mechanism. Her focused expression and the visual clarity of the mask's removal emphasize the cleansing process and the immediate reveal of refreshed skin.",
+  "segments": [
+    {
+      "start_time": "00:00.600",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Calm_Relaxation",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face mask",
+        "peeling mask",
+        "pink headband",
+        "skincare",
+        "peel-off"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "focused shot",
+          "natural"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the core action of the video: the satisfying process of peeling off a face mask. It showcases the product's mechanism of action and interaction with the user's face, fulfilling the 'Product Interaction' and 'The Process/Labor' hero moment criteria."
+    }
+  ]
+}

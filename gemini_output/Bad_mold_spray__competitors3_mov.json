@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad mold spray\\competitors3.mov",
+  "detailed_description": "This video effectively introduces the 'MoldMD Mold Spot Remover' product by dramatically clearing multiple generic cleaning bottles from a counter, replacing them with a single, prominent bottle of MoldMD. The action visually communicates the product's value as a superior and consolidated solution, directly implying a comparison to less effective or more 'toxic' alternatives. The brief voiceover reinforces the idea of the new product being 'so much better,' establishing it as the hero product for mold removal.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:02.300",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Human_Interaction",
+        "Low_Quality_Comparison"
+      ],
+      "visual_keywords": [
+        "cleaning spray bottles",
+        "hand",
+        "MoldMD product",
+        "kitchen counter",
+        "white cabinets",
+        "sweeping motion"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen",
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "functional",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "simple background",
+          "dynamic movement"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it immediately captures attention by sweeping away competitor products, directly introducing the featured 'MoldMD' product as a superior alternative. It visually demonstrates the product's placement and initial value proposition, with the voiceover reinforcing its benefits over 'toxic' options. This action is the primary demonstration of the product's purpose and market position within the video."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Throwing out pills\\throwing out pills.mov",
+  "detailed_description": "This video captures a mundane, yet common, household action: the disposal of an empty container into a trash can. The shot is taken from directly above, showing a hand dropping a white plastic bottle into a trash bin already containing other refuse, including a food container and a milk jug. The action is quick and to the point, illustrating a simple act of waste management in a home kitchen setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.160",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hand",
+        "plastic bottle",
+        "trash can",
+        "garbage",
+        "kitchen counter"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment captures the complete action of a hand dropping an item into a trash can, which is the sole action demonstrated in the video. It perfectly aligns with the 'Process/Labor' and 'Product Interaction' hero moment criteria as it shows the act of 'doing the work' (discarding an item) and interacting with the 'product' (the item being discarded)."
+    }
+  ]
+}

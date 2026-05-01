@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great pillow\\ssstik.io_@ellieanddan__1766674231133.mp4",
+  "detailed_description": "The video captures a serene and joyful moment where a man is shown lying in bed, smiling and laughing heartily. The text overlay reveals the context: 'POV: sleeping next to my pregnant girlfriend.' His radiant facial expression conveys deep happiness and contentment, highlighting the emotional core of anticipating fatherhood or simply enjoying the peaceful presence of his loved one. The scene is intimate and personal, emphasizing the positive emotional experience rather than any specific product or action. This segment serves as a visual hook, instantly drawing viewers into a moment of pure bliss and affection within a relationship.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.169",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "man",
+        "bed",
+        "pillow",
+        "smiling",
+        "laughing",
+        "relaxed"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "warm tone",
+          "stable shot"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it perfectly captures the emotional climax of happiness and contentment through the man's clear smile and laughter. The text overlay provides the essential context, making the entire clip a complete and self-contained 'hero moment' of positive emotion and implied interaction, fulfilling the 'Emotional Climax' criteria without any extraneous footage."
+    }
+  ]
+}

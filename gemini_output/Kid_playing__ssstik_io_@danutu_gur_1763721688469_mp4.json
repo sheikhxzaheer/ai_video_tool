@@ -1,0 +1,78 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid playing\\ssstik.io_@danutu.gur_1763721688469.mp4",
+  "detailed_description": "The video captures a heartwarming scene of two young children engrossed in playtime on a grey carpeted floor. They are surrounded by a colorful assortment of building blocks, which they manipulate and arrange with innocent curiosity. The older child, in patterned pajamas, is actively constructing, while the younger child, in a blue romper, also engages with the toys. The video beautifully showcases the simple joy and engagement of childhood play, culminating in a charming moment as the younger child pauses to look directly at the camera.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:39.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "children playing",
+        "building blocks",
+        "colorful toys",
+        "carpeted floor",
+        "pajamas"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment establishes the main activity of the video, showing both children actively engaged in playing with colorful building blocks, demonstrating the process of their interaction and the scene's overall calm and joyful mood."
+    },
+    {
+      "start_time": "00:51.000",
+      "end_time": "00:58.000",
+      "structural_tags": [
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "child sitting",
+        "building blocks",
+        "cute expression",
+        "looking at camera"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "cute"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "eye-level shot",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment provides a charming close-up of the younger child, continuing the theme of play with blocks and ending with a delightful face reaction, which adds an emotional climax to the video."
+    }
+  ]
+}

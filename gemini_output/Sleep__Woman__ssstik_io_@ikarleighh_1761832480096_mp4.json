@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Woman\\ssstik.io_@ikarleighh_1761832480096.mp4",
+  "detailed_description": "This video beautifully captures the essence of a peaceful night's sleep, seamlessly transitioning from dusk to dawn within a cozy bedroom setting. A person is shown comfortably resting under a weighted blanket, shifting into various relaxed positions throughout the night. The changing light outside the window, evolving from dark trees with a street lamp to bright daylight illuminating lush greenery, signifies the passage of time and the profound rest achieved. The overall scene exudes a sense of calm and deep relaxation, highlighting the comfort and tranquility provided by the sleeping environment and the weighted blanket.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:37.000",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "Night_Routine",
+        "Morning_Routine",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "person sleeping",
+        "weighted blanket",
+        "bed",
+        "bedroom",
+        "window",
+        "night to day transition",
+        "trees",
+        "changing light"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "relaxing"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "natural light transition",
+          "time-lapse effect",
+          "cozy"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by continuously demonstrating the value of restful sleep facilitated by the product (weighted blanket). The time-lapse from night to day, combined with the subject's calm and comfortable movements, visually conveys deep relaxation and the effectiveness of the sleep routine. As the action of 'sleeping/resting comfortably with the product' is continuous and starts/ends without dead air, the full duration is essential."
+    }
+  ]
+}

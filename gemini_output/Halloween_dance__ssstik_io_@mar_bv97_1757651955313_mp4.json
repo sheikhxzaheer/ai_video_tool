@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Halloween_dance\\ssstik.io_@mar_bv97_1757651955313.mp4",
+  "detailed_description": "This video features two individuals engaged in a playful, high-energy performance within an indoor parking garage. One person, dressed with Joker-like makeup and dark attire, carries another individual over their shoulder. The person being carried also sports Joker-inspired makeup and green hair, wearing a white top and dark pants. They move and pose theatrically to music, showcasing their elaborate costumes and expressive facial reactions, creating a visually striking and energetic scene.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "person carrying another",
+        "Joker makeup",
+        "green hair",
+        "fishnet stockings",
+        "parking garage",
+        "playful movement",
+        "dancing",
+        "costumes"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "theatrical costumes",
+          "dynamic movement",
+          "costume play",
+          "creative makeup"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it fully captures the core action and visual appeal of the video. The scene begins immediately with the performance and concludes while the action is still ongoing, without any setup or post-action dead air. It clearly demonstrates the human interaction, costume aesthetic, and energetic mood that define the video's content."
+    }
+  ]
+}

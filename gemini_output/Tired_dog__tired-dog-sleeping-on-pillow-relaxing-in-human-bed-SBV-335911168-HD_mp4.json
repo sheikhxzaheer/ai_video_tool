@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Tired dog\\tired-dog-sleeping-on-pillow-relaxing-in-human-bed-SBV-335911168-HD.mp4",
+  "detailed_description": "This video features a close-up of a dog, white with a dark grey face, deeply relaxed and possibly dozing on a light green pillow. The dog's eyes are half-closed, and its mouth is slightly ajar, showing a few teeth, conveying a state of serene comfort and contentment. The scene captures a quiet moment of peaceful rest, highlighting the dog's calm demeanor. It perfectly embodies a moment of pure relaxation and simple joy.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "dog",
+        "sleeping",
+        "relaxed",
+        "pillow",
+        "half-asleep",
+        "contented expression",
+        "peaceful"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "natural light",
+          "warm tones",
+          "cozy aesthetic"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it perfectly captures the dog's state of deep relaxation and contentment, which is the core subject and emotional climax of the video. The dog's facial expression, half-closed eyes, and overall stillness clearly demonstrate a 'Positive_Emotion' and 'Calm_Relaxation' without any setup, dead air, or need for trimming. It fully conveys the intended 'hero moment' of the animal's comfort."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ðÜðáðúðóðòðùðØðò ðöð×ðÆðôðò ðÆð×ðøð×ðíðíð» 1.mp4",
+  "detailed_description": "The video provides a visual demonstration of significant hair growth over a one-year period. It begins with the individual's long, dark hair neatly tied in a bun at the back of their head. The person then unties the bun, allowing the voluminous hair to fall freely and cascade down their back, revealing its impressive length and healthy texture. The remaining frames highlight the hair's movement and flow, emphasizing the substantial growth achieved.",
+  "segments": [
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:15.150",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "long hair",
+        "dark hair",
+        "hair bun",
+        "untying hair",
+        "flowing hair",
+        "hair length",
+        "hair growth",
+        "back of head",
+        "hands"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "demonstrative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear lighting",
+          "natural movement"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core because it visually executes the primary claim stated in the text overlay. It captures the 'Reveal/Result' hero moment by showing the untying of the hair and then demonstrating its full length and quality after one year of growth, directly illustrating the video's central message."
+    }
+  ]
+}

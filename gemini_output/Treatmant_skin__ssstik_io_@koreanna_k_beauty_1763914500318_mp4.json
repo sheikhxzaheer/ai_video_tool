@@ -1,0 +1,412 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Treatmant_skin\\ssstik.io_@koreanna.k_beauty_1763914500318.mp4",
+  "detailed_description": "This video showcases the Medicube PDRN Pink Peptide Serum, a powerful anti-aging skincare product. It demonstrates the serum's luxurious pink texture and highlights its key ingredients, PDRN (salmon DNA) and a 5-peptide complex, which work to regenerate skin cells, improve elasticity, and provide a lifting effect. The application process on the face is shown in detail, illustrating how the serum smooths wrinkles, tightens the skin, and restores a youthful, clear facial contour, leaving the skin energized and with a healthy, rosy glow.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.040",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hands holding product box",
+        "pink serum bottle",
+        "Medicube logo"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "Introduces the product and its packaging, setting the stage for the demonstration."
+    },
+    {
+      "start_time": "00:02.040",
+      "end_time": "00:04.970",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "pink serum dropping",
+        "dropper",
+        "bottle",
+        "liquid texture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "fluid movement",
+          "texture detail",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "Demonstrates the serum's consistency and vibrant pink color, hinting at its active ingredients."
+    },
+    {
+      "start_time": "00:04.970",
+      "end_time": "00:06.870",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hands holding product bottle",
+        "product box",
+        "Medicube logo"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "focused product shot"
+        ]
+      },
+      "why_kept": "Further introduces the product and its packaging, providing brand context."
+    },
+    {
+      "start_time": "00:06.870",
+      "end_time": "00:08.770",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Product_Intro"
+      ],
+      "visual_keywords": [
+        "woman holding product bottle",
+        "opening dropper"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "anticipatory"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "preparation for use",
+          "focused gaze"
+        ]
+      },
+      "why_kept": "Shows the user preparing to apply the product, initiating the 'process'."
+    },
+    {
+      "start_time": "00:08.770",
+      "end_time": "00:12.770",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "pink serum dripping",
+        "dropper",
+        "bottle",
+        "liquid texture",
+        "woman's face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "fluid movement",
+          "texture detail",
+          "focused product shot"
+        ]
+      },
+      "why_kept": "Reiterates the serum's appealing texture and the ease of use with the dropper, maintaining visual emphasis on the product."
+    },
+    {
+      "start_time": "00:12.770",
+      "end_time": "00:19.920",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Process_Labor",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman applying serum to cheek",
+        "dropper",
+        "fingers spreading serum",
+        "woman's face",
+        "pink serum"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical",
+          "gentle"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct application",
+          "skin contact",
+          "natural light",
+          "smooth motion"
+        ]
+      },
+      "why_kept": "This is the primary demonstration of the product's application and how it interacts with the skin, conveying its intended use and immediate texture on the face."
+    },
+    {
+      "start_time": "00:19.920",
+      "end_time": "00:23.950",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Process_Labor",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman applying serum to forehead",
+        "dropper",
+        "fingers spreading serum",
+        "woman's face",
+        "pink serum"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical",
+          "gentle"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct application",
+          "skin contact",
+          "natural light",
+          "smooth motion"
+        ]
+      },
+      "why_kept": "Continues the demonstration of product application on another area of the face, reinforcing the 'process' and coverage."
+    },
+    {
+      "start_time": "00:23.950",
+      "end_time": "00:25.860",
+      "structural_tags": [
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman massaging face",
+        "smiling face",
+        "glowing skin"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "positive",
+          "satisfied",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "relaxed expression",
+          "healthy glow",
+          "post-application effect"
+        ]
+      },
+      "why_kept": "Shows the positive emotional response and implied results after applying the serum, communicating user satisfaction."
+    },
+    {
+      "start_time": "00:25.860",
+      "end_time": "00:27.100",
+      "structural_tags": [
+        "Product_Standalone",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman holding product bottle",
+        "Medicube logo",
+        "confident expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "confident",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear product visibility",
+          "user endorsement"
+        ]
+      },
+      "why_kept": "Reinforces the product's appeal by showing it held by a satisfied user, linking to the positive outcome."
+    },
+    {
+      "start_time": "00:27.100",
+      "end_time": "00:29.070",
+      "structural_tags": [
+        "Product_Intro",
+        "Offer_CTA",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand holding product bottle",
+        "website overlay",
+        "Medicube logo"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "informative",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "clear call to action"
+        ]
+      },
+      "why_kept": "Provides key purchasing information (website) while keeping the product visually present."
+    },
+    {
+      "start_time": "00:29.070",
+      "end_time": "00:30.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "pink serum dripping",
+        "dropper",
+        "bottle",
+        "liquid texture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "fluid movement",
+          "texture detail",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "Offers a final glimpse of the serum's alluring texture, reinforcing its quality before the final call to action."
+    },
+    {
+      "start_time": "00:30.400",
+      "end_time": "00:32.400",
+      "structural_tags": [
+        "Product_Intro",
+        "Offer_CTA",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand holding product bottle",
+        "website overlay",
+        "Medicube logo"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "informative",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "clear call to action"
+        ]
+      },
+      "why_kept": "Concludes the video with the product and a clear call to action, guiding viewers on where to purchase."
+    }
+  ]
+}

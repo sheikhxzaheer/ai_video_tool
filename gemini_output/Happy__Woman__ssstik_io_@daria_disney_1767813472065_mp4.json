@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Happy\\Woman\\ssstik.io_@daria_disney_1767813472065.mp4",
+  "detailed_description": "The video features a young woman with long blonde hair expressing pure joy and happiness. She is seen smiling, laughing heartily, and playfully moving her arms and body while standing in a modern kitchen. Surrounded by vibrant bouquets of pink and red flowers, her radiant demeanor and cheerful expressions are central to the video's upbeat mood, creating a continuous moment of positive emotion and lightheartedness.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:13.43",
+      "structural_tags": [
+        "Positive_Emotion",
+        "High_Energy",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "smiling woman",
+        "laughing",
+        "blonde hair",
+        "white outfit",
+        "red heart necklace",
+        "flowers",
+        "modern kitchen"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "cheerful atmosphere"
+        ]
+      },
+      "why_kept": "This entire segment serves as the emotional climax of the video, showcasing the subject's consistent and genuine expressions of joy, laughter, and playful movements. Her radiant smile and high energy are the core value being conveyed, with no setup, dead air, or extraneous footage present."
+    }
+  ]
+}

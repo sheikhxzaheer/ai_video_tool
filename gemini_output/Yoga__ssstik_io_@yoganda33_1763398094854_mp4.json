@@ -1,0 +1,55 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Yoga\\ssstik.io_@yoganda33_1763398094854.mp4",
+  "detailed_description": "The video captures a heavily tattooed man performing a tranquil meditative or yoga sequence in a serene pine forest. Seated cross-legged on a moss-covered ground, he engages in controlled breathing exercises, fluid arm movements, and specific hand gestures, culminating in a prayer pose. The natural outdoor setting enhances the calm and focused atmosphere of his spiritual practice, highlighting a moment of mindfulness and connection with nature.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.300",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "tattooed",
+        "meditation",
+        "yoga",
+        "forest",
+        "trees",
+        "moss",
+        "cross-legged",
+        "breathing",
+        "arm raises",
+        "hand gestures",
+        "prayer pose",
+        "shirtless",
+        "black pants"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "serene",
+          "spiritual"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "calm atmosphere",
+          "forest background",
+          "focus on subject's movements"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core of the video, showcasing the complete process of a man engaged in a meditative or yoga practice in a natural environment. It effectively demonstrates the 'Process/Labor' through his deliberate movements and breathing, and the 'Emotional Climax' through his focused and serene facial expressions. There is no identifiable setup/calibration or post-action dead air that needs trimming according to the rules."
+    }
+  ]
+}

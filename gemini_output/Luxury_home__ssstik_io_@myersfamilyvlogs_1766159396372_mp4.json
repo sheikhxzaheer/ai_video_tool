@@ -1,0 +1,61 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury home\\ssstik.io_@myersfamilyvlogs_1766159396372.mp4",
+  "detailed_description": "This video offers a comprehensive tour of room 234 at the Holiday Inn in Blackpool, situated conveniently next to the train station. The speaker provides a positive review of the upgraded room, highlighting its modern amenities and spacious design. Key features showcased include the comfortable bed, a cozy seating area with a sofa, a mini-fridge, tea and coffee facilities, and a large flat-screen TV. The bathroom receives particular praise for its stylish design, dual mirrors, and an impressively large waterfall shower. The speaker also shares key information about the cost of £89 for the night, including breakfast, and expresses her satisfaction with the room's quality.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:59.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Key_Information",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "hotel room",
+        "double bed",
+        "teal pillows",
+        "curtains",
+        "window view",
+        "sofa",
+        "coffee table",
+        "television",
+        "mini-fridge",
+        "kettle",
+        "coffee cups",
+        "bathroom",
+        "sink",
+        "mirror",
+        "waterfall shower",
+        "tiled wall",
+        "Blackpool artwork"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "hotel"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "modern design",
+          "well-lit",
+          "clean aesthetic",
+          "room tour"
+        ]
+      },
+      "why_kept": "The entire video serves as the 'Semantic Core' by offering a complete and detailed tour of the hotel room, showcasing all its features and amenities. The speaker's narration provides crucial information regarding pricing, upgrades, and services, while also conveying a strong positive emotional response. Trimming any part would diminish the comprehensive nature of the room review and the context provided by the speaker's commentary and interaction with the space."
+    }
+  ]
+}

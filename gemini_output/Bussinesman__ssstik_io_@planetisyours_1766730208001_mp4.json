@@ -1,0 +1,151 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bussinesman\\ssstik.io_@planetisyours_1766730208001.mp4",
+  "detailed_description": "The video presents a curated montage showcasing a sophisticated and luxurious lifestyle. It features a stylish man in various high-end fashion ensembles, from sharp tuxedos and elegant coats to casual chic outfits, set against a backdrop of aspirational travel destinations and exclusive environments like private jets, snowy mountain resorts, and the Eiffel Tower. The core message is the embodiment of modern elegance, global travel, and premium living, highlighted by attention to detail in his attire and accessories.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Lifestyle_Active",
+        "Travel_Transit",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man walking",
+        "private jet",
+        "airfield",
+        "white blazer",
+        "sunglasses",
+        "mountains"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "premium",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "golden hour light",
+          "cinematic",
+          "fashion focus"
+        ]
+      },
+      "why_kept": "This segment serves as a strong visual hook, immediately establishing the luxurious travel and high-fashion theme with a private jet and stylish attire, setting the aspirational tone."
+    },
+    {
+      "start_time": "00:02.833",
+      "end_time": "00:03.900",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man in tuxedo",
+        "bow tie",
+        "adjusting jacket",
+        "formal wear"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "premium",
+          "serious",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "classic",
+          "elegant",
+          "fashion focus"
+        ]
+      },
+      "why_kept": "This clip showcases a classic formal look, an essential component of a luxurious lifestyle, with the subject confidently adjusting his sophisticated attire."
+    },
+    {
+      "start_time": "00:06.666",
+      "end_time": "00:07.500",
+      "structural_tags": [
+        "Macro_Detail",
+        "Product_Interaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "adjusting collar",
+        "luxury watch",
+        "leather gloves",
+        "fur collar"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "outdoor"
+        ],
+        "mood": [
+          "premium",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detail-oriented",
+          "warm lighting",
+          "focused"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it clearly demonstrates 'Product Interaction' and 'Macro_Detail,' focusing on luxury accessories like the watch and gloves, highlighting the attention to high-end fashion details that define the presented lifestyle."
+    },
+    {
+      "start_time": "00:10.200",
+      "end_time": "00:11.200",
+      "structural_tags": [
+        "Travel_Transit",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "Eiffel Tower",
+        "night",
+        "cityscape",
+        "black suit"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "premium",
+          "aspirational",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "iconic landmark",
+          "night photography",
+          "fashion focus"
+        ]
+      },
+      "why_kept": "This segment powerfully conveys aspirational travel and a global luxury lifestyle, with the man confidently posing against the iconic backdrop of the illuminated Eiffel Tower."
+    }
+  ]
+}

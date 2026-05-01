@@ -1,0 +1,148 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Douxds product\\ð©Ðüð┐ð¥ð╗ÐîðÀÐâðÁÐé ð┐ÐÇð¥ð┤Ðâð║Ðé 38.mp4",
+  "detailed_description": "This video showcases a men's skincare routine addressing common facial skin concerns like acne and dark spots. The routine begins by highlighting the 'problem state' before introducing specific skincare products. It then demonstrates the application of a facial serum or cream, followed by the use of a facial cleansing device for deep cleansing. The video concludes with the subject wiping his face clean and displaying the smooth, clear, and rejuvenated 'result' with a satisfied expression, emphasizing the effectiveness of the products for achieving better facial skin.",
+  "segments": [
+    {
+      "start_time": "00:02.050",
+      "end_time": "00:04.700",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Intro",
+        "Human_Interaction",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "man touching face",
+        "acne images",
+        "dark spots images",
+        "pointing at products",
+        "skincare bottles"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "mirror reflection"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'problem state' (skin issues via superimposed images) and immediately introduces the 'products' as the solution, setting the context for the entire video's purpose."
+    },
+    {
+      "start_time": "00:04.700",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Product_Present",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man applying cream",
+        "skincare product",
+        "face application"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "smooth application"
+        ]
+      },
+      "why_kept": "This segment shows the first step of the skincare routine, demonstrating the direct 'product interaction' and 'mechanism of action' as the man applies a product to his face."
+    },
+    {
+      "start_time": "00:07.900",
+      "end_time": "00:13.100",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Product_Present",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man holding devices",
+        "facial cleansing device",
+        "using device on face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "focused action"
+        ]
+      },
+      "why_kept": "This segment highlights another key 'product interaction' and 'mechanism of action', demonstrating the proper use of a facial cleansing device for the skincare routine."
+    },
+    {
+      "start_time": "00:13.100",
+      "end_time": "00:19.900",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "man wiping face",
+        "black towel",
+        "smooth skin",
+        "satisfied expression",
+        "posing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "satisfied",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean aesthetic",
+          "confident pose"
+        ]
+      },
+      "why_kept": "This segment shows the final step of the routine (wiping the face) and, most importantly, the 'result transformation' by showcasing the man's clear, smooth skin and his 'positive emotional' reaction."
+    }
+  ]
+}

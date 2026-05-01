@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\Hyrox Training B-Roll\\IMG_4392.MOV",
+  "detailed_description": "This video features a man performing a series of weighted squats using a sandbag at an outdoor gym. He is seen with the sandbag resting on his shoulders, executing deep squats with focused effort. The segment showcases the full range of motion for this strength training exercise, emphasizing proper form and consistent movement. The man's interaction with the fitness equipment highlights the physical exertion and the utility of the sandbag for a challenging workout.",
+  "segments": [
+    {
+      "start_time": "00:08.100",
+      "end_time": "00:41.800",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Product_Interaction",
+        "Human_Interaction",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "man",
+        "squats",
+        "sandbag",
+        "exercise",
+        "workout",
+        "gym",
+        "fitness"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overcast lighting",
+          "consistent camera angle",
+          "clear outdoor view"
+        ]
+      },
+      "why_kept": "This segment clearly captures the main action and value proposition: a continuous demonstration of weighted sandbag squats. It falls under 'The Process/Labor' and 'Product Interaction' criteria, showing the core exercise being performed effectively without setup or post-action dead air, adhering to the trimming rules."
+    }
+  ]
+}

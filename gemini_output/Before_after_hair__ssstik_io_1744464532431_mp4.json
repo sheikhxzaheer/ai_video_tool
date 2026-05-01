@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ssstik.io_1744464532431.mp4",
+  "detailed_description": "The video captures a man's 64-day progress using Finasteride and Minoxidil for hair loss treatment. Set in a gym, the man actively presents various angles of his scalp, showcasing the current state of his hair. His facial expressions, ranging from serious observation to a confident smile, convey his emotional response and engagement with his hair regrowth journey.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man",
+        "thinning hair",
+        "scalp",
+        "gym",
+        "locker room",
+        "white earbuds",
+        "facial expressions",
+        "smile",
+        "smirk",
+        "gym clothes"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "selfie-style",
+          "dynamic camera movement",
+          "upbeat music",
+          "fitness aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the 'Result_Transformation' of the hair treatment on day 64 through various head angles. It also captures the 'Face_Reaction' of the subject, from serious observation to a final smile, providing an 'Emotional Climax'. The overlaid text provides 'Key Information' about the treatment and duration, making the whole clip a continuous 'Hero Moment' of progress documentation within a 'Lifestyle_Active' setting. No trimming was applied as the video starts and ends precisely with the intended action and reaction, adhering to the 'No-Mistake' rule."
+    }
+  ]
+}

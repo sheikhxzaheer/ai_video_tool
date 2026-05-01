@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_13.mp4",
+  "detailed_description": "The video demonstrates the superior quality and resilience of a pillow by showcasing its ability to regain its original fluffy shape after being compressed by a heavy kettlebell. A hand places a kettlebell on the pillow, which indents significantly, then removes it, revealing the pillow's quick and full recovery. This visual proof emphasizes that the pillow 'stays fluffy and responsive night after night,' highlighting its durability and comfort.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:03.497",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "kettlebell",
+        "pillow",
+        "hand",
+        "bed",
+        "fluffiness",
+        "compression",
+        "decompression",
+        "sunlight"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "soft focus",
+          "clean aesthetic",
+          "simple demonstration"
+        ]
+      },
+      "why_kept": "This segment is the entire semantic core as it fully demonstrates the pillow's key feature: its ability to stay fluffy and responsive. The interaction of placing and removing a heavy kettlebell clearly illustrates the product's resilience, which is the core message of the video. The text overlay directly supports this visual evidence."
+    }
+  ]
+}

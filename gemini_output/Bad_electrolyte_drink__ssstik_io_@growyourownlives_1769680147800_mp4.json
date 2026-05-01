@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad electrolyte drink\\ssstik.io_@growyourownlives_1769680147800.mp4",
+  "detailed_description": "This video concisely demonstrates the step-by-step process of preparing homemade electrolyte water. It begins with pouring spring water into a mason jar, followed by adding a measure of lemon juice. The final ingredient, Celtic salt, is then added using a spoon. The video concludes with a quick stir to combine all ingredients, showcasing the simple and direct method for creating this hydrating beverage.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.410",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Ingredient_Highlight",
+        "Home_Kitchen",
+        "Calm_Relaxation",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "water",
+        "mason jar",
+        "lemon juice",
+        "Celtic salt",
+        "spoon",
+        "pouring",
+        "stirring",
+        "kitchen counter",
+        "wooden board"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "practical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "simple presentation",
+          "focus on hands and ingredients"
+        ]
+      },
+      "why_kept": "This entire segment is kept because it comprehensively illustrates the complete process of making electrolyte water, adhering to the 'Process/Labor' and 'Product Interaction' criteria. Each addition of an ingredient (spring water, lemon juice, Celtic salt) and the final stirring are critical steps in demonstrating the video's core value. The 'No-Mistake Rule' applies as the action starts immediately and finishes upon the completion of the mixture, making the entire duration the semantic core."
+    }
+  ]
+}

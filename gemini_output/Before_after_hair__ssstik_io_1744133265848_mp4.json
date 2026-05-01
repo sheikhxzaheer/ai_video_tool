@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ssstik.io_1744133265848.mp4",
+  "detailed_description": "This video vividly illustrates the hair growth transformation experienced by an individual after using minoxidil. It employs a split-screen format, presenting a clear \"before\" shot of thinning hair followed by an \"after\" shot showcasing visibly thicker and fuller hair. The short clip highlights the efficacy of minoxidil in addressing hair loss, with a hand demonstratively running through the hair on the \"after\" side to emphasize the improved density. The comparison effectively communicates the product's potential results.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Before_After",
+        "Split_Screen",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "thinning hair",
+        "hair growth",
+        "thicker hair",
+        "minoxidil effect",
+        "hand touching hair",
+        "forehead"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "split screen",
+          "text overlay",
+          "direct comparison"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core of the video, demonstrating the \"Before/After\" transformation using minoxidil. It directly addresses the main purpose of showing hair growth results via a clear split-screen comparison and text overlays, fulfilling the 'Reveal/Result' hero moment criteria without any setup or dead air."
+    }
+  ]
+}

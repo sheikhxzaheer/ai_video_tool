@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold Before_After\\scruboff.mov",
+  "detailed_description": "This video comprehensively demonstrates the process of cleaning a shower drain grate. A hand uses a red brush to scrub accumulated grime from a white, perforated drain cover. The cleaned cover is then lifted to reveal the sparkling metal drain beneath, showcasing a complete transformation. The final shot depicts the clean grate being placed back, emphasizing a refreshed and sanitized look. The voiceover highlights the product's effectiveness, safety, and pleasant scent.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.666",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation",
+        "UGC_Talking_Head",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "hand",
+        "red brush",
+        "scrubbing",
+        "drain grate",
+        "white",
+        "black tiles",
+        "clean",
+        "metal drain"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "clinical",
+          "practical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear demonstration",
+          "direct action",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as the 'Semantic Core' because it perfectly adheres to the 'No-Mistake Rule'. The video begins immediately with the core action of cleaning a drain grate and concludes right after the final placement of the cleaned grate, with no discernible setup or dead air. It effectively combines 'Process/Labor' (scrubbing), 'Product Interaction' (using the brush), and 'Result/Transformation' (showing the clean grate and drain) throughout its duration, supported by a continuous voiceover that provides key information and positive emotional reinforcement for the product."
+    }
+  ]
+}

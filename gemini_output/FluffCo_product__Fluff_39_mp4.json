@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_39.mp4",
+  "detailed_description": "This video clip beautifully encapsulates the core benefit of the product – likely a comfort or sleep-related item – through a user's genuine emotional response. A woman is seen contentedly embracing a pillow, her serene smile and relaxed posture conveying deep satisfaction and comfort. The overlaid text, 'after one week of,' subtly reinforces the product's long-term effectiveness, suggesting that its positive impact is sustained over time. The scene establishes a feeling of well-being and peaceful relaxation directly associated with the product's use.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.672",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "pillow",
+        "smile",
+        "hugging",
+        "comfort",
+        "sleepwear",
+        "abstract art"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "cozy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "natural light",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core. It features direct product interaction, a clear emotional climax (a satisfied smile), and subtly implies a positive result over time ('after one week of'). It's a concise and powerful demonstration of the product's perceived benefits and user experience, with no setup or post-action dead air to trim."
+    }
+  ]
+}

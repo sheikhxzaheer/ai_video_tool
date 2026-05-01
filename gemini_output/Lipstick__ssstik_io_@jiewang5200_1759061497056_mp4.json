@@ -1,0 +1,75 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Lipstick\\ssstik.io_@jiewang5200_1759061497056.mp4",
+  "detailed_description": "This video showcases a vibrant red lipstick, demonstrating its application and remarkable durability. It begins with the smooth application of the lipstick, transitioning from a glossy appearance to a rich, matte finish. The core of the demonstration lies in testing the lipstick's long-lasting qualities. Water is poured directly onto the lips, which is then wiped away, revealing no smudging or transfer. The video concludes with the user drinking from a glass, implicitly showing that the lipstick remains intact without leaving any marks on the glass, thus highlighting its waterproof and smudge-proof benefits.",
+  "segments": [
+    {
+      "start_time": "00:01.216",
+      "end_time": "00:12.793",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Product_Standalone",
+        "Macro_Detail",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "red lipstick",
+        "applying lipstick",
+        "matte lips",
+        "white lipstick tube",
+        "golden accent",
+        "close-up lips"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": "clean lighting, focus on lips and product, high contrast"
+      },
+      "why_kept": "This segment clearly demonstrates the primary function of the product: the application of the lipstick and the resulting transformation into a vibrant, matte finish. It establishes the product's aesthetic and initial impact, making it the core context-setter."
+    },
+    {
+      "start_time": "00:13.250",
+      "end_time": "00:20.176",
+      "structural_tags": [
+        "Product_Interaction",
+        "Social_Proof",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "water",
+        "wet lips",
+        "wiping lips",
+        "drinking glass",
+        "red lipstick",
+        "unsmudged"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": "water effects, clean finish, clear glass, durability test"
+      },
+      "why_kept": "This segment serves as crucial social proof and a secondary hero moment, actively demonstrating the product's key features: its waterproof and smudge-proof capabilities through a direct test with water and drinking, reinforcing its long-lasting quality."
+    }
+  ]
+}

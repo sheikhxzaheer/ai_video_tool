@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1744798490613.mp4",
+  "detailed_description": "This video showcases a man demonstrating the use of a hair comb, presented as a practical and affordable gift idea. The man is shown meticulously combing and styling his hair with a blue comb in what appears to be a modern bathroom. The video emphasizes the product's function through close-up shots of the comb gliding through the hair, highlighting its effectiveness for styling.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:16.273",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair",
+        "comb",
+        "combing hair",
+        "styling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "mirror reflection",
+          "close-up shots",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "The entire segment serves as the semantic core, demonstrating the product (comb) in action and its primary use, while also establishing the context as an 'under £5 gift idea'. There are no discernible setup, calibration, or post-action dead air frames that would warrant trimming, as the action is continuous and directly relevant to the video's core message."
+    }
+  ]
+}

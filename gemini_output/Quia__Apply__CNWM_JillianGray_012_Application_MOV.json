@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Apply\\CNWM_JillianGray_012_Application.MOV",
+  "detailed_description": "This video captures a woman demonstrating the application of a clear face mask using a yellow applicator brush. She is actively applying the product to her face while simultaneously explaining the process and the waiting time required for the mask to set. The segment highlights direct product interaction and provides verbal instructions, serving as a tutorial for proper usage.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.410",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Night_Routine",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face mask",
+        "applicator brush",
+        "skincare",
+        "applying product",
+        "pink headband"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "natural lighting",
+          "personal perspective"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it perfectly embodies the 'Product Interaction' and 'Process/Labor' hero moments. The user is actively demonstrating how to apply the face mask with the provided tool, while also verbally explaining the necessary steps and waiting period. There are no identifiable 'setup & calibration' or 'post-action dead air' frames, making the entire clip relevant to the semantic core."
+    }
+  ]
+}

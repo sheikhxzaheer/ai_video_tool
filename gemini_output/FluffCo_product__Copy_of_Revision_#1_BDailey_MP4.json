@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of Revision #1 BDailey.MP4",
+  "detailed_description": "The video features a smiling woman lying comfortably in bed, hugging a white pillow with a 'FLUFF CO' tag. She shares her enthusiastic testimonial, explaining how her old pillow caused neck pain and headaches, but now, with her new pillow, she finally understands what 'real sleep' feels like. Her positive facial expressions and direct address to the camera effectively convey her satisfaction and the transformative impact of the product on her sleep quality.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:24.77",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Problem_State",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "pillow",
+        "smiling",
+        "hugging",
+        "talking",
+        "headboard",
+        "white pillow",
+        "blonde hair",
+        "Fluff Co tag"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "happy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean background",
+          "natural look"
+        ]
+      },
+      "why_kept": "This entire segment is the Semantic Core, as it effectively combines multiple 'hero moments'. The woman is a 'Talking Head' delivering key information and a testimonial, while continuously demonstrating 'Product Interaction' by holding and hugging the pillow. Her clear, 'Positive Emotion' (smiling and satisfied) and the contrast with her previous 'Problem_State' (neck pain, headaches) highlight the 'Result_Transformation' achieved by the product. There is no setup or dead air to trim; the action and message are continuous."
+    }
+  ]
+}

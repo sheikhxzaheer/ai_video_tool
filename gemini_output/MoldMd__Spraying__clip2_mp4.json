@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Spraying\\clip2.mp4",
+  "detailed_description": "This video effectively demonstrates the cleaning power of a product on a moldy window frame. It begins by showing the application of a spray cleaner to the unsightly mold, emphasizing that no wiping is required. After a brief simulated waiting period, the video reveals a completely clean surface, highlighting the product's ability to effortlessly remove mold and restore the frame's original appearance.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Before_After",
+        "Human_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "window frame",
+        "mold",
+        "spray bottle",
+        "cleaning product",
+        "hand",
+        "white surface",
+        "clean surface",
+        "screw"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "satisfying"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct demonstration",
+          "clear lighting",
+          "focus on product action"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it comprehensively showcases the problem (mold), the solution's application (spraying the product), and the immediate, successful transformation (clean surface). The voice-over narration also provides key instructions and context, making the entire duration essential for understanding the product's effectiveness and ease of use. It fulfills the 'NO-MISTAKE' rule by starting exactly with the action and ending with the revealed result, with the intervening time compressed for impact."
+    }
+  ]
+}

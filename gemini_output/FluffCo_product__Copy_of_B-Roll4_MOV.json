@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B-Roll4.MOV",
+  "detailed_description": "The video showcases the smooth functionality of a pull-out dual trash and recycling bin integrated within a modern kitchen cabinet. A woman demonstrates its ease of use by opening the cabinet, pulling out the bins, and playfully throwing a pillow into one, highlighting its generous capacity. The segment concludes with the effortless closing of the cabinet, emphasizing its seamless integration and clean aesthetic in the kitchen space.",
+  "segments": [
+    {
+      "start_time": "00:00:01.800",
+      "end_time": "00:00:08.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "kitchen cabinet",
+        "pull-out bin",
+        "trash can",
+        "pillow",
+        "white cabinets",
+        "black handles",
+        "tile backsplash"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen",
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "modern kitchen",
+          "clean aesthetic",
+          "clear demonstration",
+          "well-lit"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the core functionality and design of the pull-out dual trash/recycling bin system. The user's action of opening the cabinet, placing an item (pillow) inside, and smoothly closing it showcases the product's ease of use and capacity, directly aligning with 'Product Interaction' and 'Process/Labor' hero moment criteria."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad sofa_couch\\ssstik.io_@hautecrafts_1768408243433.mp4",
+  "detailed_description": "This video showcases a professional leather repair service that restores well-loved and damaged sofas. It begins by vividly presenting a leather sofa with significant wear, cracks, and a prominent tear, clearly establishing the problem. The core of the video then illustrates the meticulous repair process, involving cleaning, precision application of filler with a spatula, and expert spraying to perfectly match and restore the leather's original appearance and texture. The video culminates in a compelling sequence that highlights the sofa's complete transformation into a pristine, like-new condition, demonstrating the service's ability to retain the original material without replacement.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.700",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "sofa",
+        "leather",
+        "tear",
+        "cracks",
+        "worn fabric",
+        "damaged furniture",
+        "close-up"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "documentary style"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the severe damage to the sofa, creating a strong visual hook and defining the problem that the service aims to solve. It sets the crucial 'before' context for the subsequent transformation."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:16.500",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "hand",
+        "glove",
+        "cleaning",
+        "sanding",
+        "applying filler",
+        "spatula",
+        "spray gun",
+        "leather repair",
+        "restoration tools"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed process",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment demonstrates the core expertise and labor involved in the repair process. It visually explains 'how the work is done,' showcasing the meticulous steps from preparation to finishing, which is a key hero moment."
+    },
+    {
+      "start_time": "00:18.000",
+      "end_time": "00:23.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "restored sofa",
+        "smooth leather",
+        "repaired furniture",
+        "pristine condition",
+        "close-up"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "positive"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "sharp focus"
+        ]
+      },
+      "why_kept": "This segment is the ultimate 'reveal,' showcasing the successful and remarkable transformation of the damaged sofa. The inclusion of the quick 'before/after' comparison powerfully emphasizes the effectiveness of the repair, making it a critical hero moment."
+    },
+    {
+      "start_time": "00:23.000",
+      "end_time": "00:28.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "logo",
+        "text",
+        "brand name",
+        "Haute Crafts",
+        "Honest Crafters"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "brand identity"
+        ]
+      },
+      "why_kept": "This segment serves as the brand introduction and call to action, providing essential contact and recognition for the service provider after the demonstration of their work."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\Walking with Product\\Scene21_Complete Transformation.mp4",
+  "detailed_description": "A woman enjoys a playful outdoor activity with her dog in a sunny park. The video captures a lighthearted moment of interaction as she throws a bright green ball and her dog, an American Bully, eagerly leaps to catch it in mid-air. This segment highlights the joy and energy of a pet and owner engaging in a game of fetch, showcasing their active lifestyle and bond.",
+  "segments": [
+    {
+      "start_time": "00:14.300",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "dog",
+        "green ball",
+        "throwing",
+        "catching",
+        "jumping",
+        "park",
+        "grass"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sunny",
+          "natural lighting",
+          "clear action"
+        ]
+      },
+      "why_kept": "This segment is the semantic core because it demonstrates the peak interaction between the woman, the dog, and the ball. The dog's energetic jump and successful catch of the thrown ball clearly illustrate the intended use and enjoyment of the product (the ball) and the active, positive relationship between the owner and her pet. It's the most dynamic and engaging moment of play."
+    }
+  ]
+}

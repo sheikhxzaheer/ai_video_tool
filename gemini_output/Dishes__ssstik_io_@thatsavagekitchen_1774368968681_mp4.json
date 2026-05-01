@@ -1,0 +1,430 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Dishes\\ssstik.io_@thatsavagekitchen_1774368968681.mp4",
+  "detailed_description": "This video guides viewers through the process of making buttermilk fried chicken, starting with a mouth-watering visual of the crispy golden pieces. It details the creation of both a seasoned dry flour mix and a flavorful wet marinade. The raw chicken is thoroughly coated in the marinade, then meticulously breaded before being deep-fried to perfection. The chef enthusiastically demonstrates the juicy interior of the cooked chicken, enjoying a bite and enhancing it with honey and hot sauce, concluding with a call to action for the full recipe.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Standalone",
+        "Result_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "fried chicken",
+        "plate",
+        "tongs"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "warm lighting"
+        ]
+      },
+      "why_kept": "This segment serves as a strong visual hook and the initial reveal of the final product, demonstrating the achieved result of the recipe."
+    },
+    {
+      "start_time": "00:03.500",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Macro_Detail",
+        "Result_Transformation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "chef eating chicken",
+        "juicy chicken",
+        "crispy skin",
+        "satisfaction"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "positive",
+          "satisfaction"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up food shot",
+          "dynamic camera movement"
+        ]
+      },
+      "why_kept": "This segment highlights the emotional climax of tasting the perfectly cooked chicken, showcasing its internal quality and the chef's positive reaction, reinforcing the desirability of the dish."
+    },
+    {
+      "start_time": "00:08.500",
+      "end_time": "00:19.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Ingredient_Highlight",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "flour",
+        "cornstarch",
+        "onion powder",
+        "garlic powder",
+        "paprika",
+        "black pepper",
+        "salt",
+        "MSG",
+        "oregano",
+        "ground mustard",
+        "whisk",
+        "mixing bowl"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "clear ingredient presentation"
+        ]
+      },
+      "why_kept": "This segment is crucial for demonstrating the 'Process/Labor' of preparing the dry breading mixture, detailing each ingredient for accuracy."
+    },
+    {
+      "start_time": "00:19.500",
+      "end_time": "00:29.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Ingredient_Highlight",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "flour mixture",
+        "buttermilk",
+        "eggs",
+        "mustard",
+        "cayenne pepper",
+        "hot sauce",
+        "whisk",
+        "mixing bowl"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "ingredient layering"
+        ]
+      },
+      "why_kept": "This segment shows the 'Process/Labor' of creating the wet buttermilk marinade, essential for flavoring and tenderizing the chicken."
+    },
+    {
+      "start_time": "00:29.500",
+      "end_time": "00:32.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Human_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "raw chicken",
+        "marinade",
+        "gloved hand"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "handheld camera",
+          "direct action"
+        ]
+      },
+      "why_kept": "This segment illustrates the 'Product Interaction' of immersing the chicken into the marinade, a direct step in the recipe preparation."
+    },
+    {
+      "start_time": "00:32.500",
+      "end_time": "00:38.500",
+      "structural_tags": [
+        "Face_Reaction",
+        "Shock_Surprise",
+        "Human_Interaction",
+        "Malfunction_Fail",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "chef",
+        "raw chicken",
+        "marinade",
+        "dropping chicken",
+        "surprised expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "playful",
+          "shock"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "humorous editing",
+          "natural reaction"
+        ]
+      },
+      "why_kept": "This segment provides an 'Emotional Climax' with the chef's humorous reaction to dropping chicken, adding a relatable human element to the cooking process."
+    },
+    {
+      "start_time": "00:38.500",
+      "end_time": "00:41.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Offer_CTA",
+        "Human_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "marinated chicken",
+        "plastic wrap",
+        "marker",
+        "hand writing",
+        "like the video"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "informative",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "text overlay"
+        ]
+      },
+      "why_kept": "This segment captures a step in the 'Process/Labor' (covering the marinade) combined with a clear 'Call to Action' embedded directly into the visual."
+    },
+    {
+      "start_time": "00:41.500",
+      "end_time": "00:53.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "marinated chicken",
+        "flour mixture",
+        "gloved hands",
+        "breaded chicken",
+        "wire rack"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "informative",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear demonstration",
+          "before-after coating"
+        ]
+      },
+      "why_kept": "This segment is a critical 'Process/Labor' and 'Product Interaction' hero moment, demonstrating the proper technique for breading the chicken, showing a clear 'Result Transformation' as the chicken gets coated."
+    },
+    {
+      "start_time": "00:53.500",
+      "end_time": "01:02.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hot oil",
+        "frying chicken",
+        "golden brown chicken",
+        "tongs",
+        "wok"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "satisfying"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "frying sound design",
+          "crisp visual texture"
+        ]
+      },
+      "why_kept": "This is a primary 'Process/Labor' segment showcasing the actual frying of the chicken, culminating in the 'Result Transformation' of raw to crispy and golden, essential for the recipe."
+    },
+    {
+      "start_time": "01:02.500",
+      "end_time": "01:06.500",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "fried chicken pieces",
+        "black plate",
+        "tongs"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "premium",
+          "satisfying"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean plating",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This segment serves as a 'Reveal/Result' for the complete batch of fried chicken, presented beautifully on a plate."
+    },
+    {
+      "start_time": "01:06.500",
+      "end_time": "01:09.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "chef",
+        "fried chicken",
+        "honey drizzle",
+        "hot sauce drizzle"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "playful",
+          "customizable"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic close-up",
+          "food styling"
+        ]
+      },
+      "why_kept": "This segment demonstrates 'Product Interaction' by showing how the finished chicken can be customized with additional flavors, adding a personal touch."
+    },
+    {
+      "start_time": "01:09.500",
+      "end_time": "01:13.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Offer_CTA",
+        "Human_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "chef eating chicken",
+        "satisfaction",
+        "website address",
+        "call to action"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "positive",
+          "satisfaction",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "final bite",
+          "direct address to camera"
+        ]
+      },
+      "why_kept": "This segment is a strong 'Emotional Climax' with the chef's final satisfied bite, coupled with a clear 'Call to Action' for the full recipe, reinforcing the video's purpose."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Redness skin\\ÐêðÁð╗ÐâÐêð©ÐéÐüÐÅ ð║ð¥ðÂð░ ð¢ð░ ð╗ð©ÐåðÁ 3.mp4",
+  "detailed_description": "This video captures a close-up of a woman undergoing a facial treatment, likely a chemical peel or a strong exfoliating mask. Her face is covered in a peeling, flaking mask, revealing significant redness and irritation underneath, particularly around her nose and cheeks. She initially has her eyes closed, then opens them to look directly at the camera, showcasing the intense visual effects of the treatment. The clip focuses on the physical transformation and the immediate, somewhat harsh, results on her skin.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.109",
+      "structural_tags": [
+        "Result_Transformation",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "facial mask",
+        "peeling skin",
+        "redness",
+        "irritated skin",
+        "long hair",
+        "eyelashes",
+        "direct gaze"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct eye contact",
+          "bright lighting",
+          "focus on skin texture"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it serves as the core 'reveal' or 'result' moment of a facial treatment. It vividly displays the peeling process and the underlying skin irritation, which is the main subject and value demonstrated in the video. The entire clip provides a continuous visual of this transformation without any extraneous setup or post-action dead air, adhering to the 'no-mistake' rule."
+    }
+  ]
+}

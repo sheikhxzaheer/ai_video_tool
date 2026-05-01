@@ -1,0 +1,81 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Lying in bed\\ssstik.io_@sandraloveoill_1761844327957.mp4",
+  "detailed_description": "The video presents a relatable meme contrasting the desire for peaceful rest after an exhausting day with the reality of experiencing a stressful dream. It first shows a woman collapsing onto her bed, completely worn out, implying she's looking forward to sleep. This is immediately followed by a scene of her frantically running up a stairwell, illustrating the nightmare of escaping a 'sleep paralysis demon' in her dreams.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.493",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Night_Routine",
+        "Face_Reaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "teddy bear",
+        "falling",
+        "lying down",
+        "exhausted"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "weary"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "cozy"
+        ]
+      },
+      "why_kept": "This segment serves as the primary visual hook, establishing the initial state of extreme exhaustion and the act of going to bed, setting the context for the meme's narrative."
+    },
+    {
+      "start_time": "00:03.493",
+      "end_time": "00:07.136",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Negative_Emotion",
+        "High_Energy",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "stairs",
+        "running",
+        "scared",
+        "concrete stairwell"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "urgent",
+          "fearful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "stark lighting",
+          "industrial"
+        ]
+      },
+      "why_kept": "This segment provides the comedic and dramatic contrast, illustrating the intense dream scenario that undermines the peaceful sleep, thus completing the meme's humorous narrative."
+    }
+  ]
+}

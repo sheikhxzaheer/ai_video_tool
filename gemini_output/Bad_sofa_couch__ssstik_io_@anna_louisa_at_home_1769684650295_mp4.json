@@ -1,0 +1,217 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad sofa_couch\\ssstik.io_@anna_louisa_at_home_1769684650295.mp4",
+  "detailed_description": "This video demonstrates a simple yet effective sofa cleaning hack using common household items. It walks viewers through the process of preparing a cleaning solution with bicarbonate soda and dish soap, creating a unique cleaning tool by wrapping a cloth around a pan lid, and then scrubbing the sofa. The video culminates in a compelling reveal, showcasing the amount of dirt removed from the sofa, proving the hack's efficacy. It provides a clear, step-by-step guide for deep cleaning upholstery.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Process_Labor",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "sofa",
+        "cleaning",
+        "cloth",
+        "pan lid"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment serves as an immediate visual hook, showcasing the core action of the hack and setting the context for the entire video."
+    },
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Ingredient_Highlight",
+        "Product_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hands",
+        "bowl",
+        "water",
+        "baking soda",
+        "dish soap",
+        "mixing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean countertop",
+          "clear bowl",
+          "instructional"
+        ]
+      },
+      "why_kept": "This segment is crucial as it demonstrates the preparation of the cleaning solution, detailing the ingredients and mixing process which is essential for the hack."
+    },
+    {
+      "start_time": "00:05.000",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hands",
+        "cloth",
+        "pan lid",
+        "tying"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear countertop",
+          "DIY tool"
+        ]
+      },
+      "why_kept": "This segment illustrates the creative and practical step of assembling the unique cleaning tool, which is a key component of the hack."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "sofa",
+        "scrubbing",
+        "cleaning",
+        "pan lid",
+        "cloth"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "consistent lighting",
+          "focused action",
+          "demonstration"
+        ]
+      },
+      "why_kept": "This is the primary demonstration of the hack in action, showing the continuous effort and the subtle transformation of the sofa as it gets cleaned. It represents the core 'doing the work' of the video."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Social_Proof",
+        "Before_After",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "hands",
+        "dirty cloth",
+        "pan lid",
+        "dirt",
+        "pointing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "shocking"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear visual",
+          "stark contrast",
+          "proof of concept"
+        ]
+      },
+      "why_kept": "This segment provides compelling visual proof of the hack's effectiveness by revealing the accumulated dirt on the cleaning cloth, creating a 'wow' moment for the viewer."
+    },
+    {
+      "start_time": "00:14.000",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Social_Proof",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hands",
+        "dirty water",
+        "sink",
+        "pouring"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "shocking"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean sink contrast",
+          "visual evidence"
+        ]
+      },
+      "why_kept": "This final segment reinforces the cleaning results by showing the dirty water, adding another layer of tangible proof for the hack's efficacy."
+    }
+  ]
+}

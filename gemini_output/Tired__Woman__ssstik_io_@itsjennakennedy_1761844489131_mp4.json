@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Tired\\Woman\\ssstik.io_@itsjennakennedy_1761844489131.mp4",
+  "detailed_description": "The video portrays a common morning struggle for mothers: waking up tired daily. The creator shares her personal ritual of drinking from a mug each morning, which helps her transition from a state of exhaustion to feeling more awake and ready. The clip captures her initial fatigue and the subtle shift to a more energized state after her morning drink, offering a relatable solution to daily tiredness.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.020",
+      "structural_tags": [
+        "Problem_State",
+        "Morning_Routine",
+        "Product_Interaction",
+        "Face_Reaction",
+        "UGC_Talking_Head",
+        "Positive_Emotion",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "mug",
+        "drinking",
+        "stretching",
+        "tiredness",
+        "waking up",
+        "mirror"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "calm",
+          "realistic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "mirror shot",
+          "natural light",
+          "authentic"
+        ]
+      },
+      "why_kept": "This entire segment forms the semantic core by clearly showing the problem (tiredness as a mama, conveyed by text and facial expression), the product interaction (drinking from the mug), the process (morning routine), and the implied result/transformation (waking up, stretching, feeling more alert). There is no 'setup' or 'dead air' to trim, making the whole duration essential for conveying the message."
+    }
+  ]
+}

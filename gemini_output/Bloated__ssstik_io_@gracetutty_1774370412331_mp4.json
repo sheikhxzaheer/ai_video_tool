@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated\\ssstik.io_@gracetutty_1774370412331.mp4",
+  "detailed_description": "This video addresses common insecurities about belly fat by providing a biological explanation for its presence. It features a young woman posing, initially showing her belly, and then transitioning to an animated overlay of human organs on her torso. The accompanying text reveals that belly fat literally protects these vital organs, reframing it as a functional and protective part of the body. The video promotes a message of body positivity and self-acceptance by highlighting a natural bodily function.",
+  "segments": [
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Key_Information",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "belly fat",
+        "organs overlay",
+        "jeans",
+        "crop top",
+        "body positivity"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "reassuring",
+          "playful",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean lighting",
+          "simple background",
+          "animated overlay"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it visually and textually delivers the main message of the video. It directly addresses the initial problem of insecurity by revealing the protective function of belly fat through an animated organ overlay, providing key information and promoting body acceptance."
+    }
+  ]
+}

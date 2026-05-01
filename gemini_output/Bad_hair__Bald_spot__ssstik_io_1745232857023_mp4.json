@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\Bald spot\\ssstik.io_1745232857023.mp4",
+  "detailed_description": "The video captures a bald man expressing his long-held insecurity about feeling 'too ugly' to ask anyone out, initially displaying a somber, pouting face. He then transitions to a contemplative state, realizing he's 'never tried to look cute.' The core of the video lies in his subsequent playful and determined attempt to appear 'cute,' featuring exaggerated expressions, winks, and a final charming smile, signifying an emotional shift from self-doubt to self-acceptance and playful experimentation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.544",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Key_Information",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Playful"
+      ],
+      "visual_keywords": [
+        "bald man",
+        "pouting",
+        "frowning",
+        "winking",
+        "smiling",
+        "facial expressions",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address",
+          "static camera",
+          "simple background",
+          "text overlay"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it perfectly encapsulates the emotional and conceptual journey of the individual. It begins with the 'problem state' of self-perception and negative emotion, presents the 'key information' through text overlays, and visually demonstrates a 'face reaction' that evolves into a 'positive emotion' and 'playful' attempt to look cute. The full duration is necessary to convey this complete narrative arc and emotional transformation."
+    }
+  ]
+}

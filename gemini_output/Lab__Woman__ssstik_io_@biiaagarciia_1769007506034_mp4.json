@@ -1,0 +1,113 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Lab\\Woman\\ssstik.io_@biiaagarciia_1769007506034.mp4",
+  "detailed_description": "This video captures a 'point of view' of a daily routine focused on scientific lab work. It begins by setting the scene in a laboratory environment, then transitions to a scientist diligently performing tasks. The core actions showcased include the careful handling of samples within a biological safety cabinet and the focused examination of specimens using a high-powered microscope, effectively highlighting the practical and meticulous aspects of scientific research in a lab setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.300",
+      "structural_tags": [
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Lab environment",
+        "biological safety cabinet",
+        "lab bench",
+        "equipment",
+        "window"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "organized space"
+        ]
+      },
+      "why_kept": "This segment serves as an effective visual hook, establishing the laboratory setting and context for the 'daily routine with lab work' before the individual's specific actions begin."
+    },
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "Scientist",
+        "lab coat",
+        "gloves",
+        "hairnet",
+        "biological safety cabinet",
+        "pipette",
+        "test tubes",
+        "lab work"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused action",
+          "protective gear",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates a 'Process/Labor' hero moment, showing the scientist actively engaged in lab work by handling samples under controlled conditions, which is central to the video's theme."
+    },
+    {
+      "start_time": "00:09.500",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "Scientist",
+        "lab coat",
+        "gloves",
+        "hairnet",
+        "microscope",
+        "Zeiss Axiovert 135",
+        "microscopic examination"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused action",
+          "detailed work",
+          "scientific equipment"
+        ]
+      },
+      "why_kept": "This segment represents another key 'Process/Labor' hero moment, showcasing the scientist's expertise in using a microscope for detailed examination, a fundamental aspect of lab work and scientific analysis."
+    }
+  ]
+}

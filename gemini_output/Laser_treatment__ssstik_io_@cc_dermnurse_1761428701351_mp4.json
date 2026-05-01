@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Laser treatment\\ssstik.io_@cc.dermnurse_1761428701351.mp4",
+  "detailed_description": "This video captures a close-up of a laser treatment aimed at removing a dark spot (pigmentation) from the skin. It meticulously showcases the process from the initial application of the laser to the gradual transformation of the dark spot into a red, treated area. The immediate visual change on the skin demonstrates the laser's mechanism of action, highlighting the effective breakdown of melanin.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Macro_Detail",
+        "Human_Interaction",
+        "Clinical"
+      ],
+      "visual_keywords": [
+        "laser treatment",
+        "dark spot",
+        "skin",
+        "pigmentation removal",
+        "red light",
+        "magnifying glass",
+        "wiping",
+        "skin redness",
+        "ablation",
+        "gloved hand"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio",
+          "clinical"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed focus",
+          "medical procedure",
+          "clear lighting"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the complete process of laser pigmentation removal. It begins with the problem (dark spot), showcases the professional action (laser application and wiping), and visually reveals the immediate transformation of the skin as the dark spot is broken down and appears as redness. There are no extraneous or setup frames, making the whole duration a continuous hero moment of process and result."
+    }
+  ]
+}

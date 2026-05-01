@@ -1,0 +1,140 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\ssstik.io_1751470984934.mp4",
+  "detailed_description": "This video documents a man's experience with severe scalp psoriasis. It begins by highlighting the problem, showing his head covered in dense red spots and experiencing uncontrollable itching after shaving. The video then introduces a specific product, a spray and cream, intended for treatment. Finally, it showcases the successful outcome, revealing the man's scalp completely cleared of psoriasis after standardized treatment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.340",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "shaved head",
+        "red spots",
+        "psoriasis",
+        "barber",
+        "hair clippers",
+        "itching skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "focused lighting",
+          "documentary style"
+        ]
+      },
+      "why_kept": "This segment is crucial for establishing the core problem: severe scalp psoriasis with visible symptoms, creating a strong 'before' state and a visual hook for the viewer."
+    },
+    {
+      "start_time": "00:04.340",
+      "end_time": "00:05.290",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "product box",
+        "spray bottle",
+        "cream tube",
+        "Chinese text"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment introduces the product that is presented as the solution, clearly showcasing the packaging and components."
+    },
+    {
+      "start_time": "00:05.290",
+      "end_time": "00:06.340",
+      "structural_tags": [
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "spray bottle",
+        "applying spray",
+        "product usage"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "action shot"
+        ]
+      },
+      "why_kept": "This segment demonstrates the practical application of the product, showing how it is used, which is a key part of the solution's 'process'."
+    },
+    {
+      "start_time": "00:06.340",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "healed scalp",
+        "clear skin",
+        "short hair",
+        "successful treatment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "clinical",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean visuals",
+          "transformed state"
+        ]
+      },
+      "why_kept": "This segment provides the crucial 'after' shot, demonstrating the complete disappearance of the psoriasis and validating the effectiveness of the treatment, serving as the video's ultimate 'reveal'."
+    }
+  ]
+}

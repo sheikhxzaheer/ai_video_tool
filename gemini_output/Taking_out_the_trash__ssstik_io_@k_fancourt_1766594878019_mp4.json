@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Taking out the trash\\ssstik.io_@k_fancourt_1766594878019.mp4",
+  "detailed_description": "This short, humorous video captures a woman's jubilant act of discarding a large black trash bag into an outdoor bin. With a wide, satisfied smile, she approaches the bin, lifts its red lid, triumphantly drops in the bag, and then closes it with a final, contented tap. The video's overlaid text, 'Saying goodbye to bullshit,' along with her expressive actions and joyful demeanor, conveys a clear message of liberation and satisfaction through the symbolic act of throwing out unwanted things. The accompanying audio commentary further emphasizes the comedic and decisive nature of her actions.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "trash bin",
+        "red lid",
+        "black trash bag",
+        "smiling",
+        "outdoor setting",
+        "trees",
+        "lawn",
+        "sunlight"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear focus",
+          "casual"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it forms a single, cohesive 'hero moment' that encapsulates the video's central theme and action. It perfectly combines product interaction (opening/closing the bin, discarding trash), emotional climax (the woman's sustained, satisfied smile), and the symbolic 'reveal' of 'saying goodbye to bullshit.' The segment begins with the context-setting text and ends with the conclusive, joyful reaction, making it a complete semantic unit without any trimmable setup or dead air."
+    }
+  ]
+}

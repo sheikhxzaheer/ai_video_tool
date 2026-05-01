@@ -1,0 +1,117 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Product\\IMG_0374.mov",
+  "detailed_description": "This video meticulously showcases the 'SPARTAN Root Activator Shampoo,' a product designed to promote hair growth. It begins with a tight close-up of a single sleek, black bottle, clearly displaying its branding, 'ROOT ACTIVATOR SHAMPOO,' and its promise to deliver 'a helm of hair as mighty, voluminous, and vigorous as a Spartan warrior.' The camera then smoothly pans out to reveal an impressive array of these bottles, along with what appears to be companion conditioner bottles, neatly organized on minimalist white shelves, emphasizing the product's availability and clean presentation. The sequence concludes by refocusing on a single bottle, reinforcing the product's aesthetic and its core message.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Macro_Detail",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "black bottle",
+        "shampoo",
+        "pump dispenser",
+        "SPARTAN brand",
+        "product label",
+        "root activator"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "sharp focus",
+          "minimalist background"
+        ]
+      },
+      "why_kept": "This segment serves as the primary introduction, presenting a clear and detailed view of the product, establishing its identity and key information from the label. It sets the context for the entire video."
+    },
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "multiple bottles",
+        "product display",
+        "shelves",
+        "shampoo",
+        "conditioner",
+        "black packaging",
+        "organized arrangement"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "organized",
+          "abundance"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "structured display",
+          "smooth camera pan"
+        ]
+      },
+      "why_kept": "This segment provides supporting visuals, showcasing the product in a larger display context. It emphasizes the quantity and organized presentation of the product line, adding to its perceived availability and professional appeal."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Macro_Detail",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "black bottle",
+        "shampoo",
+        "pump dispenser",
+        "SPARTAN brand",
+        "product label",
+        "root activator"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "sharp focus",
+          "minimalist background"
+        ]
+      },
+      "why_kept": "This segment serves as a concluding visual reinforcement, returning to a detailed close-up of the product. It re-emphasizes the product's specific features and branding, solidifying its presence and purpose."
+    }
+  ]
+}

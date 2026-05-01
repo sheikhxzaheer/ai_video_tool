@@ -1,0 +1,40 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of Revision Hook#2 BDailey.MP4",
+  "detailed_description": "The semantic core of this video features a woman directly addressing the camera, articulating a playfully sarcastic statement. She expresses a humorous 'hatred' for a 'Fluff Co pillow' that her husband bought, indicating that she will elaborate on 'three reasons.' This segment serves as a direct introduction to a topic, delivered with an engaging and positive facial expression despite the seemingly negative words.",
+  "segments": [
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:09.600",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "smiling face",
+        "holding glass"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "playful",
+          "engaging"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "warm lighting",
+          "natural camera angle"
+        ]
+      },
+      "why_kept": "This segment is the semantic core because it contains the only direct verbal communication of a key message: the woman introducing her 'three reasons' for disliking a specific product. Despite the 'Visual Priority Rule' regarding product interaction, the 'Key Information' from a talking head is identified as a primary hero moment, and in this video, it is the sole segment conveying explicit value or a main point. Her positive facial expression adds an emotional layer, suggesting sarcasm or playfulness."
+    }
+  ]
+}

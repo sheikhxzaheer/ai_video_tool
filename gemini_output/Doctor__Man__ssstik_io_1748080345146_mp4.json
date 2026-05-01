@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Man\\ssstik.io_1748080345146.mp4",
+  "detailed_description": "The video captures a poignant moment where a young medical professional expresses profound emotional distress after his first shift, having dealt with the family of a deceased patient. He is seen conveying his sorrow to an older colleague, then turning away, and eventually slumping onto a couch, covering his face in visible grief. The accompanying text overlay articulates the internal conflict between maintaining professional ethics and succumbing to human empathy, emphasizing that despite professional obligations, he remains a human being capable of feeling. The entire sequence serves as a raw and honest portrayal of the emotional challenges faced by healthcare workers.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:16.896",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "young doctor",
+        "medical scrubs",
+        "distress",
+        "crying",
+        "covering face",
+        "older doctor",
+        "office",
+        "couch",
+        "sadness",
+        "empathy"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "somber",
+          "emotional",
+          "empathetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "raw emotion",
+          "documentary style"
+        ]
+      },
+      "why_kept": "This entire segment is the Semantic Core, as it directly and continuously illustrates the 'Emotional Climax' and the 'Problem State' described by the overlaid text. The young doctor's sustained display of distress, from his interaction with the older colleague to his collapse on the couch, provides a complete and authentic depiction of the human aspect of medical work and the emotional toll of such experiences, which is the video's core message. The duration is necessary to convey the depth and progression of his emotional reaction without any setup or dead air."
+    }
+  ]
+}

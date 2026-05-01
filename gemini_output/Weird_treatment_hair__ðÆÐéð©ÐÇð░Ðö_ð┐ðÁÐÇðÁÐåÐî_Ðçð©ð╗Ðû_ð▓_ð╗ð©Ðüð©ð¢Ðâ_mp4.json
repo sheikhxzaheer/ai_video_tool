@@ -1,0 +1,154 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ðÆÐéð©ÐÇð░Ðö ð┐ðÁÐÇðÁÐåÐî Ðçð©ð╗Ðû ð▓ ð╗ð©Ðüð©ð¢Ðâ.mp4",
+  "detailed_description": "This video humorously explores a natural hair regrowth hack using chillies. The man applies chopped chillies directly to his bald scalp, demonstrating the process and reacting with exaggerated expressions to the intense tingling and burning sensation. To soothe the discomfort, he then applies Vitamin E oil and Aloe Vera gel. The video concludes with a playful claim of feeling new hair growth, highlighting a DIY approach to hair care with a comedic twist.",
+  "segments": [
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:10.700",
+      "structural_tags": [
+        "Problem_State",
+        "Mechanism_Of_Action",
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "bald head",
+        "black gloves",
+        "chilli",
+        "rubbing scalp",
+        "grimace",
+        "smile",
+        "thumbs up"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment is the main action where the man applies chili to his head, demonstrating the core premise of the video ('Chillies on the Head'). His exaggerated facial expressions provide the emotional climax of the initial burning sensation and playful intent, serving as the primary visual hook."
+    },
+    {
+      "start_time": "00:20.000",
+      "end_time": "00:23.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Emotional_Climax",
+        "Face_Reaction",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "man",
+        "bald head",
+        "pointing",
+        "smiling",
+        "hands up",
+        "thumbs up",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment confirms the expected physical sensation (tingly burning scalp) from the chili application, serving as a direct 'result' of the previous action and an 'emotional climax' as he reacts to it. It also provides 'key information' via the text overlay."
+    },
+    {
+      "start_time": "00:25.500",
+      "end_time": "00:36.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "bald head",
+        "Vitamin E oil",
+        "dropper",
+        "Aloe Vera gel",
+        "rubbing",
+        "hands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment showcases the 'product interaction' and 'process' of applying soothing agents (Vitamin E and Aloe Vera gel) to counteract the burning sensation, completing the practical aspect of the DIY hair treatment."
+    },
+    {
+      "start_time": "00:36.000",
+      "end_time": "00:41.900",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "bald head",
+        "rubbing",
+        "smiling",
+        "thumbs up",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment provides the humorous 'reveal' or 'result' of the entire process, where the man playfully claims to feel hair growth, adding a positive and comedic 'emotional climax' to the video's conclusion."
+    }
+  ]
+}

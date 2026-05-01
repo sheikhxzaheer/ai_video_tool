@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid eat\\ssstik.io_@carlasaraiucg_1763680502273.mp4",
+  "detailed_description": "The video captures a young boy enthusiastically enjoying a large cup of pink cotton candy. Wearing a blue baseball cap, he takes several large bites, pulling the fluffy treat from the cup and showing visible delight with each mouthful. His lips and tongue become stained pink, further emphasizing his enjoyment as he savors the sweet treat. The entire segment focuses on his joyful interaction with the cotton candy, conveying a sense of childlike happiness and satisfaction. The boy's actions and expressions are the core of the video, showcasing the product being consumed with clear enjoyment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:21.325",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "boy",
+        "eating",
+        "cotton candy",
+        "pink",
+        "cup",
+        "enjoying",
+        "blue hat",
+        "licking lips"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "natural light",
+          "casual",
+          "handheld"
+        ]
+      },
+      "why_kept": "This entire segment is kept because it continuously demonstrates the core action of the video: a child interacting with and enjoying the product (cotton candy). It clearly shows 'Product Interaction' as he eats, 'Emotional Climax' through his visible enjoyment and pink-stained tongue, and serves as a 'Visual Hook' for the audience. There is no 'setup & calibration' or 'post-action dead air' to trim, adhering to the 'No-Mistake Rule' for continuous action."
+    }
+  ]
+}

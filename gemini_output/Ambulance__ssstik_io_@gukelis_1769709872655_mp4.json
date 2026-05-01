@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@gukelis_1769709872655.mp4",
+  "detailed_description": "The video captures a medical professional, wearing scrubs and a surgical mask, efficiently pushing a patient on a gurney through an automated sliding door into a sterile medical room, likely an operating room. The patient is covered with a blue sheet and also wears a surgical cap, indicating preparation for a medical procedure. The scene highlights the methodical and professional process of patient transfer within a clinical environment, demonstrating a routine but critical aspect of hospital operations.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.682",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Clinical"
+      ],
+      "visual_keywords": [
+        "medical professional",
+        "nurse",
+        "patient",
+        "gurney",
+        "operating room",
+        "hospital",
+        "sliding door",
+        "scrubs",
+        "surgical cap",
+        "mask"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sterile environment",
+          "blue/green color palette",
+          "practical lighting"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it perfectly encapsulates the 'PROCESS/LABOR' hero moment, showing the professional action of a medical staff member transporting a patient on a gurney into a designated medical area. The action starts immediately and finishes without any 'setup' or 'post-action dead air', making the entire duration the semantic core."
+    }
+  ]
+}

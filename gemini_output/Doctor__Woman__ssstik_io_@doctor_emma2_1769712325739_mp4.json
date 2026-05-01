@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Woman\\ssstik.io_@doctor.emma2_1769712325739.mp4",
+  "detailed_description": "A female healthcare professional, dressed in green scrubs and a stethoscope, recounts a humorous and unexpected encounter with an 18-year-old patient. She describes the patient enjoying a prostate exam \"a bit too much,\" humorously illustrated with a banana visual. The story escalates when the patient explicitly tells her he \"goons to her all the time\" before abruptly walking away. She reacts with a mix of surprise and amusement, expressing a desire to have continued the conversation and jokingly states he lost his chance.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:18.900",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction",
+        "Emotional_Climax",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "woman",
+        "scrubs",
+        "stethoscope",
+        "car interior",
+        "outdoor setting",
+        "sheep",
+        "skeleton model",
+        "banana prop",
+        "male video inserts"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "car",
+          "outdoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "humorous"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "casual storytelling",
+          "direct address",
+          "humorous cuts",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "The entire video constitutes a single, cohesive humorous anecdote. The opening establishes the context and initial joke, the middle presents the main, explicit punchline from the patient, and the ending provides the speaker's reaction and humorous conclusion. Trimming any part would disrupt the narrative flow and diminish the full comedic impact and meaning of the story."
+    }
+  ]
+}

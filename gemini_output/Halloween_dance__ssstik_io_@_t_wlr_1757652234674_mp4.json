@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Halloween_dance\\ssstik.io_@_t_wlr_1757652234674.mp4",
+  "detailed_description": "This energetic video features two individuals in tactical-style attire, one initially wearing a balaclava. As an assertive voiceover declares \"It's 9 PM on a f***ing Friday. Get the f*** up. We're going to haii. Let's go,\" the balaclava is removed to reveal a smiling, confident face. The pair then perform a synchronized routine of striking poses, sharing an elbow bump and a fist bump, and finally pointing directly at the camera with broad smiles, conveying a ready-to-go, high-energy mood for a night out.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.300",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "men in tactical vests",
+        "balaclava removal",
+        "smiling",
+        "confident posing",
+        "elbow bump",
+        "fist bump",
+        "pointing at camera"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera movement",
+          "direct engagement",
+          "strong visual presence"
+        ]
+      },
+      "why_kept": "This entire segment functions as a cohesive performance, aligning with the energetic audio narrative from start to finish. It includes the visual hook of the balaclava removal and face reveal, confident posing, synchronized human interaction (elbow and fist bumps), positive facial expressions, and direct engagement with the camera. All these elements contribute to the 'Semantic Core' of a high-energy, 'ready for the night' visual story without any extraneous setup or dead air."
+    }
+  ]
+}

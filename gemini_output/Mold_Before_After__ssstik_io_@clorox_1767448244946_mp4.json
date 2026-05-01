@@ -1,0 +1,231 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold Before_After\\ssstik.io_@clorox_1767448244946.mp4",
+  "detailed_description": "This video effectively demonstrates how to clean moldy windowsills using Clorox Clean-Up Cleaner + Bleach. It visually presents the initial problem of mold accumulation, introduces the cleaning product, and guides the viewer through the simple process: removing items, spraying the cleaner, allowing it to stand for five minutes, and wiping clean. The video culminates in a clear before-and-after transformation, showcasing a spotless windowsill and emphasizing the product's efficiency in tackling tough mold and mildew.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.333",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "moldy windowsill",
+        "condensation",
+        "candle"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "static shot"
+        ]
+      },
+      "why_kept": "Establishes the problem clearly, serving as a strong visual hook for the cleaning demonstration."
+    },
+    {
+      "start_time": "00:01.333",
+      "end_time": "00:03.100",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "Clorox bottle",
+        "hand holding product"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "Introduces the specific product used in the demonstration, essential for the 'how-to' aspect."
+    },
+    {
+      "start_time": "00:03.100",
+      "end_time": "00:04.200",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "removing candle",
+        "windowsill"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "Shows the necessary preparatory step before applying the cleaning product, detailing the full cleaning process."
+    },
+    {
+      "start_time": "00:04.200",
+      "end_time": "00:08.333",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Process_Labor",
+        "Macro_Detail",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "spraying cleaner",
+        "moldy windowsill",
+        "Clorox bottle"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "action shot",
+          "focused on product use"
+        ]
+      },
+      "why_kept": "This is a primary 'Hero Moment' demonstrating the direct application and mechanism of action of the product on the problem area."
+    },
+    {
+      "start_time": "00:08.333",
+      "end_time": "00:10.033",
+      "structural_tags": [
+        "Process_Labor",
+        "Time_Wasted"
+      ],
+      "visual_keywords": [
+        "cleaner on mold",
+        "clock icon"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "static shot",
+          "visual instruction"
+        ]
+      },
+      "why_kept": "Illustrates a crucial step in the cleaning process (dwell time), explaining how the product works over time."
+    },
+    {
+      "start_time": "00:10.033",
+      "end_time": "00:12.166",
+      "structural_tags": [
+        "Result_Transformation",
+        "Process_Labor",
+        "Before_After",
+        "Human_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "wiping mold",
+        "clean windowsill",
+        "white cloth"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "satisfaction",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dynamic action",
+          "visual reveal"
+        ]
+      },
+      "why_kept": "This is the core 'Reveal/Result' hero moment, clearly showing the transformation from moldy to clean through active scrubbing."
+    },
+    {
+      "start_time": "00:12.166",
+      "end_time": "00:15.199",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Standalone",
+        "Social_Proof",
+        "Positive_Emotion",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "clean windowsill",
+        "Clorox bottle",
+        "thumbs up gesture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "positive",
+          "satisfaction"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "final product shot",
+          "expressive gesture"
+        ]
+      },
+      "why_kept": "Provides the final 'after' shot, reinforcing the effectiveness of the product and conveying user satisfaction. It also acts as a conclusion to the demonstration."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\ssstik.io_1744800861204.mp4",
+  "detailed_description": "This video provides an extreme close-up of a scalp heavily laden with white, flaky buildup, indicative of dandruff or product residue. A pair of hands, adorned with long, styled nails, meticulously uses a fine-toothed comb to gently scrape and remove these flakes from the dark hair and scalp. The process clearly demonstrates the detailed action of cleansing the scalp, with flakes visible accumulating on the comb and dispersing around the hair as they are dislodged. The footage emphasizes the therapeutic and precise nature of scalp exfoliation.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:15.00",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Macro_Detail",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "scalp",
+        "hair",
+        "comb",
+        "dandruff",
+        "white flakes",
+        "buildup",
+        "scratching",
+        "exfoliation",
+        "hands",
+        "nails"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed",
+          "precise",
+          "ASMR-like",
+          "clean aesthetic",
+          "high contrast"
+        ]
+      },
+      "why_kept": "This entire segment is kept because it continuously demonstrates the core action of the video: the meticulous removal of flakes from a scalp using a comb. It effectively shows the problem (flaky scalp), the process (combing/scraping), and the subtle transformation/result (flakes being removed). There is no setup, dead air, or extraneous footage, making the entire duration the semantic core."
+    }
+  ]
+}

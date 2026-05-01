@@ -1,0 +1,108 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\532531331_4843CE6187B618C3EF8FCBC47855F98C_video_dashinit.mp4",
+  "detailed_description": "This video showcases a significant hair transformation, detailing the results of a hair transplant combined with a hair tattoo. It begins by presenting the 'before' state of a man with noticeable hair thinning on the crown. Subsequently, the video transitions to reveal the 'after' look, featuring a dramatically improved and full hairline, demonstrating the effectiveness of the combined treatment. The video concludes with the branding and website for the service.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man's head",
+        "balding crown",
+        "thinning hair",
+        "short hair",
+        "fade haircut"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "white walls"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state, clearly showing the problem of thinning hair on the crown, which provides essential context for the subsequent transformation."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:11.700",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man's face",
+        "full hairline",
+        "dense hair",
+        "fresh haircut",
+        "defined temples",
+        "beard"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "side profile",
+          "head shot"
+        ]
+      },
+      "why_kept": "This is the primary 'reveal' of the video, showcasing the dramatic and successful transformation of the hairline and hair density after the hair transplant and hair tattoo. It's the core value proposition."
+    },
+    {
+      "start_time": "00:11.700",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "brand logo",
+        "website address",
+        "INKD.SMP"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "minimalist graphic",
+          "white text on black background"
+        ]
+      },
+      "why_kept": "This segment provides essential branding and contact information (Call to Action), allowing viewers to learn more about the service after seeing the impressive results."
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Elire\\Product\\ð▒ÐÇðÁð¢ð┤ + ð╝ð░ðÂÐâÐé.mp4",
+  "detailed_description": "A woman demonstrates her skincare routine using Elire products. She applies a dark spot corrector to her face, meticulously blending it into her skin. Subsequently, she uses a firming eye cream, carefully dabbing and smoothing it around her eyes. The video highlights the product application process and concludes with her visibly satisfied expression, showcasing the products as part of an effective beauty regimen.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Key_Information",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand holding product",
+        "eliére Dark Spot Corrector",
+        "product label"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment introduces the first product clearly, showing its name and purpose, which is key information."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:19.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process/Labor",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "applying cream",
+        "pumping product",
+        "rubbing face",
+        "skincare routine"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "focus on face"
+        ]
+      },
+      "why_kept": "This segment demonstrates the core action of applying the dark spot corrector, showing product interaction and the 'labor' of a skincare routine."
+    },
+    {
+      "start_time": "00:19.900",
+      "end_time": "00:24.400",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Key_Information",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand holding product",
+        "eliére Firming Eye Cream",
+        "product label"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment introduces the second product, clearly showing its name and specific use, providing essential information."
+    },
+    {
+      "start_time": "00:24.400",
+      "end_time": "00:30.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process/Labor",
+        "Morning_Routine",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "applying eye cream",
+        "dabbing under eye",
+        "rubbing eye cream",
+        "skincare routine"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "focus on eye area"
+        ]
+      },
+      "why_kept": "This segment shows the detailed application of the eye cream, demonstrating product interaction and the precise 'labor' involved."
+    },
+    {
+      "start_time": "00:30.900",
+      "end_time": "00:35.800",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "satisfied expression",
+        "touching face",
+        "happy smile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "expressive face",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This segment captures the emotional climax and implied result of using the products, with the woman displaying a satisfied and confident expression."
+    },
+    {
+      "start_time": "00:35.800",
+      "end_time": "00:40.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Positive_Emotion",
+        "Result_Transformation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "holding two products",
+        "eliére products",
+        "woman smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean presentation"
+        ]
+      },
+      "why_kept": "This final segment provides a clear 'reveal' of both products together, coupled with the woman's positive emotion, summarizing the beneficial experience."
+    }
+  ]
+}

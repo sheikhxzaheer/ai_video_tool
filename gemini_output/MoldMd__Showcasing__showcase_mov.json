@@ -1,0 +1,199 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\showcase.mov",
+  "detailed_description": "This video effectively demonstrates the powerful cleaning action of MoldMD Mold Spot Remover. It begins with a friendly introduction of the product, followed by a clear depiction of unsightly mold on bathroom grout. The core of the video shows the product being directly applied to the mold, initiating a rapid and dramatic transformation as the stains visibly disappear. The process concludes with a simple wipe-down, revealing a pristine, clean surface, underscoring the product's ease of use and impressive results. The video clearly illustrates the product's ability to tackle common household mold and mildew stains.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.010",
+      "structural_tags": [
+        "Product_Intro",
+        "UGC_Talking_Head",
+        "Product_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman holding product",
+        "MoldMD spray bottle",
+        "smiling",
+        "bathroom background"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment introduces the product and the enthusiastic presenter, setting the context for the demonstration. The speaker is actively holding and presenting the product, making it a key visual and informational anchor."
+    },
+    {
+      "start_time": "00:03.010",
+      "end_time": "00:04.010",
+      "structural_tags": [
+        "Problem_State",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "black mold",
+        "bathroom grout",
+        "tile"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "detailed focus"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the problem the product is designed to solve, providing a 'before' visual of the mold."
+    },
+    {
+      "start_time": "00:04.010",
+      "end_time": "00:06.010",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "spraying product",
+        "MoldMD bottle",
+        "moldy grout"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "action shot"
+        ]
+      },
+      "why_kept": "This segment demonstrates the direct application of the product, showing the user interaction and the initial step of the cleaning process."
+    },
+    {
+      "start_time": "00:06.010",
+      "end_time": "00:08.010",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "mold disappearing",
+        "grout cleaning",
+        "chemical reaction"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "shock_surprise"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "sped-up footage",
+          "dramatic effect"
+        ]
+      },
+      "why_kept": "This is the 'hero moment' where the product's effectiveness is dramatically showcased as the mold visibly disappears, demonstrating the core value proposition."
+    },
+    {
+      "start_time": "00:08.010",
+      "end_time": "00:10.010",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "wiping surface",
+        "clean grout",
+        "white cloth"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "finishing touch",
+          "clarity"
+        ]
+      },
+      "why_kept": "This segment completes the cleaning process, showing the final step of wiping and reinforcing the clean result achieved by the product."
+    },
+    {
+      "start_time": "00:10.010",
+      "end_time": "00:11.230",
+      "structural_tags": [
+        "Product_Standalone",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman holding product",
+        "clean bathroom",
+        "smiling",
+        "MoldMD bottle"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "satisfied expression",
+          "final reveal"
+        ]
+      },
+      "why_kept": "This concluding segment brings back the product with the presenter, emphasizing the positive outcome and product satisfaction, serving as a final 'after' shot with the product."
+    }
+  ]
+}

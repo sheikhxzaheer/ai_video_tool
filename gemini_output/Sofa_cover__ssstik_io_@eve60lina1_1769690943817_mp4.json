@@ -1,0 +1,141 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sofa cover\\ssstik.io_@eve60lina1_1769690943817.mp4",
+  "detailed_description": "The video showcases a soft, textured white sofa cover, demonstrating its effortless application and the cozy aesthetic it brings to a living space. It highlights the cover's intricate cable-knit pattern and soft material, emphasizing comfort and style. A key feature, the non-slip backing, is also revealed, ensuring the cover stays securely in place. The transformation culminates in a serene and inviting look, perfect for modern home decor.",
+  "segments": [
+    {
+      "start_time": "00:03.900",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "person",
+        "white sofa cover",
+        "draping",
+        "sofa"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment introduces the hero product (the white textured sofa cover) and shows the core action of applying it to the sofa, clearly demonstrating the initial transformation."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Result_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "person",
+        "placing pillows",
+        "adjusting cover",
+        "sofa",
+        "pillows"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "home decor"
+        ]
+      },
+      "why_kept": "This segment continues to show the product in use, with the person adjusting the cover and adding decorative pillows, contributing to the 'Result_Transformation' and 'Human_Interaction' with the product to achieve a desired aesthetic."
+    },
+    {
+      "start_time": "00:09.100",
+      "end_time": "00:11.400",
+      "structural_tags": [
+        "Macro_Detail",
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "hand",
+        "textured fabric",
+        "anti-slip dots",
+        "underside of cover"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed shot",
+          "product feature highlight"
+        ]
+      },
+      "why_kept": "This segment focuses on crucial product details: the soft, textured surface (Macro_Detail) and the practical anti-slip backing (Mechanism_Of_Action), directly demonstrating the product's quality and functionality."
+    },
+    {
+      "start_time": "00:11.400",
+      "end_time": "00:16.100",
+      "structural_tags": [
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "sofa",
+        "white cover",
+        "pillows",
+        "coffee table",
+        "living room"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "room view",
+          "home decor",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment serves as the final 'Reveal/Result' of the product, showing the fully dressed sofa in its home environment, highlighting the aesthetic value and transformation it provides."
+    }
+  ]
+}

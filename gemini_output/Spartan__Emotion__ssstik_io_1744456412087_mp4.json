@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Emotion\\ssstik.io_1744456412087.mp4",
+  "detailed_description": "The video humorously depicts the experience of being heartbroken when one is over 40. A man is shown lying in bed, initially crying dramatically and loudly while looking at his phone, suggesting intense sadness. However, his tears quickly subside, and he almost immediately transitions into a deep, peaceful sleep, highlighting a comedic and relatable coping mechanism or exhaustion associated with age and emotional distress. The entire sequence, from exaggerated despair to sudden slumber, is presented as the core comedic moment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:25.750",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Calm_Relaxation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "bed",
+        "crying",
+        "sleeping",
+        "phone",
+        "pillow",
+        "curtains"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "relatable"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "comedic acting",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it captures the complete 'hero moment' of the video, illustrating the humorous transition from intense heartbreak to immediate sleep, as described by the on-screen text. Trimming any part would diminish the comedic timing and emotional arc."
+    }
+  ]
+}

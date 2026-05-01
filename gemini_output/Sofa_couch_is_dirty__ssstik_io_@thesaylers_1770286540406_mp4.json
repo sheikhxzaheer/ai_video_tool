@@ -1,0 +1,209 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sofa_couch is dirty\\ssstik.io_@thesaylers_1770286540406.mp4",
+  "detailed_description": "This video demonstrates an effective method for removing a significant red wine stain from a light-colored couch. It highlights the use of a Bissell Little Green machine and a specific stain remover spray. The core meaning lies in showing the problem (the wine stain), the application of the cleaning products, the active process of stain extraction, and the successful reveal of a completely clean couch. The video emphasizes the ease and speed of the cleaning process, providing a solution for maintaining light-colored furniture, especially in households with children.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.350",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Home_Kitchen",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "red wine stain",
+        "light-colored couch",
+        "fabric",
+        "cup holder"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'Problem State' and acts as the visual hook, showing the large, prominent wine stain on the couch."
+    },
+    {
+      "start_time": "00:07.729",
+      "end_time": "00:09.629",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "Bissell Little Green machine",
+        "hand"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "handheld shot",
+          "action-oriented"
+        ]
+      },
+      "why_kept": "This segment introduces one of the key products used in the cleaning process, showing direct interaction with it."
+    },
+    {
+      "start_time": "00:10.960",
+      "end_time": "00:14.390",
+      "structural_tags": [
+        "Product_Standalone",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "Miss Mouth's Messy Eater Stain Treater",
+        "spray bottle",
+        "spraying",
+        "couch"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "product demonstration",
+          "direct application"
+        ]
+      },
+      "why_kept": "This segment introduces the second key product and demonstrates its application directly onto the stained area, initiating the cleaning mechanism."
+    },
+    {
+      "start_time": "00:18.060",
+      "end_time": "00:22.040",
+      "structural_tags": [
+        "The_Process/Labor",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "Bissell Little Green nozzle",
+        "cleaning",
+        "red wine extraction",
+        "couch fabric"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "satisfying",
+          "efficient"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "action shot",
+          "visible transformation"
+        ]
+      },
+      "why_kept": "This is the core 'Process/Labor' segment, visually demonstrating the active removal of the stain and the immediate transformation, which is highly satisfying."
+    },
+    {
+      "start_time": "00:22.040",
+      "end_time": "00:26.060",
+      "structural_tags": [
+        "The_Reveal/Result",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "clean couch",
+        "no stain",
+        "light fabric"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "positive",
+          "accomplishment"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "final result shot",
+          "clear contrast"
+        ]
+      },
+      "why_kept": "This segment provides the ultimate 'Reveal/Result', showcasing the complete removal of the stain and the couch looking brand new, fulfilling the video's promise."
+    },
+    {
+      "start_time": "00:29.490",
+      "end_time": "00:35.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Offer_CTA",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "Bissell Little Green machine",
+        "Miss Mouth's Messy Eater Stain Treater",
+        "LINKS IN BIO text"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "informative",
+          "commercial"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "product showcase",
+          "call to action graphic"
+        ]
+      },
+      "why_kept": "This segment acts as a final reinforcement of the products used and includes a clear 'Call to Action' for viewers interested in purchasing them."
+    }
+  ]
+}

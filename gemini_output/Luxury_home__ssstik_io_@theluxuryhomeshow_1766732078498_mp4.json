@@ -1,0 +1,463 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury home\\ssstik.io_@theluxuryhomeshow_1766732078498.mp4",
+  "detailed_description": "This video takes viewers on a comprehensive and luxurious tour of a high-end apartment, meticulously showcasing its exquisite design, spacious living areas, and breathtaking ocean views. The walkthrough highlights various elegant spaces, including a chic study, a grand living room opening to a panoramic balcony, a sophisticated dining area, a private media room, a modern kitchen, and multiple lavish bedrooms with ensuite bathrooms and expansive walk-in closets. The guide's relaxed interactions and appreciative gestures emphasize the comfort and premium lifestyle offered by this opulent residence.",
+  "segments": [
+    {
+      "start_time": "00:00.300",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man enters",
+        "opens door",
+        "hallway",
+        "mirror",
+        "smile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "modern lighting",
+          "marble floor"
+        ]
+      },
+      "why_kept": "This segment serves as the initial visual hook, immediately establishing the luxurious environment and welcoming the viewer into the space with a positive human interaction."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:09.900",
+      "structural_tags": [
+        "Reveal_Result",
+        "Workspace_Office",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man walks",
+        "office",
+        "desk",
+        "sea view",
+        "palm trees",
+        "monitor",
+        "chair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "outdoor",
+          "office",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "minimalist design",
+          "integrated shelving"
+        ]
+      },
+      "why_kept": "This segment reveals the elegant office/study area, highlighting its functionality and the beautiful ocean view, with the man's interaction demonstrating usability."
+    },
+    {
+      "start_time": "00:09.900",
+      "end_time": "00:14.900",
+      "structural_tags": [
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man walks",
+        "hallway",
+        "corridor",
+        "art"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean lines",
+          "recessed lighting"
+        ]
+      },
+      "why_kept": "This segment maintains the flow of the tour, guiding the viewer through the apartment's internal pathways and showcasing the overall spaciousness."
+    },
+    {
+      "start_time": "00:14.900",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Reveal_Result",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Ocean",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man walks",
+        "living room",
+        "sofas",
+        "coffee table",
+        "balcony",
+        "sea",
+        "sunset",
+        "palm trees"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "floor-to-ceiling windows",
+          "stunning view",
+          "modern furniture"
+        ]
+      },
+      "why_kept": "This is a key 'hero moment' revealing the expansive main living area and the most impressive feature: the panoramic ocean view from the balcony, with the man's reaction emphasizing its beauty."
+    },
+    {
+      "start_time": "00:22.000",
+      "end_time": "00:27.900",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Ocean",
+        "Product_Interaction",
+        "Lifestyle_Active",
+        "Reveal_Result"
+      ],
+      "visual_keywords": [
+        "man walks",
+        "balcony",
+        "building exterior",
+        "pool",
+        "bar",
+        "wine fridge"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "indoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "modern architecture",
+          "seamless indoor-outdoor living",
+          "integrated bar"
+        ]
+      },
+      "why_kept": "This segment extends the experience of the outdoor space and introduces a sophisticated, built-in bar area, demonstrating luxury amenities."
+    },
+    {
+      "start_time": "00:27.900",
+      "end_time": "00:31.900",
+      "structural_tags": [
+        "Reveal_Result",
+        "Aesthetic_Broll",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man walks",
+        "dining table",
+        "chairs",
+        "chandelier",
+        "flowers",
+        "art"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "elegant lighting",
+          "modern dining",
+          "marble tabletop"
+        ]
+      },
+      "why_kept": "This segment showcases the apartment's formal dining area, highlighting its spaciousness and unique, artistic chandelier."
+    },
+    {
+      "start_time": "00:31.900",
+      "end_time": "00:36.400",
+      "structural_tags": [
+        "Reveal_Result",
+        "Calm_Relaxation",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man walks",
+        "media room",
+        "dark room",
+        "large TV",
+        "sofa",
+        "ottoman"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dark color palette",
+          "cozy ambiance",
+          "built-in lighting"
+        ]
+      },
+      "why_kept": "This segment reveals a dedicated media room, emphasizing its comfort and private entertainment possibilities through the man's relaxed interaction with the sofa."
+    },
+    {
+      "start_time": "00:36.400",
+      "end_time": "00:41.400",
+      "structural_tags": [
+        "Reveal_Result",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man walks",
+        "kitchen island",
+        "bar stools",
+        "appliances",
+        "sink",
+        "modern kitchen"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "sleek design",
+          "minimalist kitchen",
+          "integrated lighting"
+        ]
+      },
+      "why_kept": "This segment presents the apartment's state-of-the-art kitchen, showcasing its modern design and functionality as a central gathering space."
+    },
+    {
+      "start_time": "00:41.400",
+      "end_time": "00:51.400",
+      "structural_tags": [
+        "Reveal_Result",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man walks",
+        "hallway",
+        "closet",
+        "walk-in wardrobe",
+        "clothes",
+        "bathroom",
+        "marble",
+        "bathtub",
+        "shower",
+        "vanity"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "organized storage",
+          "luxurious materials",
+          "spa-like bathroom"
+        ]
+      },
+      "why_kept": "This segment unveils the lavish walk-in closet and master bathroom, demonstrating the high-end private amenities of the apartment."
+    },
+    {
+      "start_time": "00:51.400",
+      "end_time": "01:00.400",
+      "structural_tags": [
+        "Reveal_Result",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Ocean"
+      ],
+      "visual_keywords": [
+        "man walks",
+        "bedroom",
+        "bed",
+        "desk",
+        "sea view",
+        "TV",
+        "rotating screen"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "serene atmosphere",
+          "integrated technology",
+          "large windows"
+        ]
+      },
+      "why_kept": "This segment is a crucial 'hero moment', showcasing the master bedroom suite with its direct ocean view and a unique rotating television, combining luxury with modern features."
+    },
+    {
+      "start_time": "01:00.400",
+      "end_time": "01:07.400",
+      "structural_tags": [
+        "Reveal_Result",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man walks",
+        "hallway",
+        "bedroom",
+        "two beds",
+        "nightstands",
+        "window",
+        "art",
+        "sitting"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "neutral tones",
+          "comfortable setting",
+          "elegant decor"
+        ]
+      },
+      "why_kept": "This segment reveals a secondary bedroom, demonstrating the apartment's capacity and consistent luxurious styling in additional private spaces, with the man's sitting pose indicating comfort."
+    },
+    {
+      "start_time": "01:07.400",
+      "end_time": "01:14.700",
+      "structural_tags": [
+        "Reveal_Result",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man walks",
+        "hallway",
+        "bedroom",
+        "bed",
+        "bench",
+        "chandelier",
+        "sitting"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "warm lighting",
+          "spacious room",
+          "luxury bedding"
+        ]
+      },
+      "why_kept": "This final segment concludes the bedroom tour, showcasing another well-appointed room and reinforcing the theme of comfort and luxury throughout the apartment."
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\Egg Mask  Hair Mask . . . How to get smooth and shiny hair┬áÔÇö ð║ð¥ð┐ð©ÐÅ.mp4",
+  "detailed_description": "This video demonstrates a quick DIY hair treatment using an egg. A man cracks and mixes an egg, applies the mixture to his hair with a brush, then combs it through. He then washes his hair and proceeds to brush and style it, revealing a shiny, well-groomed look. The video concludes with his satisfied expression and a peace sign, emphasizing the ease and positive results of the treatment.",
+  "segments": [
+    {
+      "start_time": "00:01.100",
+      "end_time": "00:02.800",
+      "structural_tags": [
+        "Process_Labor",
+        "Ingredient_Highlight",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man cracking egg",
+        "egg yolk",
+        "egg white",
+        "bowl"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background",
+          "fast cut"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the initial step of the DIY hair treatment: cracking the egg, which is the main ingredient. It's a key 'product interaction' moment."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man mixing egg",
+        "brush",
+        "bowl",
+        "yellow liquid"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "focused action",
+          "fast cut"
+        ]
+      },
+      "why_kept": "This segment shows the preparation of the treatment, an essential part of the 'Process/Labor' of a DIY tutorial."
+    },
+    {
+      "start_time": "00:06.600",
+      "end_time": "00:09.100",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man applying mixture to hair",
+        "hair brush",
+        "wet hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct application",
+          "clear technique",
+          "fast cut"
+        ]
+      },
+      "why_kept": "This segment demonstrates the core application of the egg mixture to the hair, showcasing the primary action of the treatment."
+    },
+    {
+      "start_time": "00:09.200",
+      "end_time": "00:10.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man combing hair",
+        "orange comb",
+        "wet hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "even distribution",
+          "grooming"
+        ]
+      },
+      "why_kept": "This segment shows the process of distributing the treatment evenly through the hair, contributing to the 'Process/Labor' aspect."
+    },
+    {
+      "start_time": "00:10.800",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man washing hair",
+        "sink",
+        "water",
+        "shower head"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "functional shot",
+          "cleansing"
+        ]
+      },
+      "why_kept": "This segment illustrates the crucial step of rinsing the hair, which is part of the complete treatment process."
+    },
+    {
+      "start_time": "00:12.200",
+      "end_time": "00:14.900",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man brushing hair",
+        "styled hair",
+        "shiny hair",
+        "man smiling",
+        "peace sign"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "slicked hair",
+          "confident pose",
+          "bright lighting",
+          "satisfaction"
+        ]
+      },
+      "why_kept": "This is a hero moment showing the successful 'Result_Transformation' of the hair, concluding with the man's 'Positive_Emotion' and approval of the treatment."
+    }
+  ]
+}

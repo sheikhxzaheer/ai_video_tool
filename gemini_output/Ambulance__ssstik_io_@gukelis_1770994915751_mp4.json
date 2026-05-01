@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@gukelis_1770994915751.mp4",
+  "detailed_description": "The video offers a candid glimpse into the demanding world of healthcare, capturing medical professionals in green scrubs and masks within a bright hospital hallway. This segment portrays a moment of pause or rest amidst their busy shifts, with staff members standing, conversing, and one seated on a counter. The presence of a medical cart reinforces the clinical environment. It serves as a visual testament to the human element behind medical care, highlighting the dedication and brief respites experienced by hospital staff.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "medical staff",
+        "doctors",
+        "nurses",
+        "hospital hallway",
+        "green scrubs",
+        "medical masks",
+        "medical cart",
+        "resting",
+        "waiting",
+        "talking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "serious",
+          "observational"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "brightly lit",
+          "clean environment",
+          "candid footage"
+        ]
+      },
+      "why_kept": "This segment is kept as the semantic core because it captures the entire essence of the video: a genuine, behind-the-scenes look at medical professionals in their natural work environment, showcasing their moments of interaction and rest. There are no specific 'hero moments' of action, product interaction, or emotional climax that would require trimming; the entire scene collectively represents the core meaning of the video, which is the portrayal of hospital life and its dedicated staff."
+    }
+  ]
+}

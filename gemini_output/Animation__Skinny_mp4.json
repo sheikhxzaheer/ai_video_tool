@@ -1,0 +1,41 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\Skinny.mp4",
+  "detailed_description": "This video features a dynamic animated sequence of a male figure running in place against a futuristic blue grid background. The prominent text 'EVERY DAY DOSE' accompanied by a lightning bolt logo, reinforces a core message about daily energy or activity. The visual elements combined with the text create an energetic and active brand introduction, suggesting a product or concept related to sustained vitality.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.109",
+      "structural_tags": [
+        "Visual_Hook",
+        "Lifestyle_Active",
+        "Product_Intro",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "animated man running",
+        "blue grid background",
+        "text 'EVERY DAY DOSE'",
+        "lightning bolt logo"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "CGI animation",
+          "blueprint style",
+          "digital aesthetic"
+        ]
+      },
+      "why_kept": "The entire segment serves as the semantic core, effectively combining a visual representation of an active lifestyle (man running) with clear brand messaging ('EVERY DAY DOSE' with a lightning bolt logo). This sequence acts as a dynamic visual hook and brand introduction."
+    }
+  ]
+}

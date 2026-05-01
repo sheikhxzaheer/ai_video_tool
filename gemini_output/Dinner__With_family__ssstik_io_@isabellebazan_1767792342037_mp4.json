@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Dinner\\With family\\ssstik.io_@isabellebazan_1767792342037.mp4",
+  "detailed_description": "The video captures a serene evening scene of a family gathering for dinner on the illuminated porch of a beautiful house. Surrounded by a lush garden, the family is seen sitting at a long table, enjoying each other's company. The accompanying text overlay emphasizes the sentiment that having one's entire family together in a single home is the ultimate idea of wealth and richness. The visual beautifully illustrates this core message of familial connection and contentment in a domestic setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.060",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "family",
+        "dinner",
+        "house",
+        "porch",
+        "garden",
+        "evening",
+        "lights",
+        "togetherness"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "warm",
+          "familial",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "warm lighting",
+          "twilight",
+          "garden setting",
+          "cozy"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it directly illustrates the video's central message presented in the text overlay: 'Toda mi familia en una sola casa es mi idea de riqueza' (All my family in one house is my idea of wealth). The visual of the family dining together on the porch of a beautiful home during twilight perfectly captures the described 'idea of richness' and family togetherness, making it the complete semantic core without any extraneous elements."
+    }
+  ]
+}

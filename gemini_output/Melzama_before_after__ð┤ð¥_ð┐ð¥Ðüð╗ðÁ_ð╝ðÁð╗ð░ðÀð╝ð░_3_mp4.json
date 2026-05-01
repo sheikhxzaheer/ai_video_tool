@@ -1,0 +1,109 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ð╝ðÁð╗ð░ðÀð╝ð░ 3.mp4",
+  "detailed_description": "This video captures a woman's personal journey to overcome hyperpigmentation and melasma, conditions she developed after pregnancy. It effectively presents a 'before and after' narrative, starting with a clear visual of her skin concerns. She then explains her year-long commitment to a skincare regimen involving physician-dispensed products and laser treatments. The video culminates in a compelling 'reveal' of her significantly improved, glowing skin, paired with a satisfied facial expression, showcasing the successful outcome of her dedicated skincare efforts.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Problem_State",
+        "UGC_Talking_Head",
+        "Face_Reaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "woman talking",
+        "hyperpigmentation",
+        "melasma",
+        "skin spots",
+        "serious expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "front-facing camera"
+        ]
+      },
+      "why_kept": "This segment is kept as an ANCHOR because it clearly establishes the 'Problem State' with visible hyperpigmentation and melasma on the subject's face, directly correlating with her verbal description. It serves as the crucial 'before' visual and provides key information about the initial struggle, fulfilling the 'Problem State' and 'Key Information' hero moment criteria."
+    },
+    {
+      "start_time": "00:05.000",
+      "end_time": "00:12.300",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman talking",
+        "touching face with tissue",
+        "skin improving",
+        "glowing cheeks"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "side profile",
+          "gentle movement"
+        ]
+      },
+      "why_kept": "This segment acts as BROLL, bridging the 'Problem State' with the 'Result_Transformation'. While she narrates her skincare journey and treatments (Key Information), her skin is visibly clearer and more radiant than the initial shot, subtly demonstrating the progress. The action of gently touching her face with a tissue can also be interpreted as part of a 'Process', supporting the narrative of her skincare routine."
+    },
+    {
+      "start_time": "00:12.300",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman smiling",
+        "clear skin",
+        "glowing complexion",
+        "satisfied expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "side profile",
+          "radiant skin"
+        ]
+      },
+      "why_kept": "This is a key ANCHOR segment as it delivers the ultimate 'Reveal/Result' of her skincare journey. Her clear, glowing skin combined with a genuine, satisfied smile perfectly captures the 'Emotional Climax' and the success of her treatments, providing a strong 'after' visual that contrasts effectively with the initial 'Problem State'."
+    }
+  ]
+}

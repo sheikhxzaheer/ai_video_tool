@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid sleep\\ssstik.io_@littlepumpkin171_1763807584999.mp4",
+  "detailed_description": "The video provides a tender and humorous POV of a baby experiencing a nightmare about running out of milk. It intimately captures the baby's emotional journey from a tearful, distressed sleep, indicated by a quivering lip and closed eyes, to a peaceful, contented slumber marked by a serene facial expression. The gentle, slightly melancholic background music enhances the emotional depth of the scene, while the on-screen text humorously explains the baby's dream-induced distress, creating a relatable moment for parents and viewers alike.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.790",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "baby",
+        "sleeping",
+        "crying expression",
+        "peaceful expression",
+        "floral pillow",
+        "crib",
+        "dreaming"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "emotional",
+          "playful",
+          "tender"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "warm tones",
+          "candid shot"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, capturing the baby's evolving facial expressions from distress (due to the conceptual 'nightmare about running out of milk') to peaceful sleep, directly illustrating the 'Emotional Climax' and conveying 'Key Information' through the text overlay. The continuous shot is essential to demonstrate the transition and the complete narrative."
+    }
+  ]
+}

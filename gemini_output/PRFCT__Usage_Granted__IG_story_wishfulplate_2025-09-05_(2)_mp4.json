@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\Usage Granted\\IG_story_wishfulplate_2025-09-05 (2).mp4",
+  "detailed_description": "This video demonstrates the preparation and nutritional value of a hydration supplement. It begins by showing the mixing of the orange-flavored powder with water and ice in a glass jar, highlighting the drink's vibrant color. The video then transitions to a clear display of the product's supplement facts, detailing essential vitamins and minerals like Niacin, Vitamin C, Vitamin B6, Vitamin B12, Pantothenic Acid, and Zinc, along with their respective daily values.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.467",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Macro_Detail",
+        "Ingredient_Highlight",
+        "Home_Kitchen",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "yellow liquid",
+        "ice",
+        "spoon",
+        "mixing",
+        "hydration drink",
+        "powder packet",
+        "nutrition label",
+        "supplement facts",
+        "vitamins",
+        "minerals"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "handheld shot"
+        ]
+      },
+      "why_kept": "This entire segment forms the semantic core by clearly demonstrating both the preparation of the hydration drink (product interaction, mechanism of action, result transformation) and its key nutritional benefits (macro detail, ingredient highlight). The narration provides essential information, making the whole segment a coherent and valuable demonstration of the product from creation to nutritional content."
+    }
+  ]
+}

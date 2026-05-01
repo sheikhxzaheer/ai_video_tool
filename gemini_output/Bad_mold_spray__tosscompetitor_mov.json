@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad mold spray\\tosscompetitor.mov",
+  "detailed_description": "The video captures a young woman expressing clear dissatisfaction and disgust with a cleaning product, presumably for toxic mold. She holds a yellow spray bottle, first looking at it with a frustrated expression and stating she's 'done with toxic mold.' She then brings the bottle to her nose, smells it, and immediately recoils with a strong look of disgust, emphasizing the unpleasantness of the product or the problem it represents. The entire short clip serves as a vivid 'Problem State' and 'Emotional Climax' related to the product.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Human_Interaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman",
+        "yellow spray bottle",
+        "frustrated face",
+        "disgusted face",
+        "smelling product"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "serious",
+          "negative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment immediately establishes a 'Problem State' through both verbal declaration ('I am done with toxic mold') and a 'Negative Emotion' displayed by the subject's frustrated and then disgusted facial expressions while directly interacting with the product (holding and smelling it). It serves as a strong 'Visual Hook' by vividly portraying dissatisfaction, making the entire duration essential for conveying the core message without any trimmable setup or post-action dead air."
+    }
+  ]
+}

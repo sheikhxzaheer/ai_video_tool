@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Redness skin\\ð┐ð¥ð║ÐÇð░Ðüð¢ðÁð¢ð©ðÁ ð¢ð░ ð╗ð©ÐåðÁ 2.mp4",
+  "detailed_description": "This video features a woman directly addressing the camera, showcasing her face marked by significant redness and blotches, indicative of a skin condition or reaction. She subtly moves her hair and shifts her gaze, presenting different angles of her face to emphasize the visual state of her skin. The video captures a 'problem state' or 'before' moment, acting as a visual hook by highlighting a noticeable dermatological issue.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "red face",
+        "skin condition",
+        "facial redness",
+        "selfie view"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "candid",
+          "self-recorded"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, consistently and clearly displaying the subject's face with a prominent skin condition (redness and blotches). It functions as a visual hook and establishes the 'problem state' that the video intends to highlight, with natural, unedited presentation of the core subject matter."
+    }
+  ]
+}

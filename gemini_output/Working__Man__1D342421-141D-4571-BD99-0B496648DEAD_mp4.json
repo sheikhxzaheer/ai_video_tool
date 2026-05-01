@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Man\\1D342421-141D-4571-BD99-0B496648DEAD.mp4",
+  "detailed_description": "The video's core meaning revolves around a man showcasing a specialized cap equipped with red light therapy while engaged in office work. He demonstrates the cap's unique feature by revealing and activating its internal LED lights, then places it on his head, seamlessly integrating the product into his work routine. This highlights the cap's functionality and its potential for discreet use during daily activities.",
+  "segments": [
+    {
+      "start_time": "00:15.100",
+      "end_time": "00:26.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "man",
+        "computer",
+        "monitor",
+        "keyboard",
+        "mouse",
+        "black cap",
+        "red LED lights"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "purple ambient lighting",
+          "focused subject",
+          "desk setup"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the product's unique feature (red light therapy LEDs inside the cap), its mechanism of action (turning on the lights), and its primary interaction (putting it on). It encapsulates the direct engagement with the product and showcases its intended use within a typical work environment, making it the central 'Hero Moment' of the video."
+    }
+  ]
+}

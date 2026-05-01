@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Soldiers\\ssstik.io_1758630669377.mp4",
+  "detailed_description": "The video captures a lively military parade featuring soldiers in historical uniforms marching in formation down a street. The event is part of the 'America 250th Anniversary' celebration, with the Washington Monument visible in the background. Spectators, including young children, enthusiastically watch and cheer as the parade passes, creating a patriotic and high-energy atmosphere.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:29.432",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Aesthetic_Broll",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "soldiers marching",
+        "military parade",
+        "Washington Monument",
+        "children watching",
+        "crowd",
+        "historical uniforms",
+        "US Army",
+        "flags"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "patriotic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "parade footage",
+          "historic reenactment",
+          "monument backdrop",
+          "crowd cheering",
+          "daylight"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it continuously showcases the main action: a large military parade commemorating a significant anniversary. It effectively demonstrates the 'process' of the parade, captures the 'emotional climax' through the children's reactions and crowd cheers, and provides 'key information' via on-screen text about the event. No trimming was necessary as the action starts immediately and continues until the end without any setup or post-action dead air."
+    }
+  ]
+}

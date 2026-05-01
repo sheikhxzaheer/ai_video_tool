@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pills\\ssstik.io_@kaylahale1020_1769067654532.mp4",
+  "detailed_description": "This video meticulously captures the process of counting small purple pills on a specialized pharmacy counting tray. A person skillfully uses a spatula to sort and count the medication, demonstrating precision and attention to detail. Once counted, the pills are efficiently swept back into their original container, showcasing the methodical steps involved in handling pharmaceutical products.",
+  "segments": [
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:17.300",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Calm_Relaxation",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "person",
+        "hands",
+        "purple pills",
+        "counting tray",
+        "spatula",
+        "pill bottle"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "steady camera"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it clearly demonstrates the main action and expertise: the precise counting of pills using a specialized tray and spatula. It fulfills the 'The Process/Labor' and 'Product Interaction' hero moment criteria by showing the detailed work being done with the product."
+    }
+  ]
+}

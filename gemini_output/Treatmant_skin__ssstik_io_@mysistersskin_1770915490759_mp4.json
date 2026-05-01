@@ -1,0 +1,81 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Treatmant_skin\\ssstik.io_@mysistersskin_1770915490759.mp4",
+  "detailed_description": "The video features a woman introducing her favorite new peptide serum, the P46 by Dr. Whitney Bowe. She highlights its three powerhouse hydrating ingredients: hyaluronic acid, polyglutemic acid, and beta glucan, explaining how they draw water to the skin's surface. She demonstrates the serum's texture and applies it to her face, emphasizing its super hydrating, plumping, and collagen-boosting effects, addressing concerns like fine lines and wrinkles.",
+  "segments": [
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:37.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Key_Information",
+        "Ingredient_Highlight",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "holding product bottle",
+        "explaining ingredients",
+        "gesturing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment introduces the specific peptide serum, highlights its key hydrating ingredients and their functions, and explains the product's overall benefits for hydration and wrinkles, all while the product bottle is actively present and handled, setting the core context for the video."
+    },
+    {
+      "start_time": "00:37.000",
+      "end_time": "01:08.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Result_Transformation",
+        "Mechanism_Of_Action",
+        "Positive_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "dispensing serum",
+        "showing product texture",
+        "applying serum to face",
+        "massaging face",
+        "hydrated skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "direct address",
+          "natural glow"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the physical interaction with the product, from dispensing and showing its texture to applying it directly to the face. It visually conveys the 'Process/Labor' and highlights the 'Result_Transformation' of the skin (plumping, hydration) while reinforcing the 'Mechanism_Of_Action' of the peptides and humectants."
+    }
+  ]
+}

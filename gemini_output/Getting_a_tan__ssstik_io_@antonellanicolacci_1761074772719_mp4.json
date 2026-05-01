@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Getting a tan\\ssstik.io_@antonellanicolacci_1761074772719.mp4",
+  "detailed_description": "This video humorously answers the question, 'How do you get so tan?' by showing a person leisurely floating on an inflatable raft in crystal-clear blue ocean water. The visual of prolonged sun exposure, combined with a comedic nature documentary narration about conserving energy, illustrates the 'process' of tanning through relaxation. The tranquil outdoor setting emphasizes a laid-back, sun-drenched lifestyle.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.116",
+      "structural_tags": [
+        "Visual_Hook",
+        "Calm_Relaxation",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "person",
+        "tanning",
+        "floating",
+        "inflatable raft",
+        "ocean",
+        "blue water",
+        "bikini",
+        "kayaks",
+        "buoy"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright sunlight",
+          "clear water",
+          "leisurely"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it perfectly encapsulates the humorous premise of the video: demonstrating the method of getting tan (lying still for extended periods in the sun) through the visual of a person relaxing on a float in the ocean, supported by the text overlay and a comedic voiceover. There are no redundant frames to trim."
+    }
+  ]
+}

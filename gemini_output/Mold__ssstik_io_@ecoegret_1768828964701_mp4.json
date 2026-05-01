@@ -1,0 +1,151 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold\\ssstik.io_@ecoegret_1768828964701.mp4",
+  "detailed_description": "The video effectively demonstrates a mold-removing gel designed for household use. It starts by highlighting the common problem of persistent mold in homes, particularly in areas like walls, corners, and grout lines that are difficult to clean. The product, an 'ecoegret STAIN CLEANER' gel, is then introduced, showcasing its convenient applicator. Through clear 'before and after' sequences, the gel is shown to effectively dissolve and remove stubborn mold from grout and corners with minimal effort, requiring only application and a quick wipe. The video emphasizes the product's ease of use and immediate results, concluding with a call to action regarding its price and where to purchase it.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "mold",
+        "dirty wall",
+        "black spots",
+        "wall corner"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "focus on problem"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the problem state, showing severe mold contamination, which is crucial for setting the context and demonstrating the product's necessity."
+    },
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:03.200",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "ecoegret stain cleaner",
+        "mold removing gel",
+        "product bottle",
+        "hand holding product"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "product focus"
+        ]
+      },
+      "why_kept": "This segment introduces the product directly and shows a hand interacting with it, making it clear what the solution is."
+    },
+    {
+      "start_time": "00:05.500",
+      "end_time": "00:09.600",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Before_After",
+        "Home_Kitchen",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "applying gel",
+        "moldy grout",
+        "wiping clean",
+        "clean corner",
+        "hand in glove",
+        "cleaning cloth"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "satisfaction"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused action",
+          "clear transformation"
+        ]
+      },
+      "why_kept": "This is a strong hero moment, clearly demonstrating the product's application ('Mechanism_Of_Action') and showing a dramatic 'Result_Transformation' of heavily molded grout, implicitly functioning as a 'Before_After' sequence. It also includes the price CTA."
+    },
+    {
+      "start_time": "00:11.800",
+      "end_time": "00:15.500",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Before_After",
+        "Home_Kitchen",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "applying gel",
+        "moldy grout",
+        "wiping clean",
+        "clean grout line",
+        "hand in glove",
+        "cleaning cloth"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "satisfaction"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused action",
+          "clear transformation"
+        ]
+      },
+      "why_kept": "This segment reinforces the product's effectiveness by showing another clear application and immediate transformation on a different moldy grout line, further solidifying the 'Result_Transformation' and including the call to action for the link."
+    }
+  ]
+}

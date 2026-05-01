@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Lab\\Woman\\ssstik.io_@sudunyasilaboratuvari_1766921692864.mp4",
+  "detailed_description": "This video captures a focused moment of scientific labor, showcasing a researcher in a laboratory setting performing a precise liquid transfer using a pipette into a segmented petri dish. The action highlights careful handling and aseptic technique, embodying the diligent and meticulous nature of laboratory work. The process of pipetting and distributing the liquid is central to the demonstration of scientific methodology.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:26.782",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Macro_Detail",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "scientist",
+        "lab coat",
+        "gloves",
+        "pipette",
+        "petri dish",
+        "liquid transfer",
+        "bunsen burner",
+        "lab equipment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "scientific experiment",
+          "controlled environment",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it continuously demonstrates the core action and expertise: a scientist performing a precise laboratory procedure (pipetting) with standard lab equipment. There are no setup, calibration, or post-action dead air moments; the action is consistent and central to the video's purpose from start to finish. It fully encapsulates the 'Process/Labor' and 'Product Interaction' hero moments."
+    }
+  ]
+}

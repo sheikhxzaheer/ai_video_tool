@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_36.mp4",
+  "detailed_description": "This video clip demonstrates a key feature of a pillow: its ability to allow air to flow through, preventing heat buildup. A hand gently presses into the white pillow, visually illustrating the material's breathability and softness. The accompanying text overlay explicitly highlights this benefit, making it clear that the pillow is designed to prevent overheating. The entire short segment functions as a direct product interaction highlighting a comfort-related feature.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:03.044",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "pillow",
+        "pressing",
+        "white fabric",
+        "air flow",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "bright lighting",
+          "soft focus"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it directly showcases the product's main feature (air flow/breathability) through clear human interaction (hand pressing the pillow) and crucial on-screen text that explains the benefit. The action starts immediately and continues throughout the short clip, demonstrating the 'Mechanism_Of_Action' of the pillow, making the whole duration the semantic core."
+    }
+  ]
+}

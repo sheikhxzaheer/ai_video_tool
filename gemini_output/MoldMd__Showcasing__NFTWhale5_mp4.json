@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\NFTWhale5.mp4",
+  "detailed_description": "The video features a man cheerfully presenting a bottle of \"MoldMD Mold Spot Remover\" and a small scrub brush in a bright, modern kitchen setting. He highlights the product by holding it up, turning it to display both the front and back labels, and giving a thumbs-up gesture. His consistent smiles convey a positive and confident endorsement of the cleaning product, emphasizing its features and ease of use for mold and mildew stains.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:34.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "mold cleaner",
+        "spray bottle",
+        "scrub brush",
+        "man",
+        "smiling",
+        "kitchen counter",
+        "product label"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear shot",
+          "simple background"
+        ]
+      },
+      "why_kept": "This segment comprehensively introduces the product, demonstrates interaction by holding and rotating it to show the labels (front and back), includes a clear positive emotional response (constant smiling, thumbs-up), and shows relevant accessories (scrub brush). It effectively covers Product Interaction and Emotional Climax criteria without setup or dead air, serving as the entire semantic core."
+    }
+  ]
+}

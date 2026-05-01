@@ -1,0 +1,77 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ð╝ÐâðÂð©ð║ Ðü ð┤ð╗ð©ð¢ð¢Ðïð╝ð© ð▓ð¥ð╗ð¥Ðüð░ð╝ð© (1).mp4",
+  "detailed_description": "This video features a man with long, wavy hair and a beard, dressed in a black t-shirt. He confidently showcases his physique by first revealing a glimpse of his chest hair and then performing a strong bicep flex. The presentation emphasizes his muscular build and aesthetic appeal.",
+  "segments": [
+    {
+      "start_time": "00:01.200",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "long hair",
+        "beard",
+        "black shirt",
+        "revealing chest hair",
+        "confident expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "confident",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "casual setting"
+        ]
+      },
+      "why_kept": "This segment shows the subject actively interacting with his clothing to reveal chest hair, contributing to the overall demonstration of his physique and setting the aesthetic tone before the main flex."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "long hair",
+        "beard",
+        "black shirt",
+        "bicep flex",
+        "muscular arm",
+        "confident pose"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "confident",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "dynamic pose"
+        ]
+      },
+      "why_kept": "This is the primary 'hero moment' where the subject directly demonstrates his muscular physique through a clear bicep flex, serving as the main visual hook and core action of the video."
+    }
+  ]
+}

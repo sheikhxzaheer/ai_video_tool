@@ -1,0 +1,167 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ssstik.io_1746532943752.mp4",
+  "detailed_description": "This video captures a six-month personal transformation journey. It begins by showcasing the protagonist's struggle with significant hair loss at age 21, coupled with a noticeable decline in self-care and confidence. The 'before' state highlights his thinning hair and a less-maintained physique. The video then dramatically fast-forwards to reveal a remarkable 'after' state, where he has achieved a full head of hair and a toned, muscular physique. This profound restoration of his hair, physique, and confidence is explicitly attributed to effective hair loss treatments.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.458",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man",
+        "thinning hair",
+        "hands touching hair",
+        "serious expression",
+        "bathroom",
+        "white earbuds",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious",
+          "somber"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "mirror reflection"
+        ]
+      },
+      "why_kept": "This segment serves as the primary 'before' state, clearly establishing the problem of rapid hair loss and the associated negative emotion, making it a crucial visual hook and 'Problem_State' anchor."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:11.958",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Before_After",
+        "Morning_Routine",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "shirtless",
+        "brushing teeth",
+        "mirror",
+        "unmaintained physique",
+        "thinning hair",
+        "white earbuds",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious",
+          "apathetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "mirror reflection",
+          "everyday life"
+        ]
+      },
+      "why_kept": "This segment reinforces the 'Problem_State' by showing the broader impact of hair loss on the subject's confidence and self-care routine, deepening the 'before' narrative and emotional context."
+    },
+    {
+      "start_time": "00:12.375",
+      "end_time": "00:16.833",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man",
+        "muscular physique",
+        "full hair",
+        "gym",
+        "mirror selfie",
+        "tank top",
+        "black t-shirt",
+        "phone",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "mirror reflection",
+          "fitness"
+        ]
+      },
+      "why_kept": "This is the core 'after' reveal, visually demonstrating a significant and positive 'Result_Transformation' of both hair and physique, serving as a powerful contrast to the initial 'Problem_State'."
+    },
+    {
+      "start_time": "00:17.125",
+      "end_time": "00:25.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Result_Transformation",
+        "Key_Information",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "man",
+        "shirtless",
+        "full hair",
+        "confident smirk",
+        "mirror selfie",
+        "gym",
+        "tank top",
+        "phone",
+        "text overlay",
+        "prayer emoji"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bathroom",
+          "gym"
+        ],
+        "mood": [
+          "confident",
+          "satisfied",
+          "grateful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "mirror reflection",
+          "emotional expression"
+        ]
+      },
+      "why_kept": "This segment provides the emotional payoff and explicit attribution for the transformation, highlighting the restored confidence and crediting 'hair loss treatments', thus acting as both an 'Emotional_Climax' and 'Key_Information' point."
+    }
+  ]
+}

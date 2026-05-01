@@ -1,0 +1,177 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Washes head\\746f53-billo-169883-orig.mp4",
+  "detailed_description": "This video features a man showcasing the Spartan Root Activator Shampoo and Conditioner, a hair growth solution. It highlights the product's natural ingredients, its mechanism of action in strengthening hair follicles and enhancing scalp circulation, and demonstrates its application with a special scalp brush. The video culminates in the user's positive testimonial, recommending the product while holding both bottles, suggesting significant improvement in his hair density after consistent use.",
+  "segments": [
+    {
+      "start_time": "00:11.139",
+      "end_time": "00:19.462",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "shampoo boxes",
+        "conditioner boxes",
+        "shampoo bottles",
+        "conditioner bottles",
+        "scalp brush",
+        "Spartan logo"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "product display",
+          "flat lay"
+        ]
+      },
+      "why_kept": "This segment visually introduces the product packaging and bottles, establishing what the video is about from a product perspective."
+    },
+    {
+      "start_time": "00:23.013",
+      "end_time": "00:25.918",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "hand",
+        "scalp brush",
+        "bristles",
+        "Spartan logo"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "handheld",
+          "clear detail of product feature"
+        ]
+      },
+      "why_kept": "This segment demonstrates a key accessory and its functional design, highlighting how it aids in the product's mechanism of action (scalp stimulation)."
+    },
+    {
+      "start_time": "00:31.258",
+      "end_time": "00:45.362",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hand",
+        "shampoo",
+        "conditioner",
+        "dispensing",
+        "product texture",
+        "palm"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dispensing action",
+          "close-up of product consistency"
+        ]
+      },
+      "why_kept": "This segment shows the physical interaction with the product, demonstrating how it is dispensed and revealing the texture of both the shampoo and conditioner."
+    },
+    {
+      "start_time": "00:49.030",
+      "end_time": "00:52.340",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "The_Process"
+      ],
+      "visual_keywords": [
+        "man",
+        "applying shampoo",
+        "scalp brush",
+        "wet hair",
+        "towel",
+        "bathroom"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bathroom routine",
+          "direct application",
+          "in-use demonstration"
+        ]
+      },
+      "why_kept": "This segment directly demonstrates the core action of using the product with the scalp brush, visually showing 'the process' of hair treatment."
+    },
+    {
+      "start_time": "01:00.672",
+      "end_time": "01:06.372",
+      "structural_tags": [
+        "Social_Proof",
+        "Offer_CTA",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man",
+        "holding shampoo bottle",
+        "holding conditioner bottle",
+        "smiling",
+        "recommendation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address to camera",
+          "satisfied expression",
+          "clear product display"
+        ]
+      },
+      "why_kept": "This is the strongest segment, serving as an ANCHOR. It combines a positive emotional climax (satisfaction), social proof (recommendation), product interaction (holding the products), and a clear call to action (encouraging purchase), effectively summarizing the video's core message."
+    }
+  ]
+}

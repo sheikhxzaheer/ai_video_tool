@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Routine\\Watering plants.MP4",
+  "detailed_description": "The video captures a woman performing a routine plant care task, meticulously misting her indoor plants with a sleek, clear glass mister. She starts with a friendly smile, showcasing the product, then proceeds to spray the large green leaves of her houseplants, demonstrating its ease of use. The scene emphasizes a calm and mindful approach to home plant maintenance within a brightly lit living space.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:25.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Woman",
+        "plants",
+        "plant mister",
+        "watering",
+        "spraying",
+        "houseplants",
+        "home decor"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean aesthetic",
+          "modern home"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it fully captures the product interaction (using the plant mister), the process of plant care, and an initial positive emotional hook (the woman's smile). It demonstrates the functionality and aesthetic of the product within a relevant lifestyle context, aligning with the 'Product Interaction' and 'Process/Labor' hero moment criteria. The segment starts with the product presentation and ends immediately after the primary action is completed, before any irrelevant movement or camera instability."
+    }
+  ]
+}

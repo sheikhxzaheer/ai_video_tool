@@ -1,0 +1,283 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Woman\\ssstik.io_1761827684533.mp4",
+  "detailed_description": "This video humorously depicts a common scenario where an afternoon nap extends unexpectedly into an all-nighter. It begins with a woman settling into bed for a nap at 5 PM, which progresses through various evening hours, signified by changing LED lighting and text overlays. Waking up around midnight, she embraces the late hour by transitioning into a nocturnal routine: removing her makeup, working or studying on her laptop, and then unwinding by watching a movie projected onto her bedroom wall from her bed, before finally returning to sleep in the early morning.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:03.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Calm_Relaxation",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "jumping on bed",
+        "blanket",
+        "bedroom",
+        "LED lights"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "cozy aesthetic"
+        ]
+      },
+      "why_kept": "This segment visually establishes the core premise of the video, showing the initial action of the 'nap' and setting the scene for the subsequent narrative."
+    },
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Time_Wasted",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman sleeping",
+        "bed",
+        "LED lights changing colors",
+        "bedroom window",
+        "time overlays"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "dreamy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "time-lapse",
+          "color changing lights",
+          "sleepy atmosphere"
+        ]
+      },
+      "why_kept": "This time-lapse sequence effectively demonstrates the passage of time during the extended nap, which is crucial to the video's narrative and humorous premise."
+    },
+    {
+      "start_time": "00:22.900",
+      "end_time": "00:26.500",
+      "structural_tags": [
+        "Face_Reaction",
+        "Emotional_Climax",
+        "Night_Routine",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "woman waking up",
+        "checking phone",
+        "looking out window",
+        "darkness outside"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "surprised",
+          "contemplative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "ambient lighting",
+          "late night"
+        ]
+      },
+      "why_kept": "This segment captures the 'aha!' moment of waking up and realizing the nap has extended into the deep night, serving as an emotional climax that pivots the video's narrative."
+    },
+    {
+      "start_time": "00:27.000",
+      "end_time": "00:29.800",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Night_Routine",
+        "Aesthetic_Broll",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "woman standing",
+        "pulling curtains",
+        "bedroom",
+        "LED lights",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "vibrant lighting",
+          "transition scene"
+        ]
+      },
+      "why_kept": "The text overlay and action of 'setting the vibes' clearly communicate the decision to stay up all night, providing a narrative transition from sleeping to nocturnal activities."
+    },
+    {
+      "start_time": "00:34.000",
+      "end_time": "00:41.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Night_Routine",
+        "Negative_Emotion",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "woman at vanity",
+        "mirror",
+        "skincare products",
+        "cotton pads",
+        "makeup headband",
+        "cleaning face"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "attentive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "vanity lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is a clear 'Product Interaction' and 'Process/Labor' moment, showing her engaging in a skincare routine after falling asleep with makeup on, which is a key part of her unexpected all-night activity."
+    },
+    {
+      "start_time": "00:41.500",
+      "end_time": "00:49.800",
+      "structural_tags": [
+        "Process_Labor",
+        "Workspace_Office",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman with laptop",
+        "vanity desk",
+        "working",
+        "studying",
+        "documents"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "focused",
+          "productive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "blue lighting",
+          "workspace setup"
+        ]
+      },
+      "why_kept": "This segment illustrates another 'Process/Labor' activity, working or studying late into the night, reinforcing the 'up all night' theme."
+    },
+    {
+      "start_time": "00:51.800",
+      "end_time": "00:56.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Calm_Relaxation",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "projector",
+        "movie projected on wall",
+        "watching TV"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "entertained"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "projector display",
+          "ambient lighting",
+          "cozy setup"
+        ]
+      },
+      "why_kept": "This showcases a key 'Product Interaction' with the projector for entertainment, highlighting a relaxing aspect of her late-night activities."
+    },
+    {
+      "start_time": "00:57.000",
+      "end_time": "01:00.000",
+      "structural_tags": [
+        "Night_Routine",
+        "Calm_Relaxation",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "woman in bed",
+        "drinking from bottle",
+        "sleeping",
+        "LED lights"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "sleepy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "end of night"
+        ]
+      },
+      "why_kept": "This segment provides a full-circle conclusion to the narrative, showing the woman finally going back to sleep after her unintended all-nighter."
+    }
+  ]
+}

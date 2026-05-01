@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1750974221671.mp4",
+  "detailed_description": "The video showcases a professional barber meticulously styling a man's distinguished gray hair. It opens with the client touching his hair, hinting at the start of a transformation. The barber then skillfully combs and sculpts the hair, employing various techniques to achieve a sleek, swept-back look. The clip captures the precise 'Mechanism_Of_Action' of the styling process and culminates in a clear 'Result_Transformation', with the client looking directly at the camera, conveying a sense of satisfaction with his newly styled hair.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:27.766",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man's gray hair",
+        "barber styling",
+        "comb",
+        "hands",
+        "haircut",
+        "sleek hairstyle",
+        "satisfied client"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean lighting",
+          "professional videography",
+          "focus on action"
+        ]
+      },
+      "why_kept": "This entire segment represents the core value of the video, showing the complete process from the initial state of the hair, through the professional styling, to the final transformed look. It directly demonstrates 'Process/Labor' and 'Reveal/Result' without any discernible 'setup' or 'dead air' to trim, adhering to the 'No-Mistake' rule."
+    }
+  ]
+}

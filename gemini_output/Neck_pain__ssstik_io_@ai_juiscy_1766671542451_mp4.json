@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Neck pain\\ssstik.io_@ai.juiscy_1766671542451.mp4",
+  "detailed_description": "This video depicts a man experiencing significant neck pain or discomfort in a dimly lit bedroom setting. He is shown massaging his neck, grimacing, and letting out a pained groan, clearly conveying a 'Problem State' of physical suffering. The man's facial expressions and body language serve as the emotional climax, highlighting the acute nature of his ailment, likely disrupting his peace, possibly during a night or morning routine.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "neck pain",
+        "rubbing neck",
+        "grimace",
+        "groaning",
+        "bed",
+        "bedroom",
+        "dim light"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dim lighting",
+          "natural light",
+          "warm tones"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it fully captures the 'Emotional Climax' and 'Problem State' criteria. The man's pained facial expression, groaning, and physical action of rubbing his neck immediately establish discomfort and suffering. The entire duration of the video effectively communicates this core message without any setup, calibration, or post-action dead air, adhering to the 'no-mistake' rule."
+    }
+  ]
+}

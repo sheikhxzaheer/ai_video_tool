@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_21.mp4",
+  "detailed_description": "The video opens with a serene close-up of a woman peacefully sleeping in a luxurious bed, surrounded by soft white pillows and a cozy blanket. Her relaxed facial expression conveys deep comfort and tranquility. Text overlay emphasizes the concept of 'luxury sleep,' highlighting the overall experience of rest and relaxation. This segment effectively serves as a visual hook, immediately conveying a sense of calm and premium comfort associated with sleep.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.162",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Night_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman sleeping",
+        "white pillows",
+        "blanket",
+        "bed",
+        "relaxed face",
+        "luxury sleep text"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "peaceful"
+        ]
+      },
+      "why_kept": "This entire segment is kept because it perfectly encapsulates the 'Semantic Core' by visually demonstrating 'luxury sleep' through the serene image of a woman sleeping comfortably and the explicit text overlay. It functions as a strong visual hook and directly conveys the video's central theme and value proposition. There is no setup or post-action dead air to trim."
+    }
+  ]
+}

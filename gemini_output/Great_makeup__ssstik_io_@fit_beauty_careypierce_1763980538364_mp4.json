@@ -1,0 +1,141 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great_makeup\\ssstik.io_@fit.beauty.careypierce_1763980538364.mp4",
+  "detailed_description": "This video demonstrates an easy way to even out mature skin using highly pigmented cream makeup. The creator highlights the product's concentrated formula, explaining how it differs from liquid foundations diluted with water. She shows a simple dotting application method with fingers, followed by a quick blending technique with a brush to achieve a natural, even skin tone. The video concludes by showcasing the seamless, transformed look and emphasizing the convenience of a single compact and brush.",
+  "segments": [
+    {
+      "start_time": "00:09.700",
+      "end_time": "00:19.800",
+      "structural_tags": [
+        "Product_Intro",
+        "Key_Information",
+        "Product_Interaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "holding makeup compact",
+        "gesturing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment introduces the cream makeup product and its key benefits, setting the stage for the demonstration by explaining its highly pigmented nature, which is crucial to the 'easiest way' claim."
+    },
+    {
+      "start_time": "00:19.800",
+      "end_time": "00:36.400",
+      "structural_tags": [
+        "Process_Labor",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman applying makeup",
+        "dotting face",
+        "fingers"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "demonstrative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "detailed application"
+        ]
+      },
+      "why_kept": "This is a core 'hero moment' demonstrating the initial application technique of the cream makeup, showing the specific process of dotting the product onto the face."
+    },
+    {
+      "start_time": "00:41.500",
+      "end_time": "00:55.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Result_Transformation",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "woman blending makeup",
+        "makeup brush",
+        "face transformation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "transformative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "speed-ramping",
+          "smooth blending"
+        ]
+      },
+      "why_kept": "This segment is crucial as it showcases the transformation of the skin through blending, directly demonstrating how the product effectively evens out mature skin, central to the video's title."
+    },
+    {
+      "start_time": "00:55.000",
+      "end_time": "01:00.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Product_Standalone",
+        "Offer_CTA",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "woman smiling",
+        "even skin",
+        "holding compact and brush",
+        "thumbs up"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "satisfied",
+          "confident",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "final product shot",
+          "expressive gestures"
+        ]
+      },
+      "why_kept": "This concluding segment presents the successful and natural-looking result, reinforces the product's simplicity and effectiveness, and leaves the viewer with a positive impression and implied call to action."
+    }
+  ]
+}

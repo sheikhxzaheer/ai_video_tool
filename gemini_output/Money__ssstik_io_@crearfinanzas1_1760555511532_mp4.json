@@ -1,0 +1,78 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Money\\ssstik.io_@crearfinanzas1_1760555511532.mp4",
+  "detailed_description": "This video demonstrates how to identify a genuine $100 bill by highlighting two key security features. The first feature shown is the color-shifting ink on the number '100,' which transitions from a copper/gold hue to green when the bill is tilted. The second feature explained is the 3D security ribbon, which appears to be woven into the paper, moving in and out, and contains micro-printed images of '100' and small bells that also change appearance with movement. These visual checks are presented as essential steps to distinguish authentic currency from counterfeits.",
+  "segments": [
+    {
+      "start_time": "00:18.000",
+      "end_time": "00:33.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Reveal_Result",
+        "Macro_Detail",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "hand holding dollar bill",
+        "tilting $100 bill",
+        "color changing '100'",
+        "gold to green ink"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear demonstration",
+          "steady camera"
+        ]
+      },
+      "why_kept": "This segment is a clear demonstration of a primary security feature (color-changing ink on the '100' numeral), illustrating the 'Mechanism_Of_Action' and 'Reveal_Result' as the color shifts. It directly addresses the video's core premise of identifying genuine currency."
+    },
+    {
+      "start_time": "00:33.000",
+      "end_time": "00:55.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Reveal_Result",
+        "Macro_Detail",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "hand holding dollar bill",
+        "pointing at security band",
+        "tilting bill",
+        "3D security ribbon",
+        "number '100' in band"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear demonstration",
+          "steady camera",
+          "detailed view"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the second crucial security feature (the 3D security ribbon and the embedded '100' numeral), serving as another vital 'Mechanism_Of_Action' and 'Reveal_Result' that directly supports the video's main objective of showing how to verify a real $100 bill."
+    }
+  ]
+}

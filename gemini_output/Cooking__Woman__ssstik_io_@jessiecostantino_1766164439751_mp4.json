@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cooking\\Woman\\ssstik.io_@jessiecostantino_1766164439751.mp4",
+  "detailed_description": "A woman demonstrates how wearing an apron can help 'romanticize cooking.' The video showcases her putting on a charming blue and white checkered apron with lace details in a well-lit kitchen. She then proceeds to stir something on the stove, embodying a calm and enjoyable cooking experience. The segment concludes with her looking at the camera with a soft, satisfied smile, reinforcing the positive and aesthetic aspect of cooking with an apron.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.135",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Home_Kitchen",
+        "Aesthetic_Broll",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "apron",
+        "blue gingham",
+        "kitchen",
+        "cooking",
+        "stove",
+        "pan",
+        "stirring",
+        "smile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "kitchen",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean kitchen aesthetic",
+          "casual fashion"
+        ]
+      },
+      "why_kept": "This entire segment is kept because it directly illustrates the core message and the 'Hero Moment' criteria. It starts with the 'Product Interaction' (putting on the apron), transitions to 'Process/Labor' (cooking with the apron), and concludes with an 'Emotional Climax'/'Face_Reaction' (a satisfied look), all while prominently featuring the apron as the key element for 'romanticizing cooking.' The video flows seamlessly without any setup, calibration, or post-action dead air, adhering to the 'No-Mistake Rule'."
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pool\\ssstik.io_@sarah.marelli_1766727856819.mp4",
+  "detailed_description": "The video demonstrates the transformation of a backyard pool area through the unboxing and assembly of new outdoor furniture. It showcases the step-by-step process of installing stylish striped umbrellas and comfortable lounge chairs. The video highlights the setup of key items like the umbrella and two poolside loungers. The transformation is clearly presented with a before-and-after sequence, culminating in a beautifully furnished pool deck ready for relaxation.",
+  "segments": [
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:09.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "unboxing",
+        "umbrella",
+        "assembly",
+        "poolside"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright daylight",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment clearly shows the start of the 'set up' process, demonstrating the unpacking and assembly of the new striped umbrella, which is a core part of the backyard pool transformation."
+    },
+    {
+      "start_time": "00:09.500",
+      "end_time": "00:17.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "unboxing",
+        "lounge chairs",
+        "assembly",
+        "cushions"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright daylight",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment continues the 'set up' process, showing the unboxing and placement of the two new lounge chairs and their cushions, adding to the outdoor furniture arrangement."
+    },
+    {
+      "start_time": "00:17.500",
+      "end_time": "00:20.500",
+      "structural_tags": [
+        "Before_After",
+        "Result_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "pool area",
+        "before view",
+        "after view",
+        "umbrellas",
+        "lounge chairs"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clear blue sky",
+          "sunny",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This is the definitive 'hero moment' as it explicitly shows the 'before' state of the pool area and then dramatically transitions to the 'after' state with all the new furniture, effectively showcasing the full transformation and the core value of the video."
+    },
+    {
+      "start_time": "00:22.500",
+      "end_time": "00:26.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "pool",
+        "bar cart",
+        "drinks",
+        "woman relaxing",
+        "inflatable float"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sunny day",
+          "leisurely atmosphere",
+          "inviting"
+        ]
+      },
+      "why_kept": "This segment demonstrates the enjoyment and functionality of the newly set up pool area, showing product interaction with a poolside bar cart and a person relaxing, reinforcing the desired lifestyle outcome of the setup."
+    }
+  ]
+}

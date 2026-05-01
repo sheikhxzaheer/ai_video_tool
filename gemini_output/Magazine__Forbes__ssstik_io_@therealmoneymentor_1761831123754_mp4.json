@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Magazine\\Forbes\\ssstik.io_@therealmoneymentor_1761831123754.mp4",
+  "detailed_description": "The video showcases the Forbes Australia \"50 Richest 2025\" magazine, specifically highlighting a feature article titled \"Mortgage broker turned mortgage breaker.\" It details Graeme Holm's transformation and success with Infinity Group, a budget management and money mentoring company. The smooth pan across the magazine pages reveals key text, images of Holm, and scenes from what appear to be company events or workshops, emphasizing the company's approach to financial literacy and helping clients achieve financial freedom. The video serves as a visual endorsement of the success story featured in a prestigious publication.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:21.00",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Standalone",
+        "Key_Information",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Forbes magazine",
+        "Australia's 50 Richest 2025 cover",
+        "magazine article",
+        "Mortgage broker turned mortgage breaker headline",
+        "Graeme Holm image",
+        "Infinity Group logo",
+        "conference attendees",
+        "text content"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "smooth pan",
+          "flat lay",
+          "magazine spread"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it forms a continuous, unbroken shot directly showcasing the Forbes magazine cover and then panning smoothly to and across the feature article. The magazine itself and its content are the 'product' and 'key information' being presented, making the whole duration the semantic core without any setup/calibration or post-action dead air."
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\Hair Thickening Spray EXTREME TEST! (1).mp4",
+  "detailed_description": "This video features a man addressing his hair loss by testing a hair thickening spray. It chronicles his journey from encountering ads for hair loss solutions to purchasing and applying the 'MANE' brand spray. The core of the video demonstrates the product's application process and showcases compelling before-and-after comparisons for both loose and tied-back hairstyles, effectively revealing how the spray conceals thinning areas and creates the illusion of fuller hair. The video concludes with the man's positive verdict on the product's performance.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.375",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "spray bottle",
+        "applying spray",
+        "thinning hair",
+        "forehead"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment immediately establishes the problem state and introduces the product interaction, serving as a strong visual hook for the video's premise."
+    },
+    {
+      "start_time": "00:01.375",
+      "end_time": "00:02.500",
+      "structural_tags": [
+        "Problem_State",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "man's head",
+        "balding scalp",
+        "thin hair",
+        "top-down view"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "detailed view"
+        ]
+      },
+      "why_kept": "Provides a clear, detailed close-up of the hair loss, visually reinforcing the problem state."
+    },
+    {
+      "start_time": "00:05.416",
+      "end_time": "00:07.416",
+      "structural_tags": [
+        "Product_Intro",
+        "Social_Proof",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Emotional_Climax"
+      ],
+      "visual_keywords": [
+        "man scrolling phone",
+        "Instagram ad",
+        "MANE spray",
+        "man's excited face",
+        "beard",
+        "eyes"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "hopeful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "smartphone interface",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment shows the discovery of the specific product being reviewed and the man's positive reaction, providing motivation and context for the rest of the video."
+    },
+    {
+      "start_time": "00:08.083",
+      "end_time": "00:09.125",
+      "structural_tags": [
+        "Product_Intro",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "Amazon website",
+        "MANE hair thickening spray",
+        "product image",
+        "price"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "screen_capture",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "digital interface",
+          "clear text"
+        ]
+      },
+      "why_kept": "Shows the purchasing details and verifies the specific product, adding to the product's introduction."
+    },
+    {
+      "start_time": "00:09.125",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Behind_The_Scenes",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "hands",
+        "package",
+        "opening",
+        "spray bottle",
+        "MANE logo"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "anticipatory"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "hands-on interaction",
+          "neutral background"
+        ]
+      },
+      "why_kept": "Details the unboxing and initial handling of the product, building anticipation for its use."
+    },
+    {
+      "start_time": "00:12.000",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Before_After",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "man",
+        "side profile",
+        "back of head",
+        "hair bun",
+        "thinning hair",
+        "bald spot"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear perspective",
+          "consistent background"
+        ]
+      },
+      "why_kept": "These 'before' shots clearly establish the baseline appearance of the hair, especially the visible bald spot with the hair tied up, setting up the transformation."
+    },
+    {
+      "start_time": "00:17.041",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Problem_State",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "bathtub",
+        "loose hair strands",
+        "hair loss"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "negative_emotion",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "static shot",
+          "stark white background"
+        ]
+      },
+      "why_kept": "Visually emphasizes the hair loss, reinforcing the problem the product aims to solve."
+    },
+    {
+      "start_time": "00:19.416",
+      "end_time": "00:22.416",
+      "structural_tags": [
+        "Before_After",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "man",
+        "front view",
+        "side view",
+        "back view",
+        "dry hair",
+        "thinning hairline",
+        "bald spot"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "360 view",
+          "natural hair state"
+        ]
+      },
+      "why_kept": "Presents a comprehensive 'before' view of the hair in its natural, dry state, crucial for comparison with the applied product."
+    },
+    {
+      "start_time": "00:23.500",
+      "end_time": "00:32.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "applying spray",
+        "hair thickening spray",
+        "forehead",
+        "crown",
+        "scalp"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "focused",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera movement",
+          "direct application"
+        ]
+      },
+      "why_kept": "This is the core 'process' segment, demonstrating the full application of the product, showing the primary action of the video."
+    },
+    {
+      "start_time": "00:32.000",
+      "end_time": "00:33.416",
+      "structural_tags": [
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair",
+        "fuller appearance",
+        "covered scalp"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive_emotion"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "initial reveal",
+          "facial expression"
+        ]
+      },
+      "why_kept": "Shows the immediate, initial result of the spray application, hinting at the transformation."
+    },
+    {
+      "start_time": "00:33.416",
+      "end_time": "00:34.625",
+      "structural_tags": [
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "man's hand",
+        "wipe",
+        "cleaning hairline",
+        "forehead"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "detail-oriented",
+          "refinement"
+        ]
+      },
+      "why_kept": "Demonstrates a practical step in using the product, addressing potential application errors."
+    },
+    {
+      "start_time": "00:34.625",
+      "end_time": "00:36.000",
+      "structural_tags": [
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "man",
+        "front view",
+        "side view",
+        "hair",
+        "covered scalp"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive_emotion"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear presentation",
+          "improved look"
+        ]
+      },
+      "why_kept": "Offers a clearer view of the improved hair density from multiple angles after the initial application and cleanup."
+    },
+    {
+      "start_time": "00:36.000",
+      "end_time": "00:40.000",
+      "structural_tags": [
+        "Before_After",
+        "Result_Transformation",
+        "Split_Screen"
+      ],
+      "visual_keywords": [
+        "split screen",
+        "before hair",
+        "after hair",
+        "balding",
+        "fuller hair",
+        "back of head",
+        "top of head",
+        "side profile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "shock_surprise",
+          "positive_emotion"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "visual comparison",
+          "dramatic effect"
+        ]
+      },
+      "why_kept": "These split-screen comparisons provide compelling visual evidence of the product's effectiveness on loose hair, showing the direct transformation."
+    },
+    {
+      "start_time": "00:40.000",
+      "end_time": "00:45.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "styling gel/spray",
+        "comb",
+        "hair tie",
+        "wet wipes",
+        "hair bun"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "routine demonstration",
+          "step-by-step"
+        ]
+      },
+      "why_kept": "Shows the product's integration into a full styling routine, demonstrating its versatility and hold in a different hairstyle."
+    },
+    {
+      "start_time": "00:45.000",
+      "end_time": "00:46.000",
+      "structural_tags": [
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "man",
+        "styled hair",
+        "hair bun",
+        "covered scalp"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive_emotion"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "final look",
+          "head-on shot"
+        ]
+      },
+      "why_kept": "Presents the final look after styling the hair into a bun, leading to the final comparisons."
+    },
+    {
+      "start_time": "00:46.000",
+      "end_time": "00:50.000",
+      "structural_tags": [
+        "Before_After",
+        "Result_Transformation",
+        "Split_Screen"
+      ],
+      "visual_keywords": [
+        "split screen",
+        "before hair bun",
+        "after hair bun",
+        "balding",
+        "covered scalp",
+        "top of head",
+        "back of head"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "shock_surprise",
+          "positive_emotion"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "visual comparison",
+          "dramatic effect"
+        ]
+      },
+      "why_kept": "Provides critical side-by-side comparisons of the hair when styled in a bun, highlighting the product's effectiveness in this specific style."
+    },
+    {
+      "start_time": "00:50.000",
+      "end_time": "00:51.583",
+      "structural_tags": [
+        "Key_Information",
+        "Product_Interaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man",
+        "holding product",
+        "pointing",
+        "facial expression",
+        "verdict"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive_emotion",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "enthusiastic tone"
+        ]
+      },
+      "why_kept": "This segment delivers the final verdict and call to action, explicitly stating the product's quality and concluding the review."
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Product\\CNWM_Kristina Klimenova_02_KoreanOvernightSkincare.MOV",
+  "detailed_description": "This video showcases a woman enthusiastically sharing a Korean skincare discovery: the Quia Collagen Night Wrapping Mask. She explains how the mask effectively locks in skincare products overnight for optimal absorption, preventing them from transferring to pillows. The woman highlights her own positive experience, demonstrating the clear and perfect appearance of her skin after just three days of use, attributing it to this advanced Korean beauty hack. She concludes by urging viewers to try the product, emphasizing its transformative benefits.",
+  "segments": [
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:29.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "UGC_Talking_Head",
+        "Product_Interaction",
+        "High_Energy",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "Woman speaking",
+        "pink tube product",
+        "gesturing hands",
+        "kitchen background",
+        "collagen mask"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual wear",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment establishes the video's core concept by introducing the speaker's discovery, presenting the product, and explaining its primary function (locking in skincare overnight) with direct product interaction."
+    },
+    {
+      "start_time": "00:54.000",
+      "end_time": "01:13.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Social_Proof",
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "UGC_Talking_Head",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "Woman holding product",
+        "gesturing",
+        "touching cheek",
+        "clear skin",
+        "glowing skin"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual wear",
+          "natural makeup"
+        ]
+      },
+      "why_kept": "This segment reinforces the product's credibility by mentioning local recommendations (social proof), showcasing the product again, and visually demonstrating the clear skin results achieved through its use, capturing a positive emotional response."
+    },
+    {
+      "start_time": "01:21.000",
+      "end_time": "01:39.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Key_Information",
+        "Offer_CTA",
+        "UGC_Talking_Head",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "Woman holding product",
+        "touching chin",
+        "clear skin",
+        "enthusiastic speaking",
+        "recommending product"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "positive",
+          "enthusiastic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual wear",
+          "persuasive tone"
+        ]
+      },
+      "why_kept": "This segment provides a final visual of the product, reiterates the noticeable skin transformation with a strong positive emotional reaction, and delivers the crucial call to action, encouraging viewers to try the product themselves."
+    }
+  ]
+}

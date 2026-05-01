@@ -1,0 +1,221 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\TikTok\\Julie.mp4",
+  "detailed_description": "The video features a woman introducing a hydration and metabolism blend called 'PREFCT MORNING Tangerine Pulse.' She demonstrates preparing the drink by pouring a sachet of powder into water and mixing it. The woman expresses her transformation from feeling drained and bloated to being alert, hydrated, and energized without coffee crashes. She highlights the product's benefits, including faster hydration with clean glucose, metabolism activation with turmeric and apple cider vinegar, and improved digestion and skin glow. The video concludes by showcasing the product's packaging and emphasizing its superior formulation compared to other electrolytes.",
+  "segments": [
+    {
+      "start_time": "00:00.600",
+      "end_time": "00:07.500",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Intro",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "holding sachet",
+        "kitchen counter"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment introduces the problem state (dehydration, not a morning person) and immediately presents the product as the solution, establishing the context for the rest of the video. The speaker's direct address and product interaction (holding the sachet) make it a strong anchor."
+    },
+    {
+      "start_time": "00:08.500",
+      "end_time": "00:27.700",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Home_Kitchen",
+        "UGC_Talking_Head",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "pouring powder",
+        "pouring water",
+        "glass",
+        "water bottle"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear action",
+          "close-up of hands"
+        ]
+      },
+      "why_kept": "This segment demonstrates the practical 'Process/Labor' of preparing the drink. It visually reinforces the product's ease of use and ties into the narrated 'Problem_State' of prior dehydration and bloating."
+    },
+    {
+      "start_time": "00:35.000",
+      "end_time": "00:46.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Process_Labor",
+        "Product_Interaction",
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Key_Information",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "product bag",
+        "frother",
+        "mixing drink",
+        "yellow liquid",
+        "thumbs up",
+        "woman smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic mixing",
+          "expressive facial reactions"
+        ]
+      },
+      "why_kept": "This segment prominently displays the product packaging, shows the 'Process/Labor' of mixing the drink, and captures an 'Emotional_Climax' with the speaker's positive reaction and thumbs-up, emphasizing key benefits like faster hydration."
+    },
+    {
+      "start_time": "00:47.300",
+      "end_time": "00:59.800",
+      "structural_tags": [
+        "Product_Interaction",
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Result_Transformation",
+        "UGC_Talking_Head",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "drinking from glass",
+        "yellow liquid",
+        "woman's face",
+        "satisfied expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "satisfied",
+          "rejuvenated"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural consumption",
+          "clear taste indication"
+        ]
+      },
+      "why_kept": "This captures the 'Product_Interaction' of drinking and the immediate 'Emotional_Climax' of satisfaction, directly demonstrating the product's pleasant taste and highlighting the 'Result_Transformation' of not needing more coffee."
+    },
+    {
+      "start_time": "01:05.100",
+      "end_time": "01:16.100",
+      "structural_tags": [
+        "Product_Interaction",
+        "Social_Proof",
+        "Positive_Emotion",
+        "Result_Transformation",
+        "Offer_CTA",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "product bag",
+        "thumbs up",
+        "empty glass",
+        "product sachets",
+        "woman smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "confident",
+          "happy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "endorsement gesture",
+          "product variety display"
+        ]
+      },
+      "why_kept": "This segment provides 'Social_Proof' through the speaker's endorsement and positive emotional cues, visually reinforces the product with the bag and individual sachets, and concludes with a clear 'Offer_CTA'."
+    },
+    {
+      "start_time": "01:16.400",
+      "end_time": "01:27.900",
+      "structural_tags": [
+        "Product_Standalone",
+        "Ingredient_Highlight",
+        "Data_Metrics_Chart",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "product packaging",
+        "text details",
+        "ingredients list",
+        "nutrition facts"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "informative",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean typography",
+          "focus on product details"
+        ]
+      },
+      "why_kept": "This segment provides essential 'Key_Information' through 'Macro_Detail' shots of the product packaging, highlighting its unique 'Ingredient_Highlight' and nutritional value, which supports the claims made earlier in the video."
+    }
+  ]
+}

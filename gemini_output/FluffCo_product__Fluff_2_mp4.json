@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_2.mp4",
+  "detailed_description": "This video visually demonstrates the quality and resilience of a white pillow. A hand presses down on the plush surface, showcasing its softness and immediate response to pressure. As the hand lifts, the pillow springs back to its original fluffy shape, highlighting its comfortable and durable characteristics, ideal for a good night's sleep.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.316",
+      "structural_tags": [
+        "Product_Interaction",
+        "Result_Transformation",
+        "Calm_Relaxation",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hand",
+        "white pillow",
+        "pressing",
+        "decompressing",
+        "springing back",
+        "softness",
+        "resilience"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clean aesthetic",
+          "soft textures"
+        ]
+      },
+      "why_kept": "This segment is the semantic core because it directly demonstrates the key properties of the product (the pillow) through tactile interaction. It clearly shows the pillow's softness when pressed and its resilience as it immediately springs back, fulfilling the 'Product Interaction' and 'Result Transformation' criteria without any extraneous footage."
+    }
+  ]
+}

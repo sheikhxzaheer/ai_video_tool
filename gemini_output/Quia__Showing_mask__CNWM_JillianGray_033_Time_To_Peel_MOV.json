@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Showing mask\\CNWM_JillianGray_033_Time To Peel.MOV",
+  "detailed_description": "The video captures a woman with a shiny face mask applied, wearing a pink bow headband. She directly addresses the camera, stating it's time to remove the mask and expressing her excitement for the results. She gently touches her cheek, demonstrating interaction with the product and conveying her anticipation for the skincare outcome, setting the stage for the next step in her routine.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.950",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face mask",
+        "pink headband",
+        "touching face",
+        "smiling",
+        "anticipation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "anticipatory"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "soft lighting",
+          "personal vlog style"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it clearly demonstrates product interaction (touching the applied face mask), an emotional climax (excitement for the results), and key information (announcing the next step in the skincare routine). The subject's direct address to the camera further enhances its role as a hero moment."
+    }
+  ]
+}

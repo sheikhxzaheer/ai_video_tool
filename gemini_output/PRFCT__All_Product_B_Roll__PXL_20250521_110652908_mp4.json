@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250521_110652908.mp4",
+  "detailed_description": "This video captures a moment of tranquil product interaction on a sunny outdoor patio overlooking the ocean. A woman in a leopard print bikini top is seen relaxing on a sun lounger, preparing a health supplement. She carefully opens a smaller, slender packet and pours its contents into a larger pouch, demonstrating the ease of use and integrating the product into a relaxed, luxurious lifestyle setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.474",
+      "structural_tags": [
+        "Product_Interaction",
+        "Calm_Relaxation",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "leopard print bikini",
+        "sun lounger",
+        "health supplement packets",
+        "ocean",
+        "patio",
+        "pouring",
+        "sunlight"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "overhead shot",
+          "luxurious setting"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, showcasing the direct interaction with the product in a lifestyle context. The woman opens one packet and pours its contents into another, which is a clear demonstration of product usage and preparation. There is no setup, calibration, or post-action dead air; the action begins and ends naturally within the video's full duration, making the entire clip relevant."
+    }
+  ]
+}

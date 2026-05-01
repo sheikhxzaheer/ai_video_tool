@@ -1,0 +1,72 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\ssstik.io_1703172906013.mp4",
+  "detailed_description": "This video demonstrates the use of a hair growth device, showing a man applying the blue and black device to his scalp. The primary action is the direct interaction with the product, illustrating its mechanism. The video then concludes with a clear 'Before and After' comparison, visually highlighting the transformative results and increased hair density on the man's scalp, serving as the ultimate reveal of the product's effectiveness.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:15.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair growth device",
+        "applying to scalp",
+        "bald spot",
+        "laser device"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "demonstrative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "selfie perspective"
+        ]
+      },
+      "why_kept": "This segment is kept as it clearly demonstrates the professional action of using the product (the hair growth device) on the scalp, fulfilling the 'Process/Labor' and 'Product Interaction' hero moment criteria. It shows exactly how the product is intended to be used."
+    },
+    {
+      "start_time": "00:29.000",
+      "end_time": "00:32.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair",
+        "scalp",
+        "hair density",
+        "before/after text"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "selfie perspective"
+        ]
+      },
+      "why_kept": "This segment is crucial as it presents the 'Reveal/Result' hero moment with explicit 'Before' and 'After' textual overlays and a visible transformation in hair density, serving as the ultimate proof of the product's effectiveness."
+    }
+  ]
+}

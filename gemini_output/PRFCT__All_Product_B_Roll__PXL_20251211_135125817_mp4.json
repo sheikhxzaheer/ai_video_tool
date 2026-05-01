@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20251211_135125817.mp4",
+  "detailed_description": "This video concisely demonstrates the simple preparation of 'PERFECT MORNING TANGERINE PULSE.' It features a hand selecting a single-serving sachet, expertly tearing it open, and then pouring the vibrant orange powder into a glass of liquid, which is efficiently mixed by an automatic stirrer. The clip highlights the ease and speed of integrating this supplement into a daily routine, focusing on direct product interaction and its seamless dissolution.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Morning_Routine",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "sachet",
+        "powder",
+        "liquid",
+        "glass",
+        "automatic stirrer",
+        "white counter",
+        "PERFECT MORNING branding",
+        "orange powder"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "smooth movement"
+        ]
+      },
+      "why_kept": "This segment comprehensively captures the semantic core of the video, from the initial presentation of the product to its complete preparation. It directly demonstrates product interaction (picking up, tearing, pouring) and the process of mixing, fulfilling the 'Product Interaction' and 'Process/Labor' hero moment criteria without any setup or post-action dead air that would require trimming."
+    }
+  ]
+}

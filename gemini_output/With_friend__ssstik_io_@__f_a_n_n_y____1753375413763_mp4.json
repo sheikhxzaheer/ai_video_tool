@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\With friend\\ssstik.io_@_.f.a.n.n.y.___1753375413763.mp4",
+  "detailed_description": "The video captures a heartwarming moment of a diverse group of six young friends (three girls, three boys) standing closely together in a living room, swaying gently to music with their arms around each other's shoulders. Their smiles and relaxed demeanor convey a strong sense of camaraderie and happiness. A text overlay explicitly states, 'when you finally achieve the girl+boy friend group you've always wanted,' perfectly articulating the emotional and social ideal depicted. The entire segment serves as a visual and emotional representation of achieving a longed-for, balanced social circle.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.875",
+      "structural_tags": [
+        "Visual_Hook",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "group of friends",
+        "smiling",
+        "swaying",
+        "arms around shoulders",
+        "living room",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "warm lighting",
+          "home video style"
+        ]
+      },
+      "why_kept": "This segment is the semantic core of the video as it perfectly illustrates the concept presented by the text overlay 'when you finally achieve the girl+boy friend group you've always wanted.' The visual of the happy, interacting friend group, coupled with their positive emotional expressions and physical closeness, forms a complete and clear 'emotional climax' and a 'reveal/result' of the desired social outcome. As per the 'No-Mistake Rule,' the action starts and ends precisely within this duration, making the entire clip essential."
+    }
+  ]
+}

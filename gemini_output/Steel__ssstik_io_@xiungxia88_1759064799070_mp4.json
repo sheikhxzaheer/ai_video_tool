@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Steel\\ssstik.io_@xiungxia88_1759064799070.mp4",
+  "detailed_description": "This video captures a man stylishly walking alongside a departing metro train on a platform. Dressed in a vibrant green shirt, ripped jeans, a red patterned scarf, and a purple cap, he maintains eye contact with the train as it moves. The continuous shot focuses on his confident gait and the dynamic interplay between his movement and the train's departure, creating a distinct visual performance within an urban transit setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:20.500",
+      "structural_tags": [
+        "Human_Interaction",
+        "Travel_Transit",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "man walking",
+        "metro train",
+        "subway platform",
+        "purple cap",
+        "green shirt",
+        "red scarf",
+        "ripped jeans",
+        "train departing",
+        "urban transit"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "stylish"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic movement",
+          "urban setting",
+          "bright colors",
+          "rhythmic motion"
+        ]
+      },
+      "why_kept": "The entire video is a continuous 'hero moment' demonstrating a stylized walk alongside a moving metro train. There are no setup, calibration, post-action dead air, or mistakes to trim. The action starts immediately with the train's departure and the man's concurrent walk, and it continues cohesively until the end, fulfilling the 'no-mistake' rule by keeping 100% of the duration."
+    }
+  ]
+}

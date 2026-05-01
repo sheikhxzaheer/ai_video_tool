@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Skin operation\\ssstik.io_@xo_clinic_1761417505375.mp4",
+  "detailed_description": "The video showcases a cosmetic thread lift procedure performed on a woman's temples and eyebrows. A practitioner, wearing black gloves, meticulously inserts fine threads beneath the skin, creating a visible lifting effect on her brows and the outer corners of her eyes. The process involves carefully guiding the threads to gently pull and reposition the skin, immediately enhancing the facial contours. The video concludes by highlighting the instant transformation and the patient's subtle, satisfied reaction, with small bandages covering the thread insertion points.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.200",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "thread lift",
+        "cosmetic procedure",
+        "threads",
+        "needles",
+        "pulling skin",
+        "eyebrow lift",
+        "temple lift",
+        "gloved hands",
+        "woman's face",
+        "bandages"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio",
+          "clinical"
+        ],
+        "mood": [
+          "clinical",
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "focused shot",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment demonstrates the core value of the video by showing the complete process of a thread lift procedure, from insertion to the immediate visual transformation and the patient's calm reaction to the results. It encapsulates both 'The Process/Labor' and 'The Reveal/Result' hero moments without any dead air or setup footage."
+    }
+  ]
+}

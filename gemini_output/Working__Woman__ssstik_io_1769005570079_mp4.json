@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Woman\\ssstik.io_1769005570079.mp4",
+  "detailed_description": "The video captures a serene moment of a young woman intently focused on her laptop while sitting on the floor in front of a futon. The scene, complemented by the overlay text 'Just a girl, her laptop, and a dream,' evokes a sense of quiet determination and aspiration. Her posture, with her chin resting on her hand, suggests deep thought or concentration as she engages with her device. The warm and neutral tones of the room contribute to a calm and focused atmosphere, highlighting the intimate connection between her and her work towards a personal goal.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.410",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "girl",
+        "laptop",
+        "futon",
+        "knitted blanket",
+        "working",
+        "focused",
+        "dream",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "focused",
+          "aspirational"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "simple aesthetic",
+          "natural light"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it perfectly encapsulates the 'Semantic Core' of the video. It clearly shows 'THE PROCESS/LABOR' of the individual working or contemplating on her laptop, 'PRODUCT INTERACTION' with the device, and an 'EMOTIONAL CLIMAX' conveyed through her focused facial expression and the aspirational text overlay 'Just a girl, her laptop, and a dream' which serves as 'KEY INFORMATION'. There is no setup, post-action dead air, or extraneous footage, making the entire duration the most concise and effective representation of the video's message."
+    }
+  ]
+}

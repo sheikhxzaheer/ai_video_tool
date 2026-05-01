@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Showing mask\\CNWM_JillianGray_032_Time To Peel.MOV",
+  "detailed_description": "This video captures a young woman expressing her excitement and anticipation to remove a face mask and see its results. She is wearing a pink bow headband, a black tank top, and has a visibly glossy, possibly masked, face. Her direct address to the camera conveys a positive and eager emotional state regarding her skincare routine.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.706",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Night_Routine",
+        "UGC_Talking_Head",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face mask",
+        "pink headband",
+        "shiny face",
+        "speaking",
+        "necklace",
+        "earrings"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it perfectly encapsulates the emotional climax and key information. The subject explicitly states her excitement to see the results of the face mask, which is clearly visible on her face, setting up the anticipation for a product reveal or transformation. Her direct address and visible emotion make it a strong user-generated content moment."
+    }
+  ]
+}

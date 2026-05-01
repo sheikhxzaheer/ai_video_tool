@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Money\\ssstik.io_@wogotrich_1767614463391.mp4",
+  "detailed_description": "This video vividly displays a significant amount of cash, primarily US dollar bills, with some Euro notes also visible. A person's hands are actively counting and fanning out thick stacks of hundred-dollar bills, surrounded by more scattered currency, creating an overwhelming visual of financial abundance. The individual wears a prominent silver bracelet, enhancing the luxurious and opulent atmosphere. The top-down perspective highlights the sheer volume of money, aiming to evoke feelings associated with wealth, success, and prosperity.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.120",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "US dollar bills",
+        "Euro bills",
+        "hands",
+        "counting money",
+        "fanning money",
+        "stacks of money",
+        "silver bracelet",
+        "cash",
+        "wealth"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "energetic",
+          "aspirational"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dark ambient lighting",
+          "top-down view",
+          "money spread out",
+          "luxury aesthetic"
+        ]
+      },
+      "why_kept": "This segment is the entire video and perfectly captures the semantic core: the active display and handling of a large sum of money, symbolizing wealth and luxury. It directly demonstrates the 'process' of interacting with the 'product' (money) and serves as a strong visual hook, making it an ideal anchor without any need for trimming based on the 'no-mistake' rule."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad sleep\\Bad sleep.mp4",
+  "detailed_description": "The video depicts a person sleeping restlessly in a bed, visually conveying discomfort and poor sleep quality. Text overlays appear, stating that the inability to sleep properly is attributed to an inadequate pillow. This segment effectively sets up a common 'Problem State' related to sleep, using a relatable scenario to highlight the impact of a bad pillow on one's night routine.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.975",
+      "structural_tags": [
+        "Problem_State",
+        "Night_Routine",
+        "Human_Interaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "person sleeping",
+        "bed",
+        "white bedding",
+        "pillows",
+        "wooden headboard",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment serves as the Semantic Core by clearly establishing a 'Problem State'. It visually shows a person struggling to sleep comfortably, reinforced by text overlays explicitly stating that the pillow is the cause of improper sleep. This combination of visual discomfort and direct textual information effectively communicates the core issue."
+    }
+  ]
+}

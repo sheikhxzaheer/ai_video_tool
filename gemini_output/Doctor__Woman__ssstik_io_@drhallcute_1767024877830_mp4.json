@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Woman\\ssstik.io_@drhallcute_1767024877830.mp4",
+  "detailed_description": "This video features a humorous medical scenario where a patient prompts the doctor about the current day. The doctor, in scrubs and wearing medical gloves, comically responds with 'Prostate Exam Day?' only to follow it up with an unexpected and absurd punchline, 'F*ck Squidward Day?'. The core segment captures the doctor's action of preparing for an exam while delivering a lighthearted and surprising twist, emphasizing the comedic interaction.",
+  "segments": [
+    {
+      "start_time": "00:01.375",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Key_Information",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "doctor",
+        "medical gloves",
+        "stethoscope",
+        "smiling",
+        "medical examination room",
+        "skeleton model"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "comedic timing",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it encapsulates the primary action (the doctor preparing by putting on gloves), the emotional climax (the doctor's humorous expressions and delivery), and the key information (the comedic dialogue and punchline). It effectively delivers the video's central humorous premise, fulfilling the 'Process/Labor' and 'Emotional Climax' criteria."
+    }
+  ]
+}

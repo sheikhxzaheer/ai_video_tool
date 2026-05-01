@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\A woman is stroking a man's hair\\ðƒðÁÐüÐéð©ÐéÐî ð│ð¥ð╗ð¥ð▓Ðâ Ðçð¥ð╗ð¥ð▓Ðûð║ð░.mp4",
+  "detailed_description": "This video beautifully illustrates a person's love language: gently touching their partner's head while they sleep. The scene captures a tender and intimate moment, focusing on the hands performing the affectionate gesture. The soft lighting and close-up perspective enhance the sense of warmth and deep connection between the individuals, conveying a feeling of calm and loving care.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:23.760",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand touching head",
+        "sleeping person",
+        "intimate gesture",
+        "bedroom setting",
+        "curtains",
+        "ring",
+        "bracelet"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "loving",
+          "intimate"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "warm tones",
+          "intimate framing",
+          "gentle motion"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, directly illustrating the stated 'love language' through the gentle and continuous action of touching a sleeping person's head. There is no irrelevant footage, setup, or post-action dead air; the visual perfectly matches the textual information and emotional intent from start to finish."
+    }
+  ]
+}

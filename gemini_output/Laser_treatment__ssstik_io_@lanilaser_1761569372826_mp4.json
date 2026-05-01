@@ -1,0 +1,55 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Laser treatment\\ssstik.io_@lanilaser_1761569372826.mp4",
+  "detailed_description": "This video captures a close-up of a professional performing a laser skin treatment on a patient's face. The practitioner, wearing gloves, uses a handheld laser device to target specific pigmented spots on the patient's temple area. The patient has white protective coverings over their eyes, and the distinct red light of the laser is visible as it precisely pulses on the skin. The footage highlights the methodical application of the aesthetic procedure in a clean, clinical setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.750",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Clinical"
+      ],
+      "visual_keywords": [
+        "laser treatment",
+        "skin",
+        "face",
+        "professional",
+        "gloves",
+        "patient",
+        "eye protection",
+        "laser device",
+        "red light",
+        "pigmented spots",
+        "procedure"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "steady camera",
+          "professional lighting",
+          "detailed action"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it directly demonstrates the core action of the video: a professional performing a laser skin treatment. It showcases 'The Process/Labor' and 'Product Interaction' continuously, with no identifiable setup, dead air, or extraneous footage. The value of the video lies entirely in this demonstration."
+    }
+  ]
+}

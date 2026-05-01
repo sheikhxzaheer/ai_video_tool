@@ -1,0 +1,134 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Hair on comb\\ssstik.io_1745229178937.mp4",
+  "detailed_description": "This video effectively showcases a common hair care problem: the tedious task of removing tangled hair from a brush. It then introduces an innovative self-cleaning hairbrush as a solution. The core of the video demonstrates the product's unique mechanism: with a single press of a button, the bristles retract, instantly releasing all the trapped hair into the sink. This effortless transformation from a hair-filled brush to a clean one highlights the product's ease of use and efficiency, positioning it as a magical 'game-changer' for daily routines.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.400",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "hand",
+        "traditional hair brush",
+        "tangled hair",
+        "pulling hair",
+        "sink"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": []
+      },
+      "why_kept": "This segment clearly establishes the problem state with a traditional brush, showing the frustration of hair stuck in it, which the new product aims to solve."
+    },
+    {
+      "start_time": "00:03.400",
+      "end_time": "00:04.900",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Solution_Oriented"
+      ],
+      "visual_keywords": [
+        "hand",
+        "new self-cleaning hair brush",
+        "hair in brush",
+        "sink"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": []
+      },
+      "why_kept": "This segment introduces the new product, setting up the expectation for its unique cleaning mechanism before the actual demonstration."
+    },
+    {
+      "start_time": "00:04.900",
+      "end_time": "00:07.800",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "hand",
+        "pressing button",
+        "self-cleaning hair brush",
+        "bristles retracting",
+        "hair falling",
+        "hair in sink"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetics",
+          "quick action"
+        ]
+      },
+      "why_kept": "This is the core 'hero moment' demonstrating the product's unique selling proposition: the effortless, one-press self-cleaning mechanism, showing the immediate transformation and solving the problem."
+    },
+    {
+      "start_time": "00:07.800",
+      "end_time": "00:11.300",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Standalone",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "clean self-cleaning hair brush",
+        "hand",
+        "hair collected",
+        "sink"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sparkling effect"
+        ]
+      },
+      "why_kept": "This segment clearly showcases the successful outcome of using the product, with a clean brush and all hair neatly collected, reinforcing the product's benefit."
+    }
+  ]
+}

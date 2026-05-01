@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\BottlePointing.mp4",
+  "detailed_description": "The video features a man in a kitchen setting, confidently presenting a product identified as 'MoldMD Mold Spot Remover'. He holds the white spray bottle prominently, pointing directly to its label with his finger, while looking at the camera with a subtle, positive smile. The segment serves as a direct introduction or endorsement of the cleaning product, highlighting its branding and purpose.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "glasses",
+        "blue shirt",
+        "MoldMD",
+        "spray bottle",
+        "mold spot remover",
+        "pointing",
+        "smiling",
+        "kitchen",
+        "countertop",
+        "cabinets",
+        "watch"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "natural lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it clearly demonstrates a 'Product Interaction' (holding the product and pointing to its label) and serves as a 'Product_Intro'. The subject's direct gaze and positive facial expression ('Face_Reaction', 'Positive_Emotion') engage the viewer, making it a key moment for conveying information about the product. There's no 'Setup & Calibration' or 'Post-Action Dead Air' to trim, making the entire continuous action the hero moment according to the 'No-Mistake' rule."
+    }
+  ]
+}

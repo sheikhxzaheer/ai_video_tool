@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad mold spray\\NFTWhale3.mp4",
+  "detailed_description": "A man attempts to clean a kitchen cabinet with a spray cleaner, but immediately experiences a severe allergic reaction, characterized by intense sneezing and coughing. He struggles to wipe away the sprayed cleaner with a tissue while visibly distressed. This segment effectively highlights a potential problem state associated with irritating cleaning products, showcasing the immediate and uncomfortable side effects of their use.",
+  "segments": [
+    {
+      "start_time": "00:07.800",
+      "end_time": "00:29.800",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "spray bottle",
+        "spraying cleaner",
+        "kitchen cabinet",
+        "sneezing",
+        "coughing",
+        "wiping with tissue"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen",
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "frantic",
+          "uncomfortable"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear shot"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it visually demonstrates the direct interaction with a cleaning product (spraying), immediately followed by a strong, negative physical reaction (sneezing and coughing), and the attempt to remedy the situation by wiping. This sequence clearly establishes a 'Problem_State' and 'Negative_Emotion' related to the product, making it the most impactful and informative part of the video according to the 'Emotional Climax' and 'Product Interaction' criteria."
+    }
+  ]
+}

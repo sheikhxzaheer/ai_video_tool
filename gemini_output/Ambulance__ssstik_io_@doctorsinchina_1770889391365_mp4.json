@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@doctorsinchina_1770889391365.mp4",
+  "detailed_description": "This video captures a critical moment in a hospital as a team of medical professionals urgently rushes a patient on a stretcher. A dedicated doctor is seen kneeling on the stretcher, actively providing immediate care, likely CPR, while the patient is being transported at high speed. The scene emphasizes the doctors' and nurses' race against time, showcasing their intense commitment and the life-or-death urgency of the situation as they push the patient towards the ICU.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.750",
+      "structural_tags": [
+        "Urgency_Rush",
+        "Human_Interaction",
+        "High_Energy",
+        "Workspace_Office",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "hospital",
+        "doctors",
+        "nurses",
+        "patient",
+        "stretcher",
+        "CPR",
+        "medical emergency",
+        "ICU",
+        "medical equipment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "energetic",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "fast-paced",
+          "documentary style",
+          "emergency lighting"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the semantic core because it vividly depicts the 'Process/Labor' of medical professionals in an emergency. The key action of a doctor kneeling on the stretcher to provide care while racing against time perfectly illustrates the dedication and urgency. The scene starts with the full action and ends naturally as they enter the ICU, fulfilling the 'No-Mistake Rule' for trimming."
+    }
+  ]
+}

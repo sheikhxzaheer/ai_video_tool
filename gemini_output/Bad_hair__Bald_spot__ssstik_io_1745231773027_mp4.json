@@ -1,0 +1,76 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\Bald spot\\ssstik.io_1745231773027.mp4",
+  "detailed_description": "This video captures a man's emotional journey from sadness and self-consciousness due to a bald head to happiness and renewed youthfulness after undergoing Scalp Micropigmentation (SMP). It serves as a clear before-and-after demonstration, highlighting the psychological transformation and the aesthetic benefits of SMP, allowing him to feel like a teenager again.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.800",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "bald head",
+        "man looking sad",
+        "crying",
+        "frustrated expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "sad"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bathroom lighting",
+          "stark background"
+        ]
+      },
+      "why_kept": "This segment establishes the 'Problem State' and 'Negative Emotion' clearly, showing the man's initial dissatisfaction with his bald head, which is crucial context for the subsequent transformation."
+    },
+    {
+      "start_time": "00:07.900",
+      "end_time": "00:19.400",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man with buzz cut",
+        "SMP hair",
+        "smiling",
+        "happy",
+        "touching head",
+        "playful dancing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "happy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "dynamic movements"
+        ]
+      },
+      "why_kept": "This segment showcases the 'Result_Transformation' of the SMP treatment, depicting the man's profound 'Positive_Emotion' and renewed confidence, making it the 'after' part of the core narrative."
+    }
+  ]
+}

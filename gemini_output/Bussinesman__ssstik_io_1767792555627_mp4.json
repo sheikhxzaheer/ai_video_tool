@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bussinesman\\ssstik.io_1767792555627.mp4",
+  "detailed_description": "This video captures a motivational speaker engaging an audience in a modern office setting. The speaker, a blonde woman, shares her personal journey and empowers listeners with the message that 'if you believe on it everything is possible.' The camera pans across the diverse group of attendees, showing their attentiveness and positive reactions, emphasizing the human interaction and inspiring atmosphere. The scene conveys a sense of mentorship and shared learning, with the speaker actively demonstrating her passion for teaching and motivating others.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.600",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Workspace_Office",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "speaker",
+        "audience",
+        "meeting room",
+        "oval table",
+        "drinks",
+        "snacks",
+        "presentation",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "energetic",
+          "positive",
+          "inspiring"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "panning shots",
+          "bright lighting",
+          "modern decor",
+          "engagement"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating a motivational speaker actively engaging an audience and delivering a key message, as highlighted by the on-screen text. The continuous interaction, positive reactions from the audience, and the speaker's dynamic presence encapsulate the video's central theme of sharing knowledge and inspiring belief. There are no redundant or off-topic frames; the action begins and ends within the core message delivery."
+    }
+  ]
+}

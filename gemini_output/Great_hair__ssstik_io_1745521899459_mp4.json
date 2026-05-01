@@ -1,0 +1,156 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1745521899459.mp4",
+  "detailed_description": "The video captures a young man lying on a pillow, engaging intimately with the camera through a series of evolving expressions and close-ups. It begins with a calm, inviting gaze and a gentle smile, transitioning into a playful gesture of covering his mouth. The core moment features an intense, wide-eyed close-up under a pinkish light, conveying deep emotional connection and vulnerability. The sequence concludes with a settling, focused gaze, maintaining the intimate atmosphere throughout.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.280",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "lying down",
+        "pillow",
+        "smiling",
+        "direct gaze",
+        "relaxed pose"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "intimate"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "natural look"
+        ]
+      },
+      "why_kept": "This segment establishes the initial intimate and calm tone, engaging the viewer with a direct gaze and gentle expression, setting the stage for the subsequent interactions."
+    },
+    {
+      "start_time": "00:04.280",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "hand over mouth",
+        "playful gesture",
+        "eye contact"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "subtle movement",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment adds a dynamic and playful element to the interaction, showing a distinct facial expression and gesture that contributes to the emotional arc."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Face_Reaction",
+        "Human_Interaction",
+        "High_Energy",
+        "Aesthetic_Broll",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "man",
+        "close-up",
+        "wide eyes",
+        "direct gaze",
+        "pink lighting",
+        "intense expression",
+        "dynamic camera"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "intense",
+          "alluring",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "pink lighting",
+          "dynamic camera movement",
+          "wet hair look",
+          "expressive eyes"
+        ]
+      },
+      "why_kept": "This is the primary 'Hero Moment' as it features a strong emotional climax. The extreme close-up, wide-eyed gaze, and dramatic shift to pink lighting, coupled with camera movement, create the most impactful and engaging interaction."
+    },
+    {
+      "start_time": "00:12.000",
+      "end_time": "00:15.100",
+      "structural_tags": [
+        "Face_Reaction",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "close-up",
+        "focused gaze",
+        "settling",
+        "pillow"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "intimate"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "pink lighting",
+          "resolving focus",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment serves as a concluding moment, bringing the intensity back to a more settled and intimate connection with the viewer after the emotional climax, providing a sense of resolution."
+    }
+  ]
+}

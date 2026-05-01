@@ -1,0 +1,185 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid naughty\\ssstik.io_@funnykids0077_1763985734704.mp4",
+  "detailed_description": "This video compilation humorously highlights the stark difference in patience levels among young children when faced with various tasks or perceived failures. It showcases moments of intense frustration and anger, leading to violent outbursts or giving up, contrasted with instances of calm focus and perseverance. The video effectively illustrates how easily children can lose their temper when things don't go their way, making it a relatable portrayal of childhood emotional responses.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Emotional_Climax",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "baby",
+        "hitting toy",
+        "frustration",
+        "anger"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "simple background"
+        ]
+      },
+      "why_kept": "This segment immediately sets the video's core theme of 'lack of patience' with a visually strong and relatable example of a baby's frustration and an overlay text that defines the video's premise."
+    },
+    {
+      "start_time": "00:04.900",
+      "end_time": "00:09.900",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Emotional_Climax",
+        "Malfunction_Fail",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "toddler",
+        "stacking rings",
+        "throwing toy",
+        "anger"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "home setting",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This clip further emphasizes the theme of lack of patience and anger, providing another clear example of a child reacting with frustration when a task is not easily accomplished."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "toddler",
+        "straw",
+        "cup",
+        "patience",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "home setting",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment serves as a direct and effective contrast to the frustration, illustrating 'what patience looks like' as described in the text, showcasing a child's calm focus and a positive emotional outcome."
+    },
+    {
+      "start_time": "00:15.900",
+      "end_time": "00:21.500",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Emotional_Climax",
+        "Malfunction_Fail",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "boy",
+        "hockey",
+        "puck",
+        "goalie dummy",
+        "hitting",
+        "frustration"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "driveway/yard setting",
+          "bright daylight"
+        ]
+      },
+      "why_kept": "This clip adds another dimension to the 'lack of patience' theme, showing an older child's frustrated reaction during a game, relatable to competitive failures."
+    },
+    {
+      "start_time": "00:55.900",
+      "end_time": "00:59.900",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Emotional_Climax",
+        "Malfunction_Fail",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "child",
+        "video game",
+        "losing",
+        "controller",
+        "throwing",
+        "kicking",
+        "anger"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "living room setting",
+          "ambient light"
+        ]
+      },
+      "why_kept": "This segment vividly portrays the emotional climax of losing, a common trigger for a child's lack of patience, showing a clear outburst of anger and frustration."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Happy\\Woman\\ssstik.io_@persianguilda_1761900787688.mp4",
+  "detailed_description": "The video vividly portrays a high-energy morning routine of a woman in pink pajamas who decides to embrace happiness. It captures her playful dancing, the process of making her bed from a disheveled state to a tidy one, and her cheerful preparation with accessories. The entire sequence embodies a positive transformation and a joyful start to the day, directly illustrating the overlaid message of randomly deciding to be happy.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.458",
+      "structural_tags": [
+        "Visual_Hook",
+        "Positive_Emotion",
+        "High_Energy",
+        "Morning_Routine",
+        "Human_Interaction",
+        "Result_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pajamas",
+        "dancing",
+        "bed",
+        "making bed",
+        "blanket",
+        "pillows",
+        "room",
+        "pink decor",
+        "slippers",
+        "hair bow",
+        "jumping"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "clear view"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the narrative of 'waking up and randomly deciding to be happy' through a combination of energetic dancing, making the bed (a transformation from messy to tidy), and playful morning preparation, all infused with positive emotion and high energy."
+    }
+  ]
+}

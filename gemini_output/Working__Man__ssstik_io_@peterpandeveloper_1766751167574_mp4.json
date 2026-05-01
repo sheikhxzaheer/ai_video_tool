@@ -1,0 +1,365 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Man\\ssstik.io_@peterpandeveloper_1766751167574.mp4",
+  "detailed_description": "This video vividly demonstrates the transformation of a traditional workstation into a dynamic, portable setup. It highlights the ease and efficiency of a compact, foldable monitor stand and an external monitor, enabling a developer to effortlessly create a dual-screen environment on the go. The content showcases the quick assembly and versatility of the portable monitor, which can be rotated to suit various workflow needs, alongside a MacBook Pro. By presenting a seamless transition from packing a home setup to actively coding in a café, the video effectively conveys enhanced productivity and the freedom to work from any location.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "desktop setup",
+        "large monitor",
+        "desk",
+        "computer"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean desk",
+          "modern lighting"
+        ]
+      },
+      "why_kept": "Establishes a 'before' context of a fixed workstation, setting up the problem that the portable solution will address."
+    },
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "monitor",
+        "packing",
+        "bag"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up",
+          "action shot"
+        ]
+      },
+      "why_kept": "Shows the initial action of disassembling the home setup, hinting at the transition to portability."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Travel_Transit",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "hand",
+        "backpack",
+        "car interior"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic shot",
+          "sunlight"
+        ]
+      },
+      "why_kept": "Provides a brief transitional shot indicating movement from one location to another, essential for setting up the mobile workstation context."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "cafe entrance",
+        "coffee cup",
+        "hand",
+        "tray"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "ambient light",
+          "cafe aesthetic"
+        ]
+      },
+      "why_kept": "Sets the scene in a café, a common remote work environment, and shows a casual interaction with the coffee, establishing a work-from-anywhere lifestyle."
+    },
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "laptop",
+        "backpack",
+        "table",
+        "opening laptop"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "flat lay",
+          "clean setup"
+        ]
+      },
+      "why_kept": "Demonstrates the initial setup of the core computing device in the portable workstation."
+    },
+    {
+      "start_time": "00:14.000",
+      "end_time": "00:15.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "portable monitor",
+        "stand",
+        "laptop sleeve",
+        "unboxing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "reveal",
+          "sleek design"
+        ]
+      },
+      "why_kept": "This segment introduces the main product (portable monitor and stand) and its clever storage solution within a laptop sleeve, highlighting its compact nature."
+    },
+    {
+      "start_time": "00:15.500",
+      "end_time": "00:20.500",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "monitor stand",
+        "assembly",
+        "attaching monitor",
+        "hands"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "step-by-step",
+          "ease of use"
+        ]
+      },
+      "why_kept": "Clearly demonstrates the quick and intuitive assembly process of the portable monitor stand and the monitor itself, showcasing a key product feature."
+    },
+    {
+      "start_time": "00:20.500",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "USB-C cable",
+        "connecting",
+        "monitor screen",
+        "display on"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "seamless connection",
+          "instant display"
+        ]
+      },
+      "why_kept": "Shows the essential connection of the monitor and the immediate result of the screen activating, confirming its functionality."
+    },
+    {
+      "start_time": "00:25.000",
+      "end_time": "00:30.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "display settings",
+        "rotating monitor",
+        "vertical display",
+        "dual screens"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "versatile setup",
+          "ergonomic adjustment",
+          "multi-tasking"
+        ]
+      },
+      "why_kept": "Highlights the monitor's flexibility to change orientation, a crucial feature for different workflows, and presents the final dual-screen setup."
+    },
+    {
+      "start_time": "00:30.500",
+      "end_time": "00:32.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "portable mouse",
+        "keyboard",
+        "setting up peripherals"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "organized setup",
+          "productivity tools"
+        ]
+      },
+      "why_kept": "Completes the mobile workstation, showing how additional peripherals contribute to a fully functional and productive remote setup."
+    },
+    {
+      "start_time": "00:33.500",
+      "end_time": "00:40.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Result_Transformation",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "typing code",
+        "website preview",
+        "dual screens",
+        "coffee",
+        "productive work"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "workflow demonstration",
+          "coding environment",
+          "lifestyle shot"
+        ]
+      },
+      "why_kept": "This is the ultimate demonstration of the product's value, showing active use in a real-world scenario, highlighting the enhanced productivity and convenience of the dual-screen setup for coding."
+    }
+  ]
+}

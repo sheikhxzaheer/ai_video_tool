@@ -1,0 +1,111 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Gym\\Woman\\ssstik.io_@itsssevval_1767349434215.mp4",
+  "detailed_description": "This video features a woman demonstrating her upper body workout routine at a gym. It showcases her performing three distinct exercises: dumbbell shoulder presses, Smith machine shoulder presses, and cable machine chest/shoulder flyes. The video highlights the process of her active lifestyle and commitment to training, specifically targeting upper body muscles as indicated by the on-screen text.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.350",
+      "structural_tags": [
+        "Process_Labor",
+        "Lifestyle_Active",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "gym",
+        "dumbbell",
+        "shoulder press",
+        "workout"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "focused shot"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the first exercise of the upper body workout, establishing the primary action and the core theme."
+    },
+    {
+      "start_time": "00:05.400",
+      "end_time": "00:09.250",
+      "structural_tags": [
+        "Process_Labor",
+        "Lifestyle_Active",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "gym",
+        "Smith machine",
+        "shoulder press",
+        "workout"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "gym interior"
+        ]
+      },
+      "why_kept": "This segment shows another key upper body exercise, complementing the initial dumbbell press and adding variety to the workout demonstration."
+    },
+    {
+      "start_time": "00:12.350",
+      "end_time": "00:16.400",
+      "structural_tags": [
+        "Process_Labor",
+        "Lifestyle_Active",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "gym",
+        "cable machine",
+        "chest fly",
+        "workout"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic angle",
+          "focused action"
+        ]
+      },
+      "why_kept": "This segment completes the demonstration of different upper body exercises, reinforcing the theme of a comprehensive workout routine."
+    }
+  ]
+}

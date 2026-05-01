@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Gym\\Woman\\ssstik.io_@pilatesbyalice___1768401626084.mp4",
+  "detailed_description": "This video showcases a group of women actively participating in a Pilates reformer class. They are seen performing various dynamic exercises, including core-strengthening planks, pike movements, and controlled leg extensions, all utilizing the specialized reformer machines. The setting is a bright, modern studio with clean aesthetics, featuring exposed wooden beams and reflective mirrors that amplify the sense of space and activity. The segment captures the focused and energetic flow of a contemporary Pilates workout.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "Pilates",
+        "reformer machine",
+        "exercise",
+        "workout",
+        "women",
+        "plank",
+        "leg lifts",
+        "studio"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "modern studio",
+          "bright lighting",
+          "exposed beams",
+          "mirrored wall"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it constitutes the core demonstration of the Pilates workout process. It clearly shows the professional action ('THE PROCESS/LABOR') of women performing exercises on reformer machines ('PRODUCT INTERACTION') continuously from start to finish, without any setup, dead air, or non-essential dialogue."
+    }
+  ]
+}

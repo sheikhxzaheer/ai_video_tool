@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Perfum\\ssstik.io_@jirethmerchan_1760870095863.mp4",
+  "detailed_description": "This video captures a woman joyfully applying perfume or body mist. She repeatedly sprays the fragrance on her neck and chest, making expressive, satisfied facial expressions, smiling broadly. The text overlay indicates this is her typical reaction every time she uses perfume, highlighting the positive emotional experience associated with the product.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:07.12",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "perfume bottle",
+        "spraying",
+        "smiling",
+        "makeup",
+        "room",
+        "beauty routine"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "clean background",
+          "makeup focus",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the core action of applying perfume and the associated positive emotional climax. The user's 'No-Mistake Rule' applies here as the video starts directly with the action and ends after the final satisfied expression, embodying the entire concept presented by the overlaid text."
+    }
+  ]
+}

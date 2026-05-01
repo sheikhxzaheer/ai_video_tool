@@ -1,0 +1,41 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Routine\\Petting cat_relaxing in bed.MOV",
+  "detailed_description": "The video captures a serene moment of a woman lying in bed, gently cradling and petting a fluffy white cat. The cat is sound asleep, nestled comfortably in her arms. The woman occasionally looks towards the camera with a calm expression, showcasing a peaceful and affectionate interaction between her and her pet. The scene conveys a sense of quiet companionship and relaxation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.410",
+      "structural_tags": [
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman petting cat",
+        "sleeping cat",
+        "blonde hair",
+        "bed",
+        "white cat"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "affectionate"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "intimate shot"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it perfectly encapsulates the core meaning and emotional essence of the video: a tender, calm interaction between a woman and her sleeping cat. There are no 'setup' or 'post-action dead air' frames; the continuous petting and the peaceful mood constitute the full hero moment."
+    }
+  ]
+}

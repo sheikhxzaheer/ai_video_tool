@@ -1,0 +1,79 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ssstik.io_1751798813841.mp4",
+  "detailed_description": "The video documents a 10-day process of attempting to bleach hair using lemons. It begins with the subject squeezing fresh lemon juice directly onto their dark hair, demonstrating the application method for this natural lightening technique. The juice is then massaged thoroughly into the hair, initiating the 'bleaching' process. The video then transitions to day 10, revealing a significant transformation in hair color. The hair has visibly lightened from its original dark shade to a golden-brown, showcasing the before-and-after effect of using lemons as a hair lightener over time. This highlights both the natural method and its eventual outcome.",
+  "segments": [
+    {
+      "start_time": "00:01.084",
+      "end_time": "00:03.951",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "squeezing lemon",
+        "applying lemon juice",
+        "rubbing hair",
+        "wet hair",
+        "dark hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "energetic",
+          "experimental"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "mirror reflection"
+        ]
+      },
+      "why_kept": "This segment clearly shows the initial action of applying lemon juice to the hair on 'Day 1', which is the core process of the experiment being demonstrated."
+    },
+    {
+      "start_time": "00:04.708",
+      "end_time": "00:09.123",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "lightened hair",
+        "golden-brown hair",
+        "wavy hair",
+        "mirror selfie",
+        "black mask",
+        "hair style"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "satisfied",
+          "achieved"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "mirror reflection"
+        ]
+      },
+      "why_kept": "This segment displays the significant transformation of the hair after 10 days, presenting the 'After' state and the successful outcome of the lemon bleaching process, serving as the main reveal."
+    }
+  ]
+}

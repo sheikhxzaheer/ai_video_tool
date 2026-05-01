@@ -1,0 +1,95 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury hotel\\ssstik.io_@thatgemruby_1762418803249.mp4",
+  "detailed_description": "The video opens with a woman's exaggerated and joyful reaction, expressed through a wide-eyed gaze and a hand covering her mouth, implying deep awe and surprise. This emotional climax is explicitly linked by on-screen text to checking into a 'most beautiful Paris hotel.' The subsequent segments visually confirm this, offering a luxurious tour of the hotel's ornate interiors, showcasing exquisite gold detailing, grand mirrors, and elegant furnishings. The tour extends to the hotel's common areas and picturesque exterior, revealing classic Parisian architecture. The video effectively captures the excitement and opulent beauty of a high-end travel experience in Paris.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Shock_Surprise",
+        "Human_Interaction",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "woman",
+        "surprised face",
+        "hand over mouth",
+        "looking up",
+        "expressive",
+        "hotel room background"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "glamorous aesthetic",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment is the primary 'Emotional Climax' and 'Visual_Hook,' directly portraying the woman's genuine awe and surprise as she reacts to the luxurious hotel, which is explicitly stated in the on-screen text. It sets the emotional tone and context for the entire video."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:16.500",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Reveal_Transformation",
+        "Product_Standalone",
+        "Travel_Transit",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "Paris hotel room",
+        "ornate gold decor",
+        "fireplace",
+        "large mirror",
+        "bed",
+        "sofa",
+        "windows",
+        "ceiling details",
+        "staircase",
+        "courtyard",
+        "hotel exterior",
+        "classic architecture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "outdoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "aesthetic"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "ornate detailing",
+          "classic architecture",
+          "warm lighting",
+          "elegant design"
+        ]
+      },
+      "why_kept": "These segments serve as the 'Reveal/Result,' providing visual evidence of the 'most beautiful Paris hotel' that caused the initial reaction. They showcase the opulent interiors and grand exteriors, effectively demonstrating the hotel's beauty and supporting the video's core message."
+    }
+  ]
+}

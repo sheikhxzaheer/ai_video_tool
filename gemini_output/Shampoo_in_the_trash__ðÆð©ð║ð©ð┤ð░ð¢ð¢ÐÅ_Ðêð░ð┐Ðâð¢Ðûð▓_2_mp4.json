@@ -1,0 +1,172 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Shampoo in the trash\\ðÆð©ð║ð©ð┤ð░ð¢ð¢ÐÅ Ðêð░ð┐Ðâð¢Ðûð▓ 2.mp4",
+  "detailed_description": "This video introduces a new men's shampoo, encouraging viewers to discard their old products. It showcases the unboxing and reveal of a premium-looking shampoo with a chocolate and coffee scent. The video then demonstrates the product's texture by dispensing it into a hand, followed by footage of a person actively using the shampoo to wash their hair, highlighting its lathering ability. Finally, it provides the Wildberries article number for purchase, positioning the shampoo as an ideal gift.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.300",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "hands",
+        "shampoo bottles",
+        "trash can"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "everyday setting"
+        ]
+      },
+      "why_kept": "This segment serves as an engaging visual hook, establishing the 'problem' (old shampoos) and setting the stage for the 'solution' (the new product)."
+    },
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Reveal_Result",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hands",
+        "package",
+        "unwrapping",
+        "shampoo bottle"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "unboxing",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is a 'Hero Moment' as it visually introduces the new product, fulfilling the 'Product_Intro' and 'Reveal_Result' criteria by showing the shampoo emerging from its packaging."
+    },
+    {
+      "start_time": "00:08.520",
+      "end_time": "00:12.160",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Macro_Detail",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "shampoo pump",
+        "gel texture",
+        "shampoo"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "product demonstration",
+          "texture focus"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the product's physical properties (texture, consistency) and its dispensing mechanism, serving as a key 'Product_Interaction' and 'Mechanism_Of_Action' hero moment."
+    },
+    {
+      "start_time": "00:12.920",
+      "end_time": "00:17.300",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "person",
+        "washing hair",
+        "shampoo lather",
+        "shower",
+        "water"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "refreshing"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "shower routine",
+          "product in use"
+        ]
+      },
+      "why_kept": "This is the primary 'Hero Moment' as it directly showcases the shampoo in its intended 'Process/Labor' of washing hair. It demonstrates the product's performance, such as lathering and rinsing, making it the most valuable and visually coherent segment for understanding the product's core function."
+    },
+    {
+      "start_time": "00:19.460",
+      "end_time": "00:21.460",
+      "structural_tags": [
+        "Key_Information",
+        "Offer_CTA",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "shampoo bottle",
+        "shelf",
+        "article number",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "product display",
+          "information overlay"
+        ]
+      },
+      "why_kept": "This segment provides crucial 'Key_Information' and acts as a clear 'Offer_CTA', directing viewers to where they can purchase the product by displaying the article number."
+    }
+  ]
+}

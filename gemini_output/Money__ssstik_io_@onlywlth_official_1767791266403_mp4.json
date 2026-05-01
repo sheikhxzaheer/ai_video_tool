@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Money\\ssstik.io_@onlywlth_official_1767791266403.mp4",
+  "detailed_description": "The video prominently displays a large sum of US currency, primarily $100 bills and stacks of $20 bills, spread across a striped surface. A hand, adorned with a gold bracelet, is actively fanning out multiple stacks of $100 bills, emphasizing the volume and quantity of cash. The visual presentation, coupled with a rap song playing in the background that talks about having money in a bank account, creates an overall impression of wealth and financial abundance. The scene is set to highlight the material possession of significant funds.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.067",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Human_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "US dollar bills",
+        "$100 bills",
+        "$20 bills",
+        "stacks of cash",
+        "fanning money",
+        "gold bracelet",
+        "striped background"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "low light",
+          "money display",
+          "gold jewelry"
+        ]
+      },
+      "why_kept": "This entire segment serves as the core 'reveal' or 'result' of the video, demonstrating the possession and interaction with a large sum of money. The action of fanning the bills directly showcases the quantity and is the main subject of the video, making it the complete 'Hero Moment' without any extraneous setup or post-action dead air."
+    }
+  ]
+}

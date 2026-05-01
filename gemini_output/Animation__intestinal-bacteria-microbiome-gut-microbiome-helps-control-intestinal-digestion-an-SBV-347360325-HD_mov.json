@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\intestinal-bacteria-microbiome-gut-microbiome-helps-control-intestinal-digestion-an-SBV-347360325-HD.mov",
+  "detailed_description": "This video provides a detailed 3D animation illustrating the diverse microbial environment within the human gut. It showcases various types of bacteria, depicted in different colors and shapes, floating and interacting with the intricate landscape of intestinal villi. The animation offers a scientific, microscopic view into the digestive system, emphasizing the dynamic and complex nature of the gut microbiome, which is crucial for overall health and well-being.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.467",
+      "structural_tags": [
+        "Visual_Hook",
+        "Cellular_Deep_Dive",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "gut bacteria",
+        "microbiome",
+        "intestinal villi",
+        "microorganisms",
+        "probiotics",
+        "3D animation",
+        "digestive system"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "scientific illustration",
+          "biological detail",
+          "smooth motion",
+          "microscopic view"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core of the video. It continuously illustrates the gut microbiome with various bacteria floating around intestinal villi. The animation starts and ends precisely with the visual action, making it a complete 'hero moment' of visual explanation and adhering to the 'No-Mistake Rule'."
+    }
+  ]
+}

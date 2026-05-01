@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLlife_product\\Scene27_Happy Customer.mov",
+  "detailed_description": "This video captures a heartwarming interaction between a woman and her small dog, as she introduces a pet product. The woman smiles warmly while holding her dog, reinforcing a positive and caring bond with her pet. She clearly displays a round product tin, subtly rotating it to showcase its design, which features images of dogs. The overall scene conveys a sense of happiness and highlights the product in a relatable, pet-owner context.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "dog",
+        "pet",
+        "product tin",
+        "smile",
+        "kiss",
+        "pet owner"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "warm tone"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by clearly introducing the product within a positive, emotionally resonant context. The woman's interaction with her dog (holding, kissing, smiling) creates a strong visual association of care and happiness, directly linking to the pet product she is presenting. The moment she rotates the product tin towards the camera specifically highlights the item, fulfilling the product interaction criterion."
+    }
+  ]
+}

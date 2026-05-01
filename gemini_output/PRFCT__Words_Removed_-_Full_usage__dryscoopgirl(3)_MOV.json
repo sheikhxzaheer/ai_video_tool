@@ -1,0 +1,202 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\Words Removed - Full usage\\dryscoopgirl(3).MOV",
+  "detailed_description": "This video features a woman introducing 'Perfect Morning Tangerine Pulse,' an electrolyte drink, as a convenient alternative to dry scooping pre-workout. She demonstrates the straightforward preparation process by opening a single-serving packet and pouring the powder into a cup. The core meaning focuses on the ease of product interaction, the benefit of electrolytes, and her positive experience while consuming the drink.",
+  "segments": [
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:07.450",
+      "structural_tags": [
+        "Product_Intro",
+        "Key_Information",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "product pouch",
+        "Perfect Morning Tangerine Pulse",
+        "electrolytes",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "selfie style"
+        ]
+      },
+      "why_kept": "This segment serves as the main introduction to the product, clearly showing its name and stating its key benefit (electrolytes), setting the context for the rest of the video."
+    },
+    {
+      "start_time": "00:13.200",
+      "end_time": "00:15.600",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "small stick packet",
+        "product packaging"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus on product",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment visually introduces the individual serving size of the product, showing its form factor."
+    },
+    {
+      "start_time": "00:15.600",
+      "end_time": "00:27.700",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "opening packet",
+        "hands",
+        "7-Eleven cup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focus on hands",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial step of preparing the drink, showcasing the ease of opening the packet and her preparation method using a cup, which is a 'Process' and 'Product Interaction' moment."
+    },
+    {
+      "start_time": "00:27.700",
+      "end_time": "00:30.300",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "opening cup",
+        "cup lid"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused on action",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This brief segment shows the preparation of the receiving container before the product is added, ensuring continuity of the process."
+    },
+    {
+      "start_time": "00:30.300",
+      "end_time": "00:37.350",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pouring powder",
+        "cup",
+        "drink preparation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focus on pouring action",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This is a key 'Process' and 'Product Interaction' moment, showing the powder being mixed, which is central to how the product is used."
+    },
+    {
+      "start_time": "00:37.350",
+      "end_time": "00:56.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "drinking",
+        "straw",
+        "satisfied expression",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "upbeat",
+          "bright lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment captures the final 'Product Interaction' (consumption) and clearly displays a 'Positive_Emotion' and 'Face_Reaction,' signaling satisfaction and enjoyment of the drink."
+    }
+  ]
+}

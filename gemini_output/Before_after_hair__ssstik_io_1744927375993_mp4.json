@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ssstik.io_1744927375993.mp4",
+  "detailed_description": "The video addresses a common misconception where a visible scalp through straight hair is mistaken for balding. The speaker demonstrates this by pointing to his own hair and then utilizes an AI hair analysis app, 'HairSnap,' which initially identifies his visible scalp as 'Stage 2 hair loss' and 'mild hair loss' with a high risk of recession. He then clarifies that for healthy straight hair, a visible scalp is often normal, contradicting the AI's assessment and emphasizing that hair health isn't solely judged by scalp visibility alone. The segment provides key information, shows product interaction, and reveals data to support its central argument.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.664",
+      "structural_tags": [
+        "Problem_State",
+        "Key_Information",
+        "Product_Interaction",
+        "Data_Metrics_Chart",
+        "Social_Proof",
+        "Face_Reaction",
+        "Reveal_Result",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair",
+        "scalp",
+        "hand",
+        "pointing",
+        "app screen",
+        "hair analysis data",
+        "charts",
+        "diffuse thinning",
+        "hair loss stage"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "well-lit",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This entire segment is crucial as it introduces a common misconception (Problem_State), actively demonstrates it on the speaker's own hair, introduces a product (HairSnap app) for analysis (Product_Interaction), displays the app's diagnostic data (Data_Metrics_Chart, Social_Proof), and then provides a clarifying explanation (Key_Information, Reveal_Result) that concludes the main point. There are no redundant frames or setup/calibration moments; the content is consistently valuable."
+    }
+  ]
+}

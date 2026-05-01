@@ -1,0 +1,39 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLife_working\\sleep_in_bed_2.mov",
+  "detailed_description": "The video captures a serene moment of a golden-colored dog deeply asleep in a comfortable, fluffy dog bed. The dog's face is relaxed, eyes closed, indicating profound rest and peace. A plush bunny toy rests near the dog, adding to the cozy and calm atmosphere of the indoor setting. The scene emphasizes comfort and tranquility.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:18.423",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "sleeping dog",
+        "dog bed",
+        "plush toy",
+        "white wall",
+        "light switch"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "cozy atmosphere"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it perfectly captures the sole 'hero moment' of the video: a dog in a state of complete calm and relaxation, sleeping peacefully in its bed. There are no setup frames or post-action dead air; the entire duration conveys the core message of tranquility and comfort."
+    }
+  ]
+}

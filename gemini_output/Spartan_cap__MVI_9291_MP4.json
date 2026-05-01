@@ -1,0 +1,82 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan cap\\MVI_9291.MP4",
+  "detailed_description": "This video features a black baseball cap equipped with an internal LED light panel. It demonstrates the product's primary functionality by showing a hand interacting with a button to cycle through various light colors, including red, blue, and purple. The video further highlights the cap's modular design, showcasing the easy removal of the LED panel and revealing the cap's exterior with its 'SPARTAN' branding. This illustrates both the aesthetic and practical features of the wearable device.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.750",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Visual_Hook",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hand",
+        "cap",
+        "LED lights",
+        "red lights",
+        "blue lights",
+        "purple lights",
+        "button",
+        "light panel"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "premium",
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "product-focused"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it visually demonstrates the primary function of the product: the LED lights turning on, changing colors (red, blue, purple), and responding to user interaction, providing a strong visual hook for its unique feature."
+    },
+    {
+      "start_time": "00:12.750",
+      "end_time": "00:22.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Result_Transformation",
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "cap",
+        "black cap",
+        "LED panel",
+        "SPARTAN logo",
+        "modular design"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "premium",
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "product-focused"
+        ]
+      },
+      "why_kept": "This segment complements the primary demonstration by showing the modularity of the cap, specifically the removal of the LED panel and the subsequent reveal of the cap's exterior and brand ('SPARTAN' logo), thus providing a comprehensive view of the product's design and features."
+    }
+  ]
+}

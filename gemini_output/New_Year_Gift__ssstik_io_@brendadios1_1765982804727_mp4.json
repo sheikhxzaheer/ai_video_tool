@@ -1,0 +1,187 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\New Year Gift\\ssstik.io_@brendadios1_1765982804727.mp4",
+  "detailed_description": "The video showcases a lively Christmas-themed small gift exchange game played by a group of women around a red table adorned with festive decorations. The game involves the participants taking turns revealing small, often humorous or quirky gifts from bags, which range from miniature alcohol bottles and face masks to makeup and binder clips. Each reveal is met with smiles, laughter, and expressions of surprise, highlighting the playful and social atmosphere of the holiday activity.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Product_Interaction",
+        "Result_Transformation",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "women",
+        "hands",
+        "red table",
+        "gift bag",
+        "lipsticks",
+        "gold balls",
+        "Christmas hats"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "festive lighting",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This segment establishes the game's premise, shows the initial gift reveal, and captures the participants' engagement and positive reaction, setting the tone for the entire video. The on-screen text also provides immediate context."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:07.100",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "women",
+        "hands",
+        "gift bag",
+        "miniature alcohol bottles",
+        "face masks"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "festive lighting",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This segment further demonstrates the core game mechanic of revealing gifts and showcases a different set of small, varied items, reinforcing the 'small gift exchange' concept."
+    },
+    {
+      "start_time": "00:18.400",
+      "end_time": "00:21.100",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "women",
+        "hands",
+        "gift bag",
+        "lip balms",
+        "makeup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "festive lighting",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This segment adds another variation to the gift reveal, showing a taller gift bag and different personal care items, maintaining the visual interest and the theme of the game."
+    },
+    {
+      "start_time": "00:24.000",
+      "end_time": "00:27.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Emotional_Climax",
+        "Shock_Surprise",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "women",
+        "hands",
+        "red bucket",
+        "binder clips",
+        "laughter"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "surprise"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "festive lighting",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This segment captures a clear emotional climax, with the unexpected reveal of binder clips from the bucket, generating strong reactions of laughter and surprise from the participants, which is a key aspect of gift exchange games."
+    },
+    {
+      "start_time": "00:28.100",
+      "end_time": "00:30.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "miniature alcohol",
+        "face masks",
+        "table mirror",
+        "lip balm",
+        "rum cream"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "product showcase",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This close-up shot serves as a final 'reveal' or 'result' showcasing the variety and nature of the small gifts exchanged during the game, providing a summary of the 'products' featured."
+    }
+  ]
+}

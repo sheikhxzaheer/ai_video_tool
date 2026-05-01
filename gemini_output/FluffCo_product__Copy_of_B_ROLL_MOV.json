@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B ROLL.MOV",
+  "detailed_description": "The video captures a playful interaction in a bedroom setting, where unseen hands attempt to wake a woman who is comfortably nestled in bed. The woman, initially appearing asleep, reacts with a charming smile and gentle resistance, pulling her pillow closer and covering her face. The segment highlights the lighthearted and affectionate nature of the attempt to rouse her, showcasing genuine positive emotion.",
+  "segments": [
+    {
+      "start_time": "00:03.400",
+      "end_time": "00:18.400",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "pillow",
+        "hands",
+        "waking up",
+        "smiling",
+        "blanket",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "affectionate"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "domestic setting",
+          "natural camera angle"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully captures the main action and emotional essence of the video: the playful attempt to wake someone up and their warm, resistive reaction. It showcases human interaction, clear facial expressions of positive emotion, and the core narrative without any extraneous setup or post-action dead air."
+    }
+  ]
+}

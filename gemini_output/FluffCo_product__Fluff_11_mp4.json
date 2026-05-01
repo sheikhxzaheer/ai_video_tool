@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_11.mp4",
+  "detailed_description": "This video showcases a person placing and arranging two white pillows on a bed with light pink sheets and a grey tufted headboard. The action emphasizes the ease of use and the comforting nature of the pillows. Text overlays describe the pillows as having 'the perfect mix of soft and supportive,' highlighting their key features and benefits for a comfortable sleep.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.233",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Home_Kitchen",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "pillows",
+        "bed",
+        "hand",
+        "arranging",
+        "bedroom",
+        "pink sheets",
+        "grey headboard"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it directly demonstrates the 'Product Interaction' by showing a person placing and adjusting pillows on a bed. It simultaneously provides 'Key Information' through text overlays, describing the product's benefits ('perfect mix of soft and supportive'), making it a comprehensive 'Hero Moment' that introduces the product's features and utility."
+    }
+  ]
+}

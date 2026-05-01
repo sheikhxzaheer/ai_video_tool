@@ -1,0 +1,244 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Hair lost\\ssstik.io_1744924371378.mp4",
+  "detailed_description": "This video showcases a personal hair care journey, starting with the common problem of excessive hair loss on pillows and in the shower drain. It then transitions into a series of actionable steps implemented to combat this issue. The routine includes changes like reducing hair washing frequency, applying rosemary oil to the scalp, incorporating eggs and avocado into breakfast, using a red LED cap, and regular scalp massages. The video concludes by revealing the positive transformation, displaying healthy, voluminous hair as a result of these consistent efforts.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.267",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "hair on pillow",
+        "hair in drain",
+        "hand",
+        "clump of hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home",
+          "bathroom"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "everyday lighting",
+          "realistic"
+        ]
+      },
+      "why_kept": "This segment effectively establishes the core problem of hair loss, acting as a strong visual hook and setting the context for the hair care solutions presented in the rest of the video."
+    },
+    {
+      "start_time": "00:02.500",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Night_Routine",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman washing hair",
+        "shower",
+        "water",
+        "long dark hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "smooth transition"
+        ]
+      },
+      "why_kept": "This segment illustrates a key change in the routine – reducing hair washing frequency – demonstrating an active step in addressing hair health."
+    },
+    {
+      "start_time": "00:05.200",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "Mielle rosemary oil bottle",
+        "dropper",
+        "oil application",
+        "hand"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear product focus"
+        ]
+      },
+      "why_kept": "This segment highlights the specific product used (rosemary oil) and demonstrates its application, providing a concrete step in the hair strengthening routine."
+    },
+    {
+      "start_time": "00:07.200",
+      "end_time": "00:09.100",
+      "structural_tags": [
+        "Process_Labor",
+        "Morning_Routine",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "cracking egg",
+        "avocado",
+        "cooking pan",
+        "hands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "everyday activity"
+        ]
+      },
+      "why_kept": "This segment shows the dietary aspect of the hair care routine, emphasizing a holistic approach by incorporating beneficial foods like eggs and avocado."
+    },
+    {
+      "start_time": "00:09.200",
+      "end_time": "00:12.300",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "red LED cap",
+        "power bank",
+        "woman wearing cap",
+        "red light"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "demonstrative"
+        ]
+      },
+      "why_kept": "This segment introduces and demonstrates the use of a red LED cap, showcasing another specific tool or technique employed in the hair care journey."
+    },
+    {
+      "start_time": "00:12.400",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Night_Routine",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman massaging scalp",
+        "hands",
+        "long hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "self-care"
+        ]
+      },
+      "why_kept": "This segment highlights the consistent practice of scalp massage, an important hands-on step in promoting hair health and growth."
+    },
+    {
+      "start_time": "00:14.100",
+      "end_time": "00:16.800",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "long voluminous hair",
+        "salon environment",
+        "healthy hair",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio",
+          "salon"
+        ],
+        "mood": [
+          "positive",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "professional lighting",
+          "glamorous",
+          "satisfied expression"
+        ]
+      },
+      "why_kept": "This segment provides the ultimate 'reveal' of the successful hair transformation, showcasing the healthy and voluminous hair achieved after following the routine, acting as the payoff for the problem presented at the beginning."
+    }
+  ]
+}

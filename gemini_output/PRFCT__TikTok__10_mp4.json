@@ -1,0 +1,121 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\TikTok\\10.mp4",
+  "detailed_description": "This video addresses why people might wake up tired even after adequate sleep, attributing it to morning dehydration. The speaker introduces 'Perfect Morning Electrolytes' as a solution, showcasing both the large pouch and individual packets. She emphasizes the product's benefits, including its non-salty taste, rapid hydration, provision of clean energy, and ability to reduce bloating. The video concludes with a direct call to action, encouraging viewers to purchase the electrolytes from the TikTok Shop due to their immediate effectiveness.",
+  "segments": [
+    {
+      "start_time": "00:11.000",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Social_Proof",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "woman",
+        "holding product pouch",
+        "Perfect Morning Electrolytes",
+        "talking",
+        "enthusiastic"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct address",
+          "natural makeup",
+          "jewelry"
+        ]
+      },
+      "why_kept": "This segment introduces the core product, 'Perfect Morning Electrolytes,' showcasing its main packaging. The speaker immediately conveys a strong, positive, and personal endorsement of its effectiveness within minutes, making it the primary solution to the previously discussed problem (which was trimmed based on the Visual Priority Rule)."
+    },
+    {
+      "start_time": "00:19.000",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman",
+        "holding single packet",
+        "electrolyte packet",
+        "gesturing",
+        "explaining usage"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment provides practical, actionable information by showing the individual product packet and explaining the simple 'Mechanism_Of_Action' (how to mix it with water), reinforcing the product's ease of use and 'Product_Interaction'."
+    },
+    {
+      "start_time": "00:22.000",
+      "end_time": "00:39.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Result_Transformation",
+        "Key_Information",
+        "Offer_CTA",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Urgency_Rush"
+      ],
+      "visual_keywords": [
+        "woman",
+        "holding single packet",
+        "gesturing",
+        "talking",
+        "benefits",
+        "call to action"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "informative",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct address",
+          "natural makeup",
+          "jewelry"
+        ]
+      },
+      "why_kept": "This segment comprehensively lists the product's key benefits, such as a non-salty taste, fast hydration, clean energy, and anti-bloating effects, representing the 'Result_Transformation'. It culminates with a clear 'Offer_CTA' for purchase on TikTok Shop, complete with 'Urgency_Rush' to encourage immediate action."
+    }
+  ]
+}

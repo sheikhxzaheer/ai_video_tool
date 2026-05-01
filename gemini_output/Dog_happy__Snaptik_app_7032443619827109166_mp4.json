@@ -1,0 +1,55 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Dog happy\\Snaptik.app_7032443619827109166.mp4",
+  "detailed_description": "This video captures the pure joy and energetic spirit of a golden retriever dog. The dog is shown in various outdoor settings, exhibiting clear positive emotions through its happy expressions, panting smiles, and playful movements. From looking up adoringly at its owner to running freely on a boardwalk, the dog's high energy and happiness are consistently highlighted, creating a heartwarming and upbeat visual experience. The accompanying rhythmic audio further emphasizes its cheerful disposition.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:11.391",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "golden retriever",
+        "dog",
+        "happy",
+        "smiling",
+        "panting",
+        "running",
+        "leash",
+        "sidewalk",
+        "pavement",
+        "boardwalk",
+        "water",
+        "trees"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "street",
+          "nature"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "natural light",
+          "handheld shot",
+          "close-up on dog's face",
+          "dynamic movement"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, consistently demonstrating the golden retriever's high energy and pure joy through various actions and expressions – looking up happily, panting with a smile, and running freely. The dog's positive emotional climax is sustained throughout, making the entire clip a cohesive 'hero moment' of happiness and vitality. The implied human interaction (leash, looking up) and dog's reactions are central."
+    }
+  ]
+}

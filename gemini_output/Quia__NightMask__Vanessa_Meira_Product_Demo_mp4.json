@@ -1,0 +1,198 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_ Vanessa Meira_Product Demo.mp4",
+  "detailed_description": "This video demonstrates a comprehensive Korean beauty night skincare routine using two QUIA products: a Collagen Night Wrapping Mask and a Collagen Niacinamide Jelly Cream. The user first applies the clear, gel-like mask with a brush, leaving it on overnight. The next morning, she meticulously peels off the mask, then washes and dries her face, expressing visible satisfaction with the immediate results. Following this, she applies the hydrating jelly cream, further enhancing her skin's glow and concluding the routine with a happy, refreshed complexion. The video beautifully showcases the products' application, efficacy, and the overall positive experience.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Product_Interaction",
+        "Process_Labor",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "skincare product",
+        "face mask",
+        "gel",
+        "brush",
+        "application",
+        "woman",
+        "hands",
+        "forehead",
+        "cheek"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear gel texture",
+          "smooth application"
+        ]
+      },
+      "why_kept": "This segment serves as a strong visual hook and introduces the first product by demonstrating its initial application process, clearly showing the 'wrapping mask' texture and how it's applied to the face."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:06.100",
+      "structural_tags": [
+        "Night_Routine",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "sleeping",
+        "bed",
+        "face mask"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home_bedroom"
+        ],
+        "mood": [
+          "calm",
+          "relaxed"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "peaceful"
+        ]
+      },
+      "why_kept": "This short segment emphasizes the 'night' aspect of the mask, showing that it's designed to be left on overnight, reinforcing the product's intended use and convenience."
+    },
+    {
+      "start_time": "00:06.100",
+      "end_time": "00:14.300",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation",
+        "Emotional_Climax",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "face mask",
+        "peeling",
+        "hands",
+        "woman",
+        "washing face",
+        "towel",
+        "touching face",
+        "smiling",
+        "skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "energetic",
+          "happy",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "satisfying peel",
+          "fresh skin"
+        ]
+      },
+      "why_kept": "This is a key 'reveal' segment, showcasing the satisfying process of peeling off the mask and immediately followed by the washing, drying, and the user's happy reaction to her refreshed skin, demonstrating the product's effectiveness."
+    },
+    {
+      "start_time": "00:14.300",
+      "end_time": "00:21.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Process_Labor",
+        "Emotional_Climax",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "skincare product",
+        "jelly cream",
+        "jar",
+        "brush",
+        "application",
+        "woman",
+        "hands",
+        "face",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "happy",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "smooth texture",
+          "glowing skin"
+        ]
+      },
+      "why_kept": "This segment introduces the second product, the jelly cream, and demonstrates its application as part of a complete skincare routine, reinforcing the benefit and culminating in a final, satisfied emotional response."
+    },
+    {
+      "start_time": "00:21.500",
+      "end_time": "00:27.700",
+      "structural_tags": [
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "skincare products",
+        "packaging",
+        "tube",
+        "jar",
+        "brush",
+        "plant",
+        "marble surface"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "aesthetic"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "product display"
+        ]
+      },
+      "why_kept": "This final segment provides a clean, aesthetic standalone shot of both products, serving as a clear product introduction and reinforcing the brand identity after the demonstration."
+    }
+  ]
+}

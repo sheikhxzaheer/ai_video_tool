@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Shampoo in the trash\\ð¿ð░ð╝ð┐Ðâð¢Ðî ð╗ðÁÐéð©ÐéÐî ð▓ ÐâÐÇð¢Ðâ.mp4",
+  "detailed_description": "This video captures a short, relatable moment where a person attempts to throw a small yellow ball into a trash can. The sequence begins by establishing the setup with the ball on the floor and a nearby trash can, accompanied by a voiceover setting the task. The hand then picks up the ball and attempts to toss it, but the ball misses the target, bounces off a wall, and lands back on the floor, showcasing a simple task with a failed outcome.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.333",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Malfunction_Fail",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "hand",
+        "yellow ball",
+        "trash can",
+        "floor",
+        "throw",
+        "miss"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "casual lighting",
+          "everyday scene"
+        ]
+      },
+      "why_kept": "This segment captures the complete narrative arc of the video, from the initial setup and intention (visual hook, problem state implied by the ball on the floor and voiceover setting the task) through the process of throwing the ball, to the final reveal of the missed shot and the ball landing back on the floor (result transformation, malfunction/fail). It is a coherent and self-contained 'hero moment' demonstrating an attempt and its outcome."
+    }
+  ]
+}

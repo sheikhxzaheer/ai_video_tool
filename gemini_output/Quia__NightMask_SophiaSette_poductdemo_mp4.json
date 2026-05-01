@@ -1,0 +1,122 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_SophiaSette_poductdemo.mp4",
+  "detailed_description": "This video vividly demonstrates a Korean beauty nighttime skincare routine. It showcases the application of a collagen night wrapping mask using a silicone brush, followed by the satisfying reveal of the mask being peeled off, highlighting its unique mechanism. The routine concludes with the introduction and application of a hydrating collagen cream, emphasizing product interaction and leaving the user with a visibly refreshed and happy complexion. The entire sequence effectively focuses on the product experience and the desired skin transformation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "pink tube",
+        "collagen night mask",
+        "silicone brush",
+        "clear gel mask",
+        "face application",
+        "squeezing tube"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "focused product view"
+        ]
+      },
+      "why_kept": "This segment introduces the first product (mask) and demonstrates its initial application process, setting the stage for the skincare routine and highlighting active product interaction."
+    },
+    {
+      "start_time": "00:05.000",
+      "end_time": "00:11.700",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "peeling mask",
+        "clear film",
+        "face skin",
+        "hands peeling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "satisfying"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "detailed action shot",
+          "peel-off effect"
+        ]
+      },
+      "why_kept": "This segment is a key 'hero moment' as it showcases the unique peeling mechanism of the mask, which is a significant product feature and a visually satisfying 'reveal' of its function."
+    },
+    {
+      "start_time": "00:11.700",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Result_Transformation",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "red jar",
+        "collagen cream",
+        "finger application",
+        "smiling face",
+        "hydrated skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "happy",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "smooth application",
+          "satisfied expression"
+        ]
+      },
+      "why_kept": "This final segment introduces the second product (cream), demonstrates its application, and culminates in a positive emotional reaction and a clear visual of the desired skin transformation, completing the routine."
+    }
+  ]
+}

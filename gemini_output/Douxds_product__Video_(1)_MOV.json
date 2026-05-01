@@ -1,0 +1,280 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Douxds product\\Video (1).MOV",
+  "detailed_description": "The video effectively showcases a facial cleansing device's ability to transform skin over time. It starts by highlighting a man's significant acne and bumps (problem state). The product is then introduced, followed by a clear demonstration of its usage, including applying cleanser and the actual facial cleansing process, where the user expresses clear satisfaction. A powerful 'three months later' transition reveals a remarkable 'after' state, with the man's skin appearing significantly clearer and smoother. The video concludes with the man confidently smiling, emphasizing the positive emotional impact of the skin improvement.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man's face",
+        "acne",
+        "skin bumps",
+        "skin imperfections",
+        "side profile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "problematic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "close-up detail"
+        ]
+      },
+      "why_kept": "This segment serves as the crucial 'before' state, visually establishing the problem (severe acne) that the product aims to address, creating a strong visual hook for the transformation narrative."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:12.700",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "black facial cleansing device",
+        "silicone bristles",
+        "hand holding product",
+        "product features",
+        "shopping carousel"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio",
+          "other"
+        ],
+        "mood": [
+          "premium",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "modern design",
+          "digital interface"
+        ]
+      },
+      "why_kept": "This segment introduces the product visually, showcasing its design and key features, providing context for the upcoming demonstration."
+    },
+    {
+      "start_time": "00:12.700",
+      "end_time": "00:19.400",
+      "structural_tags": [
+        "Key_Information",
+        "Product_Interaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man speaking",
+        "holding device",
+        "explaining usage",
+        "face wash instructions"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "casual setting",
+          "direct address"
+        ]
+      },
+      "why_kept": "The speaker provides essential, concise instructions on how to use the device, actively holding it during his explanation, which combines key information with direct product interaction."
+    },
+    {
+      "start_time": "00:36.700",
+      "end_time": "00:39.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "man pumping cleanser",
+        "Cetaphil bottle",
+        "applying product to device",
+        "preparation step"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "demonstrative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear action",
+          "bathroom background"
+        ]
+      },
+      "why_kept": "This segment visually demonstrates the crucial step of applying cleanser to the device, a core product interaction essential for its proper use."
+    },
+    {
+      "start_time": "00:44.800",
+      "end_time": "01:40.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Emotional_Climax",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man cleansing face",
+        "facial brush massage",
+        "device in use",
+        "smiling",
+        "enjoyment",
+        "blue light"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "satisfied",
+          "enjoyable"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "gentle circular motions",
+          "glowing indicator light",
+          "happy expression"
+        ]
+      },
+      "why_kept": "This is the primary 'action' segment, showcasing the product being actively used on the face, with the user's positive emotional reaction reinforcing the pleasurable experience and ease of use."
+    },
+    {
+      "start_time": "01:40.000",
+      "end_time": "01:41.800",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "text overlay",
+        "time lapse indicator",
+        "transition"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "text_overlay",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "bold typography",
+          "black screen"
+        ]
+      },
+      "why_kept": "This text overlay is a critical narrative element, clearly signaling the passage of time and setting up the dramatic 'after' reveal, which is central to the product's value proposition."
+    },
+    {
+      "start_time": "01:42.100",
+      "end_time": "01:54.000",
+      "structural_tags": [
+        "Reveal_Result",
+        "Before_After",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "clear skin",
+        "smooth complexion",
+        "healed acne",
+        "healthy skin",
+        "man's face",
+        "side profile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "satisfaction",
+          "clean"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "clean skin texture",
+          "clear pores"
+        ]
+      },
+      "why_kept": "This segment delivers the core 'after' result, visually demonstrating the significant improvement in the man's skin condition, providing compelling proof of the product's effectiveness."
+    },
+    {
+      "start_time": "01:54.000",
+      "end_time": "02:03.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Social_Proof",
+        "Reveal_Result"
+      ],
+      "visual_keywords": [
+        "smiling man",
+        "healthy skin",
+        "confident expression",
+        "dashiki shirt",
+        "outdoor setting"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "joyful",
+          "confident",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "authentic smile",
+          "lifestyle shot"
+        ]
+      },
+      "why_kept": "This segment provides a strong emotional climax, showing the man's genuine happiness and confidence with his improved skin, reinforcing the overall positive outcome and product benefit."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Man\\ssstik.io_@vikaizoita_1766671258324.mp4",
+  "detailed_description": "The video humorously depicts a wife playfully disturbing her sleeping husband. Despite the overlaid text suggesting she aims to 'be his peace,' she repeatedly pokes, prods, and tickles him awake, leading to a series of escalating and annoyed reactions from him. The husband's initial confusion quickly turns into a frustrated, almost combative, stance, followed by grumpy expressions, while the wife finds amusement in her mischievous antics. The core message is a lighthearted portrayal of couple's playful teasing.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:12.800",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Emotional_Climax",
+        "Result_Transformation",
+        "Negative_Emotion",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "hand poking",
+        "sleeping husband",
+        "husband stirs",
+        "husband clenches fist",
+        "husband sits up annoyed",
+        "wife laughing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "humorous"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "close-up interaction",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the core premise of the video: the wife playfully annoying her husband. It showcases the initial gentle pokes, the husband's dramatic reaction of nearly fighting while waking, and the wife's visible amusement, encapsulating the humor and dynamic of their interaction. The text overlay 'he was about to fight' is also key here."
+    },
+    {
+      "start_time": "00:22.900",
+      "end_time": "00:33.700",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "hand poking nose",
+        "sleeping husband",
+        "husband twitches"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "gentle interaction",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment provides another instance of the wife's playful disruption, showing a different method (poking the nose) and a more subdued reaction from the husband, adding variation to the recurring theme without the need for additional narrative."
+    },
+    {
+      "start_time": "00:46.000",
+      "end_time": "00:57.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Result_Transformation",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "hand on back",
+        "husband waking up",
+        "grumpy expression",
+        "husband turns away"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "annoyed"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "interaction from behind",
+          "low light"
+        ]
+      },
+      "why_kept": "This segment further illustrates the husband's escalating annoyance by showing him explicitly waking up with a grumpy face and turning away, reinforcing the video's central theme of his sleep being disturbed."
+    }
+  ]
+}

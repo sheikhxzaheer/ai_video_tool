@@ -1,0 +1,171 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sofa_couch is dirty\\ssstik.io_@carolina.mccauley_1768409013967.mp4",
+  "detailed_description": "This video demonstrates a simple and effective method for removing stains from a fabric couch. It begins by showcasing the visibly stained upholstery, then proceeds through a step-by-step cleaning process. The user first sprays the stained areas with a glass cleaner, scrubs the fabric with a soft sponge, and then wipes it down with a damp cloth. The video concludes by showing the couch in a much cleaner state, emphasizing the transformation achieved after the cleaning process and allowing it to dry.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "stained couch",
+        "fabric upholstery",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'problem state' by showing the dirty couch and sets the context for the video's purpose with the text overlay 'Remove stains from your couch'."
+    },
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "spray bottle",
+        "glass cleaner",
+        "couch fabric",
+        "spraying"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "purposeful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "action shot"
+        ]
+      },
+      "why_kept": "This is the core 'hero moment' as it demonstrates the initial and crucial product interaction (spraying the cleaner) and the start of the solution, making it the anchor for the cleaning process."
+    },
+    {
+      "start_time": "00:05.000",
+      "end_time": "00:09.667",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "soft sponge",
+        "scrubbing",
+        "couch fabric",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "purposeful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "action shot"
+        ]
+      },
+      "why_kept": "This segment shows the direct 'process/labor' of cleaning, detailing the scrubbing action with a soft sponge, which is a key step in the stain removal mechanism."
+    },
+    {
+      "start_time": "00:09.667",
+      "end_time": "00:11.433",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "damp cloth",
+        "wiping",
+        "couch fabric",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "purposeful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "action shot"
+        ]
+      },
+      "why_kept": "This segment continues the 'process/labor' by showing the wiping action with a damp cloth, an essential step to remove residue and further clean the fabric."
+    },
+    {
+      "start_time": "00:11.433",
+      "end_time": "00:13.267",
+      "structural_tags": [
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "cleaner couch",
+        "drying fabric",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "satisfaction"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment provides the 'reveal/result' by showing the couch significantly cleaner after the process, effectively demonstrating the successful transformation and the final outcome of the cleaning method."
+    }
+  ]
+}

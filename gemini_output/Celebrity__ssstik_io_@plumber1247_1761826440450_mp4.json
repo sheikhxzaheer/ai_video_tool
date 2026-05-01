@@ -1,0 +1,177 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Celebrity\\ssstik.io_@plumber1247_1761826440450.mp4",
+  "detailed_description": "This video features Taylor Hill demonstrating her minimal approach to eyebrow grooming and her natural nude lip makeup routine. She explains that she rarely plucks her eyebrows, only tidying the area between them to avoid a unibrow, and preferring to keep the rest 'wild'. For her lips, she shows a simple process using a slightly darker lip liner, followed by a nude matte lipstick, and then a lighter shade blended with her finger for an effortless, easy-to-reapply look suitable for various occasions.",
+  "segments": [
+    {
+      "start_time": "00:20.500",
+      "end_time": "00:35.000",
+      "structural_tags": [
+        "Key_Information",
+        "Human_Interaction",
+        "UGC_Talking_Head",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pointing",
+        "eyebrows",
+        "talking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "soft focus"
+        ]
+      },
+      "why_kept": "This segment is kept as a primary 'Hero Moment' because it directly addresses the video's title about Taylor's eyebrow philosophy. It features her explaining her unique, minimal grooming technique with clear visual demonstrations (pointing to her brows), making it a key informational and visually engaging part of her beauty routine."
+    },
+    {
+      "start_time": "00:41.500",
+      "end_time": "00:49.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Morning_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying lip liner",
+        "makeup",
+        "lips",
+        "lip liner"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "soft focus"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the process of applying lip liner, which is a key step in her lip makeup routine. It's a direct 'Product Interaction' and 'Process/Labor' moment."
+    },
+    {
+      "start_time": "00:56.000",
+      "end_time": "01:00.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Morning_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying lipstick",
+        "makeup",
+        "nude color",
+        "matte lipstick"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "soft focus"
+        ]
+      },
+      "why_kept": "This segment showcases the application of the main nude matte lipstick, a core 'Product Interaction' within her lip makeup demonstration."
+    },
+    {
+      "start_time": "01:00.000",
+      "end_time": "01:14.500",
+      "structural_tags": [
+        "Key_Information",
+        "Human_Interaction",
+        "UGC_Talking_Head",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "talking",
+        "hand gesture",
+        "lips",
+        "explanation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "soft focus"
+        ]
+      },
+      "why_kept": "This segment provides crucial 'Key Information' by explaining Taylor's preference for nude lips and includes a visual 'Human Interaction' (hand gesture) demonstrating the ease of reapplication, which is a main point of her casual makeup style."
+    },
+    {
+      "start_time": "01:18.000",
+      "end_time": "01:23.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Human_Interaction",
+        "Morning_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying lipstick",
+        "blending with finger",
+        "makeup",
+        "lips",
+        "lipstick"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "soft focus"
+        ]
+      },
+      "why_kept": "This segment completes her lip makeup routine, showing the application of a lighter lipstick and her personal technique of blending with her finger, which is a distinct 'Product Interaction' and 'Process/Labor'."
+    }
+  ]
+}

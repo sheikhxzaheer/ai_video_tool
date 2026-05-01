@@ -1,0 +1,55 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\Usage Granted\\IG_reel_jz_cinderella__2025-10-25.mp4",
+  "detailed_description": "This video showcases a quick and easy morning routine featuring the 'PRFC T MORNING TANGERINE PULSE' drink. It visually demonstrates the preparation process, from opening the product pouch and pouring an individual sachet into a glass, to mixing it with a frother, adding ice, and inserting a straw. The final shot highlights the drink as a complete package for hydration, metabolic activation, and nutrient charge, positioned alongside decorative pumpkins and a lit candle, setting a morning autumn vibe.",
+  "segments": [
+    {
+      "start_time": "00:00.600",
+      "end_time": "00:09.133",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Morning_Routine",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Result_Transformation",
+        "Ingredient_Highlight",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "product pouch",
+        "sachet",
+        "pouring",
+        "mixing",
+        "drink",
+        "glass",
+        "ice",
+        "straw",
+        "frother",
+        "pumpkins",
+        "candle",
+        "wooden surface"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "fall decor"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully demonstrates the product interaction, the preparation process, and the final presentation of the drink with its stated benefits. It perfectly encapsulates the 'how-to' and 'what-it-is' of the product, fitting the criteria for product interaction, process, and reveal/result hero moments. The initial title card was removed as per the 'Setup & Calibration' rule, as it was not part of the active product demonstration."
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\Bald spot\\ÐüðÁð┤ð¥ð©╠å ð╝ÐâðÂð©ð║ (3).mp4",
+  "detailed_description": "The core of this video focuses on introducing and showcasing the 'Spartan Gray Hair Reverse Bar.' The presenter clearly displays the product's packaging, highlighting its name and primary function. He then reveals the actual bar of soap, giving viewers a direct look at the product, and reiterates its purpose with an enthusiastic and engaging expression.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:02.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "man",
+        "product box",
+        "Spartan Gray Hair Reverse Bar"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "clear product display"
+        ]
+      },
+      "why_kept": "This segment clearly introduces the product and its name, setting the main context for the video. It's the first direct interaction with the product packaging."
+    },
+    {
+      "start_time": "00:24.400",
+      "end_time": "00:27.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Product_Standalone",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "man",
+        "gray soap bar",
+        "product"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up product view",
+          "demonstration"
+        ]
+      },
+      "why_kept": "This segment provides a clear visual of the actual product (the bar of soap), which is essential for understanding what is being offered, serving as BROLL to the main product intro."
+    },
+    {
+      "start_time": "00:42.800",
+      "end_time": "00:46.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "man",
+        "product box",
+        "smiling",
+        "Spartan Gray Hair Reverse Bar"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "enthusiastic presentation"
+        ]
+      },
+      "why_kept": "This segment reinforces the product introduction with a strong visual of the packaging and a positive emotional expression, acting as a concluding visual highlight for the product."
+    }
+  ]
+}

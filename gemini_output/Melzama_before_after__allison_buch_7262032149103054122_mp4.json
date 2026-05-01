@@ -1,0 +1,121 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\allison.buch_7262032149103054122.mp4",
+  "detailed_description": "The video showcases a woman's journey to address severe hyperpigmentation melasma using Musely Spot Erase cream. It begins with her introducing her skin condition on day zero, before showing the dramatic visual transformation after 60 days of using the product. The core of the video is a powerful side-by-side 'before and after' comparison, clearly illustrating the significant improvement in skin tone and reduction of hyperpigmentation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.293",
+      "structural_tags": [
+        "Problem_State",
+        "UGC_Talking_Head",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "hyperpigmentation",
+        "melasma",
+        "speaking",
+        "bathroom"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "well-lit",
+          "natural light",
+          "straight on camera"
+        ]
+      },
+      "why_kept": "Establishes the initial problem of hyperpigmentation melasma, setting the context and motivation for the product use."
+    },
+    {
+      "start_time": "00:04.293",
+      "end_time": "00:10.026",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "Musely Spot Erase cream",
+        "product bottle",
+        "holding product",
+        "speaking",
+        "bathroom"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "natural light",
+          "straight on camera",
+          "product held clearly"
+        ]
+      },
+      "why_kept": "Introduces the Musely Spot Erase cream as the solution being tested, showing the product clearly before the results."
+    },
+    {
+      "start_time": "00:35.845",
+      "end_time": "00:43.000",
+      "structural_tags": [
+        "Before_After",
+        "Result_Transformation",
+        "Split_Screen",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "skin",
+        "face",
+        "hyperpigmentation",
+        "melasma",
+        "clear skin",
+        "before",
+        "after",
+        "side-by-side comparison",
+        "woman",
+        "transformation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "mixed"
+        ],
+        "mood": [
+          "satisfaction",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear visual comparison",
+          "natural lighting",
+          "detailed skin view",
+          "split screen"
+        ]
+      },
+      "why_kept": "This segment is the core 'reveal,' directly showing the significant improvement in hyperpigmentation and skin tone, serving as the ultimate proof of the product's efficacy."
+    }
+  ]
+}

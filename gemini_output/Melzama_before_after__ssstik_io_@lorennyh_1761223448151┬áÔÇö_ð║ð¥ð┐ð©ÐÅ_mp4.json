@@ -1,0 +1,84 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\ssstik.io_@lorennyh_1761223448151┬áÔÇö ð║ð¥ð┐ð©ÐÅ.mp4",
+  "detailed_description": "This video vividly showcases a significant skin transformation, likely after a chemical peel or advanced skincare treatment. It begins by presenting the initial 'problem state' of the skin, characterized by widespread discoloration and a mottled appearance, suggesting the immediate post-treatment or pre-peeling phase. This is followed by a dramatic 'reveal' of smooth, clear, and glowing skin. The woman's radiant smile and confident gestures in the latter segment underscore the success and positive emotional impact of the treatment, demonstrating the powerful before-and-after effect of a skincare solution.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.500",
+      "structural_tags": [
+        "Problem_State",
+        "Aesthetic_Broll",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "skin discoloration",
+        "mottled skin",
+        "skin texture",
+        "neck",
+        "earring"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "clean background",
+          "neutral expression"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' or 'during' state of the skin, showing significant discoloration and texture, which is crucial for demonstrating the subsequent transformation. It clearly sets up the problem or the process."
+    },
+    {
+      "start_time": "00:09.500",
+      "end_time": "00:19.467",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Visual_Hook",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "clear skin",
+        "glowing skin",
+        "smiling",
+        "happy",
+        "gesturing",
+        "kitchen",
+        "leopard print top"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clean kitchen",
+          "confident pose"
+        ]
+      },
+      "why_kept": "This segment is the 'reveal' or 'after' state, showing the dramatic transformation to clear, smooth, and glowing skin. The woman's genuine smile, positive facial expression, and direct gesture to her face amplify the emotional climax and the success of the treatment, making it the primary hero moment of the video."
+    }
+  ]
+}

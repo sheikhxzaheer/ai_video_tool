@@ -1,0 +1,173 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ð╝ðÁð╗ð░ðÀð╝ð░ 5 (2).mp4",
+  "detailed_description": "This video documents a woman's impressive skin transformation over three months, showcasing her journey from skin with noticeable pigmentation to a significantly clearer complexion. The progression is highlighted through various stages: starting with a 'before' state of marked skin, then showing a sensitive phase at 10 days, followed by a much clearer face after one month, and finally revealing the radiant result after three months. The woman expresses her satisfaction with the outcome and shares her maintenance routine, which includes weekly product use and consistent sun protection.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.900",
+      "structural_tags": [
+        "Problem_State",
+        "Before_After",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "skin pigmentation",
+        "dark spots"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "direct gaze",
+          "bare face"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the initial 'problem state' with visible skin pigmentation, serving as the critical 'before' shot for the transformation narrative."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:06.900",
+      "structural_tags": [
+        "Process_Labor",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "redness",
+        "sensitive skin"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "slight redness",
+          "bare face"
+        ]
+      },
+      "why_kept": "This segment shows an important intermediate phase of the skin treatment, indicating sensitivity and progress in the overall process."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:10.900",
+      "structural_tags": [
+        "Result_Transformation",
+        "UGC_Talking_Head",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "clearer skin",
+        "reduced pigmentation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "neutral"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "improved skin tone",
+          "bare face"
+        ]
+      },
+      "why_kept": "This segment demonstrates a significant intermediate 'result transformation' after one month, showing clear improvement in skin clarity, essential for the progression story."
+    },
+    {
+      "start_time": "00:11.000",
+      "end_time": "00:16.800",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Before_After",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "clear skin",
+        "satisfied expression",
+        "healthy glow"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "positive",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "clean background",
+          "smiling",
+          "glowing skin"
+        ]
+      },
+      "why_kept": "This is the ultimate 'reveal' of the final, successful transformation after three months, combined with the user's explicit positive emotional reaction and satisfaction, making it a strong 'after' hero moment."
+    },
+    {
+      "start_time": "00:16.800",
+      "end_time": "00:22.500",
+      "structural_tags": [
+        "Key_Information",
+        "Product_Interaction",
+        "UGC_Talking_Head",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "hand touching face",
+        "smooth skin",
+        "maintenance routine"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "gentle touch",
+          "confident expression"
+        ]
+      },
+      "why_kept": "This segment provides crucial 'key information' about maintaining the results (weekly use, sunscreen) and includes a 'product interaction' (touching the face, implying application), linking directly to the product's long-term effectiveness."
+    }
+  ]
+}

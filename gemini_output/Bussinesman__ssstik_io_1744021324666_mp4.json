@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bussinesman\\ssstik.io_1744021324666.mp4",
+  "detailed_description": "The video features a man in a suit performing an energetic and joyful dance in an autumnal forest setting. His lively movements, playful facial expressions, and dynamic poses convey a sense of high energy and positive emotion, aligning with the on-screen text 'Tag a Monday lover.' The clip captures a singular, continuous performance without breaks, serving as a visual representation of enthusiasm for a typically dreaded day.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.680",
+      "structural_tags": [
+        "Visual_Hook",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "suit",
+        "dancing",
+        "forest",
+        "autumn leaves",
+        "energetic",
+        "happy",
+        "playful",
+        "red tie"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "autumn colors",
+          "natural light",
+          "dynamic camera"
+        ]
+      },
+      "why_kept": "The entire video is a continuous, high-energy performance demonstrating positive emotion and movement. The subject's enthusiastic dancing and facial expressions are the core action, directly illustrating the concept of a 'Monday lover' as indicated by the text overlay. No setup or post-action dead air is present, making the full duration the essential 'hero moment'."
+    }
+  ]
+}

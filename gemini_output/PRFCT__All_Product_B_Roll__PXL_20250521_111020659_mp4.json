@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250521_111020659.mp4",
+  "detailed_description": "The video showcases the 'PRFCT MORNING TANGERINE PULSE' supplement, presenting both its large main pouch and individual single-serving sachets. The camera subtly pans across the product, allowing viewers to read key information directly from the packaging. Benefits such as 'Rapid Hydration,' 'Metabolic Activators,' and 'Nutrient Charge' are highlighted. Ingredients like turmeric, apple cider vinegar, and black pepper are also visible, emphasizing its health-focused composition. The product is displayed on a wooden surface against a bright, scenic outdoor background, suggesting a connection to a healthy and active lifestyle.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.280",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Macro_Detail",
+        "Ingredient_Highlight",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "supplement pouch",
+        "sachets",
+        "tangerine pulse",
+        "wooden surface",
+        "outdoor view",
+        "ocean",
+        "product text"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "outdoor"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "lifestyle"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "product focus",
+          "clean",
+          "bright"
+        ]
+      },
+      "why_kept": "This entire segment serves as a clear and detailed product introduction. It showcases the product's packaging, form factor (pouch and sachets), and key features/ingredients through visible text, making it the complete semantic core without any extraneous elements to trim."
+    }
+  ]
+}

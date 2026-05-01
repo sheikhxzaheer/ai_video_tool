@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\digestive-system-in-human-body-anatomy-medical-science-animation-SBV-348371645-HD.mp4",
+  "detailed_description": "This video presents a detailed anatomical animation of the human digestive system. It starts with the gradual drawing of a glowing green outline of a human torso on a dark background, progressively revealing the internal organs. The stomach, small intestine, and large intestine are intricately depicted, showcasing their relative positions and forms within the body. The animation provides a clear, concise, and visually engaging overview of the digestive tract's structure.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Aesthetic_Broll",
+        "Micro_Nutrients_Anim"
+      ],
+      "visual_keywords": [
+        "glowing green lines",
+        "human body outline",
+        "stomach",
+        "small intestine",
+        "large intestine",
+        "digestive system",
+        "anatomy",
+        "animated drawing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "neon outline",
+          "dark background",
+          "scientific illustration"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it visually demonstrates the complete process of drawing and revealing the human digestive system's anatomy. The animation, from the initial lines to the final detailed structure, directly constitutes the core information and visual expertise being presented, without any extraneous setup or dead air."
+    }
+  ]
+}

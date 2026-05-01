@@ -1,0 +1,148 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@mynameis__daito_1766922738401.mp4",
+  "detailed_description": "This video offers a first-person perspective of a patient undergoing intravenous treatment in a hospital setting. It distinctly showcases the medical equipment, specifically the IV cannula inserted into the arm and the connected lines, providing a clear visual of the ongoing medical process. Complementary shots reveal the sterile, functional environment of the hospital room and corridor, setting the context for the patient's experience. The footage effectively conveys the clinical reality of receiving medical care.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.300",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Medical_Context",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "IV drip stand",
+        "IV bags",
+        "medical liquids",
+        "hospital room"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "clean lighting"
+        ]
+      },
+      "why_kept": "This segment sets the immediate medical context by showing the IV bags and stand, which are integral to the treatment process, preparing the viewer for the core action."
+    },
+    {
+      "start_time": "00:02.300",
+      "end_time": "00:06.900",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Clinical",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "patient's arm",
+        "IV cannula",
+        "IV lines",
+        "tape",
+        "hospital bed"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "personal perspective",
+          "focused shot",
+          "steady camera"
+        ]
+      },
+      "why_kept": "This is the core 'Hero Moment' as it directly demonstrates the patient receiving treatment. The close-up shot clearly shows the IV cannula, the lines, and their direct interaction with the human body, fulfilling the 'Process/Labor' and 'Product Interaction' criteria. The cough further emphasizes the patient's current state."
+    },
+    {
+      "start_time": "00:07.500",
+      "end_time": "00:11.900",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Medical_Context",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "hospital corridor",
+        "medical equipment",
+        "curtain",
+        "door",
+        "bed"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "patient's view",
+          "static shot",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment provides wider environmental context, showing the general hospital corridor from the patient's perspective, which supports the overall narrative of being in a medical facility."
+    },
+    {
+      "start_time": "00:11.900",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Medical_Context",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "patient's legs",
+        "IV cannula",
+        "hospital bed",
+        "green pants"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "patient's view",
+          "downward angle",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment reinforces the patient's perspective and the ongoing treatment by showing the IV in the arm again, alongside the patient's legs, providing a more complete picture of the patient's state within the hospital bed."
+    }
+  ]
+}

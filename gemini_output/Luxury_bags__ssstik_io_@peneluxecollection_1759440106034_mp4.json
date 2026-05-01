@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury_bags\\ssstik.io_@peneluxecollection_1759440106034.mp4",
+  "detailed_description": "This video meticulously captures the luxurious unboxing experience of a Christian Dior 'Lady Dior' handbag in a soft, neutral tone. It begins with a captivating visual hook, showcasing the bag already revealed, before transitioning into the full unboxing process. Viewers are guided through the removal of the iconic white box lid, the unfolding of tissue paper, and the gentle unveiling of the bag from its dust bag. The video then highlights the bag's exquisite details, including its signature quilted leather, 'DIOR' charms, detachable strap, and interior branding, emphasizing the product's premium craftsmanship and aesthetic appeal.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Macro_Detail",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Dior box",
+        "Lady Dior handbag",
+        "quilted leather",
+        "DIOR charms",
+        "dust bag",
+        "leather strap",
+        "hands unboxing",
+        "cream color bag"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "detailed close-ups",
+          "smooth transitions"
+        ]
+      },
+      "why_kept": "This entire segment serves as the 'Semantic Core' by demonstrating the complete unboxing process, showcasing the product in detail, and emphasizing its luxury appeal. It includes the initial visual hook, the step-by-step reveal, product interaction, and close-ups of key features, fulfilling all 'Hero Moment' criteria for an unboxing video without any 'dead air' or 'setup/calibration' that needs trimming."
+    }
+  ]
+}

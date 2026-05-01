@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\With friend\\ssstik.io_@princessameliawu_1760874379358.mp4",
+  "detailed_description": "This video captures a vibrant dance performance by a young woman in a spacious, well-lit room. The dancer, wearing a crop top and baggy jeans, executes dynamic and energetic movements, primarily focusing on hip and leg work. In the background, another woman observes the performance from a couch, displaying clear expressions of surprise and awe, reacting to the dancer's skill. The segment highlights the dancer's movements and the captivated reaction of the onlooker.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:16.297",
+      "structural_tags": [
+        "Visual_Hook",
+        "Process/Labor",
+        "High_Energy",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "dancing",
+        "girl",
+        "baggy jeans",
+        "crop top",
+        "room",
+        "couch",
+        "observer",
+        "surprised expression",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "dynamic camera movement"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it continuously showcases the main action of the video: the dance performance. It perfectly demonstrates the 'Process/Labor' of dancing and includes an 'Emotional Climax' through the observer's consistent facial reactions of surprise and admiration, which are integral to the video's narrative."
+    }
+  ]
+}

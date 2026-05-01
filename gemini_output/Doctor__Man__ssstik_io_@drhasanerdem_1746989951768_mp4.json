@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Man\\ssstik.io_@drhasanerdem_1746989951768.mp4",
+  "detailed_description": "This video captures a male surgeon meticulously performing a surgical hand and forearm scrub. Dressed in blue scrubs, a surgical cap, and a mask, he stands at a stainless steel scrub sink, using water and an orange antiseptic solution to thoroughly clean his hands and arms. The footage highlights the detailed and professional preparatory steps undertaken before a medical procedure, with other medical personnel visible in the background, emphasizing the clinical environment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.070",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Product_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "surgeon",
+        "washing hands",
+        "surgical scrub",
+        "medical mask",
+        "surgical cap",
+        "scrub sink",
+        "water",
+        "antiseptic soap",
+        "hospital environment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "focused shot"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it fully demonstrates the core action and professional process of a surgeon performing a complete surgical hand and forearm scrub, which is the primary value and expertise shown in the video. It adheres to the 'No-Mistake Rule' as the action starts at the beginning and finishes at the end of the clip without any setup or dead air."
+    }
+  ]
+}

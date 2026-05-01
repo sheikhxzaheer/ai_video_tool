@@ -1,0 +1,178 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Washes head\\ðºð¥ð╗ð¥ð▓Ðûð║ ð╝ð©Ðö ð│ð¥ð╗ð¥ð▓Ðâ.mp4",
+  "detailed_description": "The video showcases a men's shampoo with menthol, highlighting its features and usage. It begins with a clear introduction of the Syoss Men Clean & Cool shampoo bottle, emphasizing its 'Clean & Cool' technology and refreshing menthol properties. The video then demonstrates the product's texture and ease of application, followed by a full hair washing routine, including lathering and rinsing in two cycles. The user expresses immediate freshness and satisfaction after drying his hair, concluding with a strong recommendation of the shampoo, reinforcing its professional quality and invigorating benefits.",
+  "segments": [
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "shampoo bottle",
+        "Syoss",
+        "Clean & Cool",
+        "men's shampoo",
+        "product label"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "descriptive text"
+        ]
+      },
+      "why_kept": "This segment clearly introduces the product, its brand, and key features, serving as the initial hero moment for product identification and information."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:07.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hand",
+        "shampoo bottle",
+        "opening cap",
+        "pouring shampoo",
+        "liquid texture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused shot",
+          "product demonstration"
+        ]
+      },
+      "why_kept": "This segment demonstrates the product's ease of use and reveals the shampoo's transparent, greenish consistency, adding to the sensory experience."
+    },
+    {
+      "start_time": "00:07.400",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "shower",
+        "wet hair",
+        "applying shampoo",
+        "lathering",
+        "rinsing hair",
+        "water"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic movement",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This comprehensive segment showcases the full process of using the shampoo, from initial application to lathering and rinsing through two cycles, effectively demonstrating its practical use and lathering properties."
+    },
+    {
+      "start_time": "00:18.000",
+      "end_time": "00:21.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "dry hair",
+        "phone mirror",
+        "satisfied expression",
+        "checking hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "authentic reaction"
+        ]
+      },
+      "why_kept": "This segment is a crucial 'reveal' moment, showing the user's positive reaction and the fresh, clean results on his hair after using the shampoo, confirming the product's claims."
+    },
+    {
+      "start_time": "00:21.000",
+      "end_time": "00:24.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Offer_CTA",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "shampoo bottle",
+        "Syoss",
+        "Clean & Cool",
+        "hands",
+        "recommendation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "final branding"
+        ]
+      },
+      "why_kept": "This concluding segment reinforces the product's identity and delivers a direct recommendation, serving as a clear call to action and social proof for its effectiveness."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Ingridients\\ðºð¥Ðéð©ÐÇð© Ðûð¢ð│ÐÇð©ð┤ÐûÐöð¢Ðéð©.mp4",
+  "detailed_description": "This video's semantic core lies in its immediate visual introduction of multiple natural ingredients. It features a collage of four distinct shots: a close-up of a flowering green plant, dried root segments, a hand pruning a coniferous plant, and cross-sections of a root/rhizome. The video highlights various botanical elements, suggesting their role as key components, possibly for a natural product or remedy.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Ingredient_Highlight",
+        "Macro_Detail",
+        "Human_Interaction",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "green leaves",
+        "small white flower",
+        "hand",
+        "dried roots",
+        "cut root sections",
+        "coniferous plant",
+        "pruning shears",
+        "rhizome",
+        "root cross-section",
+        "wood"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "natural",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "quadrant view",
+          "natural light",
+          "focused details",
+          "ingredient showcase"
+        ]
+      },
+      "why_kept": "The entire 1-second video constitutes the semantic core. It acts as a visual hook, simultaneously presenting four distinct natural ingredients, two of which show human interaction (pointing at a flower and pruning a plant). This segment immediately establishes the theme of natural botanicals and their preparation, making it the central value and information point of the video."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sofa cover\\ssstik.io_@xristinaz_1769685144237.mp4",
+  "detailed_description": "This heartwarming video captures a toddler's joyous first reaction to a decorated Christmas tree. The child, dressed in festive pajamas, walks into the living room, spots the brightly lit tree, and breaks into an adorable, wide-eyed smile, expressing pure wonder and happiness. The footage beautifully illustrates the magic of the holiday season through the innocent eyes of a young child.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:16.425",
+      "structural_tags": [
+        "Visual_Hook",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "toddler",
+        "pajamas",
+        "Christmas tree",
+        "ornaments",
+        "lights",
+        "living room",
+        "sofa",
+        "rug",
+        "smile",
+        "wonder"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "natural light",
+          "warm glow"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the semantic core because it fully captures the promised 'toddler's first reaction to a Christmas tree.' It includes the anticipation of the child walking in, the 'reveal' of the tree to the child, and the clear emotional climax of their delightful facial expression, which is the core value proposition of the video."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\UnderCounterVers1.mp4",
+  "detailed_description": "This video captures the practical action of accessing a cleaning product from under a kitchen sink. It showcases a person opening two cabinet drawers, retrieving a bottle of 'MoldMD Mold Spot Remover,' holding it up to clearly display its label, and then returning it to its storage spot before closing the drawers. The segment highlights the product in its home environment and demonstrates easy accessibility.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands",
+        "cabinet drawers",
+        "under-sink storage",
+        "MoldMD bottle",
+        "cleaning product",
+        "garbage disposal"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "practical demonstration",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment constitutes the semantic core, demonstrating the complete action of retrieving, presenting, and re-storing the product. The opening and closing of the drawers frame the core product interaction, making the whole sequence a unified 'hero moment' of product accessibility and presentation. According to the 'No-Mistake Rule,' since the action starts at the beginning and ends at the end, no trimming is necessary."
+    }
+  ]
+}

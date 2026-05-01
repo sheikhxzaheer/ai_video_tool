@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@geraldo151515_1769675414208.mp4",
+  "detailed_description": "The video captures a critical moment within a hospital room, showcasing a patient in a medical bed surrounded by advanced monitoring and life-support equipment. Persistent alarms from patient monitors create a sense of urgency, displaying vital signs like heart rate and oxygen saturation. A nurse is seen actively attending to the patient and the equipment, highlighting the continuous care and immediate response required in a clinical setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.250",
+      "structural_tags": [
+        "Problem_State",
+        "Human_Interaction",
+        "Data_Metrics_Chart",
+        "Urgency_Rush"
+      ],
+      "visual_keywords": [
+        "patient in bed",
+        "medical monitors",
+        "alarms",
+        "dialysis machine",
+        "ventilator",
+        "nurse",
+        "IV drips",
+        "hospital room"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "clinical"
+        ],
+        "mood": [
+          "serious",
+          "urgent",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "fluorescent lighting",
+          "hospital aesthetic",
+          "gray textured walls",
+          "real-time monitoring"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by continuously depicting a critical medical situation. The persistent alarms from multiple patient monitors, the visible display of vital signs, the presence of various complex medical machines (dialysis, ventilator), and the nurse's attendance collectively convey the urgency and constant care in a hospital environment."
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\ssstik.io_1744929318071.mp4",
+  "detailed_description": "This video documents a man's journey from struggling with significant hair loss to confidently shaving his head. It begins by showcasing his past with long, healthy hair, contrasting it with his current balding state. The man expresses his frustration with hair loss and his decisive moment to take action, introducing the hair trimmer he will use. The core of the video depicts the active process of shaving his head, transforming his appearance. This transformation culminates in a striking reveal of his new bald look, with the man expressing clear satisfaction and happiness, highlighting a positive emotional resolution to his hair loss struggles.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.900",
+      "structural_tags": [
+        "Problem_State",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "man",
+        "balding head",
+        "hair loss",
+        "receding hairline"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment visually establishes the core problem of significant hair loss, showing the man's receding hairline and balding crown as he parts his hair."
+    },
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:03.900",
+      "structural_tags": [
+        "Before_After",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "long hair",
+        "full hair",
+        "past self"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "archive footage",
+          "performance setting"
+        ]
+      },
+      "why_kept": "These flashback clips provide a clear visual contrast, showcasing the man's full, long hair before his hair loss became prominent, establishing the 'before' state."
+    },
+    {
+      "start_time": "00:04.100",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Problem_State",
+        "UGC_Talking_Head",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "talking",
+        "hair loss",
+        "current state"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "The man verbally acknowledges his current hair loss and its contrast with his past, directly stating the problem and setting the stage for action."
+    },
+    {
+      "start_time": "00:06.400",
+      "end_time": "00:07.100",
+      "structural_tags": [
+        "Product_Intro",
+        "Emotional_Climax",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair trimmer",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "decisive",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment introduces the hair trimmer, the tool for the upcoming transformation, combined with the man's determined and slightly playful expression."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:09.100",
+      "structural_tags": [
+        "Problem_State",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "balding head",
+        "hair loss",
+        "scalp"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This top-down shot provides an undeniable and explicit visual of the severe hair loss, reinforcing the 'problem state' before the solution is implemented."
+    },
+    {
+      "start_time": "00:11.000",
+      "end_time": "00:12.700",
+      "structural_tags": [
+        "Negative_Emotion",
+        "Emotional_Climax",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man",
+        "frustrated",
+        "decision",
+        "talking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "decisive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "Captures the emotional peak of frustration and the definitive decision to address the hair loss, explicitly stating 'I can't take it anymore' and 'I think it's time'."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:18.900",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "man",
+        "shaving head",
+        "hair trimmer",
+        "hair falling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "decisive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic action",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This is the core 'process' segment where the transformation actively occurs, showcasing the man using the trimmer to shave his head, demonstrating the product's function and the labor involved."
+    },
+    {
+      "start_time": "00:19.000",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Emotional_Climax",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "clump of hair",
+        "smiling",
+        "shaved hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "shock_surprise"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "A powerful visual 'reveal' of the removed hair, immediately following the shaving process, signifying the impactful change that has just taken place."
+    },
+    {
+      "start_time": "00:21.000",
+      "end_time": "00:23.100",
+      "structural_tags": [
+        "Result_Transformation",
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man",
+        "bald head",
+        "smiling",
+        "satisfaction",
+        "talking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "calm_relaxation"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment delivers the final 'reveal' of the completely shaved head, coupled with the man's genuine smile and verbal expression of satisfaction, conveying a positive emotional resolution."
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Woman\\ssstik.io_@dr.mkathreyne_1770996444383.mp4",
+  "detailed_description": "This video provides a glimpse into a dentist's daily routine, emphasizing the meticulous preparation and patient-focused care involved in their profession. It showcases the essential steps of maintaining hygiene and donning protective gear before transitioning into the core clinical activities. The dentist is seen actively engaging with a patient, utilizing modern technology like digital X-rays and an intraoral camera to explain diagnoses and perform thorough examinations, highlighting the precision and patient education inherent in dental practice.",
+  "segments": [
+    {
+      "start_time": "00:09.136",
+      "end_time": "00:11.236",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Morning_Routine",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "dentist",
+        "handwashing",
+        "sink",
+        "hygiene",
+        "preparation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio",
+          "clinical"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean lighting",
+          "modern clinic"
+        ]
+      },
+      "why_kept": "This segment demonstrates a crucial preparatory step for any medical professional: hand hygiene. It's part of the 'process/labor' criteria, showing the dentist's routine before patient interaction."
+    },
+    {
+      "start_time": "00:11.966",
+      "end_time": "00:17.336",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "dentist",
+        "assistant",
+        "medical gown",
+        "scrubs",
+        "face mask",
+        "hairnet",
+        "donning PPE",
+        "preparation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio",
+          "clinical"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "collaborative action",
+          "focus on safety"
+        ]
+      },
+      "why_kept": "This segment illustrates another vital preparatory 'process/labor' element: donning protective equipment with assistance, highlighting teamwork and adherence to safety protocols in a dental setting."
+    },
+    {
+      "start_time": "00:17.856",
+      "end_time": "00:22.386",
+      "structural_tags": [
+        "Human_Interaction",
+        "Workspace_Office",
+        "Data_Metrics_Chart"
+      ],
+      "visual_keywords": [
+        "dentist",
+        "patient",
+        "dental X-ray",
+        "monitor",
+        "diagnosis",
+        "explanation",
+        "consultation",
+        "digital imaging"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio",
+          "clinical"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "patient education",
+          "modern dental tools"
+        ]
+      },
+      "why_kept": "This segment demonstrates a core 'process/labor' action: the diagnostic phase where the dentist reviews and explains X-ray findings to a patient, involving 'key information' delivery and 'human interaction'."
+    },
+    {
+      "start_time": "00:22.956",
+      "end_time": "00:27.426",
+      "structural_tags": [
+        "Human_Interaction",
+        "Workspace_Office",
+        "Mechanism_Of_Action",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "dentist",
+        "patient",
+        "intraoral camera",
+        "dental examination",
+        "teeth",
+        "monitor display",
+        "close-up"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio",
+          "clinical"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "precision work",
+          "direct patient care",
+          "technological integration"
+        ]
+      },
+      "why_kept": "This is the strongest 'process/labor' segment, visually showing the dentist performing a direct oral examination using an intraoral camera. It highlights 'product interaction' and provides a 'macro detail' view of the work, making it the most representative 'hero moment' of a dentist's actual work."
+    }
+  ]
+}

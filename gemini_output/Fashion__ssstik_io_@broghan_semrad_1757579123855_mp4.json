@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Fashion\\ssstik.io_@broghan_semrad_1757579123855.mp4",
+  "detailed_description": "This video showcases a person's elaborate Halloween costume, featuring striking black and white skeleton face paint, complete with a black cowboy hat and a patterned black bandana. The individual subtly poses and turns, allowing the viewer to appreciate the details of the spooky western-themed ensemble, which also includes a black denim vest. The entire clip serves as a reveal of the completed transformation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.607",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "skeleton makeup",
+        "cowboy hat",
+        "bandana",
+        "denim vest",
+        "Halloween costume",
+        "face paint"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "mysterious",
+          "stylish"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dark aesthetic",
+          "Halloween",
+          "costume reveal",
+          "monochrome",
+          "expressive makeup"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the semantic core because it directly demonstrates the 'Reveal/Result' of the Halloween costume and makeup. The subject is actively showcasing the complete look without any discernible setup, calibration, or post-action dead air, fulfilling the 'No-Mistake' rule. The sustained visual presentation is the primary value proposition of the video."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Gym\\Man\\ssstik.io_@the.spiritbody.architect_1763131466843.mp4",
+  "detailed_description": "This video captures a man performing a diverse calisthenics workout outdoors. He demonstrates strength and agility through a series of bodyweight exercises using parallel bars and a skateboard as fitness equipment. The routine includes plank variations, L-sits, push-ups, lunges with a sliding skateboard, and ab rollouts. The focus is on core strength, balance, and full-body conditioning, showcasing a creative and effective approach to home fitness.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:25.040",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "shirtless",
+        "shorts",
+        "barefoot",
+        "parallel bars",
+        "skateboard",
+        "yoga mat",
+        "outdoor workout",
+        "wooden deck",
+        "house",
+        "greenery"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "athletic",
+          "dynamic",
+          "outdoor fitness"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating a comprehensive calisthenics routine using specialized equipment like parallel bars and a skateboard. It perfectly illustrates 'The Process/Labor' and 'Product Interaction' hero moments, showcasing the user's expertise and the versatility of the equipment. There is no setup, post-action dead air, or extraneous content, adhering to the 'no-mistake' rule."
+    }
+  ]
+}

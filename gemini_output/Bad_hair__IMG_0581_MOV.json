@@ -1,0 +1,138 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\IMG_0581.MOV",
+  "detailed_description": "This video captures a man's humorous and bold decision to embrace baldness. It starts with him revealing his receding hairline by removing a hair system he was wearing. He then proceeds to meticulously shave off all his remaining hair using electric clippers, demonstrating the full transformation process. The video culminates with a clear side-by-side 'Before' and 'After' comparison, showcasing his confident and smiling new bald look.",
+  "segments": [
+    {
+      "start_time": "00:02.828",
+      "end_time": "00:03.495",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "removing hairpiece",
+        "bald spot",
+        "messy hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment immediately establishes the 'problem state' by revealing the extent of the baldness after removing a hair system, setting the stage for the transformation. It is a key reveal moment."
+    },
+    {
+      "start_time": "00:04.761",
+      "end_time": "00:05.295",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "holding clippers",
+        "shaver"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "neutral"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment introduces the specific product (hair clippers) that will be used for the main action, signaling the upcoming transformation process."
+    },
+    {
+      "start_time": "00:06.961",
+      "end_time": "00:21.861",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "High_Energy",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "shaving head",
+        "electric clippers",
+        "hair falling",
+        "bald head"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera angles",
+          "mirror reflection"
+        ]
+      },
+      "why_kept": "This is the core 'process' segment, directly demonstrating the professional action and 'labor' as the man shaves his head, showing the active transformation and product interaction in real-time."
+    },
+    {
+      "start_time": "00:22.000",
+      "end_time": "00:27.000",
+      "structural_tags": [
+        "Before_After",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man",
+        "before hair",
+        "after bald",
+        "smiling",
+        "text overlay 'BEFORE' 'AFTER'"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "confident",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "text overlay",
+          "clean lighting"
+        ]
+      },
+      "why_kept": "This segment explicitly presents the complete 'before and after' transformation with text overlays, clearly showcasing the final result and the positive emotional climax, making it the most impactful summary of the video's core message."
+    }
+  ]
+}

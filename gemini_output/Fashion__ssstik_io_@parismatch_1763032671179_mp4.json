@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Fashion\\ssstik.io_@parismatch_1763032671179.mp4",
+  "detailed_description": "This video captures supermodel Kendall Jenner confidently walking a runway in a striking white dress. The ensemble features a deep V-neck corset bodice and a flowing sheer skirt with a high slit, revealing her leg. She engages with the audience, smiling, blowing a kiss, and waving, embodying elegance and high fashion. The dynamic background visuals and her confident presentation highlight the garment's design and her poise.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Kendall Jenner",
+        "white dress",
+        "runway walk",
+        "smiling",
+        "waving",
+        "blowing kiss",
+        "fashion show",
+        "corset",
+        "deep V-neck",
+        "high slit",
+        "sheer fabric"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "premium",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic lighting",
+          "digital backdrop",
+          "confident walk",
+          "fashion event"
+        ]
+      },
+      "why_kept": "This entire segment showcases Kendall Jenner modeling a white dress on a runway, which is the central action and value of the video. Her confident walk, poses, and direct interactions (kiss, wave) are the 'Hero Moment' of presenting the fashion item. There is no extraneous content to trim according to the rules."
+    }
+  ]
+}

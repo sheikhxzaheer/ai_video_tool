@@ -1,0 +1,115 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad pillow\\ssstik.io_@ergonomicrest_1765828085148.mp4",
+  "detailed_description": "This video targets viewers experiencing discomfort with their current pillows, setting up a clear problem state. It then introduces a new, 'viral' contoured pillow designed for superior comfort. The core value is demonstrated through a visual interaction where a hand presses into the pillow, highlighting its 100% memory foam construction and ergonomic design. The video aims to showcase the product's ability to provide a better sleep experience by emphasizing its comfortable and supportive features.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:03.950",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Negative_Emotion",
+        "Low_Quality_Comparison"
+      ],
+      "visual_keywords": [
+        "hand",
+        "flat pillow",
+        "bed",
+        "headboard",
+        "pressing down"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "warm lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the problem state directly by showing a hand struggling with an unsupportive, generic pillow, making it a strong visual hook for potential customers."
+    },
+    {
+      "start_time": "00:00:03.950",
+      "end_time": "00:00:08.750",
+      "structural_tags": [
+        "Product_Intro",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "new pillow",
+        "contoured pillow",
+        "memory foam",
+        "bed",
+        "headboard"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "product reveal",
+          "smooth transition",
+          "warm lighting"
+        ]
+      },
+      "why_kept": "This segment introduces the new product as the solution, visually transforming the sleeping area from a problematic old pillow to a new, promising one. It acts as a clear product introduction and a 'before/after' in terms of pillow presence."
+    },
+    {
+      "start_time": "00:00:08.750",
+      "end_time": "00:00:13.200",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Key_Information",
+        "Macro_Detail",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "hand",
+        "memory foam",
+        "pillow",
+        "pressing",
+        "comfortable design"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "demonstration",
+          "tactile feedback",
+          "textured surface",
+          "warm lighting"
+        ]
+      },
+      "why_kept": "This is the ANCHOR segment as it directly demonstrates the product's core feature: its memory foam composition and ergonomic design. The hand pressing into the pillow vividly illustrates its supportive and comfortable nature, which is the primary value proposition."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1746988737243.mp4",
+  "detailed_description": "A man directly addresses a comment about his hair thinning in the front. He explains the distinction between hair density and thickness, demonstrating his fine but abundant hair and stable hairline by running his fingers through it and showing his scalp. He emphasizes that his hairline has remained consistent. He then broadens the topic to male hair loss, pointing out that a significant percentage of men experience it at some point. He concludes with a lighthearted but firm request for people to stop commenting on his hair.",
+  "segments": [
+    {
+      "start_time": "00:03.400",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Key_Information",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair",
+        "hands",
+        "scalp",
+        "smiling",
+        "talking",
+        "gesturing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "serious",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment directly addresses the 'thinning hair' comment by visually demonstrating his hair, explaining the difference between hair density and thickness, and showing his hairline. It's the core visual and informational response to the perceived problem."
+    },
+    {
+      "start_time": "00:18.500",
+      "end_time": "00:29.000",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "man",
+        "talking",
+        "smiling",
+        "gesturing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment offers a broader perspective on hair loss, normalizing the issue with a statistic, and concludes his response with a lighthearted but firm request to be left alone, serving as an emotional capstone to the discussion."
+    }
+  ]
+}

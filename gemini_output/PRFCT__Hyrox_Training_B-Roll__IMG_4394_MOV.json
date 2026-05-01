@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\Hyrox Training B-Roll\\IMG_4394.MOV",
+  "detailed_description": "The video captures a man engaged in a dynamic outdoor kettlebell workout, performing multiple sets of kettlebell swings. He demonstrates proper form and continuous physical effort, utilizing two kettlebells. The setting appears to be a modern outdoor training area, characterized by dark textured flooring and contemporary architecture with palm trees in the background. The core meaning lies in the demonstration of a high-energy fitness routine.",
+  "segments": [
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:53.900",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Lifestyle_Active",
+        "Human_Interaction",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "man",
+        "kettlebells",
+        "kettlebell swings",
+        "workout",
+        "outdoor",
+        "fitness",
+        "rooftop"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overcast lighting",
+          "steady camera",
+          "functional fitness"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the 'Process/Labor' and 'Product Interaction' hero moments by showcasing the man actively performing kettlebell swings. It captures the continuous effort of his workout, from initiating the lift to completing the reps and momentarily resting between sets. Unnecessary 'setup & calibration' at the beginning and 'post-action dead air' at the end have been trimmed to focus on the core exercise."
+    }
+  ]
+}

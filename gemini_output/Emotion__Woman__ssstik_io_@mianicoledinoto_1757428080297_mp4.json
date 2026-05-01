@@ -1,0 +1,206 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Emotion\\Woman\\ssstik.io_@mianicoledinoto_1757428080297.mp4",
+  "detailed_description": "This video captures a distressing moment as a young woman accidentally rips out her eyelashes while using an eyelash curler. Visibly upset and tearful, she reveals the curler filled with her eyelashes, explaining that she tripped during the process. A close-up shows the bare skin where her eyelashes once were, highlighting the extent of the damage. She expresses feeling 'naked' and uncomfortable, reinforcing the emotional impact of the mishap, which is further visually confirmed by a final shot of the pile of lost eyelashes.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.500",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "girl",
+        "distressed expression",
+        "wide eyes",
+        "tears",
+        "gasping"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "shock_surprise"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the emotional context, showing the immediate and raw shock and distress of the subject, indicating a 'Problem_State'."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:13.500",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Interaction",
+        "Malfunction_Fail",
+        "Macro_Detail",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "eyelash curler",
+        "ripped eyelashes",
+        "hand holding curler"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "shock_surprise"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clear focus"
+        ]
+      },
+      "why_kept": "This is the core 'reveal' moment, clearly displaying the eyelash curler with a significant amount of ripped-out eyelashes, directly demonstrating the 'Malfunction_Fail' and 'Result_Transformation'."
+    },
+    {
+      "start_time": "00:18.000",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Negative_Emotion",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "girl's eye",
+        "missing eyelashes",
+        "tear"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "shock_surprise"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This close-up visually reinforces the impact of the incident, showing the absence of eyelashes on the subject's eye, a direct 'Result_Transformation'."
+    },
+    {
+      "start_time": "00:30.000",
+      "end_time": "00:37.000",
+      "structural_tags": [
+        "Key_Information",
+        "Malfunction_Fail",
+        "Face_Reaction",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "girl speaking",
+        "explaining incident",
+        "nervous smile"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "shock_surprise"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "The subject explains *how* the incident occurred ('I tripped when I was curling my eyelashes'), providing crucial 'Key_Information' about the 'Malfunction_Fail'."
+    },
+    {
+      "start_time": "00:40.000",
+      "end_time": "00:47.800",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Key_Information",
+        "Negative_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "girl speaking",
+        "mother speaking",
+        "facial expression",
+        "uncomfortable"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment conveys the emotional impact ('uncomfortable,' 'naked') and provides valuable information from another person regarding the protective function of eyelashes, deepening the 'Problem_State'."
+    },
+    {
+      "start_time": "00:52.000",
+      "end_time": "00:54.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Macro_Detail",
+        "Malfunction_Fail"
+      ],
+      "visual_keywords": [
+        "pile of eyelashes",
+        "white sink",
+        "close-up"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This 'Macro_Detail' shot provides definitive visual evidence of the 'Result_Transformation' – the pile of ripped-out eyelashes, serving as the final confirmation of the mishap."
+    }
+  ]
+}

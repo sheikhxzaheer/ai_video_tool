@@ -1,0 +1,56 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1750973945042.mp4",
+  "detailed_description": "This video showcases a stylish man with silver hair and beard undergoing a subtle transformation. He begins shirtless, posing confidently in natural sunlight. The core action involves him meticulously putting on a dark gray button-up shirt, demonstrating a smooth and deliberate styling process. The sequence culminates in him adding sleek sunglasses, presenting a polished and self-assured final look, perfect for a lifestyle or fashion context.",
+  "segments": [
+    {
+      "start_time": "00:18.000",
+      "end_time": "00:45.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man",
+        "silver hair",
+        "beard",
+        "shirtless",
+        "dark gray shirt",
+        "buttons",
+        "sunglasses",
+        "gold chain",
+        "watch",
+        "tattoo",
+        "dressing",
+        "styling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "confident",
+          "stylish"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "soft shadows",
+          "cinematic",
+          "smooth transitions"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it demonstrates the 'Process/Labor' of dressing, the 'Product Interaction' with the shirt and sunglasses, and the 'Reveal/Result' of a transformed, styled look. The man's confident facial expressions and the smooth execution of the actions also provide an 'Emotional Climax', delivering the video's main value."
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\Walking with Product\\Scene22_Family Interaction.mp4",
+  "detailed_description": "This video captures a pleasant outing of a couple walking their dog in a park on a sunny day, filmed from a selfie perspective. The woman holds the camera, showcasing the dog's curious sniffing of the grass and its relaxed demeanor. The man accompanies them, holding the dog's leash for part of the walk. The video highlights casual interaction with the pet and the enjoyment of the outdoor environment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "man",
+        "dog",
+        "leash",
+        "park",
+        "path",
+        "grass",
+        "trees",
+        "selfie stick",
+        "water bottle"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright sunlight",
+          "handheld camera"
+        ]
+      },
+      "why_kept": "Establishes the setting, introduces the people and the dog, and immediately conveys the selfie camera perspective of the casual park walk."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Calm_Relaxation",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "dog",
+        "leash",
+        "grass",
+        "sniffing",
+        "squatting",
+        "water bottle",
+        "selfie camera"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "ground-level view",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it captures a clear interaction, with the woman squatting to film the dog's natural behavior (sniffing) while occasionally looking at the camera, highlighting the direct engagement."
+    },
+    {
+      "start_time": "00:24.000",
+      "end_time": "00:28.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "man",
+        "dog",
+        "leash",
+        "park",
+        "path",
+        "grass",
+        "walking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright sunlight",
+          "smooth camera movement"
+        ]
+      },
+      "why_kept": "Reinforces the continuous activity of walking the dog in the park, showing the woman smiling at the camera and the dog walking comfortably."
+    },
+    {
+      "start_time": "00:32.000",
+      "end_time": "00:37.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "dog",
+        "panting",
+        "leash",
+        "woman",
+        "man",
+        "grass",
+        "trees"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "low angle",
+          "direct dog gaze"
+        ]
+      },
+      "why_kept": "Highlights the dog's presence and character, with its panting and direct gaze towards the camera, conveying its enjoyment and focus during the walk."
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\TikTok\\3.mp4",
+  "detailed_description": "This video introduces a simple morning routine using electrolyte packets as a solution for feeling drained and bloated. The creator demonstrates how to prepare the drink by adding the powder to ice water, highlighting its quick and easy process. She emphasizes the product's benefits, such as providing energy and reducing bloating, acting as an effective alternative to morning coffee. The video concludes with her positive reaction to the refreshing orange-flavored drink, strongly recommending it to viewers.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.500",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Intro",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Home_Kitchen",
+        "Morning_Routine",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman talking",
+        "glass with ice",
+        "kitchen counter",
+        "gesturing",
+        "electrolyte packets"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual setting"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the problem (tiredness, bloating) and introduces the product as a solution, setting the context for the entire video."
+    },
+    {
+      "start_time": "00:05.500",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Product_Intro",
+        "UGC_Talking_Head",
+        "Product_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman talking",
+        "showing electrolyte packet",
+        "holding packet",
+        "scissors"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment explicitly shows the product packet while the creator explains its purpose and benefits, serving as a visual introduction before preparation."
+    },
+    {
+      "start_time": "00:08.500",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman cutting packet",
+        "scissors",
+        "electrolyte packet",
+        "glass with ice"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear action",
+          "focused on hands"
+        ]
+      },
+      "why_kept": "Shows the initial preparation step of opening the product packet, a key part of the 'process' hero moment."
+    },
+    {
+      "start_time": "00:19.500",
+      "end_time": "00:24.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman pouring water",
+        "water bottle",
+        "glass with ice"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "fluid motion",
+          "clear liquid"
+        ]
+      },
+      "why_kept": "Demonstrates the essential step of adding water, part of the 'process' hero moment."
+    },
+    {
+      "start_time": "00:26.000",
+      "end_time": "00:28.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "woman pouring powder",
+        "electrolyte powder",
+        "glass with ice",
+        "yellow powder"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focus on pouring action",
+          "color change visible"
+        ]
+      },
+      "why_kept": "Captures the critical step of adding the electrolyte powder, showing the core 'mechanism of action'."
+    },
+    {
+      "start_time": "00:28.500",
+      "end_time": "00:29.800",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman stirring drink",
+        "straw",
+        "yellow liquid",
+        "glass with ice"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "stirring motion",
+          "drink preparation"
+        ]
+      },
+      "why_kept": "Completes the preparation process, showing the drink being mixed."
+    },
+    {
+      "start_time": "00:30.300",
+      "end_time": "00:31.700",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Standalone",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "close-up drink",
+        "yellow beverage",
+        "glass with ice",
+        "straw"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "refreshing",
+          "appealing"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "product shot",
+          "vibrant color"
+        ]
+      },
+      "why_kept": "This is the 'reveal' moment, showcasing the final, aesthetically pleasing product ready for consumption."
+    },
+    {
+      "start_time": "00:38.000",
+      "end_time": "00:41.900",
+      "structural_tags": [
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Product_Interaction",
+        "Offer_CTA",
+        "UGC_Talking_Head",
+        "Home_Kitchen",
+        "Morning_Routine",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman sipping drink",
+        "satisfied expression",
+        "talking to camera",
+        "gesturing",
+        "yellow drink"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "satisfied",
+          "energetic",
+          "persuasive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "authentic reaction",
+          "direct appeal"
+        ]
+      },
+      "why_kept": "This segment captures the emotional climax with a clear positive reaction to the product and a strong call to action, reinforcing its benefits and desirability."
+    }
+  ]
+}

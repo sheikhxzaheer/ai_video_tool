@@ -1,0 +1,211 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold Before_After\\ssstik.io_@cleanandbrightservices_1767632649320.mp4",
+  "detailed_description": "This video vividly demonstrates the potent cleaning power of HG mould spray. It showcases severely mold-infested walls, then proceeds to spray the product on the affected areas. The core value is immediately visible as the black mold rapidly disappears, transforming the dirty surface into a clean, white wall. The video effectively uses before-and-after text overlays and concludes with a clear display of the product bottle and its usage instructions.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "moldy wall",
+        "black spots",
+        "hand",
+        "spray bottle",
+        "spraying cleaner",
+        "mold dissolving"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment establishes the 'Problem State' visually and immediately demonstrates 'Product Interaction' as the cleaner is applied, showing the initial 'Mechanism_Of_Action' of the mold starting to dissolve."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:21.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Visual_Hook",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "mold disappearing",
+        "wall turning clean",
+        "white wall",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "positive"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "rapid transformation",
+          "text animation"
+        ]
+      },
+      "why_kept": "This segment is a clear 'Reveal/Result' hero moment, showing the rapid and dramatic 'Result_Transformation' of the wall as the mold disappears, enhanced by the 'Juwt watch it disappear' text."
+    },
+    {
+      "start_time": "00:21.000",
+      "end_time": "00:30.000",
+      "structural_tags": [
+        "Before_After",
+        "Result_Transformation",
+        "Problem_State",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "text 'Before'",
+        "text 'After'",
+        "moldy wall",
+        "clean wall"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "positive",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "split transition",
+          "text overlay"
+        ]
+      },
+      "why_kept": "This is the strongest 'Reveal/Result' and 'Before_After' hero moment, explicitly contrasting the 'Problem_State' with the successful 'Result_Transformation', making it ideal as the anchor segment."
+    },
+    {
+      "start_time": "00:30.000",
+      "end_time": "00:33.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "HG mould spray bottle",
+        "product name"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "informative",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clear product shot"
+        ]
+      },
+      "why_kept": "This segment clearly introduces the 'Product_Standalone', allowing viewers to identify the product being used to achieve the impressive results."
+    },
+    {
+      "start_time": "00:33.000",
+      "end_time": "00:43.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "hand",
+        "spray bottle",
+        "spraying mold",
+        "mold dissolving",
+        "wall becoming clean"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "demonstration"
+        ]
+      },
+      "why_kept": "This segment provides another 'Process' and 'Result_Transformation' hero moment, reinforcing the product's effectiveness through a fresh application and visual transformation."
+    },
+    {
+      "start_time": "00:56.000",
+      "end_time": "01:02.000",
+      "structural_tags": [
+        "Key_Information",
+        "Product_Standalone",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "product label",
+        "instructions",
+        "directions for use",
+        "text 'Pause to read'"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "informative",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "detailed text",
+          "static shot"
+        ]
+      },
+      "why_kept": "This segment is a 'Key Information' hero moment, providing essential product details and usage instructions for the viewer, concluding the product demonstration."
+    }
+  ]
+}

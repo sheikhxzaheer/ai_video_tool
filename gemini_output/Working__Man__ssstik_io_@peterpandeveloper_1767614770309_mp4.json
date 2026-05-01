@@ -1,0 +1,57 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Man\\ssstik.io_@peterpandeveloper_1767614770309.mp4",
+  "detailed_description": "The video captures a professional's seamless transition into a focused work session within a modern home office environment. It showcases the user putting on noise-canceling headphones and starting music to enhance concentration, followed by an engaging display of him actively coding and interacting with a multi-monitor setup. The sequence highlights the essential elements of a productive workflow, emphasizing the integration of technology and an organized workspace for deep work.",
+  "segments": [
+    {
+      "start_time": "00:03.900",
+      "end_time": "00:13.200",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Process_Labor",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "man",
+        "headphones",
+        "desk",
+        "monitors",
+        "keyboard",
+        "mouse",
+        "typing",
+        "coding",
+        "office setup",
+        "coffee mug",
+        "phone"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "serious",
+          "focused",
+          "productive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean setup",
+          "modern",
+          "efficient",
+          "organized",
+          "natural light",
+          "warm lighting"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it captures the entire 'hero moment' of the professional's routine: from putting on headphones for focused work and initiating background music, to actively engaging in the process of coding on a sophisticated multi-monitor setup. It demonstrates 'Product Interaction' with personal tech and software, 'The Process/Labor' of development, and clearly establishes the 'Workspace_Office' environment, all within a continuous, engaging flow."
+    }
+  ]
+}

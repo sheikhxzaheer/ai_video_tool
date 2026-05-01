@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pregnant\\Pregnant_dance\\ð▒ðÁÐÇðÁð╝ðÁð¢ð¢ð░ÐÅ Ðéð░ð¢ÐåÐâðÁÐé.mp4",
+  "detailed_description": "The video features a pregnant woman confidently and playfully dancing in a hallway, embodying a sense of high energy and positive emotion. She is dressed in a fitted black dress and a white blazer, accentuating her baby bump, as she moves rhythmically to an upbeat song. Her facial expressions convey joy and self-assurance, making the entire segment a celebratory display of pregnancy and confidence.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.696",
+      "structural_tags": [
+        "Visual_Hook",
+        "Positive_Emotion",
+        "High_Energy",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "pregnant woman",
+        "dancing",
+        "baby bump",
+        "black dress",
+        "white blazer",
+        "hallway",
+        "smiling",
+        "energetic"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean background",
+          "upbeat"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, showcasing the main subject (a pregnant woman) actively dancing with high energy and positive facial expressions, which is the primary action and emotional climax of the video. There is no setup or post-action dead air, making the whole duration relevant."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Spraying\\IMG_2225.MOV",
+  "detailed_description": "This video segment captures the direct application of 'MoldMD' mold and mildew spot remover to a dirty toilet rim. A hand is seen holding the white spray bottle and systematically spraying the cleaning solution onto visible dark stains and grime accumulated around the toilet seat's edge. The focus is on the product interaction and the process of initiating the cleaning task, demonstrating how the cleaner is applied to address a common household hygiene problem.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.510",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "hand",
+        "spray bottle",
+        "cleaning product",
+        "toilet",
+        "toilet seat",
+        "mold",
+        "stains",
+        "spraying",
+        "dirty surface",
+        "MoldMD"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct application",
+          "utility shot",
+          "bright lighting",
+          "action-oriented"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it directly demonstrates the 'Product Interaction' and 'The Process/Labor' of applying the cleaning solution to a visibly dirty toilet. It accurately captures the core action and value proposition of the product, fulfilling the 'Hero Moment' criteria without any extraneous setup or dead air, thus adhering to the 'NO-MISTAKE' rule."
+    }
+  ]
+}

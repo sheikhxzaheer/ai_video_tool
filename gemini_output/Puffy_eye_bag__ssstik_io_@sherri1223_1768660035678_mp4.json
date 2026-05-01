@@ -1,0 +1,180 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Puffy eye bag\\ssstik.io_@sherri1223_1768660035678.mp4",
+  "detailed_description": "This video vividly demonstrates the immediate effects of Peter Thomas Roth's Instant FIRMx Eye product. The creator first highlights her undereye bags and wrinkles, establishing a 'problem state'. She then applies a thin layer of the cream, showcasing the precise application process. Within seconds, a dramatic transformation is visible, with significant reduction in puffiness and tightening of the skin under the treated eye. The video serves as a compelling real-time 'before and after' showcase of the product's efficacy.",
+  "segments": [
+    {
+      "start_time": "00:03.491",
+      "end_time": "00:05.991",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hand",
+        "product tube",
+        "Peter Thomas Roth",
+        "eye cream"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "focused shot"
+        ]
+      },
+      "why_kept": "This segment clearly introduces the product being used, fulfilling the 'Product_Intro' and 'Product_Interaction' criteria as a hero moment."
+    },
+    {
+      "start_time": "00:10.375",
+      "end_time": "00:12.375",
+      "structural_tags": [
+        "Problem_State",
+        "Before_After",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "undereye bags",
+        "wrinkles",
+        "gesturing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "direct view"
+        ]
+      },
+      "why_kept": "This segment effectively establishes the 'before' state and the problem the product aims to solve, which is crucial for demonstrating the 'Result_Transformation' later. It serves as a visual hook."
+    },
+    {
+      "start_time": "00:12.592",
+      "end_time": "00:36.592",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "woman",
+        "finger",
+        "cream",
+        "dabbing",
+        "application",
+        "undereye"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed action",
+          "clear view of application"
+        ]
+      },
+      "why_kept": "This is the core 'process' segment, demonstrating the product's application and its 'Mechanism_Of_Action' in real-time, which is a key hero moment."
+    },
+    {
+      "start_time": "01:03.042",
+      "end_time": "01:06.009",
+      "structural_tags": [
+        "Result_Transformation",
+        "Face_Reaction",
+        "Emotional_Climax",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "eye",
+        "tightened skin",
+        "reduced puffiness",
+        "surprise reaction"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dramatic change",
+          "expressive reaction",
+          "good lighting"
+        ]
+      },
+      "why_kept": "This segment captures the immediate 'reveal' of the product's effectiveness and the user's surprised, positive reaction, making it a powerful 'Emotional_Climax' and 'Result_Transformation' hero moment."
+    },
+    {
+      "start_time": "01:10.276",
+      "end_time": "01:15.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Social_Proof",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "eye",
+        "smooth skin",
+        "comparison",
+        "side view"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "comparison shot",
+          "detailed view"
+        ]
+      },
+      "why_kept": "This segment provides additional visual evidence of the product's quick transformation, reinforcing the 'Result_Transformation' and acting as 'Social_Proof' for its claims."
+    }
+  ]
+}

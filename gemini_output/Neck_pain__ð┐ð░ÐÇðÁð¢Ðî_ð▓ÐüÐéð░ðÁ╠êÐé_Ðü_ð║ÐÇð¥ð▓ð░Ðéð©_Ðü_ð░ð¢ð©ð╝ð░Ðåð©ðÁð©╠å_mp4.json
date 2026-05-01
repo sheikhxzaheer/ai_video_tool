@@ -1,0 +1,329 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Neck pain\\ð┐ð░ÐÇðÁð¢Ðî ð▓ÐüÐéð░ðÁ╠êÐé Ðü ð║ÐÇð¥ð▓ð░Ðéð© Ðü ð░ð¢ð©ð╝ð░Ðåð©ðÁð©╠å.mp4",
+  "detailed_description": "This video addresses common morning neck and back pain by offering three solutions: optimizing sleeping positions, choosing a supportive mattress, and incorporating morning mobility exercises. It demonstrates correct pillow placement for stomach, back, and side sleepers, contrasts an unsupportive mattress with the supportive Amerisleep A2 mattress (including its adjustable bed frame), and showcases a brief routine of stretches. The core message emphasizes improving sleep posture and mattress quality, particularly with the Amerisleep product, to alleviate discomfort and promote overall well-being upon waking.",
+  "segments": [
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:04.200",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "man in bed",
+        "skeleton overlay",
+        "neck pain",
+        "back pain",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "informational graphics",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the core problem of morning neck and back pain, serving as a strong visual hook and context-setter for the entire video."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:07.167",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man sleeping",
+        "pillow",
+        "stomach sleeper",
+        "bed"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "demonstration"
+        ]
+      },
+      "why_kept": "Demonstrates a practical solution for stomach sleepers by showing correct pillow placement for spinal alignment."
+    },
+    {
+      "start_time": "00:09.133",
+      "end_time": "00:11.233",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man sleeping",
+        "pillow",
+        "back sleeper",
+        "bed"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "demonstration"
+        ]
+      },
+      "why_kept": "Demonstrates a practical solution for back sleepers by showing correct pillow placement for spinal alignment."
+    },
+    {
+      "start_time": "00:12.167",
+      "end_time": "00:13.267",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man sleeping",
+        "pillow",
+        "side sleeper",
+        "bed"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "demonstration"
+        ]
+      },
+      "why_kept": "Demonstrates a practical solution for side sleepers by showing correct pillow placement for spinal alignment."
+    },
+    {
+      "start_time": "00:14.000",
+      "end_time": "00:16.100",
+      "structural_tags": [
+        "Problem_State",
+        "Low_Quality_Comparison"
+      ],
+      "visual_keywords": [
+        "man sleeping",
+        "unsupportive mattress",
+        "pressure points",
+        "red arrows"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "informational graphics"
+        ]
+      },
+      "why_kept": "Illustrates the negative impact of an unsupportive mattress by showing how it creates pressure points and improper spinal alignment, highlighting the problem that the featured product solves."
+    },
+    {
+      "start_time": "00:16.900",
+      "end_time": "00:18.133",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "man sleeping",
+        "supportive mattress",
+        "Amerisleep A2",
+        "green dashed line",
+        "proper alignment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "product showcase",
+          "visual explanation"
+        ]
+      },
+      "why_kept": "This segment acts as a key 'reveal' by showing the positive transformation when using the Amerisleep A2 mattress, demonstrating how it provides proper spinal support and alleviates pressure, which is central to the video's message."
+    },
+    {
+      "start_time": "00:18.667",
+      "end_time": "00:20.033",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "hand",
+        "mattress surface",
+        "texture",
+        "pressure"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "texture detail",
+          "product quality"
+        ]
+      },
+      "why_kept": "Provides a close-up interaction with the mattress, visually emphasizing its supportive and responsive material, reinforcing the product's quality."
+    },
+    {
+      "start_time": "00:21.033",
+      "end_time": "00:23.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "man",
+        "remote control",
+        "adjustable bed frame",
+        "head elevation",
+        "feet elevation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "product feature demonstration"
+        ]
+      },
+      "why_kept": "Showcases an additional feature of the Amerisleep system, the adjustable bed frame, demonstrating its mechanism for offloading pressure in sensitive areas."
+    },
+    {
+      "start_time": "00:27.233",
+      "end_time": "00:38.000",
+      "structural_tags": [
+        "Morning_Routine",
+        "Process_Labor",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "man stretching",
+        "neck stretch",
+        "arm stretch",
+        "back stretch",
+        "hip stretch",
+        "bedside exercises"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "exercise demonstration",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "Provides actionable advice through a series of morning mobility exercises, demonstrating a 'process/labor' hero moment to alleviate stiffness and discomfort."
+    },
+    {
+      "start_time": "00:40.800",
+      "end_time": "00:44.200",
+      "structural_tags": [
+        "Offer_CTA",
+        "Product_Intro",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "Amerisleep logo",
+        "mattress",
+        "bed",
+        "smile",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "brand promotion",
+          "friendly tone"
+        ]
+      },
+      "why_kept": "Concludes the video with a clear call to action, recommending the Amerisleep mattress, and delivers the brand's message with a positive, reassuring facial expression."
+    }
+  ]
+}

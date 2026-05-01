@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\Bald spot\\ssstik.io_@logeybear321_1753374742073.mp4",
+  "detailed_description": "The video features a bald man with a prominent beard and glasses speaking directly to the camera, with another bald man partially visible behind him. The speaker expresses a strong, escalating reaction, discussing something that cannot be recreated, which he initially dislikes. However, his sentiment quickly shifts to a surprised and enthusiastic exclamation about it being 'hot,' accompanied by a wide-mouthed, excited facial expression. The clip captures a spontaneous and high-energy emotional climax centered on his verbal and non-verbal reaction.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.127",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Human_Interaction",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "bald man",
+        "beard",
+        "glasses",
+        "speaking",
+        "surprised expression",
+        "excited expression",
+        "brand badge"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "conversational",
+          "direct address",
+          "casual lighting"
+        ]
+      },
+      "why_kept": "This entire segment serves as the 'Semantic Core' because it captures the full progression of the speaker's emotional response, from initial contemplation to a clear and energetic positive reaction. The changing facial expression, the explicit verbal affirmation ('This is actually kind of hot'), and the overall high energy represent the emotional climax and primary value of the video, fitting the 'Emotional Climax' and 'Key Information' criteria for hero moments."
+    }
+  ]
+}

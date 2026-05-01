@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Spraying\\IMG_2583.MOV",
+  "detailed_description": "The video prominently features a person's hand demonstrating the application of 'MoldMD Mold Spot Remover' into a dirty bathtub drain. It captures the direct product interaction as the cleaning solution is sprayed onto visible grime, showcasing the initial step of addressing a common household mold or dirt issue. The entire segment focuses on the 'process' of using the product, highlighting its functionality and ease of application in a home cleaning context. The visual intent is to clearly convey how the product is used to tackle a specific problem area.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.288",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "hand",
+        "spray bottle",
+        "MoldMD Mold Spot Remover",
+        "bathtub",
+        "drain",
+        "grime"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "practical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear focus",
+          "direct product use"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it perfectly embodies the 'Product Interaction' and 'Process/Labor' hero moments. It starts precisely when the action begins (spraying the product) and ends immediately when the action concludes, following the 'No-Mistake' rule. The core value demonstrated is the direct application of the cleaning product to a problem area, which is central to understanding the product's function."
+    }
+  ]
+}

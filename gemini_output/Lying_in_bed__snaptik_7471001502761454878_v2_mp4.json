@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Lying in bed\\snaptik_7471001502761454878_v2.mp4",
+  "detailed_description": "This video vividly captures the energetic and joyous feeling of a person jumping into their bed immediately after school, particularly on days when they don't have practice. The repetitive action of enthusiastically bouncing on the bed, complete with playful sound effects, conveys a strong sense of freedom, comfort, and relief. The cozy bedroom setting reinforces the idea of unwinding and enjoying personal time after a long school day, highlighting a moment of pure unadulterated happiness.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.300",
+      "structural_tags": [
+        "High_Energy",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Home",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "person jumping",
+        "bed",
+        "pillows",
+        "bedroom",
+        "window",
+        "ceiling fan"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "natural light from window",
+          "simple bedroom decor",
+          "repetitive action"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the semantic core because it perfectly and entirely demonstrates the core message of the video: the feeling of joy and freedom when jumping into bed after school on a day without practice. The repeated energetic jumps are the 'process' and 'emotional climax' that convey this feeling, and the video starts and ends precisely with the action, adhering to the 'no-mistake' rule."
+    }
+  ]
+}

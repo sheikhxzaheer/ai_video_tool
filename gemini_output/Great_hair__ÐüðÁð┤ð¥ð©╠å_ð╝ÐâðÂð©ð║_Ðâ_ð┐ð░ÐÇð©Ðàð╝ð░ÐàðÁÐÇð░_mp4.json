@@ -1,0 +1,181 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ÐüðÁð┤ð¥ð©╠å ð╝ÐâðÂð©ð║ Ðâ ð┐ð░ÐÇð©Ðàð╝ð░ÐàðÁÐÇð░.mp4",
+  "detailed_description": "This video captures the comprehensive process of a skilled barber transforming a client's gray, curly hair into a sleek, classic side-parted style. The transformation begins with hair preparation and the application of a smoothing solution, followed by flat ironing to achieve a straight base. The barber meticulously cuts the hair with scissors, shaping it to perfection, and then uses a blow dryer and styling products to create a refined, elegant look. The client's delighted reaction at the end emphasizes the successful and high-quality hair care service.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:03.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "barber",
+        "client",
+        "neck strip",
+        "hairdressing cape"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean lighting",
+          "modern salon"
+        ]
+      },
+      "why_kept": "This segment shows the initial preparation steps, setting the stage for the haircut and styling process."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:18.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "barber",
+        "client",
+        "hair dryer",
+        "smoothing solution bottle",
+        "gloves",
+        "comb",
+        "flat iron",
+        "steam"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "professional",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic action",
+          "product focus",
+          "transformation in progress"
+        ]
+      },
+      "why_kept": "This is a key 'hero moment' demonstrating the initial product application and the use of the flat iron to transform the hair's texture, a crucial step in achieving the final look."
+    },
+    {
+      "start_time": "00:18.500",
+      "end_time": "00:38.500",
+      "structural_tags": [
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "barber",
+        "client",
+        "scissors",
+        "comb",
+        "hair cutting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "precision cutting",
+          "detailed work"
+        ]
+      },
+      "why_kept": "This extensive segment showcases the barber's professional skill and labor in meticulously cutting and shaping the client's hair, forming the core of the haircut service."
+    },
+    {
+      "start_time": "00:38.500",
+      "end_time": "00:51.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "barber",
+        "client",
+        "hair dryer",
+        "pomade",
+        "hands",
+        "hair styling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "professional",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "finishing touches",
+          "smooth styling"
+        ]
+      },
+      "why_kept": "This segment highlights the final styling process, including blow-drying for form and applying pomade, bringing the hairstyle to its intended sleek and polished appearance."
+    },
+    {
+      "start_time": "00:51.500",
+      "end_time": "00:56.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "barber",
+        "client",
+        "hairspray",
+        "hair",
+        "smile",
+        "satisfied expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "positive",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "final product application",
+          "client's delight"
+        ]
+      },
+      "why_kept": "This segment captures the very end of the process, showing the hairspray as a final product interaction and crucially, the client's genuine smile and satisfaction with the completed hair transformation."
+    }
+  ]
+}

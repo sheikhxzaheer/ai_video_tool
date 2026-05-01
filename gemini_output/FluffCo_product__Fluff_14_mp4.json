@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_14.mp4",
+  "detailed_description": "The video captures a woman in a bedroom, holding two large pillows, displaying a frustrated and tired expression. She articulates a problem with falling asleep, emphasizing her struggle even before she can drift off. The scene effectively conveys a 'problem state' related to sleep discomfort, likely setting the stage for a solution involving bedding or sleep aids.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.833",
+      "structural_tags": [
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pillows",
+        "pajamas",
+        "bedroom",
+        "frustrated expression",
+        "yawning"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "tired",
+          "frustrated"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "static shot"
+        ]
+      },
+      "why_kept": "This segment is the core semantic moment as it vividly presents the 'problem state'—the difficulty of falling asleep—through the subject's frustrated facial expression, her interaction with pillows, and the accompanying text overlay. It establishes the central conflict or need that a product or solution would address, making it a clear 'emotional climax' and a foundational 'problem state' moment."
+    }
+  ]
+}

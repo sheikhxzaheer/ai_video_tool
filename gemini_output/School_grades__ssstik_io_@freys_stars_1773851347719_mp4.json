@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\School grades\\ssstik.io_@freys.stars_1773851347719.mp4",
+  "detailed_description": "This video is a rapid-cut montage showcasing a series of improving academic grades, starting from lower percentages like 57% and 44% and progressing to higher scores such as 67%, 88%, 95%, and eventually a perfect 100. The overlaid text 'seeing your grades improve>>>' explicitly communicates the central theme of academic progress and the positive emotional impact of witnessing one's own improvement. The quick transitions between different grade displays effectively convey a sense of continuous achievement and satisfaction.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "High_Energy",
+        "Aesthetic_Broll",
+        "Data_Metrics_Chart"
+      ],
+      "visual_keywords": [
+        "grades",
+        "percentages",
+        "numbers",
+        "handwriting",
+        "paper",
+        "screen",
+        "exam scores"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "quick cuts",
+          "hand-drawn numbers",
+          "digital display",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the progression of improving grades through a rapid visual montage. The quick cuts and the overlaid text explicitly convey the value proposition and the positive emotional climax associated with academic achievement. No setup, dead air, or non-essential footage is present."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated Before_After\\ssstik.io_@charleytiktokfinds_1774536608019.mp4",
+  "detailed_description": "This video visually demonstrates the effectiveness of lymphatic drops through a compelling before-and-after comparison. It begins by showcasing the user's stomach in a bloated 'before' state. Subsequently, it transitions to an 'after' state, an hour later, where the user's stomach appears noticeably flatter. The video concludes by featuring the product, Nature's Sunshine Lymphatic Drainage drops, linking the positive transformation directly to its use.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "stomach",
+        "bloated",
+        "black leggings",
+        "gray top",
+        "refrigerator"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "neutral"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear lighting",
+          "side profile"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state, visually demonstrating the initial problem of bloating, which is crucial context for the subsequent transformation."
+    },
+    {
+      "start_time": "00:03.900",
+      "end_time": "00:11.800",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Product_Interaction",
+        "Product_Standalone",
+        "Home_Kitchen",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "flat stomach",
+        "black leggings",
+        "gray top",
+        "lymphatic drops bottle",
+        "Nature's Sunshine",
+        "refrigerator"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "side profile",
+          "front profile"
+        ]
+      },
+      "why_kept": "This is the primary 'hero moment' where the visual transformation to a flatter stomach is revealed, directly followed by the introduction and interaction with the product responsible for this change, fulfilling the 'Result_Transformation' and 'Product_Interaction' criteria."
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad electrolyte drink\\ssstik.io_@glowwithella_1770995126200.mp4",
+  "detailed_description": "This video showcases the creation of a natural blue electrolyte drink, presented as 'nature's blue Gatorade.' The process begins with juicing fresh lemons and limes, incorporating ginger, and adding a 'blue magic' powder (likely spirulina) for its vibrant color. The creator highlights the drink's hydrating properties, rich in electrolytes and minerals, making it suitable for various needs like pre/post-workout, hangover relief, or immune support. The video concludes with the creator expressing enthusiastic satisfaction, affirming the drink effectively quenches thirst and serves as a perfect summer beverage.",
+  "segments": [
+    {
+      "start_time": "00:00:02.131",
+      "end_time": "00:00:05.101",
+      "structural_tags": [
+        "Problem_State",
+        "Home_Kitchen",
+        "The_Process/Labor"
+      ],
+      "visual_keywords": [
+        "woman",
+        "cutting lemon",
+        "lime",
+        "knife",
+        "cutting board",
+        "thirsty",
+        "water"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "straightforward"
+        ]
+      },
+      "why_kept": "This segment establishes the 'problem state' (thirst not quenched by water) and introduces the fresh ingredients, setting the context for making the electrolyte drink."
+    },
+    {
+      "start_time": "00:00:05.101",
+      "end_time": "00:00:10.034",
+      "structural_tags": [
+        "The_Process/Labor",
+        "Product_Interaction",
+        "Home_Kitchen",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "woman",
+        "juicing",
+        "lime",
+        "lemon",
+        "citrus juicer",
+        "juice"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "instructive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "demonstrative",
+          "bright"
+        ]
+      },
+      "why_kept": "This segment demonstrates a key part of the preparation process using a specific tool (juicer) and highlights the fresh citrus ingredients."
+    },
+    {
+      "start_time": "00:00:16.034",
+      "end_time": "00:00:18.000",
+      "structural_tags": [
+        "The_Process/Labor",
+        "Product_Interaction",
+        "Home_Kitchen",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "woman",
+        "blue powder",
+        "blue magic",
+        "packet",
+        "blender",
+        "adding ingredient"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean shot",
+          "focused"
+        ]
+      },
+      "why_kept": "This segment features the 'blue magic' ingredient, crucial for the drink's unique color, and shows its direct application."
+    },
+    {
+      "start_time": "00:00:21.082",
+      "end_time": "00:00:24.082",
+      "structural_tags": [
+        "The_Process/Labor",
+        "Result_Transformation",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pouring liquid",
+        "blue drink",
+        "ginger mixture",
+        "mason jar",
+        "ice",
+        "color change"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "satisfying"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "visual transformation",
+          "clean pour"
+        ]
+      },
+      "why_kept": "This is the key 'reveal' moment, visually demonstrating the transformation of the drink into its vibrant blue color as the ingredients are combined."
+    },
+    {
+      "start_time": "00:00:30.000",
+      "end_time": "00:00:39.000",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Home_Kitchen",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "talking",
+        "blue drink",
+        "mason jar",
+        "straw",
+        "stirring",
+        "electrolytes",
+        "minerals",
+        "rehydration",
+        "energy",
+        "pre-workout",
+        "post-workout",
+        "hangover cure",
+        "immune support"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "informative",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "engaging presentation"
+        ]
+      },
+      "why_kept": "This is the primary anchor segment where the creator articulates the core benefits and versatility of the drink, directly interacting with the finished product, making it the most informative and value-driven part."
+    },
+    {
+      "start_time": "00:00:41.000",
+      "end_time": "00:00:50.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Home_Kitchen",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "woman",
+        "sipping drink",
+        "blue drink",
+        "straw",
+        "facial expression",
+        "satisfaction",
+        "OK gesture",
+        "thirst quenched",
+        "summer beverage"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "joyful",
+          "satisfied",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "authentic reaction",
+          "expressive"
+        ]
+      },
+      "why_kept": "This segment captures the strong emotional climax and final endorsement, showcasing the creator's genuine positive reaction and reinforcing the drink's effectiveness in quenching thirst and its appeal as a summer beverage."
+    }
+  ]
+}

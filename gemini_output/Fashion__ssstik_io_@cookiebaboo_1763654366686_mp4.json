@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Fashion\\ssstik.io_@cookiebaboo_1763654366686.mp4",
+  "detailed_description": "This video captures a behind-the-scenes moment or rehearsal of a fashion show by the brand \"SILHOUETTE\". A woman, presumably a designer or director, confidently walks the runway, acknowledging a lineup of models and staff who cheer and clap for her. The stage features a large screen displaying classical architecture and the brand's elegant logo, creating a sophisticated backdrop. The scene conveys a sense of anticipation and appreciation, characteristic of a pre-show atmosphere in the fashion industry, highlighting the professional environment and human interaction.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:22.750",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "High_Energy",
+        "Workspace_Office",
+        "Aesthetic_Broll",
+        "Product_Standalone",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman walking runway",
+        "fashion show stage",
+        "models clapping",
+        "staff",
+        "SILHOUETTE logo",
+        "classical columns backdrop",
+        "suit",
+        "headphones"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "premium",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "stage lighting",
+          "professional production",
+          "clean background",
+          "dynamic movement"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it forms a continuous, coherent 'Hero Moment' depicting the core action: a key figure's confident walk during a fashion show rehearsal, receiving applause from the models and staff. It showcases the professional environment, the brand's presence (SILHOUETTE logo), and positive human interaction, all crucial elements of a fashion event's behind-the-scenes. The overlaid text confirms it's a 'Pre-show mode,' making the whole segment relevant and untrimmable under the 'No-Mistake' rule as it captures the complete action."
+    }
+  ]
+}

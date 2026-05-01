@@ -1,0 +1,105 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan cap\\9C7D362B-99C7-4112-AA67-EE73E04DDCD2.MOV",
+  "detailed_description": "The video showcases a black baseball cap designed for red light therapy. It demonstrates the product's main function by turning the red LED lights inside the cap on and off. The interaction highlights the ease of use and the distinct red glow, including a rapid flashing mode, providing a clear view of the therapeutic light emitted by the device, suggesting benefits for hair growth or skin health.",
+  "segments": [
+    {
+      "start_time": "00:03.900",
+      "end_time": "00:07.700",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "hand pressing button",
+        "red LED lights turning on",
+        "red LED lights turning off",
+        "black baseball cap",
+        "glowing lights"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "red light therapy cap",
+          "sleek design",
+          "button interaction",
+          "glowing red light"
+        ]
+      },
+      "why_kept": "This segment is kept as the primary 'Hero Moment' because it clearly demonstrates the core function of the product: turning the red light therapy on and off with a simple button press. It establishes the main mechanism of action."
+    },
+    {
+      "start_time": "00:10.500",
+      "end_time": "00:22.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand inside cap",
+        "red light illuminating hand",
+        "interior of cap",
+        "red LED grid"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "red light effect",
+          "light coverage",
+          "therapeutic glow"
+        ]
+      },
+      "why_kept": "This segment visually demonstrates the extent and intensity of the red light. By showing the light illuminating the hand from inside the cap, it provides a practical understanding of how the device would interact with a user's head, highlighting its therapeutic potential and coverage."
+    },
+    {
+      "start_time": "00:38.000",
+      "end_time": "00:41.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "red LED lights flashing rapidly",
+        "black baseball cap",
+        "glowing lights turning off"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "flashing light mode",
+          "product feature demonstration"
+        ]
+      },
+      "why_kept": "This segment highlights an additional feature of the product – a rapid flashing mode for the red lights. Demonstrating different operational modes is crucial for showcasing the product's full capabilities and versatility."
+    }
+  ]
+}

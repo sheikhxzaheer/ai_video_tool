@@ -1,0 +1,55 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\School grades\\ssstik.io_@ggng_bngg_1773850619069.mp4",
+  "detailed_description": "The video illustrates a relatable school scenario from a student's point of view. A student receives a failing grade on an exam, initially appearing disappointed. However, upon realizing that a peer (implied to be a friend or 'bro' from the text overlay) also received the exact same bad grade, her mood immediately shifts to one of carefree joy. The video culminates in a playful piggyback ride, highlighting her relief and happiness in the shared predicament, encapsulating the sentiment of not caring when others are in the same boat.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.700",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Interaction",
+        "Key_Information",
+        "Positive_Emotion",
+        "High_Energy",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Lifestyle_Active",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "girl",
+        "student",
+        "teacher",
+        "classroom",
+        "desk",
+        "exam paper",
+        "bad grade",
+        "piggyback ride",
+        "smile",
+        "interaction"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "relatable"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "handheld footage",
+          "slice of life"
+        ]
+      },
+      "why_kept": "This entire segment perfectly illustrates the central 'POV' narrative presented by the text overlay. It captures the initial problem (receiving a bad grade), the key information that changes the perspective (the realization that another person got the same bad grade), and the emotional climax (carefree happiness and physical expression of joy) in a continuous, visually coherent sequence. Trimming any part would break the storytelling arc and diminish the core message."
+    }
+  ]
+}

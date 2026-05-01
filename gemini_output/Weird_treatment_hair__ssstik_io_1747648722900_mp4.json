@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ssstik.io_1747648722900.mp4",
+  "detailed_description": "The video features a man with curly hair demonstrating his new favorite hair care product, Garnier Ultimate Blends Hair Food Banana & Shea 3-in-1 Hair Mask. He showcases his natural curls before applying the product, then demonstrates scooping the cream and working it through his wet hair as a leave-in conditioner. The video concludes by highlighting his frizz-free, well-defined curls after air-drying, effectively illustrating the product's transformative results.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:24.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "UGC_Talking_Head",
+        "Morning_Routine",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "curly hair",
+        "hair product",
+        "Garnier",
+        "banana hair food",
+        "applying cream",
+        "wet hair",
+        "defined curls",
+        "frizz-free",
+        "air-drying"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "informative",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "direct address",
+          "close-up on hair"
+        ]
+      },
+      "why_kept": "This entire segment serves as a complete and cohesive demonstration of the product. It starts with a visual hook showing the hair's initial state, introduces the product, clearly demonstrates the application process (product interaction and mechanism of action), and concludes with the visible result (result transformation). The continuous narration ties all these elements together, making the whole duration essential to convey the product's value and effect on curly hair. No parts could be trimmed without losing critical context or a step in the demonstration."
+    }
+  ]
+}

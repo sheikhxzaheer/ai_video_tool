@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Apply\\CNWM_JillianGray_022_Applied Mask.MOV",
+  "detailed_description": "A woman with a pink bow headband applies a clear facial mask. She smiles at the camera, describing how the product has dried and made her face feel and look like it's covered in plastic. This segment focuses on the direct result and her personal reaction to the product's texture and appearance after application.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.150",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Result_Transformation",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink headband",
+        "face mask",
+        "shiny skin",
+        "talking",
+        "smiling",
+        "clear product"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "soft lighting",
+          "natural look"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it perfectly captures the 'Reveal/Result' of the product (a dried face mask described as plastic) and the 'Emotional Climax' through the subject's smile and commentary. It also functions as a 'UGC_Talking_Head' providing key information about the product's effect, with the product clearly visible on her face, adhering to the visual priority rule."
+    }
+  ]
+}

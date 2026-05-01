@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\TikTok\\18.mp4",
+  "detailed_description": "This video features a woman enthusiastically promoting 'Perfect Morning Tangerine Pulse.' She highlights a double discount and a limited-time offer, urging viewers to act quickly as the promotion ends today. While holding the product, she explains its benefits, including hydration, metabolism activation, and nutrient replenishment, positioning it as a solution for feeling tired or overwhelmed. The video culminates in a direct call to action, encouraging viewers to click the orange cart icon for a 51% discount and free, fast shipping.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:24.800",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Offer_CTA",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Urgency_Rush",
+        "Home_Kitchen",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman",
+        "Perfect Morning Tangerine Pulse product",
+        "kitchen",
+        "hand gestures",
+        "smiling",
+        "talking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "positive",
+          "urgent"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "clear lighting"
+        ]
+      },
+      "why_kept": "This entire segment functions as the semantic core. It begins with a visual hook revealing the product, proceeds with the speaker directly presenting the product's benefits and a limited-time 'double discount' offer, and ends with a clear, urgent call to action. The speaker consistently holds and displays the product while delivering key information with high energy and positive emotion, making it a cohesive and impactful promotional message."
+    }
+  ]
+}

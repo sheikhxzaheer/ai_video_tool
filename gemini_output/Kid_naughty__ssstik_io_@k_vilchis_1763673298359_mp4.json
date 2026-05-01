@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid naughty\\ssstik.io_@k.vilchis_1763673298359.mp4",
+  "detailed_description": "This video features an adorable baby with curly dark hair, dressed in a light blue bunny-themed onesie, sitting on a bed covered in soft pink blankets. Throughout the entire clip, the baby maintains a distinctly grumpy and scrunched-up facial expression, perfectly encapsulating the 'Mood' indicated by the on-screen text. The consistent, albeit cute, display of this negative emotion serves as the video's primary emotional climax and visual hook.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.790",
+      "structural_tags": [
+        "Visual_Hook",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "baby",
+        "curly hair",
+        "grumpy face",
+        "pink blanket",
+        "blue onesie",
+        "Hello Kitty plush"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "cute",
+          "humorous",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear lighting",
+          "static shot",
+          "cute aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it constitutes the singular 'Semantic Core' of the video. The consistent grumpy facial expression of the baby, emphasized by the 'Mood' text, is the emotional climax and primary visual hook. There are no setup, calibration, or post-action dead air frames, making the entire duration essential to convey the intended message."
+    }
+  ]
+}

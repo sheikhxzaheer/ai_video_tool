@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLife_working\\Scene 22_family interactions 2.mov",
+  "detailed_description": "The video captures a heartwarming and affectionate moment between a young woman and her small, light-colored dog. The woman, with long brown hair and a denim jacket, is seen cradling the dog in her lap, gently petting it. Throughout the clip, the dog enthusiastically licks her face and chin, eliciting genuine smiles and expressions of pure joy from the woman. This intimate interaction highlights the strong bond and mutual affection shared between the pet owner and her furry companion, set in a cozy indoor environment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.133",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "Woman",
+        "dog",
+        "petting",
+        "licking",
+        "smiling",
+        "affection"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "loving"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "warm lighting",
+          "natural light"
+        ]
+      },
+      "why_kept": "The entire segment constitutes the semantic core, demonstrating a continuous and genuine affectionate interaction between the woman and her dog. It perfectly captures the emotional climax (dog licking, woman's happy reaction) and the process of human-animal bonding without any discernible setup, calibration, or post-action dead air, adhering to the 'no-mistake' rule."
+    }
+  ]
+}

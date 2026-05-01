@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Coffee\\ssstik.io_@aleksiss5_1774370623492.mp4",
+  "detailed_description": "The video captures a woman's morning routine as she drinks coffee, explicitly stating it's 'for energy.' She's shown in a home setting, taking a contemplative sip from her mug. The clip visually progresses from a state of calm to a subtle but significant facial reaction, indicating a moment of realization or the onset of energy from the coffee. This single segment effectively portrays the product interaction and the implied positive emotional outcome often associated with consuming coffee to kickstart the day.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.150",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Morning_Routine",
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "drinking coffee",
+        "white mug",
+        "long brown hair",
+        "black long-sleeve top",
+        "black leggings",
+        "bedroom",
+        "sunlight",
+        "subtle reaction"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean aesthetic",
+          "smooth camera movement"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully demonstrates the product interaction (drinking coffee for energy) and the associated emotional climax (her subtle reaction implying the coffee's effect or a sudden realization). The text overlay provides explicit context, making the entire duration essential for conveying the video's central message without any extraneous frames."
+    }
+  ]
+}

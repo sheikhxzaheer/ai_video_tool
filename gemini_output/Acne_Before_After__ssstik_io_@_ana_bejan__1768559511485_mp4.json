@@ -1,0 +1,83 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Acne Before_After\\ssstik.io_@_ana.bejan__1768559511485.mp4",
+  "detailed_description": "The video presents a compelling 'before and after' transformation of a young woman's skin. It begins by showcasing her face with visible acne and redness, establishing a problem state. The video then transitions to a shot of her with clear, glowing skin and a confident smile, demonstrating a significant improvement achieved over a period of six months. The entire video functions as a visual testament to her successful skincare journey.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.410",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Face_Reaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "acne",
+        "redness",
+        "skin imperfections",
+        "expression of concern"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "concerned"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "direct gaze",
+          "text overlay"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state, showing the initial skin condition (acne and redness) and framing it as a problem, which is crucial for the 'before/after' narrative. The text 'How I went from this' reinforces its role as the starting point of the transformation."
+    },
+    {
+      "start_time": "00:03.410",
+      "end_time": "00:08.560",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "clear skin",
+        "glowing skin",
+        "smile",
+        "braided hair",
+        "confident expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "positive",
+          "confident",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "dynamic camera angle",
+          "text overlay",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment completes the 'before/after' story by showcasing the 'after' state, revealing the significant improvement in the woman's skin. Her clear complexion and happy expression highlight the successful transformation. The text 'To this in 6 months' provides key information about the duration of the change, solidifying the result."
+    }
+  ]
+}

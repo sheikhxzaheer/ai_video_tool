@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Lying in bed\\ssstik.io_@wildycaro_1768827490902.mp4",
+  "detailed_description": "The video features a woman showcasing a series of rapid outfit changes and relaxed poses while lounging on a spacious, comfortable sofa. She effortlessly transitions between a white dress, a black dress, and a white shirt with a black skirt, each transformation accompanied by a new, expressive posture. The compilation highlights versatility in style and comfort, culminating in a serene and content smile as she settles into her final pose, conveying a sense of ease and satisfaction.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.126",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "sofa",
+        "dress",
+        "shirt",
+        "skirt",
+        "posing",
+        "outfit change",
+        "smiling",
+        "relaxing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "quick cuts",
+          "soft lighting",
+          "vertical video"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the semantic core because the video's primary action is the rapid succession of outfit changes and poses, designed to showcase different looks and moods. The quick cuts are an intentional stylistic choice, integral to demonstrating the versatility and aesthetic intended by the creator. The final sustained pose with a smile serves as the emotional climax, encapsulating the relaxed and satisfied feeling projected throughout the transitions."
+    }
+  ]
+}

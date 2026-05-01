@@ -1,0 +1,56 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B-Roll2.mov",
+  "detailed_description": "This video presents a comfort product, likely a specialized pillow, demonstrating its immediate positive effect on a user. It begins with a woman sleeping peacefully, followed by another individual introducing and placing the pillow. The sleeping woman awakens slightly, reacts with a warm, satisfied smile, and instinctively snuggles into the pillow, conveying a sense of instant comfort and relaxation. The scene effectively highlights the product's ability to enhance sleep quality and user contentment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:20.100",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Night_Routine",
+        "Aesthetic_Broll",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman sleeping",
+        "gray hair",
+        "woman walking in",
+        "pillow",
+        "bed",
+        "bedroom",
+        "placing pillow",
+        "waking up",
+        "smiling",
+        "snuggling pillow",
+        "comfort"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "relaxed",
+          "positive",
+          "cozy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "natural light",
+          "warm tones",
+          "bedroom aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by showcasing the direct interaction with the product (the pillow), its introduction into the scene, and the immediate, clear positive emotional reaction (smile, snuggling) from the user. It effectively demonstrates the product's value and the comfort it provides, which is the primary message of the video. The 'No-Mistake Rule' applies here as the action starts organically and ends after the core demonstration without excess footage."
+    }
+  ]
+}

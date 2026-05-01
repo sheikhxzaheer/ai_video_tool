@@ -1,0 +1,82 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ðóð░ð©╠åð╝ð╗ð░ð┐Ðü, ðùðÆðÿðºðÉðÿ╠åðØðÿðÿ╠å ÐÇÐûÐüÐé ð▓ð¥ð╗ð¥ÐüÐüÐÅ.mp4",
+  "detailed_description": "This video captures a compelling 365-day time-lapse of a man's hair growth journey, transitioning from a closely shaven style to a full head of dark, curly hair. The transformation is showcased through a series of front, side, and back profiles, each day marked by different clothing, emphasizing the passage of time. The video culminates in a powerful 'Day 1' versus 'Day 365' split-screen comparison, highlighting the dramatic change and the satisfying final result, with the man smiling. The journey subtly continues with a final text overlay.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:38.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hair growth",
+        "curly hair",
+        "time-lapse",
+        "beard",
+        "man",
+        "front view",
+        "side view",
+        "back view",
+        "various outfits",
+        "Day 1",
+        "Day 365",
+        "smile",
+        "transformation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "observational",
+          "satisfactory"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean background",
+          "sequential imagery",
+          "direct gaze",
+          "consistent framing"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully demonstrates the 365-day hair growth process, the gradual transformation, and the final dramatic reveal in a 'Before/After' comparison. The consistent framing and sequential progression clearly illustrate the main value proposition: the long-term result of letting one's hair grow. The subtle smile at the end conveys positive emotion regarding the outcome."
+    },
+    {
+      "start_time": "00:38.000",
+      "end_time": "00:43.000",
+      "structural_tags": [
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "text overlay",
+        "The Journey Continues",
+        "black screen"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "reflective",
+          "forward-looking"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "plain black screen",
+          "white text"
+        ]
+      },
+      "why_kept": "This segment provides key concluding information, suggesting that the transformation is ongoing or that there's more to come. It acts as a narrative wrap-up for the visual journey."
+    }
+  ]
+}

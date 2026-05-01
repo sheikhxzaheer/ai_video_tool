@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ðÉÐéð╗ðÁÐéð©Ðçð¢ð©ð©╠å Ðçð¥ð╗ð¥ð▓Ðûð║ ð┐ð¥ð┐ÐÇð░ð▓ð╗ÐÅÐö ð╝ð¥ð║ÐÇðÁ ð▓ð¥ð╗ð¥ÐüÐüÐÅ.mp4",
+  "detailed_description": "A muscular man with a beard and slicked-back wet hair showcases his impressive physique in a rustic wooden room. He performs a series of poses, flexing his biceps and then turning to display his well-defined back muscles and a prominent tattoo. His focused and serious expression conveys confidence and the result of a dedicated fitness lifestyle, highlighting his strength and aesthetic development.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:07.500",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "muscular man",
+        "beard",
+        "wet hair",
+        "flexing",
+        "biceps",
+        "back muscles",
+        "tattoo",
+        "wooden room"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "confident",
+          "strong",
+          "rugged"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct gaze",
+          "flexing poses",
+          "rustic wooden backdrop",
+          "wet hair look"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it captures the entire sequence of the subject showcasing his muscular physique and strength through various flexing poses, including a clear display of his back and tattoo. It begins immediately after initial adjustments and concludes once the primary demonstration of strength and physique is complete, excluding lingering or setup."
+    }
+  ]
+}

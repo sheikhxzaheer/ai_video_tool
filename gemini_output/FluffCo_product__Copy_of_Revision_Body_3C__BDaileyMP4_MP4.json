@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of Revision Body 3C .BDaileyMP4.MP4",
+  "detailed_description": "This video features a blonde woman in a comfortable, relaxed setting, likely her bedroom, demonstrating the benefits of a good night's sleep. While lying on a pillow with a visible 'FLUFFO' tag, she explains how she feels well-rested and energetic throughout the day. She jokingly mentions her reduced coffee budget and how her co-workers have noticed her natural glow, attributing it to quality sleep. Her cheerful demeanor, smiles, and a wink convey a strong sense of satisfaction and well-being directly linked to her sleep experience.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:23.000",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Result_Transformation",
+        "Calm_Relaxation",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "blonde hair",
+        "smiling",
+        "winking",
+        "pillow",
+        "bed",
+        "white shirt",
+        "FLUFFO tag",
+        "green wall",
+        "artwork"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "direct address",
+          "home setting"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, featuring a talking head directly addressing the audience. The subject describes the positive 'Result_Transformation' of good sleep, expressing 'Positive_Emotion' through smiles and a wink, while actively showcasing 'Product_Interaction' by resting comfortably on the pillow with its brand visible. The 'Calm_Relaxation' mood reinforces the message of quality sleep. No significant 'Setup & Calibration' or 'Post-Action Dead Air' was observed, making the entire clip relevant."
+    }
+  ]
+}

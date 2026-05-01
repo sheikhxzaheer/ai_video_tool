@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\With friend\\ssstik.io_@jamie_w____1766750089599.mp4",
+  "detailed_description": "The video captures an intimate conversation between two men discussing mental health. One man poses the question, \"How is your mental health?\" to the other, who openly shares his struggles and the profound impact of fatherhood on his well-being. He describes feeling both fulfilled and, at times, lost, alone, and broken due to overthinking. The discussion highlights the prevalent challenge men face in opening up and finding support for their mental health.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "01:00.000",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Negative_Emotion",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "two men",
+        "sitting on bench",
+        "talking",
+        "tattoos",
+        "outdoor setting",
+        "trees",
+        "houses"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "serious",
+          "calm",
+          "empathetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "clear sky",
+          "conversation style"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it encapsulates the core message of the video: a candid discussion about men's mental health, the struggles associated with it (including the impact of fatherhood and overthinking), and the difficulty men face in seeking help. The dialogue is central to the video's purpose, conveying key information and emotional depth."
+    }
+  ]
+}

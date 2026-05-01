@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid+parents\\ssstik.io_@natalya..robinson_1763049643492.mp4",
+  "detailed_description": "This video beautifully captures a tender and heartwarming bedtime routine between a mother and her young child. The mother holds the child close, gently swaying and exchanging loving kisses and cuddles. The scene highlights the deep bond and affection shared between them, creating a sense of calm and comfort as they prepare for sleep. The soft lighting and serene bedroom environment underscore the intimate and peaceful nature of this cherished nightly ritual.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:27.766",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "mother",
+        "child",
+        "cuddling",
+        "kissing",
+        "hugging",
+        "bedtime",
+        "bedroom",
+        "affection"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "affectionate",
+          "sweet",
+          "tender"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "warm tones",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment is the entire semantic core as it consistently and continuously demonstrates the 'bedtime cuddles' between the mother and child, which is the sole focus and emotional climax of the video. There are no setup frames, dead air, or elements that need to be trimmed based on the provided rules. The full duration perfectly captures the intended heartwarming moment."
+    }
+  ]
+}

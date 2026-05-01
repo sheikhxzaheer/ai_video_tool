@@ -1,0 +1,147 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\ðöÐâðÂðÁ ÐÇÐûð┤ð║ðÁ ð▓ð¥ð╗ð¥ÐüÐüÐÅ, ðÀÐûÐüÐéÐÇð©ð│ð░ÐÄÐéÐî ðÀð░ð╗ð©Ðêð¥ð║.mp4",
+  "detailed_description": "The video captures a man's transformation from struggling with hair loss to confidently embracing a bald look. It initially shows his concern over his thinning hair, setting up a common problem state. The core of the video then shifts to the empowering process of shaving his head, demonstrating a decisive change. This is followed by his genuine smile and positive reaction, highlighting newfound confidence. Ultimately, a clear side-by-side comparison of his prior hair loss and his new bald head showcases a complete and satisfying personal evolution, promoting self-acceptance.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.300",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man",
+        "elevador",
+        "thinning hair",
+        "bald spot",
+        "concerned expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "concerned"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the initial problem state by showing the man's concerned expression and a clear overhead view of his thinning hair, providing essential context for the transformation."
+    },
+    {
+      "start_time": "00:05.000",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "The Process/Labor",
+        "Result_Transformation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "woman",
+        "electric shaver",
+        "shaving head",
+        "hair cutting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "direct view"
+        ]
+      },
+      "why_kept": "This is the primary 'Hero Moment' as it directly demonstrates the process of shaving, showcasing the labor involved in the transformation. The man's changing expressions from nervous to smiling adds to the emotional journey."
+    },
+    {
+      "start_time": "00:16.000",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Result_Transformation",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "bald head",
+        "smiling",
+        "touching head",
+        "satisfied expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "happy",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment captures the emotional climax, showing the man's genuine satisfaction and positive reaction to his newly shaved head, reinforcing the success of the transformation."
+    },
+    {
+      "start_time": "00:18.000",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "The Reveal/Result",
+        "Before_After",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Split_Screen"
+      ],
+      "visual_keywords": [
+        "man",
+        "thinning hair",
+        "bald head",
+        "side-by-side comparison",
+        "confident expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "confident",
+          "clear"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "split screen effect",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This is a crucial 'Reveal/Result' moment, providing a clear and impactful side-by-side 'Before/After' comparison, visually consolidating the complete transformation and the positive outcome."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Woman\\ssstik.io_@archivebykate_1763928211579.mp4",
+  "detailed_description": "This video captures the essence of a focused work session in a bright, organized home office. A person is shown typing diligently on a keyboard, with a laptop set up on a desk riser, surrounded by personal touches like yellow tulips and motivational posters. The overlay text 'WORK MODE' and a phrase in Filipino 'bawal tamarin, magastos ka self!' (meaning 'don't be lazy, you're expensive self!') clearly convey a dedicated and self-motivated approach to work or study.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:09.914",
+      "structural_tags": [
+        "Workspace_Office",
+        "Human_Interaction",
+        "Product_Interaction",
+        "The_Process_Labor",
+        "Key_Information",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "person typing",
+        "laptop",
+        "keyboard",
+        "desk",
+        "yellow tulips",
+        "window",
+        "posters",
+        "motivational text"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "focused",
+          "motivated"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright natural light",
+          "aesthetic desk setup",
+          "motivational text overlay"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the 'PROCESS/LABOR' of working. It continuously shows the subject engaged in 'PRODUCT INTERACTION' with their laptop and keyboard, set within an organized 'Workspace_Office'. The 'KEY INFORMATION' provided by the text overlay 'WORK MODE' and the motivational phrase explicitly communicates the video's theme without any pre- or post-action dead air."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Fashion\\ssstik.io_@baptistemntr_1763653702378.mp4",
+  "detailed_description": "This video captures a vibrant segment of a high-fashion runway show, featuring a procession of models showcasing an array of exquisitely designed gowns. The collection includes flowing, intricately embellished dresses, some with long veils, alongside more structured white gowns with dramatic, architectural details. The models move with elegance and confidence on a grand wooden floor, illuminated by focused spotlights that highlight the shimmering fabrics and elaborate craftsmanship of each garment. The opulent setting, complete with large pillars and arched windows, underscores the luxurious and premium aesthetic of the collection, offering a glimpse into the world of haute couture.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:26.540",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Human_Interaction",
+        "Product_Standalone",
+        "High_Energy",
+        "Premium"
+      ],
+      "visual_keywords": [
+        "models",
+        "fashion show",
+        "runway",
+        "dresses",
+        "gowns",
+        "veils",
+        "embellishment",
+        "luxury fashion",
+        "audience",
+        "spotlights",
+        "wooden floor",
+        "pillars",
+        "elegant architecture"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "elegant",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "runway lighting",
+          "tracking shot",
+          "haute couture",
+          "ornate setting"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the 'Process/Labor' of models showcasing the fashion and the 'Reveal/Result' of the elaborate garments on the runway. The video starts and ends directly with this action, adhering to the 'No-Mistake' rule for trimming."
+    }
+  ]
+}

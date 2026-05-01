@@ -1,0 +1,111 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\Custom animations.mp4",
+  "detailed_description": "This video illustrates the journey from hair thinning to healthy hair regrowth. It begins by showcasing a common problem of visible scalp due to hair loss. It then demonstrates an innovative device applying red light therapy to the scalp, delving into a microscopic view to reveal how this therapy stimulates blood flow, delivers vital nutrients to dormant hair follicles, and promotes active hair growth at the cellular level. The video concludes by presenting the transformative result: a fuller, denser head of hair, highlighting the product's efficacy in reversing hair thinning.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "animated female head",
+        "thinning hair",
+        "visible scalp",
+        "hair parting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the initial problem of hair thinning, serving as a compelling visual hook and the 'before' state for the subsequent transformation."
+    },
+    {
+      "start_time": "00:22.500",
+      "end_time": "00:39.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Cellular_Deep_Dive",
+        "Micro_Nutrients_Anim"
+      ],
+      "visual_keywords": [
+        "hair growth device",
+        "red light therapy",
+        "scalp massage",
+        "hair follicles",
+        "blood vessels",
+        "nutrients",
+        "hair growth"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "3D animation",
+          "detailed cellular view",
+          "glowing red light"
+        ]
+      },
+      "why_kept": "This comprehensive segment is the core demonstration of the product's value. It shows the device being applied externally, then transitions to an internal view, illustrating how the red light penetrates the skin, enhances blood circulation, delivers nutrients to the hair follicle, and directly stimulates the follicle to grow and thicken the hair. This is the 'action' and 'expertise' being demonstrated."
+    },
+    {
+      "start_time": "00:46.500",
+      "end_time": "00:52.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "animated female head",
+        "fuller hair",
+        "thicker hair",
+        "regrown hair",
+        "healthy scalp"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "clear visual improvement"
+        ]
+      },
+      "why_kept": "This segment provides the definitive 'after' state, clearly showcasing the successful outcome of the treatment with visible hair regrowth and a much fuller scalp, completing the narrative of transformation."
+    }
+  ]
+}

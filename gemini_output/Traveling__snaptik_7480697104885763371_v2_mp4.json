@@ -1,0 +1,391 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Traveling\\snaptik_7480697104885763371_v2.mp4",
+  "detailed_description": "This video documents a woman's travel journey to Florida for work, showcasing the entire experience from packing and airport transit to arriving at her hotel and enjoying the beautiful beach environment. It captures the anticipation and process of travel, the comfortable arrival at the destination, and the immediate enjoyment of Florida's tropical scenery, emphasizing a blend of work travel with moments of relaxation.",
+  "segments": [
+    {
+      "start_time": "00:00.124",
+      "end_time": "00:02.400",
+      "structural_tags": [
+        "Visual_Hook",
+        "Travel_Transit",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "suitcase",
+        "black tote bag",
+        "packing",
+        "pre-trip organization",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment establishes the travel context with the initial packing action and the explicit 'travel with me to Florida for work' text, setting the stage for the journey."
+    },
+    {
+      "start_time": "00:02.400",
+      "end_time": "00:04.100",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "phone",
+        "mirror reflection",
+        "outfit",
+        "brown loungewear"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "selfie-style",
+          "casual"
+        ]
+      },
+      "why_kept": "This brief shot showcases the travel outfit, contributing to the personal vlog style and readiness for the trip."
+    },
+    {
+      "start_time": "00:04.100",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Travel_Transit",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "car interior",
+        "window view",
+        "bridge",
+        "water"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car",
+          "outdoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "on-the-go",
+          "passing scenery"
+        ]
+      },
+      "why_kept": "This segment visually represents the initial phase of transit, moving from home towards the airport or destination."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:08.800",
+      "structural_tags": [
+        "Travel_Transit",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "airport",
+        "rolling suitcase",
+        "black tote bag",
+        "iced coffee",
+        "drinking coffee"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "airport"
+        ],
+        "mood": [
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bustling background",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This is the primary 'Hero Moment' as it distinctly captures the active travel process, showing the woman with her luggage and coffee in an airport, representing the core action of the journey."
+    },
+    {
+      "start_time": "00:08.800",
+      "end_time": "00:09.700",
+      "structural_tags": [
+        "Travel_Transit",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "airplane interior",
+        "seatback screen",
+        "entertainment",
+        "TV show",
+        "Friends"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "airplane"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "in-flight experience",
+          "dim cabin lighting"
+        ]
+      },
+      "why_kept": "This segment visually confirms the airplane leg of the journey, a common element of long-distance travel."
+    },
+    {
+      "start_time": "00:09.700",
+      "end_time": "00:10.800",
+      "structural_tags": [
+        "Travel_Transit",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "car window view",
+        "bridge",
+        "ocean",
+        "boats",
+        "blue sky",
+        "Florida scenery"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "car"
+        ],
+        "mood": [
+          "calm",
+          "energetic"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "scenic drive",
+          "bright and sunny"
+        ]
+      },
+      "why_kept": "This shot signifies the arrival in Florida, showing the characteristic sunny weather and coastal landscape, marking the transition to the destination."
+    },
+    {
+      "start_time": "00:10.800",
+      "end_time": "00:11.700",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Human_Interaction",
+        "Reveal_Result",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hotel room",
+        "falling onto bed",
+        "white bedding",
+        "blue and white decor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hotel"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "welcoming",
+          "luxurious room"
+        ]
+      },
+      "why_kept": "This is an 'Emotional Climax' and 'Reveal' moment, depicting the relief and comfort of arriving and settling into the hotel room after the journey."
+    },
+    {
+      "start_time": "00:11.700",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Reveal_Result",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "opening curtains",
+        "window view",
+        "palm trees",
+        "balcony",
+        "bright outdoor light"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "hotel",
+          "outdoor"
+        ],
+        "mood": [
+          "positive",
+          "anticipation"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "revealing view",
+          "sunny resort feel"
+        ]
+      },
+      "why_kept": "This segment is a clear 'Reveal' of the destination's appeal, showcasing the scenic palm tree view from the hotel room, enhancing the travel experience."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:14.900",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "palm trees",
+        "resort pathway",
+        "white umbrellas",
+        "blue sky",
+        "tropical landscaping"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "resort"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "lush greenery",
+          "resort ambiance"
+        ]
+      },
+      "why_kept": "This broll establishes the beautiful resort environment, adding to the visual appeal of the Florida destination."
+    },
+    {
+      "start_time": "00:14.900",
+      "end_time": "00:16.800",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "beach",
+        "ocean",
+        "blue beach umbrellas",
+        "sand",
+        "clear blue sky",
+        "waves"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "idyllic beach scene",
+          "vibrant colors"
+        ]
+      },
+      "why_kept": "This segment provides an iconic 'Reveal' of the Florida beach, a key attraction and part of the travel experience."
+    },
+    {
+      "start_time": "00:16.800",
+      "end_time": "00:19.400",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "feet",
+        "walking barefoot",
+        "sand",
+        "beach"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "sensory experience",
+          "grounded perspective"
+        ]
+      },
+      "why_kept": "This final shot reinforces the 'Result' of the journey, showing the enjoyment of the beach environment, and provides a satisfying conclusion to the travel narrative."
+    }
+  ]
+}

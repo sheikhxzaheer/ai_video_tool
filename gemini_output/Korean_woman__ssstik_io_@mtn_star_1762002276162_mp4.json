@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Korean woman\\ssstik.io_@mtn.star_1762002276162.mp4",
+  "detailed_description": "The video features a woman, likely a celebrity or public figure, at a promotional event, striking poses for photographers. She holds a sign that reads 'WELCOME TO 1947 보스톤 RUN 2023.09.27', clearly highlighting the event and its date. Her warm smiles and engaged expressions, as she looks from left to right, convey a positive and inviting mood for the event she is promoting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "posing",
+        "event sign",
+        "black blazer",
+        "ponytail"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "event lighting",
+          "clean backdrop",
+          "direct eye contact"
+        ]
+      },
+      "why_kept": "This segment captures the core essence of the video: the woman posing for cameras with a bright smile, clearly displaying the event's promotional sign with key information. Her positive demeanor and direct engagement make this the central 'hero moment' for showcasing the event."
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Home inspector\\ssstik.io_@gios.pov__1770749344948.mp4",
+  "detailed_description": "This video effectively showcases the Estrella Mountain Ranch, a luxury residential community, by highlighting its comprehensive amenities and the allure of living in a 'paradise.' It features an 18-hole championship golf course, 22 acres of lakes for various recreational activities, resort-style pools, and over 65 miles of hiking and biking trails, along with convenient access to restaurants and shopping. The presentation transitions from an engaging introduction of the community's offerings to a detailed interior tour of a new home, emphasizing modern finishes and scenic surroundings, ultimately inviting viewers to explore their dream home within this vibrant locale.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.280",
+      "structural_tags": [
+        "Visual_Hook",
+        "Key_Information",
+        "Lifestyle_Active",
+        "Product_Intro",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "man speaking",
+        "house exterior",
+        "golf club swing",
+        "baseball",
+        "golf course",
+        "mountains"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright sunny day",
+          "dynamic camera movement"
+        ]
+      },
+      "why_kept": "This segment serves as the primary visual and auditory hook, introducing the overarching theme of the community as a 'paradise' to live in. The speaker's direct address and the immediate transition to an active lifestyle visual (golf swing) effectively grab attention and set an aspirational tone."
+    },
+    {
+      "start_time": "00:04.280",
+      "end_time": "00:17.900",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Product_Intro",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "golf course",
+        "community",
+        "houses",
+        "mountains",
+        "lake",
+        "fountains",
+        "swimming pools",
+        "water slides",
+        "palm trees",
+        "biker on trail",
+        "clubhouse"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "aspirational"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "aerial shots",
+          "panoramic views",
+          "clear blue sky"
+        ]
+      },
+      "why_kept": "This extensive B-roll visually reinforces the 'paradise' concept by showcasing the community's diverse and high-quality amenities, from golf courses and lakes to pools and trails, providing concrete examples of the luxurious lifestyle offered."
+    },
+    {
+      "start_time": "00:17.900",
+      "end_time": "00:26.790",
+      "structural_tags": [
+        "Key_Information",
+        "Offer_CTA",
+        "Product_Intro",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "man speaking",
+        "house exterior",
+        "driveway",
+        "desert landscape",
+        "mountains",
+        "new construction"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "inviting"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overcast sky",
+          "paved driveway"
+        ]
+      },
+      "why_kept": "This segment provides crucial verbal information, emphasizing the vast offerings of the community. It explicitly functions as a 'Call to Action,' transitioning the narrative from community amenities to the specific 'dream home' tour, inviting viewers inside."
+    },
+    {
+      "start_time": "00:26.790",
+      "end_time": "00:42.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Reveal_Result",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hallway",
+        "bathroom vanity",
+        "kitchen",
+        "island",
+        "stove",
+        "range hood",
+        "living room",
+        "bedroom",
+        "walk-in shower",
+        "rain shower head"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "premium",
+          "modern",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "recessed lighting",
+          "modern fixtures",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This is a direct 'Reveal/Result' segment, showcasing the interior of the new home. It demonstrates the quality and design of the living spaces, fulfilling the promise of a 'dream home' introduced earlier by the speaker."
+    },
+    {
+      "start_time": "00:42.500",
+      "end_time": "00:50.000",
+      "structural_tags": [
+        "Reveal_Result",
+        "Aesthetic_Broll",
+        "Product_Intro"
+      ],
+      "visual_keywords": [
+        "house exterior",
+        "backyard",
+        "desert landscape",
+        "mountains",
+        "community development",
+        "sunset"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "aspirational"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "aerial view",
+          "golden hour light",
+          "expansive view"
+        ]
+      },
+      "why_kept": "This final segment provides a concluding 'Reveal/Result' of the house's exterior and its integration within the broader community and natural landscape, underscoring the beauty and potential of the location as a whole."
+    }
+  ]
+}

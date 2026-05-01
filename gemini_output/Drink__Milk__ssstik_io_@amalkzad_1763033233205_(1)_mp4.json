@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Drink\\Milk\\ssstik.io_@amalkzad_1763033233205 (1).mp4",
+  "detailed_description": "The video features a woman preparing and consuming kefir as her 'dessert' after skipping dinner, presenting it as a 'girl dinner.' It captures the process of her pouring the kefir from the bottle into a glass jar and then drinking it. The content highlights a specific dietary choice and interaction with a healthy fermented dairy product.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.600",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Home_Kitchen",
+        "Lifestyle_Active",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "kefir bottle",
+        "glass jar",
+        "pouring",
+        "drinking",
+        "kitchen countertop",
+        "milk",
+        "healthy drink"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "lifestyle",
+          "clean"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "natural look"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core, demonstrating the product (Kefir) being used as a meal replacement/dessert. It shows the complete process of pouring and consuming the product, directly illustrating the video's main message via visual action and supporting text overlay, without any unnecessary setup or dead air."
+    }
+  ]
+}

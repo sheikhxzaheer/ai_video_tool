@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ssstik.io_1751450948666.mp4",
+  "detailed_description": "This video is a time-lapse showcasing the progressive growth of a man's beard over 60 days. It features a series of close-up shots of his face, beginning with a very short, sparse beard or stubble and evolving into a noticeably fuller and denser facial hair. The on-screen text '60 DIAS DE CRESCIMENTO' (60 DAYS OF GROWTH) explicitly highlights the transformation, making the entire sequence a clear demonstration of a growth process and its visual results.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:13.00",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "beard growth",
+        "face",
+        "close-up",
+        "time-lapse",
+        "facial hair",
+        "transformation",
+        "60 days"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "outdoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "consistent framing",
+          "frontal view",
+          "good lighting",
+          "time-lapse effect",
+          "plain background"
+        ]
+      },
+      "why_kept": "The entire video serves as the semantic core, demonstrating the 'Reveal/Result' of beard growth over 60 days. It directly fulfills the purpose indicated by the on-screen text '60 DIAS DE CRESCIMENTO' through a clear visual transformation. No trimming was necessary as the 'No-Mistake Rule' applies, with the action starting and ending precisely with the video's duration."
+    }
+  ]
+}

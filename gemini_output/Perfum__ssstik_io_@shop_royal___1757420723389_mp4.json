@@ -1,0 +1,109 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Perfum\\ssstik.io_@shop.royal___1757420723389.mp4",
+  "detailed_description": "This video showcases the unboxing and application of the latest Jean Paul Gaultier perfume, 'Scandal Intense'. It captures the tactile experience of unwrapping the packaging with satisfying ASMR sounds, followed by the reveal of the perfume's unique bottle, adorned with elegant high heels. The video culminates in the presenter applying the fragrance, highlighting both the aesthetic appeal of the product and its practical use.",
+  "segments": [
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "unwrapping plastic",
+        "pink box",
+        "hands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment captures the initial, satisfying unboxing experience, which is an integral part of the product's premium presentation and appeal."
+    },
+    {
+      "start_time": "00:20.800",
+      "end_time": "00:27.000",
+      "structural_tags": [
+        "Product_Reveal",
+        "Product_Intro",
+        "Macro_Detail",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "perfume bottle reveal",
+        "unique design",
+        "legs on cap",
+        "purple bottle",
+        "hands displaying"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "focus on product design"
+        ]
+      },
+      "why_kept": "This is the core 'hero moment' where the distinctive and artistic design of the perfume bottle is fully revealed, creating the main visual impact and defining the product's identity."
+    },
+    {
+      "start_time": "00:33.900",
+      "end_time": "00:40.800",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "spraying perfume",
+        "applying to neck",
+        "applying to arm"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "natural look"
+        ]
+      },
+      "why_kept": "This segment demonstrates the primary function and everyday application of the perfume, showing how the product is used in a lifestyle context."
+    }
+  ]
+}

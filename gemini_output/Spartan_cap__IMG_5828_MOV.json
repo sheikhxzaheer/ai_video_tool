@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan cap\\IMG_5828.MOV",
+  "detailed_description": "A bearded man wearing a black 'SPARTAN' cap is shown relaxing on a comfortable grey sectional couch. He is deeply engrossed in reading a book with a red cover, calmly turning its pages. The scene, set in a living room with subtle home decor like a potted plant and dried flowers, conveys a sense of peaceful concentration and personal downtime. His focused demeanor highlights a quiet moment of leisure and engagement with literature.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.749",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "reading",
+        "book",
+        "couch",
+        "living room",
+        "cap",
+        "beard"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "home decor",
+          "casual attire",
+          "serene setting"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, showcasing the main action of a man peacefully reading a book on a couch. It demonstrates 'The Process/Labor' and 'Product Interaction' criteria by focusing on his continuous engagement with the book, conveying a strong sense of calm and focused leisure without any setup or post-action dead air."
+    }
+  ]
+}

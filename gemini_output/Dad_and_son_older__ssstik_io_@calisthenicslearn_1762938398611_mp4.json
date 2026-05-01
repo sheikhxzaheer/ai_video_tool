@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Dad and son older\\ssstik.io_@calisthenicslearn_1762938398611.mp4",
+  "detailed_description": "This video features a 54-year-old father and his 23-year-old son, both highly muscular, posing shirtless side-by-side. They flex their biceps and other muscles, showcasing their impressive physiques and demonstrating the results of a dedicated fitness lifestyle. The video highlights the father's remarkable physical condition for his age, contrasting it with his son's youthful strength, conveying a message of sustained fitness and intergenerational health. Both individuals exhibit positive emotions through their smiles and confident posturing.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.575",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Split_Screen",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "father",
+        "son",
+        "muscles",
+        "flexing",
+        "posing",
+        "abs",
+        "biceps",
+        "shorts",
+        "comparison",
+        "fitness"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "positive",
+          "inspiring"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear lighting",
+          "direct view",
+          "fitness theme",
+          "comparison shot"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, directly demonstrating the key concept of the video: the impressive physiques of a father and son, particularly the father's fitness at age 54. It captures the full range of their poses and expressions, providing the visual comparison and emotional impact intended by the creator without any extraneous footage or dead air."
+    }
+  ]
+}

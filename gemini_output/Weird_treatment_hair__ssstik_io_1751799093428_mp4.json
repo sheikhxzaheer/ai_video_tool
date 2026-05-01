@@ -1,0 +1,132 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ssstik.io_1751799093428.mp4",
+  "detailed_description": "The video features two individuals demonstrating playful interactions with slime. Initially, a person applies blue slime to their head, stretching it to highlight its elastic properties. Subsequently, a second person with bleached hair enthusiastically introduces a small container of green slime. This segment captures his humorous struggle to open the sealed container, culminating in a satisfying reveal of the vibrant green slime. He then proceeds to stretch and manipulate the slime, showcasing its texture and flexibility, while making various playful and expressive facial gestures, emphasizing the fun and sensory experience of the product.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "High_Energy",
+        "Playful",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "blue slime",
+        "hands",
+        "stretching",
+        "head",
+        "messy"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "high energy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "vibrant colors"
+        ]
+      },
+      "why_kept": "This segment serves as a strong visual hook, immediately engaging the viewer by demonstrating the product's core characteristic (stretchiness) in an unexpected and playful way on a person's head, setting the tone for the video."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:31.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Emotional_Climax",
+        "High_Energy",
+        "Playful",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "blonde hair",
+        "green slime",
+        "small container",
+        "opening",
+        "struggling",
+        "funny faces",
+        "braces",
+        "nose ring"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "shock_surprise"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "expressive facial reactions"
+        ]
+      },
+      "why_kept": "This segment introduces a new product and builds anticipation through the subject's exaggerated struggle and comical expressions while trying to open the container. It effectively captures an emotional climax upon finally opening it, highlighting the 'product interaction' and setting up for the main demonstration."
+    },
+    {
+      "start_time": "00:31.000",
+      "end_time": "00:58.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "High_Energy",
+        "Playful",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "man",
+        "green slime",
+        "stretching",
+        "hands",
+        "playful",
+        "face",
+        "mouth",
+        "eyes",
+        "head"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "high energy",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "dynamic camera movement",
+          "vibrant colors"
+        ]
+      },
+      "why_kept": "This is the core 'anchor' segment as it provides the most sustained and comprehensive demonstration of the slime's key properties (texture, stretchiness, elasticity) and the joyful, interactive experience of playing with it. The subject's playful facial expressions further amplify the positive emotional engagement with the product."
+    }
+  ]
+}

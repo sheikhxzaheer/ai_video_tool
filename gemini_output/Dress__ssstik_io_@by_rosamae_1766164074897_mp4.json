@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Dress\\ssstik.io_@by_rosamae_1766164074897.mp4",
+  "detailed_description": "This video showcases a young woman confidently modeling a black halter-neck maxi dress. She turns to display the dress from various angles, highlighting its plunging V-neckline, open back design with tie details, and the overall flattering silhouette. Her poses and smiles convey satisfaction and the aesthetic appeal of the garment, demonstrating its elegant and stylish fit.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "black dress",
+        "halter neck",
+        "open back",
+        "maxi dress",
+        "posing",
+        "smiling",
+        "fashion",
+        "clothing try-on"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "natural lighting",
+          "confident posing",
+          "fashion showcase"
+        ]
+      },
+      "why_kept": "The entire video segment serves as the 'Semantic Core' by continuously showcasing the black halter-neck maxi dress through various poses and turns. It effectively demonstrates the dress's design, fit, and aesthetic appeal, including front, back, and side views, and features the model's positive emotional reaction, making it a complete product reveal and interaction."
+    }
+  ]
+}

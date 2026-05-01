@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@chronicallifechange_1766921554925.mp4",
+  "detailed_description": "This video offers a first-person perspective from a hospital bed, beginning with a close-up of a patient's arm receiving fluids via an IV drip. The camera then executes a slow, deliberate pan across the hospital room, revealing the sterile yet functional environment, complete with chairs, a wall clock, and a mounted television. The entire segment effectively conveys the calm, observational experience of being a patient, showcasing the essential elements of a hospital stay without any extraneous movements or dead air.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.060",
+      "structural_tags": [
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hospital bed",
+        "IV drip",
+        "patient arm",
+        "hospital room",
+        "wall clock",
+        "television"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "slow pan",
+          "natural light",
+          "first-person view"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, establishing the scene and the primary subject (a patient in a hospital bed with an IV drip). The slow, continuous pan effectively reveals the full environment, and there are no instances of setup, calibration, or post-action dead air that require trimming, adhering to the 'No-Mistake' rule."
+    }
+  ]
+}

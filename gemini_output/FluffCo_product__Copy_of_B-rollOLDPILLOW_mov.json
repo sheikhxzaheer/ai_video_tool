@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B-rollOLDPILLOW.mov",
+  "detailed_description": "The video captures a person in bed, wearing blue pajamas, demonstrating the process of achieving comfort with a pillow. The individual is seen repeatedly adjusting, folding, and positioning the white pillow, showcasing its malleability and the effort involved in finding a perfect resting spot. The sequence highlights the active 'labor' of arranging the pillow and culminates in moments of visible relaxation and satisfaction, implying the successful attainment of a comfortable sleep position.",
+  "segments": [
+    {
+      "start_time": "00:01.400",
+      "end_time": "00:27.700",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Process_Labor",
+        "Emotional_Climax",
+        "Calm_Relaxation",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "person",
+        "bed",
+        "pillow",
+        "hands",
+        "adjusting",
+        "pajamas",
+        "comfortable",
+        "white sheets",
+        "dark hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it comprehensively demonstrates the 'Process/Labor' of adjusting the pillow for comfort and the 'Product Interaction' through the user's repeated manipulations. It effectively captures the 'Emotional Climax' of finding a comfortable position, which is the ultimate value being conveyed."
+    }
+  ]
+}

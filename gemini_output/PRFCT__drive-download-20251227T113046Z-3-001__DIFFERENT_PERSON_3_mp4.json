@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\drive-download-20251227T113046Z-3-001\\DIFFERENT PERSON 3.mp4",
+  "detailed_description": "The video features a shirtless man running outdoors in a park, speaking directly to the camera in a selfie-style shot. He enthusiastically endorses an unseen product, stating it's 'awesome' and helps him get hydrated quicker before his morning run compared to other electrolytes. The segment captures his high energy and positive emotion, effectively serving as a user-generated testimonial highlighting the product's benefits within an active lifestyle.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:09.110",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Social_Proof",
+        "Key_Information",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man running",
+        "park path",
+        "headphones",
+        "cap",
+        "talking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "sunny",
+          "moving camera",
+          "selfie POV"
+        ]
+      },
+      "why_kept": "This segment constitutes the entire semantic core of the video. It functions as a direct user-generated testimonial (UGC_Talking_Head) where the speaker provides key information about an unseen product's benefits (quicker hydration for morning runs) and expresses strong positive emotion and social proof. The visual of him running provides essential context for the product's use within an active lifestyle. The clip is kept in its entirety as it begins and ends precisely with the core action and dialogue without any setup or dead air."
+    }
+  ]
+}

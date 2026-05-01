@@ -1,0 +1,378 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\532531331_An9IPZq_cwBTVxUu_XL319uYudghczbzhi9rF39qVHSOeDeCUBKfw.mp4",
+  "detailed_description": "This video is a hairstyle tutorial for men, demonstrating how to achieve two distinct looks: a natural, voluminous messy style and a sleek, tight slick-back. The process begins with essential hair care, including shampooing, conditioning, and blow-drying to prepare the hair. For the messy look, the creator uses Kevin Murphy Night Rider texture paste, showing how to work it in and style for desired volume and definition. For the slick-back, Got2B Ultra Glued gel is applied, showcasing the technique to achieve a firm, neat finish. The tutorial provides practical steps and product recommendations for both versatile styles.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "man",
+        "messy hair",
+        "slicked hair",
+        "styling",
+        "mirror reflection"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "clear focus"
+        ]
+      },
+      "why_kept": "This segment clearly introduces the two main hairstyles the video will teach, acting as a direct visual hook and setting the stage for the tutorial."
+    },
+    {
+      "start_time": "00:03.500",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man in shower",
+        "shampoo",
+        "conditioner",
+        "rinsing hair",
+        "water"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bathroom tiles",
+          "wet hair"
+        ]
+      },
+      "why_kept": "This segment demonstrates the essential preparatory steps of washing and conditioning hair, which are crucial for achieving any hairstyle and involve product interaction."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:11.800",
+      "structural_tags": [
+        "Product_Intro",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "blow dryer",
+        "hand holding dryer"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "neutral",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "minimalist background",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment introduces the blow dryer, a key tool for styling, and includes the voiceover providing context about the product."
+    },
+    {
+      "start_time": "00:12.000",
+      "end_time": "00:14.500",
+      "structural_tags": [
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "man",
+        "blow-drying hair",
+        "wet hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "hair movement",
+          "active styling"
+        ]
+      },
+      "why_kept": "This segment shows the process of blow-drying, which is important for styling hair before applying products."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:15.800",
+      "structural_tags": [
+        "Result_Transformation",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "man",
+        "dry hair",
+        "looking at mirror"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "ready for styling"
+        ]
+      },
+      "why_kept": "This segment highlights the transformation to dry hair, a prerequisite for the next styling steps, and includes the narrator's instruction."
+    },
+    {
+      "start_time": "00:16.000",
+      "end_time": "00:17.300",
+      "structural_tags": [
+        "Product_Intro",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "Kevin Murphy Night Rider",
+        "texture paste container",
+        "product label"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "brand focus",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment introduces the specific product used for the messy hairstyle, fulfilling the product introduction criteria."
+    },
+    {
+      "start_time": "00:17.400",
+      "end_time": "00:18.800",
+      "structural_tags": [
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "hands",
+        "texture paste",
+        "rubbing hands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "neutral"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "preparation",
+          "textured product"
+        ]
+      },
+      "why_kept": "This segment demonstrates the proper application of the texture paste to the hands before applying it to the hair."
+    },
+    {
+      "start_time": "00:18.900",
+      "end_time": "00:29.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "man",
+        "styling messy hair",
+        "hands in hair",
+        "side part"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed styling",
+          "hair texture",
+          "natural look"
+        ]
+      },
+      "why_kept": "This is a core segment demonstrating the step-by-step process of styling the messy look, showing product interaction and the resulting transformation."
+    },
+    {
+      "start_time": "00:29.800",
+      "end_time": "00:31.700",
+      "structural_tags": [
+        "Product_Intro",
+        "Macro_Detail",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "got2b glue",
+        "hair gel",
+        "product label"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "brand focus",
+          "black packaging"
+        ]
+      },
+      "why_kept": "This segment introduces the product specifically for the slick-back style, acting as a product intro and call to action."
+    },
+    {
+      "start_time": "00:31.800",
+      "end_time": "00:33.000",
+      "structural_tags": [
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "hands",
+        "hair gel",
+        "gel squeezing",
+        "rubbing hands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "neutral"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear gel",
+          "preparation"
+        ]
+      },
+      "why_kept": "This segment shows the application of the hair gel to the hands, preparing it for styling."
+    },
+    {
+      "start_time": "00:33.100",
+      "end_time": "00:37.700",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "man",
+        "styling slick back hair",
+        "hands in hair",
+        "neat hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "controlled styling",
+          "smooth finish"
+        ]
+      },
+      "why_kept": "This is a core segment demonstrating the step-by-step process of styling the slick-back look, showing product interaction and the resulting transformation."
+    },
+    {
+      "start_time": "00:37.800",
+      "end_time": "00:38.200",
+      "structural_tags": [
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "man",
+        "slicked back hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "final look",
+          "clean finish"
+        ]
+      },
+      "why_kept": "This is a final shot showcasing the completed slick-back hairstyle, serving as the ultimate 'reveal'."
+    }
+  ]
+}

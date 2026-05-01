@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\32264-391201301.mp4",
+  "detailed_description": "The video features a stylized 3D animation of a human heart, continuously rotating against a dark red background. The model highlights the major blood vessels and coronary arteries, providing a clear visual representation of the organ's external anatomy. The smooth rotation allows for a comprehensive view from multiple angles, suitable for educational or informational purposes related to cardiology or human anatomy. The simple, clean aesthetic focuses solely on the heart itself, making the entire duration a continuous display of the subject matter.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.462",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "human heart",
+        "3D model",
+        "rotation",
+        "anatomy",
+        "blood vessels",
+        "arteries"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "3D animation",
+          "smooth rotation",
+          "red background",
+          "anatomical detail"
+        ]
+      },
+      "why_kept": "The entire video showcases a continuous, high-quality 3D animation of a human heart, which is the primary subject and central value proposition of this visual content. There are no extraneous frames, setup, or post-action dead air, making the full duration the essential 'hero moment' of displaying the heart's anatomy."
+    }
+  ]
+}

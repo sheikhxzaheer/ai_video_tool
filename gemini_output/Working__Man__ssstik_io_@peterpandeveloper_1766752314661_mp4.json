@@ -1,0 +1,141 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Man\\ssstik.io_@peterpandeveloper_1766752314661.mp4",
+  "detailed_description": "The video encapsulates the complete experience of a 'cozy game night' from preparation to triumph. It begins by setting the ambient mood with a well-lit gaming setup and a flickering candle. The core of the experience is highlighted through the meticulous adjustment of an advanced gaming chair, showcasing its recline and lumbar massage features for optimal comfort and relaxation. This leads into the immersive gameplay of a racing game, demonstrating intense engagement. The clip culminates in a triumphant victory and a visible emotional celebration, encapsulating the satisfaction derived from the gaming session.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Standalone",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Workspace_Office",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "man entering room",
+        "gaming setup",
+        "illuminated PC",
+        "hand lighting candle",
+        "desk",
+        "wall light",
+        "wooden ceiling",
+        "speaker"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "modern design"
+        ]
+      },
+      "why_kept": "This segment acts as a visual hook, setting the scene and initial ambiance for the 'cozy game night' by introducing the gaming environment and the act of lighting a candle."
+    },
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "man sitting",
+        "typing",
+        "using mouse",
+        "pressing chair buttons",
+        "reclining chair",
+        "lumbar support adjustment",
+        "man relaxing in chair",
+        "gaming chair",
+        "keyboard",
+        "mouse",
+        "desk mat",
+        "candle"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused action",
+          "comfort demonstration",
+          "subtle RGB"
+        ]
+      },
+      "why_kept": "This segment is a core 'hero moment' demonstrating product interaction and emotional climax. It showcases the user actively engaging with and adjusting the gaming chair's features for maximum comfort, culminating in a clear expression of relaxation and satisfaction."
+    },
+    {
+      "start_time": "00:18.000",
+      "end_time": "00:29.117",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation",
+        "Emotional_Climax",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Workspace_Office",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "game loading screen",
+        "man playing racing game",
+        "car race",
+        "victory screen",
+        "man cheering",
+        "monitors",
+        "keyboard",
+        "mouse",
+        "gaming chair",
+        "speakers"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic gameplay",
+          "celebratory reaction",
+          "RGB lighting"
+        ]
+      },
+      "why_kept": "This segment is another core 'hero moment,' showcasing the primary 'process/labor' of the game night – active gameplay. It highlights the transformation from loading to winning, featuring an emotional climax with the user's excited reaction and celebration, thus delivering the full 'game night' experience."
+    }
+  ]
+}

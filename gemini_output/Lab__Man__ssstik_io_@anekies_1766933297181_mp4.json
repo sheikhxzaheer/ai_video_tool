@@ -1,0 +1,114 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Lab\\Man\\ssstik.io_@anekies_1766933297181.mp4",
+  "detailed_description": "This video dynamically showcases the functionality of an adjustable standing desk within a modern office setting. It effectively illustrates the seamless transition of an individual from a seated to a standing position, and vice-versa, highlighting the product's ergonomic benefits for a flexible work routine. The compilation demonstrates how the desk supports productivity and well-being in a contemporary workspace, suitable for individual focus and collaborative environments.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Workspace_Office",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man working",
+        "adjustable desk",
+        "sitting posture",
+        "standing posture",
+        "laptop",
+        "monitor",
+        "office environment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "productive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "modern office design",
+          "smooth desk movement"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully demonstrates the primary function of the adjustable standing desk. It captures a complete cycle of the user transitioning from sitting to standing and back, clearly showing the product's mechanism of action and its practical application for flexible work postures, which is the main value proposition."
+    },
+    {
+      "start_time": "00:14.000",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Workspace_Office",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "two men",
+        "standing desk",
+        "talking",
+        "office interaction",
+        "desk raising"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "productive",
+          "collaborative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "modern office design"
+        ]
+      },
+      "why_kept": "This segment serves as BROLL by showing the product in a social context, with two individuals interacting in an office setting, and one desk adjusting. It reinforces the idea of a dynamic and collaborative workspace facilitated by the adjustable desk."
+    },
+    {
+      "start_time": "00:22.000",
+      "end_time": "00:25.500",
+      "structural_tags": [
+        "Workspace_Office",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man standing",
+        "desk raising",
+        "office layout",
+        "multiple workstations"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "modern"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "overview shot"
+        ]
+      },
+      "why_kept": "This segment provides a wider perspective of the office, acting as BROLL to demonstrate the adjustable desk within its broader operational environment and highlighting its integration into a modern, well-designed workspace."
+    }
+  ]
+}

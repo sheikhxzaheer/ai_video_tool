@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Foundation\\ssstik.io_@_gigibug_1761064142329.mp4",
+  "detailed_description": "This video centers on a close-up demonstration of a Tarte Shape Tape concealer. A hand holds the product, clearly displaying its branding, then places it into a pink makeup bag alongside other cosmetic items, and subsequently retrieves it. The core meaning highlights the product itself and its practical interaction within a personal makeup routine.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:07.132",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "Tarte Shape Tape concealer",
+        "makeup bag",
+        "makeup brushes",
+        "bronzer"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "home",
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "bright lighting",
+          "product-centric"
+        ]
+      },
+      "why_kept": "This entire segment showcases the primary action of the video: interacting with the Tarte Shape Tape concealer, emphasizing product visibility and its placement/retrieval from a makeup bag. It's a continuous, clear demonstration of product interaction without any setup, dead air, or extraneous elements, making the entire clip the semantic core."
+    }
+  ]
+}

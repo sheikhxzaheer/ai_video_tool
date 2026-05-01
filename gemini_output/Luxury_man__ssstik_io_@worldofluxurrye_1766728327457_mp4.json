@@ -1,0 +1,59 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury man\\ssstik.io_@worldofluxurrye_1766728327457.mp4",
+  "detailed_description": "The video showcases a luxurious lifestyle experience centered around a man and his Aston Martin DB12 Volante. It captures the meticulous process of preparing for a drive, from loading a stylish travel bag into the convertible's trunk to settling into the driver's seat with a satisfied smile. The narrative then transitions to the actual driving experience, highlighting the car's sleek design and the opulent interior details, including a high-end watch, as the man effortlessly navigates the roads. The overall impression is one of sophistication, comfort, and premium travel.",
+  "segments": [
+    {
+      "start_time": "00:04.200",
+      "end_time": "00:17.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "man",
+        "luxury car",
+        "Aston Martin",
+        "DB12 Volante",
+        "convertible",
+        "luggage",
+        "trunk",
+        "driving",
+        "steering wheel",
+        "watch",
+        "mansion",
+        "gravel driveway",
+        "wet road",
+        "rain"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "car"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "sophisticated"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "cinematic",
+          "luxury aesthetic",
+          "smooth camera movement",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it comprehensively captures all key 'Hero Moments'. It shows the detailed 'Product Interaction' (opening trunk, placing bag, getting into the car, hands on steering wheel), an 'Emotional Climax' (the man's satisfied smile), and the 'Process/Labor' of driving, transitioning from stationary preparation to the active driving experience, showcasing both the vehicle's exterior elegance and luxurious interior details."
+    }
+  ]
+}

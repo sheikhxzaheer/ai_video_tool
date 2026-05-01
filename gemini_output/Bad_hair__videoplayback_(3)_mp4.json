@@ -1,0 +1,208 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\videoplayback (3).mp4",
+  "detailed_description": "This video captures a man's journey from struggling with hair loss and the emotional stress it caused, to making the decision to shave his head. It features him explaining the problem, a clear 'before' shot, the process of having his head shaved by another person, and a series of 'after' shots showcasing his confident new bald look. The core message is about embracing change and finding self-acceptance.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:03.900",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Problem_State",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "man touching hair",
+        "sparse hair",
+        "frustrated expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "confusion_doubt"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment establishes the problem state (hair loss) and the emotional struggle, providing crucial context for the subsequent action. The man actively touches his hair to demonstrate the issue."
+    },
+    {
+      "start_time": "00:04.900",
+      "end_time": "00:09.900",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Problem_State",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "man talking",
+        "stress",
+        "worry",
+        "hair gesturing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "negative_emotion"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment reinforces the 'Problem State' by detailing the stress and worry associated with his hair, building empathy and further explaining the motivation for shaving. He continues to gesture with his hair, visually demonstrating the issue."
+    },
+    {
+      "start_time": "00:09.900",
+      "end_time": "00:10.900",
+      "structural_tags": [
+        "Before_After",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "man's head",
+        "hair before shave",
+        "text 'BEFORE'"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "neutral"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "static shot",
+          "clear image"
+        ]
+      },
+      "why_kept": "This is a clear 'Before' shot, essential for showcasing the transformation that follows. It acts as a visual anchor for comparison."
+    },
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "hair clippers",
+        "shaving head",
+        "person cutting hair",
+        "man smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "action shot"
+        ]
+      },
+      "why_kept": "This segment serves as an initial visual hook and immediately introduces the 'Mechanism of Action' (shaving) and the 'Human Interaction' involved in the process."
+    },
+    {
+      "start_time": "00:10.900",
+      "end_time": "00:13.900",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hair clippers",
+        "shaving head",
+        "hair falling",
+        "man smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "positive_emotion"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "action shot",
+          "close-up detail"
+        ]
+      },
+      "why_kept": "This is the core 'Process' segment, demonstrating the active use of the clippers and the physical transformation of the hair being removed. The man's positive expression adds to the emotional climax."
+    },
+    {
+      "start_time": "00:13.900",
+      "end_time": "00:16.900",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "bald head",
+        "man with glasses",
+        "beard",
+        "confident look",
+        "different settings"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "travel_transit"
+        ],
+        "mood": [
+          "positive_emotion",
+          "calm_relaxation"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean aesthetic",
+          "various poses",
+          "black and white"
+        ]
+      },
+      "why_kept": "This segment is the ultimate 'Reveal' and 'Result Transformation,' showcasing the man's new bald look and his apparent comfort and confidence with it. It serves as the 'After' part of the transformation."
+    }
+  ]
+}

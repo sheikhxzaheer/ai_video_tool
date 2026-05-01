@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Douxds product\\60b294f4af55410698b8ca1c6cc483a5.mov",
+  "detailed_description": "This video presents a collection of three skincare products from the 'douxds' brand. The camera executes a slow, deliberate pan across the product packaging, highlighting 'douxds WAR,' 'douxds FLEX Performance Skincare Tool,' and 'douxds PRIME.' The products are displayed outdoors on a rustic wooden ledge, emphasizing their clean, minimalist design.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.150",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "douxds WAR",
+        "douxds FLEX",
+        "douxds PRIME",
+        "skincare tools",
+        "product packaging",
+        "wooden fence",
+        "outdoor setting",
+        "dirt ground"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "smooth camera pan",
+          "natural light",
+          "clear focus",
+          "minimalist aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment constitutes the semantic core of the video as it is exclusively dedicated to introducing and showcasing the product line through a deliberate camera pan. There is no extraneous footage, setup, or post-action dead air, adhering to the 'no-mistake' rule."
+    }
+  ]
+}

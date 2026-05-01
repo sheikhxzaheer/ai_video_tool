@@ -1,0 +1,140 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_Georgie_poductdemo.mp4",
+  "detailed_description": "This video showcases a Korean beauty skincare routine using QUI A's Collagen Night Wrapping Mask and Collagen Niacinamide Jelly Cream. It meticulously demonstrates the application of both products, highlighting the unique jelly-like texture of the cream and the smooth application of the mask. The routine concludes with the user displaying a radiant, satisfied complexion, emphasizing the hydrating and rejuvenating benefits of these skincare essentials.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.900",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "pink product boxes",
+        "QUI A branding",
+        "collagen night wrapping mask",
+        "collagen niacinamide jelly cream",
+        "jelly texture",
+        "spatula"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": "clean aesthetic, soft lighting, clear product branding, texture focus"
+      },
+      "why_kept": "This segment effectively introduces both products and highlights the distinctive jelly texture of the cream, setting the stage for the rest of the routine."
+    },
+    {
+      "start_time": "00:03.900",
+      "end_time": "00:09.100",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "leopard print headband",
+        "QUI A collagen night wrapping mask",
+        "silicone brush",
+        "applying mask",
+        "face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": "natural light, focused action, clear application process"
+      },
+      "why_kept": "This segment demonstrates the step-by-step application of the Collagen Night Wrapping Mask, showing the 'how-to' and the product's texture as it's applied to the skin."
+    },
+    {
+      "start_time": "00:09.100",
+      "end_time": "00:15.500",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "QUI A collagen niacinamide jelly cream",
+        "spatula",
+        "scooping cream",
+        "applying cream",
+        "massaging face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": "soft lighting, gentle movements, product texture visibility"
+      },
+      "why_kept": "This segment illustrates the application of the Collagen Niacinamide Jelly Cream, showcasing its jelly texture and how it is massaged into the skin for optimal absorption."
+    },
+    {
+      "start_time": "00:15.500",
+      "end_time": "00:21.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Product_Interaction",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "woman",
+        "towel",
+        "clean skin",
+        "smiling",
+        "touching face",
+        "QUI A jelly cream jar"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": "warm lighting, natural glow, direct eye contact, satisfied expression"
+      },
+      "why_kept": "This segment captures the positive outcome of the skincare routine, showing the user's refreshed and glowing skin, accompanied by a genuine smile, reinforcing the product's effectiveness and user satisfaction."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated\\ssstik.io_@lilylifts__1774535787744.mp4",
+  "detailed_description": "The video addresses a common insecurity among women regarding a 'lower belly bump.' A woman expresses her frustration about always looking bloated and assuming it's fat, even after dieting. A male companion explains that this bump is often due to the uterus being located in front of the intestines, leading to less space and making food in the intestines more prominent. He clarifies that it's not fat but a natural and amazing part of the human body, encouraging her to feel great about it rather than embarrassed. The woman's visible relief and smile highlight the positive shift in perspective.",
+  "segments": [
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:37.000",
+      "structural_tags": [
+        "Problem_State",
+        "Human_Interaction",
+        "Key_Information",
+        "Confusion_Doubt",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Result_Transformation",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "man",
+        "gym",
+        "lower belly",
+        "stomach",
+        "uterus",
+        "intestines",
+        "discussion"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym",
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "educational",
+          "positive",
+          "calm",
+          "empowering"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "documentary style"
+        ]
+      },
+      "why_kept": "This segment captures the entire narrative arc of the video, from the woman's initial problem and misunderstanding to the man's factual explanation and positive reframing, culminating in her visible relief and smile. It encompasses the 'Problem State,' 'Key Information,' 'Human Interaction,' and 'Emotional Climax' as defined in the hero moment criteria, making it the complete semantic core."
+    }
+  ]
+}

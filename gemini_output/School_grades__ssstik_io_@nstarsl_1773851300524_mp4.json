@@ -1,0 +1,41 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\School grades\\ssstik.io_@nstarsl_1773851300524.mp4",
+  "detailed_description": "This video captures the disheartening experience of receiving failing grades on school tests. It presents multiple close-up shots of graded papers, clearly displaying low scores like 16/25, 5/13, and 8/12, all circled in red or purple. A text overlay explicitly states the 'POV: that feeling when you get a failing score,' perfectly encapsulating the universal negative emotion associated with academic disappointment. The visual evidence of poor performance combined with the direct statement of feeling creates a relatable moment of frustration for viewers.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.871",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "graded papers",
+        "failing scores",
+        "red circles",
+        "purple circles",
+        "handwritten scores",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "static shot",
+          "documentary feel",
+          "realistic lighting"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it constitutes the complete 'hero moment' of the video. It immediately presents the 'Problem_State' (failing scores) and the 'Negative_Emotion' associated with it through the explicit text overlay, which also implies a 'Face_Reaction' of disappointment. There is no setup or dead air; the core message is conveyed throughout the duration."
+    }
+  ]
+}

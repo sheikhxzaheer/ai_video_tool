@@ -1,0 +1,58 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Dinner\\With friends\\ssstik.io_@edlynmyobra_1763928008252.mp4",
+  "detailed_description": "The video captures a poignant moment among three young women sitting at a table in a modern cafe with a distinctive geodesic glass roof. Bathed in warm, ambient lighting, they engage in lively conversation, sharing smiles and laughter, creating a sense of deep camaraderie and shared experience. The accompanying text overlay explicitly articulates a profound realization: they have transitioned from their college days and are now embodying the adults they once imagined during their student break times. This short segment beautifully encapsulates the emotional journey of growing up and the enduring bond of friendship as they navigate the complexities of adulthood.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.749",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "three women",
+        "friends",
+        "cafe",
+        "restaurant",
+        "geodesic roof",
+        "glass architecture",
+        "drinks",
+        "food",
+        "conversation",
+        "smiles",
+        "laughter",
+        "warm lighting",
+        "daylight",
+        "trees"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "reflective",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm ambient lighting",
+          "modern cafe design",
+          "natural light",
+          "geometric patterns"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it visually and emotionally delivers the video's core message. The three women's genuine interaction, positive facial expressions (smiles, laughter), and relaxed demeanor perfectly embody the 'Emotional Climax' of shared memories and the realization of growing up. The accompanying text overlay provides the 'Key Information' that explicitly states this transition, making the visual context indispensable. There is no setup, post-action dead air, or extraneous footage; the whole clip focuses on this meaningful interaction and narrative."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Product\\CNWM_JillianGray_02_Packaging.MOV",
+  "detailed_description": "The video features a woman in a pink headband holding a Quia Collagen Night Wrapping Mask. She smiles warmly at the camera, introducing the product and providing a personal endorsement. She highlights that the mask feels great, specifically mentioning its suitability for sensitive skin, thereby conveying a key benefit and positive user experience.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.113",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Product_Intro",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Night_Routine",
+        "Key_Information",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "woman",
+        "holding product",
+        "pink headband",
+        "skincare mask",
+        "speaking to camera"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it fully encapsulates the 'Semantic Core' by demonstrating clear product interaction, providing key information about its benefits (suitable for sensitive skin), and delivering a positive emotional response through the subject's expression and verbal endorsement. There is no extraneous footage or dead air, making the entire clip a concise hero moment."
+    }
+  ]
+}

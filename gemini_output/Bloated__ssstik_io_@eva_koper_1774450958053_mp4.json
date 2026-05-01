@@ -1,0 +1,117 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated\\ssstik.io_@eva.koper_1774450958053.mp4",
+  "detailed_description": "This video addresses body image insecurities surrounding the 'lower belly pooch.' It begins by framing this common concern as a 'problem state' with an overlaid text expressing self-dislike. Subsequently, it transitions to an educational segment, utilizing an animated anatomical overlay to explain that the 'pooch' protects vital organs, thereby reframing it as a functional and necessary part of the body. The video concludes with a positive message encouraging self-kindness and body appreciation, promoting a healthy mindset towards one's physical form.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.148",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "lower belly",
+        "hand touching belly",
+        "text overlay",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "warm lighting",
+          "casual attire",
+          "text overlay"
+        ]
+      },
+      "why_kept": "This segment establishes the problem and initial negative sentiment, serving as a crucial visual hook and relatable starting point for the video's core message. The woman's interaction with her own body and the text clearly convey the 'Problem_State'."
+    },
+    {
+      "start_time": "00:04.148",
+      "end_time": "00:07.410",
+      "structural_tags": [
+        "Key_Information",
+        "Mechanism_Of_Action",
+        "Aesthetic_Broll",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "animated internal organs",
+        "fat layer",
+        "text overlay",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "educational",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "animated graphic overlay",
+          "informative text",
+          "scientific visualization"
+        ]
+      },
+      "why_kept": "This segment is the semantic core's pivot point, providing the key educational information and visual explanation (Mechanism_Of_Action) that transforms the viewer's perspective on the lower belly. The animated organs reinforce the scientific basis of the message."
+    },
+    {
+      "start_time": "00:07.410",
+      "end_time": "00:10.283",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Key_Information",
+        "Offer_CTA",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "hand touching belly",
+        "text overlay",
+        "red heart emoji"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "warm lighting",
+          "body positive message",
+          "affirming text"
+        ]
+      },
+      "why_kept": "This final segment delivers the concluding message of self-acceptance and body kindness, acting as an emotional climax and a call to action for a positive mindset shift. It effectively resolves the initial problem state with a supportive message."
+    }
+  ]
+}

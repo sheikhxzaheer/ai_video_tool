@@ -1,0 +1,213 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_Gabriela_poductdemo.mp4",
+  "detailed_description": "This video captures a complete K-beauty skincare routine, starting with the user's decision to prioritize skincare from a digital checklist. It showcases the application of a collagen niacinamide jelly cream, followed by a collagen night wrapping mask. The highlight is the satisfying peel-off of the mask, revealing refreshed skin. The routine concludes with the user's radiant complexion and a proud display of the QUIACorean Beauty products, emphasizing the glow and benefits of the regimen.",
+  "segments": [
+    {
+      "start_time": "00:01.400",
+      "end_time": "00:07.750",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "checklist",
+        "hand selecting option",
+        "skincare option",
+        "virtual UI"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "minimalist background"
+        ]
+      },
+      "why_kept": "This segment serves as an engaging visual hook, establishing the user's intent to perform a skincare routine and setting the context."
+    },
+    {
+      "start_time": "00:11.850",
+      "end_time": "00:13.250",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "skincare products",
+        "pink jars",
+        "QUIACorean Beauty branding"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "close-up",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This segment clearly introduces the specific K-beauty products that will be used in the routine."
+    },
+    {
+      "start_time": "00:13.250",
+      "end_time": "00:17.300",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "opening jar",
+        "scooping cream",
+        "spatula",
+        "applying cream to face",
+        "glowing skin"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "direct eye contact"
+        ]
+      },
+      "why_kept": "This segment demonstrates the first step of the skincare process, showing the direct application of the jelly cream."
+    },
+    {
+      "start_time": "00:17.500",
+      "end_time": "00:22.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "squeezing mask",
+        "silicone brush",
+        "applying mask to face",
+        "face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear product texture",
+          "detailed application"
+        ]
+      },
+      "why_kept": "This segment shows the detailed application of the night wrapping mask, which is a core part of the routine."
+    },
+    {
+      "start_time": "00:23.000",
+      "end_time": "00:27.700",
+      "structural_tags": [
+        "Result_Transformation",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "peeling mask",
+        "translucent mask",
+        "face skin",
+        "mouth movements"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "satisfying"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "slow-motion effect",
+          "smooth peel"
+        ]
+      },
+      "why_kept": "This is a key visual moment, demonstrating the unique function and instant 'reveal' aspect of the peel-off mask."
+    },
+    {
+      "start_time": "00:27.700",
+      "end_time": "00:31.900",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "glowing skin",
+        "smiling face",
+        "touching face",
+        "holding products",
+        "product display"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "happy",
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "radiant skin",
+          "direct gaze",
+          "soft focus on products"
+        ]
+      },
+      "why_kept": "This segment serves as the emotional climax and ultimate reveal, showcasing the achieved skincare results and prominently featuring the products with a positive user reaction."
+    }
+  ]
+}

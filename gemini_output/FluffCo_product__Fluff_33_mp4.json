@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_33.mp4",
+  "detailed_description": "This video segment showcases the FluffCo pillow's unique construction, emphasizing its 'outer shell and inner core' design. A smiling woman confidently holds and presents two white pillows, visually representing the dual-layer structure. The text overlay explicitly highlights this key product feature, providing direct informational value while maintaining a positive and engaging tone.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.078",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "white pillows",
+        "bedroom",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by directly introducing and demonstrating a key product feature (outer shell and inner core) of FluffCo pillows through clear visual interaction with the product, a positive facial expression from the presenter, and essential textual information. There is no setup, dead air, or irrelevant footage to trim."
+    }
+  ]
+}

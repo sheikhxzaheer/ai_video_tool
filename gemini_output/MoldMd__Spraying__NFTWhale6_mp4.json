@@ -1,0 +1,78 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Spraying\\NFTWhale6.mp4",
+  "detailed_description": "The video demonstrates the application and cleaning power of MoldMD™ Mold Spot Remover. It begins by prominently showcasing the product bottle, highlighting its purpose as a multi-purpose home cleaner for mold and mildew stains. The user then sprays the solution directly onto visible mold on a window sill and proceeds to vigorously scrub the affected area with a brush, illustrating the active cleaning process.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "mold remover bottle",
+        "product label",
+        "window",
+        "snow"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear branding",
+          "steady shot"
+        ]
+      },
+      "why_kept": "This segment introduces the product prominently, allowing viewers to clearly see the brand and its claims before the action begins. It serves as an essential setup."
+    },
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:20.500",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "hand",
+        "mold remover bottle",
+        "spray",
+        "window sill",
+        "mold",
+        "brush",
+        "scrubbing",
+        "cleaning",
+        "snow outside"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "action-oriented",
+          "process display"
+        ]
+      },
+      "why_kept": "This is the core segment demonstrating the product's function. It shows the direct application of the mold remover by spraying, followed by the physical action of scrubbing the mold, effectively illustrating the product's 'Mechanism of Action' and the 'Process/Labor' involved in achieving a 'Result_Transformation'."
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@leyla00381_1767631451256.mp4",
+  "detailed_description": "The video vividly portrays the high-stakes and fast-paced environment of a hospital, underscoring the urgent and dedicated work of medical professionals. It captures a montage of rapid response scenarios, including staff rushing through hallways, pushing essential medical equipment, and performing critical life-saving procedures like CPR. The compilation effectively conveys the constant readiness and unwavering commitment required in emergency medical situations, highlighting the demanding yet crucial nature of their profession.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Process_Labor",
+        "Urgency_Rush",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "medical staff",
+        "blue scrubs",
+        "shoe covers",
+        "rushing",
+        "hospital hallway",
+        "people watching"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dynamic camera movement"
+        ]
+      },
+      "why_kept": "This segment establishes the urgent and fast-paced nature of the hospital environment, serving as an initial visual hook for the video's theme of rapid medical response."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:12.700",
+      "structural_tags": [
+        "Process_Labor",
+        "Urgency_Rush"
+      ],
+      "visual_keywords": [
+        "nurse",
+        "blue scrubs",
+        "medical cart",
+        "pushing cart",
+        "hospital hallway"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "smooth tracking shot"
+        ]
+      },
+      "why_kept": "This segment directly illustrates the 'Process/Labor' of medical staff, showing them quickly transporting essential equipment, emphasizing readiness and urgency."
+    },
+    {
+      "start_time": "00:12.700",
+      "end_time": "00:17.300",
+      "structural_tags": [
+        "Process_Labor",
+        "Urgency_Rush"
+      ],
+      "visual_keywords": [
+        "medical professional",
+        "blue scrubs",
+        "mask",
+        "red medical cart",
+        "hospital hallway",
+        "rushing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera movement"
+        ]
+      },
+      "why_kept": "This segment reinforces the 'Process/Labor' and 'Urgency_Rush' theme by showing another instance of rapid equipment transport in a hospital corridor."
+    },
+    {
+      "start_time": "00:17.300",
+      "end_time": "00:26.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Emotional_Climax",
+        "Urgency_Rush"
+      ],
+      "visual_keywords": [
+        "medical professional",
+        "chest compressions",
+        "patient",
+        "hospital bed",
+        "medical monitors"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused shot",
+          "text overlay"
+        ]
+      },
+      "why_kept": "This is a primary 'Hero Moment' demonstrating critical 'Process/Labor' (CPR) and conveying intense 'Emotional_Climax' and 'Urgency_Rush'. The text overlay directly highlights the dedication of their job."
+    },
+    {
+      "start_time": "00:26.000",
+      "end_time": "00:43.900",
+      "structural_tags": [
+        "Process_Labor",
+        "Emotional_Climax",
+        "Urgency_Rush"
+      ],
+      "visual_keywords": [
+        "medical professionals",
+        "green scrubs",
+        "CPR",
+        "bag-mask ventilation",
+        "patient",
+        "stretcher",
+        "hospital hallway"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "tracking shot",
+          "teamwork"
+        ]
+      },
+      "why_kept": "This is another core 'Hero Moment' showcasing coordinated 'Process/Labor' (CPR during transport) and emphasizing extreme 'Urgency_Rush' and the critical nature of medical interventions."
+    },
+    {
+      "start_time": "00:43.900",
+      "end_time": "00:47.700",
+      "structural_tags": [
+        "Problem_State",
+        "Urgency_Rush"
+      ],
+      "visual_keywords": [
+        "medical professionals",
+        "red scrubs",
+        "office setting",
+        "jumping up",
+        "running",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "workspace_office"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "informal setting",
+          "text overlay"
+        ]
+      },
+      "why_kept": "This segment humorously sets up a 'Problem_State' scenario with a text overlay, leading directly into the demonstration of an 'Urgency_Rush' response by the staff."
+    },
+    {
+      "start_time": "00:47.700",
+      "end_time": "00:51.900",
+      "structural_tags": [
+        "Urgency_Rush",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "medical professionals",
+        "red scrubs",
+        "running",
+        "hospital hallway",
+        "documents"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "wide angle",
+          "fast-paced"
+        ]
+      },
+      "why_kept": "This segment directly visualizes the 'Urgency_Rush' and 'High_Energy' of medical staff responding to an emergency, complementing the previous setup."
+    },
+    {
+      "start_time": "00:51.900",
+      "end_time": "00:54.600",
+      "structural_tags": [
+        "Urgency_Rush",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "medical professionals",
+        "blue scrubs",
+        "running",
+        "office area",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "workspace_office"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dynamic movement",
+          "text overlay"
+        ]
+      },
+      "why_kept": "This segment uses a lighthearted but still energetic approach to convey 'Urgency_Rush' in response to an alarm, illustrating a common hospital scenario."
+    },
+    {
+      "start_time": "00:54.600",
+      "end_time": "01:00.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Urgency_Rush"
+      ],
+      "visual_keywords": [
+        "medical professional",
+        "pink scrubs",
+        "tying hair",
+        "preparing",
+        "emergency department"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "focused shot",
+          "preparation"
+        ]
+      },
+      "why_kept": "This segment highlights the immediate 'Process/Labor' of preparation and the inherent 'Urgency_Rush' within an emergency department, showing quick action to get ready."
+    }
+  ]
+}

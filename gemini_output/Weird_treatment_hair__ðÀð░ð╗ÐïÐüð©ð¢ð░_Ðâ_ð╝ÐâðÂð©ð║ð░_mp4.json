@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ðÀð░ð╗ÐïÐüð©ð¢ð░ Ðâ ð╝ÐâðÂð©ð║ð░.mp4",
+  "detailed_description": "The video opens with a close-up of a man's head, whose current hairstyle is short and somewhat messy, while a tattooed hand points to his hairline. With a quick cut, the man's hair is instantly transformed into a sharp, faded haircut, which the hand then highlights around his temple and the back of his head. The video culminates with the man opening his eyes and revealing a clear smile of satisfaction, effectively showcasing the successful haircut and the positive client reaction.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.011",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man",
+        "haircut",
+        "barber hand",
+        "fade",
+        "smile",
+        "transformation",
+        "barbershop"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "jump cut",
+          "clean aesthetic",
+          "focus on detail"
+        ]
+      },
+      "why_kept": "This segment perfectly encapsulates the video's core message: a successful haircut transformation leading to client satisfaction. It utilizes an implied 'before/after' through a jump cut, followed by clear visual emphasis on the new style and a genuine emotional response from the client, all without any extraneous footage."
+    }
+  ]
+}

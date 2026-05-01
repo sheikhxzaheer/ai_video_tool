@@ -1,0 +1,76 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Posture fix treatment\\ssstik.io_@posturetrainer1_1768396897012.mp4",
+  "detailed_description": "This video concisely demonstrates the process of wearing a back posture corrector and its immediate effect. It begins with an individual receiving assistance to correctly position the device on their back. The main segment highlights the wearer's independent adjustment of the posture corrector's straps and waist belt, showcasing the product's user-friendly mechanism. The clip concludes by revealing the immediate and noticeable improvement in the wearer's posture, complemented by a confident expression, underscoring the product's effectiveness.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "person assisting",
+        "back posture corrector",
+        "straps being adjusted",
+        "back view"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "neutral background",
+          "demonstrative"
+        ]
+      },
+      "why_kept": "This segment introduces the product and shows the initial, assisted step of putting on the posture corrector, establishing the product's design and how it begins to be worn."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:09.610",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman adjusting straps",
+        "fastening velcro belt",
+        "straightened posture",
+        "confident expression",
+        "product in use"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "neutral background",
+          "demonstrative"
+        ]
+      },
+      "why_kept": "This segment is the semantic core, demonstrating the product's core function by showing the wearer independently adjusting the device, highlighting its mechanism, and revealing the immediate visual transformation to improved posture with a clear positive reaction."
+    }
+  ]
+}

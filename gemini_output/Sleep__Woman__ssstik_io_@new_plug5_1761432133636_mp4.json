@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Woman\\ssstik.io_@new.plug5_1761432133636.mp4",
+  "detailed_description": "The video captures a serene moment of a person sleeping deeply on a grey couch, with a blue top visible and a white smartwatch on their wrist, hugging an orange basketball pillow. A hand gently approaches and touches the sleeper's face. This touch causes the person's eyes to snap open abruptly, revealing a look of surprise or mild shock, before they softly close again, allowing the person to return to their peaceful slumber.",
+  "segments": [
+    {
+      "start_time": "00:00:08.000",
+      "end_time": "00:00:12.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Shock_Surprise",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "sleeping",
+        "waking up",
+        "surprise",
+        "eyes opening",
+        "hand touching face",
+        "couch",
+        "smartwatch",
+        "basketball pillow"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "shock",
+          "mixed"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "gentle wake",
+          "sudden reaction",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the 'Emotional Climax' as the person reacts with surprise to being gently woken up, showing a distinct facial expression and human interaction, which is a key 'Hero Moment'."
+    }
+  ]
+}

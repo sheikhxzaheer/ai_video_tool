@@ -1,0 +1,84 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Lab\\Woman\\ssstik.io_@evesvsxx_1767346728112.mp4",
+  "detailed_description": "The video showcases a 'lab girl' performing various professional tasks in a science laboratory. Dressed in a purple lab gown, hairnet, and mask, she is seen meticulously pipetting liquids into test tubes within a laminar flow hood, demonstrating precision and focus. Later, she is shown maintaining a freezer, scraping away ice, highlighting the diverse responsibilities in a lab environment. The video encapsulates the dedicated work and professional aesthetic of a lab scientist.",
+  "segments": [
+    {
+      "start_time": "00:04.200",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Aesthetic_Broll",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "lab gown",
+        "face mask",
+        "hair net",
+        "pipette",
+        "test tubes",
+        "liquid transfer",
+        "laminar flow hood",
+        "lab equipment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "focused shot"
+        ]
+      },
+      "why_kept": "This segment is the core demonstration of professional lab work, showing the subject actively performing a key scientific process (pipetting) in a controlled environment. It exemplifies the 'lab girl' theme with clear 'Process/Labor' and 'Product Interaction' moments."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Aesthetic_Broll",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "woman",
+        "lab gown",
+        "freezer",
+        "ice",
+        "scraping tool",
+        "gloved hands",
+        "test tube rack"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "practical action"
+        ]
+      },
+      "why_kept": "This segment complements the main lab work by showcasing another common task in a lab setting (freezer maintenance) and ends with a macro shot of the gloved hands over lab tubes, reinforcing the overall lab theme and 'Process/Labor' aspect."
+    }
+  ]
+}

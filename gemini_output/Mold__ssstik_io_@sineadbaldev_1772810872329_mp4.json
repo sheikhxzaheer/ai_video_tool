@@ -1,0 +1,231 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold\\ssstik.io_@sineadbaldev_1772810872329.mp4",
+  "detailed_description": "This video documents the challenging process of renovating a bedroom plagued by severe damp and mold. It begins by showcasing the extensive mold growth on the wallpapered walls, establishing a clear 'Problem State'. The primary steps involve the laborious removal of the old wallpaper, which proves difficult, followed by the application of a specialized mold and mildew cleaner. The video visually emphasizes the physical effort required to strip the walls and scrub away the mold, concluding with the walls cleaned and prepared for further damp-proofing treatment as part of the ongoing bedroom revamp.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "moldy wall",
+        "pink and white striped wallpaper",
+        "carpet",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "urgent"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "static shot"
+        ]
+      },
+      "why_kept": "This segment serves as the visual hook and problem statement, immediately establishing the video's core theme of tackling damp and mold in Miia's bedroom with a clear text overlay."
+    },
+    {
+      "start_time": "00:35.000",
+      "end_time": "00:44.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "two women",
+        "peeling wallpaper",
+        "pink paint",
+        "mold patches",
+        "scraps on floor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dynamic action",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment demonstrates the significant manual labor and process of removing stubborn wallpaper, directly showing the 'doing the work' aspect of the revamp."
+    },
+    {
+      "start_time": "00:44.000",
+      "end_time": "00:46.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "wall stripped of wallpaper",
+        "peeling pink paint",
+        "brown mold",
+        "carpet"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "revealing"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "static shot",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment provides an 'intermediate reveal' showing the wall's condition after wallpaper removal, clearly indicating the extent of the underlying mold and damp, a crucial 'Result_Transformation' from the previous step."
+    },
+    {
+      "start_time": "00:55.000",
+      "end_time": "00:59.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "hand holding spray bottle",
+        "Astonish Mould & Mildew Blaster",
+        "product label"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear product shot",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment explicitly introduces the product used for mold treatment, fulfilling the 'Product_Intro' and 'Product_Interaction' criteria."
+    },
+    {
+      "start_time": "01:02.000",
+      "end_time": "01:06.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "hand spraying cleaner",
+        "moldy wall",
+        "pink paint"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "active",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic action",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment shows the direct application of the mold cleaner, demonstrating 'Product_Interaction' and the 'Mechanism_Of_Action' as the product is sprayed onto the affected area."
+    },
+    {
+      "start_time": "01:06.000",
+      "end_time": "01:10.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman scrubbing",
+        "brush",
+        "moldy corner",
+        "pink wall"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "close-up action",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment clearly illustrates the 'Process/Labor' of scrubbing the mold, showcasing the direct effort to clean the problematic areas of the wall."
+    },
+    {
+      "start_time": "01:25.000",
+      "end_time": "01:31.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "wet wall",
+        "cleaned areas",
+        "pink paint",
+        "brown patches",
+        "carpet"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "anticipatory",
+          "hopeful"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "static shot",
+          "natural lighting",
+          "visual progress"
+        ]
+      },
+      "why_kept": "This segment acts as an 'intermediate result,' showing the wall after cleaning and drying, while also serving as an 'Offer_CTA' by setting up the next step of applying damp-proof paint."
+    }
+  ]
+}

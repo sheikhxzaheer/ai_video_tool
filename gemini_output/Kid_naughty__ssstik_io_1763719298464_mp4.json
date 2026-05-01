@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid naughty\\ssstik.io_1763719298464.mp4",
+  "detailed_description": "The video captures a young child in a yellow t-shirt exhibiting intense emotional distress, crying and reaching, presumably for a smartphone being held just out of frame. The accompanying text overlay indicates that the child is crying 'just for the phone' and that the person filming finds this amusing. The child's raw emotional display is the central focus, punctuated by fleeting moments where the crying subsides slightly and a brief, almost forced smile appears, highlighting the child's struggle and the parent's playful observation of the situation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:21.468",
+      "structural_tags": [
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "child",
+        "crying",
+        "phone",
+        "smiling briefly",
+        "yellow shirt",
+        "reaching"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "handheld camera"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it continuously displays the child's intense emotional reaction to wanting a phone, which is the central theme and 'Emotional Climax' of the video, as further explained by the on-screen text. The action starts immediately and continues until the end, fitting the 'No-Mistake' rule."
+    }
+  ]
+}

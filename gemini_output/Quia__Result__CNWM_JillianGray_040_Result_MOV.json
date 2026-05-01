@@ -1,0 +1,41 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Result\\CNWM_JillianGray_040_Result.MOV",
+  "detailed_description": "A young woman, wearing a pink bow headband, speaks directly to the camera, expressing her genuine satisfaction with the current state of her skin. She conveys a positive emotional climax, stating she believes her skin has never looked this good, showcasing a clear 'Wow' reaction and a confident smile.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.296",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "speaking",
+        "smiling",
+        "touching face",
+        "pink bow headband",
+        "jewelry"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "natural look"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core because it captures the emotional climax and key information. The subject directly addresses the camera, delivering a clear testimonial (UGC_Talking_Head) about her positive experience with her skin, underscored by a genuine smile and satisfied facial expression (Positive_Emotion, Face_Reaction). There is no setup, dead air, or product interaction, making the entire segment a direct, impactful statement."
+    }
+  ]
+}

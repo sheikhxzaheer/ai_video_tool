@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melazma\\EL - BATCH 001 - EL001_23.mp4",
+  "detailed_description": "This video's semantic core features a woman openly discussing and visibly presenting her severe facial hyperpigmentation, specifically identifying it as 'horrible hyperpigmentation, melasma.' The segment serves to establish a clear problem state, with the woman speaking directly to the camera while her skin condition is prominently displayed in two different settings, once while holding a baby and again from inside a car. The video entirely focuses on articulating and illustrating this personal skin challenge.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.113",
+      "structural_tags": [
+        "Problem_State",
+        "UGC_Talking_Head",
+        "Negative_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "baby",
+        "hyperpigmentation",
+        "melasma",
+        "freckles",
+        "face",
+        "car",
+        "brick wall",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "car"
+        ],
+        "mood": [
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "selfie style",
+          "candid"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the semantic core because it directly and comprehensively fulfills the 'Key Information' and 'Problem_State' hero moment criteria. The woman explicitly states her problem ('horrible hyperpigmentation, melasma') while simultaneously providing a clear visual demonstration of the condition on her face. There is no setup or post-action dead air, and it directly conveys the core message without showing any solution or product, making it the complete introduction to the problem."
+    }
+  ]
+}

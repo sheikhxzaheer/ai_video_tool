@@ -1,0 +1,153 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_AlyssaGear_poductdemo.mp4",
+  "detailed_description": "This video showcases a simplified Korean beauty skincare routine focused on two key products from the brand QUI. It begins by introducing a Collagen Night Wrapping Mask, demonstrating its application with a silicone brush, and then vividly captures the satisfying peel-off process. Following the mask, a Collagen Niacinamide Jelly Cream is introduced and applied, completing the routine. The video emphasizes product interaction, visible application, and the user's positive experience, conveying a sense of prioritizing self-care through effective skincare.",
+  "segments": [
+    {
+      "start_time": "00:00.600",
+      "end_time": "00:02.300",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "pink tube",
+        "opening cap",
+        "squeezing product",
+        "silicone brush"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment clearly introduces the first product (peel-off mask) and demonstrates its dispensing, setting the stage for the routine."
+    },
+    {
+      "start_time": "00:02.800",
+      "end_time": "00:03.700",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "pink jar",
+        "opening lid",
+        "jelly cream"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment introduces the second product (jelly cream) used in the skincare routine, showing its presentation and texture."
+    },
+    {
+      "start_time": "00:04.300",
+      "end_time": "00:13.900",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Result_Transformation",
+        "Calm_Relaxation",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "applying mask",
+        "silicone brush",
+        "face mask",
+        "peeling mask",
+        "glowing skin",
+        "smiling woman"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clear skin",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This is the primary 'Hero Moment,' showcasing the full process of applying the peel-off mask and the satisfying visual transformation of its removal, accompanied by the user's positive facial expressions. It directly demonstrates the core functionality and appeal of the product."
+    },
+    {
+      "start_time": "00:14.600",
+      "end_time": "00:17.300",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Result_Transformation",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "applying cream",
+        "face cream",
+        "moisturized skin",
+        "smiling woman"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clear skin",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment completes the skincare routine by showing the application of the second product (jelly cream), highlighting its moisturizing effect and leaving the user with a satisfied expression, reinforcing the positive outcome."
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Woman\\ssstik.io_@bertandpriss_1767008557409.mp4",
+  "detailed_description": "This heartwarming video captures a girlfriend's playful experiment: leaving laundry on the bed and pretending to sleep to observe her boyfriend's reaction. The boyfriend, upon noticing her asleep, acts with remarkable thoughtfulness. He gently covers her with a blanket, tidies up all the messy clothes, and showers her with quiet affection, including kisses and even taking a cute picture with her stuffed animal. The video beautifully showcases his caring nature before he turns off the TV and joins her in bed.",
+  "segments": [
+    {
+      "start_time": "00:01.375",
+      "end_time": "00:20.575",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Calm_Relaxation",
+        "Night_Routine",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "boyfriend entering room",
+        "girlfriend sleeping",
+        "laundry on bed",
+        "boyfriend smiling",
+        "whispering",
+        "kissing forehead",
+        "covering with blanket"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "loving",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "blue lighting",
+          "soft focus",
+          "affectionate gestures"
+        ]
+      },
+      "why_kept": "This segment establishes the video's premise (leaving laundry and pretending to sleep) and immediately showcases the boyfriend's initial caring and affectionate reaction, setting the tone for his thoughtful actions."
+    },
+    {
+      "start_time": "00:30.825",
+      "end_time": "00:36.655",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "boyfriend picking up clothes",
+        "folding laundry",
+        "putting clothes in closet"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "caring"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "blue lighting",
+          "organized action"
+        ]
+      },
+      "why_kept": "This segment directly demonstrates the boyfriend's initiative in tidying up the laundry, which is a key action in response to the girlfriend's 'test' and the main 'labor' shown in the video."
+    },
+    {
+      "start_time": "00:37.475",
+      "end_time": "01:01.375",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Calm_Relaxation",
+        "Night_Routine",
+        "Aesthetic_Broll",
+        "Reveal_Result"
+      ],
+      "visual_keywords": [
+        "boyfriend kissing girlfriend",
+        "taking photo with phone",
+        "turning off TV",
+        "crawling into bed",
+        "snuggling",
+        "stuffed animal"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "loving",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "blue lighting",
+          "affectionate gestures",
+          "intimate moment"
+        ]
+      },
+      "why_kept": "This segment reinforces the boyfriend's consistent affection and thoughtfulness, providing a heartwarming resolution as he ensures her comfort, documents the moment, and finally joins her in bed for the night."
+    }
+  ]
+}

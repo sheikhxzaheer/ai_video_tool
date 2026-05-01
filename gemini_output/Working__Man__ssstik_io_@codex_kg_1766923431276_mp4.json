@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Man\\ssstik.io_@codex_kg_1766923431276.mp4",
+  "detailed_description": "This time-lapse video showcases a person engaged in focused coding and design work at a desk, utilizing a dual-monitor setup with a gaming laptop and an external display. The individual is actively typing on an RGB keyboard, navigating with a mouse, and concentrating on the screens, which display lines of code, website layouts, and occasional multimedia. The video effectively captures the continuous 'process of labor' inherent in development and design tasks within a modern office environment, highlighting dedication and productivity.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:20.697",
+      "structural_tags": [
+        "Process_Labor",
+        "Workspace_Office",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Person typing",
+        "Laptop with RGB keyboard",
+        "Dual monitors",
+        "Code on screen",
+        "Website design on screen",
+        "Mouse interaction",
+        "Cooling pad",
+        "Time-lapse"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "energetic",
+          "productive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "time-lapse",
+          "overhead lighting",
+          "modern office setup",
+          "RGB lighting"
+        ]
+      },
+      "why_kept": "The entire video is a time-lapse that consistently demonstrates the core 'process of labor' of a developer actively working on a computer setup. There are no significant setup, calibration, or post-action dead air frames, making the full duration relevant to showcase the continuous work effort. The constant interaction with code and design elements on the screens, combined with typing and mouse use, fully embodies the hero moment of 'doing the work'."
+    }
+  ]
+}

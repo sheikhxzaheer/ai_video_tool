@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLife_working\\Scene 26-bonding.mov",
+  "detailed_description": "The video captures a heartwarming and affectionate interaction between a woman and her small, light-colored dog while she relaxes on a couch. The woman gently cradles and pets her canine companion, who reciprocates the affection by repeatedly licking her face. Her warm smiles and gentle reactions convey a deep bond and positive emotional connection, culminating in a satisfied look towards the camera, maintaining the tender interaction with her pet.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.458",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "dog",
+        "couch",
+        "petting",
+        "licking",
+        "smiling",
+        "affection"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "warm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "warm tones",
+          "candid"
+        ]
+      },
+      "why_kept": "This entire segment represents a continuous 'Emotional Climax' and 'Human Interaction' hero moment. The dog's affectionate licking and the woman's genuine smiles and petting demonstrate the core value of the video – the loving bond between a pet owner and their dog. No 'Setup & Calibration' or 'Post-Action Dead Air' is present; the interaction starts immediately and concludes with the woman smiling, making it a complete, untrimmed semantic core."
+    }
+  ]
+}

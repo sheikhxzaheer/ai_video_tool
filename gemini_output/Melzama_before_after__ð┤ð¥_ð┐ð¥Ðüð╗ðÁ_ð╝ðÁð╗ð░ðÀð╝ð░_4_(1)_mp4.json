@@ -1,0 +1,75 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ð╝ðÁð╗ð░ðÀð╝ð░ 4 (1).mp4",
+  "detailed_description": "This video effectively demonstrates the transformative power of a skincare treatment over a period of one month and thirteen days. It begins by showcasing the subject's skin 'before' treatment, characterized by visible acne and dark spots, establishing a clear problem state. The video then transitions to the 'after' state, revealing significantly clearer skin with reduced blemishes, highlighting the positive results of the regimen. The explicit mention of being makeup-free validates the authenticity of the remarkable skin transformation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.999",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "skin",
+        "acne",
+        "dark spots",
+        "blemishes"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "before shot"
+        ]
+      },
+      "why_kept": "This segment establishes the 'Before' state, presenting the initial skin condition with acne and dark spots, which is crucial for setting up the context of the treatment's necessity and the subsequent transformation."
+    },
+    {
+      "start_time": "00:05.000",
+      "end_time": "00:15.895",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "clearer skin",
+        "reduced blemishes",
+        "healthy skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "after shot",
+          "skin glow"
+        ]
+      },
+      "why_kept": "This segment showcases the 'After' state, demonstrating the significant improvement in skin clarity and reduction of blemishes after treatment. It serves as the primary 'reveal' of the product's effectiveness and the ultimate value proposition, making it the strongest hero moment."
+    }
+  ]
+}

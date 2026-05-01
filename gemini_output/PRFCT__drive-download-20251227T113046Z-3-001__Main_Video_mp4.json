@@ -1,0 +1,206 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\drive-download-20251227T113046Z-3-001\\Main Video.mp4",
+  "detailed_description": "The video opens with a man detailing his initial positive, yet ultimately detrimental, experience with Adderall, highlighting its negative effects on his well-being. He then embarks on a frustrated search for a healthier alternative to maintain focus and drive. This search culminates in the discovery of 'Perfect Morning,' which he praises for revolutionizing his daily routine. The video concludes with a direct call to action, offering viewers a discount to try the product themselves.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Interaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "man holding blue pill",
+        "speaking",
+        "blurred background"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "home"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "shallow depth of field",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment serves as a strong visual hook, immediately introducing the 'problem product' (Adderall) and the speaker's conflict, directly fulfilling the 'Product Interaction' and 'Problem State' criteria."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "UGC_Talking_Head",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man speaking",
+        "frustrated expression",
+        "hand on head",
+        "anxious gestures"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "anxious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment is kept as an 'Emotional Climax,' visually emphasizing the negative emotional toll and physical discomfort associated with the previous solution, reinforcing the 'Problem State' through facial expressions and gestures."
+    },
+    {
+      "start_time": "00:22.000",
+      "end_time": "00:25.000",
+      "structural_tags": [
+        "The_Process/Labor",
+        "Workspace_Office",
+        "Confusion_Doubt"
+      ],
+      "visual_keywords": [
+        "man typing on laptop",
+        "searching",
+        "blue screen light reflection"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "screen light reflection"
+        ]
+      },
+      "why_kept": "This segment portrays 'the process' of actively searching for an alternative solution, showcasing the effort and labor involved in his journey."
+    },
+    {
+      "start_time": "00:25.000",
+      "end_time": "00:29.000",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Confusion_Doubt"
+      ],
+      "visual_keywords": [
+        "man looking at phone",
+        "man looking at laptop",
+        "frustrated expression",
+        "scratching head",
+        "aggravated grunting"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home",
+          "office"
+        ],
+        "mood": [
+          "frustrated",
+          "stressed"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "screen light reflection"
+        ]
+      },
+      "why_kept": "This segment clearly captures another 'Emotional Climax' of intense frustration and confusion during the continued search, serving as a powerful representation of the 'Problem State'."
+    },
+    {
+      "start_time": "00:29.000",
+      "end_time": "00:36.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Positive_Emotion",
+        "UGC_Talking_Head",
+        "Face_Reaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "man speaking",
+        "smiling",
+        "satisfied expression",
+        "happy eyes"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "satisfied",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment acts as an 'Emotional Climax' (satisfaction, relief) and introduces the new solution, 'Perfect Morning,' signifying a major positive 'Result_Transformation' in the narrative."
+    },
+    {
+      "start_time": "00:36.000",
+      "end_time": "00:43.000",
+      "structural_tags": [
+        "Offer_CTA",
+        "Key_Information",
+        "UGC_Talking_Head",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man speaking",
+        "pointing down",
+        "call to action gesture",
+        "discount offer"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "direct"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment is a direct 'Call to Action,' delivering key information about a discount and instructing viewers on how to acquire the product, fulfilling a core 'Hero Moment' requirement."
+    }
+  ]
+}

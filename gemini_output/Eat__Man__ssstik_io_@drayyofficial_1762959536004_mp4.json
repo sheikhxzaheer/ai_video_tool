@@ -1,0 +1,205 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Eat\\Man\\ssstik.io_@drayyofficial_1762959536004.mp4",
+  "detailed_description": "This video captures a complete, elegant dining experience at a restaurant. It follows a man as he arrives, meticulously browses the menu, pours a refreshing drink, and savors a beautifully presented meal, including a salmon dish and a fried appetizer. The sequence highlights the atmosphere and enjoyment of the dining process, concluding with him settling the bill, showcasing a seamless and satisfying evening out.",
+  "segments": [
+    {
+      "start_time": "00:03.513",
+      "end_time": "00:07.813",
+      "structural_tags": [
+        "Product_Interaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "restaurant menu",
+        "ordering food",
+        "dining"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "night dining",
+          "ambient lighting"
+        ]
+      },
+      "why_kept": "This segment shows the process of engaging with the restaurant's offerings by browsing the menu, setting the stage for the meal."
+    },
+    {
+      "start_time": "00:08.513",
+      "end_time": "00:10.013",
+      "structural_tags": [
+        "Product_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "pouring water",
+        "drinking glass",
+        "pitcher"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "night dining",
+          "ambient lighting"
+        ]
+      },
+      "why_kept": "Captures a common and integral part of the dining experience, demonstrating active interaction with the table setting."
+    },
+    {
+      "start_time": "00:10.500",
+      "end_time": "00:11.700",
+      "structural_tags": [
+        "Reveal_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "fried calamari",
+        "shishito peppers",
+        "grilled lemon",
+        "sauce",
+        "appetizer"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "food photography",
+          "restaurant plating",
+          "appetizer close-up"
+        ]
+      },
+      "why_kept": "Serves as a 'reveal' moment for one of the dishes, highlighting the visual appeal and presentation of the food."
+    },
+    {
+      "start_time": "00:11.700",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Reveal_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "grilled salmon",
+        "lentils",
+        "green beans",
+        "carrots",
+        "main course",
+        "lemon"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "food photography",
+          "restaurant plating",
+          "main course close-up"
+        ]
+      },
+      "why_kept": "This is a strong 'reveal' of the main course, showcasing the primary offering and its appealing presentation, which is central to the dining theme."
+    },
+    {
+      "start_time": "00:13.600",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man",
+        "eating salmon",
+        "drinking cocktail",
+        "enjoying meal"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "night dining",
+          "ambient lighting",
+          "meal enjoyment"
+        ]
+      },
+      "why_kept": "Demonstrates the enjoyment and consumption of the food and drink, providing an emotional climax of satisfaction."
+    },
+    {
+      "start_time": "00:18.400",
+      "end_time": "00:20.100",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man",
+        "writing bill",
+        "paying",
+        "restaurant check",
+        "wallet"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "night dining",
+          "transactional moment"
+        ]
+      },
+      "why_kept": "Concludes the dining experience by showing the process of settling the bill, providing a complete narrative arc."
+    }
+  ]
+}

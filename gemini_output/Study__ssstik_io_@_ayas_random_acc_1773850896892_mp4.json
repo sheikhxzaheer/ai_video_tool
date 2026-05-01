@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Study\\ssstik.io_@.ayas_random_acc_1773850896892.mp4",
+  "detailed_description": "The video captures a first-person perspective of someone quickly filling in fake start and end times on a Kumon worksheet. The text overlay clarifies the humorous intent: 'POV: Me faking the Time in kumon.' The person writes down a start time and then a very slightly later end time, implying they completed the work in a ridiculously short period, rather than genuinely tracking their actual work duration. The action highlights a common student antic related to homework and time tracking.",
+  "segments": [
+    {
+      "start_time": "00:00.600",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Time_Wasted",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "pencil",
+        "Kumon worksheet",
+        "writing numbers",
+        "faking time",
+        "fractions homework"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "bright lighting",
+          "clear focus on paper",
+          "cute desk mat"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it directly shows the action described in the 'POV' text: the faking of time on the Kumon worksheet. The entire process of writing the fabricated start and end times is captured, demonstrating the core message and interaction."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1745514946007.mp4",
+  "detailed_description": "This video captures a professional hair styling session from start to finish. It begins with the client subtly expressing an unstyled hair state, then transitions into the hairdresser meticulously drying and applying a styling product. The core of the video showcases the detailed process of hair styling, highlighting the transformation. The segment concludes with the client's visible satisfaction and a perfectly groomed hairstyle, emphasizing the quality and effectiveness of the salon service.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.800",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "grey hair",
+        "hairdresser",
+        "blow dryer",
+        "hair product",
+        "styling hair",
+        "salon chair",
+        "styled hair",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "professional",
+          "premium",
+          "satisfaction"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "modern salon aesthetic",
+          "close-up shots",
+          "dynamic camera movement"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully captures the problem (implied unstyled hair), the entire professional styling process (drying, product application, and shaping), and the satisfactory result with the client's positive reaction. It presents a complete narrative of hair transformation and service value, aligning with multiple hero moment criteria."
+    }
+  ]
+}

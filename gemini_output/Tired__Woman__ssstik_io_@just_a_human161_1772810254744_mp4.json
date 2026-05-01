@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Tired\\Woman\\ssstik.io_@just.a.human161_1772810254744.mp4",
+  "detailed_description": "The video encapsulates a relatable daily experience with school, showcasing a young woman's rapid shift between expressions of weariness or sadness and a forced smile. This emotional transition, paired with the on-screen text 'How school feels every day,' conveys the underlying struggle and the effort to maintain a positive facade, representing a common problem state for students.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Problem_State",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Positive_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "young woman",
+        "brown sweatshirt",
+        "rubbing eyes",
+        "sad expression",
+        "smiling",
+        "desk",
+        "pen",
+        "ivy wall decor"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "relatable",
+          "mixed",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "casual setting",
+          "authentic emotion"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it constitutes the complete emotional climax and conveys the core message. The rapid sequence of changing facial expressions—from rubbing eyes in apparent distress/tiredness to forcing a smile, then a pensive look, and finally another smile—is essential to illustrate the nuanced feeling of 'How school feels every day.' Trimming any part would diminish the impact of this emotional journey and the contextual information provided by the on-screen text. It perfectly demonstrates a relatable problem state through facial reactions."
+    }
+  ]
+}

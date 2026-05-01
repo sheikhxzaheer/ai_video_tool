@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\Words Removed - Full usage\\dryscoopgirl.MOV",
+  "detailed_description": "This video captures a woman's morning supplement routine performed in her car. She enthusiastically demonstrates the consumption of three different products: first, she takes a shot from a small bottle, then sips from a large travel mug, and finally, she prepares and drinks from a sachet poured into a clear cup. Her cheerful demeanor and smiles throughout highlight a positive and energetic start to her day, showcasing practical product interaction within a lifestyle context.",
+  "segments": [
+    {
+      "start_time": "00:01.240",
+      "end_time": "00:59.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Morning_Routine",
+        "Lifestyle_Active",
+        "Travel_Transit",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "car interior",
+        "supplement bottle",
+        "drink shot",
+        "travel mug",
+        "sachet",
+        "clear cup",
+        "straw",
+        "drinking",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "natural light",
+          "casual",
+          "dynamic cuts"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully captures the main action of the video: the woman's complete morning supplement routine. It includes the introduction and interaction with all three products, demonstrates the process of preparing one of the drinks (opening sachet, pouring), and clearly shows her positive emotional response to the products and the routine itself, fulfilling all 'Hero Moment' criteria for product interaction, process, and emotional climax within a continuous sequence."
+    }
+  ]
+}

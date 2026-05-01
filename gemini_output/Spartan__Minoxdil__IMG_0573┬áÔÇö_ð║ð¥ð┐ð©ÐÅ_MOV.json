@@ -1,0 +1,349 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Minoxdil\\IMG_0573┬áÔÇö ð║ð¥ð┐ð©ÐÅ.MOV",
+  "detailed_description": "This video provides a quick guide to fixing or preventing balding by demonstrating several hair care techniques and product recommendations. It showcases the use of a dermaroller and rosemary oil for scalp stimulation, advises against certain shampoos in favor of natural alternatives, suggests daily application of Minoxidil, and highlights the benefits of eggs for hair growth, culminating in a surprising demonstration of consuming a raw egg.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man with short brown hair",
+        "receding hairline",
+        "hair pushed back",
+        "full hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment clearly sets up the problem (balding/receding hairline) and the implied solution by showing the 'before' (receding) and 'after' (full hair) in quick succession, serving as a strong visual hook."
+    },
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "dermaroller",
+        "black roller"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "Introduces the first tool/product suggested for hair growth, showing it clearly to the viewer."
+    },
+    {
+      "start_time": "00:12.000",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man rolling dermaroller",
+        "forehead",
+        "scalp",
+        "hairline"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment demonstrates the actual process of using the dermaroller on the scalp, which is a key method for fixing balding."
+    },
+    {
+      "start_time": "00:24.000",
+      "end_time": "00:25.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Ingredient_Highlight",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "rosemary oil dropper",
+        "clear liquid"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "Introduces rosemary oil as another recommended product for hair growth."
+    },
+    {
+      "start_time": "00:25.000",
+      "end_time": "00:27.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man applying rosemary oil",
+        "scalp",
+        "hairline",
+        "dropper"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment shows the direct application of rosemary oil to the scalp, demonstrating another key method."
+    },
+    {
+      "start_time": "00:34.000",
+      "end_time": "00:35.000",
+      "structural_tags": [
+        "Key_Information",
+        "Product_Interaction",
+        "Low_Quality_Comparison",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man holding Old Spice shampoo",
+        "red bottle"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative",
+          "cautionary"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment delivers a key piece of advice about avoiding certain types of shampoo by showing a specific example."
+    },
+    {
+      "start_time": "00:36.000",
+      "end_time": "00:39.000",
+      "structural_tags": [
+        "Key_Information",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man holding Mytrae shampoo",
+        "white bottle",
+        "natural shampoo"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative",
+          "recommendatory"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment provides an alternative recommendation for natural shampoo, contrasting with the previous advice."
+    },
+    {
+      "start_time": "00:43.000",
+      "end_time": "00:45.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "Minoxidil bottle",
+        "dispensing foam",
+        "foam on hand"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "Introduces Minoxidil as a solution and demonstrates the product's dispensing mechanism."
+    },
+    {
+      "start_time": "00:46.000",
+      "end_time": "00:50.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man applying Minoxidil foam",
+        "scalp",
+        "hairline"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the application of Minoxidil foam to the scalp, a crucial step in the hair growth regimen."
+    },
+    {
+      "start_time": "00:51.000",
+      "end_time": "00:53.000",
+      "structural_tags": [
+        "Key_Information",
+        "Product_Intro",
+        "Ingredient_Highlight",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man holding egg",
+        "white egg"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment introduces eggs as a beneficial source of protein and biotin for hair growth, providing key dietary information."
+    },
+    {
+      "start_time": "00:54.000",
+      "end_time": "00:55.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Product_Interaction",
+        "Shock_Surprise",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man eating raw egg",
+        "egg in mouth"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "shock",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment provides an unexpected and memorable demonstration of consuming the egg for its hair growth benefits, creating an emotional climax through shock and surprise."
+    }
+  ]
+}

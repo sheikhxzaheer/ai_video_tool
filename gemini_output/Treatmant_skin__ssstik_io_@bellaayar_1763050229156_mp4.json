@@ -1,0 +1,219 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Treatmant_skin\\ssstik.io_@bellaayar_1763050229156.mp4",
+  "detailed_description": "This video showcases the application of a viral Korean anti-aging cream. The process begins with the model dotting the cream onto her face, highlighting its key ingredients like Centella, Niacinamide, Madecassoside, Hyaluronic Acid, Peptides, and Collagen, which offer benefits from soothing to collagen repair. She then spreads the cream, revealing an immediate dewy glow on her skin. The video concludes by emphasizing the product's popularity, noting over 75 million units sold in Korea, cementing its status as a comprehensive solution for skin needs.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:01.00",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying cream",
+        "face",
+        "dots",
+        "robe",
+        "towel"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment serves as an initial visual hook, introducing the product's application and setting the scene for a skincare routine."
+    },
+    {
+      "start_time": "00:01.00",
+      "end_time": "00:03.00",
+      "structural_tags": [
+        "Product_Intro",
+        "Macro_Detail",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "cream tube",
+        "Madeca Cream",
+        "squeezing cream",
+        "product packaging"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear product view",
+          "focused detail"
+        ]
+      },
+      "why_kept": "This segment provides a clear introduction to the product, showing its branding and the cream's texture as it's dispensed."
+    },
+    {
+      "start_time": "00:03.00",
+      "end_time": "00:08.00",
+      "structural_tags": [
+        "Product_Interaction",
+        "Ingredient_Highlight",
+        "Key_Information",
+        "Mechanism_Of_Action",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying cream dots",
+        "face",
+        "ingredients list overlay",
+        "Centella",
+        "Niacinamide",
+        "Madecassoside",
+        "Hyaluronic Acid",
+        "Peptides & Collagen"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "informational text overlay",
+          "direct application"
+        ]
+      },
+      "why_kept": "This is a core segment demonstrating the detailed application of the cream while simultaneously providing crucial information about its key ingredients and their benefits, directly linking the action to the product's value."
+    },
+    {
+      "start_time": "00:08.00",
+      "end_time": "00:13.00",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "spreading cream",
+        "face",
+        "glowing skin",
+        "skin needs text"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "smooth blending action",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment shows the process of massaging the cream into the skin, completing the application stage and preparing for the reveal of the results."
+    },
+    {
+      "start_time": "00:13.00",
+      "end_time": "00:16.00",
+      "structural_tags": [
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "glowing skin",
+        "touching face",
+        "dewy finish",
+        "look at that glow text"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural glow",
+          "satisfied expression",
+          "focused skin texture"
+        ]
+      },
+      "why_kept": "This is a critical 'reveal' segment, showcasing the immediate and positive transformation of the skin after application, clearly demonstrating the product's efficacy and creating an emotional climax."
+    },
+    {
+      "start_time": "00:16.00",
+      "end_time": "00:19.00",
+      "structural_tags": [
+        "Product_Standalone",
+        "Social_Proof",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "holding cream tube",
+        "touching glowing face",
+        "sales statistics text",
+        "Madeca Cream"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "product affirmation",
+          "trust building through statistics"
+        ]
+      },
+      "why_kept": "This segment reinforces the product's credibility by displaying social proof (sales numbers) while showing the model's continued satisfaction and interaction with the product after application."
+    }
+  ]
+}

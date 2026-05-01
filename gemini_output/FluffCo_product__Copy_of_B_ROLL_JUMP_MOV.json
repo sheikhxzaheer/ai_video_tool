@@ -1,0 +1,156 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B ROLL JUMP.MOV",
+  "detailed_description": "The video captures a woman's joyful and comfortable interaction with her bed and pillows. She repeatedly performs a playful fall onto the soft bedding, landing upside down with a broad smile and laughter. These moments highlight a sense of relaxation and happiness derived from the comfort of the pillows and bed. The core message emphasizes the positive emotional experience and coziness that the bedding provides.",
+  "segments": [
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:07.500",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "High_Energy",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "falling",
+        "bed",
+        "pillows",
+        "smiling",
+        "laughing",
+        "upside down"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "comfortable setting",
+          "soft textures"
+        ]
+      },
+      "why_kept": "This segment is the strongest and most representative of the video's core meaning, combining the playful action of falling onto the bed with a clear, positive emotional reaction (smiling and laughing)."
+    },
+    {
+      "start_time": "00:15.500",
+      "end_time": "00:18.500",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "face",
+        "bed"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "happy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "expressive"
+        ]
+      },
+      "why_kept": "This close-up shot of the woman smiling reinforces the positive emotion and comfort established in the anchor segment."
+    },
+    {
+      "start_time": "00:25.500",
+      "end_time": "00:30.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "High_Energy",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "falling",
+        "bed",
+        "pillows",
+        "smiling",
+        "upside down"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "comfortable setting"
+        ]
+      },
+      "why_kept": "This segment provides an additional instance of the playful interaction and positive emotional response, reinforcing the core message of comfort and happiness with the bedding."
+    },
+    {
+      "start_time": "00:36.700",
+      "end_time": "00:41.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "High_Energy",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "falling",
+        "bed",
+        "pillows",
+        "smiling",
+        "upside down"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "comfortable setting"
+        ]
+      },
+      "why_kept": "This segment further reinforces the video's central theme of joyful interaction and comfort, showing another repetition of the playful fall and happy reaction."
+    }
+  ]
+}

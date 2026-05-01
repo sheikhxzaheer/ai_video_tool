@@ -1,0 +1,318 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Lab\\Woman\\ssstik.io_@kathyxsophia7_1770893016279.mp4",
+  "detailed_description": "This video presents a 'Day in my Life' as Kathy, a gynecologist in April 2024. It covers her morning routine, including preparation for work and a morning briefing. The core of her day involves patient admissions, extensive administrative tasks like charting and medication orders, and clinical work such as preparing medical supplies and performing ultrasounds for acute gynecological issues. The video also highlights her continuous professional development through weekly seminars and personal study of medical textbooks. Kathy balances her demanding schedule with post-work activities like coffee, gym, and moments of outdoor relaxation and further study by the water.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:03.00",
+      "structural_tags": [
+        "Visual_Hook",
+        "UGC_Talking_Head",
+        "Positive_Emotion",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "doctor",
+        "scrubs",
+        "medical book",
+        "smiling woman"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual tone"
+        ]
+      },
+      "why_kept": "This segment acts as the visual hook and introduction, establishing the 'Day in my Life' theme and introducing Kathy, the gynecologist, in her work environment."
+    },
+    {
+      "start_time": "00:08.50",
+      "end_time": "00:10.00",
+      "structural_tags": [
+        "Process_Labor",
+        "Macro_Detail",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "medical instruments",
+        "speculum",
+        "surgical tray"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "clinical"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "sterile look",
+          "metal gleam"
+        ]
+      },
+      "why_kept": "Shows specific medical tools used in her profession, giving a glimpse into the practical aspects of her work."
+    },
+    {
+      "start_time": "00:13.80",
+      "end_time": "00:22.50",
+      "structural_tags": [
+        "Process_Labor",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "doctor",
+        "computer",
+        "typing",
+        "scrubs",
+        "medical charts"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "professional setting"
+        ]
+      },
+      "why_kept": "Demonstrates the essential administrative and documentation tasks that are a significant part of a doctor's daily 'labor'."
+    },
+    {
+      "start_time": "00:23.00",
+      "end_time": "00:28.50",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "medical supplies",
+        "IV cannula",
+        "tourniquet",
+        "gloves",
+        "sharps container"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "clinical"
+        ],
+        "mood": [
+          "clinical",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear packaging",
+          "organized supplies"
+        ]
+      },
+      "why_kept": "Captures the practical preparation of medical supplies, showing direct interaction with tools used for patient care."
+    },
+    {
+      "start_time": "00:29.00",
+      "end_time": "00:39.00",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "ultrasound machine",
+        "doctor",
+        "lab coat",
+        "medical procedure",
+        "ultrasound gel",
+        "transducer"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "clinical"
+        ],
+        "mood": [
+          "serious",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused action",
+          "medical technology"
+        ]
+      },
+      "why_kept": "This is a key 'hero moment' as it visually demonstrates a crucial diagnostic procedure (ultrasound) within gynecology, showcasing the doctor's direct skill and use of advanced medical equipment."
+    },
+    {
+      "start_time": "00:40.50",
+      "end_time": "00:42.00",
+      "structural_tags": [
+        "Process_Labor",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "doctor",
+        "medical book",
+        "reading",
+        "scrubs"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "focused",
+          "studious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "quiet concentration"
+        ]
+      },
+      "why_kept": "Illustrates the continuous learning and knowledge acquisition required in the medical field, even during work hours."
+    },
+    {
+      "start_time": "00:46.00",
+      "end_time": "00:48.00",
+      "structural_tags": [
+        "Process_Labor",
+        "Key_Information",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "seminar",
+        "projector screen",
+        "medical graphs",
+        "ECG"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "educational",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "presentation view",
+          "informational content"
+        ]
+      },
+      "why_kept": "Shows an important aspect of professional development: attending seminars to stay updated with medical knowledge."
+    },
+    {
+      "start_time": "01:00.50",
+      "end_time": "01:04.00",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Lifestyle_Active",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "woman",
+        "book",
+        "reading",
+        "river",
+        "outdoor",
+        "casual clothes"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "relaxed",
+          "studious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright sunlight",
+          "serene setting"
+        ]
+      },
+      "why_kept": "Highlights the integration of personal well-being and continued learning outside of the clinical setting, showing a balanced lifestyle."
+    },
+    {
+      "start_time": "01:04.50",
+      "end_time": "01:06.50",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "relaxed",
+        "outdoor",
+        "sky",
+        "clouds"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "relaxed"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "peaceful"
+        ]
+      },
+      "why_kept": "Concludes the video by showcasing a moment of calm and personal enjoyment, reinforcing the 'Day in my Life' narrative with a touch of personal balance."
+    }
+  ]
+}

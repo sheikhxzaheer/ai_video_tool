@@ -1,0 +1,349 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Beach\\ssstik.io_@caribbean.experiences_1766669354909.mp4",
+  "detailed_description": "This video is a vibrant promotional showcase of Cancún, Mexico, highlighting its allure as a premier tourist destination. It features breathtaking aerial views of its unique coastline, pristine white-sand beaches, and the iconic turquoise waters of the Caribbean. The montage also captures the energetic nightlife, luxurious resorts, and rich local gastronomy and culture. Through stunning visuals and descriptive voiceover, the video positions Cancún as Mexico's and Latin America's capital of tourism, a true Mayan paradise inviting visitors to explore its beauty and vibrant experiences.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.380",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "aerial view",
+        "ocean",
+        "coastline",
+        "turquoise water",
+        "horizon"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "energetic",
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "drone shot",
+          "clear visibility"
+        ]
+      },
+      "why_kept": "Serves as an initial visual hook, immediately establishing the location's natural beauty from a high vantage point."
+    },
+    {
+      "start_time": "00:01.380",
+      "end_time": "00:03.580",
+      "structural_tags": [
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "aerial view",
+        "coastline",
+        "hotels",
+        "beach",
+        "lagoon",
+        "turquoise water",
+        "green landscape",
+        "resorts"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "ocean",
+          "nature"
+        ],
+        "mood": [
+          "premium",
+          "energetic"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "panoramic view",
+          "clear skies",
+          "developed coastline"
+        ]
+      },
+      "why_kept": "Provides the most comprehensive and context-setting aerial overview of Cancún's geography, blending its natural beauty with developed tourist infrastructure. It visually introduces the main appeal and supports the voiceover's claim of 'capital of tourism'."
+    },
+    {
+      "start_time": "00:03.580",
+      "end_time": "00:05.370",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "beach",
+        "ocean",
+        "turquoise water",
+        "resort balcony",
+        "people",
+        "umbrella",
+        "lounge chairs"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "resort perspective",
+          "sunny day",
+          "tranquil scene"
+        ]
+      },
+      "why_kept": "Highlights the serene and relaxing aspect of Cancún's beaches and resort experience, showcasing a typical tourist activity."
+    },
+    {
+      "start_time": "00:05.370",
+      "end_time": "00:07.400",
+      "structural_tags": [
+        "High_Energy",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "nightlife",
+        "street",
+        "Coco Bongo",
+        "bright lights",
+        "people",
+        "cars",
+        "entertainment district"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "vibrant",
+          "city lights",
+          "dynamic evening"
+        ]
+      },
+      "why_kept": "Demonstrates the vibrant and active nightlife aspect of Cancún, showing a different facet of its tourist appeal beyond daytime activities."
+    },
+    {
+      "start_time": "00:07.400",
+      "end_time": "00:09.300",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "boat",
+        "ocean",
+        "hotels",
+        "beach",
+        "blue water",
+        "resorts",
+        "sky"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "water level view",
+          "bright sunshine",
+          "approaching destination"
+        ]
+      },
+      "why_kept": "Offers a distinct perspective of the coastline from the water, reinforcing the integration of luxury resorts with the natural beauty."
+    },
+    {
+      "start_time": "00:09.300",
+      "end_time": "00:13.200",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "resort",
+        "swimming pool",
+        "beach",
+        "ocean",
+        "turquoise water",
+        "clouds",
+        "palm trees",
+        "people swimming"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "elevated view",
+          "tranquil resort setting",
+          "blue sky"
+        ]
+      },
+      "why_kept": "Showcases the luxurious resort amenities and their direct proximity to the pristine beach and ocean, illustrating a complete vacation experience."
+    },
+    {
+      "start_time": "00:13.200",
+      "end_time": "00:15.200",
+      "structural_tags": [
+        "High_Energy",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "crowded beach",
+        "umbrellas",
+        "people swimming",
+        "turquoise water",
+        "blue sky",
+        "beach activities"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "energetic",
+          "lively"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "lively atmosphere",
+          "full of activity",
+          "popular destination"
+        ]
+      },
+      "why_kept": "Illustrates the popularity and vibrant atmosphere of Cancún's beaches, emphasizing its appeal as a bustling tourist spot."
+    },
+    {
+      "start_time": "00:15.200",
+      "end_time": "00:19.200",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Home_Kitchen",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "traditional decor",
+        "Mexican food",
+        "table setting",
+        "ceramics",
+        "woman",
+        "cultural items",
+        "gastronomy"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "calm",
+          "authentic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "colorful",
+          "cultural immersion",
+          "traditional setting"
+        ]
+      },
+      "why_kept": "Represents the 'grand gastronomy' and rich cultural aspect of Cancún, showcasing a different, authentic facet of the tourist experience beyond just beaches and nightlife."
+    },
+    {
+      "start_time": "00:19.200",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Nature"
+      ],
+      "visual_keywords": [
+        "palm trees",
+        "beach",
+        "sand",
+        "turquoise water",
+        "ocean",
+        "blue sky",
+        "tropical"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "ocean",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "serene",
+          "idyllic"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "tropical paradise",
+          "classic beach scene",
+          "natural beauty"
+        ]
+      },
+      "why_kept": "Concludes the video with an iconic tropical beach shot, reinforcing the 'paradise' image of Cancún and leaving a lasting impression of its natural allure."
+    }
+  ]
+}

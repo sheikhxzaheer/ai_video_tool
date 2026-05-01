@@ -1,0 +1,240 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Treatmant_skin\\ssstik.io_@fridavatnarlie_1767964910416.mp4",
+  "detailed_description": "This video demonstrates a skincare routine using SKIN1004's Madagascar Centella ProBio-Cica Intensive Ampoule and Hyalu-Cica Water-Fit Sun Serum. The routine begins by showcasing the subject's initial skin appearance, subtly hinting at redness or a need for a soothing glow. It then progresses through the careful application of the intensive ampoule, highlighting its texture and how it's massaged into the face and neck for hydration and care. Following this, the water-fit sun serum is applied to provide sun protection and further enhance the skin's dewy finish. The video concludes with the subject displaying a visibly glowing, healthy-looking complexion, reinforcing the effectiveness of the product duo.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Face_Reaction",
+        "Problem_State",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "pink blush",
+        "dewy skin",
+        "touching cheek"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "natural look"
+        ]
+      },
+      "why_kept": "This segment serves as a visual hook, introducing the subject and her initial skin state, which appears slightly flushed, setting the context for a skincare transformation."
+    },
+    {
+      "start_time": "00:05.800",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "skincare products",
+        "SKIN1004 bottles",
+        "glow duo card"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "product focus"
+        ]
+      },
+      "why_kept": "This segment clearly introduces the two primary products from SKIN1004, establishing what will be used in the routine."
+    },
+    {
+      "start_time": "00:14.300",
+      "end_time": "00:17.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Mechanism_Of_Action",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "hand opening dropper",
+        "serum texture",
+        "white liquid"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focus on product",
+          "smooth motion"
+        ]
+      },
+      "why_kept": "This close-up showcases the texture and consistency of the serum as it's dispensed, providing a tactile and visual understanding of the product."
+    },
+    {
+      "start_time": "00:25.000",
+      "end_time": "00:31.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process/Labor",
+        "Human_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "applying serum",
+        "rubbing face",
+        "massaging neck",
+        "glowing skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft light",
+          "natural movement"
+        ]
+      },
+      "why_kept": "This is a core segment demonstrating the full application process of the intensive ampoule on the face and neck, which is central to the video's purpose of showcasing the product's use."
+    },
+    {
+      "start_time": "00:31.000",
+      "end_time": "00:33.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "glowing skin",
+        "dewy face",
+        "smooth complexion"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "natural look"
+        ]
+      },
+      "why_kept": "This segment shows the immediate effect of the serum, highlighting the initial glow and hydrated appearance before the next product."
+    },
+    {
+      "start_time": "00:45.000",
+      "end_time": "00:51.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process/Labor",
+        "Human_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "applying sun serum",
+        "rubbing face",
+        "massaging neck",
+        "glowing skin"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft light",
+          "natural movement"
+        ]
+      },
+      "why_kept": "This segment illustrates the application of the second key product, the sun serum, completing the full skincare routine demonstrated in the video."
+    },
+    {
+      "start_time": "00:57.000",
+      "end_time": "01:03.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "glowing skin",
+        "satisfied expression",
+        "blowing kiss",
+        "dewy face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "playful",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "natural glow"
+        ]
+      },
+      "why_kept": "This final segment acts as the conclusive reveal, showcasing the desired glowing skin outcome and conveying positive emotions, serving as a strong closing visual."
+    }
+  ]
+}

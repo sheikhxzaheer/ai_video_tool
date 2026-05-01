@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@druzma92_1769710696234.mp4",
+  "detailed_description": "This video provides a raw, observational glimpse into a hospital ward or emergency room. It showcases multiple patient beds separated by blue curtains, various medical equipment like IV stands and monitors, and the presence of hospital staff. A persistent electronic alarm sound runs throughout the video, creating an atmosphere of ongoing activity and potential urgency characteristic of a clinical environment. The video's semantic core lies in its candid depiction of a healthcare workspace.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.626",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Workspace_Office",
+        "Human_Interaction",
+        "Negative_Emotion",
+        "Urgency_Rush"
+      ],
+      "visual_keywords": [
+        "hospital",
+        "beds",
+        "patients",
+        "medical equipment",
+        "blue curtains",
+        "IV stands",
+        "hospital staff",
+        "alarm sound"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "urgent"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "tiled floor",
+          "fluorescent lighting",
+          "panning camera",
+          "observational shot"
+        ]
+      },
+      "why_kept": "The entire video constitutes the semantic core as it continuously displays a hospital environment with patients, staff, and medical equipment, underscored by a persistent alarm. There are no distinct 'hero moments' that begin or end within the clip; the continuous scene itself is the key information and 'behind-the-scenes' observation, making the whole duration relevant according to the 'NO-MISTAKE' rule."
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury home\\ssstik.io_@londonrealestate_1766727368721.mp4",
+  "detailed_description": "This video provides an exclusive tour inside a luxurious £9,900,000 London penthouse. The real estate agent guides viewers through the open-plan reception, showcasing herringbone floors, curved glass walls, and panoramic city views including iconic landmarks. The tour also highlights the elegant dining area with a grand piano, a modern kitchen with high-end appliances, and a spacious terrace. Concluding the indoor tour, the video features a floating staircase, a lavish primary bedroom suite with stunning cityscapes, and an en-suite bathroom before showcasing the building's exterior and a call to action.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.999",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man in suit",
+        "doorway",
+        "penthouse entrance",
+        "luxury apartment",
+        "London"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "apartment"
+        ],
+        "mood": [
+          "premium",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "modern lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment acts as a strong visual hook and introduces the expensive London penthouse, setting the stage for the entire tour. The agent's direct address and initial walk-in establish the 'Product_Intro' and 'Visual_Hook'."
+    },
+    {
+      "start_time": "00:05.000",
+      "end_time": "00:15.999",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "living room",
+        "panoramic windows",
+        "city view",
+        "herringbone floor",
+        "curved glass",
+        "white sofas"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "apartment"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "golden hour light",
+          "modern design",
+          "spacious feel"
+        ]
+      },
+      "why_kept": "This is a key 'reveal' of the primary living space, showcasing the most striking features like the panoramic curved glass and the stunning city views. The agent's gestures highlight the scale and luxury, embodying 'Product_Interaction' and 'Aesthetic_Broll'."
+    },
+    {
+      "start_time": "00:16.000",
+      "end_time": "00:27.999",
+      "structural_tags": [
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "dining area",
+        "grand piano",
+        "set table",
+        "sunset view",
+        "city skyline"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "apartment"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "elegant decor",
+          "warm lighting",
+          "luxurious dining"
+        ]
+      },
+      "why_kept": "This segment extends the tour into the dining area, emphasizing its suitability for entertaining with the grand piano and incredible sunset views, portraying a luxurious 'Lifestyle_Active' within the penthouse."
+    },
+    {
+      "start_time": "00:28.000",
+      "end_time": "00:33.999",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "city view",
+        "London skyline",
+        "Gherkin",
+        "Shard",
+        "Cheesegrater",
+        "high-rise buildings"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "city"
+        ],
+        "mood": [
+          "premium",
+          "impressive"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "panoramic view",
+          "iconic landmarks",
+          "clear sky"
+        ]
+      },
+      "why_kept": "This segment specifically highlights the breathtaking 'Aesthetic_Broll' views from the penthouse, naming prominent London landmarks which adds 'Key_Information' about the location's exclusivity."
+    },
+    {
+      "start_time": "00:34.000",
+      "end_time": "00:38.999",
+      "structural_tags": [
+        "Product_Interaction",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "kitchen island",
+        "dual ovens",
+        "coffee machine",
+        "wine fridge",
+        "wooden cabinets"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "premium",
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "modern kitchen",
+          "minimalist design"
+        ]
+      },
+      "why_kept": "This segment details the high-end features and modern design of the kitchen, demonstrating 'Product_Interaction' with the appliances and representing the 'Home_Kitchen' aspect of luxury living."
+    },
+    {
+      "start_time": "00:39.000",
+      "end_time": "00:49.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "terrace",
+        "balcony",
+        "outdoor seating",
+        "city views",
+        "London skyline",
+        "man looking out"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "apartment",
+          "city"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "expansive outdoor space",
+          "iconic views",
+          "golden hour"
+        ]
+      },
+      "why_kept": "The terrace is a significant feature of the penthouse, offering iconic London views. The agent's presence highlights the immersive experience and 'Lifestyle_Active' element of enjoying the outdoors from home."
+    },
+    {
+      "start_time": "00:49.000",
+      "end_time": "00:54.999",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "floating staircase",
+        "glass railing",
+        "double-height ceilings",
+        "skylight",
+        "city view"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "apartment"
+        ],
+        "mood": [
+          "premium",
+          "impressive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "architectural design",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment focuses on the unique 'Aesthetic_Broll' of the floating staircase, showcasing a key architectural feature and the double-height ceilings with a skylight, adding to the penthouse's grandeur."
+    },
+    {
+      "start_time": "00:55.000",
+      "end_time": "01:09.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "primary bedroom",
+        "king-size bed",
+        "city views",
+        "floor-to-ceiling windows",
+        "armchair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "apartment"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "luxurious bedroom",
+          "sunrise views",
+          "spacious"
+        ]
+      },
+      "why_kept": "This 'Product_Interaction' segment reveals the opulent primary bedroom suite, emphasizing the 'Calm_Relaxation' and luxury of waking up to breathtaking city views through its expansive windows."
+    },
+    {
+      "start_time": "01:09.000",
+      "end_time": "01:14.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "en-suite bathroom",
+        "dual vanities",
+        "freestanding bathtub",
+        "walk-in shower",
+        "marble walls"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "modern bathroom",
+          "marble design",
+          "sleek fixtures"
+        ]
+      },
+      "why_kept": "This segment highlights the high-end 'Aesthetic_Broll' and functional luxury of the en-suite bathroom, featuring dual vanities, a freestanding tub, and a walk-in shower, showcasing a complete luxury experience."
+    },
+    {
+      "start_time": "01:14.000",
+      "end_time": "01:20.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "building exterior",
+        "high-rise",
+        "architecture",
+        "link in bio"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "city"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "modern architecture",
+          "cityscape"
+        ]
+      },
+      "why_kept": "This segment provides an external view of the building ('Product_Standalone') where the penthouse is located and includes a clear 'Offer_CTA' for further engagement, completing the video's purpose."
+    }
+  ]
+}

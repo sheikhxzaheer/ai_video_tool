@@ -1,0 +1,105 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold\\Pillow Wash 2.mp4",
+  "detailed_description": "This video demonstrates the initial steps of cleaning a heavily stained pillow. It begins by showcasing the problem: a pillow covered in visible mold and dirt. The user then proceeds to prepare a cleaning solution using Clorox for Colors, pouring it into a bucket. Finally, the soiled pillow is submerged in the soapy water, initiating the washing process to tackle the extensive stains.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.800",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "dirty pillow",
+        "mold",
+        "stains",
+        "woman's face",
+        "frustration"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "focused shot on pillow"
+        ]
+      },
+      "why_kept": "This segment establishes the core problem of the video – the heavily stained pillow – which serves as the primary visual hook and motivation for the subsequent cleaning process. The woman's facial expression conveys the severity of the issue."
+    },
+    {
+      "start_time": "00:06.200",
+      "end_time": "00:09.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "Clorox for Colors bottle",
+        "pouring liquid",
+        "blue bucket",
+        "measuring cup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright, practical, close-up on hands"
+        ]
+      },
+      "why_kept": "This segment introduces the specific cleaning product and demonstrates its initial interaction, showing the crucial step of preparing the cleaning solution. It highlights the 'Product Interaction' and 'Mechanism of Action' as part of the solution."
+    },
+    {
+      "start_time": "00:09.900",
+      "end_time": "00:17.900",
+      "structural_tags": [
+        "Human_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "pillow in bucket",
+        "water filling",
+        "suds",
+        "hand mixing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "practical",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic movement",
+          "foaming water",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This segment shows the direct 'Process/Labor' of beginning the clean – placing the dirty item into the prepared solution and initiating the wash. It's a key part of the 'Mechanism of Action' for cleaning the pillow."
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Korean woman\\ssstik.io_@koreangrandma_1761434095849.mp4",
+  "detailed_description": "This video features a '70-year-old Korean grandmother' demonstrating the mixsoon Bean Essence. It highlights the product's unique, sticky 'natto-like' texture from fermented soybean extract. The woman applies the essence, illustrating how gently patting it into the skin eliminates stickiness and results in a radiant, glowing complexion. The demonstration emphasizes the product's immediate benefits and ease of use for achieving youthful skin.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "bunny headband",
+        "applying product",
+        "sticky texture",
+        "skin care"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "natural look",
+          "smooth motion"
+        ]
+      },
+      "why_kept": "This segment acts as a strong visual hook, immediately showcasing the product's unique sticky texture and the model's positive reaction, piquing viewer interest."
+    },
+    {
+      "start_time": "00:02.100",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "woman",
+        "mixsoon Bean Essence bottle",
+        "dispensing product",
+        "essence drop"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "product branding visible"
+        ]
+      },
+      "why_kept": "This segment clearly introduces the product by name and demonstrates the act of dispensing it, providing essential context before the full application."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:12.700",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying essence",
+        "rubbing",
+        "patting",
+        "sticky texture disappearing",
+        "radiant skin",
+        "glowing face",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "satisfied",
+          "radiant"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "natural skin glow",
+          "smooth application"
+        ]
+      },
+      "why_kept": "This is the core demonstration segment, showing the full process of applying the essence, addressing its unique texture, and concluding with the clear 'radiant glow' transformation and the model's satisfaction. It provides the main value proposition."
+    }
+  ]
+}

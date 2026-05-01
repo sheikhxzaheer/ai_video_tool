@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\3.mp4",
+  "detailed_description": "This video provides a clear, animated explanation of how DHT (Dihydrotestosterone) contributes to hair loss. It meticulously illustrates a cross-section of the scalp, showing a healthy hair follicle gradually exposed to DHT molecules. The animation demonstrates the progressive miniaturization of the hair strand—it thins, lightens, and the follicle shrinks—culminating in the hair falling out. This sequence effectively visualizes the underlying biological mechanism of androgenetic alopecia, highlighting the 'problem state' caused by DHT.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.514",
+      "structural_tags": [
+        "Problem_State",
+        "Mechanism_Of_Action",
+        "Cellular_Deep_Dive",
+        "Micro_Nutrients_Anim",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Hair follicle",
+        "hair strand",
+        "DHT molecules",
+        "scalp cross-section",
+        "hair miniaturization",
+        "hair loss"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "scientific",
+          "educational",
+          "clear labeling",
+          "anatomical cross-section"
+        ]
+      },
+      "why_kept": "This entire segment serves as the 'Semantic Core' by demonstrating the complete process of DHT affecting a hair follicle, from its healthy state to its miniaturization and eventual hair loss. It clearly illustrates the 'Mechanism of Action' and the 'Problem State' without any extraneous footage or setup, making the entire duration a 'Hero Moment' of explanation."
+    }
+  ]
+}

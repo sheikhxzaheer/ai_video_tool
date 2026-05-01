@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\Blood Flow 3.mp4",
+  "detailed_description": "This video provides a detailed 3D animation illustrating the dynamic flow of various blood components within a blood vessel. It visually represents red blood cells, white blood cells, and platelets moving through the bloodstream. Some red blood cells are depicted with an elongated, sickle-like shape, suggesting a potential focus on conditions affecting blood cell morphology. The animation offers a cellular deep dive into the microscopic environment of circulating blood, highlighting the different cell types and their movement.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.600",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Cellular_Deep_Dive",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "red blood cells",
+        "white blood cells",
+        "platelets",
+        "blood vessel",
+        "blood flow",
+        "sickle cells",
+        "3D animation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "scientific visualization",
+          "medical illustration",
+          "fluid dynamics"
+        ]
+      },
+      "why_kept": "The entire video serves as the semantic core, demonstrating the core concept of blood cell movement and diversity within a vessel through scientific animation. It directly showcases the 'Mechanism_Of_Action' and provides a 'Cellular_Deep_Dive', fulfilling the criteria of a professional action or process being the hero moment. There is no extraneous content, setup, or post-action dead air, adhering to the 'no-mistake' rule."
+    }
+  ]
+}

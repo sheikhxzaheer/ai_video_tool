@@ -1,0 +1,86 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Squeeze out shampoo\\Shampoo transition - generic to spartan.mov",
+  "detailed_description": "The video showcases two distinct product interactions involving dispensing hair care products into a person's palm in a shower setting. Initially, a L'Oréal Elvive Dream Lengths product is pumped, revealing a small amount of white, creamy shampoo. Following this, the video transitions to demonstrate the Spartan Root Activator Shampoo being dispensed. A larger quantity of dark brown liquid shampoo is shown, with the product's branding and hair growth benefits clearly visible. Both segments emphasize the tactile experience of using the product, highlighting their textures and forms.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.750",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "hands",
+        "L'Oréal Elvive bottle",
+        "pink pump",
+        "white shampoo",
+        "marble wall",
+        "shower caddy"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "close-up hands"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial product interaction by dispensing a small amount of L'Oréal Elvive shampoo, establishing the core action of the video in a shower setting."
+    },
+    {
+      "start_time": "00:06.750",
+      "end_time": "00:14.333",
+      "structural_tags": [
+        "Product_Interaction",
+        "Product_Intro",
+        "Macro_Detail",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "hands",
+        "Spartan shampoo bottle",
+        "black pump",
+        "brown shampoo",
+        "marble wall",
+        "shower head",
+        "hair growth"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "close-up hands",
+          "clear product label"
+        ]
+      },
+      "why_kept": "This segment serves as the primary demonstration of product interaction, clearly showcasing the Spartan Root Activator Shampoo being dispensed into the palm, with visible product branding and texture, representing a key 'Hero Moment' of product usage."
+    }
+  ]
+}

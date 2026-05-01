@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Dry skin before_after\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ð▓ÐïÐÇð░ð▓ð¢ð©ð▓ð░ð¢ð©ðÁ ð║ð¥ðÂð©.mp4",
+  "detailed_description": "This video showcases a visible skin transformation over 26 days of using collagen. It begins with a 'before' shot, showing the individual's skin with some redness and minor imperfections. Subsequent segments display the skin's appearance after 10 days and then 26 days, highlighting a progressive improvement in clarity, tone, and reduction of redness. The video's core value lies in demonstrating the potential 'before and after' effects of collagen on skin health.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.228",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Social_Proof",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "skin",
+        "redness",
+        "complexion",
+        "time progression",
+        "skin improvement"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "observational"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "direct gaze",
+          "before and after comparison"
+        ]
+      },
+      "why_kept": "This entire segment represents the semantic core as it clearly demonstrates the 'Before/After' transformation of the subject's skin after using collagen over a period of 26 days. The explicit text overlays at 00:00.000, 00:02.833, and 00:06.967 directly highlight the progressive results, which is the primary value proposition of the video."
+    }
+  ]
+}

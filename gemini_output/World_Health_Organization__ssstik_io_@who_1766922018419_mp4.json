@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\World Health Organization\\ssstik.io_@who_1766922018419.mp4",
+  "detailed_description": "Dr. Tedros Adhanom Ghebreyesus, the Director-General of the World Health Organization, delivers a crucial message urging all countries to prioritize testing, isolation, and contact tracing to combat the pandemic. He emphasizes that these measures are the most effective way to prevent infections, save lives, and break the chains of transmission. Using the analogy of fighting a fire blindfolded, he underscores the impossibility of stopping the pandemic without knowing who is infected, and highlights the urgent need for greater escalation in these critical public health responses.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:43.000",
+      "structural_tags": [
+        "Key_Information",
+        "UGC_Talking_Head",
+        "Urgency_Rush",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "Dr. Tedros Adhanom Ghebreyesus",
+        "speaking",
+        "microphone",
+        "WHO logo backdrop",
+        "press conference"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "urgent",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address",
+          "formal setting",
+          "clear audio",
+          "blue backdrop"
+        ]
+      },
+      "why_kept": "This segment contains the primary message and expertise delivered by the WHO Director-General, which directly addresses the core purpose of the video: conveying critical public health information during a pandemic. It falls under the 'Key Information' hero moment criteria as a 'Talking Head' segment making a main point and a call to action. The 'Visual Priority Rule' is not applicable as there is no physical product being demonstrated for interaction; the spoken message itself is the core value."
+    }
+  ]
+}

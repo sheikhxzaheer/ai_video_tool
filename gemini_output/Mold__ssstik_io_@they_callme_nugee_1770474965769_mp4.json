@@ -1,0 +1,113 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold\\ssstik.io_@they_callme_nugee_1770474965769.mp4",
+  "detailed_description": "This video documents the transformation of a severely damaged and mold-infested cabinet area under a kitchen sink. It showcases the extensive grime and decay before any work begins, highlighting the urgent need for repair. Subsequently, the video illustrates the process of removing the contaminated wooden base, revealing the underlying structure. The final segments present the remarkable cleanup and renovation, displaying a clean subfloor and new laminate, effectively demonstrating a complete and successful restoration.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Home_Kitchen",
+        "Messy_Unorganized",
+        "Malfunction_Fail"
+      ],
+      "visual_keywords": [
+        "kitchen sink",
+        "open cabinet",
+        "mold",
+        "dirt",
+        "damaged wood",
+        "pipes",
+        "spray foam"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "documentary style"
+        ]
+      },
+      "why_kept": "This segment establishes the severe problem, showing the extent of the mold and water damage under the kitchen sink, which is critical for contextualizing the subsequent repair."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Home_Kitchen",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "hand lifting wood",
+        "damaged cabinet base removed",
+        "black residue",
+        "sparkling effect"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "action shot",
+          "aesthetic overlay"
+        ]
+      },
+      "why_kept": "This segment shows the process of removing the damaged, moldy wood, which is a key part of 'doing the work' to address the problem."
+    },
+    {
+      "start_time": "00:16.000",
+      "end_time": "00:23.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Home_Kitchen",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "cleaned cabinet area",
+        "new flooring",
+        "pipes",
+        "spray foam",
+        "no mold"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "clean aesthetics",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment clearly showcases the successful outcome of the repair, presenting a clean and transformed area under the sink, directly contrasting the initial problem state."
+    }
+  ]
+}

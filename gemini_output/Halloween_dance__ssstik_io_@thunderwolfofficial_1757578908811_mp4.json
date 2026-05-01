@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Halloween_dance\\ssstik.io_@thunderwolfofficial_1757578908811.mp4",
+  "detailed_description": "This video captures a dramatic costume transformation, beginning with a man in a black suit bending down to retrieve a Scream 'Ghostface' mask. He then swiftly dons the mask and hooded cloak. The scene transitions with a striking red filter, revealing the fully transformed 'Ghostface' character making characteristic, menacing gestures, effectively showcasing the complete costume and its unsettling effect.",
+  "segments": [
+    {
+      "start_time": "00:05.181",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Result_Transformation",
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "High_Energy",
+        "Shock_Surprise",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man in suit",
+        "Ghostface mask",
+        "hooded cloak",
+        "costume transformation",
+        "red lighting",
+        "hallway",
+        "gestures"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "other"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dramatic lighting",
+          "red filter",
+          "costume reveal"
+        ]
+      },
+      "why_kept": "This segment is the semantic core because it demonstrates the full process of transformation into the Ghostface character, from picking up the mask to the complete costume reveal and performance, highlighted by a dramatic visual change with the red lighting. It captures the product interaction, the reveal, and the emotional climax of the costume's effect."
+    }
+  ]
+}

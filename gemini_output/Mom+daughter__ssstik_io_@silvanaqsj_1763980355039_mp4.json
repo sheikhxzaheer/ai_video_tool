@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mom+daughter\\ssstik.io_@silvanaqsj_1763980355039.mp4",
+  "detailed_description": "This video features a mother and her 17-year-old daughter dancing together in a hallway, both dressed in vibrant floral dresses. The on-screen text highlights the age difference, stating the mother is 25 years older than her daughter. The video emphasizes their bond and shared stylish aesthetic, as they energetically move to the music, showcasing their coordinated outfits and positive interaction.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:15.549",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "two women",
+        "daughter",
+        "mom",
+        "floral dresses",
+        "dancing",
+        "hallway",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "social media style",
+          "upbeat tempo"
+        ]
+      },
+      "why_kept": "The entire duration of the video serves as the semantic core, consistently showcasing the mother and daughter dancing and displaying their matching outfits. The on-screen text providing the age information is present throughout, establishing the main premise and 'Visual Hook' from start to finish. There are no setup frames, dead air, or irrelevant sections to trim."
+    }
+  ]
+}

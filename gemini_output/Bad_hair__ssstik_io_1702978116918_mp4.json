@@ -1,0 +1,243 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\ssstik.io_1702978116918.mp4",
+  "detailed_description": "This video captures the transformative journey of Gino, a 34-year-old man, who was tired of his receding hairline limiting his styling options. The process begins with shaving his existing hair, followed by the careful application of a Novo Cabello hair system using specialized glue. The system is then precisely cut and styled. The highlight of the video is the emotional reveal as Gino removes his sunglasses, showcasing his genuine shock and immense joy at his new, full head of hair. The video concludes with various angles of his stylish new look and his delighted reaction, demonstrating the significant positive impact of the hair system.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.900",
+      "structural_tags": [
+        "Problem_State",
+        "Before_After",
+        "Face_Reaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "receding hairline",
+        "bald spot",
+        "sad expression",
+        "outdoor setting"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "documentary style"
+        ]
+      },
+      "why_kept": "This segment establishes the problem state by clearly showing the subject's receding hairline and initial appearance, providing crucial 'before' context for the transformation."
+    },
+    {
+      "start_time": "00:07.400",
+      "end_time": "00:14.600",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Process_Labor",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "barber clippers",
+        "shaving head",
+        "hair removal"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "focused action",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial preparation process, showing the professional action of shaving the existing hair, which is a key part of the hair system application."
+    },
+    {
+      "start_time": "00:14.600",
+      "end_time": "00:19.400",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "glue application",
+        "hair system placement",
+        "pressing hair system"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed work",
+          "precise application"
+        ]
+      },
+      "why_kept": "This segment directly showcases the product interaction and mechanism of action, with the application of glue and the strategic placement of the hair system, highlighting the 'doing the work' aspect."
+    },
+    {
+      "start_time": "00:19.400",
+      "end_time": "00:22.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "hair cutting",
+        "styling",
+        "fade haircut",
+        "new hair system"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused cutting",
+          "initial styling"
+        ]
+      },
+      "why_kept": "This segment illustrates the final professional labor involved in cutting and styling the new hair system, showing the immediate transformation and blending with the existing hair."
+    },
+    {
+      "start_time": "00:22.500",
+      "end_time": "00:23.200",
+      "structural_tags": [
+        "Visual_Hook",
+        "Before_After",
+        "Product_Intro"
+      ],
+      "visual_keywords": [
+        "man with sunglasses",
+        "novo cabelo text on glasses"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "anticipatory",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "stylized text overlay",
+          "pre-reveal setup"
+        ]
+      },
+      "why_kept": "This short segment acts as a visual hook, building anticipation for the main reveal while subtly introducing the product name on the sunglasses."
+    },
+    {
+      "start_time": "00:33.000",
+      "end_time": "00:52.500",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Reveal_Result",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Social_Proof",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man removing sunglasses",
+        "shocked expression",
+        "joyful smile",
+        "touching new hair",
+        "stylist reaction"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "shock_surprise",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dramatic reveal",
+          "authentic reaction"
+        ]
+      },
+      "why_kept": "This is the core 'Hero Moment' – the emotional climax and direct reveal of the transformation. The subject's raw, positive facial expressions and immediate interaction with his new hair clearly demonstrate the value and impact of the hair system."
+    },
+    {
+      "start_time": "00:52.500",
+      "end_time": "01:19.900",
+      "structural_tags": [
+        "Result_Transformation",
+        "Social_Proof",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Product_Interaction",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "new haircut",
+        "stylish hair",
+        "man smiling",
+        "various angles of hair",
+        "call to action"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "outdoor"
+        ],
+        "mood": [
+          "positive",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "showcasing angles",
+          "satisfied customer"
+        ]
+      },
+      "why_kept": "This segment provides comprehensive 'after' shots of the styled hair system from multiple angles, reinforcing the successful transformation and the subject's sustained positive reaction. It concludes with a direct call to action."
+    }
+  ]
+}

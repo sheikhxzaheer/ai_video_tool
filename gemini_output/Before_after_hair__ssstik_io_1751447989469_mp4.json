@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ssstik.io_1751447989469.mp4",
+  "detailed_description": "This video showcases a man's significant transformation in facial hair and hairstyle over time, presented through a montage of quick cuts. The progression begins with a neatly trimmed mustache, evolves into a full, well-maintained beard, and culminates in a long, bushy beard with accompanying changes in his curly hair, including various styles and accessories like headbands and beanies. Each frame acts as a visual 'reveal' of his current appearance, emphasizing the growth and styling journey.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "01:02.160",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "beard",
+        "mustache",
+        "curly hair",
+        "headband",
+        "beanie",
+        "facial hair growth",
+        "hairstyle change",
+        "various shirts"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "car",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "quick cuts",
+          "consistent framing",
+          "neutral expression",
+          "montage style",
+          "time-lapse feel"
+        ]
+      },
+      "why_kept": "The entire video is a continuous visual narrative demonstrating the subject's personal transformation in facial hair and hairstyle. Each short clip contributes to this overarching 'before and after' journey, making the whole duration the semantic core where the 'result' or 'reveal' of his evolving look is consistently presented."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Fashion\\ssstik.io_@parismatch_1763032749893.mp4",
+  "detailed_description": "This video features a model confidently walking down a vibrant red runway, presenting a sophisticated black lingerie set. She pauses briefly to pose with her hands on her hips, flashing a radiant smile to the audience, before turning to walk away, revealing the intricate details of the garment from all angles. The clip captures the essence of a fashion show, highlighting the elegance and design of the lingerie in a dynamic and engaging manner.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:07.49",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "model",
+        "lingerie",
+        "corset",
+        "garter",
+        "stockings",
+        "runway",
+        "fashion show",
+        "red background",
+        "audience",
+        "smiling",
+        "walking",
+        "posing",
+        "black outfit"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "premium",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "professional lighting",
+          "clean background",
+          "fashion show aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the semantic core because it fully captures the 'Reveal/Result' of the fashion item and the 'Product Interaction' through the model's presentation. The model's confident walk, pose, and clear 'Face_Reaction' (smile) serve as an 'Emotional Climax' that effectively showcases the lingerie, making the whole sequence a continuous 'Hero Moment' of product demonstration."
+    }
+  ]
+}

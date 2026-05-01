@@ -1,0 +1,146 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Product\\NightMask_ZoeMartino_poductdemo.mp4",
+  "detailed_description": "This video features a woman enthusiastically showcasing her 2025 pledge centered around self-care and embracing her true self using Korean beauty products. She demonstrates the application of a collagen mask with a spatula and introduces a collagen niacinamide jelly cream, revealing its texture and applying it. The video emphasizes a positive and unapologetic approach to a skincare routine, culminating in a satisfied display of both products.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.999",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman smiling",
+        "holding skincare tube",
+        "pink tube",
+        "spatula",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment serves as the visual hook, introducing the overarching '2025 pledge' theme and the initial product alongside the application tool, setting the context for the routine."
+    },
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:04.199",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman applying mask",
+        "pink cream on face",
+        "spatula use",
+        "smiling expression",
+        "touching face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft focus",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment directly demonstrates the process of applying the first skincare product, capturing the hands-on interaction and the subject's positive emotional response, which is central to the self-care message."
+    },
+    {
+      "start_time": "00:04.200",
+      "end_time": "00:05.699",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman holding skincare jar",
+        "pink jar",
+        "opening lid",
+        "revealing product",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear product view",
+          "gentle movement"
+        ]
+      },
+      "why_kept": "This segment introduces the second key product, showing its presentation and the action of opening it, which is a significant product interaction moment in the routine."
+    },
+    {
+      "start_time": "00:05.700",
+      "end_time": "00:07.600",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Result_Transformation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "scooping cream from jar",
+        "applying cream to face",
+        "woman smiling",
+        "holding both products"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "smooth application",
+          "final product display"
+        ]
+      },
+      "why_kept": "This segment is the ANCHOR as it concludes the product application process, showcases the final step of the routine, and provides a clear 'result' by presenting both products used with a satisfied smile, effectively summarizing the video's core message."
+    }
+  ]
+}

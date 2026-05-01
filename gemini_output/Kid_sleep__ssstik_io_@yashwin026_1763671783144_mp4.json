@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid sleep\\ssstik.io_@yashwin026_1763671783144.mp4",
+  "detailed_description": "The video captures a deeply serene moment of a baby sleeping peacefully, nestled in soft textiles. A gentle hand lovingly caresses the baby's back, emphasizing a profound sense of comfort, security, and tranquility. The scene is accompanied by a calm voiceover describing the feeling of finding a true sanctuary and a place of belonging, where worries dissipate, evoking a strong sense of home and peace.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.866",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "sleeping baby",
+        "baby in blue fluffy top",
+        "light pants",
+        "gentle hand touch",
+        "peaceful",
+        "cozy",
+        "pillow",
+        "blanket"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "comforting"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "warm tones",
+          "gentle movement",
+          "intimate shot"
+        ]
+      },
+      "why_kept": "This entire segment represents the Semantic Core, as it continuously shows the 'emotional climax' of a baby in a state of profound peace and comfort, reinforced by the 'human interaction' of a gentle touch and a narrative voiceover about finding a true home and peace. No trimming was required as the core message and visual action are consistent throughout the video's duration."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\532531331_An_rEaDvu6GHcsb0VX3z9_S8hsjgJfok0z_hqadZv60c97OpLoQe_6jSMz.mp4",
+  "detailed_description": "This video showcases a men's hair styling routine. It starts with the individual applying a styling product to his wet hair, meticulously working it through with his hands and a specialized comb to create a refined, slicked-back look with volume. The process emphasizes careful attention to detail in shaping the hair to achieve the desired style. The video culminates in a clear reveal of the finished hairstyle from various angles, highlighting the smooth, sleek result and the man's visible satisfaction with the transformation.",
+  "segments": [
+    {
+      "start_time": "00:01.311",
+      "end_time": "00:12.700",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "The_Process"
+      ],
+      "visual_keywords": [
+        "man",
+        "hands",
+        "hair product",
+        "styling hair",
+        "comb",
+        "slicked back hair",
+        "wet hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment demonstrates the core action of the video, showing the application of a hair product and the detailed styling process using both hands and a comb, which is a key 'Process/Labor' hero moment."
+    },
+    {
+      "start_time": "00:12.700",
+      "end_time": "00:19.466",
+      "structural_tags": [
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "styled hair",
+        "slicked back hair",
+        "smile",
+        "side profile"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment serves as the 'Reveal/Result' of the styling process, showcasing the finished hairstyle from multiple angles, including the 'Emotional Climax' of the man's satisfied smile."
+    }
+  ]
+}

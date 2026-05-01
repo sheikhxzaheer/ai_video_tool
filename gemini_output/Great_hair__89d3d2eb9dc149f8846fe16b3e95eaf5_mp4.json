@@ -1,0 +1,76 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\89d3d2eb9dc149f8846fe16b3e95eaf5.mp4",
+  "detailed_description": "This video presents a straightforward before-and-after transformation of a man's appearance, specifically focusing on his facial hair. The initial segment showcases the man with a beard and curly hair, making subtle gestures towards his face, establishing the 'before' state. This is then abruptly followed by a 'reveal' segment where the man is clean-shaven and wearing a cap, signifying a dramatic and youthful change. The on-screen emojis '🧔 to 👶' clearly communicate the intended transformation from a bearded adult to a 'baby-faced' look.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.168",
+      "structural_tags": [
+        "Visual_Hook",
+        "Before_After",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "beard",
+        "curly hair",
+        "car interior",
+        "touching face",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "selfie perspective"
+        ]
+      },
+      "why_kept": "This segment serves as the crucial 'before' state, visually introducing the man with his beard and curly hair, setting the stage for the transformation. His interaction with his beard subtly highlights this feature, making the subsequent change more impactful."
+    },
+    {
+      "start_time": "00:11.168",
+      "end_time": "00:13.138",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "clean-shaven",
+        "cap",
+        "curly hair",
+        "indoor setting",
+        "looking at camera"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "artificial light",
+          "casual style",
+          "candid look"
+        ]
+      },
+      "why_kept": "This segment is the 'reveal' or 'after' state, directly showcasing the result of the transformation – the man is now clean-shaven, aligning perfectly with the '👶' emoji. It's the culmination of the video's core message, demonstrating the significant change in appearance."
+    }
+  ]
+}

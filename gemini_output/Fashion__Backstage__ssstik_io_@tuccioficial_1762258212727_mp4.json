@@ -1,0 +1,207 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Fashion\\Backstage\\ssstik.io_@tuccioficial_1762258212727.mp4",
+  "detailed_description": "This video offers a captivating glimpse into the backstage preparations of a TUCCI fashion runway event, dated 21.08.25. It highlights the meticulous process of styling models, from hair and makeup to carefully curated outfits, showcasing the professional labor involved. Viewers see mood boards, stylists at work, and models interacting with the collection, culminating in shots of the final looks. The montage provides an aesthetic and dynamic behind-the-scenes look at the creation of a fashion presentation.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:01.00",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Product_Standalone",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "garment",
+        "TUCCI logo",
+        "runway date"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "graphic overlay"
+        ]
+      },
+      "why_kept": "This segment introduces the brand and the specific event, acting as a title card that sets the context for the entire 'behind-the-scenes' narrative."
+    },
+    {
+      "start_time": "00:02.04",
+      "end_time": "00:03.04",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "The_Process_Labor"
+      ],
+      "visual_keywords": [
+        "stylist",
+        "model",
+        "hair styling",
+        "makeup station"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "busy scene"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the active preparation phase, highlighting the professional labor and human interaction involved in getting models ready backstage."
+    },
+    {
+      "start_time": "00:06.00",
+      "end_time": "00:07.00",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "The_Process_Labor",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "camera",
+        "look sheets",
+        "model photos",
+        "TUCCI branding"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "documentation",
+          "organized setup"
+        ]
+      },
+      "why_kept": "This segment illustrates the meticulous planning and documentation process for each look, which is a crucial part of organizing a fashion show or photoshoot backstage."
+    },
+    {
+      "start_time": "00:08.00",
+      "end_time": "00:09.00",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "stylist",
+        "model",
+        "adjusting garment",
+        "dress",
+        "sunglasses"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused work",
+          "detailed styling"
+        ]
+      },
+      "why_kept": "This is the strongest 'Hero Moment' demonstrating 'The Process/Labor' and 'Product Interaction,' where a professional stylist is actively adjusting and perfecting a garment on a model, embodying the core work of backstage preparation."
+    },
+    {
+      "start_time": "00:12.00",
+      "end_time": "00:13.00",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Reveal_Result",
+        "Aesthetic_Broll",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "model",
+        "full outfit",
+        "look sheets",
+        "posing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "showcasing look",
+          "confident pose",
+          "warm filter"
+        ]
+      },
+      "why_kept": "This segment represents 'The Reveal/Result' of the styling process, showcasing a completed look on a model and her interaction with the final outfit, contextualized by the planning boards in the background."
+    },
+    {
+      "start_time": "00:16.00",
+      "end_time": "00:17.00",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Reveal_Result",
+        "Aesthetic_Broll",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "models",
+        "multiple outfits",
+        "posing",
+        "reflective surface"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "group shot",
+          "glamorous lighting",
+          "stylized effect"
+        ]
+      },
+      "why_kept": "This segment effectively showcases multiple final looks and models together, reinforcing the overall collection and the aesthetic outcome of the extensive backstage work, adding a high-energy, premium feel."
+    }
+  ]
+}

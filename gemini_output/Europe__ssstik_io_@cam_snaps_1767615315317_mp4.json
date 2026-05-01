@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Europe\\ssstik.io_@cam_snaps_1767615315317.mp4",
+  "detailed_description": "This video is an aesthetic montage showcasing iconic European cityscapes transitioning from dusk to night. It features famous landmarks like the Eiffel Tower in Paris, the Duomo in Florence, the canals of Venice, bustling street cafes in Rome and Verona, and the ancient Parthenon in Athens. The compilation evokes a sense of calm, beauty, and the enchanting atmosphere of European travel after sunset, serving as a visual hook.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "Eiffel Tower",
+        "Duomo Florence",
+        "Venice Canal",
+        "Rome street cafe",
+        "Verona street",
+        "Parthenon Athens",
+        "cityscapes",
+        "dusk",
+        "night lights",
+        "architecture"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "street",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "romantic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dusk lighting",
+          "night illumination",
+          "warm tones",
+          "high-quality cinematography",
+          "iconic landmarks"
+        ]
+      },
+      "why_kept": "The entire video serves as a cohesive visual hook, presenting a montage of iconic European travel destinations at dusk and night. There are no specific 'hero actions' like product interaction, process, or emotional climax as defined in the criteria; instead, the value is in the aesthetic presentation of these diverse locations, making the complete sequence the semantic core of the video."
+    }
+  ]
+}

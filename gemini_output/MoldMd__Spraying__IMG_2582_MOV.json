@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Spraying\\IMG_2582.MOV",
+  "detailed_description": "This video vividly captures the initial process of addressing a common household problem: mold in a bathtub. A hand is shown actively spraying 'MoldMD Mold Spot Remover' onto a severely mold-infested caulk line in a white bathtub. The cleaner is applied directly to the dark patches of mold, demonstrating the product's mechanism of action and ease of use. The segment focuses on the hands-on application of the cleaning solution, highlighting the start of the transformation from dirty to clean.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.186",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hand",
+        "spraying",
+        "spray bottle",
+        "MoldMD",
+        "mold remover",
+        "bathtub",
+        "tile",
+        "mold",
+        "grime",
+        "cleaning"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "high angle shot",
+          "focused on action",
+          "white bathtub",
+          "gray shower hose",
+          "close-up on mold"
+        ]
+      },
+      "why_kept": "This entire segment serves as the 'Semantic Core' because it directly demonstrates the product interaction and the process of applying the mold remover to the problem area. It fulfills the 'Process/Labor' and 'Product Interaction' hero moment criteria without any setup, dead air, or extraneous footage, making it a complete and valuable demonstration."
+    }
+  ]
+}

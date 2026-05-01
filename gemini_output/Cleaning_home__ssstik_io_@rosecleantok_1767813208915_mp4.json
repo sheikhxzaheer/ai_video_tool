@@ -1,0 +1,155 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cleaning home\\ssstik.io_@rosecleantok_1767813208915.mp4",
+  "detailed_description": "The video demonstrates a dedicated cleaner's hands-on approach to scrubbing tiled bathroom floors. She explains that while she usually uses a mop, certain small spaces like this bathroom, especially when adjacent to carpeted areas, require getting down on her hands and knees for a thorough clean. The cleaner meticulously scrubs the floor around the toilet, shower, and into the connecting hallway using microfiber cloths, highlighting her commitment to achieving a spotless result even with extra effort. The narrative provides context for this specific, labor-intensive cleaning method.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Problem_State",
+        "Process_Labor",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman cleaning floor",
+        "kneeling",
+        "green microfiber cloth",
+        "toilet",
+        "tiled bathroom floor",
+        "scrubbing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "everyday setting"
+        ]
+      },
+      "why_kept": "This segment introduces the core action of cleaning the floor on hands and knees and establishes the context (problem state) through the voiceover, making it the strongest context-setting clip."
+    },
+    {
+      "start_time": "00:19.900",
+      "end_time": "00:21.300",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman cleaning floor",
+        "kneeling",
+        "green microfiber cloth",
+        "toilet",
+        "tiled floor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "everyday setting"
+        ]
+      },
+      "why_kept": "This short segment continues to show the hands-on cleaning process around the toilet, reinforcing the primary action and product interaction."
+    },
+    {
+      "start_time": "00:27.500",
+      "end_time": "00:43.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "woman cleaning floor",
+        "kneeling",
+        "green microfiber cloth",
+        "shower",
+        "cabinet",
+        "tiled floor",
+        "scrubbing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "everyday setting"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the 'Process/Labor' of cleaning various sections of the bathroom floor, with the voiceover providing key information about why this method is chosen for specific areas."
+    },
+    {
+      "start_time": "00:43.000",
+      "end_time": "01:01.300",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman cleaning floor",
+        "kneeling",
+        "green microfiber cloth",
+        "blue microfiber cloth",
+        "tiled floor",
+        "hallway",
+        "bedroom in background",
+        "looking at camera",
+        "slight smile"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom",
+          "hallway"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "everyday setting"
+        ]
+      },
+      "why_kept": "This final cleaning sequence extends the 'Process/Labor' to the hallway, includes a clear 'Product_Interaction' showing multiple cloths, and culminates with a direct 'Face_Reaction' to the camera, conveying satisfaction with the completed work, implicitly showing a 'Result_Transformation'."
+    }
+  ]
+}

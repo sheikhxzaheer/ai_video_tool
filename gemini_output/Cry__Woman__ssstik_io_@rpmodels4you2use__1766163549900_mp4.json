@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cry\\Woman\\ssstik.io_@rpmodels4you2use__1766163549900.mp4",
+  "detailed_description": "The video features a young woman with blonde hair and blue eyes crying, with her face flushed and tears visible. She expresses deep sadness and longing, explicitly stating via on-screen text, \"i just want my lover boy back.\" Her emotional distress is central to the entire clip, showcasing a moment of vulnerability and heartbreak. The setting is a cozy, decorated room, emphasizing the personal and intimate nature of her feelings.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:15.53",
+      "structural_tags": [
+        "Face_Reaction",
+        "Negative_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "crying woman",
+        "blonde hair",
+        "blue eyes",
+        "red face",
+        "tears",
+        "sadness",
+        "longing",
+        "on-screen text",
+        "ivy decoration"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "sad",
+          "emotional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "candid",
+          "personal",
+          "emotional focus"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it captures the complete emotional climax of the video. The woman's visible crying, flushed face, and the explicit on-screen text directly convey the core message and emotional state, fulfilling the 'Emotional Climax' and 'Key Information' criteria. There are no preceding setups or post-action dead air; the entire duration is dedicated to this singular emotional expression."
+    }
+  ]
+}

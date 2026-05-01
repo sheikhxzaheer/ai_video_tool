@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid playing\\ssstik.io_@danutu.gur_1763721769648.mp4",
+  "detailed_description": "The video captures a lively and heartwarming scene of three young children engaged in imaginative play within a home environment. The central focus is on a girl in heart-patterned pajamas diligently trying to put a red soft toy, resembling a boxing glove, onto the hand of a younger child. An older boy supervises, occasionally interacting with a toy workbench, creating a charming display of sibling interaction and playful activity amidst scattered toys. The children's focus and gentle efforts highlight their engagement and cooperative spirit during playtime.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "01:13.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Product_Interaction",
+        "Process_Labor",
+        "Home_Kitchen",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "children",
+        "playing",
+        "toys",
+        "toy workbench",
+        "red toy glove",
+        "girl",
+        "boy",
+        "toddler",
+        "pajamas",
+        "interaction",
+        "dressing up"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "bright room",
+          "candid"
+        ]
+      },
+      "why_kept": "This entire segment represents the semantic core of the video, showcasing the full process of children engaging in playful human interaction and product interaction. The primary 'labor' involves the girl's persistent effort to put the red toy glove on the younger child, demonstrating focused play and care. The continuous nature of their interaction, positive emotions, and active lifestyle elements, along with the authentic setting, make this an untrimmable 'hero moment' according to the 'No-Mistake' rule, as the action is ongoing from start to finish."
+    }
+  ]
+}

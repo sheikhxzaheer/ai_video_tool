@@ -1,0 +1,117 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Halloween_dance\\ssstik.io_@cassalanaa_1757652189394.mp4",
+  "detailed_description": "This video showcases a dramatic character and costume transformation of two women. It begins with them in a darker, more casual aesthetic featuring black and white striped clothing, which then transitions through a brief glitch effect. The core of the video reveals them in vibrant, theatrical clown costumes with bright red wigs, striking energetic poses with oversized props like scissors and a mallet against a brightly lit purple background, exuding a playful and high-energy mood that highlights their creative transformation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Before_After",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "two women",
+        "black pajamas",
+        "striped sweater",
+        "long black hair",
+        "makeup",
+        "white background",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state, presenting the subjects in their initial appearance and setting up the visual contrast for the upcoming transformation, serving as an effective visual hook."
+    },
+    {
+      "start_time": "00:02.500",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "visual glitch",
+        "screen artifacts",
+        "color shift"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "digital effect",
+          "transition"
+        ]
+      },
+      "why_kept": "This short segment is crucial as it visually represents the transformation moment itself, acting as the bridge between the 'before' and 'after' looks."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "two women",
+        "red wigs",
+        "clown costumes",
+        "checkered pattern",
+        "stripes",
+        "red corset",
+        "red gloves",
+        "oversized scissors",
+        "mallet prop",
+        "purple background",
+        "posing",
+        "dancing",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "vibrant lighting",
+          "theatrical"
+        ]
+      },
+      "why_kept": "This is the primary hero moment, showcasing the complete transformed characters, their elaborate costumes, props, and energetic performance. It embodies the 'after' state and the main action of the video, demonstrating the creative transformation with high energy and positive emotion."
+    }
+  ]
+}

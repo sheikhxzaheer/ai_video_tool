@@ -1,0 +1,94 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold\\ssstik.io_@remodelingtips_1770735564040.mp4",
+  "detailed_description": "The video vividly illustrates the severe consequences of leaving a house in Florida unattended and without air conditioning for just three weeks. It showcases widespread black mold infestations covering walls and ceilings in various rooms, including the kitchen, bathroom, and bedroom, highlighting the rapid deterioration of the property. The initial shots reveal visually striking damage, setting a dire 'problem state.' The video then transitions to show the beginning of the remediation process, with workers starting to dismantle flooring in a visibly damp and damaged area, emphasizing the extensive work required to address such environmental neglect.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Home_Kitchen",
+        "Messy_Unorganized",
+        "Shock_Surprise",
+        "Negative_Emotion",
+        "Malfunction_Fail"
+      ],
+      "visual_keywords": [
+        "mold",
+        "walls",
+        "ceiling",
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "abandoned house",
+        "damage"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home",
+          "kitchen",
+          "bathroom",
+          "bedroom"
+        ],
+        "mood": [
+          "serious",
+          "shock_surprise",
+          "negative_emotion"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "deteriorated interior",
+          "high humidity damage"
+        ]
+      },
+      "why_kept": "This segment effectively presents the extreme mold damage caused by leaving a house without AC in Florida, serving as the core problem statement, visual hook, and setting the context for the entire video."
+    },
+    {
+      "start_time": "00:22.000",
+      "end_time": "00:32.000",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Mechanism_Of_Action",
+        "Time_Wasted",
+        "Messy_Unorganized",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "worker",
+        "protective boots",
+        "removing floorboards",
+        "subfloor",
+        "water",
+        "blue tarp",
+        "debris"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "rugged"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "demolition",
+          "wet conditions",
+          "work in progress"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial labor involved in remediating the extensive mold damage, showing the hands-on and messy process of addressing the problem previously highlighted."
+    }
+  ]
+}

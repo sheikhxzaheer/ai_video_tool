@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\A woman is stroking a man's hair\\ÐÇðÁð░ð║Ðåð©ÐÅ ð¢ð░ ð╝ÐâðÂð©ð║ð░ (37).mp4",
+  "detailed_description": "This video features a shirtless, tattooed man walking through a sunny, bustling park while holding a red shirt and a water bottle. The camera follows him from behind, showcasing his active lifestyle as he navigates the park's pathways. He passes numerous individuals and groups, some of whom are observing him or engaging in their own conversations. The setting highlights a vibrant outdoor environment with lush greenery, providing a glimpse into public park life.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:39.141",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man walking",
+        "park",
+        "trees",
+        "people",
+        "water bottle",
+        "tattoos",
+        "shorts",
+        "sneakers",
+        "sunlight"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sunny daylight",
+          "natural lighting",
+          "tracking shot from behind"
+        ]
+      },
+      "why_kept": "This entire segment forms the semantic core of the video, continuously depicting the main subject engaged in an active lifestyle (walking) within a public park. It showcases human interaction as he passes other park-goers and captures the aesthetic appeal of the outdoor environment. No specific trimming is applied as the action is continuous and begins/ends with the video's start/end, adhering to the 'No-Mistake' rule for a single, focused action."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Minoxdil\\IMG_0723.MOV",
+  "detailed_description": "The video documents a man's daily routine of applying Minoxidil for hair treatment on 'Day 62' of his journey. He demonstrates the application process by spraying the product onto his frontal hairline and crown, ensuring it reaches the scalp. He then meticulously massages the liquid into his scalp, integrating this hair care step into his routine before heading to the gym.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:17.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "Minoxidil spray",
+        "hairline application",
+        "scalp massage",
+        "hair growth treatment",
+        "daily routine"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "direct demonstration",
+          "routine-focused"
+        ]
+      },
+      "why_kept": "This segment comprehensively captures the core action of the video: the detailed application of Minoxidil to the scalp, including spraying the product and massaging it in. It demonstrates the product interaction and the process, which is the central value proposition of the content, following the 'Process/Labor' and 'Product Interaction' hero moment criteria. The segment starts precisely as the application begins and ends after the massaging is complete, ensuring no setup or dead air."
+    }
+  ]
+}

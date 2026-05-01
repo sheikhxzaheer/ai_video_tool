@@ -1,0 +1,76 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ssstik.io_1744465625916.mp4",
+  "detailed_description": "This video vividly illustrates the transformative effects of minoxidil on hair loss through a direct before-and-after comparison. The initial segment showcases a person's scalp with visible thinning and sparse hair, setting up the 'problem state.' This is followed by a compelling 'after' shot, revealing significantly denser hair and reduced scalp visibility after six months of minoxidil use, effectively demonstrating the product's ability to promote hair regrowth. The core meaning lies in the clear visual evidence of a successful hair restoration journey.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.830",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "wet hair",
+        "thinning hair",
+        "visible scalp",
+        "dark hair",
+        "male"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state, clearly showing the initial problem of hair thinning and visible scalp. It is essential for contextualizing the subsequent 'after' transformation, adhering to the 'Reveal/Result' hero moment criteria by setting the precedent for change."
+    },
+    {
+      "start_time": "00:07.830",
+      "end_time": "00:11.574",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "wet hair",
+        "thicker hair",
+        "less visible scalp",
+        "dark hair",
+        "male"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "positive",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment is the 'reveal' or 'result' of the product's effectiveness, showing significantly improved hair density and reduced scalp visibility. It directly demonstrates the value proposition and is the primary 'Hero Moment' of transformation, making it the anchor for the video's semantic core."
+    }
+  ]
+}

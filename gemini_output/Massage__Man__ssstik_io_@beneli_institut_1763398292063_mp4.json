@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Massage\\Man\\ssstik.io_@beneli.institut_1763398292063.mp4",
+  "detailed_description": "This video features a calm and soothing massage session focusing on the neck and upper back of a man lying face down on a massage table. The skilled hands of a masseuse apply gentle pressure and strokes to the muscles, highlighting the professional process and relaxing nature of the service. The ambient lighting and tranquil music contribute to an overall sense of peace and therapeutic interaction, showcasing the core service being offered.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.411",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "massage",
+        "neck massage",
+        "back massage",
+        "hands",
+        "man",
+        "massage table",
+        "towel",
+        "oiled skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "relaxing"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "steady camera",
+          "therapeutic movements"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it directly demonstrates the 'Process/Labor' of a professional neck and upper back massage, which is the central 'hero moment' and the semantic core of the video. The action starts immediately and continues throughout, fulfilling the 'no-mistake' rule."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bussineswoman\\ssstik.io_@lunabestvibe_1766163831130.mp4",
+  "detailed_description": "The video features a woman modeling an elegant black midi-dress, which includes a square neckline, form-fitting bodice, and voluminous sheer puff sleeves with buttoned cuffs. She gracefully moves, turns, and strikes various poses in an indoor setting with modern, minimalist decor, effectively showcasing the dress's sophisticated design and silhouette from multiple angles. Her confident demeanor and the smooth camera work highlight the garment's aesthetic appeal, emphasizing its style and fit for potential wearers.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.077",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "model",
+        "black dress",
+        "sheer sleeves",
+        "puffy sleeves",
+        "posing",
+        "walking",
+        "indoor",
+        "stairs",
+        "modern decor"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "elegant"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "fashion photography",
+          "clean background",
+          "smooth camera movement"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, as every moment is dedicated to showcasing the black dress on a model. The model's movements, turns, and poses, including adjustments of her sleeves and hair, are all integral to demonstrating the garment's fit, fabric, and overall aesthetic. There are no 'setup' or 'dead air' frames; the entire duration is focused on presenting the product in an appealing manner."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated\\ssstik.io_@wrknonmyfitness_1774535275021.mp4",
+  "detailed_description": "This video showcases a personal transformation over one week on an anti-inflammatory diet. It begins with a 'Before' segment, where a woman presents her physique from front and side angles, highlighting her natural body state. The video then transitions to an 'After' segment, showing her body after one week on the diet, again from front and side angles, demonstrating a visible reduction in bloating and a more defined waistline. The core of the video lies in the direct visual comparison of her body before and after the dietary change.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.900",
+      "structural_tags": [
+        "Before_After",
+        "Problem_State",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "standing",
+        "front view",
+        "side view",
+        "bloating",
+        "before diet"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "static shot",
+          "direct gaze",
+          "bedroom setting",
+          "consistent lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the 'Before' state, showing the initial physique from multiple angles, which is crucial for the subsequent 'After' comparison and sets the context for the diet's impact. It's the starting point of the transformation reveal."
+    },
+    {
+      "start_time": "00:06.900",
+      "end_time": "00:13.433",
+      "structural_tags": [
+        "Before_After",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "standing",
+        "front view",
+        "side view",
+        "reduced bloating",
+        "after diet",
+        "waistline"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "static shot",
+          "direct gaze",
+          "bedroom setting",
+          "consistent lighting"
+        ]
+      },
+      "why_kept": "This segment presents the 'After' state, directly showcasing the visual results of one week on the anti-inflammatory diet. It completes the 'Before/After' transformation and is the primary value demonstration of the video. The comparison between this and the 'Before' segment is the semantic core."
+    }
+  ]
+}

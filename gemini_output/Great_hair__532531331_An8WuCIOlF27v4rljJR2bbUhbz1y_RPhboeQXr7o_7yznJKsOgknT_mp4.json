@@ -1,0 +1,221 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\532531331_An8WuCIOlF27v4rljJR2bbUhbz1y_RPhboeQXr7o_7yznJKsOgknT.mp4",
+  "detailed_description": "This video serves as a step-by-step tutorial on men's hair styling. It begins with towel-drying wet hair, followed by the application of a hair serum for pre-styling care. The hair is then blow-dried to set the base. The core styling involves applying a strong-hold hair wax, meticulously working it through the hair from the sides, and then pulling specific strands to achieve a cool, desired look. The video concludes with the final reveal of the styled hair, demonstrating the effective execution of the routine.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "UGC_Talking_Head",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "wet hair",
+        "drying with hands",
+        "bathroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "instructive",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean aesthetic",
+          "well-lit",
+          "text overlay"
+        ]
+      },
+      "why_kept": "This segment introduces the video's purpose ('how I style my hair') and acts as a visual hook, starting the routine right after a shower."
+    },
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "towel",
+        "drying hair",
+        "bathroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "instructive",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean aesthetic",
+          "well-lit",
+          "text overlay"
+        ]
+      },
+      "why_kept": "This segment demonstrates the first practical step in the hair styling process: towel-drying, as instructed by the on-screen text."
+    },
+    {
+      "start_time": "00:05.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Process_Labor",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "hair serum bottle",
+        "hand",
+        "applying serum",
+        "wet hair",
+        "man"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "instructive",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "well-lit",
+          "text overlay"
+        ]
+      },
+      "why_kept": "This segment introduces a specific product (hair serum) and demonstrates its application, a key preparatory step for styling."
+    },
+    {
+      "start_time": "00:06.400",
+      "end_time": "00:07.200",
+      "structural_tags": [
+        "Process_Labor",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "blow dryer",
+        "drying hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "instructive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean aesthetic",
+          "well-lit"
+        ]
+      },
+      "why_kept": "This segment shows the process of blow-drying, an essential step in preparing hair for styling with wax."
+    },
+    {
+      "start_time": "00:08.200",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Process_Labor",
+        "Result_Transformation",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "hair wax container",
+        "hand",
+        "applying wax",
+        "styling hair",
+        "man",
+        "hair strands"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "instructive",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "well-lit",
+          "text overlay"
+        ]
+      },
+      "why_kept": "This segment is critical as it introduces the main styling product (hair wax) and demonstrates its application and the primary styling techniques, including the finishing touches."
+    },
+    {
+      "start_time": "00:16.000",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "styled hair",
+        "confident",
+        "smile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "satisfied",
+          "confident",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean aesthetic",
+          "well-lit",
+          "dynamic camera movement"
+        ]
+      },
+      "why_kept": "This segment provides the final reveal of the successfully styled hair, showcasing the positive outcome and the man's satisfaction, which is the ultimate goal of the tutorial."
+    }
+  ]
+}

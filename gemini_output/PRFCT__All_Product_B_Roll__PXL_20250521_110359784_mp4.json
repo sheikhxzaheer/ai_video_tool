@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250521_110359784.mp4",
+  "detailed_description": "This video showcases a stand-up pouch of \"PRFECT MORNING TANGERINE PULSE\" dietary supplement, highlighting its purpose as hydration fuel and metabolic activators. The product is artfully placed on a grey tiled surface, with clear water gently flowing past it, creating a serene and refreshing ambiance. The backdrop features warm wooden paneling and a clear blue sky, suggesting an outdoor, possibly poolside, setting. The visual narrative aims to present the product in an appealing, lifestyle-oriented context, emphasizing freshness and vitality.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:17.027",
+      "structural_tags": [
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "product pouch",
+        "Tangerine Pulse",
+        "flowing water",
+        "tiled surface",
+        "wooden wall",
+        "blue sky"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "refreshing"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "serene setting",
+          "clear reflections",
+          "vibrant colors"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, effectively showcasing the 'PRFECT MORNING TANGERINE PULSE' product in a visually appealing, serene outdoor environment with flowing water. It establishes the product's identity and evokes a sense of freshness and vitality without any unnecessary setup or post-action dead air."
+    }
+  ]
+}

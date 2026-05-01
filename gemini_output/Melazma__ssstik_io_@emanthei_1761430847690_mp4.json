@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melazma\\ssstik.io_@emanthei_1761430847690.mp4",
+  "detailed_description": "The video features a woman demonstrating her makeup routine, specifically focusing on covering sun damage and scars. She highlights her past experiences with sun exposure, including tanning beds and skin cancer, and expresses regret. The demonstration shows her actively applying makeup with a brush from a palette, including foundation/concealer to her face and forehead, and eyeshadow to her eyelids, to visibly reduce the appearance of spots and scars. While applying, she shares personal insights and reinforces her advice to viewers to protect their skin from the sun. This segment effectively combines problem-solving with product application and informative commentary.",
+  "segments": [
+    {
+      "start_time": "00:41.761",
+      "end_time": "01:27.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process/Labor",
+        "Result_Transformation",
+        "Key_Information",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying makeup",
+        "makeup brush",
+        "makeup palette",
+        "face",
+        "forehead",
+        "nose",
+        "eyes"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "informative",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it directly demonstrates the 'Product Interaction' and 'The Process/Labor' of applying makeup. The 'Result_Transformation' of covering sun damage and scars is continuously shown through the application. Simultaneously, the speaker provides 'Key_Information' as a 'UGC_Talking_Head' about her sun damage and the effectiveness of the makeup while actively using the product, adhering strictly to the 'Visual Priority Rule' which requires active product interaction for talking head segments."
+    }
+  ]
+}

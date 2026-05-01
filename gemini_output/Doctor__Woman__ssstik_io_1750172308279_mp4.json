@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Woman\\ssstik.io_1750172308279.mp4",
+  "detailed_description": "The video humorously depicts the 'pain' a pharmacist experiences due to intrusive customer interactions. A female pharmacist, situated behind a counter in a pharmacy, maintains a polite and consistent smile while an off-screen male voice-over progressively requests her personal phone number with increasingly absurd and persistent reasons. The juxtaposition of the text overlay 'Pharmacist's pain' and her enduring, slightly strained smile throughout these hypothetical interactions effectively conveys a relatable comedic frustration within a professional service context.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "pharmacist",
+        "pharmacy",
+        "shelves",
+        "medication",
+        "smile",
+        "customer interaction",
+        "computer",
+        "mouse"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "playful",
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "clean aesthetic",
+          "direct address",
+          "skit"
+        ]
+      },
+      "why_kept": "This entire segment functions as a cohesive comedic skit. The 'Hero Moment' is the sustained emotional reaction (a polite but possibly resigned smile) of the pharmacist to the problematic scenario described by the voice-over, highlighted by the 'Pharmacist's pain' text. It effectively combines implied problem state, human interaction, and a subtle emotional climax to deliver the core message of the video without needing further trimming."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\ð░ð¢ð©ð╝ð░Ðåð©ÐÅ ð¥ÐüÐéð░ð¢ð¥ð▓ð║ð© ÐüðÁÐÇð┤Ðåð░.mp4",
+  "detailed_description": "This video illustrates the progression of a heart attack, beginning with a blockage in the left anterior descending artery caused by plaque rupture and clot formation. It details how the obstruction deprives heart muscle cells of oxygen, leading to their death and triggering electrical abnormalities that result in ventricular tachycardia. The animation culminates in cardiac arrest, emphasizing the critical need for medical intervention to restore blood flow and a normal heart rhythm, ultimately saving the patient's life.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:46.366",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Key_Information",
+        "Macro_Detail",
+        "Cellular_Deep_Dive",
+        "Formula_Graphic",
+        "Urgency_Rush"
+      ],
+      "visual_keywords": [
+        "human heart",
+        "vascular system",
+        "artery",
+        "plaque",
+        "blood clot",
+        "red blood cells",
+        "oxygen deprivation",
+        "dying heart muscle cells",
+        "electrical impulses",
+        "ventricular tachycardia",
+        "cardiac arrest",
+        "defibrillation",
+        "ECG line"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "urgent"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "transparent body",
+          "medical visualization",
+          "digital render"
+        ]
+      },
+      "why_kept": "This entire video segment forms a coherent narrative demonstrating the 'Mechanism_Of_Action' of a heart attack from its onset (plaque rupture) through its progression (oxygen deprivation, electrical abnormalities, cardiac arrest) to its resolution (medical intervention). It effectively visualizes a complex medical 'Problem_State' and its 'Result_Transformation' while providing 'Key_Information' about the process, fitting all hero moment criteria for a medical educational video."
+    }
+  ]
+}

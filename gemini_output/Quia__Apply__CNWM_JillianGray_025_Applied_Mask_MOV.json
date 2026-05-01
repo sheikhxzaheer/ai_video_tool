@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Apply\\CNWM_JillianGray_025_Applied Mask.MOV",
+  "detailed_description": "This video segment captures a woman engaged in a skincare routine, applying a product to her face. She wears a soft pink bow headband, indicating she is prepared for a beauty treatment. With a gentle smile and a radiant glow on her skin, she demonstrates the positive experience of product application, conveying a sense of calm satisfaction and a healthy complexion. The segment highlights the human interaction with a beauty product, focusing on the user's positive emotional response and the aesthetic of the application process.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.076",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Night_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying product",
+        "face",
+        "glowing skin",
+        "smiling",
+        "pink headband",
+        "skincare"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "natural look"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it perfectly captures the 'Product Interaction' (applying a product to the face) and 'Emotional Climax' (the subject's clear smile and positive facial expression). There is no setup, calibration, or post-action dead air; the video starts and ends precisely with the demonstrated action and emotion, fulfilling the 'No-Mistake' rule. It effectively conveys the user's positive experience with a skincare routine."
+    }
+  ]
+}

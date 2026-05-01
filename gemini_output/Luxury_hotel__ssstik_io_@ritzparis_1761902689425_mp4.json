@@ -1,0 +1,59 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury hotel\\ssstik.io_@ritzparis_1761902689425.mp4",
+  "detailed_description": "This video provides a complete visual tour of a luxurious hotel suite, starting with the elegant opening of room 515. It guides the viewer through a well-appointed hallway into a sophisticated living room, followed by a serene bedroom showcasing opulent details. A highlight includes a breathtaking view of Parisian rooftops and a distant monument from the balcony. The tour concludes by featuring a lavish bathroom and other aesthetic touches, emphasizing the suite's premium design and ambiance.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.467",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Macro_Detail",
+        "Travel_Transit",
+        "Calm_Relaxation",
+        "Premium"
+      ],
+      "visual_keywords": [
+        "hotel room",
+        "suite",
+        "door",
+        "hallway",
+        "living room",
+        "sofa",
+        "chandelier",
+        "bedroom",
+        "bed",
+        "balcony",
+        "Paris view",
+        "rooftops",
+        "monument",
+        "bathroom",
+        "bathtub",
+        "flowers"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "outdoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "elegant lighting",
+          "smooth transitions",
+          "classic decor"
+        ]
+      },
+      "why_kept": "The entire video constitutes the semantic core, acting as a comprehensive 'reveal' and 'product introduction' of the luxurious hotel suite. The opening and closing of the door effectively frame the complete visual journey through the space, demonstrating its amenities, aesthetic details, and the desirable view. Trimming any part would diminish the full experience of showcasing the 'result' of the suite."
+    }
+  ]
+}

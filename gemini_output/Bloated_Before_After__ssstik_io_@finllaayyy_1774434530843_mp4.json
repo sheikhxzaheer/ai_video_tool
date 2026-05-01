@@ -1,0 +1,80 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated Before_After\\ssstik.io_@finllaayyy_1774434530843.mp4",
+  "detailed_description": "The video visually demonstrates a woman's body transformation, presenting a clear 'before and after' comparison of her midsection. The initial segment shows her revealing a softer stomach, conveying a state of feeling 'puffy.' This is immediately followed by a 'reveal' segment where she displays a toned and defined abdomen with visible abs, signifying a successful physical transformation. The video effectively illustrates a journey from discomfort to a more sculpted physique.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.600",
+      "structural_tags": [
+        "Problem_State",
+        "Before_After",
+        "Human_Interaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "maroon sweatshirt",
+        "grey sweatpants",
+        "stomach",
+        "puffy"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "neutral"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "simple background",
+          "natural lighting",
+          "static shot"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state, showing the initial body condition and clearly stating the problem ('feeling puffy 24/7'), which is essential for the transformation narrative."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:11.200",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "grey cropped t-shirt",
+        "grey sweatpants",
+        "toned stomach",
+        "abs",
+        "mirror",
+        "phone"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "modern apartment",
+          "mirror shot",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment presents the 'after' state, showcasing the successful body transformation with a toned and defined midsection, serving as the 'reveal' and core result of the video's message."
+    }
+  ]
+}

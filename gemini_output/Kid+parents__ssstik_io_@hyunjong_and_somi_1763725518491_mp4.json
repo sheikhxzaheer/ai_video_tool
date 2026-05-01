@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid+parents\\ssstik.io_@hyunjong.and.somi_1763725518491.mp4",
+  "detailed_description": "This heartwarming video captures a family of three—a mother, father, and their baby—sharing a serene and loving moment at an aquarium. They are seated in front of a massive tank, mesmerized by various marine life including sharks and stingrays swimming by. The scene beautifully highlights their intimate bond as the father affectionately kisses the baby and then the mother, portraying a tender family connection amidst the captivating blue glow of the underwater world. The video perfectly encapsulates the joy and wonder of a family outing.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:20.941",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "aquarium",
+        "fish",
+        "sharks",
+        "stingray",
+        "family",
+        "baby",
+        "parents",
+        "hugging",
+        "kissing",
+        "affection"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "blue lighting",
+          "silhouette",
+          "soft focus on fish"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the semantic core because it perfectly captures the hero moment of a family sharing a loving and joyful experience at an aquarium. It showcases strong emotional connection (kisses, hugs, loving gazes), combined with the aesthetic beauty of the marine environment, without any setup, dead air, or extraneous footage."
+    }
+  ]
+}

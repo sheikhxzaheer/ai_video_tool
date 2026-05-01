@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Lying in bed\\ssstik.io_@lucy_wells__1761898376772.mp4",
+  "detailed_description": "This video humorously captures the exhilarating feeling of jumping onto a fresh hotel bed. A woman in a black, one-shoulder dress stands in a well-lit hotel room, dancing playfully. The text overlay challenges viewers to name a better feeling than a fresh hotel bed. She then enthusiastically leaps high into the air, landing with a joyful bounce on the pristine white sheets, embodying the pure satisfaction and comfort associated with a luxurious hotel stay. Her energetic movement and clear positive reaction are the core of the video's message.",
+  "segments": [
+    {
+      "start_time": "00:03.250",
+      "end_time": "00:06.016",
+      "structural_tags": [
+        "Positive_Emotion",
+        "High_Energy",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "black dress",
+        "jumping",
+        "hotel bed",
+        "white sheets",
+        "hotel room",
+        "playful landing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "dynamic movement",
+          "steady shot"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it visually demonstrates the specific feeling highlighted by the video's text overlay: the joy and comfort of a fresh hotel bed. The woman's enthusiastic jump and playful landing on the bed serve as the emotional climax and direct interaction with the 'product' (the hotel bed experience)."
+    }
+  ]
+}

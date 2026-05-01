@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\ssstik.io_@3d.health.visuals_1770894944223.mp4",
+  "detailed_description": "The video presents a highly detailed 3D animation of a human heart, continuously rotating against a dark, minimalist background. The heart is depicted in realistic anatomical detail, with major arteries and veins highlighted in blue and red. Internally, the heart shows a dynamic, pulsating red glow, symbolizing its electrical activity and blood flow. A subtle heartbeat sound accompanies the visual, emphasizing the organ's vital function and rhythmic action. This animation serves to illustrate the intricate mechanics and continuous operation of the human cardiovascular system.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "animated heart",
+        "pulsating",
+        "red glow",
+        "blue vessels",
+        "heartbeat sound",
+        "3D model",
+        "anatomical detail"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "educational",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "3D animation",
+          "glowing effects",
+          "dark background",
+          "rotating camera",
+          "medical visualization"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it consistently showcases the main subject – a 3D animated human heart – performing its core function (pulsating, showing internal activity) throughout the video's duration. It directly illustrates the 'Mechanism of Action' of the heart, with no setup, calibration, or dead air before or after the main action. The rotating view provides comprehensive visual information of the animated organ."
+    }
+  ]
+}

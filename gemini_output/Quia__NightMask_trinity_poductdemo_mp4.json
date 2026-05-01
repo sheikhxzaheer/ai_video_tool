@@ -1,0 +1,126 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_trinity_poductdemo.mp4",
+  "detailed_description": "This video showcases a nighttime Korean beauty routine using two 'QUIA' brand products: a Collagen Jelly Cream and a Night Wrapping Mask. The creator meticulously demonstrates the unboxing, texture, and application of both products, highlighting their smooth application and immediate skin hydration. The routine culminates in a satisfying reveal of clean, smooth skin after a peel-off treatment, expressing a clear positive emotional reaction to the radiant complexion and emphasizing the transformative results of the skincare. The video effectively combines product interaction, process demonstration, and emotional climax.",
+  "segments": [
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "The_Process/Labor",
+        "Result_Transformation",
+        "Macro_Detail",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "collagen jelly cream",
+        "pink packaging",
+        "product unboxing",
+        "cream application",
+        "face massage",
+        "glowing skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment introduces the main products, demonstrates the unboxing and application of the first product (collagen jelly cream), and shows the immediate effect on the skin, establishing the core skincare routine and product interaction."
+    },
+    {
+      "start_time": "00:11.000",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "The_Process/Labor",
+        "Result_Transformation",
+        "Macro_Detail",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "night wrapping mask",
+        "pink tube",
+        "mask application",
+        "face brush",
+        "skin care"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment continues the skincare routine by demonstrating the unboxing and application of the second product (night wrapping mask), showcasing its texture and application method, complementing the anchor segment."
+    },
+    {
+      "start_time": "00:20.500",
+      "end_time": "00:26.500",
+      "structural_tags": [
+        "The_Reveal/Result",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "peel-off mask",
+        "nose strip",
+        "forehead strip",
+        "clear skin",
+        "satisfied expression",
+        "glowing skin"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "natural look"
+        ]
+      },
+      "why_kept": "This segment provides a strong 'reveal' of clean and smooth skin after a skincare treatment (peel-off mask), culminating in a positive emotional reaction, which visually summarizes the desired outcome of a skincare routine, even if a different product is shown for the peel-off."
+    }
+  ]
+}

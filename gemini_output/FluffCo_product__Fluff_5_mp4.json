@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_5.mp4",
+  "detailed_description": "The video features a woman lying comfortably in bed, smiling with her hands behind her head, conveying a sense of deep relaxation and satisfaction. The on-screen text, 'but structured enough support,' directly highlights a key benefit of the bed or mattress being showcased. This brief clip effectively communicates the product's ability to provide both comfort and essential support, leading to a positive user experience.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Home"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "lying",
+        "smiling",
+        "white sheets",
+        "pillows",
+        "wooden headboard",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "relaxed"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it perfectly captures the 'Emotional Climax' (woman smiling, showing satisfaction) and 'Product Interaction' (lying on the bed), directly demonstrating the benefit of the product (implied bed/mattress support) as reinforced by the on-screen text. There is no 'setup' or 'dead air' to trim, making the entire clip the semantic core."
+    }
+  ]
+}

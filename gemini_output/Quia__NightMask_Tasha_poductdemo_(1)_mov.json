@@ -1,0 +1,170 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_Tasha_poductdemo (1).mov",
+  "detailed_description": "This video showcases the application and benefits of two Korean beauty products from QUIA: a Collagen Night Wrapping Mask and a Collagen Niacinamide Jelly Cream. It demonstrates the mask's unique peel-off mechanism, highlighting its transformative effect on the skin, followed by the application of the hydrating jelly cream. The user's positive facial expressions throughout the routine emphasize the products' ability to deliver a smooth, moisturized, and refreshed complexion, ultimately presenting a comprehensive skincare experience.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Macro_Detail",
+        "Human_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "pink tube",
+        "collagen mask",
+        "dispensing product",
+        "silicone brush",
+        "applying mask",
+        "face",
+        "freckles",
+        "gel texture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "close-up shots"
+        ]
+      },
+      "why_kept": "This segment introduces the first product, the Collagen Night Wrapping Mask, and visually demonstrates its dispensing and initial application, setting the stage for the core action of the peel-off mask."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:13.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "peeling mask",
+        "smooth skin",
+        "freckles",
+        "smiling",
+        "touching face",
+        "glowing skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "satisfied",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "clear skin focus"
+        ]
+      },
+      "why_kept": "This is the primary 'hero moment' demonstrating the unique peel-off mechanism of the mask and the immediate positive transformation of the skin, clearly eliciting a satisfied reaction from the user."
+    },
+    {
+      "start_time": "00:13.500",
+      "end_time": "00:22.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Macro_Detail",
+        "Human_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "pink jar",
+        "collagen cream",
+        "opening jar",
+        "jelly texture",
+        "taking product",
+        "applying cream",
+        "face",
+        "neck"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "texture emphasis"
+        ]
+      },
+      "why_kept": "This segment introduces the second product, the Collagen Niacinamide Jelly Cream, showing its texture, how it's dispensed from the jar, and its application, demonstrating another key part of the skincare routine."
+    },
+    {
+      "start_time": "00:22.500",
+      "end_time": "00:27.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Product_Standalone",
+        "Product_Intro",
+        "Social_Proof",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "smiling face",
+        "hydrated skin",
+        "pink tube",
+        "pink jar",
+        "holding products",
+        "headband"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "satisfied",
+          "happy",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background",
+          "product showcase"
+        ]
+      },
+      "why_kept": "This concluding segment reinforces the positive outcome of using both products by showing the user's radiant skin and satisfied expression, followed by a clear shot of both products together as a final presentation."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1750973758653.mp4",
+  "detailed_description": "This video captures a man in a kitchen setting, directly addressing the camera. He shares a personal anecdote about getting a haircut, acknowledging that it might not be of wide interest but still sharing the update. Throughout his brief address, he maintains a friendly and engaging demeanor. He expresses his affection for his viewers and extends a wish for them to have a great day, concluding his message with a genuine smile. The interaction feels personal and authentic, characteristic of user-generated content.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.456",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Home_Kitchen",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "gray hair",
+        "beard",
+        "black t-shirt",
+        "kitchen",
+        "pots",
+        "pans",
+        "window",
+        "smile",
+        "speaking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "friendly"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "direct address",
+          "selfie style",
+          "authentic"
+        ]
+      },
+      "why_kept": "This segment encompasses the entire video, serving as a continuous 'talking head' where the speaker delivers a personal message, shares key information (about his haircut), expresses positive emotion and a call to action ('hope you have a great day'), and concludes with a clear emotional climax (a smile). There is no setup or post-action dead air, adhering to the 'No-Mistake' rule, and as there's no product, the talking head itself is the core value."
+    }
+  ]
+}

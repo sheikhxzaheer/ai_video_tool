@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid+grandparents\\ssstik.io_@jezhuot_1763809784877.mp4",
+  "detailed_description": "The video captures a heartwarming moment between a grandma and her grandson. The grandma, with a beaming smile, holds the baby, who displays a range of adorable expressions from wide-eyed curiosity to genuine laughter. The on-screen text expresses the profound emotional value the creator places on seeing their grandma hold their son, calling it the 'most precious gift.' The entire interaction radiates joy and affection, highlighting the special bond across generations.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.639",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "grandma",
+        "baby",
+        "holding",
+        "smiling",
+        "laughing",
+        "interaction",
+        "armchair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "positive",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "minimalist background",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment is the Semantic Core as it fully captures the heartwarming emotional interaction between the grandmother and the baby, along with the overlaid text that provides the core message and emotional value ('most precious gift'). The baby's varying expressions and laughter, combined with the grandmother's consistent joy, demonstrate the 'Emotional Climax' criteria throughout the clip. There are no setup, calibration, or post-action dead air frames, making the entire duration relevant."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Emotion\\Woman\\ð¥ð│ð¥.mp4",
+  "detailed_description": "This short video captures a candid and lively interaction between two women in a home kitchen. One woman animatedly speaks and gestures while the other, holding a cup, reacts with a visible expression of surprise or amusement, covering her mouth with her hand. The scene conveys a moment of genuine human connection and a spontaneous emotional response during a casual conversation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "two women",
+        "talking",
+        "gesturing",
+        "surprise",
+        "amusement",
+        "kitchen counter",
+        "cup"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "candid shot"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as the 'Semantic Core' because it immediately presents a clear 'Emotional Climax' and 'Human Interaction.' The reaction of the woman covering her mouth signifies a moment of surprise or amusement, which is the primary impactful action within this short clip. The video starts and ends precisely with this core interaction, adhering to the 'NO-MISTAKE' rule."
+    }
+  ]
+}

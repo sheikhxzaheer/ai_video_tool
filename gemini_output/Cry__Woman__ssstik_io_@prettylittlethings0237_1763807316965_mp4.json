@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cry\\Woman\\ssstik.io_@prettylittlethings0237_1763807316965.mp4",
+  "detailed_description": "The video captures a heartwarming and humorous interaction between a mother and her young child. The mother pretends to cry, expressing feelings of not being beautiful. Her child, attempting to offer comfort, responds with an unexpectedly innocent and funny remark that 'everybody's not beautiful,' including daddy, which causes the mother to burst into laughter mixed with tears. The emotional climax culminates in the child sweetly hugging the mother, showcasing a pure moment of love and an immediate shift from feigned sadness to genuine joy.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.176",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman crying",
+        "child talking",
+        "child hugging",
+        "woman laughing",
+        "tissue",
+        "sofa"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "emotional",
+          "playful",
+          "heartwarming"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "candid",
+          "home setting"
+        ]
+      },
+      "why_kept": "This entire segment represents the core narrative of the video, from the initial setup of the mother's feigned sadness (Problem_State, Negative_Emotion), through the child's innocent and humorous attempt at consolation (Human_Interaction), leading to the mother's burst of laughter and the heartwarming hug (Face_Reaction, Positive_Emotion). Trimming any part would compromise the completeness and emotional impact of this continuous interaction."
+    }
+  ]
+}

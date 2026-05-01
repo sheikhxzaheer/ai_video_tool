@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Douxds product\\Video_4.mov",
+  "detailed_description": "The video showcases a man meticulously wiping his face with a blue towel as part of a personal grooming or cleansing routine. He focuses on cleaning his entire face, including his beard, cheeks, and forehead, suggesting a post-wash or refreshing action. The segment highlights the calm and focused process of facial care and the direct interaction with the towel.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.750",
+      "structural_tags": [
+        "Human_Interaction",
+        "Morning_Routine",
+        "Calm_Relaxation",
+        "Product_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man wiping face",
+        "blue towel",
+        "beard",
+        "facial cleansing",
+        "grooming"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "focused shot",
+          "minimalist background"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the semantic core because it demonstrates the full, continuous process of a man wiping his face with a towel, which aligns with 'THE PROCESS/LABOR' and 'PRODUCT INTERACTION' hero moment criteria. There is no discernible setup, calibration, or post-action dead air; the action begins at the start and continues until the end of the clip, adhering to the 'NO-MISTAKE' rule."
+    }
+  ]
+}

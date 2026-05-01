@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\Bald spot\\ssstik.io_1746021578432.mp4",
+  "detailed_description": "A man named Roger stands in front of a whiteboard displaying a hand-drawn graph with axes labeled 'FUCK AROUND' and 'FIND OUT.' He directly addresses the viewer, asking them to share their experiences of 'fucking around' and what they consequently 'found out.' He uses a marker to point to the relevant axes on the graph as he speaks, conveying a humorous yet direct message.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Data_Metrics_Chart",
+        "Human_Interaction",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "man",
+        "whiteboard",
+        "chart",
+        "graph",
+        "text",
+        "marker",
+        "pointing",
+        "glasses"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "playful",
+          "other"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "clear lighting",
+          "simple background"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as the entire video is a 'talking head' presentation where the speaker directly interacts with and explains the core concept depicted on the whiteboard chart. He makes a main point and a 'Call to Action' (asking viewers to share their stories), fulfilling the key information and product interaction criteria. No significant setup or dead air is present; the action starts and ends concisely with the delivery of the message."
+    }
+  ]
+}

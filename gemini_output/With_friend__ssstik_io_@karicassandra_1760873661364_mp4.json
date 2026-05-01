@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\With friend\\ssstik.io_@karicassandra_1760873661364.mp4",
+  "detailed_description": "This video captures a playful and affectionate interaction between two women dressed in white bathrobes within a brightly lit, luxurious indoor setting, likely a hotel suite. They engage in a series of hugs, kisses, and playful dance-like movements, constantly smiling and expressing joy. The dynamic and high-energy exchange emphasizes a moment of intimate connection and positive emotion, set against an aesthetic backdrop.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:15.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Calm_Relaxation",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "two women",
+        "bathrobes",
+        "hugging",
+        "kissing",
+        "dancing",
+        "playful",
+        "smiling",
+        "luxury room",
+        "ceiling fan"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "smooth camera movement",
+          "natural light"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, showcasing continuous playful human interaction, positive emotion, and high energy. There is no setup, dead air, or distinct break in the action; the video's core value is the uninterrupted flow of affection and enjoyment between the two subjects, making the whole clip a 'hero moment' of emotional climax and human connection."
+    }
+  ]
+}

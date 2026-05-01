@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad mold spray\\IMG_0177.MOV",
+  "detailed_description": "This video's semantic core focuses on the functional reveal of a pull-out kitchen cabinet system designed for waste management. A hand smoothly opens a kitchen drawer, showcasing two integrated bins, likely for trash and recycling, nestled efficiently within the cabinet space. The clip highlights the convenience and practical design of this household solution, demonstrating the ease of access and organization in a modern kitchen setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Home_Kitchen",
+        "Product_Present",
+        "Mechanism_Of_Action",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "hand opening drawer",
+        "kitchen cabinet",
+        "trash bins",
+        "recycling bins",
+        "kitchen counter"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "functional",
+          "practical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear shot",
+          "natural lighting",
+          "smooth motion"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core because it perfectly demonstrates the 'Product Interaction' and 'The Process' of a kitchen waste management system. The video starts precisely with the hand reaching for the drawer and ends immediately after the bins are fully revealed, showcasing the smooth mechanism and integrated design without any extraneous or setup frames. It's a complete, concise demonstration of the product's functionality."
+    }
+  ]
+}

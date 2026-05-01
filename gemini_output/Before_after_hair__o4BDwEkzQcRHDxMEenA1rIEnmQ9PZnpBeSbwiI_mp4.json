@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\o4BDwEkzQcRHDxMEenA1rIEnmQ9PZnpBeSbwiI.mp4",
+  "detailed_description": "This video showcases a dramatic hair transformation experienced by a man at a barbershop. It begins by presenting him in the barber's chair with noticeable hair thinning on top, representing the 'before' state. The scene then seamlessly transitions to the 'after' state, revealing the same man with a full, neatly styled head of hair, accompanied by a clear smile of satisfaction. The video effectively highlights the significant change and positive outcome delivered by the barbershop service.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "barber chair",
+        "thinning hair",
+        "balding",
+        "full hair",
+        "styled hair",
+        "smile",
+        "barber cape",
+        "barbershop interior"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "neutral",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "seamless transition",
+          "direct comparison"
+        ]
+      },
+      "why_kept": "This entire segment serves as the core semantic value, demonstrating a clear 'before and after' transformation of the man's hair. It effectively shows the problem state (thinning hair) and the successful resolution (full, styled hair) culminating in a positive emotional reaction (smile). The video is designed to directly convey this transformation, making the entire duration the 'Hero Moment'."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury hotel\\ssstik.io_@travelwithsteph__1761994505685.mp4",
+  "detailed_description": "This video presents a comprehensive tour of what is claimed to be 'the best hotel room,' highlighting its opulent features and modern design. Starting with a chic living area and a minimalist bedroom, the tour progresses to a sophisticated home cinema room with a starry ceiling. It then reveals a private sauna and an outdoor jacuzzi offering breathtaking city views. The suite concludes with a glimpse of a luxurious bathroom, emphasizing a premium and relaxing experience designed for an elevated stay.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:45.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Premium",
+        "Travel_Transit",
+        "Home_Kitchen",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hotel room",
+        "living area",
+        "sofa",
+        "coffee table",
+        "bedroom",
+        "bed",
+        "ambient lighting",
+        "plant",
+        "home cinema",
+        "projector screen",
+        "fireplace video",
+        "starry ceiling",
+        "bar area",
+        "sauna",
+        "jacuzzi",
+        "city view",
+        "bathroom",
+        "shower",
+        "toilet",
+        "sinks",
+        "textured wall",
+        "mirrors"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "outdoor",
+          "other"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "energetic"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "modern design",
+          "luxury lighting",
+          "night view",
+          "clean aesthetics",
+          "curved furniture"
+        ]
+      },
+      "why_kept": "This entire segment serves as the 'reveal' of a luxurious hotel room, demonstrating all its features from the living space and bedroom to the home cinema, sauna, outdoor jacuzzi with city views, and the bathroom. Each part contributes to the overall 'best hotel room' claim, making the continuous tour the core value proposition of the video."
+    }
+  ]
+}

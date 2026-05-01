@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20251211_135248405.mp4",
+  "detailed_description": "This video showcases the preparation of a 'PRFCT MORNING TANGERINE PULSE' supplement. A hand is seen pouring the contents of a single-serving packet of the powdered supplement into a glass bottle filled with water. As the orange-colored powder mixes with the water, it transforms into a bright yellow liquid, demonstrating the product's solubility and intended use.",
+  "segments": [
+    {
+      "start_time": "00:02.500",
+      "end_time": "00:15.800",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "hand",
+        "powder packet",
+        "PRFCT MORNING",
+        "TANGERINE PULSE",
+        "glass bottle",
+        "water",
+        "pouring",
+        "dissolving",
+        "yellow liquid",
+        "kitchen counter"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "simple background",
+          "focus on action"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it clearly demonstrates the primary product interaction (pouring powder into water) and the immediate result (the powder dissolving and changing the water's color). It shows the 'Mechanism_Of_Action' and 'Result_Transformation' of the product, which is central to its utility."
+    }
+  ]
+}

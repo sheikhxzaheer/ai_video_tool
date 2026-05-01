@@ -1,0 +1,78 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\Bald spot\\ssstik.io_1749743619447.mp4",
+  "detailed_description": "A bald man with a long beard humorously rejects a protective face mask by throwing it away. He then transforms his appearance by donning a military helmet and sunglasses, creating an unexpected and comical 'beard-face' character, offering a lighthearted take on personal protective equipment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.200",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Intro",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "bald man",
+        "long beard",
+        "skeptical expression",
+        "white face mask",
+        "throwing action",
+        "disgusted look"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": "direct gaze, natural lighting, sharp focus"
+      },
+      "why_kept": "This segment serves as the visual hook and problem statement, showing the man's initial skeptical reaction to the mask and his humorous rejection, setting the stage for the main transformation."
+    },
+    {
+      "start_time": "00:03.666",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Reveal_Result",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Shock_Surprise",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "long beard",
+        "military helmet",
+        "putting on sunglasses",
+        "beard-face character",
+        "final pose"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "rugged",
+          "shock"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": "creative prop use, unexpected visual, clear transformation"
+      },
+      "why_kept": "This is the primary 'hero moment' where the humorous transformation unfolds and the final, absurd 'beard-face' character is revealed. It showcases the creative and unexpected resolution to the initial 'problem' of the mask, delivering the core comedic value of the video."
+    }
+  ]
+}

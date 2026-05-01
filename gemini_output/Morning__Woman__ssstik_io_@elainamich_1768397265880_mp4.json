@@ -1,0 +1,322 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Morning\\Woman\\ssstik.io_@elainamich_1768397265880.mp4",
+  "detailed_description": "This video meticulously documents a woman's complete morning routine, showcasing various daily activities and product interactions. It begins with her waking up and performing personal hygiene, including showering, skincare, and oral care. The routine continues with getting dressed, tidying the bedroom, initiating a load of laundry, and preparing a detailed breakfast and iced coffee. The video concludes with her enjoying her meal while relaxing, providing a comprehensive look at her productive and organized start to the day.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.900",
+      "structural_tags": [
+        "Morning_Routine",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bedside lamp",
+        "drinking from cup",
+        "getting out of bed",
+        "putting on robe"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment establishes the start of the morning routine, showing the initial actions of waking up, hydrating, and putting on a robe, which are essential context for the routine."
+    },
+    {
+      "start_time": "00:05.900",
+      "end_time": "00:18.900",
+      "structural_tags": [
+        "Morning_Routine",
+        "Process_Labor",
+        "Product_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "opening bathroom door",
+        "entering shower",
+        "dropping pajamas",
+        "shower running",
+        "shower gel",
+        "body brush",
+        "scrubbing arm",
+        "turning off shower",
+        "towel",
+        "squeegee",
+        "cleaning shower glass"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean tile"
+        ]
+      },
+      "why_kept": "This segment details the shower process, including active product interaction with shower gel and brush, and the process of cleaning the shower, which is a key part of the morning hygiene routine."
+    },
+    {
+      "start_time": "00:18.900",
+      "end_time": "00:32.900",
+      "structural_tags": [
+        "Morning_Routine",
+        "Product_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "lotion pump",
+        "applying hand lotion",
+        "cleanser",
+        "rosewater spray",
+        "hyaluronic acid serum",
+        "dental floss",
+        "mouthwash tablet",
+        "electric toothbrush",
+        "toothpaste",
+        "lip balm",
+        "eye cream",
+        "deodorant"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "product focus",
+          "clean countertop"
+        ]
+      },
+      "why_kept": "This segment focuses on the detailed skincare and oral hygiene regimen, showcasing multiple product interactions and the process of personal grooming."
+    },
+    {
+      "start_time": "00:32.900",
+      "end_time": "00:39.100",
+      "structural_tags": [
+        "Morning_Routine",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hair clip",
+        "closet",
+        "picking clothes",
+        "drawer",
+        "putting on shirt"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "closet"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "organized closet",
+          "soft colors"
+        ]
+      },
+      "why_kept": "This segment demonstrates the process of getting dressed and preparing for the day, which is a fundamental part of a morning routine."
+    },
+    {
+      "start_time": "00:39.100",
+      "end_time": "00:46.400",
+      "structural_tags": [
+        "Morning_Routine",
+        "Process_Labor",
+        "Aesthetic_Broll",
+        "Product_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "making bed",
+        "straightening sheets",
+        "arranging pillows",
+        "knitted blanket",
+        "room spray",
+        "nightstand items"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "organized space",
+          "soft textures"
+        ]
+      },
+      "why_kept": "This segment highlights the process of tidying the bedroom and creating a pleasant ambiance, reflecting an organized morning routine."
+    },
+    {
+      "start_time": "00:46.400",
+      "end_time": "00:53.000",
+      "structural_tags": [
+        "Morning_Routine",
+        "Process_Labor",
+        "Product_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "washing machine",
+        "clothes",
+        "laundry basket",
+        "detergent drawer",
+        "laundry scent booster",
+        "laundry detergent"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "laundry room"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "functional space",
+          "efficient action"
+        ]
+      },
+      "why_kept": "This segment includes the chore of doing laundry, demonstrating the process and product usage, contributing to the comprehensive daily routine."
+    },
+    {
+      "start_time": "00:53.000",
+      "end_time": "01:10.000",
+      "structural_tags": [
+        "Morning_Routine",
+        "Home_Kitchen",
+        "Product_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "kitchen",
+        "tidying countertop",
+        "coffee machine",
+        "coffee cup",
+        "coffee pod",
+        "espresso",
+        "oat milk",
+        "ice",
+        "straw",
+        "iced coffee"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "modern kitchen",
+          "food preparation",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment comprehensively shows the detailed process of making an iced coffee, including multiple product interactions with kitchen appliances and ingredients."
+    },
+    {
+      "start_time": "01:10.000",
+      "end_time": "01:21.000",
+      "structural_tags": [
+        "Morning_Routine",
+        "Home_Kitchen",
+        "Process_Labor",
+        "Product_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "pans",
+        "stove",
+        "cracking egg",
+        "cooking egg",
+        "toaster",
+        "toast",
+        "breakfast sandwich",
+        "dining table",
+        "iced coffee",
+        "remote control",
+        "television",
+        "Friends show"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen",
+          "living room"
+        ],
+        "mood": [
+          "calm",
+          "relaxed"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "cozy ambiance",
+          "meal preparation",
+          "entertainment"
+        ]
+      },
+      "why_kept": "This segment concludes the morning routine by showing the preparation and enjoyment of breakfast, coupled with relaxing entertainment, providing a full picture of the daily start."
+    }
+  ]
+}

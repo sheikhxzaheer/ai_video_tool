@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Privat Elevator\\ssstik.io_@raniyaa305_1766736416421.mp4",
+  "detailed_description": "This video takes viewers on a unique journey, showcasing the exclusive experience of using a private car elevator to access a luxury condominium. Starting from inside a high-end car, the footage captures the smooth transition into a modern car elevator, its ascent, and the subsequent reveal of a personal garage connected directly to the opulent living space. The segment highlights the convenience and luxury of this architectural feature, concluding with a glimpse of the stylish condo interior and the high-performance vehicles housed within.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:43.33",
+      "structural_tags": [
+        "Visual_Hook",
+        "Process_Labor",
+        "Reveal_Result",
+        "Product_Interaction",
+        "Behind_The_Scenes",
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "car elevator",
+        "luxury condo",
+        "private garage",
+        "Porsche Taycan interior",
+        "Lamborghini Urus",
+        "modern architecture",
+        "futuristic lighting",
+        "ocean view"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "car"
+        ],
+        "mood": [
+          "premium",
+          "sleek",
+          "modern",
+          "luxurious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "neon lighting",
+          "futuristic design",
+          "high-end vehicles"
+        ]
+      },
+      "why_kept": "This entire segment forms the semantic core by comprehensively showcasing the unique process of using a car elevator to access a luxury condo. It captures the full 'process' of the ride, the 'reveal' of the private garage and living space, and the 'product interaction' with both the car and the elevator system. No part of the video is extraneous to conveying this core message."
+    }
+  ]
+}

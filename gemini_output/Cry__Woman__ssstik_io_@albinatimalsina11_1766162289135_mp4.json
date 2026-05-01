@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cry\\Woman\\ssstik.io_@albinatimalsina11_1766162289135.mp4",
+  "detailed_description": "The video captures a woman in a state of visible distress, tearfully addressing the camera. Her face is red and wet from crying, and her voice cracks as she openly admits to having no idea why she is so upset. This segment is a raw and emotional display of her confusion and sadness, highlighting a problem state of inexplicable crying.",
+  "segments": [
+    {
+      "start_time": "00:14.500",
+      "end_time": "00:28.000",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "crying",
+        "woman",
+        "sad",
+        "confused",
+        "distressed",
+        "hands"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "sad"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "emotional",
+          "direct address",
+          "simple lighting"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it clearly demonstrates an 'Emotional Climax' through the woman's visible crying and distress. It also provides 'Key Information' where she verbalizes her confusion, stating 'I have no idea why I'm crying.' The visual of her crying combined with her direct statement to the camera creates a strong 'Problem State' and emotional impact. The initial frames were trimmed as they were 'Setup & Calibration' or pre-climax actions, and the segment ends naturally as the video concludes with her still in distress."
+    }
+  ]
+}

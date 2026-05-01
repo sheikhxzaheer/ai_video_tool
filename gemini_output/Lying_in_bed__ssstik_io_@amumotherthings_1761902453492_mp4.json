@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Lying in bed\\ssstik.io_@amumotherthings_1761902453492.mp4",
+  "detailed_description": "This video humorously captures the relatable feeling of exhaustion and relief upon checking into a hotel after travel. It shows a seemingly pristine hotel room with two beds, then quickly transitions to two individuals dramatically collapsing onto the beds, fully clothed, signifying their immediate need for rest and comfort after a journey. The 'POV' text further enhances the immersive and relatable aspect of the experience.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.189",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Travel_Transit",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "hotel room",
+        "beds",
+        "people collapsing",
+        "exhaustion",
+        "relief",
+        "yellow decor"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "static camera",
+          "humorous"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it visually demonstrates the 'POV' experience of checking into a hotel and immediately seeking rest, embodying the humor and relatability of travel fatigue. The action of collapsing onto the beds is the central 'hero moment' of the video."
+    }
+  ]
+}

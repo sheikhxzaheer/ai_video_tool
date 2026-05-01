@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Apply\\CNWM_JillianGray_024_Applied Mask.MOV",
+  "detailed_description": "The video features a woman with glowing, moisturized skin, suggesting the recent application of a skincare product. She wears a soft pink bow headband, commonly used during beauty routines, and smiles warmly and confidently at the camera. Her gentle hand gesture to her chest further emphasizes a sense of self-care and contentment. This segment effectively conveys the immediate positive aesthetic result and the emotional satisfaction derived from a beauty regimen.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.226",
+      "structural_tags": [
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Night_Routine",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "glowing skin",
+        "pink headband",
+        "bow",
+        "smiling",
+        "hand gesture",
+        "moon necklace",
+        "earrings",
+        "skincare"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "premium",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "direct gaze",
+          "warm tones"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it immediately displays the core value: the positive 'Result_Transformation' of glowing skin after product application, combined with a clear 'Face_Reaction' and 'Positive_Emotion' from the subject. Her smile and relaxed posture effectively communicate satisfaction and confidence. There is no 'Setup & Calibration' or 'Post-Action Dead Air', making the entire clip the 'Semantic Core' hero moment."
+    }
+  ]
+}

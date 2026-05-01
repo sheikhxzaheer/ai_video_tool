@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold\\mold4.mp4",
+  "detailed_description": "This video vividly presents a severe 'Problem State' by showcasing an outdoor surface heavily covered in dark, pervasive mold and grime. A cleaning tool is strategically positioned within the frame, subtly suggesting the impending solution to this extensive dirt buildup. The camera meticulously pans across the entire affected area, emphasizing the significant challenge and the pronounced need for a thorough cleaning process. The segment functions as a compelling visual hook, setting the stage for a potential 'Before/After' transformation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.885",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Intro",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "mold",
+        "grime",
+        "dirty surface",
+        "white outdoor furniture",
+        "cleaning tool",
+        "brick wall",
+        "door"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "serious",
+          "grim"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "detailed view",
+          "textured surface",
+          "natural light"
+        ]
+      },
+      "why_kept": "This entire segment serves as the 'Semantic Core' by thoroughly demonstrating the 'Problem_State' with extreme dirt and mold buildup. The presence of the cleaning tool, though not actively used, functions as a 'Product_Intro' by hinting at the solution. The consistent panning ensures full coverage of the issue without any dead air or extraneous footage, making the full duration essential for conveying the message."
+    }
+  ]
+}

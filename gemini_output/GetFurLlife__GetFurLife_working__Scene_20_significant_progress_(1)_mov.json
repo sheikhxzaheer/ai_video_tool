@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLife_working\\Scene 20_significant progress (1).mov",
+  "detailed_description": "This heartwarming video captures a gentle interaction between a pet owner and a small, light-colored Chihuahua-mix dog. The dog, adorned with a pink bow and purple collar, initially sits calmly on a wooden floor, responding obediently to a 'sit' command. As the owner speaks encouragingly, the dog's facial expression brightens, it begins to pant happily, and its tail wags enthusiastically, showcasing its affectionate and calm disposition. The segment highlights the dog's positive emotional response and the bond shared with its human.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.432",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "small dog",
+        "chihuahua",
+        "tan fur",
+        "pink bow",
+        "purple collar",
+        "wooden floor",
+        "dog sitting",
+        "dog panting",
+        "dog wagging tail",
+        "dog looking at camera"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "warm lighting",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This entire segment forms the semantic core by showcasing the complete interaction between the owner (voice) and the dog. It begins with the dog sitting obediently, transitions to its happy emotional climax of panting and tail wagging in response to affection, and concludes shortly after its enthusiastic reaction, perfectly capturing the dog's calm and happy nature. The 'No-Mistake' rule applies as the full clip represents a continuous, meaningful action."
+    }
+  ]
+}

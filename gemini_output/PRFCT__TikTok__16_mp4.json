@@ -1,0 +1,144 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\TikTok\\16.mp4",
+  "detailed_description": "This video promotes \"Perfect Morning Tangerine Pulse,\" a daily drink mix aimed at improving morning routines. The presenter showcases the refreshing orange-colored drink and its convenient single-serving packet, explaining that it helps avoid bloating and coffee crashes while providing sustained natural energy and superior hydration. The video emphasizes the product's ease of use and its amazing taste, making it an ideal choice for anyone looking to optimize their physical and mental state from the start of the day.",
+  "segments": [
+    {
+      "start_time": "00:07.820",
+      "end_time": "00:10.870",
+      "structural_tags": [
+        "Product_Interaction",
+        "Product_Standalone",
+        "Key_Information",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "man holding glass",
+        "orange drink",
+        "ice in glass",
+        "kitchen background"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment introduces the finished product, the 'perfect morning' drink, and makes a strong claim about its life-changing benefits, setting the core value proposition for the viewer."
+    },
+    {
+      "start_time": "00:10.870",
+      "end_time": "00:16.890",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "man holding product packet",
+        "Tangerine Pulse branding",
+        "explaining usage",
+        "kitchen background"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "informative",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear product display",
+          "instructional"
+        ]
+      },
+      "why_kept": "This segment clearly introduces the product's packaging and demonstrates the simple preparation process, showing how the product is used."
+    },
+    {
+      "start_time": "00:31.020",
+      "end_time": "00:32.330",
+      "structural_tags": [
+        "Product_Standalone",
+        "Macro_Detail",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "product packet on counter",
+        "Tangerine Pulse label",
+        "Hydration Fuel",
+        "Metabolic Activators",
+        "Nutrient Charge"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "informative",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "static shot",
+          "clear text visibility"
+        ]
+      },
+      "why_kept": "This provides a clear, detailed shot of the product packaging, highlighting key features and benefits listed on the label, which is essential information for the viewer."
+    },
+    {
+      "start_time": "00:32.960",
+      "end_time": "00:35.390",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Social_Proof",
+        "Face_Reaction",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "man holding glass",
+        "orange drink",
+        "smiling",
+        "speaking",
+        "kitchen background"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "enthusiastic delivery"
+        ]
+      },
+      "why_kept": "This segment reinforces the product's appeal by showing the finished drink again, paired with a positive facial expression and a strong claim about its amazing taste, providing an emotional climax."
+    }
+  ]
+}

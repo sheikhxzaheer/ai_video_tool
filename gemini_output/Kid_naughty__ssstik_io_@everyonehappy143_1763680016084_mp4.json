@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid naughty\\ssstik.io_@everyonehappy143_1763680016084.mp4",
+  "detailed_description": "This short video captures a tender and playful moment between a father and his toddler in a home kitchen. The father crouches down quickly while making a roaring sound, playfully 'scaring' his child. The toddler reacts with a brief startled flinch before seemingly continuing the playful interaction, highlighting a sweet and energetic bonding experience.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.046",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Home_Kitchen",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "man",
+        "toddler",
+        "playful scare",
+        "roaring sound",
+        "kitchen counter",
+        "wooden floor",
+        "diaper"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "casual home video"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it fully captures the playful interaction from the father's initiation of the 'scare' to the child's reaction. There is no setup, dead air, or extraneous footage, making the whole duration the hero moment according to the 'No-Mistake' rule for trimming."
+    }
+  ]
+}

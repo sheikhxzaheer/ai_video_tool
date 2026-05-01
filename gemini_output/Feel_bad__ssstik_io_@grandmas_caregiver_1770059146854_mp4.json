@@ -1,0 +1,190 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Feel bad\\ssstik.io_@grandmas.caregiver_1770059146854.mp4",
+  "detailed_description": "The video captures a heartwarming morning routine, highlighting compassionate caregiving. It shows a caregiver gently waking an elderly woman, engaging in playful interaction with a Winnie the Pooh plushie, and assisting her with her morning routine, including helping her sit up from the bed. The caregiver then efficiently tidies the bedsheets. The video concludes with the elderly woman relaxed and comfortable in a chair, enjoying a snack, showcasing the positive outcome of the personalized care provided.",
+  "segments": [
+    {
+      "start_time": "00:12.700",
+      "end_time": "00:24.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Emotional_Climax",
+        "Calm_Relaxation",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "caregiver",
+        "elderly woman",
+        "bed",
+        "Winnie the Pooh plushie",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "gentle interaction"
+        ]
+      },
+      "why_kept": "This segment captures a key emotional climax, showing the tender and playful interaction between the caregiver and the elderly woman, leading to a genuine smile and positive connection, which is central to compassionate care."
+    },
+    {
+      "start_time": "00:24.000",
+      "end_time": "00:38.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Morning_Routine",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "caregiver",
+        "elderly woman",
+        "bed",
+        "talking",
+        "touching face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "caring"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "gentle touch"
+        ]
+      },
+      "why_kept": "This segment continues to emphasize the close, caring human interaction and the establishment of a morning routine with gentle encouragement, reinforcing the caregiving process."
+    },
+    {
+      "start_time": "00:50.000",
+      "end_time": "01:06.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Process_Labor",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "caregiver",
+        "elderly woman",
+        "bed",
+        "assisting to sit up",
+        "physical support"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "supportive",
+          "active"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "practical assistance",
+          "clear action"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the physical process and labor involved in caregiving, showing the caregiver actively assisting the elderly woman to transition from lying to sitting, an important part of the morning routine."
+    },
+    {
+      "start_time": "01:08.000",
+      "end_time": "01:15.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation",
+        "Morning_Routine",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "caregiver",
+        "making bed",
+        "changing sheets",
+        "tidying"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "efficient",
+          "organized"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "quick movements",
+          "cleanliness focus"
+        ]
+      },
+      "why_kept": "This segment showcases the 'labor' of tidying the environment as part of holistic care, demonstrating efficiency and transformation of the bed into a clean state."
+    },
+    {
+      "start_time": "01:15.000",
+      "end_time": "01:23.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Lifestyle_Active",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "elderly woman",
+        "armchair",
+        "blanket",
+        "eating",
+        "relaxed",
+        "window"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "content",
+          "relaxed"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft light",
+          "peaceful setting",
+          "comfort"
+        ]
+      },
+      "why_kept": "This segment acts as a powerful 'reveal' or 'after' shot, showing the elderly woman in a state of comfort and relaxation, directly illustrating the positive outcome and well-being achieved through the morning care routine."
+    }
+  ]
+}

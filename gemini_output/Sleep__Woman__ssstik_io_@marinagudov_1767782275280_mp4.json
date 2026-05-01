@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Woman\\ssstik.io_@marinagudov_1767782275280.mp4",
+  "detailed_description": "The video captures the experience of a person settling into an incredibly comfortable, large sectional sofa for a nap. Starting in a bright, inviting living room with large windows, the scene gradually darkens, creating a cozy and intimate atmosphere, enhanced by ambient lighting and flickering candles. The person is shown transitioning from adjusting pillows to fully succumbing to sleep, highlighting the irresistible comfort of the sofa, perfect for deep relaxation and extended rest, almost as if it's the hardest place to nap in due to its comfort.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.463",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Night_Routine",
+        "Aesthetic_Broll",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "person napping",
+        "large white sofa",
+        "cozy blankets",
+        "pillows",
+        "dimming lights",
+        "candles",
+        "large windows",
+        "forest view",
+        "wooden ceiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "cozy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "natural light transition",
+          "modern rustic",
+          "comfortable aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the ultimate comfort of the large sofa. It shows the process of settling in, the emotional experience of relaxation leading to sleep, and the ambient transformation of the room from daytime to a cozy, dark environment, reinforcing the idea of a 'hardest nap' (meaning a very deep, comfortable nap). The gradual dimming of lights and the person's increasing comfort effectively convey the video's central message without any dead air or unnecessary setup."
+    }
+  ]
+}

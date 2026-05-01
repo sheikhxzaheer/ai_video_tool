@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Product\\IMG_0382.mov",
+  "detailed_description": "The video provides a clear and direct presentation of the 'Spartan Root Activator' hair care line. It showcases multiple black, rectangular bottles of both the 'Root Activator Shampoo' and 'Root Activator Conditioner', complete with pump dispensers. The camera slowly pans down, allowing viewers to easily read the product labels which emphasize benefits such as 'Promotes Hair Growth' for a 'mighty, voluminous, and vigorous' head of hair.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.777",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "black bottles",
+        "pump dispenser",
+        "shampoo",
+        "conditioner",
+        "product labels",
+        "Spartan branding",
+        "hair growth claims"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "direct product shot",
+          "slow pan"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core of the video, as it explicitly introduces and displays the 'Spartan Root Activator' shampoo and conditioner. The slow, deliberate camera pan allows for clear visibility of the product branding, type, and key claims, effectively fulfilling the role of a product introduction without any extraneous footage."
+    }
+  ]
+}

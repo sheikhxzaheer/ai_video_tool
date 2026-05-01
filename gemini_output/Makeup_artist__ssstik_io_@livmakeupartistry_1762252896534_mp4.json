@@ -1,0 +1,83 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Makeup_artist\\ssstik.io_@livmakeupartistry_1762252896534.mp4",
+  "detailed_description": "This video provides a detailed makeup tutorial, recreating Kim Kardashian's iconic Oscars 2024 look. The process showcases the step-by-step application of various products, including smoky eyeshadows, sharp winged eyeliner, intricate face contouring, and glossy nude lips. The tutorial emphasizes achieving a glamorous and sculpted aesthetic, culminating in a clear reveal of the finished celebrity-inspired makeup.",
+  "segments": [
+    {
+      "start_time": "00:02.200",
+      "end_time": "00:29.800",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "applying eyeshadow",
+        "applying eyeliner",
+        "contouring face",
+        "applying foundation",
+        "applying lipstick",
+        "makeup brushes",
+        "beauty blender"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "detailed focus",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment demonstrates the core value of the video, which is the step-by-step makeup application process for the 'Kim K Oscars 2024' look. It clearly shows the professional actions and product interactions, fulfilling the 'Process/Labor' and 'Product Interaction' hero moment criteria."
+    },
+    {
+      "start_time": "00:30.300",
+      "end_time": "00:40.000",
+      "structural_tags": [
+        "Reveal_Result",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "finished makeup look",
+        "posing",
+        "facial expression",
+        "long dark hair",
+        "glowing skin"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "glamorous",
+          "confident",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "flattering angles",
+          "high-quality video"
+        ]
+      },
+      "why_kept": "This segment serves as the 'Reveal/Result' hero moment, showcasing the final achieved makeup look. The subject's confident posing and expressions convey a 'Positive_Emotion' and highlight the successful transformation, complementing the preceding tutorial process."
+    }
+  ]
+}

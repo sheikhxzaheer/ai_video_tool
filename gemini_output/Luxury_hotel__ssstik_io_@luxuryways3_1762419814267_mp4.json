@@ -1,0 +1,215 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury hotel\\ssstik.io_@luxuryways3_1762419814267.mp4",
+  "detailed_description": "This video provides a luxurious tour of the Ritz Hotel, showcasing its opulent facilities and elegant ambiance. It starts with the grand exterior entrance, featuring a red carpet and luxury cars, setting a tone of exclusivity. The tour then moves through lavish interiors, including a marble-clad lobby with a grand chandelier, a sophisticated dining room, a chic bar, and a beautifully appointed guest room with a scenic view. The video concludes with the serene outdoor swimming pool area, highlighting the hotel's comprehensive premium amenities and exquisite architectural design.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:02.833",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "hotel entrance",
+        "RITZ HOTEL sign",
+        "red carpet",
+        "luxury cars",
+        "ornate architecture"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "grand architecture",
+          "elegant entrance",
+          "warm lighting"
+        ]
+      },
+      "why_kept": "This segment is the visual hook and establishes the overall subject – the Ritz Hotel – with its grand and inviting entrance. It serves as the primary introduction to the hotel's luxurious appeal."
+    },
+    {
+      "start_time": "00:00:02.833",
+      "end_time": "00:00:06.900",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "hotel lobby",
+        "reception desk",
+        "chandelier",
+        "marble columns",
+        "elegant seating",
+        "ornate ceiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "luxurious decor",
+          "classical design",
+          "sparkling chandelier"
+        ]
+      },
+      "why_kept": "This segment showcases the opulent interior of the hotel's lobby, reinforcing the theme of luxury and providing a detailed view of its elegant common areas."
+    },
+    {
+      "start_time": "00:00:06.900",
+      "end_time": "00:00:10.033",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "dining room",
+        "set tables",
+        "chandeliers",
+        "large windows",
+        "garden view",
+        "red carpet"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "fine dining",
+          "natural light",
+          "sumptuous setting"
+        ]
+      },
+      "why_kept": "This segment highlights another key amenity, the elegant dining room, showcasing the hotel's capacity for fine experiences and beautiful architectural details."
+    },
+    {
+      "start_time": "00:00:10.033",
+      "end_time": "00:00:12.333",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "hotel bar",
+        "marble counter",
+        "bar stools",
+        "liquor bottles",
+        "ornate shelving"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "sophisticated bar",
+          "modern classic",
+          "warm ambiance"
+        ]
+      },
+      "why_kept": "This segment showcases the hotel's bar area, adding to the variety of luxurious spaces available to guests and reinforcing the premium lifestyle offered."
+    },
+    {
+      "start_time": "00:00:12.333",
+      "end_time": "00:00:17.533",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "hotel room",
+        "king-size bed",
+        "chandelier",
+        "balcony view",
+        "elegant furniture",
+        "artwork"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "lavish bedroom",
+          "french doors",
+          "classic luxury"
+        ]
+      },
+      "why_kept": "This segment reveals a luxurious guest room, which is a core offering of any hotel. It highlights comfort, elegance, and potentially a beautiful view, crucial for guest experience."
+    },
+    {
+      "start_time": "00:00:17.533",
+      "end_time": "00:00:20.633",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "swimming pool",
+        "lounge chairs",
+        "palm trees",
+        "outdoor bar",
+        "water reflections"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "relaxed"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "resort atmosphere",
+          "tranquil pool",
+          "modern elegance"
+        ]
+      },
+      "why_kept": "This segment showcases the outdoor pool and lounge area, completing the picture of the hotel's comprehensive amenities, offering a relaxing and beautiful outdoor experience."
+    }
+  ]
+}

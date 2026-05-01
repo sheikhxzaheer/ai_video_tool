@@ -1,0 +1,115 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\IMG_0613.MOV",
+  "detailed_description": "This video captures a complete hair transformation journey for a man. It begins by showcasing his initial messy and voluminous hair, establishing a clear 'before' state. The narrative then progresses through the professional salon experience, detailing the haircutting process, including hair washing, cutting, and rinsing. The video culminates in the 'reveal' of his freshly styled and neatly cut hair, highlighting the significant and satisfying aesthetic transformation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "messy hair",
+        "man",
+        "smiles",
+        "touches hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "natural"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "natural look"
+        ]
+      },
+      "why_kept": "This segment serves as the 'before' state, clearly showing the initial messy hair and setting the premise for the transformation to follow. The subject's interaction with his hair acts as a visual hook."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hair wash",
+        "hair cut",
+        "stylist",
+        "scissors",
+        "salon sink"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean salon aesthetic",
+          "focused action"
+        ]
+      },
+      "why_kept": "This segment demonstrates the core 'process' or 'labor' involved in the haircut, showing the professional services being performed at the salon, from washing to cutting."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "styled hair",
+        "man",
+        "smiling",
+        "touches hair",
+        "new haircut"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "positive",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "fresh look"
+        ]
+      },
+      "why_kept": "This segment acts as the 'reveal' and 'result' of the hair transformation, showcasing the final styled hair and the subject's clear satisfaction, completing the 'before and after' narrative."
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\Balding Man Absolutely SHOCKED With Buzz Cut Result.mp4",
+  "detailed_description": "This video captures a man's personal journey of shaving his head. It begins by showing a bald spot, establishing a 'problem state,' and then progresses through his emotional anticipation and nervous laughter before he commits to the act. The core of the video showcases the actual shaving process, punctuated by his reactions, culminating in the reveal of his fully shaved head and an expression of satisfaction with the transformation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man's head",
+        "bald spot",
+        "dark hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead view",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'before' state, showing the uneven hair and baldness, which serves as the visual hook and problem state for the transformation."
+    },
+    {
+      "start_time": "00:02.300",
+      "end_time": "00:03.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man holding shaver",
+        "electric trimmer",
+        "anticipation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment shows the user holding the product (shaver) and initiating the action, demonstrating product interaction and an initial emotional reaction of readiness."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Face_Reaction",
+        "Shock_Surprise",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "man touching face",
+        "nervous laughter",
+        "funny face",
+        "anticipation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "shock",
+          "nervous"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "expressive face",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment captures the strong emotional build-up and hesitation right before the main action, conveying the 'Emotional Climax' of taking a significant step through a series of expressive facial reactions."
+    },
+    {
+      "start_time": "00:10.100",
+      "end_time": "00:19.900",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Face_Reaction",
+        "High_Energy",
+        "Shock_Surprise",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "man shaving head",
+        "electric shaver",
+        "hair being cut",
+        "smiling",
+        "laughing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "shock"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera",
+          "direct address",
+          "natural light"
+        ]
+      },
+      "why_kept": "This is the primary 'Semantic Core' segment, demonstrating the actual 'Process/Labor' of shaving the head using the product. It includes key facial reactions that show the immediate emotional impact and transformation as it happens."
+    },
+    {
+      "start_time": "00:20.000",
+      "end_time": "00:24.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "UGC_Talking_Head",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "shaved head",
+        "man smiling",
+        "satisfaction"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address",
+          "natural light",
+          "clean look"
+        ]
+      },
+      "why_kept": "This segment clearly displays the 'Result/Transformation' of the action and the subject's 'Positive Emotion' and verbal confirmation of satisfaction, serving as the 'after' shot."
+    }
+  ]
+}

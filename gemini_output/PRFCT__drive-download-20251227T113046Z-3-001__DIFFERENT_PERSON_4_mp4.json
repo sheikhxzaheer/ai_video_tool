@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\drive-download-20251227T113046Z-3-001\\DIFFERENT PERSON 4.mp4",
+  "detailed_description": "A man in a bright, modern kitchen introduces a product called 'Perfect Morning,' stating it's an essential 'boost' for his day. He confidently holds the product sachet, directly addressing the camera, and concludes by smiling as he tears open the packet, demonstrating ease of use and positive experience.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.183",
+      "structural_tags": [
+        "Product_Intro",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Product_Standalone",
+        "Positive_Emotion",
+        "Home_Kitchen",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "kitchen",
+        "product sachet",
+        "opening sachet",
+        "smiling",
+        "white cabinets",
+        "marble countertop",
+        "stainless steel fridge"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "modern kitchen design",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it directly features the speaker introducing and endorsing the product ('Perfect Morning'), explaining its benefit ('boost'), and demonstrating the initial product interaction by holding and opening the sachet. The entire clip serves as a concise product pitch and usage demonstration, fulfilling the 'Product Interaction,' 'Key Information,' and 'Emotional Climax' hero moment criteria without any extraneous footage."
+    }
+  ]
+}

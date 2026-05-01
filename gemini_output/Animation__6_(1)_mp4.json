@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\6 (1).mp4",
+  "detailed_description": "This video illustrates the biological process of hair growth within the skin, then introduces a specialized device designed to stimulate hair follicles. It demonstrates how the device, emitting red light, interacts with the scalp to enhance blood circulation and cellular activity around the hair bulb, promoting stronger and healthier hair growth at a microscopic level. The animation sequences visually explain the underlying mechanism of action from initial hair growth to the stimulation of the follicle by the device.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "hair follicle",
+        "skin layers",
+        "hair growth",
+        "blood vessels",
+        "red light therapy device",
+        "scalp massage",
+        "cellular stimulation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "3D animation",
+          "medical illustration",
+          "clean lighting",
+          "product demonstration"
+        ]
+      },
+      "why_kept": "This entire video segment functions as a cohesive narrative, from establishing the basic biological context of hair growth, to demonstrating the product's application, and finally explaining its intricate mechanism of action at a cellular level. There are no extraneous or irrelevant frames; every part contributes directly to understanding the product's purpose and how it delivers value, making it the complete semantic core."
+    }
+  ]
+}

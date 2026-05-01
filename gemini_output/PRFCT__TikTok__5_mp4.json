@@ -1,0 +1,56 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\TikTok\\5.mp4",
+  "detailed_description": "This video illustrates a woman's morning routine as she opts for a healthy electrolyte drink instead of coffee. She prepares the drink by pouring water into a wine glass, then adding a bright yellow electrolyte powder from a packet, stirring it thoroughly, and finally adding ice. The entire process, from preparation to the final 'cheers,' highlights her commitment to body health and serves as a visual demonstration of a beneficial morning habit.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:12.00",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Morning_Routine",
+        "Home_Kitchen",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Ingredient_Highlight",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pouring water",
+        "wine glass",
+        "electrolyte packet",
+        "scissors",
+        "yellow powder",
+        "stirring",
+        "ice cubes",
+        "drink preparation",
+        "cheers"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear visuals",
+          "bright lighting",
+          "natural camera angle"
+        ]
+      },
+      "why_kept": "The entire video segment from start to finish serves as the 'Semantic Core' as it comprehensively demonstrates the full process of preparing the electrolyte drink, including product interaction, the transformation of ingredients, and the final presentation. It explicitly addresses the video's core message via the overlaid text and fulfills multiple 'Hero Moment' criteria (Process, Product Interaction, Reveal/Result, Emotional Climax) without any trimmable dead air or setup."
+    }
+  ]
+}

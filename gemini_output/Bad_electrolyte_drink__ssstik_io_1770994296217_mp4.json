@@ -1,0 +1,161 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad electrolyte drink\\ssstik.io_1770994296217.mp4",
+  "detailed_description": "This video centers around a woman enthusiastically introducing her favorite electrolyte drink, 'Blue Hawaiian' from Just Ingredients. She highlights its benefits, such as being made with organic ingredients, zero added sugar, and no salty taste, emphasizing its natural flavoring and coloring. The core of the video demonstrates the preparation process, from pouring the powder into water and seeing it transform into a vibrant blue liquid, to mixing and finally tasting it. She conveys genuine satisfaction with the drink's 'tropical vacation' flavor and clean ingredients, concluding with a strong recommendation and a call to action due to the product's popularity and tendency to sell out.",
+  "segments": [
+    {
+      "start_time": "00:02.800",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Key_Information",
+        "Ingredient_Highlight",
+        "Human_Interaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman holding product",
+        "electrolyte package",
+        "blue hawaiian",
+        "organic ingredients",
+        "zero added sugar"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment introduces the product and its key beneficial features while actively showing the packaging, adhering to the visual priority rule for key information."
+    },
+    {
+      "start_time": "00:08.500",
+      "end_time": "00:16.200",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "pouring powder",
+        "water turning blue",
+        "mixing drink",
+        "frother",
+        "glass cup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic motion",
+          "close-up action"
+        ]
+      },
+      "why_kept": "This segment visually demonstrates the preparation process and the product's transformative effect (water turning blue), showcasing the 'doing the work' hero moment."
+    },
+    {
+      "start_time": "00:16.200",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Key_Information",
+        "Ingredient_Highlight",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman holding product",
+        "electrolyte package",
+        "clean ingredients",
+        "real fruit",
+        "natural coloring",
+        "stirring drink",
+        "blue beverage"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear product view"
+        ]
+      },
+      "why_kept": "This segment provides additional key product information, emphasizing its clean and natural composition, while showing the final mixed drink and its natural color, aligning with the visual priority rule."
+    },
+    {
+      "start_time": "00:22.000",
+      "end_time": "00:30.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Offer_CTA",
+        "Social_Proof",
+        "Urgency_Rush",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman drinking",
+        "sip",
+        "satisfied expression",
+        "tropical vacation taste",
+        "recommending product",
+        "call to action",
+        "product sold out"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "positive_emotion",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "authentic reaction",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment serves as the emotional climax, showcasing the user's positive experience and the product's taste, directly followed by a compelling call to action and social proof, making it the central 'hero moment' of endorsement and persuasion."
+    }
+  ]
+}

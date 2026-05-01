@@ -1,0 +1,112 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Neck pain\\ssstik.io_@tonya.sachika_1768387462638.mp4",
+  "detailed_description": "The video effectively portrays the common struggle with chronic neck pain, particularly experienced by a new mother, and the frustration of seeking relief from unsuitable pillows. It highlights the transformation achieved through an adjustable pillow, which allows users to customize its height and density with removable layers. The core message is the product's ability to provide tailored support, leading to sound, comfortable sleep and pain-free mornings, thus solving a significant daily discomfort.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.800",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Morning_Routine",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman in bed",
+        "rubbing neck",
+        "frustrated expression",
+        "adjusting pillow",
+        "generic pillow"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "bed scene"
+        ]
+      },
+      "why_kept": "This segment establishes the core problem of chronic neck pain, showing the user's discomfort and failed attempts with other pillows, which creates a relatable context for the solution."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Key_Information",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman holding pillow",
+        "unzipping pillow",
+        "removing foam layer",
+        "white adjustable pillow"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "product demonstration"
+        ]
+      },
+      "why_kept": "This is the central 'Hero Moment' demonstrating the product's unique value proposition: its adjustable layers and customizable support. It clearly shows the 'how' behind the solution."
+    },
+    {
+      "start_time": "00:18.000",
+      "end_time": "00:25.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Face_Reaction",
+        "Morning_Routine",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman sleeping peacefully",
+        "smiling",
+        "waking up refreshed",
+        "stretching",
+        "white pillow"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "bed scene"
+        ]
+      },
+      "why_kept": "This segment showcases the ultimate benefit and 'After' state of using the adjustable pillow, depicting comfortable sleep and pain-free waking, which validates the product's effectiveness."
+    }
+  ]
+}

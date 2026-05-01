@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of Revision #3 Bdailey.MP4",
+  "detailed_description": "The video captures a woman in a bed, wearing satin pajamas, humorously expressing an exaggerated sense of dismay while holding a large white pillow. She makes an expressive facial reaction and then states, 'I hate how this pillow exposed the truth.' Her emotional delivery, combining mock frustration with direct product interaction, forms the core of the video, suggesting a playful scenario where the pillow's comfort led to an unexpected, unwelcome revelation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.200",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pillow",
+        "bed",
+        "pajamas",
+        "expressive face",
+        "speaking",
+        "holding pillow"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "expressive",
+          "dramatic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "intimate",
+          "direct address to camera"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating active product interaction (holding the pillow), a clear emotional climax (her exaggerated reaction and verbal statement 'I hate how this pillow exposed the truth'), and the key message. The initial gaze leads directly into the expressive reaction and speech, and the lingering reaction at the end reinforces the communicated emotion, making the whole duration a coherent hero moment without unnecessary setup or dead air."
+    }
+  ]
+}

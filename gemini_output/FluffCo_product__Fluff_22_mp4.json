@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_22.mp4",
+  "detailed_description": "This short video segment presents a close-up view of a hand gently interacting with crisp white bedsheets, illuminated by soft sunlight. The visual emphasizes the texture and quality of the bedding, creating a calm and inviting atmosphere. Although the accompanying text \"This is the\" is incomplete, it suggests an introduction to a product or an experience related to comfort and home living. The segment serves as an aesthetic b-roll shot highlighting product interaction and the sensory experience of the material.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.350",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Intro",
+        "Home_Kitchen",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "bedsheets",
+        "white linen",
+        "sunlight",
+        "bed"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "texture focus",
+          "golden hour"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it captures the primary 'Product Interaction' hero moment, showing a hand touching bedsheets to convey texture and quality. The accompanying text, although incomplete, implies a 'Product_Intro'. It's an aesthetically pleasing shot (Aesthetic_Broll) that conveys a sense of 'Calm_Relaxation' within a 'Home_Kitchen' (bedroom) environment. No trimming was applied due to the 'No-Mistake Rule' as the action starts and ends precisely within the given duration."
+    }
+  ]
+}

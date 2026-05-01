@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Spraying\\CleaningWindowCasingMouldMD.mp4",
+  "detailed_description": "This video demonstrates the effective cleaning of a sliding door or window track using a specialized mold spot remover and a narrow brush. A person meticulously applies the 'MoldMD' product and then scrubs the hard-to-reach grooves, showcasing the direct interaction with the cleaning solution and the physical process of removing accumulated dirt or mold. The footage highlights the practical application and the tool's ability to access tight spaces for thorough cleaning.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:16.20",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Intro",
+        "Human_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hand",
+        "brush",
+        "MoldMD spray bottle",
+        "sliding door track",
+        "cleaning",
+        "scrubbing",
+        "window frame"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "practical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "top-down angle",
+          "focused on hands",
+          "bright lighting",
+          "demonstrative"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it perfectly captures the core action of the video: the cleaning process using the product. It shows direct product interaction, the tool being used effectively, and the 'labor' involved, without any setup, calibration, or post-action dead air, adhering to the 'no-mistake' rule."
+    }
+  ]
+}

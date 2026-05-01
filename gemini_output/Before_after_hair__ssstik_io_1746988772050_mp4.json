@@ -1,0 +1,84 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ssstik.io_1746988772050.mp4",
+  "detailed_description": "This video showcases a dramatic before-and-after transformation of a man's hair and style. It initially captures the subject with noticeably thinning and messy hair, conveying a sense of dissatisfaction or a problem state. The video then abruptly transitions to a confident reveal, showing the man with a clean-cut, buzzed hairstyle and sunglasses, set against a scenic outdoor backdrop, symbolizing a positive personal transformation and a fresh new look.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.136",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Face_Reaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "messy hair",
+        "thinning hair",
+        "concerned expression",
+        "eyebrow furrow",
+        "earrings"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "street"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state, showing the subject's thinning, messy hair and a somewhat troubled expression, which is crucial for setting up the subsequent transformation and providing context to the 'problem' being addressed."
+    },
+    {
+      "start_time": "00:03.956",
+      "end_time": "00:07.036",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man",
+        "buzzed hair",
+        "sunglasses",
+        "confident expression",
+        "mountains",
+        "clouds",
+        "trees",
+        "backpack",
+        "earrings"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "nature",
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "confident",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright light",
+          "dynamic background",
+          "slow pan"
+        ]
+      },
+      "why_kept": "This segment is the core 'reveal' moment, showcasing the successful transformation with a confident, stylish new look. The sharp contrast with the previous segment highlights the desired outcome and is the strongest visual representation of the video's message."
+    }
+  ]
+}

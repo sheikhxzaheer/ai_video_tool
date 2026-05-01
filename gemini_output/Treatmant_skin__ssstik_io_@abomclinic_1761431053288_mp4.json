@@ -1,0 +1,86 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Treatmant_skin\\ssstik.io_@abomclinic_1761431053288.mp4",
+  "detailed_description": "This video features a close-up of a precise skincare procedure, where a gloved hand uses tweezers to carefully peel a translucent, yellow-tinged patch from the skin near a person's temple. The patch, visibly stained with dark residue, is gradually removed, revealing a slightly reddened area on the skin beneath. Following the removal, the treated skin is gently wiped clean with a white cloth, concluding the focused treatment process.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.600",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Result_Transformation",
+        "Macro_Detail",
+        "Product_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "gloved hand",
+        "tweezers",
+        "skin",
+        "yellow patch",
+        "dark residue",
+        "peeling",
+        "red mark"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sterile gloves",
+          "focused lighting",
+          "precise action"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it clearly demonstrates the primary action: the careful peeling of a skincare patch, revealing the removed residue and the immediate transformation of the skin beneath. It showcases the product's function and the meticulous process."
+    },
+    {
+      "start_time": "00:09.600",
+      "end_time": "00:13.600",
+      "structural_tags": [
+        "Human_Interaction",
+        "Result_Transformation",
+        "Macro_Detail",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "gloved hand",
+        "wipe",
+        "skin",
+        "red mark",
+        "cleaning"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sterile gloves",
+          "focused lighting",
+          "gentle action"
+        ]
+      },
+      "why_kept": "This segment complements the main action by showing the essential follow-up step of cleaning the treated skin area, reinforcing the care and completeness of the procedure after the patch removal."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B-Roll1.MOV",
+  "detailed_description": "The video's semantic core focuses on a woman demonstrating positive emotion and comfort while interacting with a small 'FLUFF' pillow in bed. She is seen smiling widely and playfully hugging the pillow, suggesting a sense of coziness and satisfaction. The continuous eye contact with the camera and her cheerful demeanor highlight the positive user experience with the product. The scene conveys a relaxed and happy mood, emphasizing the comfort provided by the pillow.",
+  "segments": [
+    {
+      "start_time": "00:01.200",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "pillow",
+        "smiling",
+        "hugging",
+        "fluff pillow"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This segment is kept because it directly demonstrates the core value proposition: a user experiencing comfort and happiness while interacting with the product. It captures a clear 'Emotional Climax' (consistent smiling) and 'Product Interaction' (hugging the pillow), which are key 'Hero Moment' criteria. The frames before this point involve slight setup; after this point, the video ends without 'dead air'."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\Hyrox Training B-Roll\\IMG_4391.MOV",
+  "detailed_description": "This video captures a man engaged in an intense outdoor workout, utilizing a battle rope to perform a sled pull. The core meaning demonstrates the physical exertion and the effective use of fitness equipment in an open-air gym setting. The man is shown actively grasping the rope, positioning himself, and then powerfully pulling the weighted sled across the artificial turf, showcasing a functional strength training exercise.",
+  "segments": [
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Lifestyle_Active",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "man",
+        "pulling",
+        "battle rope",
+        "weighted sled",
+        "outdoor workout",
+        "gym turf"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "rugged"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "static low angle",
+          "overcast sky",
+          "artificial turf"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it captures the entire professional action (Process/Labor) of the man performing the battle rope sled pull. It clearly shows the interaction with the equipment (Product Interaction) and the physical effort involved, demonstrating the intended use and value of the workout."
+    }
+  ]
+}

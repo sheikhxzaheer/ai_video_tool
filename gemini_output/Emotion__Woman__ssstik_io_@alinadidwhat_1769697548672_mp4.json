@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Emotion\\Woman\\ssstik.io_@alinadidwhat_1769697548672.mp4",
+  "detailed_description": "This video humorously depicts a woman's exaggerated struggle and shock when in the presence of someone with an oversized ego. She dramatically holds her chest, gasps, and declares, 'I can't breathe! There's no room for Chris's ego!' The scene effectively uses facial expressions and body language to convey an overwhelming and almost suffocating feeling caused by another person's self-importance, typical of a relatable comedic sketch.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Shock_Surprise",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "woman",
+        "worried expression",
+        "shocked expression",
+        "hands on chest",
+        "gesturing",
+        "comedic reaction",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "well-lit",
+          "minimalist background",
+          "direct address"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it presents the problem (via text), the exaggerated emotional reaction, and the comedic punchline in a continuous, impactful sequence. There is no setup, dead air, or irrelevant footage to trim; the action starts and ends precisely with the comedic delivery."
+    }
+  ]
+}

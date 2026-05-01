@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Spraying\\CleaningwithMouldMDVer2.mp4",
+  "detailed_description": "This video effectively demonstrates the cleaning power of the \"MoldMD Mold Spot Remover.\" It begins by introducing the product as a hand brings it into frame and applies it directly to a stained corner of a white surface, likely in a shower or bathroom. The product's built-in brush is used to scrub the area, showcasing the immediate action of the cleaner. The segment concludes with the hand wiping away the residue, revealing a visibly cleaner, transformed surface, thereby highlighting the product's efficacy in removing mold or spots.",
+  "segments": [
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "hand",
+        "MoldMD bottle",
+        "scrubbing brush",
+        "white surface",
+        "cleaning",
+        "wiping",
+        "clean corner"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct lighting",
+          "focused on action"
+        ]
+      },
+      "why_kept": "This segment clearly captures the entire 'hero moment' from product introduction and application to the visible result. It perfectly demonstrates the 'Process/Labor' of cleaning, the 'Product Interaction' with the specialized brush, and the 'Reveal/Result' of a clean surface, making it the semantic core of the video without any unnecessary setup or dead air."
+    }
+  ]
+}

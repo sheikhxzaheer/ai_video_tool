@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid naughty\\ssstik.io_@catblackdig_1763725139378.mp4",
+  "detailed_description": "This video captures a delightful moment of a toddler engaging with a vibrantly arranged, rainbow-colored meal consisting of various fruits and vegetables. The child demonstrates keen interest and independent eating skills, picking up different colored pieces and consuming them with focus and subtle satisfaction. The video highlights positive interaction with healthy food, suggesting that visually appealing presentations can encourage young children to eat their greens and fruits.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "01:02.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Home_Kitchen",
+        "Aesthetic_Broll",
+        "Ingredient_Highlight",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "toddler",
+        "eating",
+        "colorful food",
+        "rainbow food",
+        "fruits",
+        "vegetables",
+        "plate",
+        "high chair",
+        "blackberries",
+        "cucumber",
+        "mango",
+        "bell pepper",
+        "cherry tomatoes"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "natural light",
+          "close-up on child and food"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the semantic core because it continuously showcases the toddler's active and positive interaction with the colorful, healthy meal. There are no significant 'dead air' moments or 'setup/calibration' that distract from the main action of eating. The child's focused engagement and successful consumption of various food items directly demonstrate the value and appeal of the meal preparation."
+    }
+  ]
+}

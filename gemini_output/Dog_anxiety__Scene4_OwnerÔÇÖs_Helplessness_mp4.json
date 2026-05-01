@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Dog anxiety\\Scene4 OwnerÔÇÖs Helplessness.mp4",
+  "detailed_description": "This video charmingly illustrates the simple joy of pet ownership as a person's hand gently pets a corgi dog. The dog, lying on its back on a textured carpet, visibly revels in the attention, displaying a deeply relaxed and contented expression with its eyes rolling back. The interaction is a clear demonstration of affection and the positive emotional response it elicits from the pet.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:17.380",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "corgi dog",
+        "petting",
+        "hand",
+        "carpet",
+        "dog's face",
+        "relaxed dog",
+        "blue eye"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "relaxed"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "gentle petting",
+          "close-up on dog's face"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core, demonstrating the 'Process/Labor' of petting and the 'Emotional Climax' of the dog's visible enjoyment and relaxation. The dog's reactions, especially the eyes rolling back and contented expression, clearly convey a positive emotional response, making it a compelling hero moment. No setup or post-action dead air is present; the action is continuous."
+    }
+  ]
+}

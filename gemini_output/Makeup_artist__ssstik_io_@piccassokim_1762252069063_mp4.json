@@ -1,0 +1,160 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Makeup_artist\\ssstik.io_@piccassokim_1762252069063.mp4",
+  "detailed_description": "The video provides a candid, behind-the-scenes look at actress Park Min Young undergoing makeup and hair styling for a photoshoot. It meticulously showcases the professional process of her beauty transformation, capturing close-ups of the makeup application and hair curling. Throughout the session, the video highlights her genuine and expressive reactions, ranging from shy smiles and focused gazes to moments of surprise and playful annoyance, offering an intimate glimpse into her preparation and interactions with her styling team.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.600",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "Park Min Young",
+        "makeup artist",
+        "makeup application",
+        "blush brush",
+        "hair curler",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment captures the initial phase of makeup application and hair preparation, showcasing the 'process/labor' and an 'emotional climax' through Park Min Young's shy smile, setting the tone for the behind-the-scenes content."
+    },
+    {
+      "start_time": "00:08.200",
+      "end_time": "00:16.500",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "Park Min Young",
+        "makeup artist",
+        "eye makeup",
+        "makeup brush",
+        "hand holding"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused lighting",
+          "detailed shot"
+        ]
+      },
+      "why_kept": "This segment highlights a specific 'process/labor' moment of eye makeup application and an intimate 'human interaction' where Park Min Young assists the artist by holding her arm, demonstrating cooperation in the styling process."
+    },
+    {
+      "start_time": "00:17.000",
+      "end_time": "00:27.600",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Shock_Surprise",
+        "Negative_Emotion",
+        "Positive_Emotion",
+        "Result_Transformation",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "Park Min Young",
+        "makeup artist",
+        "lip makeup",
+        "curly hair",
+        "surprised expression",
+        "serious expression",
+        "smiling",
+        "laughter in background"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "surprised",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic expressions",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment is chosen as the ANCHOR for its rich display of 'emotional climax,' featuring Park Min Young's surprised reaction to a question, her playful 'angry' expression regarding 'Rose Day' with the new curly hair visible ('Result_Transformation'), and a final subtle smile, all while lip makeup is being applied ('Process/Labor')."
+    },
+    {
+      "start_time": "00:28.000",
+      "end_time": "00:41.000",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "Park Min Young",
+        "makeup artist",
+        "lip makeup",
+        "makeup brush",
+        "focused expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "consistent lighting",
+          "clean shot"
+        ]
+      },
+      "why_kept": "This segment continues the 'process/labor' of lip makeup application, showing Park Min Young's focused expression, and serves as a natural conclusion to the styling sequence, maintaining the behind-the-scenes narrative."
+    }
+  ]
+}

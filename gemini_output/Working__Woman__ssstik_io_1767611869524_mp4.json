@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Woman\\ssstik.io_1767611869524.mp4",
+  "detailed_description": "The video humorously captures a common office scenario where a person is intently focused on their computer screens, looking for their mouse. The individual's hand is visibly resting on the mouse itself, creating an ironic and relatable 'problem state.' The climax occurs when she vocally expresses her confusion, asking 'Where the fuck is my mouse?' despite it being directly under her hand, highlighting a moment of absent-mindedness in a busy work environment. The clip serves as a short, humorous commentary on everyday distractions.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:07.126",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "Woman",
+        "office desk",
+        "computer monitors",
+        "keyboard",
+        "mouse",
+        "hand",
+        "searching",
+        "talking",
+        "confusion",
+        "screens"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "humorous"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright office lighting",
+          "static shot"
+        ]
+      },
+      "why_kept": "This segment perfectly encapsulates the 'Emotional Climax' and 'Key Information' rules. It demonstrates a relatable and humorous 'Problem State' where the subject is actively searching for an item (her mouse) that is right in front of her and under her hand. Her verbal exclamation 'Where the fuck is my mouse?' provides the punchline, making the entire duration the core 'hero moment' of the video. The clip starts and ends precisely with the action, adhering to the 'No-Mistake Rule.'"
+    }
+  ]
+}

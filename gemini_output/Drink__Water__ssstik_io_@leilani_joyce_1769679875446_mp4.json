@@ -1,0 +1,118 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Drink\\Water\\ssstik.io_@leilani.joyce_1769679875446.mp4",
+  "detailed_description": "This video showcases a mint green insulated mug, emphasizing its aesthetic appeal and practical features. It begins by reminding viewers to drink water and proceeds to demonstrate filling the mug with ice water. The video highlights the mug's design, including a straw with a silicone holder, and mentions its insulating properties, presenting it as an ideal choice for keeping drinks cold. It serves as a product demonstration with a focus on hydration.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.136",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "glass",
+        "water",
+        "ice",
+        "insulated mug",
+        "pouring",
+        "full mug",
+        "drink reminder"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "smooth action",
+          "natural light",
+          "minimalist aesthetic"
+        ]
+      },
+      "why_kept": "This segment establishes the video's theme of hydration, serves as a visual hook, and demonstrates the primary use of the insulated mug by filling it with ice water. It's the core 'doing the work' and 'product interaction' moment."
+    },
+    {
+      "start_time": "00:08.069",
+      "end_time": "00:10.053",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hand",
+        "lid",
+        "straw",
+        "silicone holder",
+        "insulated mug",
+        "closing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear detail shot",
+          "practical demonstration",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment highlights a key design feature and 'mechanism of action' of the mug: the lid with its integrated straw and silicone securing mechanism, demonstrating its functionality and ease of use."
+    },
+    {
+      "start_time": "00:10.053",
+      "end_time": "00:11.236",
+      "structural_tags": [
+        "Product_Interaction",
+        "Product_Standalone",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "insulated mug",
+        "handle",
+        "mint green"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "stable shot",
+          "clean aesthetic",
+          "product showcase"
+        ]
+      },
+      "why_kept": "This segment provides a final view of the product being held by its handle, reinforcing its design and solidifying the message about its insulation capabilities mentioned in the accompanying text."
+    }
+  ]
+}

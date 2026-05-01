@@ -1,0 +1,199 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\Loser  ð¢ð░ð┐ð©Ðüð░ð¢ð¥ ð¢ð░ ð┐ð¥Ðäð░ÐÇð▒ð¥ð▓ð░ð¢Ðûð©╠å ð│ð¥ð╗ð¥ð▓Ðû ðöð©ð▓ð¢ðÁ.mp4",
+  "detailed_description": "The video showcases a creative hair transformation journey, beginning with the application and rinsing of bright red hair dye to achieve a striking base color. Following this, temporary black designs, specifically the word \"LOSER\" and a smiley face, are meticulously drawn onto the freshly dyed red hair. The artistic creation is then dramatically washed away, revealing the pristine red hair underneath, emphasizing the temporary and reversible nature of the hair art. This highlights a unique method of self-expression through impermanent hair modifications.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:03.66",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "applying hair dye",
+        "red dye",
+        "hair brush",
+        "short hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "dynamic shot"
+        ]
+      },
+      "why_kept": "This segment establishes the initial dyeing process, creating the vibrant red base color that serves as the canvas for the subsequent temporary art."
+    },
+    {
+      "start_time": "00:03.66",
+      "end_time": "00:09.91",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "rinsing hair",
+        "red water",
+        "sink",
+        "washing hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clean"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "running water sound",
+          "brightly lit"
+        ]
+      },
+      "why_kept": "This segment completes the initial hair dyeing process, showing the excess dye being washed off and preparing the hair for the next step."
+    },
+    {
+      "start_time": "00:09.91",
+      "end_time": "00:10.85",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "fully dyed red hair",
+        "short haircut",
+        "nape tattoos"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "vibrant"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "static shot",
+          "clean background"
+        ]
+      },
+      "why_kept": "This brief segment clearly presents the vibrant red hair, establishing the perfect 'canvas' just before the temporary designs are applied."
+    },
+    {
+      "start_time": "00:10.85",
+      "end_time": "00:15.50",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "drawing on hair",
+        "black marker",
+        "text 'LOSER'",
+        "smiley face with X eyes",
+        "red hair canvas"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "creative",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed close-up",
+          "hand in frame"
+        ]
+      },
+      "why_kept": "This is a primary 'hero moment' demonstrating the unique process of applying temporary hair art, showcasing the creative act of drawing designs directly onto the red hair."
+    },
+    {
+      "start_time": "00:15.50",
+      "end_time": "00:18.00",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "washing off designs",
+        "rinsing hair",
+        "black liquid",
+        "sink"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clean"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "running water",
+          "transformation visible"
+        ]
+      },
+      "why_kept": "This segment is crucial for showcasing the temporary nature of the hair art by actively demonstrating the removal of the applied black designs."
+    },
+    {
+      "start_time": "00:18.00",
+      "end_time": "00:23.00",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "clean red hair",
+        "designs fully removed",
+        "short haircut",
+        "nape tattoos",
+        "side profile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "satisfied",
+          "vibrant"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "final product shot",
+          "clear view"
+        ]
+      },
+      "why_kept": "This is the ultimate 'reveal' demonstrating the successful and clean removal of the temporary art, emphasizing the reversibility of the creative process and returning to the original red hair."
+    }
+  ]
+}

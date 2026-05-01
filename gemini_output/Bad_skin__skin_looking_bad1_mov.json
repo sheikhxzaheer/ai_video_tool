@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad skin\\skin looking bad1.mov",
+  "detailed_description": "This video features a young woman with dark hair and white-painted nails gently touching and examining her face. Her hand moves across her cheeks and temple, drawing attention to visible blemishes on her skin. Her expression is subtle, conveying a moment of self-assessment or contemplation about her complexion. The close-up shot emphasizes the personal nature of her interaction with her skin, highlighting a potential 'Problem State' related to skin concerns.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "hand",
+        "skin",
+        "blemishes",
+        "acne",
+        "touching",
+        "examining",
+        "white nails"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "serious",
+          "reflective"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "personal moment",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it vividly captures the 'Problem_State' through the woman's visible blemishes and her action of gently examining her face. Her 'Human_Interaction' with her own skin and subtle 'Face_Reaction' of contemplation clearly convey a personal concern, making it a strong 'Visual_Hook' for content related to skincare or beauty challenges."
+    }
+  ]
+}

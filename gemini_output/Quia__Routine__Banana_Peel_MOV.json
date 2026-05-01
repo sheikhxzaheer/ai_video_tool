@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Routine\\Banana Peel.MOV",
+  "detailed_description": "A woman demonstrates a natural skincare hack by using a banana peel. She carefully peels a banana and then proceeds to rub the inner part of the peel onto her face, focusing on areas like under her eyes, her forehead, and cheeks. Her expression throughout the application process is calm and focused, highlighting the hands-on method of utilizing a common fruit for potential skin benefits. The video showcases the direct interaction with the 'product' (banana peel) and the process of its application.",
+  "segments": [
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:28.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Process/Labor",
+        "Home_Kitchen",
+        "Calm_Relaxation",
+        "Ingredient_Highlight",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "banana peel",
+        "face",
+        "skincare",
+        "rubbing",
+        "application",
+        "headband",
+        "natural remedy"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "instructional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "direct eye contact",
+          "focused action"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it directly demonstrates the main action and value proposition of the video: the application of a banana peel as a skincare remedy. It captures the 'Product Interaction' and 'Mechanism of Action' clearly, showing how the peel is used on the face. The facial expressions convey focus and calmness during the process, fitting the 'Emotional Climax' criteria as a moment of engagement with the treatment."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Man\\ssstik.io_@aliciahallfitness_1763678825057.mp4",
+  "detailed_description": "The video captures a close-up shot of a person deeply asleep in bed, partially covered by a patterned blanket. The individual is lying on their back with their mouth slightly open, indicating heavy breathing or light snoring. Their head rests on a grey pillow, conveying a state of profound rest and relaxation. The soft, natural lighting and general stillness contribute to a peaceful atmosphere. This segment effectively illustrates the common human experience of deep sleep.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.666",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Night_Routine",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "person sleeping",
+        "heavy breathing",
+        "snoring",
+        "bed",
+        "blanket",
+        "pillow",
+        "relaxed"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "relaxed",
+          "peaceful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "soft focus",
+          "steady shot"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it clearly and continuously demonstrates the semantic core of the video: a person deeply asleep, showcasing a state of rest and relaxation through heavy breathing and facial expression. There is no setup, post-action dead air, or irrelevant footage to trim."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\pointing to bottle 1.mp4",
+  "detailed_description": "The video features a smiling man enthusiastically showcasing a bottle of \"MoldMD Mold Spot Remover\" in a brightly lit kitchen setting. He points to the product and gives a thumbs-up, conveying a positive endorsement and introducing the cleaning solution to the viewer. The clip emphasizes product recognition and a confident, positive review.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:16.299",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "MoldMD bottle",
+        "smile",
+        "thumbs-up",
+        "pointing",
+        "kitchen"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct address",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment serves as the product introduction and endorsement. The man consistently holds the product, points to it, and gives a thumbs-up, combined with a positive facial expression. This full duration captures the complete 'hero moment' of product interaction and positive recommendation without any setup, calibration, or post-action dead air."
+    }
+  ]
+}

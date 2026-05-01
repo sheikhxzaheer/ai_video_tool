@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Peeling\\CNWM_MayaZu_06_Peeling.mp4",
+  "detailed_description": "The video focuses on a woman's skincare routine, specifically the process of removing a clear, peel-off face mask from her cheek. She meticulously uses her fingers to gently lift and peel the mask, gradually revealing the smooth skin underneath. This segment effectively showcases the product's application and its immediate result, emphasizing the tactile experience and visual transformation of her skin after the mask removal.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:27.970",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "peeling face mask",
+        "hands",
+        "face",
+        "skin",
+        "rings",
+        "headband"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "skincare routine",
+          "focused action",
+          "gentle"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the semantic core because it demonstrates the key 'Hero Moments': direct product interaction as the woman peels the face mask, the 'Process/Labor' of careful removal, and the 'Reveal/Result' as her skin is uncovered. The action begins at the start of the video and continues until the end without any setup, calibration, or post-action dead air, adhering to the 'No-Mistake' rule."
+    }
+  ]
+}

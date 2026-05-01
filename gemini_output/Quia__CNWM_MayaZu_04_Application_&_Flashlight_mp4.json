@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\CNWM_MayaZu_04_Application & Flashlight.mp4",
+  "detailed_description": "A woman applies a clear face mask to her skin using a silicone brush, providing real-time commentary on the product's effects. She expresses positive emotions about the mask, detailing its quick-drying, smoothing, and rejuvenating properties, along with the unique sensation as it hardens. The video captures a complete demonstration of the product's application and the user's satisfied experience.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:38.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "UGC_Talking_Head",
+        "Positive_Emotion",
+        "Mechanism_Of_Action",
+        "Calm_Relaxation",
+        "Night_Routine",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face mask",
+        "silicone brush",
+        "applying mask",
+        "smiling",
+        "headband",
+        "clear mask",
+        "glowing skin",
+        "skincare"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "engaging"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean aesthetic",
+          "self-care"
+        ]
+      },
+      "why_kept": "The entire video constitutes the semantic core by continuously demonstrating the product's application (Process/Labor, Product Interaction), showcasing the user's genuine emotional response (Emotional Climax), and delivering key information about the mask's feel and benefits (Key Information). There are no discernible 'setup' or 'dead air' moments that detract from the core message; all footage directly contributes to the product demonstration and user experience, thus adhering to the 'No-Mistake Rule'."
+    }
+  ]
+}

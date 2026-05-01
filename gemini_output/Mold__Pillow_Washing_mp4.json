@@ -1,0 +1,117 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold\\Pillow Washing.mp4",
+  "detailed_description": "The video demonstrates an effective method for cleaning heavily soiled and yellowed pillows. It begins by showcasing the visibly stained \"before\" state, emphasizing the problem. The core of the cleaning process involves a bathtub soak where dishwasher pods, Borax, and bleach are added, visually highlighting the dramatic removal of dirt as the water rapidly turns murky. This impactful transformation in the tub proves the efficacy of the cleaning agents. Following the deep soak, the pillows are put through a standard machine wash and dry cycle, incorporating dryer balls for optimal fluffing. The video culminates with a satisfying reveal of the pillows, restored to their pristine white condition.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:03.95",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Messy_Unorganized",
+        "Home_Bedroom"
+      ],
+      "visual_keywords": [
+        "dirty pillows",
+        "yellowed fabric",
+        "bed",
+        "pillow stains"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "home"
+        ],
+        "mood": "serious",
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "top-down shot",
+          "natural lighting",
+          "static"
+        ]
+      },
+      "why_kept": "This segment effectively establishes the initial, unappealing condition of the pillows, clearly defining the problem that the video aims to solve and creating a visual hook."
+    },
+    {
+      "start_time": "00:03.95",
+      "end_time": "00:26.70",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Process_Labor",
+        "Home_Bathroom"
+      ],
+      "visual_keywords": [
+        "dog",
+        "bathtub",
+        "dirty pillows",
+        "dishwasher pods",
+        "Borax",
+        "bleach",
+        "pouring",
+        "scrubbing brush",
+        "murky water",
+        "foam",
+        "cleaning products"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "home"
+        ],
+        "mood": "energetic",
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up product shots",
+          "action shots",
+          "visible dirt removal",
+          "dynamic camera"
+        ]
+      },
+      "why_kept": "This is the core 'Process/Labor' segment, showcasing the specific cleaning agents being added and, crucially, the dramatic visual transformation of the water as it turns dark with extracted dirt, powerfully demonstrating the method's effectiveness."
+    },
+    {
+      "start_time": "00:26.70",
+      "end_time": "00:47.00",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Home_Laundry"
+      ],
+      "visual_keywords": [
+        "washing machine",
+        "dryer",
+        "dryer balls",
+        "clean pillows",
+        "white fabric",
+        "pristine",
+        "sofa"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "home"
+        ],
+        "mood": "calm",
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "machine operation",
+          "clean outcome",
+          "static final shot",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment completes the cleaning narrative by showing the final steps of machine washing and drying, and most importantly, presents the satisfying 'after' shot of the now pristine white pillows, confirming the success of the entire process."
+    }
+  ]
+}

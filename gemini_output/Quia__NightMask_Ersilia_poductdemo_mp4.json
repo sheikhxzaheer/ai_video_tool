@@ -1,0 +1,214 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_Ersilia_poductdemo.mp4",
+  "detailed_description": "The video showcases a Korean beauty routine featuring two products: a Collagen Niacinamide Jelly Cream and a Collagen Night Wrapping Mask. It begins by introducing the textures of both products, a translucent pink jelly and a clear gel. The user then demonstrates the precise application of the clear gel mask, brushing it onto the skin. A compelling moment highlights the mask's peel-off transformation, revealing smooth skin underneath. Subsequently, the pink jelly cream is applied to the face. The routine concludes with a close-up of the user's face, displaying visibly hydrated and glowing skin, emphasizing the products' benefits.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands",
+        "cream jar",
+        "spatula",
+        "pink jelly cream"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "smooth camera"
+        ]
+      },
+      "why_kept": "This segment introduces the first product, its packaging, and its unique jelly texture, setting the stage for the routine."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:07.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands",
+        "mask tube",
+        "clear gel",
+        "silicone brush"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "split screen"
+        ]
+      },
+      "why_kept": "This segment introduces the second product, a night mask, demonstrating its gel texture and the method of dispensing it with an applicator."
+    },
+    {
+      "start_time": "00:11.000",
+      "end_time": "00:16.800",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Night_Routine",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "clear gel mask",
+        "silicone brush",
+        "application"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "focused shot"
+        ]
+      },
+      "why_kept": "This segment demonstrates the core action of applying the night wrapping mask, showcasing the proper technique and the product's coverage."
+    },
+    {
+      "start_time": "00:20.500",
+      "end_time": "00:23.400",
+      "structural_tags": [
+        "Result_Transformation",
+        "Macro_Detail",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "peeling mask",
+        "clear strip",
+        "smooth skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed macro shot",
+          "satisfying reveal"
+        ]
+      },
+      "why_kept": "This is a key 'reveal' moment, clearly demonstrating the peel-off mechanism of the mask and the immediate result of smoother skin, which is a strong product benefit."
+    },
+    {
+      "start_time": "00:28.400",
+      "end_time": "00:34.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Night_Routine",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "pink jelly cream",
+        "spatula",
+        "finger application"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "focused shot"
+        ]
+      },
+      "why_kept": "This segment shows the application of the jelly cream, completing the skincare routine and demonstrating the user interaction with the product."
+    },
+    {
+      "start_time": "00:34.000",
+      "end_time": "00:36.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Macro_Detail",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "cheek",
+        "glowing skin",
+        "hydrated skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "radiant lighting",
+          "skin texture detail"
+        ]
+      },
+      "why_kept": "This close-up clearly highlights the final positive outcome of the skincare routine, showcasing hydrated and glowing skin as a direct result of product use."
+    }
+  ]
+}

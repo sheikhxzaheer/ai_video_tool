@@ -1,0 +1,156 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Acne Before_After\\ð░ð║ð¢ðÁ ð┤ð¥ ð┐ð¥Ðüð╗ðÁ 4┬áÔÇö ð║ð¥ð┐ð©ÐÅ.mp4",
+  "detailed_description": "This video dramatically illustrates a 'Before and After' skin transformation. It begins by showcasing a severe problem state, depicting a woman with significant acne and visible emotional distress, including raw close-ups of her affected skin and moments of her crying. The narrative then shifts to reveal the 'After' state, where the woman is shown with clear, healthy skin, radiating confidence and happiness in various elegant settings. The core message is about overcoming skin challenges and achieving a profound personal transformation.",
+  "segments": [
+    {
+      "start_time": "00:04.100",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Before_After",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "crying",
+        "acne",
+        "redness",
+        "distress",
+        "covering face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "raw emotion",
+          "unfiltered",
+          "sadness"
+        ]
+      },
+      "why_kept": "This segment emphasizes the emotional struggle and severity of the 'Before' state, showing the woman crying and covering her face with visible acne, which strongly highlights the problem."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:07.300",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "woman",
+        "acne",
+        "redness",
+        "skin problem",
+        "face"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "close-up detail",
+          "raw",
+          "unfiltered"
+        ]
+      },
+      "why_kept": "This is a crucial 'Before' shot, offering a clear and detailed close-up of the severe acne, effectively establishing the primary skin problem that the video addresses."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:09.100",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Before_After",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "clear skin",
+        "smiling",
+        "mirror selfie",
+        "confidence",
+        "white outfit"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "positive",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "elegant attire",
+          "happy expression",
+          "mirror shot",
+          "clear skin"
+        ]
+      },
+      "why_kept": "This segment serves as the initial 'After' reveal, showcasing the woman with clear skin, smiling and appearing confident, which dramatically contrasts with the preceding 'Before' state and signals a successful transformation."
+    },
+    {
+      "start_time": "00:14.000",
+      "end_time": "00:15.300",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Before_After",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "clear skin",
+        "smiling",
+        "mirror selfie",
+        "confidence",
+        "peach shirt"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "positive",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "happy expression",
+          "mirror shot",
+          "clear skin"
+        ]
+      },
+      "why_kept": "This segment further reinforces the 'After' transformation by showing the woman with clear skin and a positive, confident demeanor in a different outfit and setting, solidifying the success of the transformation."
+    }
+  ]
+}

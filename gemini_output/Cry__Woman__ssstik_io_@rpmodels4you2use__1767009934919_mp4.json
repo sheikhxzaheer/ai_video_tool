@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cry\\Woman\\ssstik.io_@rpmodels4you2use__1767009934919.mp4",
+  "detailed_description": "This video captures a raw and intimate moment of a young person, wearing a grey hoodie, crying. The scene is dimly lit, focusing closely on her face as tears stream down her cheek and her eyes appear red from distress. The emotional intensity is palpable, conveying a profound sense of sadness and vulnerability. Her deep breaths and sniffles further emphasize her emotional state, making the entire clip a powerful depiction of negative emotion.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.063",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "crying",
+        "tears",
+        "sadness",
+        "distress",
+        "hoodie",
+        "red eyes",
+        "sniffing",
+        "darkness"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "emotional",
+          "distressed"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dim lighting",
+          "raw emotion",
+          "authentic",
+          "vertical video"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it fully captures an 'Emotional Climax' where the subject is visibly and intensely crying. The clear facial expression of distress and the presence of tears meet the 'Hero Moment' criteria, and there is no extraneous footage to trim."
+    }
+  ]
+}

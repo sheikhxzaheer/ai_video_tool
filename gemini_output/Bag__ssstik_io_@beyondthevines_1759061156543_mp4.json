@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bag\\ssstik.io_@beyondthevines_1759061156543.mp4",
+  "detailed_description": "The video offers a unique first-person perspective from inside a blue and purple bag, capturing a person looking down and reaching in to retrieve items. The individual, wearing a cap, meticulously searches the bag, eventually pulling out a small blue item followed by a purple pouch. This mundane act is elevated by the distinct camera angle and rhythmic sound design, which the creator notes evokes the feeling of an 'Anyma visual,' transforming the search into an immersive and subtly surreal experience.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.040",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "person",
+        "bag",
+        "hands",
+        "sunglasses",
+        "blue item",
+        "purple pouch",
+        "reaching",
+        "searching"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "curious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "POV shot",
+          "unique camera angle",
+          "rhythmic audio",
+          "conceptual visual"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it perfectly encapsulates the video's core concept, which is to mimic the aesthetic of 'Anyma visuals' from the perspective of looking inside a bag. The continuous action of searching and retrieving items, combined with the unique POV and rhythmic sound, forms the complete 'hero moment' as described by the creator. Trimming would diminish the intended visual and conceptual effect."
+    }
+  ]
+}

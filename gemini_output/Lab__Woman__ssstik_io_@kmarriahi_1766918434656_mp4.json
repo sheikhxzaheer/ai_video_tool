@@ -1,0 +1,348 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Lab\\Woman\\ssstik.io_@kmarriahi_1766918434656.mp4",
+  "detailed_description": "This video provides a fast-paced montage showcasing the daily work of a 'lab girl' in a microbiology laboratory. It highlights various stages of scientific processes, from culturing bacteria on agar plates and performing antibiotic susceptibility tests to preparing liquid media and examining microorganisms under a microscope. The clips emphasize hands-on techniques, the visual results of experiments, and the clinical environment, demonstrating the intricate and precise nature of laboratory work. The compilation aims to give viewers a quick glimpse into the practical aspects of microbiology.",
+  "segments": [
+    {
+      "start_time": "00:02.327",
+      "end_time": "00:03.243",
+      "structural_tags": [
+        "Result_Transformation",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "petri dish",
+        "bacterial colonies",
+        "red agar"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear focus"
+        ]
+      },
+      "why_kept": "This segment shows the direct result of lab work – bacterial growth on an agar plate, which is a 'Reveal/Result' moment and a clear 'Macro_Detail' of the biological subject."
+    },
+    {
+      "start_time": "00:03.243",
+      "end_time": "00:04.209",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "hand in glove",
+        "petri dish",
+        "antibiotic discs",
+        "bacteria culture",
+        "zones of inhibition"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This is the ANCHOR segment because it most clearly demonstrates both 'The Process/Labor' (handling the plate with antibiotic discs) and 'The Reveal/Result' (visible zones of inhibition), showcasing a core activity and outcome in microbiology."
+    },
+    {
+      "start_time": "00:04.209",
+      "end_time": "00:05.158",
+      "structural_tags": [
+        "Human_Interaction",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands in gloves",
+        "marker",
+        "labeling petri dish"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "focused action"
+        ]
+      },
+      "why_kept": "This segment shows a professional 'Process/Labor' moment of labeling, essential for organization and accuracy in a lab setting, highlighting 'Human_Interaction' with lab materials."
+    },
+    {
+      "start_time": "00:05.158",
+      "end_time": "00:06.183",
+      "structural_tags": [
+        "Human_Interaction",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand in glove",
+        "test tube",
+        "rack",
+        "liquid media"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "focused action"
+        ]
+      },
+      "why_kept": "This clip demonstrates 'The Process/Labor' of handling and organizing samples in test tubes, a common and critical task in a lab, fitting 'Human_Interaction' and 'Workspace_Office'."
+    },
+    {
+      "start_time": "00:06.183",
+      "end_time": "00:07.110",
+      "structural_tags": [
+        "Human_Interaction",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand in glove",
+        "syringe",
+        "yellow liquid",
+        "Bunsen burner"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean workspace"
+        ]
+      },
+      "why_kept": "This segment illustrates 'The Process/Labor' of sample preparation or transfer using a syringe, showcasing another aspect of active lab work and 'Human_Interaction' with tools."
+    },
+    {
+      "start_time": "00:07.110",
+      "end_time": "00:08.082",
+      "structural_tags": [
+        "Macro_Detail",
+        "Result_Transformation",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "microscope view",
+        "bacteria",
+        "purple rods",
+        "pink background"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "macro",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "magnified view",
+          "scientific imagery"
+        ]
+      },
+      "why_kept": "This is a direct 'Reveal/Result' of microscopic examination, offering a 'Macro_Detail' and 'Cellular_Deep_Dive' into the subjects of microbiology, showing the direct output of observation."
+    },
+    {
+      "start_time": "00:08.082",
+      "end_time": "00:09.117",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand in glove",
+        "test tubes",
+        "different colored media",
+        "bacterial growth"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear focus"
+        ]
+      },
+      "why_kept": "This segment shows varied 'Result_Transformation' in multiple test tubes, implying different experimental outcomes or bacterial growths, which is an integral part of 'The Reveal/Result' in lab work."
+    },
+    {
+      "start_time": "00:09.117",
+      "end_time": "00:10.053",
+      "structural_tags": [
+        "Result_Transformation",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "rack of test tubes",
+        "different media",
+        "cotton plugs"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "organized setup",
+          "lab equipment"
+        ]
+      },
+      "why_kept": "This shot displays a collection of 'Result_Transformation' in various test tubes, providing a broader view of the cultured samples, reinforcing the output of lab processes."
+    },
+    {
+      "start_time": "00:10.053",
+      "end_time": "00:11.109",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "hand in glove",
+        "petri dish",
+        "antibiotic discs",
+        "bacterial lawn",
+        "zones of inhibition"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "Similar to the ANCHOR, this segment shows another instance of an antibiotic susceptibility test, reinforcing 'The Process/Labor' and 'The Reveal/Result' through 'Human_Interaction' with the experimental setup."
+    },
+    {
+      "start_time": "00:11.109",
+      "end_time": "00:12.441",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand in glove",
+        "blood culture bottle",
+        "needle",
+        "medical label"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear product view",
+          "sterile environment"
+        ]
+      },
+      "why_kept": "This segment shows specific 'Product_Interaction' with a medical sample bottle (Bactalert), illustrating the direct handling of diagnostic materials as part of 'The Process/Labor' in a lab."
+    }
+  ]
+}

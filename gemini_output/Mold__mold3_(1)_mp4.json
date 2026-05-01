@@ -1,0 +1,114 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold\\mold3 (1).mp4",
+  "detailed_description": "This video illustrates a complete transformation of a heavily mold-ridden bathroom wall. It effectively captures the 'before' state, showcasing the severe extent of mold growth and highlighting the problem. The core then shifts to the 'process' segment, where a person is actively engaged in scrubbing and cleaning the wall, demonstrating the effort and methodology applied. Finally, the video concludes with a satisfying 'after' reveal, presenting a pristine, mold-free surface that underscores the dramatic and successful result of the cleaning endeavor.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.106",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Messy_Unorganized",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "moldy wall",
+        "dirty bathroom",
+        "exhaust fan",
+        "stained tiles",
+        "grime"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "poor lighting",
+          "gritty texture",
+          "unedited footage"
+        ]
+      },
+      "why_kept": "This segment is crucial as it clearly establishes the severe problem of mold infestation, providing the necessary 'before' context and visual hook for the entire transformation narrative."
+    },
+    {
+      "start_time": "00:05.106",
+      "end_time": "00:14.706",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "scrubbing wall",
+        "spraying cleaner",
+        "cleaning brush",
+        "person cleaning",
+        "removing mold",
+        "active labor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "action-oriented",
+          "manual effort",
+          "cleaning supplies"
+        ]
+      },
+      "why_kept": "This segment is a hero moment demonstrating 'the process/labor' – the actual work being done to achieve the transformation. It shows the effort and method used to clean the mold, which is central to the video's purpose."
+    },
+    {
+      "start_time": "00:14.706",
+      "end_time": "00:17.373",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "clean wall",
+        "sparkling tiles",
+        "mold-free",
+        "renovated bathroom",
+        "fresh look"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "polished finish"
+        ]
+      },
+      "why_kept": "This segment presents the satisfying 'reveal/result' – the completely clean and transformed wall. It serves as the ultimate payoff, showcasing the successful outcome and directly contrasting with the initial problem state shown earlier."
+    }
+  ]
+}

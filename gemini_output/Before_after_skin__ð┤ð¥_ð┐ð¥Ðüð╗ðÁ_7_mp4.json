@@ -1,0 +1,79 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after skin\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ 7.mp4",
+  "detailed_description": "The video powerfully illustrates a remarkable skin transformation. It initially captures a young man's face and neck severely affected by inflamed acne, reflecting a somber or neutral demeanor. The scene then transitions to the same individual, now displaying dramatically clearer skin with minimal signs of past blemishes. This 'after' state is highlighted by his confident and genuine smile, effectively conveying the significant positive emotional and physical impact of the transformation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Before_After",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "young man",
+        "severe acne",
+        "inflamed skin",
+        "red blemishes",
+        "neutral expression",
+        "grey shirt"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "eye-level shot"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state, vividly showcasing the severe acne which represents the core problem addressed by the implied transformation. It provides necessary context for the subsequent 'after' segment."
+    },
+    {
+      "start_time": "00:14.000",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Before_After",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "young man",
+        "clearer skin",
+        "smile",
+        "happy expression",
+        "grey sweatshirt"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "eye-level shot",
+          "clear complexion"
+        ]
+      },
+      "why_kept": "This segment is the 'reveal' or 'result' moment, demonstrating the dramatic improvement in skin condition and the positive emotional climax through the man's genuine smile. It's the most impactful part showing the successful transformation."
+    }
+  ]
+}

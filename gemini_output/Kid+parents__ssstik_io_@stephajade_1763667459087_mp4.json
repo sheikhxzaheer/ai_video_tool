@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid+parents\\ssstik.io_@stephajade_1763667459087.mp4",
+  "detailed_description": "This video humorously captures a playful moment between an adult and a baby in a home setting. The woman jumps around energetically, mimicking childlike behavior, while the baby in a walker observes and reacts with evident joy and laughter. The on-screen text reinforces the theme that 'Kids teach you to be a kid again,' highlighting the fun and carefree spirit children inspire in adults. The entire segment focuses on this delightful interaction and the positive emotional responses from both.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:17.659",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Home_Kitchen",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman jumping",
+        "baby laughing",
+        "baby in walker",
+        "kitchen island",
+        "living room",
+        "playful interaction"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home",
+          "kitchen",
+          "living room"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright natural lighting",
+          "casual home video",
+          "low angle shot"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it continuously demonstrates the core semantic meaning: the playful interaction between an adult and a baby, evoking positive emotions and illustrating the theme of embracing childlike behavior, as suggested by the overlay text. Both subjects show clear emotional reactions, and the action is uninterrupted and cohesive throughout."
+    }
+  ]
+}

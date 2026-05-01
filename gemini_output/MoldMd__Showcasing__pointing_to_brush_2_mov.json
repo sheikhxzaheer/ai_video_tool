@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\pointing to brush 2.mov",
+  "detailed_description": "This video features a smiling bald man holding up a small red and black cleaning brush, seemingly presenting it to the viewer. He makes eye contact with the camera and points to the product, conveying a positive and welcoming demeanor. The clip serves as a direct and concise product introduction, highlighting the item with a friendly human interaction.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.112",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "bald",
+        "beard",
+        "smile",
+        "red brush",
+        "black bristles",
+        "presenting product",
+        "pointing gesture"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct address",
+          "friendly tone"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it constitutes the core message of the video: a clear and positive introduction of a product by a smiling individual. The subject is actively engaging with the camera and the product, fulfilling the 'Product Interaction' and 'Emotional Climax' criteria without any discernible setup or post-action dead air."
+    }
+  ]
+}

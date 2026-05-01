@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20251211_135135725.mp4",
+  "detailed_description": "This video concisely presents the 'PRFECT MORNING TANGERINE PULSE' product. It begins with a hand holding a single sachet, highlighting the product's name and flavor. The sachet is then placed on a clean, light-colored kitchen countertop, alongside a larger pouch of the same product, showcasing the different packaging options available. The scene is straightforward, focusing purely on the product's introduction and physical presentation.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:03.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "Tangerine Pulse",
+        "PRFECT MORNING",
+        "sachet",
+        "pouch",
+        "hand",
+        "countertop"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "minimalist background"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it perfectly aligns with the 'Product Interaction' and 'Product Intro' hero moment criteria. It directly shows a hand interacting with the product (holding and placing it) and clearly displays both the sachet and the larger product package. There is no setup, calibration, or post-action dead air, making it a complete semantic core segment."
+    }
+  ]
+}

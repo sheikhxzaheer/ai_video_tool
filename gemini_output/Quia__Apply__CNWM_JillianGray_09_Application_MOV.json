@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Apply\\CNWM_JillianGray_09_Application.MOV",
+  "detailed_description": "The video showcases a young woman demonstrating a skincare application. Wearing a pink headband, she applies a clear, gel-like substance to her face using a silicone brush. While applying, she explains the product's benefits, emphasizing its ability to increase skin elasticity, boost hydration, and contribute to a desirable 'glass skin' look. The segment captures both the practical application and the verbal explanation of the product's efficacy.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.110",
+      "structural_tags": [
+        "Product_Interaction",
+        "UGC_Talking_Head",
+        "Mechanism_Of_Action",
+        "Night_Routine",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "skincare",
+        "face",
+        "gel application",
+        "silicone brush",
+        "pink headband",
+        "talking",
+        "smiling",
+        "facial skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "informative",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "self-shot",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it perfectly combines multiple 'Hero Moment' criteria: the 'Process/Labor' of applying the product, direct 'Product Interaction' with the silicone brush, and 'Key Information' provided by the 'Talking Head' explaining the product's benefits (skin elasticity, hydration, 'glass look'), culminating in a 'Positive Emotion' (smile) at the end. The action starts immediately and finishes without dead air, adhering to the 'No-Mistake' rule."
+    }
+  ]
+}

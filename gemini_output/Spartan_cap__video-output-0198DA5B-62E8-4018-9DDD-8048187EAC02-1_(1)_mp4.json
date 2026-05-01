@@ -1,0 +1,226 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan cap\\video-output-0198DA5B-62E8-4018-9DDD-8048187EAC02-1 (1).mp4",
+  "detailed_description": "The video introduces the Spartan Red Light Growth Cap, an innovative solution for hair growth. It showcases the unboxing of the cap and its embedded red light therapy panel, which is designed to improve hair thickness, reduce shedding, and promote new hair growth. The video highlights the product's ease of use, featuring a simple installation process of the rechargeable LED panel into the comfortable, baseball-style cap. It demonstrates the cap's one-touch operation with multiple light modes, emphasizing its convenience as a non-messy and effective alternative to traditional hair loss treatments.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.133",
+      "structural_tags": [
+        "Product_Intro",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "hands",
+        "product box",
+        "Spartan Red Light Growth Cap"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": []
+      },
+      "why_kept": "Introduces the product with clear branding and purpose, acting as a visual hook."
+    },
+    {
+      "start_time": "00:02.133",
+      "end_time": "00:10.933",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "hands",
+        "opening box",
+        "tissue paper",
+        "black cap",
+        "Spartan logo"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": []
+      },
+      "why_kept": "Shows the unboxing process, revealing the cap while the narrator explains the user's problem state (hair loss)."
+    },
+    {
+      "start_time": "00:12.166",
+      "end_time": "00:23.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hands",
+        "LED panel",
+        "red lights",
+        "light distribution",
+        "scalp coverage"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": []
+      },
+      "why_kept": "Visually demonstrates the core technology (the LED panel) and explains its intended coverage for hair therapy."
+    },
+    {
+      "start_time": "00:23.000",
+      "end_time": "00:27.766",
+      "structural_tags": [
+        "Key_Information",
+        "Product_Standalone",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hands",
+        "user instructions",
+        "charging cable",
+        "product specifications",
+        "controller operating instructions"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": []
+      },
+      "why_kept": "Provides essential information about the product's use, specifications, and components."
+    },
+    {
+      "start_time": "00:30.200",
+      "end_time": "00:37.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "hands",
+        "connecting cable",
+        "charging port",
+        "LED panel"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": []
+      },
+      "why_kept": "Shows the practical step of connecting the power, demonstrating its rechargeable nature and ease of setup."
+    },
+    {
+      "start_time": "00:44.066",
+      "end_time": "01:05.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Result_Transformation",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "hands",
+        "inserting LED panel",
+        "cap",
+        "comfortable fit",
+        "hair growth",
+        "fuller hair",
+        "healthier scalp"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "informative",
+          "positive_emotion"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": []
+      },
+      "why_kept": "Demonstrates the assembly of the product, showing how the LED panel integrates into the cap and highlighting reported user benefits from using it."
+    },
+    {
+      "start_time": "01:06.666",
+      "end_time": "01:16.866",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Interaction",
+        "Offer_CTA",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands",
+        "cap",
+        "red lights",
+        "LED panel activated",
+        "power button",
+        "green light flash"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "premium",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "vibrant red glow"
+        ]
+      },
+      "why_kept": "This is the visual climax, demonstrating the product in its active state with the red light therapy engaged, a direct and impactful demonstration of its core function and appeal. It clearly shows the product's effectiveness."
+    }
+  ]
+}

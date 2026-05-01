@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLlife_product\\Scene13_Unboxing Experience.mp4",
+  "detailed_description": "This video provides a complete product demonstration, starting with the unboxing of a purple, segmented flexible collar from a metal tin and plastic pouch. It then visually explains the product's design by uncoiling it to show its full length and adjustable segments. Finally, it demonstrates how the collar's ends connect, illustrating its intended assembly and functionality as a wearable item.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:28.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "hands",
+        "metal tin",
+        "purple coiled collar",
+        "plastic pouch",
+        "segmented strap",
+        "buckle connection"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "natural light",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it perfectly captures the core meaning of the video: a step-by-step demonstration of the product from unboxing to final assembly. It shows the 'Product Interaction' (opening packaging, handling the item, connecting parts) and 'Mechanism_Of_Action' (how the segmented collar uncoils and connects). There is no 'Setup & Calibration' or 'Post-Action Dead Air,' making it a continuous and focused 'Hero Moment' according to the 'No-Mistake' rule."
+    }
+  ]
+}

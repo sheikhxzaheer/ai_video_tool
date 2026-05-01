@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@rgucmedia_1769676402130.mp4",
+  "detailed_description": "This video offers a unique, immersive 'patient's eye view' of being transported on a stretcher through a hospital. It effectively captures the disorienting and fast-paced experience from the patient's vantage point, showing both their own dazed expression and the blurred, moving hospital hallway. The shifting perspectives between the patient's face and the environment emphasize the feeling of vulnerability and rapid movement within a medical setting, fully conveying the patient's journey.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.750",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Urgency_Rush",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "patient",
+        "hospital",
+        "stretcher",
+        "hallway",
+        "movement",
+        "blurry view",
+        "hands",
+        "hospital gown",
+        "ceiling lights"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical",
+          "urgent"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "fisheye lens",
+          "POV",
+          "immersive",
+          "dynamic camera"
+        ]
+      },
+      "why_kept": "The entire video segment constitutes the 'Patient's eye view' experience, which is the central theme and the 'hero moment'. It continuously demonstrates the immersive perspective and the rapid movement through a hospital environment, fulfilling the 'Process/Labor' and 'Emotional Climax' criteria by showing the patient's experience and disorientation. There is no setup, calibration, or post-action dead air, making the entire duration the semantic core."
+    }
+  ]
+}

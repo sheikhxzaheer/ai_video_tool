@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ssstik.io_1746550718041.mp4",
+  "detailed_description": "This video showcases a significant hair transformation experienced by a man before and after using Minoxidil. It starts with a top-down view of his scalp, clearly indicating hair thinning and balding in the 'before' state. The video then transitions to an 'after' shot, revealing visibly thicker and fuller hair, concluding with the man smiling and making a peace sign, conveying satisfaction with the results of the treatment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair",
+        "baldness",
+        "hair growth",
+        "minoxidil",
+        "scalp",
+        "smile",
+        "peace sign"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "before/after text overlay",
+          "handheld camera"
+        ]
+      },
+      "why_kept": "This segment encompasses the entire video, which functions as a direct and concise 'Before/After' demonstration. It clearly presents the initial problem of hair thinning and the subsequent positive transformation after using Minoxidil, making it the complete semantic core."
+    }
+  ]
+}

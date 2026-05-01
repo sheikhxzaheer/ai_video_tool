@@ -1,0 +1,313 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Man\\ssstik.io_@peterpandeveloper_1766754150438.mp4",
+  "detailed_description": "This video captures the essence of a tranquil yet productive work routine within a meticulously organized office space. It highlights various modern tech and lifestyle products through seamless interactions, such as stirring a refreshing iced coffee, detaching a smartphone from its magnetic stand, and lighting an ambient candle. The continuous action of a man typing on a mechanical keyboard, coupled with adjustments to his widescreen monitor, reinforces the theme of focused work in an aesthetically pleasing and personalized environment, creating a sense of calm efficiency.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.600",
+      "structural_tags": [
+        "Product_Interaction",
+        "Morning_Routine",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "hand",
+        "coffee",
+        "glass",
+        "straw",
+        "stirring"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "warm lighting"
+        ]
+      },
+      "why_kept": "This segment acts as a visual hook, showcasing a common morning routine action and highlighting an appealing drink product interaction."
+    },
+    {
+      "start_time": "00:02.300",
+      "end_time": "00:03.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Product_Standalone",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "hand",
+        "smartphone",
+        "magnetic stand",
+        "desk"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "modern tech"
+        ]
+      },
+      "why_kept": "This segment features a clear product interaction with a smartphone on a magnetic stand, followed by a brief standalone shot, illustrating a modern desk accessory."
+    },
+    {
+      "start_time": "00:03.500",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "man",
+        "typing",
+        "keyboard",
+        "desk",
+        "monitor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused work",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This clip quickly establishes the primary activity of working at the desk, showing the user engaged in typing."
+    },
+    {
+      "start_time": "00:04.400",
+      "end_time": "00:06.100",
+      "structural_tags": [
+        "Product_Interaction",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "lighter",
+        "candle",
+        "desk",
+        "flame"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "ambient lighting",
+          "lifestyle product"
+        ]
+      },
+      "why_kept": "This segment introduces an element of ambiance and personal well-being to the workspace, demonstrating a lifestyle product interaction."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:08.800",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Data_Metrics_Chart"
+      ],
+      "visual_keywords": [
+        "hand",
+        "coiled cable",
+        "keyboard",
+        "screen",
+        "battery icon"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "tech detail",
+          "functional design"
+        ]
+      },
+      "why_kept": "This clip showcases a detailed interaction with a mechanical keyboard, highlighting its charging and battery status as a functional aspect of the setup."
+    },
+    {
+      "start_time": "00:09.500",
+      "end_time": "00:10.500",
+      "structural_tags": [
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "man",
+        "monitor",
+        "hands",
+        "desk",
+        "adjustment"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "ergonomic setup",
+          "user interaction"
+        ]
+      },
+      "why_kept": "This segment illustrates the user's interaction with the primary display, emphasizing the customizable and adaptable nature of the workspace."
+    },
+    {
+      "start_time": "00:10.500",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "desk",
+        "monitor",
+        "keyboard",
+        "office setup",
+        "wall decor"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead view",
+          "organized workspace",
+          "modern decor"
+        ]
+      },
+      "why_kept": "This wide shot serves as the primary anchor, comprehensively displaying the organized workspace, the user engaged in typing, and the overall aesthetic of the office setup."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Calm_Relaxation",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "hand",
+        "coffee",
+        "glass",
+        "man",
+        "drinking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "refreshment break",
+          "focus on beverage"
+        ]
+      },
+      "why_kept": "This segment reiterates the calm morning routine, showcasing the enjoyment of a beverage, enhancing the lifestyle aspect of the workspace."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "desk",
+        "monitor",
+        "keyboard",
+        "office setup",
+        "wall decor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead view",
+          "organized workspace",
+          "seamless workflow"
+        ]
+      },
+      "why_kept": "This final wide shot reinforces the video's theme of a productive and aesthetically pleasing workspace, showing the user continuously engaged in their work."
+    }
+  ]
+}

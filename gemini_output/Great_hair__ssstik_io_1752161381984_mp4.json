@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1752161381984.mp4",
+  "detailed_description": "This video showcases a dramatic hair transformation. It begins with a man indoors, sporting a darker, mixed grey hair style and a serious expression. A swift, dark transition punctuated by upbeat music leads to the reveal. The man reappears outdoors, confidently sporting a stylish, vibrant silver-grey hairstyle. His broad smile and a peace sign gesture convey satisfaction and positive emotion, highlighting the successful and appealing change.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.166",
+      "structural_tags": [
+        "Visual_Hook",
+        "Before_After",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair transformation",
+        "grey hair",
+        "silver hair",
+        "smile",
+        "peace sign",
+        "t-shirt",
+        "before and after"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "quick cut",
+          "before/after effect",
+          "striking transformation",
+          "upbeat music"
+        ]
+      },
+      "why_kept": "This entire segment presents a clear 'before and after' transformation of a man's hair, accompanied by an upbeat transition, culminating in a confident and positive reveal. The full duration is necessary to establish the initial state, facilitate the dramatic change, and showcase the final desired outcome with an emotional climax (smile)."
+    }
+  ]
+}

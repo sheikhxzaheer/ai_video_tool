@@ -1,0 +1,121 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\ssstik.io_1748360480595.mp4",
+  "detailed_description": "This video showcases sophisticated 3D graphic content for skin aesthetics. It meticulously visualizes the intricate layers of human skin, including hair follicles, sweat glands, and blood vessels with detailed macro views. The core demonstration features a simulated aesthetic device interacting with these skin layers, illustrating its mechanism of action at a micro-level, such as needle penetration and light emission for treatment. Finally, the video concludes with a clear, labeled diagram of the skin's various anatomical components for comprehensive understanding, highlighting its educational and professional application.",
+  "segments": [
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Macro_Detail",
+        "Cellular_Deep_Dive",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "skin layers",
+        "hair follicles",
+        "sweat glands",
+        "blood vessels",
+        "epidermis",
+        "dermis",
+        "fat"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "3D animation",
+          "detailed",
+          "scientific",
+          "light pink background"
+        ]
+      },
+      "why_kept": "This segment introduces the detailed 3D graphic of the skin's anatomy, providing crucial context by showcasing its various components before any simulated intervention. It fulfills the 'See the detail in 3D Graphic' aspect mentioned in the video."
+    },
+    {
+      "start_time": "00:11.000",
+      "end_time": "00:22.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Product_Intro"
+      ],
+      "visual_keywords": [
+        "device simulation",
+        "skin layers",
+        "needle penetration",
+        "light emission",
+        "treatment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "3D animation",
+          "simulated action",
+          "scientific",
+          "light pink background"
+        ]
+      },
+      "why_kept": "This is the primary 'Hero Moment' as it actively demonstrates the core action: a simulated aesthetic device interacting with the skin layers. It visually explains the 'Mechanism_Of_Action' of such a device, including penetration and energy delivery, which is central to 'Skin Aesthetics' content."
+    },
+    {
+      "start_time": "00:22.500",
+      "end_time": "00:27.500",
+      "structural_tags": [
+        "Formula_Graphic",
+        "Cellular_Deep_Dive",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "labeled diagram",
+        "skin anatomy",
+        "pores",
+        "epidermis",
+        "dermis",
+        "fat",
+        "sweat gland",
+        "hair",
+        "blood vessels"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "3D animation",
+          "educational",
+          "clear labeling",
+          "light pink background"
+        ]
+      },
+      "why_kept": "This segment provides essential educational value by clearly labeling the different parts of the skin model. It serves as a comprehensive summary of the anatomy previously shown in detail, reinforcing the 'Visual content in Skin Aesthetics' theme with key information."
+    }
+  ]
+}

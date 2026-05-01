@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold bad treatment\\ssstik.io_@funpeekvideo_1770736130257.mp4",
+  "detailed_description": "This video showcases the interior of a building, likely a home or office, thoroughly filled with dense, white smoke. The camera moves through various rooms and hallways, revealing how the smoke permeates every corner of the space. This visual emphasizes the comprehensive nature of a fumigation or pest control treatment, demonstrating the active agent (smoke) at work and its ability to spread effectively throughout the environment. The continuous presence of smoke across different areas highlights the process in action.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.750",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Aesthetic_Broll",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "smoke",
+        "fumigation",
+        "interior",
+        "hallway",
+        "room",
+        "doorway",
+        "walls",
+        "floor tiles",
+        "light"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "dense smoke",
+          "interior lighting",
+          "tracking shot",
+          "widespread coverage"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it effectively demonstrates the 'Mechanism_Of_Action' of a fumigation process, showing how dense smoke fills an entire interior space. It acts as an 'Aesthetic_Broll' sequence, guiding the viewer through various rooms and hallways, visually confirming the widespread 'Result_Transformation' of the environment as it becomes saturated with the active agent."
+    }
+  ]
+}

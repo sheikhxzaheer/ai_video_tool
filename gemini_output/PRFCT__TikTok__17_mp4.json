@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\TikTok\\17.mp4",
+  "detailed_description": "The video features a young woman candidly discussing her struggle with dehydration during the summer, highlighting the ineffectiveness of just drinking water. She then introduces 'Perfect Morning Electrolytes' (Tangerine Pulse flavor) as her solution, demonstrating how she incorporates one sachet into her morning routine. She enthusiastically explains the product's benefits, including rapid hydration, metabolic activation, and nutrient replacement without a salty taste, contrasting it with other brands. The video concludes with a strong recommendation for viewers to try the product.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:52.000",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Intro",
+        "Product_Interaction",
+        "Result_Transformation",
+        "UGC_Talking_Head",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Morning_Routine",
+        "Lifestyle_Active",
+        "Home_Kitchen",
+        "Ingredient_Highlight",
+        "Mechanism_Of_Action",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "young woman",
+        "electrolyte pouch",
+        "sachet",
+        "talking",
+        "gesturing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "direct address",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core. It clearly establishes the problem (dehydration), introduces the product as a solution, demonstrates direct product interaction (showing the pouch, taking out a sachet), articulates the product's benefits and key differentiators, and provides a clear call to action. The 'Visual Priority Rule' is met as the product is consistently present and actively discussed for the majority of the segment, even during the talking head portions, ensuring a strong product focus throughout the value proposition."
+    }
+  ]
+}

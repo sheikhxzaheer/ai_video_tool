@@ -1,0 +1,270 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great_makeup\\ssstik.io_@beautytiktok_2_1768407254290.mp4",
+  "detailed_description": "This video showcases a comprehensive \"get ready with me\" makeup routine, demonstrating various product applications to achieve a radiant and polished look. It highlights steps from initial skin preparation to applying foundation, concealer, blush, and highlighter for a glowy base. The routine further focuses on defining features with eyebrow products and enhancing eyes with mascara, culminating in a fresh, natural-glam final appearance.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "applying cream",
+        "face",
+        "hands"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "smooth application"
+        ]
+      },
+      "why_kept": "This segment serves as a visual hook, initiating the makeup routine with essential skin preparation and product interaction."
+    },
+    {
+      "start_time": "00:07.600",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "applying foundation",
+        "blending foundation",
+        "face",
+        "makeup brush"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "seamless blending"
+        ]
+      },
+      "why_kept": "This segment captures the crucial step of applying and blending foundation, representing a core part of the makeup transformation."
+    },
+    {
+      "start_time": "00:12.700",
+      "end_time": "00:15.800",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "applying concealer",
+        "under eyes",
+        "blending",
+        "Charlotte Tilbury liquid concealer"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "product text overlay"
+        ]
+      },
+      "why_kept": "Highlights the application of a specific brightening product under the eyes, a key step in achieving a flawless base."
+    },
+    {
+      "start_time": "00:23.000",
+      "end_time": "00:25.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "applying blush",
+        "blending",
+        "cheek",
+        "makeup brush"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "rosy glow"
+        ]
+      },
+      "why_kept": "Showcases the process of adding color and a healthy glow to the cheeks, enhancing the overall complexion."
+    },
+    {
+      "start_time": "00:26.500",
+      "end_time": "00:28.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "filling eyebrows",
+        "eyebrow pencil",
+        "brow shaping",
+        "KOSMETICS brow"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "product text overlay"
+        ]
+      },
+      "why_kept": "This segment demonstrates the process of defining eyebrows, a critical step for framing the face."
+    },
+    {
+      "start_time": "00:42.800",
+      "end_time": "00:45.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "applying highlighter",
+        "cheekbone",
+        "highlighter stick",
+        "Van Perdis creme highlighter"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "dewy finish",
+          "product text overlay"
+        ]
+      },
+      "why_kept": "Illustrates the application of highlighter, a key finishing touch to achieve a radiant and illuminated look."
+    },
+    {
+      "start_time": "00:53.000",
+      "end_time": "00:55.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "applying mascara",
+        "eyelashes",
+        "mascara wand",
+        "eye makeup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "eye enhancement"
+        ]
+      },
+      "why_kept": "Captures the final essential eye makeup step, showcasing the direct impact of mascara on the lashes."
+    },
+    {
+      "start_time": "00:57.000",
+      "end_time": "01:00.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "final makeup look",
+        "smiling",
+        "confident expression",
+        "glowy skin",
+        "glossy lips"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "polished look"
+        ]
+      },
+      "why_kept": "This segment serves as the ultimate reveal, showcasing the complete transformed makeup look and the subject's positive reaction."
+    }
+  ]
+}

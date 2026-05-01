@@ -1,0 +1,177 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Transplantation hair\\oMWEQCTI70I4BOmioFujCPEDOD05fdAfVQBK5J.mp4",
+  "detailed_description": "This video showcases the comprehensive experience of a hair transplant procedure at the Long Hair Center. It captures the precision of the surgical process, the immediate post-operative state of the scalp, and the patient's positive demeanor shortly after the procedure. The video further details the specialized aftercare, including product application and gentle cleansing, concluding with the patient proudly wearing a branded headband, reflecting the full journey from transplant to initial recovery.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.167",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hair transplant",
+        "surgeon",
+        "patient",
+        "scalp procedure",
+        "gloved hands"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "clinical"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "professional setup"
+        ]
+      },
+      "why_kept": "This segment is kept as the ANCHOR because it directly demonstrates the core 'process' and 'labor' of a hair transplant, showcasing the expertise and the primary service being offered. It immediately sets the context for the entire video."
+    },
+    {
+      "start_time": "00:02.167",
+      "end_time": "00:05.667",
+      "structural_tags": [
+        "Result_Transformation",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "transplanted scalp",
+        "red dots",
+        "new hair follicles",
+        "wet hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "clinical"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "detailed view"
+        ]
+      },
+      "why_kept": "This segment is a crucial 'reveal' of the immediate post-procedure 'result' on the patient's scalp, visually confirming the work done in the preceding anchor segment. It provides detailed insight into the transformation."
+    },
+    {
+      "start_time": "00:05.667",
+      "end_time": "00:07.767",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Result_Transformation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "smiling man",
+        "happy patient",
+        "post-op appearance",
+        "walking",
+        "headband"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "clinical"
+        ],
+        "mood": [
+          "positive",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "dynamic movement"
+        ]
+      },
+      "why_kept": "This segment captures the 'emotional climax' and a positive 'face reaction' of the patient, showcasing his satisfaction and confidence shortly after the procedure, which serves as a compelling immediate 'result transformation'."
+    },
+    {
+      "start_time": "00:07.767",
+      "end_time": "00:16.200",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "spraying hair",
+        "applying foam",
+        "massaging scalp",
+        "shampooing",
+        "aftercare products",
+        "gloved hands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "clinical"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "close-up detail"
+        ]
+      },
+      "why_kept": "This segment highlights the essential 'process' of post-operative hair care, demonstrating 'product interaction' and the detailed attention given to the patient's recovery. It's an important part of the overall service."
+    },
+    {
+      "start_time": "00:16.200",
+      "end_time": "00:18.400",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "branded headband",
+        "Long Hair Center",
+        "patient's face",
+        "satisfied expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "clinical"
+        ],
+        "mood": [
+          "confident",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct gaze",
+          "clean backdrop"
+        ]
+      },
+      "why_kept": "This final segment provides a clear 'result transformation' by showcasing the patient's post-care appearance with the clinic's branded headband, reinforcing the 'product' (service and branding) and leaving a lasting impression of satisfaction."
+    }
+  ]
+}

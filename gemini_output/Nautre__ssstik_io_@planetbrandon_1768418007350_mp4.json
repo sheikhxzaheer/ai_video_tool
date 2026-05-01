@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Nautre\\ssstik.io_@planetbrandon_1768418007350.mp4",
+  "detailed_description": "This video captures a breathtaking panoramic view of a majestic natural landscape. It showcases a wide river winding through a deep, lush green canyon, flanked by imposing mountains and dramatic rock formations under a bright blue sky with scattered clouds. The foreground features rugged rocks and verdant foliage, emphasizing the elevated viewpoint and immersing the viewer in the serene and grand scale of nature.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.828",
+      "structural_tags": [
+        "Visual_Hook",
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "river",
+        "canyon",
+        "mountains",
+        "clouds",
+        "sky",
+        "rocks",
+        "trees",
+        "foliage",
+        "green",
+        "blue"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "rugged",
+          "serene",
+          "majestic"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "panoramic",
+          "natural light",
+          "scenic",
+          "vibrant colors",
+          "high angle"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core of the video, presenting a continuous, high-quality shot of a stunning natural landscape. There are no other actions, products, or speaking elements to trim or prioritize; the visual experience of the scenic view is the complete and sole value of the content."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Typing\\853986-hd_1920_1080_25fps.mp4",
+  "detailed_description": "This video features a close-up of a person's hands typing on a clean, white keyboard. The individual has dark nail polish and wears a ring, suggesting a professional or focused work environment. The continuous motion of the fingers on the keys effectively conveys the act of working, data entry, or communication. It highlights the process of engaged interaction with technology in a sleek setting.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:11.23",
+      "structural_tags": [
+        "Human_Interaction",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands typing",
+        "keyboard",
+        "black nail polish",
+        "ring",
+        "office work"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "minimal background",
+          "sharp focus"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, showcasing the 'process/labor' of typing and 'product interaction' with the keyboard. The action is continuous from start to finish, requiring no trimming of setup or post-action dead air, adhering to the 'no-mistake' rule."
+    }
+  ]
+}

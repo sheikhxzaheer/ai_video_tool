@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Dog happy\\Snaptik.app_7304042952584744197.mp4",
+  "detailed_description": "This video captures a humorous and heartwarming moment of a man holding a small white and brown dog with an incredibly expressive, wide-open mouth. The dog appears to be either yawning dramatically or howling playfully, making exaggerated vocalizations. The man holding the dog is visibly amused, smiling brightly at the dog's antics. The entire sequence highlights the dog's unique and funny 'face reactions' and the positive interaction between the pet and its owner.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:09.340",
+      "structural_tags": [
+        "High_Energy",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "dog yawning",
+        "dog howling",
+        "man smiling",
+        "dog with tongue out",
+        "wide open mouth",
+        "pet interaction"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clear focus"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it continuously displays the dog's central 'hero moment' – its exaggerated, humorous facial expressions and vocalizations, coupled with the man's clear positive emotional response. There are no setup, calibration, or post-action dead air frames, making the entire duration the valuable content."
+    }
+  ]
+}

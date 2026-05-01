@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\pointing at bottle and brush 3.mov",
+  "detailed_description": "The video's semantic core features a smiling man in a modern bathroom, clearly presenting a 'MoldMD' mold spot remover concentrate and a complementary cleaning brush. He holds both items up, looking directly at the camera with a friendly and positive expression, effectively introducing the products to the viewer. This segment serves as a direct and engaging product showcase, emphasizing its readiness for use with the accompanying tool.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "smiling",
+        "MoldMD product",
+        "cleaning brush",
+        "bathroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "friendly"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct gaze",
+          "good lighting",
+          "clear product visibility"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it clearly introduces the product ('MoldMD' mold spot remover) and its associated cleaning tool. The man's direct gaze and positive facial expression (smiling) engage the viewer, conveying a sense of confidence and readiness, which aligns with 'Product_Intro', 'Product_Interaction', and 'Positive_Emotion' hero moment criteria. It's the most stable and impactful part of the video for showcasing the items."
+    }
+  ]
+}

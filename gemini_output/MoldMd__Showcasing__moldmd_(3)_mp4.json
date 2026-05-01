@@ -1,0 +1,141 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\moldmd (3).mp4",
+  "detailed_description": "The video presents a positive user testimonial for Mold MD's mold and mildew remover products. The user enthusiastically shares how the concentrated and spray forms of the cleaner, along with a specialized brush, have been a \"lifesaver\" for her weekly cleaning routine, particularly for washing rooms and windows. She highlights the product's effectiveness, resulting in a fresh-smelling home and expresses strong satisfaction and gratitude for Mold MD.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.400",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "Mold MD concentrate bottle",
+        "hands holding product",
+        "city view"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clear framing"
+        ]
+      },
+      "why_kept": "This segment introduces the product and the user's positive sentiment immediately, setting the main theme of the testimonial. It captures a clear product interaction and emotional climax (smiling face)."
+    },
+    {
+      "start_time": "00:03.400",
+      "end_time": "00:07.433",
+      "structural_tags": [
+        "Product_Interaction",
+        "Product_Standalone",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hand",
+        "Mold MD spray bottle",
+        "dog",
+        "wooden floor",
+        "cleaning product"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead angle"
+        ]
+      },
+      "why_kept": "This segment showcases another variation of the Mold MD product (spray bottle) and implies its usage in a home setting, providing visual context to the ongoing audio description."
+    },
+    {
+      "start_time": "00:07.433",
+      "end_time": "00:10.266",
+      "structural_tags": [
+        "Product_Interaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "hands",
+        "cleaning brush",
+        "red and black brush"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused shot",
+          "neutral background"
+        ]
+      },
+      "why_kept": "This segment introduces a complementary cleaning tool, suggesting the complete solution used alongside the Mold MD product for effective cleaning."
+    },
+    {
+      "start_time": "00:10.266",
+      "end_time": "00:12.700",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Social_Proof",
+        "Offer_CTA",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "Mold MD spray bottle",
+        "cleaning brush",
+        "hands holding products",
+        "city view"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "direct address",
+          "final pose"
+        ]
+      },
+      "why_kept": "This segment provides a strong concluding shot, combining the user's satisfied emotional climax with both products, reinforcing the positive endorsement and delivering a clear 'Thank you' message for the brand."
+    }
+  ]
+}

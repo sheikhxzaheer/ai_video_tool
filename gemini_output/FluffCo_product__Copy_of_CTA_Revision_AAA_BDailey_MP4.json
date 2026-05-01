@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of CTA Revision AAA BDailey.MP4",
+  "detailed_description": "The video features a woman in a bedroom, holding a white pillow, and addressing the camera directly. She smiles and delivers a message about a product that has been sold out multiple times, urging viewers not to delay trying it. Her positive demeanor and direct appeal serve as a clear call to action, highlighting the product's popularity and creating a sense of urgency.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.758",
+      "structural_tags": [
+        "Offer_CTA",
+        "UGC_Talking_Head",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Home_Kitchen",
+        "Urgency_Rush",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pillow",
+        "bed",
+        "bedroom",
+        "smiling",
+        "talking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "friendly"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "direct address",
+          "warm tone"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it contains the core message of the video: a woman delivering a direct call to action (Offer_CTA) as a talking head (UGC_Talking_Head) while interacting with the product (Product_Interaction). She conveys positive emotion (Positive_Emotion), establishes urgency (Urgency_Rush), and provides social proof (Social_Proof) about the product's popularity, all within a clear home bedroom setting."
+    }
+  ]
+}

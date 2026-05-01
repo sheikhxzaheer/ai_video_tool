@@ -1,0 +1,121 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid+parents\\ssstik.io_@baby.world68_1767633473717.mp4",
+  "detailed_description": "This video beautifully captures the transformative journey of a couple into parenthood. It seamlessly transitions from playful, intimate moments of the couple before the baby's arrival to the profound and emotional experience of childbirth. The core meaning lies in showcasing the overwhelming joy and tender love that blossoms between the new parents and their newborn, highlighting the emotional climax of becoming a family and the deep bond formed through this significant life event.",
+  "segments": [
+    {
+      "start_time": "00:45.800",
+      "end_time": "00:55.700",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "couple",
+        "man",
+        "woman",
+        "sitting",
+        "hugging",
+        "laughing",
+        "playful",
+        "bunny ears",
+        "living room"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "casual home setting"
+        ]
+      },
+      "why_kept": "This segment establishes the couple's loving and playful relationship before the baby, providing essential context for the journey into parenthood. It fulfills the 'before' state of the transformation."
+    },
+    {
+      "start_time": "00:31.200",
+      "end_time": "00:32.400",
+      "structural_tags": [
+        "Process_Labor",
+        "Emotional_Climax",
+        "Result_Transformation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hospital bed",
+        "birth",
+        "baby feet",
+        "medical setting"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "intense"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clinical lighting",
+          "documentary style"
+        ]
+      },
+      "why_kept": "This brief but impactful segment directly shows the 'Process/Labor' of childbirth, which is the pivotal moment of transformation in the narrative, representing a key hero moment."
+    },
+    {
+      "start_time": "00:32.400",
+      "end_time": "00:45.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "parents",
+        "newborn baby",
+        "hugging",
+        "kissing",
+        "smiling",
+        "tender moments",
+        "bedroom",
+        "pajamas"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "loving",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "intimate setting",
+          "soft focus"
+        ]
+      },
+      "why_kept": "This is the strongest emotional climax and 'Reveal/Result' segment, showing the raw joy and tenderness of the parents immediately after the birth. It encapsulates the core meaning of love and new family life, making it the anchor of the video's semantic core."
+    }
+  ]
+}

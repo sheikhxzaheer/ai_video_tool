@@ -1,0 +1,165 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sofa_couch is dirty\\ssstik.io_@chriddycat_1768408853962.mp4",
+  "detailed_description": "This video demonstrates a practical method for removing dried pink fluffy slime from a fabric couch. The process begins with manually scraping the bulk of the hardened slime off the couch using a spoon. Subsequently, a mixture of hot water and vinegar is applied to the remaining stain, allowing it to soak and loosen the residue. The final step involves a second round of scraping with the spoon to lift the dissolved slime, resulting in a significantly cleaner couch surface, effectively removing the stubborn stain.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.300",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Messy_Unorganized",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "pink slime",
+        "couch fabric",
+        "dried slime"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_living_room"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": []
+      },
+      "why_kept": "This segment immediately establishes the core problem – a large, dried slime stain on the couch – serving as a strong visual hook and setting the context for the entire video's solution."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:23.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "spoon",
+        "scraping",
+        "pink slime",
+        "couch fabric"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_living_room"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": []
+      },
+      "why_kept": "This segment demonstrates the initial, hands-on effort of physically removing the bulk of the slime using a spoon, showcasing the first step in the cleaning process."
+    },
+    {
+      "start_time": "00:29.000",
+      "end_time": "00:32.500",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "cup",
+        "pouring liquid",
+        "hot water",
+        "vinegar",
+        "couch fabric",
+        "wetting"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_living_room"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": []
+      },
+      "why_kept": "This segment clearly shows the application of the cleaning solution (hot water and vinegar) to the stain, which is a critical part of the slime removal hack."
+    },
+    {
+      "start_time": "00:41.000",
+      "end_time": "00:52.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "hand",
+        "spoon",
+        "scraping",
+        "pink residue",
+        "couch fabric",
+        "slime removal"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_living_room"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": []
+      },
+      "why_kept": "This segment demonstrates the final active removal of the slime residue after the solution has had time to work, effectively showing the transformation as the pink stain diminishes."
+    },
+    {
+      "start_time": "00:52.000",
+      "end_time": "00:56.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "clean couch",
+        "wet spot",
+        "no slime residue",
+        "stain removed"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_living_room"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": []
+      },
+      "why_kept": "This segment serves as the ultimate 'reveal' or 'after' shot, clearly showing the successful outcome of the cleaning process with the slime stain effectively removed from the couch."
+    }
+  ]
+}

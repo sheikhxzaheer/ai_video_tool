@@ -1,0 +1,55 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\drive-download-20251227T113046Z-3-001\\BROLL 5.mp4",
+  "detailed_description": "The video vividly portrays a man experiencing intense frustration and stress while working on his laptop in an office setting. It captures the rapid escalation from focused typing to a visible meltdown, marked by a frustrated bang on the desk and distressed facial expressions. The emotional climax is reached as he picks up his phone, covering his face in anguish, suggesting a significant, likely financial or work-related, problem that has overwhelmed him. This sequence effectively illustrates a common 'Problem State' experienced by individuals facing technology-related or professional challenges.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.720",
+      "structural_tags": [
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "High_Energy",
+        "Confusion_Doubt",
+        "Urgency_Rush",
+        "Workspace_Office",
+        "Malfunction_Fail",
+        "Financial_Stress",
+        "Time_Wasted"
+      ],
+      "visual_keywords": [
+        "man",
+        "laptop",
+        "typing",
+        "desk",
+        "phone",
+        "frustrated",
+        "distressed",
+        "desperate"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "energetic",
+          "negative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dramatic lighting",
+          "natural office lighting",
+          "quick cuts",
+          "direct emotional portrayal"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it seamlessly illustrates a continuous 'Problem State' that escalates into an 'Emotional Climax'. It begins with the 'Process/Labor' of typing, transitions into a clear expression of 'Negative_Emotion' and 'Face_Reaction' through the sudden stop and frustrated actions, and culminates in a desperate 'Product_Interaction' (phone call) signifying extreme stress. The progression tells a complete story of struggle and despair, making it the semantic core."
+    }
+  ]
+}

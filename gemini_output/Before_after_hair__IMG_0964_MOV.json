@@ -1,0 +1,153 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\IMG_0964.MOV",
+  "detailed_description": "The video showcases a man's experience with hair loss and his subsequent use of Keeps products. It explicitly highlights his thinning hair and bald spot during a hair-washing routine, establishing the 'before' state. The narrative then shifts to the introduction of the 'Keeps' hair treatment package, clearly displaying the products. Interspersed with these are aspirational lifestyle shots of the man with visibly fuller hair, subtly indicating the 'after' transformation. The video concludes with the man's direct testimonial and satisfied smile, serving as an emotional endorsement of the product's effectiveness.",
+  "segments": [
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:04.500",
+      "structural_tags": [
+        "Problem_State",
+        "Before_After",
+        "Human_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair",
+        "bald spot",
+        "washing hair",
+        "drying hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment is crucial as it visually establishes the problem of hair loss (the 'before' state) that the product aims to solve, providing essential context for the viewer."
+    },
+    {
+      "start_time": "00:05.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Positive_Emotion",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "man",
+        "suit",
+        "drinking",
+        "ocean view",
+        "fuller hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "ocean",
+          "travel"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "aspirational"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "side profile",
+          "bright sunlight"
+        ]
+      },
+      "why_kept": "This segment implicitly showcases the 'after' state, presenting the man with visibly fuller hair and a confident, relaxed demeanor, suggesting an improved lifestyle as a result of the product."
+    },
+    {
+      "start_time": "00:09.300",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Macro_Detail",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "Keeps box",
+        "hair products",
+        "shampoo",
+        "conditioner",
+        "minoxidil"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "clinical",
+          "informative",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "top down shot",
+          "clean background"
+        ]
+      },
+      "why_kept": "This is the core product introduction, clearly presenting the 'Keeps' brand and the specific products offered as the solution to hair loss. It directly identifies the subject of the advertisement."
+    },
+    {
+      "start_time": "00:27.000",
+      "end_time": "00:29.000",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "man",
+        "smiling",
+        "testimonial",
+        "Keeps logo"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "positive",
+          "satisfied",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment serves as the emotional climax and direct testimonial, with the man's satisfied smile conveying the positive outcome and endorsing the product. It implicitly acts as a call to action through his expressed happiness."
+    }
+  ]
+}

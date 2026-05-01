@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Makeup_artist\\ssstik.io_@wmag_1762259985541.mp4",
+  "detailed_description": "The video's semantic core captures a blonde woman in a backstage setting, wearing a black robe and pink striped skirt, as she engages in a playful interview. While a stylist works on her hair, she holds a small microphone and articulates her thoughts on which historical figures, like Cleopatra and Albert Einstein, embody 'Victoria's Secret energy,' offering humorous and creative explanations. Her animated facial expressions and confident demeanor make this segment a key 'talking head' moment, showcasing her personality and opinions amidst the preparation for an event.",
+  "segments": [
+    {
+      "start_time": "00:01.200",
+      "end_time": "00:28.948",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Behind_The_Scenes",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "blonde woman",
+        "black robe",
+        "pink striped skirt",
+        "microphone",
+        "Hermes Birkin bag",
+        "hair stylist",
+        "backstage",
+        "pink curtains"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "brightly lit",
+          "interview style",
+          "backstage aesthetic"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it represents the primary 'Talking Head' hero moment, where the subject is actively delivering key information and opinions directly to the camera. Her continuous interaction with the microphone as a tool for speaking, her engaging facial expressions (meeting the 'Emotional Climax' criteria), and the clear 'Behind_The_Scenes' context make this the most valuable and self-contained part of the video. It begins as she starts to actively speak and ends with her last statement, maximizing the core content."
+    }
+  ]
+}

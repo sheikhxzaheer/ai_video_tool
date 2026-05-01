@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\Hair follicle 1.mp4",
+  "detailed_description": "This animated video showcases the transformative power of a hair repair mechanism. It begins with a macro detail of a severely damaged, rough hair strand, symbolizing a 'problem state'. Luminous golden particles, representing active ingredients, then interact with the hair, visibly mending and smoothing its exterior. The animation culminates in a 'result transformation' where the hair strand appears completely restored, sleek, and healthy, demonstrating the product's deep restorative action at a microscopic level.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.750",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Macro_Detail",
+        "Cellular_Deep_Dive",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "damaged hair",
+        "rough hair strand",
+        "glowing particles",
+        "hair repair",
+        "hair cuticle",
+        "smooth hair",
+        "hair shaft"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "premium",
+          "transformative"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "3D animation",
+          "glowing effects",
+          "dark background",
+          "dynamic light",
+          "scientific visualization"
+        ]
+      },
+      "why_kept": "This entire video segment is the semantic core, as it clearly and continuously demonstrates the 'before' (damaged hair), the 'process' (glowing particles repairing the hair's surface), and the 'after' (smooth, restored hair). It visually explains the product's mechanism of action and the resulting transformation, which is the primary value proposition."
+    }
+  ]
+}

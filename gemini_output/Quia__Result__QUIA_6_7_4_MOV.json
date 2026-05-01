@@ -1,0 +1,110 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Result\\QUIA 6_7 4.MOV",
+  "detailed_description": "The video features a young woman demonstrating her skincare routine by applying a product, which she suggests could be a collagen mask, to her face. She first applies a small amount of the product from a pink tube onto her hand, then proceeds to massage it onto her face. While applying, she discusses her struggle with dry skin and emphasizes how the product helps lock in moisture. The video concludes with her expressing visible satisfaction and happiness with the moisturizing effect of the product on her skin.",
+  "segments": [
+    {
+      "start_time": "00:01.200",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink tube",
+        "product application",
+        "hand",
+        "cream"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment shows the initial product interaction, where the woman dispenses and demonstrates the product on her hand, introducing it to the viewer."
+    },
+    {
+      "start_time": "00:06.800",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying cream",
+        "face",
+        "massaging",
+        "skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "direct address"
+        ]
+      },
+      "why_kept": "This is the core segment where the woman actively applies the product to her face, demonstrating its use while simultaneously providing key information about its benefits (locking in moisture, collagen mask)."
+    },
+    {
+      "start_time": "00:17.200",
+      "end_time": "00:21.200",
+      "structural_tags": [
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "hands on face",
+        "satisfied expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "well-lit",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment captures the emotional climax, showing the woman's positive reaction and satisfaction after applying the product, reinforcing its moisturizing benefits for her dry skin."
+    }
+  ]
+}

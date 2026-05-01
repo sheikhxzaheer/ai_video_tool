@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250522_090937638.mp4",
+  "detailed_description": "The video features a single sachet of \"PREFECT MORNING TANGERINE PULSE\" floating serenely on the surface of clear, rippling water. Sunlight dances across the water, creating dynamic reflections and highlighting the product's packaging. The scene evokes a sense of calm, natural freshness, and an active lifestyle, presenting the product in an aesthetically pleasing outdoor setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.417",
+      "structural_tags": [
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "Sachet",
+        "Product packaging",
+        "Water",
+        "Sunlight",
+        "Ripples",
+        "Pool"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clear water",
+          "sunlight reflections",
+          "gentle water movement",
+          "vibrant colors",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment serves as the primary product showcase, presenting the 'PREFECT MORNING TANGERINE PULSE' sachet in an aesthetically pleasing and calming water environment. It functions as a final product shot in a natural setting, suggesting a refreshing and premium lifestyle association without direct human interaction. The entire duration captures this continuous 'hero moment' without any setup or post-action dead air."
+    }
+  ]
+}

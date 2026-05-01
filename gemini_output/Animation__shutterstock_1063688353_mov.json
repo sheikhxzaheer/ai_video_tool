@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\shutterstock_1063688353.mov",
+  "detailed_description": "This animated video graphically illustrates the process of clearing a blocked skin pore, commonly known as a blackhead. It shows tiny green and yellow particles, representing active ingredients or cleansing agents, penetrating the clogged pore. These particles then work to dissolve and expel the accumulated dirt and debris, leading to a visible transformation where the blackhead is cleared, and the hair follicle within the pore is restored to a clean state. The animation provides a microscopic deep dive into skincare action.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Cellular_Deep_Dive",
+        "Micro_Nutrients_Anim"
+      ],
+      "visual_keywords": [
+        "skin",
+        "pore",
+        "blackhead",
+        "clogged pore",
+        "particles",
+        "cleansing",
+        "hair follicle",
+        "exfoliation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "educational",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "3D animation",
+          "microscopic view",
+          "clean aesthetics",
+          "digital rendering"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it visually demonstrates the primary action and benefit: how a product or treatment clears a blocked pore. It showcases the 'Mechanism_Of_Action' by showing particles entering and breaking down the blackhead, and the 'Result_Transformation' by revealing a clean pore at the end. It's a continuous, uninterrupted demonstration of the core message."
+    }
+  ]
+}

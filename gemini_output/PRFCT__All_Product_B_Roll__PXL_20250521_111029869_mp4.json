@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250521_111029869.mp4",
+  "detailed_description": "This video presents the 'PRFCT MORNING TANGERINE PULSE' product, showcasing both its main pouch and individual serving sticks. The items are arranged aesthetically on a rustic wooden surface, with a bright, natural ocean backdrop, evoking a sense of calm and a healthy morning routine. The segment focuses entirely on the product's packaging and branding, serving as a clear product introduction in a desirable lifestyle setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.046",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Morning_Routine",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "prfct morning",
+        "tangerine pulse",
+        "pouch",
+        "sticks",
+        "supplements",
+        "wooden surface",
+        "ocean background",
+        "packaging",
+        "nutrients"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "fresh"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clean composition",
+          "rustic texture",
+          "bright colors"
+        ]
+      },
+      "why_kept": "This entire segment serves as a 'final product shot' and 'product introduction,' clearly displaying the packaging of 'PRFCT MORNING TANGERINE PULSE' in an attractive, lifestyle-oriented setting. It provides the core visual information about the product's form factor and branding without any extraneous lead-in or dead air, thus fulfilling the 'No-Mistake Rule' for trimming."
+    }
+  ]
+}

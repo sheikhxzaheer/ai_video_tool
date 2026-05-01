@@ -1,0 +1,219 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@doctornatz_1770996885754.mp4",
+  "detailed_description": "This video captures a glimpse into the daily life of a doctor, showcasing various aspects of her professional routine. It follows her through the modern hallways of a medical facility, from preparing for her shift by tying her hair to engaging in administrative tasks like reviewing paperwork. The doctor is seen in both her scrubs and professional attire, reflecting the diverse responsibilities of her role. A brief shot of an operating room underscores the critical and dynamic environments she navigates. The video aims to convey the busy, yet fulfilling, nature of a doctor's career through these everyday moments.",
+  "segments": [
+    {
+      "start_time": "00:01.036",
+      "end_time": "00:02.169",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman",
+        "doctor",
+        "scrubs",
+        "hospital hallway",
+        "walking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "selfie shot",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "Establishes the subject (doctor) and the setting (hospital) at the beginning of her day, serving as an engaging visual introduction."
+    },
+    {
+      "start_time": "00:05.109",
+      "end_time": "00:06.129",
+      "structural_tags": [
+        "THE PROCESS/LABOR",
+        "Workspace_Office",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "doctor",
+        "stethoscope",
+        "papers",
+        "organizing",
+        "desk"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "professional setting"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the 'process' or 'labor' aspect of a doctor's work, specifically administrative tasks, making it a strong anchor for illustrating a 'Day in a life of a doctor'."
+    },
+    {
+      "start_time": "00:08.069",
+      "end_time": "00:09.139",
+      "structural_tags": [
+        "Morning_Routine",
+        "THE PROCESS/LABOR",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "doctor",
+        "scrubs",
+        "tying hair",
+        "preparation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "polished floor",
+          "modern interior"
+        ]
+      },
+      "why_kept": "Shows a preparatory step in a doctor's routine, symbolizing getting ready for work and contributing to the 'day in the life' narrative."
+    },
+    {
+      "start_time": "00:09.689",
+      "end_time": "00:10.519",
+      "structural_tags": [
+        "Human_Interaction",
+        "Workspace_Office",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "doctor",
+        "stethoscope",
+        "papers",
+        "smiling",
+        "professional attire"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "positive",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clean workspace"
+        ]
+      },
+      "why_kept": "Offers a direct, engaging shot of the doctor, reinforcing her professional role and personality within the workplace."
+    },
+    {
+      "start_time": "00:11.279",
+      "end_time": "00:12.019",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "doctor",
+        "scrubs",
+        "smiling",
+        "facial expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "positive",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "soft focus"
+        ]
+      },
+      "why_kept": "Highlights the human element and positive demeanor of the doctor, contributing to the relatable and aspirational aspect of her demanding profession."
+    },
+    {
+      "start_time": "00:17.159",
+      "end_time": "00:18.069",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "operating room",
+        "surgical table",
+        "medical equipment",
+        "scrubs",
+        "hospital"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "fluorescent lighting",
+          "sterile environment"
+        ]
+      },
+      "why_kept": "Showcases a critical and distinct environment where a doctor works, providing a 'behind-the-scenes' look that is integral to the 'day in the life' narrative."
+    }
+  ]
+}

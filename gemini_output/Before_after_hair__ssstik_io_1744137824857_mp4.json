@@ -1,0 +1,83 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ssstik.io_1744137824857.mp4",
+  "detailed_description": "The video showcases a compelling hair transformation journey. It begins by highlighting a man's struggle with receding hair and thinning patches, clearly presenting a 'before' state of significant hair loss. The subject is seen in different settings, emphasizing the everyday reality of his condition. The video then dramatically transitions to an 'after' state, revealing the same man with a full, healthy, and stylish head of hair. This segment demonstrates a significant improvement in hair density and appearance, implicitly communicating a successful hair regrowth or restoration.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "thinning hair",
+        "receding hairline",
+        "hand on head",
+        "car interior",
+        "red shirt"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car",
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "concerned"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "selfie angle"
+        ]
+      },
+      "why_kept": "This segment effectively establishes the 'before' state, visually demonstrating the problem of hair loss and setting the stage for the transformation."
+    },
+    {
+      "start_time": "00:06.500",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "full hair",
+        "styled hair",
+        "beard",
+        "nose piercing",
+        "brick wall",
+        "confident expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "confident",
+          "satisfied",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "selfie angle",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment serves as the 'after' reveal, clearly showcasing the successful and desirable outcome of hair regrowth, representing the core value proposition of the video."
+    }
+  ]
+}

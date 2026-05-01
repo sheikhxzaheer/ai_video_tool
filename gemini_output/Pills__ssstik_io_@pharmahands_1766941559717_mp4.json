@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pills\\ssstik.io_@pharmahands_1766941559717.mp4",
+  "detailed_description": "This video offers a comprehensive overview of Dextroamphetamine-Amphetamine, commonly known as Adderall. It details the medication's mechanism as a CNS stimulant, its primary uses for ADHD and narcolepsy, and its historical context. The visual content features a pharmacist expertly counting and dispensing Adderall pills, providing a 'behind-the-scenes' look at medication handling. Crucial information regarding its Schedule II classification, potential for abuse, common side effects, and important pharmacist tips—such as avoiding acidic foods and taking it as prescribed—are presented via text overlays, alongside warnings about potential cardiovascular risks.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:44.800",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Key_Information",
+        "Product_Interaction",
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "pharmacist hands",
+        "Adderall bottle",
+        "pills",
+        "pill counting tray",
+        "spatula",
+        "pharmacy desk",
+        "phone",
+        "calculator"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "informative",
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "bright lighting",
+          "clean aesthetic",
+          "professional"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the 'Semantic Core' because it seamlessly integrates the practical demonstration of a pharmacist handling medication (representing 'Process/Labor' and 'Product Interaction') with critical educational information about Adderall, presented through text overlays ('Key Information' and 'Mechanism_Of_Action'). The continuous action of counting pills provides a consistent visual anchor that supports and contextualizes all the important details shared about the drug, fulfilling multiple 'Hero Moment' criteria throughout its duration without any discernible setup, dead air, or unrelated footage."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury life\\ssstik.io_@momentous_co_1766728600352.mp4",
+  "detailed_description": "The video defines a 'businessman' as a solitary figure devoid of traditional personal attachments like friends, enemies, or emotions. It portrays a lifestyle of luxury, showcasing high-end cars, watches, and cityscapes, implying success. The core message, however, reveals that despite this outward appearance, the businessman's ultimate passion and motivation are singularly tied to the accumulation of wealth. This is powerfully conveyed through explicit demonstrations of large sums of money being handled and counted, solidifying the idea that 'the color of money' is what truly captivates him above all else.",
+  "segments": [
+    {
+      "start_time": "00:09.300",
+      "end_time": "00:11.300",
+      "structural_tags": [
+        "The_Process/Labor",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "money counting machine",
+        "euro banknotes",
+        "stacks of cash",
+        "person counting money"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "organized setup"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it explicitly shows the 'businessman's' interaction with money, demonstrating the 'process' of handling large sums and the 'result' of accumulated wealth. The on-screen text 'IS THE COLOR OF MONEY' directly states the video's central theme and the object of the businessman's affection."
+    },
+    {
+      "start_time": "00:12.000",
+      "end_time": "00:13.600",
+      "structural_tags": [
+        "Product_Interaction",
+        "Result_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "dollar bills",
+        "fanning money",
+        "stacks of cash",
+        "hand"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "textured background"
+        ]
+      },
+      "why_kept": "This segment serves as supporting b-roll, reinforcing the anchor's message by visually emphasizing the abundance of money and the physical interaction with it. It reiterates the 'love of money' theme through a different visual representation of wealth."
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\A woman is stroking a man's hair\\ðöÐûð▓Ðçð©ð¢ð░ ð╝ð©Ðö ð│ð¥ð╗ð¥ð▓Ðâ Ðàð╗ð¥ð┐ÐåÐÄ.mp4",
+  "detailed_description": "This video charmingly illustrates a caring interaction where one person washes another's hair. It begins by setting the scene with a text overlay indicating the request, followed by the gentle process of wetting the hair with a handheld shower. The core action shows shampoo being applied and massaged into the hair, creating a rich lather. The narrative concludes with the satisfying reveal of the freshly washed hair, as the person dries their head with a towel, displaying a subtle, contented smile, emphasizing the intimate and tender nature of the act.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.200",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "bathtub",
+        "towel",
+        "hand",
+        "showerhead",
+        "water",
+        "hair",
+        "shampoo bottle"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "close angle",
+          "intimate"
+        ]
+      },
+      "why_kept": "This segment establishes the narrative and context with the on-screen text, showing the initial setup and the beginning of the hair-washing process, including the first rinse."
+    },
+    {
+      "start_time": "00:04.200",
+      "end_time": "00:09.900",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "shampoo",
+        "foam",
+        "scrubbing",
+        "hair",
+        "water"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "caring"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "detailed action"
+        ]
+      },
+      "why_kept": "This segment is crucial as it demonstrates the core 'Process/Labor' of washing the hair, showing the application of shampoo and the scrubbing action."
+    },
+    {
+      "start_time": "00:09.900",
+      "end_time": "00:13.100",
+      "structural_tags": [
+        "Result_Transformation",
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "towel",
+        "hair",
+        "face",
+        "smile",
+        "content expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft focus",
+          "natural light",
+          "warm tone"
+        ]
+      },
+      "why_kept": "This segment captures the 'Reveal/Result' of the hair wash and the 'Emotional Climax' through the subject's contented expression, effectively concluding the action."
+    }
+  ]
+}

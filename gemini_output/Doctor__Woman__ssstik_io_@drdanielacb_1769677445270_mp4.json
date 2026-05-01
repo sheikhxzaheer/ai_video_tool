@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Woman\\ssstik.io_@drdanielacb_1769677445270.mp4",
+  "detailed_description": "The video presents a montage illustrating the professional and personal life of a young woman who identifies as a doctor, underscored by the caption 'My mum is a doctor.' It showcases her in various medical settings, wearing scrubs and a stethoscope, reflecting the 'process and labor' of her profession. These scenes include her preparing for work, working at a desk, and engaging with patients (implied). The narrative then transitions to reveal her in a sophisticated, non-work environment, highlighting a contrast or lifestyle associated with her career. This juxtaposition aims to offer a holistic view of her identity as a medical professional, possibly influenced by her family background.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.999",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Workspace_Office",
+        "Aesthetic_Broll",
+        "Behind_The_Scenes",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "scrubs",
+        "stethoscope",
+        "medical office",
+        "lockers",
+        "computer",
+        "elegant dress",
+        "mirror selfie"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "quick cuts",
+          "professional",
+          "lifestyle contrast"
+        ]
+      },
+      "why_kept": "The entire video serves as a cohesive visual narrative illustrating the life of a doctor, encompassing both professional duties and personal lifestyle, with the constant text overlay providing the central theme. It contains multiple 'hero moments' such as professional actions, emotional reactions, and lifestyle reveals, all contributing to the core message. No significant trimming was required as the content flows continuously without dead air or setup."
+    }
+  ]
+}

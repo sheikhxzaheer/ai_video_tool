@@ -1,0 +1,152 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Dry skin before_after\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ÐüÐâÐàð¥ÐüÐéÐî ð║ð¥ðÂð© ð╗ð©Ðåð░.mp4",
+  "detailed_description": "The video outlines a two-step method for healing dry skin around the nose in three weeks. It begins by visually identifying the problem area on the face. The process involves first hydrating the skin with hyaluronic acid, which is demonstrated by dispensing and applying the serum. The second step focuses on locking in that moisture by applying a cream. The video concludes by advising viewers to follow this routine twice a day for improved results, showcasing both products used in the method.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.470",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pointing at face",
+        "nose",
+        "dry skin",
+        "redness"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "clear skin focus"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'Problem_State' by showing and pointing to the dry skin around the nose, setting the context for the entire video's solution."
+    },
+    {
+      "start_time": "00:04.470",
+      "end_time": "00:09.520",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "The Ordinary Hyaluronic Acid",
+        "dropper bottle",
+        "dispensing serum",
+        "applying serum",
+        "face"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "product focus",
+          "skincare routine"
+        ]
+      },
+      "why_kept": "This segment demonstrates the first crucial step of the method: hydrating with hyaluronic acid, showing both the product and its direct application."
+    },
+    {
+      "start_time": "00:09.520",
+      "end_time": "00:15.540",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "moisturizer",
+        "Primermae",
+        "cream jar",
+        "opening jar",
+        "applying cream",
+        "face"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "product focus",
+          "skincare routine"
+        ]
+      },
+      "why_kept": "This segment demonstrates the second crucial step of the method: locking in moisture with a cream, showing both the product and its direct application."
+    },
+    {
+      "start_time": "00:15.540",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Social_Proof",
+        "Product_Standalone",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "both products",
+        "hyaluronic acid",
+        "moisturizer"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "informative overlay",
+          "satisfaction"
+        ]
+      },
+      "why_kept": "This segment provides the key instruction ('Do this twice a day and it'll get better!') and showcases both products together, reinforcing the solution and implied positive outcome."
+    }
+  ]
+}

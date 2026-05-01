@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury home\\ssstik.io_@official.lpm_1769680764253.mp4",
+  "detailed_description": "This video presents a panoramic view of a luxurious, modern bathroom, meticulously designed with a sophisticated aesthetic. The camera smoothly glides across the space, highlighting key features such as a floating wooden vanity with a sleek white sink, a prominent backlit circular mirror, and a tall storage unit. It then transitions to showcase a spacious walk-in shower equipped with elegant gold fixtures, a privacy window, and a wall-mounted toilet. The entire room is adorned with light-toned marble-effect tiles and accented by subtle, warm LED strip lighting along the ceiling and floor, creating a serene and upscale ambiance that conveys a sense of completed luxury and modern design.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.298",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "modern bathroom",
+        "wooden vanity",
+        "round mirror with LED",
+        "gold fixtures",
+        "walk-in shower",
+        "wall-mounted toilet",
+        "marble-effect tiles",
+        "LED strip lighting",
+        "contemporary design",
+        "storage cabinet"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "luxurious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "elegant lighting",
+          "clean lines",
+          "warm ambiance",
+          "smooth camera pan"
+        ]
+      },
+      "why_kept": "This entire segment serves as the 'Reveal/Result' of a fully designed and completed modern bathroom. It showcases the final aesthetic and functional aspects of the space, acting as the primary hero moment by presenting the 'product' (the bathroom design) in its entirety. There are no setup, calibration, or post-action dead air moments; the continuous pan is the core demonstration of value."
+    }
+  ]
+}

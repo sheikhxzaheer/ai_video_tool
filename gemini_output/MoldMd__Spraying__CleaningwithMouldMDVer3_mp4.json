@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Spraying\\CleaningwithMouldMDVer3.mp4",
+  "detailed_description": "The video demonstrates the effective use of MoldMD Mold Spot Remover to clean a dirty bathtub faucet. A hand applies the cleaning solution using the product's integrated brush, meticulously scrubbing away grime and mold around the chrome fixture. The clip highlights the product's ease of use and its direct application for tackling stubborn mold spots, showcasing the cleaning process in action and implying a transformation from dirty to clean.",
+  "segments": [
+    {
+      "start_time": "00:02.160",
+      "end_time": "00:16.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "hand",
+        "scrubbing",
+        "brush",
+        "cleaning product",
+        "faucet",
+        "bathtub",
+        "mold",
+        "chrome fixture",
+        "water drops"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "practical demonstration",
+          "direct",
+          "well-lit",
+          "steady shot"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it clearly demonstrates the 'Process/Labor' of cleaning, the 'Product Interaction' with the MoldMD remover and its built-in brush, and implicitly shows a 'Result_Transformation' as the scrubbing action removes visible dirt/mold from the faucet area. It captures the essential value and function of the product."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Running\\ssstik.io_@thefashionjogger_1767349708982.mp4",
+  "detailed_description": "The video features a female athlete engaged in a rigorous run on an outdoor road, showcasing her physical activity and use of performance running gear. The footage includes dynamic shots from various angles, highlighting her running form, the natural environment, and product interaction with her running shoes and smartwatch. The video concludes with the athlete walking towards the camera, smiling confidently and giving a thumbs-up, conveying a strong sense of accomplishment and satisfaction after her workout.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.200",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Human_Interaction",
+        "High_Energy",
+        "Aesthetic_Broll",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "running",
+        "road",
+        "trees",
+        "fields",
+        "running shoes",
+        "smartwatch",
+        "fitness apparel"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "nature",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera",
+          "natural lighting",
+          "steady shots"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates 'The Process/Labor' of running, which is the primary activity of the video. It also prominently features 'Product Interaction' with the athlete's running shoes and smartwatch, establishing the core action."
+    },
+    {
+      "start_time": "00:08.200",
+      "end_time": "00:12.633",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Lifestyle_Active",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "thumbs up",
+        "hands on hips",
+        "post-run"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium | closeup",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "positive",
+          "satisfied",
+          "accomplished"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear facial expression"
+        ]
+      },
+      "why_kept": "This segment captures a clear 'Emotional Climax' – the athlete's satisfied reaction and thumbs-up gesture after her run, reinforcing the positive experience and successful completion of the activity shown in the anchor segment."
+    }
+  ]
+}

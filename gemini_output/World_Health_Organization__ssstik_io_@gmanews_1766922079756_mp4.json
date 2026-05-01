@@ -1,0 +1,143 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\World Health Organization\\ssstik.io_@gmanews_1766922079756.mp4",
+  "detailed_description": "This video captures a pivotal moment at an international assembly in Geneva, Switzerland, on May 19, 2025. It illustrates the democratic process of voting on a proposed resolution, where delegates are instructed to raise their nameplates to cast their votes. The assembly erupts in a widespread display of approval, with delegates standing and applauding enthusiastically as the resolution is successfully passed. The Chair then officially announces the approval of the draft resolution with 124 votes in favor, 0 against, and 11 abstentions, signifying a unanimous decision from those who voted.",
+  "segments": [
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Key_Information",
+        "Workspace_Office",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "chairperson speaking",
+        "delegates",
+        "meeting room",
+        "table"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "formal setting",
+          "well-lit"
+        ]
+      },
+      "why_kept": "This segment provides the crucial instruction for the voting process, setting the stage for the subsequent action and overall context of the video."
+    },
+    {
+      "start_time": "00:11.000",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Workspace_Office",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "delegates voting",
+        "raising nameplates",
+        "assembly hall",
+        "voting process"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "structured seating"
+        ]
+      },
+      "why_kept": "This segment visually depicts the core action of the assembly: delegates actively participating in the voting process as instructed, showing 'the labor' of collective decision-making."
+    },
+    {
+      "start_time": "00:22.000",
+      "end_time": "00:32.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Result_Transformation",
+        "Workspace_Office",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "delegates applauding",
+        "standing ovation",
+        "assembly approval",
+        "celebration"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "energetic",
+          "positive",
+          "celebratory"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "dynamic crowd reaction"
+        ]
+      },
+      "why_kept": "This segment is the emotional climax and visual 'reveal' of the resolution's approval, with widespread applause and a standing ovation clearly indicating a successful outcome and positive sentiment, effectively conveying the result."
+    },
+    {
+      "start_time": "00:32.000",
+      "end_time": "00:51.000",
+      "structural_tags": [
+        "Key_Information",
+        "Result_Transformation",
+        "Workspace_Office",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "chairperson announcing results",
+        "vote count",
+        "official declaration",
+        "meeting table"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "formal setting",
+          "clear audio"
+        ]
+      },
+      "why_kept": "This segment provides the official, concrete 'key information' and confirmation of the vote's outcome, detailing the exact numbers of approval and abstentions, solidifying the 'reveal' of the resolution's passing."
+    }
+  ]
+}

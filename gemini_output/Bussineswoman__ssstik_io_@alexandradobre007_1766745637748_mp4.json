@@ -1,0 +1,412 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bussineswoman\\ssstik.io_@alexandradobre007_1766745637748.mp4",
+  "detailed_description": "This video showcases Alexandra Dobre, a professional female entrepreneur in the bespoke suit business. It highlights her dedication and hard work in building her brand, featuring scenes of her trying on her impeccably tailored suits, working diligently in her office, and engaging directly with clients. The core value demonstrated is the meticulous process behind creating high-quality, custom women's suits, culminating in client satisfaction and positive feedback. The video effectively combines personal branding with a clear demonstration of professional service and product excellence.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "suit vest",
+        "trousers",
+        "mirror",
+        "reflection"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "premium",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "professional setting",
+          "clean lighting"
+        ]
+      },
+      "why_kept": "This segment serves as a strong visual hook, immediately introducing the protagonist and the tailored suit as a key product. It showcases the fit and aesthetic in a reflective, self-assured manner."
+    },
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "suit vest",
+        "trousers",
+        "confident pose",
+        "crossed arms"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "premium",
+          "serious",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "professional setting",
+          "confident posture"
+        ]
+      },
+      "why_kept": "Continues the visual introduction of the woman and her attire, emphasizing confidence and professionalism. The voiceover reinforces the narrative of hard work and self-made success."
+    },
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:07.500",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Workspace_Office",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "woman",
+        "phone call",
+        "laptop",
+        "typing",
+        "desk"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "busy work environment",
+          "multitasking"
+        ]
+      },
+      "why_kept": "Demonstrates the 'process' and 'labor' behind the business, showing the entrepreneur actively working and managing her operations, aligning with the voiceover's theme of building the business."
+    },
+    {
+      "start_time": "00:07.500",
+      "end_time": "00:09.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Result_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "full suit",
+        "blazer",
+        "mirror",
+        "reflection"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "premium",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "full outfit reveal",
+          "elegant presentation"
+        ]
+      },
+      "why_kept": "This is chosen as the ANCHOR because it presents the complete, final product (the full suit) on the entrepreneur herself in a powerful and confident way. It is a definitive 'reveal' of her offering."
+    },
+    {
+      "start_time": "00:09.500",
+      "end_time": "00:11.500",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman",
+        "signing document",
+        "pen",
+        "table"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "transactional moment",
+          "attention to detail"
+        ]
+      },
+      "why_kept": "Illustrates another aspect of the business process – formal agreements or client sign-offs, signifying professional transactions and attention to detail."
+    },
+    {
+      "start_time": "00:11.500",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "client",
+        "fabric swatches",
+        "consultation",
+        "table"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "consultative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "client meeting",
+          "product selection"
+        ]
+      },
+      "why_kept": "Shows direct client interaction and the consultative process of bespoke tailoring, where materials and design are discussed, emphasizing personalized service."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman",
+        "clients",
+        "presentation",
+        "meeting room"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "group discussion",
+          "business meeting"
+        ]
+      },
+      "why_kept": "Captures the entrepreneur presenting or conducting a meeting with multiple clients or colleagues, demonstrating leadership and engagement in a professional setting."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman",
+        "signing document",
+        "pen",
+        "table"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "administrative task",
+          "business transaction"
+        ]
+      },
+      "why_kept": "Further reinforces the ongoing business activities and the formal aspects of running a bespoke tailoring service."
+    },
+    {
+      "start_time": "00:16.000",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "office interior",
+        "suits on display",
+        "documents",
+        "woman",
+        "person"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "premium",
+          "organized"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "showroom",
+          "tailoring studio"
+        ]
+      },
+      "why_kept": "Provides a broader context of the workspace, showcasing the environment where the business operates and the display of products, contributing to the 'premium' mood."
+    },
+    {
+      "start_time": "00:19.000",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "woman",
+        "measuring client",
+        "measuring tape",
+        "tailoring"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "attentive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "fitting process",
+          "personalized service"
+        ]
+      },
+      "why_kept": "A direct demonstration of the core tailoring service, highlighting the precision and personalized attention involved in creating custom suits."
+    },
+    {
+      "start_time": "00:20.000",
+      "end_time": "00:30.000",
+      "structural_tags": [
+        "Social_Proof",
+        "Human_Interaction",
+        "UGC_Talking_Head",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "client",
+        "speaking",
+        "woman",
+        "listening",
+        "lookbook",
+        "product interaction"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "positive",
+          "appreciative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "client testimonial",
+          "active listening"
+        ]
+      },
+      "why_kept": "This segment provides vital social proof through a client's verbal endorsement, praising the entrepreneur's work and business. The interaction with the lookbook maintains visual priority during the dialogue."
+    },
+    {
+      "start_time": "00:30.000",
+      "end_time": "00:36.000",
+      "structural_tags": [
+        "Social_Proof",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "client",
+        "thanking",
+        "woman",
+        "hug",
+        "goodbye"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "positive",
+          "friendly",
+          "grateful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm interaction",
+          "client satisfaction"
+        ]
+      },
+      "why_kept": "Concludes the client interaction with a clear expression of gratitude and positive emotion (a hug), reinforcing client satisfaction and the positive human aspect of the business."
+    }
+  ]
+}

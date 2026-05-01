@@ -1,0 +1,246 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Woman\\ssstik.io_@liloweezyyy_1769681902392.mp4",
+  "detailed_description": "This video captures a day in the life of an options trader, detailing her morning routine and the process of managing her trades. It showcases her setting up her home office, getting ready for the day, and then actively monitoring multiple trading charts. The core value is demonstrated through close-ups of her trading platform, highlighting both ongoing and realized profits, culminating in a successful daily return from her Tesla call options. The video concludes with the trader relaxing, having completed her workday with a significant profit.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Morning_Routine",
+        "Workspace_Office",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "person enters room",
+        "turns on lights",
+        "walks to desk",
+        "sits down",
+        "stretching"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment establishes the beginning of the workday, showing the subject 'clocking in' and preparing her workspace, setting the context for the trading activity."
+    },
+    {
+      "start_time": "00:04.900",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Morning_Routine",
+        "Process_Labor",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "person applying mascara",
+        "makeup",
+        "mirror"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment shows a personal routine, visually supporting the 'when you look good you feel good' message, implying preparedness for the day's demanding work."
+    },
+    {
+      "start_time": "00:06.100",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Reveal_Result",
+        "Positive_Emotion",
+        "UGC_Talking_Head",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "mirror selfie",
+        "computer screen",
+        "person's image"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "positive",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "screen display"
+        ]
+      },
+      "why_kept": "This visually confirms the 'getting ready' process and its emotional impact, directly linking personal well-being to readiness for trading, as indicated by the on-screen text."
+    },
+    {
+      "start_time": "00:11.700",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Workspace_Office",
+        "Data_Metrics_Chart"
+      ],
+      "visual_keywords": [
+        "multiple monitors",
+        "trading charts",
+        "candlestick patterns",
+        "indicators"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "focused"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "dark theme UI",
+          "complex data visualization"
+        ]
+      },
+      "why_kept": "This is a direct visual representation of the 'trading options' activity, demonstrating the core process and expertise required for monitoring market data."
+    },
+    {
+      "start_time": "00:13.100",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Reveal_Result",
+        "Data_Metrics_Chart",
+        "Financial_Stress"
+      ],
+      "visual_keywords": [
+        "Webull interface",
+        "options trades",
+        "stock performance",
+        "profit/loss figures"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "analytical"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "trading platform UI",
+          "real-time data"
+        ]
+      },
+      "why_kept": "This segment shows the current status of various trades, including both losses and gains, accurately depicting the dynamic and often challenging nature of options trading, with supporting text overlay."
+    },
+    {
+      "start_time": "00:19.400",
+      "end_time": "00:21.700",
+      "structural_tags": [
+        "Reveal_Result",
+        "Positive_Emotion",
+        "Data_Metrics_Chart"
+      ],
+      "visual_keywords": [
+        "TSLA call option",
+        "market value",
+        "current price",
+        "today's return",
+        "total return",
+        "profit figures"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "victorious",
+          "successful"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "trading platform UI",
+          "green upward trend"
+        ]
+      },
+      "why_kept": "This is the primary 'hero moment' as it explicitly demonstrates a highly successful outcome of the trading options activity, showing a significant profit (+182.83% / +$2,012) on a specific Tesla call, which is the direct result of the expertise demonstrated."
+    },
+    {
+      "start_time": "00:26.500",
+      "end_time": "00:28.900",
+      "structural_tags": [
+        "Reveal_Result",
+        "Positive_Emotion",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "person lying down",
+        "smiling",
+        "soft blanket",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "relaxed",
+          "satisfied",
+          "happy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "warm lighting",
+          "cozy aesthetic"
+        ]
+      },
+      "why_kept": "This segment acts as the concluding 'reveal', summarizing the daily achievement with a total profit of +$1,900 and showing the subject's relaxed, satisfied state after a successful day of trading."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pregnant\\ð©ð┤ðÁ╠êÐé ð▒ðÁÐÇðÁð╝ðÁð¢ð¢ð░ÐÅ 5.mp4",
+  "detailed_description": "This video captures a pregnant woman engaging in light outdoor exercise, walking along a sidewalk surrounded by lush greenery under an overcast sky. She is dressed in comfortable athletic wear, including a white tank top, light purple shorts, and a pink baseball cap, and carries a water bottle for hydration. The scene emphasizes a calm and active lifestyle during pregnancy, showcasing her steady pace and gentle interaction with her baby bump, promoting wellness and movement.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.151",
+      "structural_tags": [
+        "Visual_Hook",
+        "Lifestyle_Active",
+        "Human_Interaction",
+        "Product_Present",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "pregnant woman",
+        "walking",
+        "sidewalk",
+        "outdoor",
+        "greenery",
+        "trees",
+        "water bottle",
+        "white tank top",
+        "purple shorts",
+        "pink cap",
+        "baby bump"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "nature",
+          "street"
+        ],
+        "mood": [
+          "calm",
+          "relaxed"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "steady camera",
+          "bright"
+        ]
+      },
+      "why_kept": "This entire segment represents the core meaning of the video, demonstrating a pregnant woman walking and engaging in an active, healthy lifestyle. There are no distinct 'hero moments' that warrant trimming, as the continuous action of walking is the central activity and value shown. The segment directly showcases the subject's activity, her pregnancy, and her interaction with the environment, fulfilling the 'process/labor' and 'human interaction' criteria throughout its duration."
+    }
+  ]
+}

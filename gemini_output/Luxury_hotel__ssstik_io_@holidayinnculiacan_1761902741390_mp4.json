@@ -1,0 +1,61 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury hotel\\ssstik.io_@holidayinnculiacan_1761902741390.mp4",
+  "detailed_description": "This video offers a comprehensive walk-through of a modern hotel room, presenting its layout and key amenities. It begins by showcasing the inviting bedroom space, then smoothly transitions to reveal a well-appointed bathroom complete with a shower, toilet, and vanity. The tour concludes by highlighting the bedroom's features, including a comfortable bed, a functional desk area with an orange chair, and a cozy seating arrangement, emphasizing the room's overall design and comfort.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:16.485",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "hotel room",
+        "bedroom",
+        "bed",
+        "pillows",
+        "desk",
+        "orange chair",
+        "curtains",
+        "window",
+        "television",
+        "bathroom",
+        "toilet",
+        "shower",
+        "vanity",
+        "sink",
+        "mirror",
+        "towels",
+        "closet",
+        "door",
+        "lamps",
+        "couch"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "smooth camera pan",
+          "ambient lighting",
+          "modern decor",
+          "room tour"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by providing a continuous, uninterrupted visual tour of the hotel room. It effectively 'reveals' the complete space, showcasing all the features and amenities from different angles, which is the primary value proposition of the video."
+    }
+  ]
+}

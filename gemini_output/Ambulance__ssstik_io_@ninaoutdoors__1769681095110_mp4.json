@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@ninaoutdoors__1769681095110.mp4",
+  "detailed_description": "This video provides a first-person perspective of a patient in a hospital setting. It opens with a close-up shot of a hand with an IV drip and a pulse oximeter, resting comfortably under a white blanket. The camera then slowly pans up to reveal the wider hospital environment, showcasing medical staff, equipment, and the general ambiance of a clinical hallway. The clip effectively conveys the experience of being hospitalized from the patient's viewpoint.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.333",
+      "structural_tags": [
+        "Visual_Hook",
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "hand",
+        "IV drip",
+        "pulse oximeter",
+        "hospital bed",
+        "white blanket",
+        "hospital hallway",
+        "medical staff",
+        "hospital equipment",
+        "monitors"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "patient POV",
+          "panning shot",
+          "fluorescent lighting"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it constitutes the semantic core of the video, establishing the scene of a patient in a hospital bed with medical equipment, and then revealing the surrounding clinical environment and staff. It acts as a visual hook and provides a 'behind the scenes' look at a hospital stay from the patient's perspective without any unnecessary 'dead air' or setup."
+    }
+  ]
+}

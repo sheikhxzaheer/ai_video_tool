@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Result\\CNWM_JillianGray_038_Result.MOV",
+  "detailed_description": "This video features a young woman wearing a pink, bow-shaped headband, delivering a direct and enthusiastic testimonial about a mask she has been using. She expresses strong satisfaction with the product, stating that she will continue using it without question, clearly indicating a positive emotional response and perceived effectiveness. Her smiling face and confident tone convey social proof and a successful transformation, even without explicitly showing the product or its application.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.200",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Product_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink headband",
+        "smiling",
+        "talking",
+        "testimonial",
+        "necklace",
+        "nose piercing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "direct gaze",
+          "warm tone"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it represents a direct, positive testimonial about a product ('this mask'). The speaker's clear 'Positive_Emotion' and 'Face_Reaction' deliver 'Key Information' about the product's effectiveness, making it an 'Emotional Climax' and a form of 'Social_Proof.' Although the mask itself isn't visibly applied, her statement 'I'm just going to keep using this mask' strongly implies 'Product_Interaction' and a 'Result_Transformation' from its use. As the entire video, it fulfills the 'NO-MISTAKE' rule and serves as the main value proposition."
+    }
+  ]
+}

@@ -1,0 +1,529 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\532531331_084335313EAEC2EE3993121EA2FB558F_video_dashinit.mp4",
+  "detailed_description": "This video showcases a complete hair transformation, starting with a man's noticeably thinning hair. A skilled barber performs a precise haircut, demonstrating the process of fading and styling. The core value is then revealed as the barber introduces 'THICK FIBER' hair-building fibers, applying them to the sparse areas to instantly create the appearance of fuller, denser hair. The video highlights the dramatic before-and-after effect and subtly promotes the product's wind and sweat resistance, culminating in the client's confident and satisfied new look.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Face_Reaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "thinning hair",
+        "receding hairline",
+        "unhappy expression",
+        "looking down"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean lighting",
+          "minimalist background"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the initial problem state and serves as a strong visual hook for the transformation to come, showing the client's visible hair thinning and subdued mood."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:07.800",
+      "structural_tags": [
+        "Problem_State",
+        "Before_After",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "man",
+        "top of head",
+        "thinning hair",
+        "bald spots",
+        "hairline"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "detailed view"
+        ]
+      },
+      "why_kept": "Provides a crucial overhead perspective of the thinning hair, further emphasizing the 'before' condition from a different angle."
+    },
+    {
+      "start_time": "00:16.500",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "barber",
+        "clippers",
+        "haircut",
+        "side fade",
+        "trimming"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dynamic camera movement",
+          "sharp focus"
+        ]
+      },
+      "why_kept": "Shows the initial step of the professional haircut, demonstrating the barber's skill and the start of the transformation process."
+    },
+    {
+      "start_time": "00:22.000",
+      "end_time": "00:24.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "barber",
+        "shaver",
+        "cleaning fade",
+        "close-up",
+        "trimming"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "precise action",
+          "clear detailing"
+        ]
+      },
+      "why_kept": "Highlights the meticulous work of creating a clean fade, a key part of the haircutting expertise."
+    },
+    {
+      "start_time": "00:25.000",
+      "end_time": "00:27.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "barber",
+        "scissors",
+        "comb",
+        "cutting top hair",
+        "shaping"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "traditional barbering",
+          "shaping technique"
+        ]
+      },
+      "why_kept": "Illustrates the process of styling and shaping the longer top hair, crucial before fiber application."
+    },
+    {
+      "start_time": "00:48.000",
+      "end_time": "00:50.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process_Labor"
+      ],
+      "visual_keywords": [
+        "barber",
+        "hair product",
+        "hands",
+        "applying gel",
+        "styling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "preparation step",
+          "product texture"
+        ]
+      },
+      "why_kept": "Shows the initial application of styling product, preparing the hair for the subsequent fiber application."
+    },
+    {
+      "start_time": "00:54.000",
+      "end_time": "00:57.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "barber",
+        "hands",
+        "styling hair",
+        "shaping",
+        "comb"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "shaping motion",
+          "controlled styling"
+        ]
+      },
+      "why_kept": "Demonstrates the barber meticulously styling the hair, setting the base for the 'Thick Fiber' product."
+    },
+    {
+      "start_time": "01:00.000",
+      "end_time": "01:02.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "barber",
+        "Thick Fiber bottle",
+        "product box",
+        "packaging"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "brand display",
+          "clear product shot"
+        ]
+      },
+      "why_kept": "Introduces the main product, 'Thick Fiber', making it central to the video's narrative."
+    },
+    {
+      "start_time": "01:06.000",
+      "end_time": "01:10.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "hands",
+        "attaching applicator",
+        "product bottle",
+        "preparation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "product assembly",
+          "user-friendly design"
+        ]
+      },
+      "why_kept": "Shows the practical setup of the product with its applicator, indicating ease of use and setting up for the main action."
+    },
+    {
+      "start_time": "01:10.500",
+      "end_time": "01:12.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "barber",
+        "applying fibers",
+        "thinning area",
+        "hairline"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct application",
+          "focused action"
+        ]
+      },
+      "why_kept": "This is the direct application of the product to the client's hair, demonstrating its immediate use."
+    },
+    {
+      "start_time": "01:12.000",
+      "end_time": "01:19.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hair",
+        "fibers",
+        "thinning hair",
+        "scalp coverage",
+        "thickening",
+        "transformation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "macro",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "shock",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "instant effect",
+          "detailed view of fibers"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the product's effectiveness and its immediate visual impact, showing the hair fibers filling in sparse areas."
+    },
+    {
+      "start_time": "01:24.000",
+      "end_time": "01:28.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process_Labor"
+      ],
+      "visual_keywords": [
+        "barber",
+        "hairspray",
+        "setting fibers",
+        "styling",
+        "finishing touch"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "final product application",
+          "sealing the look"
+        ]
+      },
+      "why_kept": "Shows the final step of securing the hair fibers with hairspray, completing the styling process."
+    },
+    {
+      "start_time": "01:28.000",
+      "end_time": "01:30.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Product_Intro"
+      ],
+      "visual_keywords": [
+        "barber",
+        "product box",
+        "before/after images",
+        "hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "graphic comparison",
+          "product feature display"
+        ]
+      },
+      "why_kept": "Provides a quick visual 'before and after' comparison directly on the product packaging, reinforcing the product's claims."
+    },
+    {
+      "start_time": "01:36.500",
+      "end_time": "01:40.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "After_State",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "man",
+        "full hair",
+        "neat haircut",
+        "smiling",
+        "confident expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "confident",
+          "happy",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "client satisfaction",
+          "polished final look"
+        ]
+      },
+      "why_kept": "This is the ultimate 'after' shot, showing the complete transformation and the client's confident and happy reaction, which is a strong emotional climax."
+    },
+    {
+      "start_time": "01:49.000",
+      "end_time": "01:50.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "After_State",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "top of head",
+        "full hair",
+        "thick",
+        "styled hair",
+        "crown"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean finish",
+          "densified hair"
+        ]
+      },
+      "why_kept": "Offers a direct top-down comparison to the initial thinning hair, showcasing the effectiveness of the product from a crucial angle."
+    },
+    {
+      "start_time": "02:00.000",
+      "end_time": "02:03.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Mechanism_Of_Action",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "product bottle",
+        "water droplets",
+        "Thick Fiber logo",
+        "water resistance"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "rugged",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "product durability",
+          "texture contrast",
+          "dark background"
+        ]
+      },
+      "why_kept": "Highlights a key product feature (wind & sweat resistance) through a visually appealing shot of water droplets on the bottle."
+    }
+  ]
+}

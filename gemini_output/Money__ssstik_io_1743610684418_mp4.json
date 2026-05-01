@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Money\\ssstik.io_1743610684418.mp4",
+  "detailed_description": "The video showcases a rapid process of counting large stacks of one hundred dollar bills using an automated money counter. A gloved hand feeds bundles of cash into the machine, which quickly counts them and adds to an already impressive display of neatly stacked money. The scene emphasizes efficiency and the sheer volume of wealth being processed, highlighting the mechanical action of the counting machine.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.666",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Macro_Detail",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "money",
+        "cash",
+        "hundred dollar bills",
+        "money counter",
+        "counting machine",
+        "gloved hand",
+        "stacks of money"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "fast-paced",
+          "high-value",
+          "organized display"
+        ]
+      },
+      "why_kept": "This segment demonstrates the entire core action of the video: the efficient counting of a large volume of cash using a money counter. It captures the process, product interaction, and the impressive visual of numerous stacks of money, fulfilling the 'Process/Labor' and 'Product Interaction' hero moment criteria without any setup or dead air."
+    }
+  ]
+}

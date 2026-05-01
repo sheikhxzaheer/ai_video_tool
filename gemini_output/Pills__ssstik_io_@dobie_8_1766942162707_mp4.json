@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pills\\ssstik.io_@dobie_8_1766942162707.mp4",
+  "detailed_description": "The video captures a young woman's reaction to taking an antidepressant pill for the first time. It begins with her drinking from a cup, implying the ingestion of the medication. The sequence then transitions to her face, where she exhibits a sudden and profound emotional shift, characterized by widened eyes, a look of surprise, and a subtle smile. This visual narrative vividly portrays the perceived immediate impact and 'revelation' often associated with the initial effects of such medication, presented in a relatable meme-like format.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.450",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Shock_Surprise",
+        "Positive_Emotion",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "woman",
+        "drinking",
+        "cup",
+        "anti-depression pill",
+        "surprised expression",
+        "wide eyes",
+        "subtle smile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "shock",
+          "surprised",
+          "revelatory",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dark lighting",
+          "natural look",
+          "meme style"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it perfectly encapsulates the 'Semantic Core' of the video. It clearly shows the 'Product Interaction' (drinking, implying taking the pill as per the text overlay) followed immediately by the 'Emotional Climax' through the woman's dramatic and expressive facial reactions. There is no significant setup, calibration, or post-action dead air, adhering to the 'no-mistake' rule for retaining the full duration when the action starts and ends precisely."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\0330 (1).mp4",
+  "detailed_description": "The video opens with a woman holding a baby, showcasing her face with significant hyperpigmentation and an on-screen text proclaiming 'I have horrible hyperpigmentation.' This immediately establishes the problem state. The video then transitions to a different setting where the woman continues to present her face, turning her head to offer various angles, further emphasizing her skin condition before an implied solution or transformation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.160",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Face_Reaction",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "baby",
+        "hyperpigmentation",
+        "freckles",
+        "smiling",
+        "brick wall"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment serves as the primary visual hook and explicitly introduces the video's core problem—'horrible hyperpigmentation'—by showing the woman's face with noticeable dark spots, while also creating an emotional connection with her gentle smile and the presence of a baby."
+    },
+    {
+      "start_time": "00:02.760",
+      "end_time": "00:04.990",
+      "structural_tags": [
+        "Problem_State",
+        "UGC_Talking_Head",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "skin",
+        "bathroom",
+        "brown hoodie"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "neutral"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "standard lighting"
+        ]
+      },
+      "why_kept": "This segment provides an additional, candid look at the woman's face in a different setting, further illustrating and reinforcing the 'Problem_State' of her skin, serving as supplementary 'before' footage to the initial claim of hyperpigmentation."
+    }
+  ]
+}

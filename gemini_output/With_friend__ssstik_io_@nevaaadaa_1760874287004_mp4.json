@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\With friend\\ssstik.io_@nevaaadaa_1760874287004.mp4",
+  "detailed_description": "This video features two young women showcasing a synchronized dance routine on a high-rise balcony at night. Against the backdrop of a vibrant city skyline, they perform a series of energetic and playful movements, exuding positive emotions and an active lifestyle. The dynamic lighting from the city enhances the overall aesthetic of their performance, creating an engaging visual hook.",
+  "segments": [
+    {
+      "start_time": "00:00:00",
+      "end_time": "00:13:00",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "two women",
+        "dancing",
+        "balcony",
+        "city lights",
+        "night",
+        "urban skyline"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "night urban setting",
+          "dynamic movement",
+          "contemporary fashion"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it continuously displays the main action and purpose of the video: two individuals dancing energetically and playfully. There are no setup frames, dead air, or breaks in the core action, adhering to the 'No-Mistake' rule."
+    }
+  ]
+}

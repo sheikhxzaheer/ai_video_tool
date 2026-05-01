@@ -1,0 +1,83 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Wake up\\Woman\\ssstik.io_@its.anya.lacey_1768400261050.mp4",
+  "detailed_description": "The video provides a humorous comparison of stereotypical morning routines, contrasting how 'girls' and 'guys' are depicted waking up. The first segment shows a young woman waking up gracefully, stretching with a smile, and sitting up energetically. This is immediately followed by a second segment featuring the same woman, styled to represent a 'guy,' waking up slowly, groggily, and reluctantly, staying nestled under the covers. The comedic effect stems from these exaggerated, contrasting portrayals of morning awakenings.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.450",
+      "structural_tags": [
+        "Visual_Hook",
+        "Morning_Routine",
+        "Positive_Emotion",
+        "High_Energy",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "girl",
+        "bed",
+        "waking up",
+        "stretching",
+        "smiling",
+        "sitting up",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "home setting",
+          "meme style"
+        ]
+      },
+      "why_kept": "This segment establishes the first part of the meme's comparison, showing a 'girl's' energetic and positive awakening. It features clear emotional reactions and actions central to the video's premise."
+    },
+    {
+      "start_time": "00:07.450",
+      "end_time": "00:15.500",
+      "structural_tags": [
+        "Morning_Routine",
+        "Negative_Emotion",
+        "Calm_Relaxation",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "girl",
+        "bed",
+        "sleeping",
+        "waking up slowly",
+        "groggy",
+        "blanket",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "home setting",
+          "meme style"
+        ]
+      },
+      "why_kept": "This segment completes the meme's comparison by showing the 'guy's' slow, groggy awakening, providing the humorous contrast that is the core meaning of the video. Both segments are equally crucial for the joke."
+    }
+  ]
+}

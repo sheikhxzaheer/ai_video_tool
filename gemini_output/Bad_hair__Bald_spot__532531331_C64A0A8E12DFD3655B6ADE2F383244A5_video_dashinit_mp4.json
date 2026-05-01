@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\Bald spot\\532531331_C64A0A8E12DFD3655B6ADE2F383244A5_video_dashinit.mp4",
+  "detailed_description": "This video proposes a solution for individuals experiencing a receding hairline by demonstrating a stylish transformation. It begins by showing a man with a visible receding hairline and a full, unkempt beard, representing the 'before' state. The video then quickly transitions to the 'after' state, revealing the same man with a cleanly shaven head and a meticulously groomed beard. This drastic change showcases how embracing a bald head in combination with a well-maintained beard can result in a confident and aesthetically pleasing appearance, underscored by the subject's evident positive reaction.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.125",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "receding hairline",
+        "beard",
+        "shaven head",
+        "bald",
+        "groomed beard",
+        "smile",
+        "confident expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dynamic cut",
+          "before/after visual",
+          "direct lighting",
+          "simple background"
+        ]
+      },
+      "why_kept": "This segment is the core semantic value as it directly illustrates the proposed 'hairstyle' for a receding hairline through a clear before-and-after transformation. It visually presents the 'problem state' (receding hairline) and the 'result transformation' (bald head with a groomed beard), concluding with the subject's positive emotional reaction, which reinforces the effectiveness of the suggested change."
+    }
+  ]
+}

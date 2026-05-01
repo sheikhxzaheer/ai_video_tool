@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Drink\\Water\\ssstik.io_@d2muks_1766920266816.mp4",
+  "detailed_description": "This video showcases the simple pleasure and satisfaction of hydrating with a large quantity of ice-cold water. It captures the entire process from pouring a litre of water over ice into a sizable, transparent mug with a straw, to the act of drinking it with evident enjoyment. The repeated slurping sounds emphasize the refreshing experience, culminating in a satisfied facial expression, highlighting the core message that sometimes all one needs is cold water.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:35.40",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Home_Kitchen",
+        "Face_Reaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pouring water",
+        "ice",
+        "large clear mug",
+        "pink straw",
+        "drinking",
+        "smiling",
+        "hydration"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "refreshing",
+          "satisfying sound",
+          "clear visuals"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it perfectly encapsulates the semantic core. It visually demonstrates the preparation of a large, refreshing ice-cold drink, showcases direct product interaction (pouring, stirring, drinking from the mug), and clearly conveys positive emotion and satisfaction from the woman. The on-screen text 'sometimes all you need is a litre of ice cold water' provides the central message, which is fully supported by the continuous visual and auditory experience throughout the clip, making the whole video a cohesive hero moment."
+    }
+  ]
+}

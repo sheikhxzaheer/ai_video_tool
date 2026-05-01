@@ -1,0 +1,202 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Skin is peeled off\\ð┐ð╗ð¥Ðàð¥ Ðüð┤ð©ÐÇð░ðÁÐé ð╝ð░Ðüð║Ðâ Ðü ð╗ð©Ðåð░.mp4",
+  "detailed_description": "This video captures a woman's raw and candid experience using a peel-off charcoal face mask. She struggles humorously with the mask's strong adhesion, particularly around her hairline, eyebrows, and nose, making pained exclamations as it pulls off dead skin and fine facial hairs. Despite the discomfort, she highlights the mask's effectiveness, showcasing removed hair and expressing genuine satisfaction with how smooth her skin feels immediately after the exfoliation process. The video concludes with her face rinsed clean, displaying slightly reddened but soft skin, as she shares her final thoughts on the product.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "The_Process",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face mask",
+        "peeling mask",
+        "forehead",
+        "painful expression",
+        "headband"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment serves as a strong visual hook, immediately demonstrating the product's intense adhesion and the user's initial, humorous struggle with pain during the peeling process."
+    },
+    {
+      "start_time": "00:18.700",
+      "end_time": "00:26.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Reveal_Result",
+        "Macro_Detail",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face mask",
+        "peeling jawline",
+        "pulled hair",
+        "mask strip",
+        "pain"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear visual",
+          "distinct peeling sound"
+        ]
+      },
+      "why_kept": "This segment clearly showcases a significant portion of the mask being peeled, the associated discomfort, and critically, the visible removal of facial hair stuck to the mask, providing concrete evidence of the product's function."
+    },
+    {
+      "start_time": "00:31.000",
+      "end_time": "00:33.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "touching cheek",
+        "smooth skin reaction"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft expression",
+          "immediate reaction"
+        ]
+      },
+      "why_kept": "This brief segment captures an immediate positive emotional response to the mask's effect, highlighting the desired 'smooth skin' result despite the pain."
+    },
+    {
+      "start_time": "01:47.500",
+      "end_time": "01:56.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Reveal_Result",
+        "Macro_Detail",
+        "Problem_State",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "woman",
+        "peeling nose",
+        "nose hair removal",
+        "pain",
+        "surprised reaction"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "shock_surprise",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "exaggerated reaction",
+          "detailed view of peeling"
+        ]
+      },
+      "why_kept": "This segment is a peak emotional climax, focusing on the highly sensitive nose area. It effectively conveys the intense sensation of peeling and vividly reveals the removal of small nose hairs, reinforcing the mask's deep cleaning and exfoliating properties."
+    },
+    {
+      "start_time": "02:32.400",
+      "end_time": "02:53.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Social_Proof",
+        "Key_Information",
+        "UGC_Talking_Head",
+        "Face_Reaction",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "woman",
+        "clean face",
+        "red cheeks",
+        "smooth skin",
+        "talking to camera",
+        "smile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "positive",
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address",
+          "natural lighting",
+          "confessional style"
+        ]
+      },
+      "why_kept": "This final segment provides the complete 'after' visual of her skin, clean and noticeably smoother. It's a crucial 'talking head' where she delivers her overall honest assessment, social proof of the product's effectiveness, and a lighthearted call to action, encapsulating the video's core message."
+    }
+  ]
+}

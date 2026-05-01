@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLife_working\\Scene 21- complete transformation 2.mov",
+  "detailed_description": "This video features a small, light-colored dog, possibly a chihuahua mix, comfortably resting on a soft pink blanket. The dog is wearing a purple collar with a small pink bow and is seen lying down with its head resting on the blanket, occasionally blinking or shifting its gaze directly at the camera. The overall mood conveyed is one of calm and relaxation, showcasing a pet in a peaceful state.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.833",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "dog",
+        "chihuahua mix",
+        "resting",
+        "blanket",
+        "purple collar",
+        "pink bow",
+        "couch"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "static shot",
+          "soft lighting",
+          "pet portrait"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it perfectly captures the sole 'hero moment' of the video: a dog in a state of calm relaxation. There are no other actions, products being actively used, or transformations; the essence of the video is the dog resting peacefully, directly fulfilling the 'Emotional Climax' criteria as a moment of calm and positive emotion, and the 'No-Mistake Rule' applies as the action (the dog resting) is continuous from start to end."
+    }
+  ]
+}

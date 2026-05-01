@@ -1,0 +1,186 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Celebrity\\ssstik.io_@fashionweek_1763040219050.mp4",
+  "detailed_description": "The video showcases Karol G's stylish all-white ensemble, featuring a deep-V sleeveless waistcoat and wide-leg trousers, accessorized with an array of gold layered necklaces, statement earrings, and chic sunglasses. She also carries a distinctive pink Louis Vuitton handbag. The video captures her confident walk and various poses, highlighting the details of her meticulously chosen outfit and accessories, emphasizing her fashionable presence and positive demeanor.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll",
+        "Product_Intro"
+      ],
+      "visual_keywords": [
+        "Karol G",
+        "white vest",
+        "gold layered necklaces",
+        "statement earrings",
+        "smiling",
+        "direct gaze"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "dynamic angle"
+        ]
+      },
+      "why_kept": "This segment is kept as the ANCHOR because it provides a strong, engaging introduction to Karol G and her stylish ensemble, capturing her face, expression, and the prominent accessories, setting the tone for the entire video."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "Karol G",
+        "white vest",
+        "sunglasses",
+        "layered necklaces",
+        "walking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "side profile"
+        ]
+      },
+      "why_kept": "This segment complements the anchor by showcasing Karol G's outfit and accessories from a different angle as she walks, emphasizing the overall look and the sunglasses."
+    },
+    {
+      "start_time": "00:05.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "pink Louis Vuitton bag",
+        "white jeans",
+        "butterfly tattoo",
+        "gold bracelet"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused lighting",
+          "detailed shot"
+        ]
+      },
+      "why_kept": "This segment specifically highlights the distinct pink Louis Vuitton bag and white jeans, providing a close-up detail of one of the key accessories and contributing to the overall fashion showcase."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "Karol G",
+        "walking",
+        "white vest",
+        "sunglasses",
+        "gold necklaces",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "dynamic camera movement"
+        ]
+      },
+      "why_kept": "This segment continues to showcase Karol G's confident walk and full ensemble, capturing her smile and the movement of her accessories, adding to the dynamic presentation of her style."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Macro_Detail",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Karol G",
+        "sunglasses",
+        "gold earrings",
+        "layered necklaces",
+        "smiling face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "detailed facial shot"
+        ]
+      },
+      "why_kept": "This final segment offers a close-up of Karol G's face, sunglasses, and the intricate details of her layered necklaces and long earrings, reinforcing the emphasis on her fashion choices and confident expression."
+    }
+  ]
+}

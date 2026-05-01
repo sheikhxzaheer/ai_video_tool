@@ -1,0 +1,234 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Flight attendant\\ssstik.io_@celloandleilei_1767010486839.mp4",
+  "detailed_description": "The video provides a first-person perspective of a flight, showcasing various duties performed by a flight attendant, framed as the viewer's girlfriend. It captures her engaging in tasks such as closing overhead bins, smiling from behind the onboard bar, waving playfully from the galley, and meticulously preparing a meal. The core highlight is her direct interaction of serving the prepared meal to the passenger, concluding with an aesthetic shot of the complete in-flight dining experience.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.800",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Travel_Transit",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "flight attendant",
+        "closing overhead bin",
+        "airplane interior",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "car",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment establishes the setting and the flight attendant's presence, showing her engaged in a routine professional action with a pleasant demeanor, setting the tone for the POV."
+    },
+    {
+      "start_time": "00:02.800",
+      "end_time": "00:04.200",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Travel_Transit",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "flight attendant",
+        "smiling",
+        "onboard bar",
+        "drinks"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "car",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "attentive gaze"
+        ]
+      },
+      "why_kept": "This segment reinforces the personal interaction and positive mood, showing the flight attendant in another part of her workspace with a friendly expression."
+    },
+    {
+      "start_time": "00:04.200",
+      "end_time": "00:06.100",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Travel_Transit",
+        "Aesthetic_Broll",
+        "Emotional_Climax"
+      ],
+      "visual_keywords": [
+        "flight attendant",
+        "waving",
+        "smiling",
+        "galley",
+        "airplane kitchen"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "kitchen",
+          "car",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused lighting",
+          "welcoming gesture"
+        ]
+      },
+      "why_kept": "This segment highlights a direct, personal, and emotionally positive interaction (waving) from the flight attendant, strengthening the 'girlfriend POV' element."
+    },
+    {
+      "start_time": "00:06.100",
+      "end_time": "00:07.800",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "flight attendant",
+        "preparing food",
+        "meal preparation",
+        "galley"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen",
+          "car",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "task-focused",
+          "detail-oriented"
+        ]
+      },
+      "why_kept": "This segment explicitly shows the 'Process/Labor' aspect of her job, demonstrating the effort involved in preparing the passenger's meal."
+    },
+    {
+      "start_time": "00:07.800",
+      "end_time": "00:09.900",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Travel_Transit",
+        "Emotional_Climax"
+      ],
+      "visual_keywords": [
+        "flight attendant",
+        "serving meal",
+        "food tray",
+        "passenger seat",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "car",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct service",
+          "attentive",
+          "warm interaction"
+        ]
+      },
+      "why_kept": "This is the primary 'Hero Moment' as it directly involves the flight attendant serving the meal to the POV passenger, showcasing the culmination of her labor and a key 'Product Interaction' with clear 'Positive Emotion'."
+    },
+    {
+      "start_time": "00:09.900",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Result_Transformation",
+        "Travel_Transit",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "meal tray",
+        "food",
+        "in-flight entertainment",
+        "airplane seat"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "car",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "appetizing display",
+          "luxury travel"
+        ]
+      },
+      "why_kept": "This segment acts as the 'Reveal/Result', showcasing the final delivered meal and enhancing the premium in-flight experience, directly following the service action."
+    }
+  ]
+}

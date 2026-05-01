@@ -1,0 +1,110 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sheikh\\ssstik.io_@samumds_1766728535782.mp4",
+  "detailed_description": "The video captures the intriguing reactions of various people in a bustling shopping mall to the presence of a man dressed in traditional Arabic attire, accompanied by a woman. Onlookers display a range of expressions from curiosity and surprise to openly filming the pair with their phones. The core meaning lies in documenting the spontaneous human interaction and curiosity evoked by an uncommon sight in a familiar, modern commercial setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.166",
+      "structural_tags": [
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man in keffiyeh and thobe",
+        "woman in green dress",
+        "walking",
+        "briefcase",
+        "shopping mall"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "observational",
+          "intriguing"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "documentary style",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment introduces the central subjects whose presence elicits reactions from others, setting the context for the video's core theme."
+    },
+    {
+      "start_time": "00:11.375",
+      "end_time": "00:13.250",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Confusion_Doubt"
+      ],
+      "visual_keywords": [
+        "people",
+        "food court",
+        "sitting",
+        "looking",
+        "curious expressions"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "curious",
+          "observational"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "candid",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment captures a group of people in a public setting showing clear, widespread curiosity and observation, reinforcing the impact of the subjects' presence."
+    },
+    {
+      "start_time": "00:13.250",
+      "end_time": "00:15.583",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Face_Reaction",
+        "Shock_Surprise",
+        "Confusion_Doubt",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman with glasses",
+        "direct gaze",
+        "surprised expression",
+        "confused look"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "surprised",
+          "confused",
+          "intense"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct eye contact",
+          "strong emotional response"
+        ]
+      },
+      "why_kept": "This is the strongest 'Emotional Climax' segment, featuring a clear, direct, and prolonged facial expression of surprise and confusion, making it the most impactful reaction shot in the video."
+    }
+  ]
+}

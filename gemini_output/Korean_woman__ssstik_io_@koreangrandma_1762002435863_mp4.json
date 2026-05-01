@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Korean woman\\ssstik.io_@koreangrandma_1762002435863.mp4",
+  "detailed_description": "The video features Gongju Halmae, a 70-year-old woman, introducing herself with a radiant smile. She expresses surprise that people are often astonished by her age and frequently inquire about her secret to maintaining youthful skin. With enthusiasm, she promises to reveal all her beauty tips and knowledge in upcoming content, setting an expectation for future educational value.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.333",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Key_Information",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "woman",
+        "speaking",
+        "smiling",
+        "pearl necklace",
+        "floral top"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "plain background",
+          "direct address"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core of the video, as it introduces the speaker, her unique selling proposition (being 70 with youthful skin), and her promise to share her secrets, serving as a direct call to action and key information without any product interaction. The video starts and ends precisely with this core message, adhering to the 'No-Mistake Rule'."
+    }
+  ]
+}

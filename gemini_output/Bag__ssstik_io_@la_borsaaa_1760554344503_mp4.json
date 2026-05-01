@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bag\\ssstik.io_@la_borsaaa_1760554344503.mp4",
+  "detailed_description": "The video features a woman enthusiastically presenting her diverse collection of handbags, each assigned a unique name. She showcases various styles, from structured top-handle bags with crocodile textures to soft clutches and unique jacket-shaped designs. Throughout the presentation, she maintains a playful and engaging demeanor, smiling and interacting directly with each bag, highlighting her personal connection and appreciation for her accessories.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:22.096",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "handbags",
+        "purses",
+        "fashion",
+        "collection",
+        "smiling",
+        "presenting",
+        "black dress",
+        "accessories",
+        "naming bags",
+        "crocodile texture"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background",
+          "fashion focus",
+          "dynamic cuts"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the semantic core because it continuously demonstrates the primary action and value of the video: the woman's enthusiastic presentation and interaction with her extensive handbag collection. Every moment involves product interaction, emotional engagement (her smiles and playful dialogue), and key information (naming the bags), without any discernible setup, calibration, or post-action dead air. The visual priority rule confirms that the continuous product display alongside her commentary constitutes the 'doing the work' and 'product interaction' hero moments."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLife_working\\Scene 25_peaceful resting.mov",
+  "detailed_description": "This video features a small, light-colored dog, possibly a Chihuahua, deeply asleep and nestled comfortably on a soft, pink, ruffled bedspread. The dog is wearing a dark purple collar and is positioned with its head resting on the plush bedding, eyes gently closed. Throughout the clip, the dog's breathing is visibly calm and steady, conveying a strong sense of peace and tranquility. The scene is bathed in soft, natural light, highlighting the cozy and undisturbed sleep of the pet. The overall atmosphere is one of serene comfort and complete relaxation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:25.590",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "dog sleeping",
+        "pink bedspread",
+        "chihuahua",
+        "purple collar",
+        "peaceful",
+        "cozy"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "relaxed",
+          "peaceful"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "still shot",
+          "serene atmosphere"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the hero moment of ultimate calm and relaxation through the visual of a dog peacefully sleeping. The continuous, undisturbed nature of the sleep and the serene setting perfectly convey the intended emotion and aesthetic, requiring no trimming of setup or post-action 'dead air' as the action is consistent from start to finish."
+    }
+  ]
+}

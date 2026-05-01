@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_Uzma_poductdemo.mp4",
+  "detailed_description": "The video provides a detailed showcase of two pink-themed Korean beauty products from the brand QUIA: a Collagen Niacinamide Jelly Cream and a Collagen Night Wrapping Mask. It elegantly highlights the aesthetic packaging and then meticulously demonstrates the unique textures of both products. The jelly cream is scooped with a spatula, revealing its translucent, bouncy consistency, while the night mask is squeezed from its tube, showcasing its clear, viscous, and stretchable gel texture, emphasizing its quality and unique formulation through close-up product interactions.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Macro_Detail",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Premium",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "pink skincare products",
+        "jelly cream",
+        "night mask",
+        "spatula",
+        "gel texture",
+        "bubbles",
+        "packaging",
+        "hand"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "smooth transitions",
+          "product focus"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it continuously introduces both products, immediately transitions into detailed close-ups of product interaction, and effectively highlights their unique textures and consistencies, which is the core value proposition of the video."
+    }
+  ]
+}

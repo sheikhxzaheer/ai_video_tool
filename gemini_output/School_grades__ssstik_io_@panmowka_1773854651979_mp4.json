@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\School grades\\ssstik.io_@panmowka_1773854651979.mp4",
+  "detailed_description": "This video showcases various academic papers and notebooks, prominently displaying excellent grades and scores such as '47/50', '25/25', '100%', and 'V. Good!'. The primary focus is on the positive results of schoolwork, highlighted by red pen markings and circled scores. It visually celebrates achievement and academic success, offering a glimpse into the tangible outcomes of learning and effort.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.472",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Macro_Detail",
+        "Data_Metrics_Chart"
+      ],
+      "visual_keywords": [
+        "graded papers",
+        "high scores",
+        "schoolwork",
+        "notebooks",
+        "red pen markings",
+        "100%",
+        "25/25",
+        "47/50",
+        "excellent grades"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "neat handwriting",
+          "academic setting"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it directly demonstrates 'The Reveal/Result' of academic effort through the display of multiple high scores and positive grades. It is a continuous shot that fully captures the core message of success and achievement, requiring no trimming based on the 'No-Mistake Rule'."
+    }
+  ]
+}

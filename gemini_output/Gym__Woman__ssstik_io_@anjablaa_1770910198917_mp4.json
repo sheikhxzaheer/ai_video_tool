@@ -1,0 +1,213 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Gym\\Woman\\ssstik.io_@anjablaa_1770910198917.mp4",
+  "detailed_description": "This video features a comprehensive full back workout routine demonstrated by a woman in a modern gym. It begins with a strong visual hook showcasing her back muscles, followed by concise demonstrations of five key exercises: Lat Pulldown, Seated Cable Row, Back Extension, Cable Straight-Arm Pullover, and Cable Face Pull. Each segment highlights the proper form and interaction with the gym equipment, making it an informative guide for building back strength and definition.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.400",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "back muscles",
+        "flexing",
+        "gym",
+        "white activewear"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "back focus"
+        ]
+      },
+      "why_kept": "This segment serves as the primary visual hook, immediately showcasing the result of back training and setting the stage for the 'Full Back Workout' with a powerful flex. It acts as the core introductory moment."
+    },
+    {
+      "start_time": "00:03.400",
+      "end_time": "00:06.900",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Lifestyle_Active",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "lat pulldown",
+        "gym machine",
+        "back exercise",
+        "pulling motion"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear demonstration",
+          "focused action",
+          "gym equipment"
+        ]
+      },
+      "why_kept": "This segment demonstrates the first specific exercise, the Lat Pulldown, clearly showing the 'Process/Labor' and interaction with gym equipment, which is a core hero moment for a workout video."
+    },
+    {
+      "start_time": "00:06.900",
+      "end_time": "00:10.500",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Lifestyle_Active",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "seated cable row",
+        "rowing exercise",
+        "back muscles",
+        "gym machine"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "proper form",
+          "back angle",
+          "controlled movement"
+        ]
+      },
+      "why_kept": "This segment showcases another essential back exercise, the Seated Cable Row, highlighting the precise 'Process/Labor' and effective use of the gym apparatus."
+    },
+    {
+      "start_time": "00:10.500",
+      "end_time": "00:14.500",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Lifestyle_Active",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "back extension",
+        "hyperextension machine",
+        "lower back exercise",
+        "weight plate"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "full range of motion",
+          "focused movement",
+          "gym floor"
+        ]
+      },
+      "why_kept": "This segment effectively demonstrates the Back Extension exercise, a 'Process/Labor' moment that highlights proper form and the engagement of the lower back, integral to a full back workout."
+    },
+    {
+      "start_time": "00:14.500",
+      "end_time": "00:18.900",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Lifestyle_Active",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "cable straight-arm pullover",
+        "cable machine",
+        "lats exercise",
+        "tricep rope"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "smooth movement",
+          "back focus",
+          "cable system"
+        ]
+      },
+      "why_kept": "This segment illustrates the Cable Straight-Arm Pullover, capturing another 'Process/Labor' moment that details the correct technique and interaction with the cable machine for back development."
+    },
+    {
+      "start_time": "00:18.900",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Lifestyle_Active",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "cable face pull",
+        "cable machine",
+        "rear delts",
+        "upper back exercise"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "controlled motion",
+          "shoulder health",
+          "cable system"
+        ]
+      },
+      "why_kept": "This final segment completes the back workout demonstration with the Cable Face Pull, another 'Process/Labor' moment showcasing a crucial exercise for upper back and rear deltoid strength."
+    }
+  ]
+}

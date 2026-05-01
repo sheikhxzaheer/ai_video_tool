@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ssstik.io_1751796240500.mp4",
+  "detailed_description": "The video captures a young man applying a yellow, stretchy substance, possibly melted cheese or a similar food item, onto his hair. He carefully stretches and presses the substance to cover the top of his head, showcasing a mix of concentration and playful surprise in his facial expressions. The action appears to be a humorous or experimental challenge, with a Dobby statue visible in the background, adding to the quirky atmosphere.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:10.592",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Playful",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "yellow substance",
+        "hair",
+        "applying",
+        "stretching",
+        "Dobby statue",
+        "eyes graphic on shirt"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "surprised",
+          "experimental"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct eye contact",
+          "dynamic action"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it constitutes the core action and the 'hero moment' of the video. It clearly demonstrates the process of the man applying the yellow substance to his hair, showcasing his interaction with the item and his facial reactions, without any identifiable setup or post-action dead air to trim."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Under-Eye Bag Before_After\\ð╝ðÁÐêð║ð© ð┐ð¥ð┤ ð│ð╗ð░ðÀð░ð╝ð© ð┤ð¥ ð┐ð¥Ðüð╗ðÁ 6.mp4",
+  "detailed_description": "This video presents a compelling before-and-after comparison of a woman who underwent an eye bag removal procedure. The initial segment highlights prominent under-eye bags, visually emphasized with arrows, establishing the 'before' state. The video then transitions to the 'after' state, showcasing a noticeable reduction in the under-eye bags, resulting in a smoother and more refreshed appearance. The transformation concludes with the woman expressing clear satisfaction and a genuine smile, effectively conveying the positive outcome and emotional benefit of the procedure.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.400",
+      "structural_tags": [
+        "Visual_Hook",
+        "Before_After",
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "under-eye bags",
+        "eye bag removal",
+        "facial transformation",
+        "smiling",
+        "before and after"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "satisfied",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct lighting",
+          "clean background",
+          "clear comparison"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it directly illustrates the 'Before/After' transformation of eye bag removal, which is the main subject and value proposition of the video. It begins by clearly presenting the 'problem state' (under-eye bags) and transitions seamlessly to the 'result transformation' where the bags are removed, culminating in a 'positive emotional climax' with the woman's smile, demonstrating the success and satisfaction from the procedure. Per the 'No-Mistake' rule, the action starts immediately and ends definitively, so no trimming is applied."
+    }
+  ]
+}

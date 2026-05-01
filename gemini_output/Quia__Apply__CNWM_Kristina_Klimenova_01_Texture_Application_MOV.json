@@ -1,0 +1,145 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Apply\\CNWM_Kristina Klimenova_01_Texture_Application.MOV",
+  "detailed_description": "The video demonstrates the application of a Korean Beauty Collagen Night Wrapping Mask. The creator showcases the product's clear, gel-like texture by dispensing it onto a silicone brush and her hand, illustrating its spreadability. She then applies the mask to her face using the brush, highlighting its smooth application and emphasizing its benefits for achieving 'glass skin' and improving collagen and elasticity. The mask is intended to be worn overnight, with the creator providing instructions for use.",
+  "segments": [
+    {
+      "start_time": "00:18.000",
+      "end_time": "00:31.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "pink tube",
+        "clear gel",
+        "silicone brush",
+        "hands",
+        "product dispensing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment is kept as BROLL because it provides a clear, close-up demonstration of the product being dispensed onto the application brush, highlighting its texture and the tool used."
+    },
+    {
+      "start_time": "00:46.000",
+      "end_time": "01:03.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "pink tube",
+        "clear gel",
+        "hands",
+        "product dispensing",
+        "palm"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment serves as BROLL, offering another close-up perspective of the product's texture and consistency as it is dispensed directly onto the creator's palm."
+    },
+    {
+      "start_time": "01:05.000",
+      "end_time": "01:13.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "silicone brush",
+        "clear gel",
+        "hands",
+        "spreading product",
+        "palm"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This BROLL segment visually demonstrates the spreadability and application feel of the product when spread with the silicone brush on the skin."
+    },
+    {
+      "start_time": "01:36.000",
+      "end_time": "03:32.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Social_Proof",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Night_Routine",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Product_Present",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face mask",
+        "pink tube",
+        "silicone brush",
+        "applying product",
+        "glowing skin",
+        "headband"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean aesthetics"
+        ]
+      },
+      "why_kept": "This segment is the ANCHOR as it comprehensively captures the core value: the creator introduces the product, provides social proof of its effectiveness ('most amazing mask,' 'glass skin'), demonstrates the full application process on her face, describes its benefits, and explains its purpose as a night mask, all while engaging directly with the viewer."
+    }
+  ]
+}

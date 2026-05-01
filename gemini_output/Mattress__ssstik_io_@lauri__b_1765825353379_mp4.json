@@ -1,0 +1,120 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mattress\\ssstik.io_@lauri__b_1765825353379.mp4",
+  "detailed_description": "The video showcases the exceptional comfort and quality of the Queen Rose hybrid mattress after a year of use. It opens with a claim of the mattress being a 'game changer' while a woman dynamically interacts with it, demonstrating its bounce, support, and overall comfort through jumping, sitting, and lying down. Close-up shots highlight the luxurious quilted texture and the mattress's specific features, including its hybrid design and medium firmness. The video concludes by portraying the user in a state of complete relaxation, enjoying leisure activities and then comfortably drifting off to sleep. This compilation emphasizes both the physical attributes and the emotional satisfaction derived from using the product.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Human_Interaction",
+        "Social_Proof",
+        "Positive_Emotion",
+        "High_Energy",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "mattress",
+        "jumping",
+        "sitting",
+        "lying down",
+        "smiling",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment sets the premise with a strong claim ('game changer' after one year) and visually demonstrates the mattress's key features like comfort, bounce, and support through dynamic human interaction. It's a comprehensive hero moment for product demonstration and social proof."
+    },
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Macro_Detail",
+        "Product_Interaction",
+        "Product_Standalone",
+        "Key_Information",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands",
+        "mattress",
+        "quilted texture",
+        "label",
+        "Queen Rose",
+        "hybrid mattress"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed focus",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This segment provides crucial close-up visual evidence of the mattress's quality and luxurious texture through hand interaction, along with explicit brand and product information (label), reinforcing the product's attributes."
+    },
+    {
+      "start_time": "00:16.000",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Lifestyle_Active",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "mattress",
+        "laptop",
+        "relaxing",
+        "sleeping"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "relaxed"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "cozy"
+        ]
+      },
+      "why_kept": "This segment effectively concludes the narrative by showing the user fully relaxed and comfortably engaging in leisure activities on the mattress, underscoring its long-term comfort and suitability for daily relaxation and sleep, reinforcing the positive emotional outcome."
+    }
+  ]
+}

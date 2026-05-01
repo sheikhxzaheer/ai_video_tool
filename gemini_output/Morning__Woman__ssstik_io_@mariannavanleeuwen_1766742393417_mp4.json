@@ -1,0 +1,301 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Morning\\Woman\\ssstik.io_@mariannavanleeuwen_1766742393417.mp4",
+  "detailed_description": "This video showcases a luxurious and healthy morning routine in a high-rise apartment overlooking the Dubai skyline. The routine involves preparing a fresh green juice from various vegetables and fruits using a juicer, followed by consuming it alongside perfectly boiled eggs. The video emphasizes a calm, positive, and wellness-focused lifestyle against an impressive urban backdrop, highlighting the process of creating a nutritious breakfast.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.300",
+      "structural_tags": [
+        "Visual_Hook",
+        "Morning_Routine",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bathrobe",
+        "city skyline",
+        "Dubai",
+        "Burj Khalifa",
+        "window view",
+        "living room"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "high-rise apartment"
+        ]
+      },
+      "why_kept": "This segment serves as an initial visual hook, establishing the luxurious setting and the serene mood of the morning routine, which is integral to the video's lifestyle appeal."
+    },
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:03.100",
+      "structural_tags": [
+        "Ingredient_Highlight",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "spinach",
+        "celery",
+        "cucumber",
+        "carrots",
+        "lime",
+        "orange",
+        "ginger",
+        "vegetables",
+        "fruits",
+        "cutting board"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "fresh"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "clean composition"
+        ]
+      },
+      "why_kept": "This segment clearly highlights the healthy ingredients used for the juice, providing context for the preparation process that follows."
+    },
+    {
+      "start_time": "00:03.200",
+      "end_time": "00:07.900",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Process_Labor",
+        "Product_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "juicer",
+        "green juice",
+        "celery",
+        "pouring juice",
+        "feeding vegetables",
+        "kitchen counter"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic action",
+          "close-up of machine"
+        ]
+      },
+      "why_kept": "This is the core 'process/labor' segment, demonstrating the active work of making the healthy juice. It clearly shows the juicer (product) in action and the steps involved in its use, making it the central value demonstration."
+    },
+    {
+      "start_time": "00:08.100",
+      "end_time": "00:08.800",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "green juice",
+        "glass",
+        "hand",
+        "city skyline",
+        "Dubai",
+        "view"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "outdoor"
+        ],
+        "mood": [
+          "premium",
+          "satisfaction"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "showcase shot",
+          "iconic backdrop"
+        ]
+      },
+      "why_kept": "This segment visually presents the freshly made juice against the impressive city backdrop, serving as a 'reveal' of the product in its aspirational setting."
+    },
+    {
+      "start_time": "00:10.100",
+      "end_time": "00:11.700",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "drinking juice",
+        "green juice",
+        "eyes",
+        "satisfied expression",
+        "close-up"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "healthy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct gaze",
+          "authentic reaction"
+        ]
+      },
+      "why_kept": "This segment shows the woman actively consuming the juice and her positive facial expression, conveying satisfaction and the benefits of the product interaction."
+    },
+    {
+      "start_time": "00:12.000",
+      "end_time": "00:14.900",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hard-boiled eggs",
+        "ice water",
+        "peeling egg",
+        "sliced eggs",
+        "pepper",
+        "plate",
+        "hand"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "step-by-step",
+          "food preparation"
+        ]
+      },
+      "why_kept": "This segment demonstrates the preparation and final presentation of the hard-boiled eggs, completing the picture of a healthy and balanced breakfast."
+    },
+    {
+      "start_time": "00:15.400",
+      "end_time": "00:15.900",
+      "structural_tags": [
+        "Morning_Routine",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "stretching",
+        "window",
+        "city view",
+        "morning"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "silhouette",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "A brief but impactful shot that reinforces the positive and active start to the day within the morning routine narrative."
+    },
+    {
+      "start_time": "00:16.300",
+      "end_time": "00:22.800",
+      "structural_tags": [
+        "Morning_Routine",
+        "Calm_Relaxation",
+        "Lifestyle_Active",
+        "Product_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bathrobe",
+        "drinking juice",
+        "city view",
+        "relaxing",
+        "sitting",
+        "couch",
+        "living room"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "ambient lighting",
+          "luxurious setting"
+        ]
+      },
+      "why_kept": "This segment concludes the routine, emphasizing the calm, enjoyable, and healthy lifestyle enabled by the morning rituals, reinforcing the overall aspirational message."
+    }
+  ]
+}

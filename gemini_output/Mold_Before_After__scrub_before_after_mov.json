@@ -1,0 +1,106 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold Before_After\\scrub before after.mov",
+  "detailed_description": "This video highlights the MoldMD Mold Spot Remover, a non-toxic, multi-purpose home cleaner for mold and mildew stains. It effectively demonstrates the product's application by showing it being sprayed onto a dirty bathtub drain. The cleaning process is then shown through scrubbing, followed by a clear reveal of the sparkling clean surface. The visual transformation underscores the product's efficacy and ease of use, supported by a voiceover emphasizing its non-toxic nature.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.023",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "MoldMD spray bottle",
+        "product label",
+        "spraying action",
+        "bathtub drain",
+        "moldy surface"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "focused shot"
+        ]
+      },
+      "why_kept": "This segment introduces the product, clearly displays its branding and key claims, and demonstrates the initial and crucial action of applying the spray, which is the product's primary mechanism of action. The voiceover directly mentions the product and its benefits during this time."
+    },
+    {
+      "start_time": "00:07.163",
+      "end_time": "00:10.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "red brush",
+        "scrubbing",
+        "dirty drain",
+        "mold spots",
+        "water droplets"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused action",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment highlights the 'Process/Labor' involved, demonstrating how the product works in conjunction with scrubbing to remove the mold. It visually reinforces the effort, or lack thereof, required for effective cleaning."
+    },
+    {
+      "start_time": "00:10.500",
+      "end_time": "00:13.200",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "clean drain",
+        "shiny chrome",
+        "white bathtub surface",
+        "water droplets",
+        "no mold"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "clear focus",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment clearly showcases the 'Result_Transformation', providing the compelling 'after' shot that demonstrates the product's effectiveness. It's the ultimate visual proof of the product's value proposition, implicitly comparing to the previous dirty state."
+    }
+  ]
+}

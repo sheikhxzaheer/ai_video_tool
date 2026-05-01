@@ -1,0 +1,285 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ssstik.io_@kfcbarber_1751801629462.mp4",
+  "detailed_description": "This video humorously tackles the common problem of getting slime stuck in hair. The creator demonstrates the effectiveness of a simple yet surprising solution: toothpaste followed by shampoo and warm water. He walks viewers through the step-by-step process of applying these products and meticulously combing the hair to remove the sticky substance. The video concludes with the successful transformation of slime-matted hair to clean, showing the practical application of this household hack.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.450",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man holding slime",
+        "stretching blue slime",
+        "putting slime on hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "playful",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment visually establishes the core problem of slime in hair, immediately grabbing the viewer's attention and setting the stage for the solution."
+    },
+    {
+      "start_time": "00:07.450",
+      "end_time": "00:10.150",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man trying to pull slime",
+        "struggling",
+        "text overlay 'Як позбутись?'"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "frustrated",
+          "doubt"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment reinforces the problem, showing the initial difficulty of removing the slime and posing the central question the video aims to answer."
+    },
+    {
+      "start_time": "00:23.000",
+      "end_time": "00:27.700",
+      "structural_tags": [
+        "Product_Intro",
+        "Key_Information",
+        "Product_Interaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man holding toothpaste",
+        "introducing solution",
+        "warm water mentioned"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "informative",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment introduces the key products and method for the solution, providing essential information directly to the viewer."
+    },
+    {
+      "start_time": "00:31.000",
+      "end_time": "00:34.900",
+      "structural_tags": [
+        "Malfunction_Fail",
+        "Problem_State",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man dipping head in water",
+        "slime not reacting to water",
+        "hands removing slime from hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "testing",
+          "failure"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment demonstrates an initial, ineffective attempt (using only water), highlighting the stubbornness of the slime and justifying the need for the featured solution."
+    },
+    {
+      "start_time": "00:38.800",
+      "end_time": "01:01.800",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "The_Process_Labor",
+        "Face_Reaction",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "applying toothpaste to hand",
+        "rubbing toothpaste into hair",
+        "combing hair with toothpaste",
+        "slime dissolving",
+        "irritated eyes",
+        "comb technique explanation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "focused",
+          "struggling",
+          "instructive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "natural lighting",
+          "detailed action"
+        ]
+      },
+      "why_kept": "This is a primary 'hero moment' demonstrating the first crucial step of the slime removal process: the application of toothpaste and initial combing, including important technique tips."
+    },
+    {
+      "start_time": "01:09.900",
+      "end_time": "01:25.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "The_Process_Labor",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "applying shampoo",
+        "rubbing shampoo into hair",
+        "combing hair with shampoo",
+        "slime washing away",
+        "hair becoming clean",
+        "lather"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "efficient",
+          "transformative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "natural lighting",
+          "clear transformation"
+        ]
+      },
+      "why_kept": "This is another primary 'hero moment' showing the crucial second step of the removal process with shampoo, visibly illustrating the transformation as the slime is completely washed out."
+    },
+    {
+      "start_time": "01:31.000",
+      "end_time": "01:36.500",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man feeling his clean hair",
+        "satisfied expression",
+        "hair movement"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "satisfied",
+          "happy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "emotional reaction"
+        ]
+      },
+      "why_kept": "This segment provides a clear 'reveal' of the successful outcome, showing the clean hair and the user's genuine satisfaction."
+    },
+    {
+      "start_time": "01:37.000",
+      "end_time": "01:49.000",
+      "structural_tags": [
+        "Offer_CTA",
+        "Social_Proof",
+        "Positive_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man combing clean hair",
+        "asking for likes/shares/saves",
+        "on-screen emojis",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "engaging",
+          "friendly"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment serves as the concluding 'call to action,' encouraging viewer engagement and reinforcing the perceived value of the demonstrated hack."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Apply\\CNWM_JillianGray_023_Applied Mask.MOV",
+  "detailed_description": "A woman wearing a pink headband with a large bow demonstrates the result of a skincare application. Her face is shiny and appears to have a dried product on it. She describes the effect, stating that it looks like she has 'plastic all over my face,' conveying both the completion of a step and her reaction to the unique texture. Her expression is calm and slightly amused, indicating satisfaction or interest in the outcome.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.918",
+      "structural_tags": [
+        "Result_Transformation",
+        "Face_Reaction",
+        "UGC_Talking_Head",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink headband",
+        "shiny face",
+        "dried product",
+        "talking",
+        "smiling",
+        "moon necklace"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct gaze",
+          "soft lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment is the semantic core because it directly presents the 'Reveal/Result' of a product application, showing the dried state of a skincare item on the subject's face. The subject's 'Emotional Climax' is captured through her descriptive commentary ('plastic all over my face') and her facial expression, which conveys a sense of amusement and observation. This also serves as 'Key Information' about the product's effect, making it a complete 'Hero Moment' according to the criteria."
+    }
+  ]
+}

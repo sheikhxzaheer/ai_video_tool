@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\TikTok\\8.mp4",
+  "detailed_description": "This video features a woman demonstrating and reviewing an electrolyte drink called 'Perfect Morning Electrolytes.' She begins by pouring the yellow liquid from a sachet into a glass, then stirs and drinks it through a straw. Throughout the video, she explains how the electrolytes provide sustained energy and focus without a caffeine crash, touting its zero-sugar content and clean ingredients. The woman expresses satisfaction with the product's taste, specifically noting the absence of a salty aftertaste, and concludes by urging viewers to purchase it from the TikTok shop.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:32.060",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Product_Interaction",
+        "UGC_Talking_Head",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Morning_Routine",
+        "Ingredient_Highlight",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pouring liquid",
+        "sachet",
+        "glass",
+        "straw",
+        "drinking",
+        "talking to camera",
+        "gesturing",
+        "Rolling Stones sweatshirt",
+        "white tip nails",
+        "rings"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "casual attire",
+          "direct address"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the product's use from preparation to consumption, explaining its benefits, showcasing the packaging, and providing a direct call to action. The subject consistently interacts with the product while speaking, making it a continuous 'Hero Moment' according to the visual priority rule and the 'no-mistake' rule for the full video duration."
+    }
+  ]
+}

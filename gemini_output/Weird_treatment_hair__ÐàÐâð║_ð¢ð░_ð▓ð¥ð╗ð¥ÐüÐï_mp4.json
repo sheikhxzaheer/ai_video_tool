@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ÐàÐâð║ ð¢ð░ ð▓ð¥ð╗ð¥ÐüÐï.mp4",
+  "detailed_description": "This video humorously showcases a stylist transforming a client's long, wet hair into various exaggerated and gravity-defying shapes in a salon setting. The segment begins with the client's initial long, messy hair, then rapidly proceeds through different creative manipulations, resulting in striking, sculptural hair forms. The client's amusing facial expressions throughout the unique styling process emphasize the playful and surprising nature of this hair makeover.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.680",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Before_After",
+        "High_Energy",
+        "Playful"
+      ],
+      "visual_keywords": [
+        "long hair",
+        "wet hair",
+        "hair styling",
+        "barber",
+        "stylist",
+        "hair salon",
+        "exaggerated hair",
+        "gravity-defying hair",
+        "client reaction"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "humorous"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "quick cuts",
+          "upbeat music",
+          "transformation"
+        ]
+      },
+      "why_kept": "This entire segment represents the core value of the video, showing the 'Before' state of the hair, the 'Process' of the stylist creatively manipulating it, and the 'Result_Transformation' into various extreme styles. The client's reactions also serve as an 'Emotional Climax' and 'Face_Reaction', making it a complete demonstration of the unique hair styling."
+    }
+  ]
+}

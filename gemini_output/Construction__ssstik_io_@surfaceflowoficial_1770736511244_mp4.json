@@ -1,0 +1,63 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Construction\\ssstik.io_@surfaceflowoficial_1770736511244.mp4",
+  "detailed_description": "This time-lapse video provides a comprehensive overview of a modern elevated house construction, from the initial foundation work, including digging and concrete pouring for the pillars and first-floor slab, through the framing of walls and roof, installation of roofing sheets and windows, and finally the exterior cladding with wooden slats. The entire process showcases the transformation of an empty plot into a fully furnished home with landscaping, all set against a stunning backdrop of lush green rice fields and karstic mountains.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:49.333",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Product_Standalone",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "excavator",
+        "digging",
+        "foundations",
+        "concrete pouring",
+        "rebar",
+        "formwork",
+        "concrete pillars",
+        "slab pouring",
+        "metal framing",
+        "wooden framing",
+        "roof installation",
+        "windows",
+        "stairs",
+        "wooden facade",
+        "landscaping",
+        "house construction",
+        "workers",
+        "rice fields",
+        "mountains",
+        "nature"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "nature",
+          "construction site"
+        ],
+        "mood": [
+          "energetic",
+          "impressive",
+          "productive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "time-lapse",
+          "construction",
+          "scenic backdrop",
+          "natural light"
+        ]
+      },
+      "why_kept": "The entire video serves as a continuous, visually coherent narrative demonstrating the complete construction process from the very first step (foundation digging) to the final completed and furnished house. This fulfills both the 'Process/Labor' and 'Reveal/Result' hero moment criteria comprehensively, making the full duration the semantic core."
+    }
+  ]
+}

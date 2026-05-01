@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20251211_135037652.mp4",
+  "detailed_description": "This video showcases the initial steps of preparing a 'PRFCT MORNING TANGERINE PULSE' hydration drink. It features a hand opening the main product bag, revealing an individual single-serving packet of the 'Tangerine Pulse' supplement. The packet is then placed on a clean counter, followed by a glass of water, setting the scene for mixing the beverage. The segment highlights the product's packaging and the simple, accessible nature of its preparation.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:08.777",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Product_Standalone",
+        "Home_Kitchen",
+        "Morning_Routine",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hand",
+        "bag",
+        "tangerine pulse",
+        "supplement packet",
+        "kitchen counter",
+        "glass",
+        "water"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "minimalist background",
+          "smooth camera movement"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it clearly demonstrates the initial product interaction, from opening the main packaging to presenting an individual serving packet and preparing a glass for mixing. It fulfills the 'Product Interaction' and 'The Process/Labor' hero moment criteria by showing the first steps of product use and directly introducing the product in its context of preparation."
+    }
+  ]
+}

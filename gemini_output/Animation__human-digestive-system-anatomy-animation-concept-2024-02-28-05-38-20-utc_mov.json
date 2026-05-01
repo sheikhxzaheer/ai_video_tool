@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\human-digestive-system-anatomy-animation-concept-2024-02-28-05-38-20-utc.mov",
+  "detailed_description": "This video provides a clear 3D animation of the human digestive system. It begins with a transparent outline of a human body, then progressively renders and displays the esophagus, stomach, small intestine, and large intestine. The animation offers a detailed anatomical view, showcasing the placement and interconnectedness of these vital organs within the torso. It serves as an educational visual for understanding the structure of the digestive tract.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.600",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Macro_Detail",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "human body",
+        "digestive system",
+        "esophagus",
+        "stomach",
+        "small intestine",
+        "large intestine",
+        "animation",
+        "anatomy",
+        "organs"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "medical illustration",
+          "transparent body",
+          "educational"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it fully displays the progressive animation of the human digestive system, clearly showing the structure and placement of organs. It directly demonstrates the key information and the 'result' of the anatomical reveal."
+    }
+  ]
+}

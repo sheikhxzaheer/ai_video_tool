@@ -1,0 +1,126 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\drive-download-20251227T113046Z-3-001\\BROLL3.mp4",
+  "detailed_description": "The video captures a man grappling with intense frustration and stress while working diligently on his laptop in a home office setting. Initially appearing overwhelmed and distressed, he removes his glasses and expresses annoyance. His emotional struggle escalates to the point where he buries his face in his hands, then emphatically bangs his desk, before immediately channeling that frustration into a focused, rapid typing session, signifying an urgent effort to overcome a challenging task or deadline. The scene effectively conveys the demanding and often exasperating nature of problem-solving work.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.300",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "man",
+        "typing",
+        "laptop",
+        "frustrated",
+        "glasses",
+        "desk",
+        "office"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "urgent"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clean aesthetic",
+          "warm lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the initial problem state and the character's visible frustration, setting the emotional tone for the narrative of struggle and effort."
+    },
+    {
+      "start_time": "00:02.500",
+      "end_time": "00:04.400",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "man",
+        "stressed",
+        "hands on head",
+        "laptop",
+        "desk",
+        "banging",
+        "office"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "urgent"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clean aesthetic",
+          "warm lighting"
+        ]
+      },
+      "why_kept": "This segment deepens the emotional impact by showing the man's peak stress and frustration, emphasizing the problem's severity and leading into his subsequent intensified work."
+    },
+    {
+      "start_time": "00:04.400",
+      "end_time": "00:07.400",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Urgency_Rush",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "man",
+        "typing",
+        "laptop",
+        "intense",
+        "focused",
+        "frustrated",
+        "desk",
+        "office"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "urgent"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clean aesthetic",
+          "warm lighting"
+        ]
+      },
+      "why_kept": "This segment portrays the 'Process/Labor' and 'Urgency' as the man, fueled by frustration, intensely focuses on his work, demonstrating active problem-solving."
+    }
+  ]
+}

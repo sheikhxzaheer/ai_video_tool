@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\Hair growth animation 3.mp4",
+  "detailed_description": "This video illustrates the microscopic process of hair growth on the scalp through a detailed 3D animation. It begins by showing individual hair strands emerging from the skin's surface and progressively demonstrates a significant increase in hair density and thickness. The animation effectively conveys the concept of stimulating hair follicles for enhanced growth, culminating in a lush and full head of hair, highlighting a 'before and after' transformation over time at a cellular level.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.300",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Cellular_Deep_Dive",
+        "Micro_Nutrients_Anim"
+      ],
+      "visual_keywords": [
+        "hair growth",
+        "skin surface",
+        "hair follicles",
+        "animation",
+        "density increase",
+        "black hair",
+        "scalp"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "conceptual",
+          "smooth progression",
+          "biological process"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it forms the complete 'Semantic Core' by illustrating the core concept of hair growth from sparse to dense through a continuous and progressive animation. It serves as a clear 'Mechanism of Action' and 'Result Transformation' demonstration. There are no setup, calibration, or post-action dead air frames to trim, making the entire duration essential to convey the full message."
+    }
+  ]
+}

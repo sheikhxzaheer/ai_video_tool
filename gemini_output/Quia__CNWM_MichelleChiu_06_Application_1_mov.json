@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\CNWM_MichelleChiu_06_Application 1.mov",
+  "detailed_description": "This video showcases a young woman's skincare routine as she applies a clear, gel-like face mask using a silicone brush. Wearing a pink bunny ear headband, she meticulously spreads the product across her forehead, cheeks, nose, and chin. The segment focuses on the precise and gentle application, highlighting the product interaction and the 'process' hero moment of her calm and deliberate skincare ritual.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:24.500",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "skincare routine",
+        "face mask application",
+        "silicone brush",
+        "clear gel mask",
+        "forehead",
+        "cheeks",
+        "nose",
+        "chin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean aesthetic",
+          "skincare focused"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it vividly demonstrates the core action of applying the face mask, fulfilling both the 'Process/Labor' and 'Product Interaction' hero moment criteria. The steady and detailed application, along with the visible product, provides clear value and understanding of the product's use."
+    }
+  ]
+}

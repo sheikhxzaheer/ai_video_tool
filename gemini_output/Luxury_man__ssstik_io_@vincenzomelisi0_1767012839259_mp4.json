@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury man\\ssstik.io_@vincenzomelisi0_1767012839259.mp4",
+  "detailed_description": "This video features a well-dressed man in a crisp white shirt, dark tie, and dark trousers, presenting a professional and stylish persona. He confidently poses for the camera, making subtle adjustments to his belt and tie, showcasing his polished attire. His expressions transition from a thoughtful gaze to a direct, engaging look, emphasizing a confident and appealing demeanor against an industrial-chic office or studio background.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.398",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Workspace_Office",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "white shirt",
+        "dark tie",
+        "dark pants",
+        "belt",
+        "posing",
+        "adjusting tie",
+        "adjusting belt",
+        "office background",
+        "curly hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office",
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "confident",
+          "stylish"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "good lighting",
+          "professional look",
+          "industrial ceiling",
+          "clean background"
+        ]
+      },
+      "why_kept": "The entire segment is kept as it cohesively presents a man in professional attire through a continuous sequence of confident poses and subtle adjustments to his belt and tie. These actions are integral to showcasing the complete, polished look and demonstrating personal style, with no extraneous 'dead air' or 'setup/calibration' that would warrant trimming."
+    }
+  ]
+}

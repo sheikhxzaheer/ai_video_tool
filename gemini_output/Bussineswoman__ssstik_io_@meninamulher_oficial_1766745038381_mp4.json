@@ -1,0 +1,190 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bussineswoman\\ssstik.io_@meninamulher.oficial_1766745038381.mp4",
+  "detailed_description": "This video encapsulates an aspirational professional lifestyle defined by luxury, sophistication, and material success. It visually portrays a stylish woman navigating upscale urban environments, driving premium vehicles, and engaging in high-end shopping. The sequence, framed by the caption 'My type of job,' highlights the perceived rewards of such a career, culminating in the display of designer shopping bags, symbolizing the lavish outcomes and desired status associated with this 'dream job.'",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.400",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Travel_Transit",
+        "Workspace_Office",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "suit",
+        "escalator",
+        "designer bag",
+        "magazine",
+        "cityscape",
+        "sunglasses"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "premium",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "urban chic",
+          "golden hour lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the elegant and professional aesthetic of the desired lifestyle, setting the tone for the 'type of job' being showcased."
+    },
+    {
+      "start_time": "00:03.900",
+      "end_time": "00:07.500",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Travel_Transit",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "beige suit",
+        "luxury car",
+        "designer bag",
+        "street",
+        "sunglasses"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "premium",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "chic fashion",
+          "clean aesthetics"
+        ]
+      },
+      "why_kept": "This clip further illustrates the high-end, professional image, showing interaction with luxury items like the car and designer bag, reinforcing the aspirational job and associated lifestyle."
+    },
+    {
+      "start_time": "00:07.800",
+      "end_time": "00:09.100",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "luxury car",
+        "Porsche",
+        "underground parking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "car"
+        ],
+        "mood": [
+          "premium",
+          "sleek"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "modern",
+          "dynamic shot"
+        ]
+      },
+      "why_kept": "The inclusion of a high-performance luxury car explicitly visualizes the financial rewards and opulent nature of the 'type of job' being promoted, adding to the allure."
+    },
+    {
+      "start_time": "00:09.100",
+      "end_time": "00:10.900",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Travel_Transit",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "driving",
+        "luxury car interior",
+        "city view",
+        "sunglasses"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "car",
+          "street"
+        ],
+        "mood": [
+          "confident",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "first-person perspective",
+          "urban backdrop"
+        ]
+      },
+      "why_kept": "This segment showcases active engagement with a luxury vehicle in an urban setting, contributing to the narrative of a successful, on-the-go professional lifestyle."
+    },
+    {
+      "start_time": "00:10.900",
+      "end_time": "00:16.200",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Aesthetic_Broll",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "black dress",
+        "high heels",
+        "luxury SUV",
+        "Chanel shopping bags",
+        "designer bag"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "premium",
+          "satisfied",
+          "glamorous"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "fashion-forward",
+          "luxury branding",
+          "sunny"
+        ]
+      },
+      "why_kept": "This is the core 'reveal' moment, explicitly demonstrating the tangible rewards of the 'type of job' through the display of multiple designer shopping bags. It powerfully communicates the desired outcome and success that the video aims to convey."
+    }
+  ]
+}

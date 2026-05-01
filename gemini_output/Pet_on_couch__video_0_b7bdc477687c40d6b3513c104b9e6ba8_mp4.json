@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pet on couch\\video_0_b7bdc477687c40d6b3513c104b9e6ba8.mp4",
+  "detailed_description": "This video captures a serene moment of a small, fluffy dog standing on the back of a light-colored sofa, gazing intently out a sunlit window. The indoor scene, softly lit by natural light filtering through sheer curtains, evokes a calm and cozy atmosphere. The dog, positioned with its front paws on the window sill and its body supported by a red decorative pillow, exhibits a watchful and curious demeanor as it observes the world outside. Towards the end of the clip, the dog subtly turns its head, momentarily acknowledging something within the room.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:08.57",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "dog",
+        "sofa",
+        "window",
+        "curtains",
+        "red pillow",
+        "living room"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "cozy"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "serene",
+          "domestic"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it fully captures the main action and essence of the video: a dog attentively observing outside from a unique vantage point on the sofa. There are no extraneous frames for setup or post-action dead air, making the entire duration a continuous 'hero moment' of the dog's calm and curious interaction with its home environment."
+    }
+  ]
+}

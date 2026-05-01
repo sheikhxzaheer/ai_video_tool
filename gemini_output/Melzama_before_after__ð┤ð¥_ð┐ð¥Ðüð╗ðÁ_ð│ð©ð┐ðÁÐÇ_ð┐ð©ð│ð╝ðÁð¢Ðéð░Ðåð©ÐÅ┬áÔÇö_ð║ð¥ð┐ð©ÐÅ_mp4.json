@@ -1,0 +1,80 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\ð┤ð¥_ð┐ð¥Ðüð╗ðÁ ð│ð©ð┐ðÁÐÇ ð┐ð©ð│ð╝ðÁð¢Ðéð░Ðåð©ÐÅ┬áÔÇö ð║ð¥ð┐ð©ÐÅ.mp4",
+  "detailed_description": "This video showcases a dramatic before-and-after transformation related to hyperpigmentation. It begins with a woman displaying significant dark spots on her face, actively engaging the audience by asking for their most effective, non-laser methods to erase hyperpigmentation. The subsequent segment, labeled '1 month after,' reveals a remarkable improvement in her skin's clarity and evenness, demonstrating the successful resolution of the initial skin concern. The video effectively highlights the visual impact of an unknown hyperpigmentation treatment within a short timeframe.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:03.400",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "UGC_Talking_Head",
+        "Face_Reaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hyperpigmentation",
+        "facial spots",
+        "serious expression",
+        "asking question",
+        "bathroom"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious",
+          "questioning"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment establishes the problem (hyperpigmentation) and sets the context for the desired transformation, acting as a strong visual hook and framing the 'before' state."
+    },
+    {
+      "start_time": "00:00:03.400",
+      "end_time": "00:00:05.466",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "clear skin",
+        "reduced hyperpigmentation",
+        "satisfied expression",
+        "bathroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "natural light"
+        ]
+      },
+      "why_kept": "This is the core 'reveal' moment, showcasing the successful outcome and dramatic transformation ('1 month after') of the hyperpigmentation, directly addressing the problem introduced earlier. It provides the main value and impact of the video."
+    }
+  ]
+}

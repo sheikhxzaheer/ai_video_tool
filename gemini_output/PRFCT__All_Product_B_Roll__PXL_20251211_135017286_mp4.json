@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20251211_135017286.mp4",
+  "detailed_description": "This video showcases the unboxing experience of 'PRFECT MORNING TANGERINE PULSE,' a supplement designed for rapid hydration and metabolic energy. A hand is seen opening the main resealable pouch, revealing and extracting several individual, conveniently packaged sachets from inside. The segment highlights the product's practical packaging, emphasizing its single-serving format and ease of access, which aligns with its intended use as part of a morning routine for on-the-go consumption.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.077",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Reveal_Transformation",
+        "Human_Interaction",
+        "Home_Kitchen",
+        "Aesthetic_Broll",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "hand",
+        "product pouch",
+        "individual sachets",
+        "Tangerine Pulse",
+        "kitchen counter"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "practical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "steady camera",
+          "focus on product packaging"
+        ]
+      },
+      "why_kept": "This entire segment serves as the 'Semantic Core' by demonstrating the initial interaction with the product. It clearly shows the process of opening the main pouch and revealing the individual sachets, which is a key 'Product Interaction' and 'Reveal' moment. It effectively communicates the product's convenient packaging and how it's presented to the user, with no significant 'setup' or 'dead air' to trim, adhering to the 'No-Mistake' rule."
+    }
+  ]
+}

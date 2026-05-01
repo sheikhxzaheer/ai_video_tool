@@ -1,0 +1,154 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Coffee\\ssstik.io_@rallymallyy_1766770944383.mp4",
+  "detailed_description": "This video features a woman trying and reviewing a viral McDonald's iced coffee 'hack.' She initially showcases the visually appealing drink, then describes her immediate reaction to its strength. The video also captures a candid moment where she points out undissolved coffee grounds at the bottom while holding her baby, before stirring and continuing to drink. Ultimately, she shares the specific recipe for the customized coffee, expresses satisfaction that it cured her headache, and gives a strong, positive recommendation. The video concludes with a text overlay of the exact coffee order details.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.750",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "UGC_Talking_Head",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "woman",
+        "holding coffee",
+        "iced coffee",
+        "sipping",
+        "straw",
+        "car interior",
+        "expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "energetic",
+          "candid"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "handheld"
+        ]
+      },
+      "why_kept": "This segment serves as the visual hook, introducing the viral McDonald's coffee and immediately showcasing the reviewer's first impression and strong taste reaction, setting the tone for the review."
+    },
+    {
+      "start_time": "00:11.750",
+      "end_time": "00:19.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "Problem_State",
+        "Human_Interaction",
+        "UGC_Talking_Head",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "woman",
+        "baby",
+        "coffee cup",
+        "stirring",
+        "straw",
+        "coffee grounds",
+        "car interior"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "candid"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "handheld"
+        ]
+      },
+      "why_kept": "This segment adds a candid, relatable element by featuring the baby, while also highlighting a specific product detail (undissolved coffee grounds) and the reviewer's interaction to mix it, contributing to a comprehensive user experience."
+    },
+    {
+      "start_time": "00:33.300",
+      "end_time": "00:56.800",
+      "structural_tags": [
+        "Result_Transformation",
+        "Key_Information",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "woman",
+        "baby",
+        "coffee cup",
+        "sipping",
+        "hand gestures",
+        "talking",
+        "car interior"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "satisfied",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "handheld"
+        ]
+      },
+      "why_kept": "This is a primary anchor segment as it delivers the crucial recipe information, reveals the positive impact of the coffee (headache relief), and provides the reviewer's conclusive and strong recommendation, making it central to the video's value proposition."
+    },
+    {
+      "start_time": "00:57.000",
+      "end_time": "01:01.000",
+      "structural_tags": [
+        "Key_Information",
+        "Result_Transformation",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "text overlay",
+        "coffee recipe",
+        "ingredients list"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "other",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "text graphic",
+          "clean"
+        ]
+      },
+      "why_kept": "This segment explicitly provides the detailed recipe in an easy-to-read text format, offering immediate and clear key information for viewers interested in replicating the viral coffee."
+    }
+  ]
+}

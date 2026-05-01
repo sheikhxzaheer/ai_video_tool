@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Apply\\CNWM_JillianGray_014_Application.MOV",
+  "detailed_description": "The video features a woman with a pink headband demonstrating the application of a skincare product to her face using a silicone brush. She explains that this product is the final step in her skincare routine and specifically highlights its effectiveness for sensitive skin, noting that it 'does wonders.' Her direct address to the camera, coupled with the visual demonstration and a satisfied expression, conveys personal endorsement and practical advice for product usage.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.110",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "skincare product",
+        "silicone brush",
+        "face application",
+        "pink headband",
+        "moon necklace",
+        "facial care"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "informative",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "natural lighting",
+          "clear focus"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it perfectly combines multiple 'Hero Moment' criteria: the woman demonstrates the 'PRODUCT INTERACTION' by applying the cream with a brush, provides 'KEY INFORMATION' by explaining the product's place in a routine and its benefits for sensitive skin, and shows 'EMOTIONAL CLIMAX' with her positive, satisfied expression. The visual demonstration is continuous throughout her spoken explanation, adhering to the 'Visual Priority Rule' and making the entire clip a cohesive unit of value."
+    }
+  ]
+}

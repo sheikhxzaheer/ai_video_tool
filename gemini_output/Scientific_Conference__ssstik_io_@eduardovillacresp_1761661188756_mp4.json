@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Scientific Conference\\ssstik.io_@eduardovillacresp_1761661188756.mp4",
+  "detailed_description": "This video captures a key moment from the I National Congress of Medical Students. A speaker is seen on stage, illuminated by purple lights, delivering a motivational speech to a large, attentive audience. The presentation screen behind him displays a graphic of diverse individuals with the question '¿REALMENTE NACÍ PARA ESTO?' (Was I really born for this?). The speaker emphasizes the continuous learning journey of medical students and the importance of collaboration over competition, encouraging them to view their peers as allies.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "01:25.750",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "speaker on stage",
+        "audience",
+        "conference",
+        "presentation screen",
+        "purple lighting",
+        "medical students",
+        "motivational speech"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "professional event",
+          "stage lighting",
+          "large audience",
+          "motivational tone"
+        ]
+      },
+      "why_kept": "This entire segment represents the core value of the video, showcasing a significant moment from the medical student conference. The speaker delivers key information and a motivational message about the profession, which is the primary 'hero moment' for an event-focused video. There are no trimmable 'setup' or 'dead air' sections, and the visual context of the speaker, presentation, and audience provides complete semantic understanding."
+    }
+  ]
+}

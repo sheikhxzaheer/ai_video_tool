@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Laser treatment\\ssstik.io_@zarpash_aesthetics_1761315597846.mp4",
+  "detailed_description": "The video provides a close-up view of a professional laser skin treatment being administered to a person's face. The individual wears protective eyewear, while a gloved practitioner uses a specialized laser device to target dark spots and pigmentation on the cheek. A distinct red laser light indicates the precise area undergoing treatment, highlighting the mechanism of action in a clinical or spa setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:17.583",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "laser treatment",
+        "skin",
+        "face",
+        "protective eyewear",
+        "gloves",
+        "dark spots",
+        "pigmentation",
+        "red laser light",
+        "medical device"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus on treatment",
+          "steady camera",
+          "professional setting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it entirely demonstrates the professional process and 'Mechanism of Action' of a laser skin treatment, with clear 'Product Interaction' and 'Human Interaction'. It begins and ends with the core action, requiring no trimming."
+    }
+  ]
+}

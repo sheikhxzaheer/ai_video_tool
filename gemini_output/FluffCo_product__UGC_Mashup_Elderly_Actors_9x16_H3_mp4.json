@@ -1,0 +1,540 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\UGC_Mashup_Elderly_Actors_9x16_H3.mp4",
+  "detailed_description": "The video highlights the transformative power of FluffCo pillows in achieving better sleep without expensive gadgets. It showcases testimonials from various individuals who rave about the pillows' hotel-quality comfort, supportive yet soft feel, and ability to stay cool and maintain fluffiness, unlike ordinary pillows. Users express relief from neck pain and frustration with old, lumpy pillows, celebrating renewed energy and well-rested mornings thanks to FluffCo, concluding with an offer to purchase.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Product_Present",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman sleeping",
+        "bed",
+        "pillow",
+        "blue lighting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dark lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment serves as a strong visual hook, immediately presenting the problem of poor sleep and introducing the product as the solution, setting the stage for the rest of the video."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Product_Intro",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Product_Present",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman talking",
+        "holding pillow",
+        "FluffCo pillow"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual"
+        ]
+      },
+      "why_kept": "This segment directly introduces the FluffCo product and begins the testimonial, establishing the brand and the speaker's positive experience."
+    },
+    {
+      "start_time": "00:05.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Product_Standalone",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "hotel bed",
+        "pillows",
+        "bedroom",
+        "wooden beams"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "luxurious",
+          "hotel-like"
+        ]
+      },
+      "why_kept": "This BROLL provides visual social proof, reinforcing the claim that these are '5-star hotel' quality pillows, enhancing product desirability."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Social_Proof",
+        "Human_Interaction",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "hotel maid",
+        "making bed",
+        "pillow"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "hotel setting",
+          "professional service"
+        ]
+      },
+      "why_kept": "This visual further reinforces the '5-star hotel' claim, showing a hotel setting where such pillows would be found, contributing to social proof."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Human_Interaction",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "woman talking",
+        "holding pillow",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual"
+        ]
+      },
+      "why_kept": "The speaker delivers a key value proposition by stating the pillows are 'so much cheaper' than hotel equivalents, highlighting affordability."
+    },
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Problem_State",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Product_Present",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman talking",
+        "touching neck",
+        "holding pillow",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "relieved"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "home setting"
+        ]
+      },
+      "why_kept": "This segment articulates a common problem (neck pain) and directly attributes its solution to the FluffCo pillow, showcasing a clear benefit."
+    },
+    {
+      "start_time": "00:12.000",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "hand pressing pillow",
+        "pillow softness",
+        "white pillow"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "tactile demonstration",
+          "focused shot"
+        ]
+      },
+      "why_kept": "This visual demonstrates the pillow's physical properties ('soft but supportive') through direct interaction, making the claim tangible."
+    },
+    {
+      "start_time": "00:14.000",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Low_Quality_Comparison",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "woman talking",
+        "holding pillow",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "home setting"
+        ]
+      },
+      "why_kept": "The speaker highlights a key differentiator by stating the pillows don't go flat, addressing a common frustration with standard pillows and emphasizing durability."
+    },
+    {
+      "start_time": "00:16.000",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "woman talking",
+        "holding pillow",
+        "fluffing pillow",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "demonstrative"
+        ]
+      },
+      "why_kept": "This segment uses both a talking head and a visual demonstration to emphasize the pillow's 'fluffy' quality and its lasting nature, a crucial product benefit."
+    },
+    {
+      "start_time": "00:19.000",
+      "end_time": "00:23.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "woman talking",
+        "holding pillow",
+        "gesturing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual"
+        ]
+      },
+      "why_kept": "The speaker points out another significant benefit: the pillow stays cool, eliminating a common sleep disturbance and contributing to better rest."
+    },
+    {
+      "start_time": "00:23.000",
+      "end_time": "00:26.000",
+      "structural_tags": [
+        "Negative_Emotion",
+        "Problem_State",
+        "Face_Reaction",
+        "Human_Interaction",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "woman lying on bed",
+        "talking",
+        "gesturing",
+        "pillow"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "frustrated",
+          "regretful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "bedroom setting"
+        ]
+      },
+      "why_kept": "This segment expresses strong negative emotion and regret over past poor sleep, creating a relatable 'before' state for the audience and emphasizing the problem FluffCo solves."
+    },
+    {
+      "start_time": "00:26.000",
+      "end_time": "00:29.000",
+      "structural_tags": [
+        "Problem_State",
+        "Low_Quality_Comparison",
+        "Human_Interaction",
+        "Product_Present",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "woman sleeping",
+        "lumpy pillow",
+        "uncomfortable"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "uncomfortable",
+          "frustrated"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "bedroom setting"
+        ]
+      },
+      "why_kept": "This visual explicitly shows the 'bag of rocks' pillow, concretizing the 'problem state' and providing a clear 'before' comparison to highlight the new pillow's superiority."
+    },
+    {
+      "start_time": "00:29.000",
+      "end_time": "00:30.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "woman talking",
+        "smiling",
+        "holding pillow"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "bedroom setting"
+        ]
+      },
+      "why_kept": "This segment shows the direct positive outcome of using the product, with the speaker expressing satisfaction and feeling 'well-rested'."
+    },
+    {
+      "start_time": "00:30.000",
+      "end_time": "00:32.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman in bathroom",
+        "energetic",
+        "mirror selfie"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "modern bathroom",
+          "active lifestyle"
+        ]
+      },
+      "why_kept": "This visual illustrates the broader lifestyle benefit ('energetic all day') that results from better sleep, making the impact more tangible and aspirational."
+    },
+    {
+      "start_time": "00:32.000",
+      "end_time": "00:33.000",
+      "structural_tags": [
+        "Positive_Emotion",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "woman talking",
+        "holding pillows",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "grateful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "bedroom setting"
+        ]
+      },
+      "why_kept": "The speaker concludes with a clear expression of gratitude, reinforcing brand loyalty and a positive overall experience with FluffCo."
+    },
+    {
+      "start_time": "00:33.000",
+      "end_time": "00:38.000",
+      "structural_tags": [
+        "Offer_CTA",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "FluffCo logo",
+        "pillows",
+        "pillowcases",
+        "website address",
+        "offer text"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "clear"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "graphic overlay",
+          "clean design"
+        ]
+      },
+      "why_kept": "This is the crucial call to action, providing purchasing information and a promotional offer, which is essential for conversion and the video's ultimate goal."
+    }
+  ]
+}

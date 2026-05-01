@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of CTA Revision B BDailey.MP4",
+  "detailed_description": "This video features a woman in a bedroom, lying comfortably in bed with multiple pillows. She directly addresses the viewer, delivering a clear message about the importance of good sleep and how it can be achieved with just 'one pillow'. The segment combines a relaxed, satisfied demeanor with a direct call to action, highlighting the product as a simple solution to a common problem. The visual emphasizes comfort and the product's role in achieving restful sleep.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Offer_CTA",
+        "UGC_Talking_Head",
+        "Calm_Relaxation",
+        "Problem_State",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "pillows",
+        "bedroom",
+        "silk top",
+        "label"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "calm",
+          "relaxed",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "natural light",
+          "direct address",
+          "home comfort"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core. It features the subject directly interacting with the product (pillows in a bed setting), delivering a key message about the problem of bad sleep and its solution ('one pillow'), expressing a positive emotional state (relaxed and satisfied), and concluding with a clear call to action ('Get yours today'). It perfectly encapsulates a 'Talking Head' segment combined with 'Product Interaction' and 'Emotional Climax' criteria."
+    }
+  ]
+}

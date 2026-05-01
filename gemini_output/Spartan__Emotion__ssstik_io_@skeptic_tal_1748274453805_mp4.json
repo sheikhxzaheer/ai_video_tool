@@ -1,0 +1,41 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Emotion\\ssstik.io_@skeptic_tal_1748274453805.mp4",
+  "detailed_description": "This video captures a man delivering a concise philosophical statement in Hebrew. He begins with a casual, smiling demeanor, inviting the viewer to listen to a 'piece.' He then transitions to a more focused expression as he articulates his main point: 'What can be proven without evidence, can be refuted without evidence.' The segment highlights the speaker's direct address and the delivery of key information, making it the central message of the video.",
+  "segments": [
+    {
+      "start_time": "00:04.288",
+      "end_time": "00:06.965",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man speaking",
+        "beard",
+        "facial expression",
+        "direct gaze"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "serious",
+          "reflective"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "direct address",
+          "candid"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it contains the speaker's main philosophical statement, which is the key information and the purpose of the video. His facial expression shifts to a more serious and focused demeanor, emphasizing the importance of the point being made, aligning with the 'Emotional Climax' and 'Key Information' criteria for hero moments."
+    }
+  ]
+}

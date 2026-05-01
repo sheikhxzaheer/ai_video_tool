@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan cap\\MVI_9304.MP4",
+  "detailed_description": "The video captures a man's daily oral hygiene routine, specifically brushing his teeth with an electric toothbrush. Reflected in a mirror, he meticulously uses the black electric toothbrush, engaging with the product to clean his teeth. His focused expressions convey the routine nature of the activity, making the product interaction and the process of dental care the core focus of the segment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:27.468",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Morning_Routine",
+        "Face_Reaction",
+        "Calm_Relaxation",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "man",
+        "brushing teeth",
+        "electric toothbrush",
+        "mirror reflection",
+        "red shirt",
+        "black cap"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "mirror reflection",
+          "daily hygiene",
+          "routine action",
+          "focused"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, showcasing the 'Process/Labor' of teeth brushing and direct 'Product Interaction' with an electric toothbrush. The man's actions and facial expressions throughout the duration clearly demonstrate the intended use and experience of the product, fulfilling multiple 'Hero Moment' criteria from start to finish without any setup or dead air."
+    }
+  ]
+}

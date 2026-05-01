@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B-rollmirror2.MOV",
+  "detailed_description": "This video features a woman in pajamas, reflected in a large ornate mirror, demonstrating the process of putting a pillow into a pillowcase. She repeatedly and enthusiastically performs the action, holding the pillow against her body while slipping the pillowcase over it. Her bright smile and exaggerated facial expressions convey a sense of satisfaction and ease with the task, highlighting the simplicity or comfort associated with the product or process.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:38.00",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pajamas",
+        "pillow",
+        "pillowcase",
+        "mirror",
+        "bedding",
+        "dressing pillow",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "mirror reflection",
+          "home decor",
+          "warm lighting"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it continuously demonstrates the core action of putting a pillow in a pillowcase, which is the primary value proposition or process being showcased. The consistent positive facial expressions and energetic movements throughout the repetition reinforce the ease and satisfaction associated with the product/task, making the full duration essential for conveying the intended message without loss of context or emotional impact."
+    }
+  ]
+}

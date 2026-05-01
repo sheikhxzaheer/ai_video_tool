@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Apply\\CNWM_JillianGray_015_Application.MOV",
+  "detailed_description": "The video features a woman with a pink bow headband demonstrating a skincare application. She is seen applying a product to her face using a silicone brush, meticulously spreading it across her cheek and jawline. The segment focuses on the direct product interaction and the smooth process of application, set within a calm and focused beauty routine.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.633",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Calm_Relaxation",
+        "Night_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink headband",
+        "silicone brush",
+        "face mask",
+        "application",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "direct gaze",
+          "skincare routine"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it constitutes the core 'hero moment' of product interaction and process demonstration. The woman is actively applying a skincare product with a silicone brush, clearly showing the 'Mechanism of Action' and direct use of the product, without any setup or post-action dead air."
+    }
+  ]
+}

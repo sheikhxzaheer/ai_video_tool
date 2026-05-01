@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Celebrity\\ssstik.io_@purewow_1761836419560.mp4",
+  "detailed_description": "The video captures actress Margot Robbie on a red carpet, elegantly posing to showcase a stunning, intricately beaded and sheer gown. The camera moves around her, highlighting the dress's elaborate back design with a prominent jewel, the delicate straps, and the detailed patchwork of embellishments across the entire garment. Her composed demeanor and the focus on the dress emphasize its unique and eye-catching aesthetic, making the dress the central 'product' being presented.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.410",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Margot Robbie",
+        "sheer dress",
+        "beaded gown",
+        "red carpet",
+        "backless dress",
+        "jeweled embellishment",
+        "fashion",
+        "celebrity"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "aesthetic",
+          "glamorous"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "red carpet lighting",
+          "detailed fabric texture",
+          "elegant posing"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it continuously showcases the intricate and unique design of Margot Robbie's dress from multiple angles. It serves as a 'reveal' of the product (the dress) and demonstrates its aesthetic value through detailed shots and the celebrity's presentation. The entire duration is focused on this action without any setup or post-action dead air."
+    }
+  ]
+}

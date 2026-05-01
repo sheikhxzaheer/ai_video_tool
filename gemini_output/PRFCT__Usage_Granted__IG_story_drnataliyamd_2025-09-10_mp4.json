@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\Usage Granted\\IG_story_drnataliyamd_2025-09-10.mp4",
+  "detailed_description": "The video showcases a woman in a gym setting demonstrating how to prepare a new electrolyte drink. She opens a sachet of 'Prfct Hydration' electrolytes and pours the contents into a water bottle, leading to a vibrant color transformation from blue to green. After mixing the drink, she consumes it, concluding with a visibly satisfied facial expression. The content highlights product interaction, a visual transformation, and a positive user experience within an active lifestyle context, with an implicit call to action through the brand tag.",
+  "segments": [
+    {
+      "start_time": "00:02.100",
+      "end_time": "00:41.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Macro_Detail",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "woman",
+        "gym",
+        "electrolytes",
+        "sachet",
+        "water bottle",
+        "pouring",
+        "mixing",
+        "color change",
+        "drinking",
+        "smile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym",
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "positive",
+          "lifestyle"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "natural camera angle"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core (ANCHOR) because it fully captures the product's demonstration from introduction to user reaction. It includes the core actions of opening and pouring the product, the visual 'reveal' of the color change, the active product interaction (mixing and drinking), and the emotional climax of a satisfied facial expression, all while promoting the brand with a tag and text overlay. The initial brief 'setup' has been trimmed, and the segment flows directly into the core product usage and user experience."
+    }
+  ]
+}

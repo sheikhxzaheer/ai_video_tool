@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad electrolyte drink\\ssstik.io_@thepurestco.live_1770890986248.mp4",
+  "detailed_description": "This video showcases the simple act of pouring a 'Purest Collagen Glow' supplement from a sachet into a glass. The accompanying text highlights its benefits, emphasizing that it's zero sugar, promotes a full glow, brightens dull skin, and restores bounce and elasticity. The video positions the product as a delicious and guilt-free way to improve skin health, appealing to viewers seeking beauty and wellness solutions.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.233",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Home_Kitchen",
+        "Aesthetic_Broll",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "hand",
+        "pouring",
+        "collagen sachet",
+        "glass",
+        "liquid",
+        "strawberry graphic",
+        "skin benefits"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "aspirational"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "product-focused"
+        ]
+      },
+      "why_kept": "This entire segment is kept because it directly demonstrates the core action of using the product (Product_Interaction) while simultaneously conveying its key benefits and value proposition through on-screen text (Result_Transformation, Product_Intro, Positive_Emotion). There is no 'setup' or 'dead air' to trim, making the whole clip the essential 'Semantic Core' of the video."
+    }
+  ]
+}

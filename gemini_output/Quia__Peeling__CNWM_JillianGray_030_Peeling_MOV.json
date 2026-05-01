@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Peeling\\CNWM_JillianGray_030_Peeling.MOV",
+  "detailed_description": "The video captures a woman in a pink headband peeling off a clear face mask from her face, revealing her refreshed skin underneath. She meticulously removes the mask in sections, showing a clear interaction with the product. Her facial expressions convey a mix of surprise and satisfaction as the mask comes off, culminating in a smile as she displays the peeled mask to the camera. The segment highlights the physical removal process and the immediate visual result of the skincare product.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:15.55",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Shock_Surprise",
+        "Human_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face mask",
+        "peeling",
+        "skin",
+        "hands",
+        "rings",
+        "pink headband",
+        "smile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "shock_surprise",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "steady camera",
+          "focus on skin",
+          "personal care"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the product's primary function through the satisfying process of peeling off the face mask. It captures the direct interaction, the visible transformation of the skin, and the user's emotional reaction, making it a complete hero moment."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B ROLL HAPPY.mov",
+  "detailed_description": "The video features a woman lying comfortably in bed, surrounded by soft pillows and bedding. She exudes a sense of deep relaxation and happiness, frequently smiling and laughing with her eyes closed throughout the clip. Her interaction with a white pillow, which she uses to nestle her head, playfully cover her face, and express contentment, highlights a serene and cozy moment. The entire sequence captures a continuous display of peaceful rest and joyous comfort.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:27.200",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "pillows",
+        "white sweater",
+        "smiling",
+        "laughing",
+        "eyes closed",
+        "relaxed",
+        "cozy"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "cozy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "natural light",
+          "comforting aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it continuously demonstrates the core semantic meaning: a woman experiencing positive emotion (smiling, laughing) and calm relaxation while interacting with a pillow in a cozy bed. There are no significant setup/calibration frames or post-action dead air; the emotional expression and product interaction are sustained throughout, fulfilling the 'Emotional Climax' and 'Product Interaction' hero moment criteria."
+    }
+  ]
+}

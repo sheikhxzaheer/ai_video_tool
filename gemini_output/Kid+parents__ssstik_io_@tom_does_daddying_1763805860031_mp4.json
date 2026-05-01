@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid+parents\\ssstik.io_@tom_does_daddying_1763805860031.mp4",
+  "detailed_description": "The video beautifully captures a heartwarming and intimate moment between a father and his young son. Lying in bed, the son playfully pokes his father's nose, eliciting laughter and loving smiles from the father. This playful interaction quickly turns into a tender cuddle, with the son nestling into his father's chest. The scene exudes warmth, affection, and the deep emotional bond shared between them, highlighting a precious family moment of calm and connection. It portrays genuine joy and paternal love.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Morning_Routine",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "Father",
+        "Son",
+        "Bed",
+        "Cuddle",
+        "Hug",
+        "Smile",
+        "Playful interaction",
+        "Nose poke"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "loving",
+          "tender",
+          "warm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "natural",
+          "candid",
+          "intimate"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core, demonstrating the emotional climax through the loving and playful interaction between the father and son. It showcases genuine affection, laughter, and a tender cuddle, embodying a 'Hero Moment' of emotional connection and a potential 'Morning_Routine' scene. No trimming was required as the action starts immediately and continues until the end of the video, adhering to the 'No-Mistake Rule'."
+    }
+  ]
+}

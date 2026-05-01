@@ -1,0 +1,120 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sofa cover\\ssstik.io_@kylieoguma_1769684843144.mp4",
+  "detailed_description": "The video highlights the luxurious comfort of a plush, faux-fur blanket, emphasizing its ability to create a cozy and inviting atmosphere at home. A woman is seen happily snuggling into the soft blanket on a sofa, an armchair, and a bed across different rooms, showcasing its versatility and premium feel. The on-screen text, 'Don't ask me to go out,' succinctly conveys the blanket's appeal in fostering a desire to stay home and relax. The visual focus is on the product's soft texture and the positive emotional response it elicits.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "plush blanket",
+        "white sofa",
+        "snuggling",
+        "smiling",
+        "cozy"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright natural light",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment immediately establishes the product's primary benefit (comfort) by showing the woman happily covering herself with the plush blanket on a sofa, conveying a strong sense of relaxation and satisfaction, reinforced by the on-screen text."
+    },
+    {
+      "start_time": "00:04.500",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "plush blanket",
+        "armchair",
+        "arranging",
+        "snuggling",
+        "smiling",
+        "cozy"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright natural light",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment reinforces the blanket's appeal by showing the woman enjoying its comfort in a different part of the home (armchair), demonstrating its versatility and consistent ability to provide a cozy experience."
+    },
+    {
+      "start_time": "00:10.500",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "plush blanket",
+        "bed",
+        "arranging",
+        "hand touching",
+        "texture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright natural light",
+          "clean aesthetic",
+          "texture emphasis"
+        ]
+      },
+      "why_kept": "This segment further showcases the blanket's use in a bedroom setting and provides a close-up 'Macro_Detail' shot of its luxurious texture, highlighting the product's quality and inviting softness through human interaction."
+    }
+  ]
+}

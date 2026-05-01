@@ -1,0 +1,402 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Lab\\ssstik.io_@sofia_marinescience_1769674691499.mp4",
+  "detailed_description": "This video provides a dynamic montage showcasing various hands-on activities and results from a scientific laboratory. It emphasizes the ongoing processes of research, experimentation, and analysis, from pipetting liquids and preparing samples to observing cellular growth and testing reactions. The overarching message, conveyed through on-screen text, is that this intricate lab work is not merely a story but represents 'our future,' highlighting the critical impact and innovative nature of scientific endeavors.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.200",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands",
+        "gloves",
+        "pipette",
+        "purple liquid",
+        "lab equipment",
+        "wooden clip",
+        "tray"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "science lab"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates a professional action of pipetting liquid, fulfilling the 'Process/Labor' hero moment criterion by showing a scientist 'doing the work'."
+    },
+    {
+      "start_time": "00:01.200",
+      "end_time": "00:02.300",
+      "structural_tags": [
+        "Macro_Detail",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands",
+        "eppendorf tubes",
+        "colored caps",
+        "yellow rack"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "science lab"
+        ]
+      },
+      "why_kept": "This clip highlights the 'Product Interaction' with common lab consumables (eppendorf tubes), showcasing specific tools used in the scientific process."
+    },
+    {
+      "start_time": "00:02.300",
+      "end_time": "00:03.400",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "dropper",
+        "beaker",
+        "liquid",
+        "hot plate",
+        "lab equipment"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "science lab"
+        ]
+      },
+      "why_kept": "Shows a fundamental chemical or biological preparation step, directly demonstrating 'The Process/Labor' of scientific work."
+    },
+    {
+      "start_time": "00:03.400",
+      "end_time": "00:04.200",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Standalone",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "petri dishes",
+        "bacterial growth",
+        "lab bench"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "science lab"
+        ]
+      },
+      "why_kept": "Captures the 'Reveal/Result' of biological experimentation, showing developed cultures in petri dishes as a tangible outcome of lab work."
+    },
+    {
+      "start_time": "00:04.200",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands",
+        "gloves",
+        "wash bottle",
+        "beaker",
+        "green plant material",
+        "lab bench"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "science lab"
+        ]
+      },
+      "why_kept": "Illustrates another aspect of 'The Process/Labor' with hands-on handling of liquids and biological samples in a lab setting."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands",
+        "gloves",
+        "beakers",
+        "cooler",
+        "lab equipment"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "science lab"
+        ]
+      },
+      "why_kept": "Shows precise handling and placement of samples, vital for controlled experiments and a core part of 'The Process/Labor'."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Key_Information",
+        "Cellular_Deep_Dive",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "computer screen",
+        "microscopic cells",
+        "Dell monitor"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "scientific visualization"
+        ]
+      },
+      "why_kept": "This segment powerfully represents the 'Reveal/Result' of advanced scientific inquiry, showing cells under a microscope, and explicitly delivers 'Key Information' through the overlaid text 'is our future', making it a strong anchor for the video's message."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "pipette",
+        "purple liquid",
+        "filter paper",
+        "reaction",
+        "hands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "science lab"
+        ]
+      },
+      "why_kept": "Illustrates a detailed chemical or biological testing process, an integral part of 'The Process/Labor' in a lab."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Behind_The_Scenes",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands",
+        "gloves",
+        "Heidolph REAX 2000",
+        "lab equipment",
+        "control knob"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "science lab"
+        ]
+      },
+      "why_kept": "Shows direct 'Product Interaction' with a specialized piece of lab equipment, demonstrating the practical 'Process/Labor'."
+    },
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands",
+        "separatory funnel",
+        "beaker",
+        "liquid layers",
+        "lab equipment",
+        "students",
+        "safety glasses"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "science lab",
+          "classroom setting"
+        ]
+      },
+      "why_kept": "Illustrates a key chemical separation technique, a clear 'Process/Labor' hero moment, implying active learning or research."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Macro_Detail",
+        "Human_Interaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "hands",
+        "gloves",
+        "petri dish",
+        "bacterial culture",
+        "inhibition zones",
+        "antibiotic discs"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "science lab",
+          "microbiology"
+        ]
+      },
+      "why_kept": "This segment provides a definitive 'Reveal/Result' of a scientific experiment, showcasing the impact of testing (e.g., antibiotic sensitivity) in a highly visual and understandable way, making it a strong anchor for the video's theme."
+    }
+  ]
+}

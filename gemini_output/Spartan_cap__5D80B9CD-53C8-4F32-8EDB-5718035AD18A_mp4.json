@@ -1,0 +1,104 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan cap\\5D80B9CD-53C8-4F32-8EDB-5718035AD18A.mp4",
+  "detailed_description": "This video features a man showcasing a black baseball cap from the 'SPARTAN' brand, which discreetly integrates a red light therapy system. The semantic core highlights the innovative functionality of the cap, as the man reveals the interior adorned with numerous active red LED lights. Subsequently, he demonstrates the product's ease of use by wearing and adjusting the cap, concluding with a visibly satisfied expression that conveys a positive user experience.",
+  "segments": [
+    {
+      "start_time": "00:07.450",
+      "end_time": "00:11.800",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "black cap",
+        "red LED lights",
+        "unveiling product",
+        "hidden feature"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it clearly introduces and demonstrates the product's unique selling proposition: the integrated red light therapy within the cap. The revelation of the illuminated interior showcases its core functionality and innovative design."
+    },
+    {
+      "start_time": "00:23.200",
+      "end_time": "00:25.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "wearing cap",
+        "adjusting cap"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "neutral tones",
+          "direct action"
+        ]
+      },
+      "why_kept": "This segment shows the direct interaction of the user putting on and adjusting the cap, highlighting the practical application and ease of use of the product."
+    },
+    {
+      "start_time": "00:27.000",
+      "end_time": "00:28.300",
+      "structural_tags": [
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "smiling",
+        "satisfied expression",
+        "wearing cap"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "positive",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "engaging look"
+        ]
+      },
+      "why_kept": "This segment captures a clear positive emotional response, specifically a smile, indicating user satisfaction and reinforcing the implied benefits or comfort of the product."
+    }
+  ]
+}

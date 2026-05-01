@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ð╝ðÁð╗ð░ðÀð╝ð░ 2.mp4",
+  "detailed_description": "This video presents a compelling before-and-after visual of a woman's facial transformation. The initial segment, marked 'Before', shows her with a natural, unenhanced look, highlighting subtle imperfections and dark circles under her eyes. This transitions into a 'Now' segment where her face appears significantly brighter, smoother, and more radiant, likely due to makeup application or a digital beauty filter. Her confident and brighter smile in the 'After' shot emphasizes the positive impact of this enhancement.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Before_After",
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "makeup effect",
+        "beauty filter",
+        "smile",
+        "facial comparison",
+        "orange safety vest"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear transformation",
+          "bright lighting",
+          "natural vs. enhanced look",
+          "brick wall background"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core of the video, directly demonstrating a 'Before_After' beauty transformation. The 'Before' shot establishes the initial state, and the 'Now' shot clearly presents the enhanced result, making both parts crucial for the reveal and understanding the video's main point. There are no extraneous frames before or after the core action."
+    }
+  ]
+}

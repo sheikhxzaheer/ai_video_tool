@@ -1,0 +1,84 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Woman\\ssstik.io_@jlnau_1766933229359.mp4",
+  "detailed_description": "This video showcases a modern, minimalist work setup featuring a white desk, dual monitors, and a custom PC with blue LED lighting. The 'Semantic Core' captures a person activating and utilizing this setup for creative work. It highlights the process of turning on monitors, revealing personalized interfaces, and actively engaging with 3D design software and digital content, emphasizing an organized and aesthetically pleasing workspace that supports a focused workflow.",
+  "segments": [
+    {
+      "start_time": "00:01.275",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman",
+        "turning on monitors",
+        "pink heart wallpaper",
+        "3D software",
+        "white PC"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "minimalist aesthetic",
+          "blue/pink light"
+        ]
+      },
+      "why_kept": "This segment introduces the user's aesthetic work setup, showing the initial interaction of turning on the dual monitors and revealing personalized wallpapers and the start of creative work with 3D design software. It acts as the primary visual hook."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:12.350",
+      "structural_tags": [
+        "The Process/Labor",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman",
+        "typing",
+        "keyboard",
+        "mouse",
+        "dual monitors",
+        "3D software",
+        "YouTube",
+        "notebook"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "minimalist aesthetic",
+          "blue/yellow light"
+        ]
+      },
+      "why_kept": "This segment demonstrates the active use of the work setup, showing the woman engaged in her design tasks, typing and interacting with both monitors simultaneously, highlighting the functionality and workflow of the setup in action."
+    }
+  ]
+}

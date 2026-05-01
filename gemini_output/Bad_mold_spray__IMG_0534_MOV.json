@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad mold spray\\IMG_0534.MOV",
+  "detailed_description": "The video dynamically introduces the MoldMD mold spot remover. It starts by showcasing other existing mold and mildew removers, which are then swiftly swept away by a hand. This action clears the scene, making way for the dramatic appearance of the MoldMD bottle, which drops into frame and settles prominently as the featured product. The sequence serves as a concise and impactful visual presentation, highlighting the product's debut.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Intro",
+        "Human_Interaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "mold remover bottles",
+        "hand sweeping",
+        "MoldMD bottle",
+        "table",
+        "outdoor setting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "neutral",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic product reveal",
+          "clear product display",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the 'Semantic Core' because it cohesively illustrates the dynamic introduction of the MoldMD product. It begins by establishing context with other products, performs the action of clearing them away, and culminates in the clear presentation of the featured product. This complete sequence demonstrates product interaction, a reveal, and the final product display, all essential 'hero moments' for this video."
+    }
+  ]
+}

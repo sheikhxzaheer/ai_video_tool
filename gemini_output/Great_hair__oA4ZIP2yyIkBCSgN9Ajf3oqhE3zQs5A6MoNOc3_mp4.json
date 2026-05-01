@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\oA4ZIP2yyIkBCSgN9Ajf3oqhE3zQs5A6MoNOc3.mp4",
+  "detailed_description": "The video features a muscular man with a prominent beard and dark hair, wearing a black tank top in what appears to be a gym environment. He is visibly sweating and breathing heavily, conveying a strong sense of physical exertion and intensity from a workout. His focused and determined expression, combined with his heavy breathing and sweat, effectively captures the physical toll and effort of exercise.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.027",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Face_Reaction",
+        "High_Energy",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "beard",
+        "muscular",
+        "sweating",
+        "heavy breathing",
+        "gym",
+        "tank top",
+        "intense gaze"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "gym",
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "rugged"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "low light",
+          "dark background",
+          "fitness aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by vividly demonstrating 'The Process/Labor' of a workout and an 'Emotional Climax' of physical exertion. The subject's heavy breathing, visible sweat, intense facial expression, and muscular physique clearly communicate the effort involved. There are no identifiable 'setup' or 'post-action dead air' frames, making the entire clip essential to the message."
+    }
+  ]
+}

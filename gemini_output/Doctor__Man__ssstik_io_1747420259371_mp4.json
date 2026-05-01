@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Man\\ssstik.io_1747420259371.mp4",
+  "detailed_description": "This video features an orthopedic surgery resident discussing the demanding nature and realities of a medical residency. He shares his personal experience of the long hours and physical toll, emphasizing the importance of shadowing and gaining deep understanding of the lifestyle before committing. He advises aspiring residents to seek multiple perspectives and connect with mentors to ensure they are making the right career choice, highlighting that residency is a continuous grind.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "01:09.600",
+      "structural_tags": [
+        "Key_Information",
+        "UGC_Talking_Head",
+        "Workspace_Office",
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "man",
+        "scrubs",
+        "glasses",
+        "microphone",
+        "bookshelf",
+        "table",
+        "talking",
+        "gesturing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "clinical",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "professional interview",
+          "well-lit",
+          "steady shot"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it contains the entirety of the key information, advice, and personal experience shared by the orthopedic surgery resident, which is the central purpose and value of the video. Despite the 'Visual Priority Rule' concerning product interaction, this video's core value is delivered through the speaker's direct narration and expertise on the non-product-related topic of medical residency. Trimming would remove the primary content."
+    }
+  ]
+}

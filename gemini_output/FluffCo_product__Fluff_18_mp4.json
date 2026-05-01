@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_18.mp4",
+  "detailed_description": "The video features a young woman lying comfortably in bed, propped up by a large white pillow. She looks directly into the camera with a soft, reassuring smile and speaks the phrase 'I got you.' The entire segment focuses on this direct address, conveying a sense of comfort and positive emotional support through her demeanor and simple, heartfelt message.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.325",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "lying on bed",
+        "smiling",
+        "pillow",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "comforting"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "natural look",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it captures the video's central emotional moment. The speaker delivers a clear, reassuring message ('I got you') with a prominent, positive facial expression (a calm, comforting smile), which qualifies as an 'Emotional Climax' demonstrating the video's core intent. The entire duration is kept under the 'No-Mistake Rule' as the action starts and ends precisely within these frames."
+    }
+  ]
+}

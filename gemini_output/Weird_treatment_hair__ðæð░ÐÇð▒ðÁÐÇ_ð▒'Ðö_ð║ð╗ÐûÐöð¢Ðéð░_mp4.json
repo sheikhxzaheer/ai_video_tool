@@ -1,0 +1,89 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ðæð░ÐÇð▒ðÁÐÇ ð▒'Ðö ð║ð╗ÐûÐöð¢Ðéð░.mp4",
+  "detailed_description": "The video humorously depicts an exaggerated interpretation of a 'haircut that hits.' It begins with a stylishly dressed barber performing an intensely energetic and theatrical hair wash, splattering foam widely, as if delivering a powerful 'hit.' This is followed by a sequence showing the client frantically running from a house, grabbing a bicycle, and riding away, implying the 'haircut' had such an impact that they had to make a swift escape. The entire video is a lighthearted, comedic sketch about an over-the-top barbershop experience.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.400",
+      "structural_tags": [
+        "Visual_Hook",
+        "Process_Labor",
+        "High_Energy",
+        "Human_Interaction",
+        "Playful",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "barber",
+        "suit",
+        "client",
+        "hair washing",
+        "foam",
+        "splashing",
+        "energetic movement"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "fast paced",
+          "dynamic camera",
+          "comedic timing"
+        ]
+      },
+      "why_kept": "This segment establishes the core premise of the 'haircut that hits' through the barber's exaggerated and comedic 'process' of hair washing, demonstrating a highly energetic and unique service. It's the primary action setting up the joke."
+    },
+    {
+      "start_time": "00:04.700",
+      "end_time": "00:11.400",
+      "structural_tags": [
+        "Result_Transformation",
+        "High_Energy",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Playful",
+        "Urgency_Rush"
+      ],
+      "visual_keywords": [
+        "person",
+        "running",
+        "door",
+        "bicycle",
+        "cycling",
+        "garden",
+        "escape"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "shock_surprise"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "frantic movement",
+          "narrative continuation",
+          "comedic punchline"
+        ]
+      },
+      "why_kept": "This segment serves as the comedic 'result' or 'reaction' to the previous haircut, showing the client's frantic and exaggerated 'escape' on a bicycle, effectively completing the humorous narrative of 'a haircut that hits.'"
+    }
+  ]
+}

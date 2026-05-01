@@ -1,0 +1,57 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Tired\\Woman\\ssstik.io_@hollzers14_171844915082.mp4",
+  "detailed_description": "The video captures a woman's 5 AM morning makeup routine, beginning with a sleepy yawn that establishes the early hour and the challenge of waking up. It showcases the entire process of her applying various makeup products, demonstrating product interaction and the meticulous steps involved in a beauty routine. The progression highlights her transformation from tired to fully made-up and refreshed. The video concludes with her smiling, emphasizing the positive outcome of her morning ritual.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:23.00",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Morning_Routine",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Behind_The_Scenes",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "yawning",
+        "applying makeup",
+        "makeup products",
+        "primer",
+        "foundation",
+        "concealer",
+        "blush",
+        "powder",
+        "mascara",
+        "lipstick",
+        "mirror",
+        "transformation",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "transformative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "clear",
+          "practical",
+          "natural light feel"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it constitutes the complete narrative of the 5 AM makeup routine. It starts with the contextual 'Problem_State' (yawning at 5 AM), transitions directly into the 'Process/Labor' of applying makeup using various 'Product_Interactions' (Mechanism_Of_Action in a broader sense), and concludes with the 'Result_Transformation' and a 'Positive_Emotion', fulfilling all criteria for the semantic core as a continuous action and reveal. No trimming is needed as the action is continuous and purposeful from start to end."
+    }
+  ]
+}

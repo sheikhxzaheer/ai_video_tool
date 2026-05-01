@@ -1,0 +1,149 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Dry skin before_after\\ÐüÐâÐàð░ÐÅ ð║ð¥ðÂð░ ð╗ð©Ðåð░.mp4",
+  "detailed_description": "This video humorously addresses the common problem of dry, flaky skin. It visually depicts the frustration of severe dryness, characterized by peeling skin, and then contrasts an incorrect method (using too much cream without specific benefits) with the correct solution. The core message promotes a moisturizing cream with SPF that provides matte hydration, demonstrating its application as an effective daily skincare routine for combating flakiness.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:05.80",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "dry skin",
+        "flaky skin",
+        "face",
+        "tweezers",
+        "forehead",
+        "nose"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "extreme closeup",
+          "stark lighting",
+          "texture focus"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'problem state' of severe dry skin using a relatable, albeit exaggerated, visual of trying to peel it off. It serves as a strong visual hook and sets the context for the solution presented later."
+    },
+    {
+      "start_time": "00:05.80",
+      "end_time": "00:06.90",
+      "structural_tags": [
+        "Product_Interaction",
+        "Confusion_Doubt"
+      ],
+      "visual_keywords": [
+        "cream",
+        "pump dispenser",
+        "hands",
+        "stop X"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "instructional",
+          "corrective"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "bright white cream"
+        ]
+      },
+      "why_kept": "This segment provides a contrasting 'stop' moment, implying that simply using any amount of cream isn't the solution, or that excessive use is incorrect, thus building anticipation for the right approach."
+    },
+    {
+      "start_time": "00:06.90",
+      "end_time": "00:12.70",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "cream",
+        "face",
+        "forehead",
+        "under eye",
+        "hands",
+        "fingers",
+        "application"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "instructional",
+          "hopeful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "smooth application",
+          "gentle movements"
+        ]
+      },
+      "why_kept": "This is the primary 'hero moment' as it demonstrates the correct application of the product, showcasing the 'process' and 'product interaction' that provides the solution to dry skin. The text overlays highlight the product's benefits and usage instructions."
+    },
+    {
+      "start_time": "00:12.70",
+      "end_time": "00:14.30",
+      "structural_tags": [
+        "Product_Standalone",
+        "Product_Intro"
+      ],
+      "visual_keywords": [
+        "cream jar",
+        "product label",
+        "branding",
+        "Vois",
+        "SPF 15",
+        "matte hydration"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear product shot",
+          "text overlay"
+        ]
+      },
+      "why_kept": "This segment provides a clear, focused shot of the product, reinforcing its identity and key benefits ('matte hydration'), which is crucial for brand recognition and conveying product value."
+    }
+  ]
+}

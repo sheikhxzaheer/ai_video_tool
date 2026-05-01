@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\Bald spot\\ssstik.io_1744799579637.mp4",
+  "detailed_description": "A bald man with a beard and glasses, dressed in a black t-shirt and black pants, captures a mirror selfie in a modern restroom. He holds a purple smartphone, adjusting his pose and expression subtly throughout the video, showcasing his outfit and a composed demeanor. The video focuses on the act of self-presentation through a smartphone camera in a public setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.820",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "bald",
+        "beard",
+        "glasses",
+        "black t-shirt",
+        "black pants",
+        "purple phone",
+        "mirror",
+        "selfie",
+        "restroom",
+        "urinal",
+        "sink"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "restroom"
+        ],
+        "mood": [
+          "composed",
+          "stylish"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "mirror reflection",
+          "smartphone perspective",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment captures the core action of the video: a man taking a mirror selfie. It demonstrates direct product interaction with the smartphone, subtle facial expressions, and an overall lifestyle presentation. There are no significant setup or dead air moments to trim, making the complete duration the semantic core."
+    }
+  ]
+}

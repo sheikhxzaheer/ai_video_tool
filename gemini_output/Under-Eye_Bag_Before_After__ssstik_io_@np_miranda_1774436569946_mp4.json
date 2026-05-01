@@ -1,0 +1,214 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Under-Eye Bag Before_After\\ssstik.io_@np.miranda_1774436569946.mp4",
+  "detailed_description": "This video presents a 30-second lymphatic facial massage tutorial aimed at reducing puffiness and achieving a more sculpted look. It begins by demonstrating key areas around the neck, face, and collarbones to gently stimulate lymphatic drainage using circular motions, emphasizing this step as 'unclogging the sink.' Following this preparation, the tutorial shows the application of facial oil and then a series of targeted sweeping motions across the chin, cheekbones, eyes, and forehead. The routine concludes with downward strokes from the face to the collarbones to complete the drainage. The video encourages daily practice for noticeable results.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.283",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "puffy expression",
+        "snatched expression",
+        "hands framing face"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious",
+          "calm",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear lighting",
+          "mirror view"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'before and after' visual hook, demonstrating the problem (puffy face) and the desired outcome (snatched look) that the tutorial aims to achieve."
+    },
+    {
+      "start_time": "00:04.283",
+      "end_time": "00:13.216",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Process_Labor",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "hands on neck",
+        "circular motions",
+        "hands on face",
+        "lymph node areas",
+        "chest",
+        "forehead",
+        "unclogging"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "instructive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear lighting",
+          "tutorial style",
+          "text overlay"
+        ]
+      },
+      "why_kept": "This segment demonstrates the crucial preparatory step of opening the main lymph nodes with gentle circular motions, which is vital for effective lymphatic drainage and sets up the subsequent massage steps."
+    },
+    {
+      "start_time": "00:13.216",
+      "end_time": "00:17.383",
+      "structural_tags": [
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman applying oil",
+        "face oil dropper",
+        "face",
+        "moisturizer"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "routine"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "skincare routine"
+        ]
+      },
+      "why_kept": "This segment shows the necessary product interaction of applying facial oil, which is essential for ensuring smooth gliding during the massage and preventing skin tugging."
+    },
+    {
+      "start_time": "00:17.383",
+      "end_time": "00:26.516",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "hands massaging jawline",
+        "sweeping motions",
+        "knuckles on cheeks",
+        "fingers around eyes",
+        "forehead massage"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "step-by-step demonstration"
+        ]
+      },
+      "why_kept": "This segment demonstrates the core lymphatic massage techniques, showing specific sweeping and gliding motions across various facial areas, which are the main actions of the tutorial."
+    },
+    {
+      "start_time": "00:26.516",
+      "end_time": "00:30.316",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "hands massaging neck",
+        "downward strokes",
+        "collarbones"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "step-by-step demonstration"
+        ]
+      },
+      "why_kept": "This segment shows the crucial final step of the lymphatic massage, directing fluids down to the collarbones, completing the drainage process."
+    },
+    {
+      "start_time": "00:30.316",
+      "end_time": "00:35.349",
+      "structural_tags": [
+        "Result_Transformation",
+        "Offer_CTA",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "snatched face",
+        "smile",
+        "confident expression",
+        "daily routine",
+        "less puff"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "confident",
+          "happy",
+          "accomplished"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear lighting",
+          "post-routine glow"
+        ]
+      },
+      "why_kept": "This segment reinforces the promised transformation with a clear visual of a sculpted, radiant face and a positive expression, concluding with a call to action for daily practice to achieve these results."
+    }
+  ]
+}

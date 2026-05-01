@@ -1,0 +1,175 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\ðáÐûð┤ð║ðÁ ð▓ð¥ð╗ð¥ÐüÐüÐÅ.mp4",
+  "detailed_description": "This video showcases a complete hair transformation performed in a barbershop setting. It begins by highlighting the client's current hair state, featuring a thinning spot and unstyled look. The barber then proceeds to intricately style the hair by sectioning and twisting it into small, uniform curls, followed by expertly fluffing it out with a hair pick to create volume. The final step involves using a specialized sponge brush to define and enhance the curly texture, culminating in a stylish and refreshed afro hairstyle for the client.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Problem_State",
+        "Before_After",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "messy hair",
+        "thinning hair",
+        "hand in glove",
+        "scalp"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "barbershop lighting"
+        ]
+      },
+      "why_kept": "This segment is crucial as it establishes the 'Before' state, clearly showing the initial condition of the client's hair and the problem to be addressed."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "curly hair",
+        "hair pick",
+        "hair sectioning",
+        "fade haircut"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera movement",
+          "fast cuts"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial phase of the styling process, showing the creation of curls and the use of the hair pick to begin shaping the new look, crucial for understanding the transformation's 'how'."
+    },
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "hair pick",
+        "fluffed hair",
+        "fade haircut",
+        "side profile"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lines",
+          "barbershop aesthetic"
+        ]
+      },
+      "why_kept": "This segment continues to show the hair styling process, specifically the use of the pick to further fluff and shape the top hair, transitioning towards the final afro style."
+    },
+    {
+      "start_time": "00:12.000",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "sponge brush",
+        "curly hair",
+        "afro texture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "detailed action"
+        ]
+      },
+      "why_kept": "This segment demonstrates another key styling technique using a specialized sponge brush to refine and enhance the curls, showcasing a distinct step in the transformation process."
+    },
+    {
+      "start_time": "00:17.000",
+      "end_time": "00:21.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Aesthetic_Broll",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "curly hair",
+        "afro",
+        "fade haircut",
+        "client's expression",
+        "glasses"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "satisfied",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "final product shot",
+          "barbershop ambience"
+        ]
+      },
+      "why_kept": "This segment is the ultimate 'After' shot, clearly presenting the successful and stylish final hairstyle from multiple angles, serving as the climactic reveal of the transformation."
+    }
+  ]
+}

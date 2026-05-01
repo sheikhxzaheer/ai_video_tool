@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Woman\\ssstik.io_@mimis1ife_1769682063627.mp4",
+  "detailed_description": "This video captures a 'study with me' session, specifically a night-time edition, showcasing a person diligently typing on a MacBook laptop. The scene is set in a cozy, dimly lit room, featuring a desk lamp that casts a warm glow, highlighting the focused activity. The video embodies the ambiance of a calm and productive night study routine, emphasizing concentration and the aesthetic of late-night work.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:26.790",
+      "structural_tags": [
+        "Night_Routine",
+        "Workspace_Office",
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Human_Interaction",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "person typing",
+        "laptop",
+        "MacBook",
+        "desk",
+        "desk lamp",
+        "warm lighting",
+        "plant",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "focused",
+          "productive",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "cozy atmosphere",
+          "low light",
+          "minimalist setup"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it perfectly encapsulates the video's core theme: a night-time 'study with me' session. The continuous action of typing on the laptop, combined with the ambient lighting and visible text overlay, clearly demonstrates the process and aesthetic of a focused study routine. There are no redundant frames for setup or post-action, adhering to the 'no-mistake' rule."
+    }
+  ]
+}

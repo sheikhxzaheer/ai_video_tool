@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor talking on phone\\ssstik.io_@dr.tomassian_1769067964720.mp4",
+  "detailed_description": "This video humorously depicts a doctor's experience answering a difficult phone call. The male doctor, initially appearing composed, reacts with increasing discomfort and shock as a customer's agitated voice escalates with complaints about a prolonged issue and repeated transfers. Overwhelmed by the call's intensity, he subtly passes the phone to his female colleague, who accepts it with a look of resignation, highlighting the relatable struggle of handling challenging customer service interactions in a workplace setting.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:18.52",
+      "structural_tags": [
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Workspace_Office",
+        "Time_Wasted"
+      ],
+      "visual_keywords": [
+        "man on phone",
+        "doctor in scrubs",
+        "woman at computer",
+        "phone being passed",
+        "office desk"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "playful",
+          "mixed"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "brightly lit",
+          "static camera",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the semantic core because it fully captures the humorous narrative and the core action. It begins with the problem (the angry caller's voice), shows the emotional progression of the doctor, and concludes with the resolution of him passing the difficult call to a colleague. The facial reactions, verbal aggression (audio overlay), and physical interaction are all essential elements for the video's punchline, aligning with the 'Emotional Climax' and 'Human Interaction' hero moment criteria. No trimming was applied as the action starts immediately and ends definitively."
+    }
+  ]
+}

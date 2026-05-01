@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Lab\\ssstik.io_@zarr.rara_1766918725538.mp4",
+  "detailed_description": "This video captures a scientist or lab technician, wearing blue gloves and a lab coat, meticulously performing liquid transfers using a micropipette within a laboratory fume hood. The footage emphasizes the precision and systematic nature of scientific work, showing the careful handling of various test tubes and specialized lab equipment. The core activity throughout the video demonstrates the process of preparing samples for analysis or experimentation, highlighting hands-on laboratory procedures.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:28.000",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Product_Standalone",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "scientist",
+        "lab technician",
+        "blue gloves",
+        "lab coat",
+        "micropipette",
+        "test tubes",
+        "liquid transfer",
+        "laboratory",
+        "fume hood",
+        "lab equipment",
+        "samples"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear view",
+          "professional lighting",
+          "steady camera"
+        ]
+      },
+      "why_kept": "This entire segment consistently demonstrates the 'process/labor' and 'product interaction' hero moments. The video begins and ends directly with the core action of pipetting and handling lab samples, fulfilling the 'no-mistake' rule by having no discernible setup, dead air, or irrelevant footage before or after the main activity. It provides a continuous and clear view of the scientific work being performed."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Dry skin before_after\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ Ðâð▓ð╗ð░ðÂð¢ðÁ╠êð¢ð¢ð░ÐÅ Ðâð┐ÐÇÐâð│ð░ÐÅ ð║ð¥ðÂð░ ð╗ð©Ðåð░.mp4",
+  "detailed_description": "This video showcases a significant skincare transformation through a clear 'Before and After' comparison. The initial segment highlights various skin concerns like redness, blemishes, and texture, representing the 'Problem State'. The video then transitions to the 'After' state, revealing noticeably clearer, smoother, and more radiant skin, demonstrating the positive results of a dedicated skincare routine. It serves as a visual testament to the benefits of taking skincare seriously, focusing entirely on the subject's improved complexion.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.333",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation",
+        "Before_After",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "skin",
+        "redness",
+        "blemishes",
+        "textured skin",
+        "clear skin",
+        "smooth skin",
+        "glowing skin",
+        "nose piercing",
+        "towel",
+        "robe",
+        "earrings",
+        "necklaces"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "direct gaze",
+          "transformation"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it clearly and directly presents the core message of the video: a 'Before and After' skin transformation. The initial frames establish the 'Problem State' with visible skin concerns, and the subsequent frames visually demonstrate the 'Result_Transformation' with improved skin. The text overlays explicitly reinforce this comparison, making the entire duration essential for the semantic core."
+    }
+  ]
+}

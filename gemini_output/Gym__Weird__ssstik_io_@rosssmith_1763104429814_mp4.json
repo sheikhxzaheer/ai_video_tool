@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Gym\\Weird\\ssstik.io_@rosssmith_1763104429814.mp4",
+  "detailed_description": "The video captures an empowering moment in a gym where an elderly woman demonstrates remarkable strength. Initially, a muscular man prepares for a deadlift, but the woman confidently pushes him aside, taking his place at the barbell. She then proceeds to perform a heavy deadlift with surprising ease, eliciting expressions of shock and amusement from other gym-goers. After completing a second impressive lift, she strikes a triumphant pose, showcasing her unexpected power and inspiring awe. This segment highlights her unexpected physical prowess and the reactions of those around her.",
+  "segments": [
+    {
+      "start_time": "00:02.100",
+      "end_time": "00:20.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "elderly woman",
+        "man",
+        "barbell",
+        "deadlift",
+        "gym equipment",
+        "surprised expression",
+        "confident gesture",
+        "laughing girl"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "gym",
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "shock"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "dynamic camera movement",
+          "focus on action and reactions"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully captures the unexpected and impressive feat of strength by the elderly woman, including her assertive takeover, the powerful deadlifts, and the surprised and amused reactions of other gym-goers, concluding with her confident celebratory gesture. It demonstrates the 'process/labor' of lifting, the 'reveal/result' of her strength, and the 'emotional climax' of the reactions."
+    }
+  ]
+}

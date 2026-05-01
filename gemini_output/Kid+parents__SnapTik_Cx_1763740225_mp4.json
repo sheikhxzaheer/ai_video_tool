@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid+parents\\SnapTik.Cx_1763740225.mp4",
+  "detailed_description": "This video features a stylish woman and a young child performing a synchronized dance routine on a city street. They engage in playful, energetic movements, including making heart shapes with their hands and smiling joyfully at the camera. The clip captures a heartwarming moment of family interaction and active lifestyle, showcasing a popular dance trend against a backdrop of classic urban architecture, conveying positive emotions and a lively atmosphere.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.250",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman dancing",
+        "child dancing",
+        "heart gesture",
+        "street",
+        "building",
+        "trench coat",
+        "sunglasses",
+        "black handbag",
+        "blonde child"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "positive",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clean background",
+          "casual fashion",
+          "synchronized dance"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it fully captures the main action, which is a synchronized dance performance between a mother and child. It demonstrates the 'Process/Labor' of performing the dance trend, showcases clear 'Human_Interaction', and conveys 'Positive_Emotion' through their smiles and engagement, fulfilling multiple 'Hero Moment' criteria. The action begins and ends naturally within these timestamps, adhering to the 'No-Mistake' rule."
+    }
+  ]
+}

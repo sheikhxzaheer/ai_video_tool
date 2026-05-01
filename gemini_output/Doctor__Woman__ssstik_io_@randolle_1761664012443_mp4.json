@@ -1,0 +1,55 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Woman\\ssstik.io_@randolle_1761664012443.mp4",
+  "detailed_description": "A female dermatologist, Dr. Florteesa Ollero, MD, dressed in a white lab coat, sits at her office desk and explains the scientific mechanism behind treating dark spots. She clarifies how azelaic acid inhibits melanogenesis, thereby preventing excessive melanin production and skin darkening. She also mentions the combination of azelaic acid with resorcinol, offering expert insights into effective skincare treatments.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:27.500",
+      "structural_tags": [
+        "Key_Information",
+        "Process_Labor",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Ingredient_Highlight",
+        "Cellular_Deep_Dive",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "dermatologist",
+        "lab coat",
+        "desk",
+        "laptop",
+        "pen",
+        "paper",
+        "diagrams",
+        "nameplate",
+        "curtains",
+        "explanation",
+        "gesturing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "educational",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "professional lighting",
+          "clear audio",
+          "informative tone"
+        ]
+      },
+      "why_kept": "This entire segment showcases the dermatologist actively explaining key medical information regarding dark spot treatment and the mechanism of azelaic acid. She is performing her professional 'labor' by educating, making it the core value and expertise demonstration of the video. The segment begins and ends precisely with her engaged explanation, without any setup or dead air, thus meeting the 'No-Mistake' rule and the 'Key Information' criteria."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Routine\\Using LiftLab.MOV",
+  "detailed_description": "This video's semantic core focuses on the demonstration of a handheld red light therapy facial device. A woman, professionally dressed, is shown meticulously applying the white device to various areas of her face, including her cheeks, temples, forehead, and around her mouth. The device emits a visible red light as it is used, showcasing its active function. The segment highlights the ease of product interaction and its potential integration into a daily beauty or skincare routine within a typical office or home workspace environment.",
+  "segments": [
+    {
+      "start_time": "00:02.900",
+      "end_time": "00:23.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "facial device",
+        "red light",
+        "skincare routine",
+        "face massage",
+        "office desk",
+        "tweed blazer"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "clinical",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clean aesthetic",
+          "professional attire"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it fully demonstrates the core value proposition: the active use and interaction with the facial device. It clearly shows the 'Mechanism of Action' (red light activation) and the 'Product Interaction' as the user applies it to different facial areas, fulfilling the 'Process/Labor' and 'Product Interaction' hero criteria. The segment is trimmed to exclude pre-action setup and post-action dead air, focusing solely on the valuable content."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@motivation.informa_1769711090086.mp4",
+  "detailed_description": "The video captures a critical incident in a hospital hallway where a nurse is pushing a patient on a gurney towards an MRI scanner. As they get close, the powerful magnetic field of the scanner pulls the metallic gurney, causing it to violently tip upwards, throwing the patient onto the floor. The nurse then struggles to free the gurney and retrieve the patient, highlighting the immediate danger and chaos caused by the magnetic force. The entire sequence emphasizes the serious risks involved when metallic objects come too close to an active MRI machine.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:09.95",
+      "structural_tags": [
+        "Problem_State",
+        "Malfunction_Fail",
+        "Negative_Emotion",
+        "Urgency_Rush",
+        "High_Energy",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "hospital hallway",
+        "nurse",
+        "patient",
+        "gurney",
+        "MRI machine",
+        "magnetic pull",
+        "tipping",
+        "falling",
+        "struggle",
+        "accident",
+        "chaos"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "clinical",
+          "chaotic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "brightly lit",
+          "steady camera",
+          "dynamic action"
+        ]
+      },
+      "why_kept": "This segment encompasses the entire critical event, from the initial approach to the MRI scanner, the sudden magnetic pull on the gurney, the patient falling, and the subsequent struggle. It clearly demonstrates the 'problem state' and 'malfunction/fail' caused by the powerful magnetic field, which is the core subject matter of the video."
+    }
+  ]
+}

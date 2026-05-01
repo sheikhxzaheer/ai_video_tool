@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Result\\CNWM_JillianGray_036_Result.mov",
+  "detailed_description": "The video captures a woman with a pink bow headband looking directly at the camera, appearing makeup-free. She touches her forehead while delivering a personal testimonial, stating that her forehead wrinkles have significantly reduced. Her statement conveys a positive result or transformation, likely related to a skincare regimen, emphasizing the efficacy of an unmentioned product or routine.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:04.000",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink headband",
+        "touching forehead",
+        "speaking",
+        "nose piercing",
+        "necklace"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address",
+          "soft lighting",
+          "casual"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it directly delivers key information – a personal testimony about a positive physical transformation (reduced forehead wrinkles). The woman's verbal statement, combined with her hand gesture pointing to her forehead, clearly communicates the main point and the result. While no product is shown, the testimonial itself is the core value proposition."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Routine\\Relaxing by pool.MP4",
+  "detailed_description": "The video captures a serene moment of relaxation by a luxurious rooftop pool. It begins with a close-up of a woman exuding positive emotion and calm, smiling and making a peace sign, suggesting ultimate contentment while holding a book. The scene then transitions to wide shots of the upscale pool area, complete with comfortable sun loungers and elegant umbrellas, set against a stunning city backdrop and a clear blue sky. A prominent 'GUCCI' billboard adds a touch of high-end lifestyle to the ambiance. The overall message conveyed is one of peaceful luxury and enjoyable leisure.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.130",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "peace sign",
+        "book",
+        "sun lounger"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sunny lighting",
+          "relaxed selfie-style"
+        ]
+      },
+      "why_kept": "This segment is kept as the 'Emotional Climax' and 'Human Interaction' showing the primary subject's positive emotion and relaxed state. Her smile and peace sign clearly convey satisfaction and calm, forming the core emotional value of the video. The book is present, indicating a relaxing activity."
+    },
+    {
+      "start_time": "00:02.130",
+      "end_time": "00:06.190",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "rooftop pool",
+        "sun loungers",
+        "umbrellas",
+        "city skyline",
+        "building",
+        "Gucci billboard",
+        "blue sky"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "energetic"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "bright sunlight",
+          "clear blue sky",
+          "panoramic view",
+          "luxurious setting"
+        ]
+      },
+      "why_kept": "This segment provides essential context and 'Aesthetic Broll', showcasing the luxurious and serene environment of the rooftop pool. It complements the 'ANCHOR' by visually reinforcing the 'Calm Relaxation' and 'Lifestyle Active' aspects implied by the woman's positive experience."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Money\\ssstik.io_1745441184550.mp4",
+  "detailed_description": "The video provides a high-energy, close-up view of a money counting machine efficiently processing stacks of $100 bills. The digital display on the machine actively tallies the banknotes, increasing its count from 77 to 277 during the clip. The background features large, neatly organized bundles of currency, underscoring the substantial volume of money being handled. This segment visually emphasizes the speed, accuracy, and core functionality of the money counting device.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.680",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Macro_Detail",
+        "High_Energy",
+        "Data_Metrics_Chart",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "money counting machine",
+        "100 dollar bills",
+        "cash",
+        "digital counter",
+        "banknotes",
+        "stacks of money"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "fast motion",
+          "digital display",
+          "organized stacks",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the primary function of the money counting machine. It showcases the product's efficiency and speed in processing large quantities of $100 bills, with the digital counter providing a clear measure of its performance, fulfilling the 'Process/Labor' and 'Product Interaction' hero moments."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\brush.mov",
+  "detailed_description": "The video provides a close-up view of a woman's hands as she demonstrates a small, red and black cleaning brush. She deliberately presses and strokes her thumb over the brush's bristles, highlighting their texture and flexibility. The interaction is calm and focused, culminating in a subtle smile, suggesting a positive experience with the product. The segment effectively showcases the tactile qualities and basic function of the brush.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:08.50",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman's hands",
+        "small cleaning brush",
+        "red and black brush",
+        "pressing bristles",
+        "smiling",
+        "long nails"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "shallow depth of field",
+          "casual attire"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it clearly demonstrates the core interaction with the product—the woman pressing and feeling the brush bristles, which is a key 'Product Interaction' hero moment. The segment also includes a 'Positive Emotion' (smile) at the end, providing a complete and continuous demonstration without any dead air or setup/calibration. It perfectly aligns with the 'NO-MISTAKE' rule."
+    }
+  ]
+}

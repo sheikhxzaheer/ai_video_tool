@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Woman\\ssstik.io_@marthahwin_1766743719548.mp4",
+  "detailed_description": "This video humorously depicts a common office scenario: the internal struggle to begin work. A woman at her desk initially looks around with a contemplative and slightly hesitant expression, accompanied by a repetitive 'don't do it' audio, as she slowly tucks her leg onto her chair. This builds a relatable 'problem state' of procrastination. The segment culminates in a clear emotional shift, as she smiles and decisively begins typing on her keyboard to an upbeat tune, signifying her overcoming the urge to delay and finally engaging in work.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.518",
+      "structural_tags": [
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Workspace_Office",
+        "The Process/Labor"
+      ],
+      "visual_keywords": [
+        "woman",
+        "office desk",
+        "keyboard",
+        "typing",
+        "sitting",
+        "looking around",
+        "leg on chair",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "contemplative",
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "professional setting",
+          "static shot",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This entire segment functions as a cohesive narrative, representing the 'Semantic Core'. It effectively captures the 'Problem State' of resisting work (00:00-00:07) and the subsequent 'Emotional Climax' and 'Process/Labor' of overcoming that resistance to begin typing (00:07-00:10). The distinct audio change and facial expression shift clearly define the hero moment of motivation and action."
+    }
+  ]
+}

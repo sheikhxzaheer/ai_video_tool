@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\BrushPointing.mp4",
+  "detailed_description": "The video features a man in a blue t-shirt and glasses standing in a kitchen setting, holding a small red brush with black bristles. He directly presents the brush to the camera, repeatedly pointing to its bristles as if highlighting a key feature or demonstrating its texture. His expression is calm and neutral, suggesting a straightforward product showcase. The man's focused interaction with the brush indicates an intent to introduce or explain the product. The scene is well-lit, providing a clear view of both the man and the brush.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:09.026",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "blue shirt",
+        "glasses",
+        "red brush",
+        "black bristles",
+        "pointing",
+        "kitchen countertop"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "neutral"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "static shot",
+          "vertical video"
+        ]
+      },
+      "why_kept": "This segment captures the core action of a man presenting and interacting with a small red brush, specifically highlighting its bristles through repeated pointing gestures. It serves as a direct product introduction and demonstration of its physical attributes through human interaction, making it the primary 'hero moment' of the video. No significant setup or dead air moments were present that needed trimming, adhering to the 'no-mistake' rule for continuous action."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+# Core dependencies
+stable-ts
+openai-whisper
+ffmpeg-python
+
+# LLM providers
+openai
+anthropic
+google-generativeai
+
+# Web framework
+streamlit
+
+# Data validation and models
+pydantic
+
+# Async support (included in Python 3.10+, but explicit for clarity)
+# asyncio - built-in
+
+# Audio processing
+numpy
+scipy
+
+# Utilities
+python-dotenv
+
+# Optional: for better performance
+torch
+torchaudio
+
+# Milestone-2: Vector search & footage matching
+chromadb
+Pillow

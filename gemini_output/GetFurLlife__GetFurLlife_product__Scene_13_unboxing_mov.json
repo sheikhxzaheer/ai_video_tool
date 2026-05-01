@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLlife_product\\Scene 13_unboxing.mov",
+  "detailed_description": "This video presents a 'FURLIFE' pet product, focusing on its packaging and contents. It begins with a shot of the closed circular tin, showcasing its branding and key features like '30 DAYS EFFECTIVENESS', 'NATURAL INGREDIENTS', 'WATER RESISTANT', and 'NON-TOXIC', alongside illustrations of two dogs. The main action involves hands opening the tin to reveal a coiled purple pet collar, clearly visible inside its protective plastic wrapping.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.124",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "hands",
+        "circular tin",
+        "FURLIFE logo",
+        "dog images",
+        "text (30 days effectiveness, natural ingredients, water resistant, non-toxic)",
+        "purple collar",
+        "plastic packaging",
+        "wooden surface"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "clear focus",
+          "natural lighting",
+          "smooth camera movement"
+        ]
+      },
+      "why_kept": "This segment is kept as the 'Semantic Core' because it perfectly demonstrates the 'Product Interaction' by showing the unboxing of the pet product. It begins with a clear 'Product Intro' of the closed packaging, progresses through the 'Product Interaction' of opening the tin, and culminates in a 'Macro_Detail' and 'Product_Standalone' shot of the revealed purple collar. The entire sequence is a continuous, purposeful action of showcasing the product from its packaged state to its revealed form, fulfilling multiple 'Hero Moment' criteria without any unnecessary setup or dead air."
+    }
+  ]
+}

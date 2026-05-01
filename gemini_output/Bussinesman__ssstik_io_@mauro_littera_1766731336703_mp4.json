@@ -1,0 +1,88 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bussinesman\\ssstik.io_@mauro.littera_1766731336703.mp4",
+  "detailed_description": "This video's semantic core showcases a sophisticated men's business-casual outfit, featuring a sleek blue suit, a black turtleneck, and a black leather briefcase. The footage highlights the detailed craftsmanship of the accessories and the overall elegant aesthetic of the ensemble. The man's confident stride and subtle adjustments to his attire emphasize a polished and self-assured lifestyle, positioning the clothing and accessories as key elements of a premium look.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.300",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands",
+        "briefcase",
+        "suit jacket",
+        "metal clasps",
+        "leather texture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed focus",
+          "smooth camera movement"
+        ]
+      },
+      "why_kept": "This segment serves as a visual hook, showcasing the detailed texture of the briefcase and the suit, and highlighting product interaction with key accessories at a macro level."
+    },
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Travel_Transit",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "walking",
+        "blue suit",
+        "black turtleneck",
+        "sunglasses",
+        "briefcase",
+        "watch",
+        "confident stride",
+        "arcade",
+        "pillars",
+        "checking watch"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera movement",
+          "elegant architecture",
+          "natural light",
+          "full body shot"
+        ]
+      },
+      "why_kept": "This is the primary hero moment, fully showcasing the entire outfit in motion, demonstrating the lifestyle and confidence associated with the attire and accessories (briefcase, watch, sunglasses). It's the core visual presentation of the semantic core."
+    }
+  ]
+}

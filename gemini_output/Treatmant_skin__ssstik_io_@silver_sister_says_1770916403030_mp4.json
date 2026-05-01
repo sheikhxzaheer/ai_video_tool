@@ -1,0 +1,235 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Treatmant_skin\\ssstik.io_@silver_sister_says_1770916403030.mp4",
+  "detailed_description": "The video features a woman in her 50s offering skincare advice for women in their 20s, emphasizing the importance of starting good habits early. She showcases The Inkey List's Advanced Retinal Serum, explaining its unique formulation as an encapsulated retinal, which converts one step closer to active retinoic acid for faster, gentle results. She demonstrates her nightly skincare routine, applying an exosome serum, followed by the retinal serum, and finishing with a bio-active ceramide moisturizer, highlighting how her skin feels hydrated and non-irritated.",
+  "segments": [
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:14.300",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hand",
+        "product tube",
+        "The Inkey List Advanced Retinal Serum"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment clearly introduces the main product, The Inkey List Advanced Retinal Serum, providing a visual reference for the viewer."
+    },
+    {
+      "start_time": "00:16.200",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Ingredient_Highlight",
+        "Mechanism_Of_Action",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "product tube",
+        "text overlay",
+        "retinal",
+        "retinol",
+        "comparison"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "informative",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background",
+          "graphic overlay"
+        ]
+      },
+      "why_kept": "This segment provides key information about the product's active ingredient (retinal) and its distinction from retinol, visually supported by a graphic while the product is held."
+    },
+    {
+      "start_time": "00:19.400",
+      "end_time": "00:27.400",
+      "structural_tags": [
+        "Macro_Detail",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "woman",
+        "finger",
+        "yellow serum",
+        "encapsulation gesture",
+        "retinoic acid"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "informative",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "detailed hand gestures"
+        ]
+      },
+      "why_kept": "This segment visually demonstrates the product's unique yellow color and its encapsulated nature through finger gestures, reinforcing its gentle yet effective mechanism."
+    },
+    {
+      "start_time": "00:28.400",
+      "end_time": "00:32.900",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Process_Labor",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "Exosome serum",
+        "bottle",
+        "applying serum",
+        "face",
+        "hydrating",
+        "prepping skin"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "skincare application"
+        ]
+      },
+      "why_kept": "Shows the initial step of the routine, preparing the skin with a complementary product before applying the main retinal serum."
+    },
+    {
+      "start_time": "00:33.700",
+      "end_time": "00:43.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "retinal serum",
+        "yellow",
+        "pea-sized amount",
+        "applying to face",
+        "face massage",
+        "lifted skin",
+        "brighter skin",
+        "smoother skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "informative",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "skincare application",
+          "demonstration"
+        ]
+      },
+      "why_kept": "This is the primary hero moment, demonstrating the core product's application and verbally explaining its direct benefits (lifted, brighter, smoother, healthy skin) as the action unfolds. It encapsulates the value proposition and main action."
+    },
+    {
+      "start_time": "00:43.100",
+      "end_time": "00:53.300",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Process_Labor",
+        "Social_Proof",
+        "Positive_Emotion",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "moisturizer",
+        "jar",
+        "applying cream",
+        "face",
+        "hydrated skin",
+        "not irritated",
+        "routine frequency"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "informative",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "skincare application",
+          "personal testimonial"
+        ]
+      },
+      "why_kept": "This segment completes the skincare routine with a final product application, and crucially, provides a personal testimonial about the overall feel and effectiveness of the routine, linking to the benefits of consistent use."
+    }
+  ]
+}

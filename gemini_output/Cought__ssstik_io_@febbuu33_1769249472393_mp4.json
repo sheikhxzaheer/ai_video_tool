@@ -1,0 +1,107 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cought\\ssstik.io_@febbuu33_1769249472393.mp4",
+  "detailed_description": "A woman experiencing a severe coughing fit is filmed as she struggles for breath, covering her mouth in distress. She then demonstrates the use of an inhaler multiple times, taking deliberate puffs to alleviate her symptoms. The video concludes with her appearing significantly calmer and more composed, highlighting the product's effectiveness in providing relief from her respiratory condition.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "coughing",
+        "hands over mouth",
+        "distress"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'Problem State' with intense coughing and visible distress, setting the context for the product's necessity."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:28.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "inhaler",
+        "using product",
+        "inhaling",
+        "hands"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment is the core 'Product Interaction', showing the woman actively using the inhaler multiple times, demonstrating the product's function and the process of seeking relief."
+    },
+    {
+      "start_time": "00:46.000",
+      "end_time": "00:51.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "calm",
+        "composed",
+        "no coughing",
+        "relief"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "relaxed"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment acts as the 'Result Transformation', clearly showing the woman in a state of calm and relief after using the inhaler, indicating the product's effectiveness in resolving her initial distress."
+    }
+  ]
+}

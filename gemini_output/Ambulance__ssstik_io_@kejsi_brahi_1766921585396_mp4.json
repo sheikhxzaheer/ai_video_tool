@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@kejsi.brahi_1766921585396.mp4",
+  "detailed_description": "This video captures the ongoing process of an intravenous (IV) drip in a clinical setting. It showcases a multi-bag IV setup, with a clear focus on the liquid steadily dripping within the chamber, illustrating the mechanism of action of the medical equipment. The visual journey begins with a wider shot of the IV stand and then smoothly zooms in to highlight the rhythmic flow of the IV solution, emphasizing the controlled delivery of fluids. The calm and consistent drip serves as the primary action and the core demonstration of the product's function.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.790",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Standalone",
+        "Macro_Detail",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "IV drip",
+        "IV stand",
+        "clear liquid",
+        "medical equipment",
+        "drip chamber",
+        "fluid flow"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "focused shot",
+          "steady camera",
+          "medical aesthetic"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully demonstrates the primary function and 'mechanism of action' of the IV drip system. The entire duration showcases the continuous flow of liquid, which is the core value and purpose of the equipment. There is no 'setup & calibration' or 'post-action dead air'; the video starts and ends precisely with the relevant action, adhering to the 'no-mistake' rule."
+    }
+  ]
+}

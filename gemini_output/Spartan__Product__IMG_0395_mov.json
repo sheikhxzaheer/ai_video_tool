@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Product\\IMG_0395.mov",
+  "detailed_description": "This video showcases the elegant placement of a black 'Spartan Root Activator Shampoo' bottle onto a clean, minimalist shelf. A hand gently positions the pump-top bottle, highlighting its sleek design and branding against a backdrop of white and textured gray surfaces. The final shot frames the product in a pristine setting, emphasizing its premium aesthetic and readiness for use.",
+  "segments": [
+    {
+      "start_time": "00:06.500",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "placing",
+        "shampoo bottle",
+        "black bottle",
+        "shelf",
+        "white wall",
+        "concrete wall",
+        "Spartan brand"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "clean aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "minimalist",
+          "neutral colors",
+          "direct lighting"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it effectively captures the precise moment of product interaction (placing the shampoo bottle) and culminates in a clear, sustained shot of the product in its intended setting. The earlier attempts at placing the bottle were trimmed as they represented calibration/mistakes, while this segment presents the final, successful action and the visual reveal of the product."
+    }
+  ]
+}

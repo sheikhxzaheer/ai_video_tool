@@ -1,0 +1,300 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bag\\ssstik.io_@nmoratorres_1759061060635.mp4",
+  "detailed_description": "The video features a young woman playfully exploring the contents of her partner's 'man bag' while sitting in a car. She reveals several personal care items such as cologne, moisturizer, and Aquaphor, as well as a sentimental photo and a hair tie. The central 'hero moment' is her discovery and display of a significant stack of cash, which she counts and fans out, engaging in lighthearted banter about it. The video captures a 'what's in my bag' style with a humorous and engaging tone.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Travel_Transit",
+        "High_Energy",
+        "Playful",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "woman",
+        "car interior",
+        "coach bag",
+        "hands",
+        "speaking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "upbeat",
+          "selfie-style"
+        ]
+      },
+      "why_kept": "This segment introduces the video's premise, setting the scene and the woman's intention to explore the bag, which is already present and being touched, thus initiating product interaction."
+    },
+    {
+      "start_time": "00:04.100",
+      "end_time": "00:06.300",
+      "structural_tags": [
+        "Product_Interaction",
+        "UGC_Talking_Head",
+        "Travel_Transit",
+        "Human_Interaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman",
+        "cologne bottle",
+        "hands",
+        "coach bag",
+        "car interior"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "informal"
+        ]
+      },
+      "why_kept": "This segment demonstrates a clear product interaction as the woman pulls out and displays a small bottle of cologne, commenting on it."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:12.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "UGC_Talking_Head",
+        "Travel_Transit",
+        "Human_Interaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman",
+        "moisturizer bottle",
+        "hands",
+        "coach bag",
+        "car interior"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "informal"
+        ]
+      },
+      "why_kept": "This segment shows another distinct product interaction, with the woman revealing a moisturizer bottle from the bag."
+    },
+    {
+      "start_time": "00:20.500",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "UGC_Talking_Head",
+        "Travel_Transit",
+        "Human_Interaction",
+        "Product_Standalone",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "photo",
+        "hands",
+        "coach bag",
+        "car interior"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "positive",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "informal"
+        ]
+      },
+      "why_kept": "The woman reveals a picture, highlighting a personal item, which is a clear product interaction and elicits a positive facial expression."
+    },
+    {
+      "start_time": "00:24.700",
+      "end_time": "00:26.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Travel_Transit",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hair tie",
+        "hands",
+        "car interior"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "informal"
+        ]
+      },
+      "why_kept": "This brief segment shows another item (hair tie) being handled, representing a quick but clear product interaction."
+    },
+    {
+      "start_time": "00:28.500",
+      "end_time": "00:31.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "UGC_Talking_Head",
+        "Travel_Transit",
+        "Human_Interaction",
+        "Product_Standalone",
+        "Playful"
+      ],
+      "visual_keywords": [
+        "woman",
+        "Aquaphor bottle",
+        "hands",
+        "coach bag",
+        "car interior"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "informal"
+        ]
+      },
+      "why_kept": "The woman pulls out and displays Aquaphor, maintaining the 'what's in the bag' theme with a humorous comment."
+    },
+    {
+      "start_time": "00:37.000",
+      "end_time": "00:39.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Travel_Transit",
+        "Human_Interaction",
+        "Product_Standalone",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink item",
+        "hands",
+        "coach bag",
+        "car interior"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "informal"
+        ]
+      },
+      "why_kept": "A quick interaction where she pulls out a small pink item from the bag, demonstrating the act of discovery."
+    },
+    {
+      "start_time": "00:51.000",
+      "end_time": "01:18.000",
+      "structural_tags": [
+        "Reveal_Result",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Travel_Transit",
+        "Human_Interaction",
+        "Playful",
+        "Financial_Stress"
+      ],
+      "visual_keywords": [
+        "woman",
+        "money",
+        "cash",
+        "hands",
+        "coach bag",
+        "car interior",
+        "counting money",
+        "fanning money"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "shock",
+          "surprise"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "dynamic camera movement",
+          "expressive"
+        ]
+      },
+      "why_kept": "This is the core 'hero moment' as it reveals a significant stack of cash, creating an emotional climax and extended product interaction that is visually engaging and central to the video's appeal."
+    }
+  ]
+}

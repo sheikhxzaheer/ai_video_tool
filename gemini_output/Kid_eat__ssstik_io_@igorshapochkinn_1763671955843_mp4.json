@@ -1,0 +1,232 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid eat\\ssstik.io_@igorshapochkinn_1763671955843.mp4",
+  "detailed_description": "This video showcases a cheerful toddler in a high chair enthusiastically eating a nutritious meal of raw vegetables. The child happily consumes cherry tomatoes, yellow bell peppers, a whole carrot, and a substantial portion of salad greens. The footage highlights his self-feeding skills and positive engagement with healthy food, culminating in an empty plate and a satisfied demeanor.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:04.600",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Home_Kitchen",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "toddler",
+        "high chair",
+        "parent's hands",
+        "plate of vegetables",
+        "glass of water",
+        "anticipation",
+        "clapping"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "natural candid moment"
+        ]
+      },
+      "why_kept": "This segment introduces the meal and the toddler's immediate positive reaction and anticipation, setting the stage for healthy eating."
+    },
+    {
+      "start_time": "00:04.600",
+      "end_time": "00:09.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Positive_Emotion",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "toddler",
+        "high chair",
+        "cherry tomato",
+        "yellow bell pepper",
+        "eating",
+        "chewing",
+        "self-feeding"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear view of interaction with food"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the toddler's immediate engagement and consumption of the first healthy vegetables, showcasing self-feeding skills."
+    },
+    {
+      "start_time": "00:16.000",
+      "end_time": "00:20.400",
+      "structural_tags": [
+        "Face_Reaction",
+        "Product_Interaction",
+        "Process_Labor",
+        "Positive_Emotion",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "toddler",
+        "close-up",
+        "cherry tomato",
+        "eating",
+        "chewing",
+        "facial expression",
+        "enjoyment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "focused",
+          "content"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sharp focus on face",
+          "expressive eyes"
+        ]
+      },
+      "why_kept": "This close-up captures a clear emotional 'wow' moment of the child enjoying the tomato, emphasizing the appeal of healthy food."
+    },
+    {
+      "start_time": "00:39.000",
+      "end_time": "00:45.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Positive_Emotion",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "toddler",
+        "high chair",
+        "salad greens",
+        "eating",
+        "chewing",
+        "self-feeding",
+        "vegetable consumption"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "focused",
+          "determined"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "natural eating moment"
+        ]
+      },
+      "why_kept": "This segment is a hero moment as it showcases the toddler successfully and willingly eating a large portion of leafy greens, which can be challenging for young children."
+    },
+    {
+      "start_time": "00:56.000",
+      "end_time": "01:03.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "toddler",
+        "high chair",
+        "carrot",
+        "eating",
+        "chewing",
+        "self-feeding"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear demonstration of biting and chewing"
+        ]
+      },
+      "why_kept": "This segment highlights the child's ability and willingness to eat a raw carrot, further demonstrating diverse healthy vegetable consumption."
+    },
+    {
+      "start_time": "01:31.000",
+      "end_time": "01:40.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Face_Reaction",
+        "Home_Kitchen",
+        "Positive_Emotion",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "toddler",
+        "close-up",
+        "salad greens",
+        "eating",
+        "chewing",
+        "focused expression",
+        "empty plate"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "determined",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "intense focus on child's actions",
+          "showing completion"
+        ]
+      },
+      "why_kept": "This segment acts as the emotional climax and result, showing the toddler's focused effort to finish the last greens and the resulting empty plate, signifying a successful and enjoyable healthy meal."
+    }
+  ]
+}

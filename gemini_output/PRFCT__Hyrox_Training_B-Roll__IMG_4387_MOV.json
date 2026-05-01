@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\Hyrox Training B-Roll\\IMG_4387.MOV",
+  "detailed_description": "The video showcases an individual performing a weighted sled pull exercise in an outdoor gym setting. Dressed in athletic gear, including Hoka running shoes, the person demonstrates significant physical effort by pulling a heavy sled across an artificial turf track. The action highlights strength training and an active lifestyle, with the modern building's reflective windows creating a dynamic backdrop.",
+  "segments": [
+    {
+      "start_time": "00:00.800",
+      "end_time": "00:06.900",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "sled pull",
+        "rope",
+        "weights",
+        "artificial turf",
+        "athletic shoes",
+        "Hoka",
+        "outdoor workout"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "rugged"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "daytime",
+          "dynamic movement",
+          "clear visibility"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the core action of the video: the physical process of pulling a weighted sled. It highlights the individual's effort and interaction with the fitness equipment, capturing the primary 'Process/Labor' hero moment."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ð┐ð¥ð┤ð║ð░ÐçðÁð¢Ðïð©╠å ð╝ÐâðÂð©ð║ ð┐ð¥ð┐ÐÇð░ð▓ð╗ÐÅðÁÐé ð▓ð¥ð╗ð¥ÐüÐï.mp4",
+  "detailed_description": "This video captures a man refreshing himself in a luxurious rooftop pool with an urban skyline in the background. The segment showcases his transition from a focused, reflective state, where he wipes his face and adjusts his hair, to an expression of pure contentment and confidence as he stretches and ultimately reveals a broad, radiant smile. It embodies relaxation and the enjoyment of the moment.",
+  "segments": [
+    {
+      "start_time": "00:01.400",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man",
+        "pool",
+        "water",
+        "refreshing",
+        "smiling",
+        "stretching",
+        "relaxing",
+        "cityscape"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear blue water",
+          "sunny day",
+          "urban backdrop",
+          "athletic physique"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it vividly demonstrates the 'Emotional Climax' as the man transitions from a seemingly pensive or tired state (wiping his face, adjusting hair) to a clear expression of relaxation, confidence, and positive emotion through a wide, sustained smile. This progression from an initial action to a clear emotional result is the primary value demonstrated."
+    }
+  ]
+}

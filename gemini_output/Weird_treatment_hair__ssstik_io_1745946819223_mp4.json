@@ -1,0 +1,88 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ssstik.io_1745946819223.mp4",
+  "detailed_description": "This video demonstrates the transformative power of a dynamic hair gel on two different men's hairstyles. A hairstylist applies the gel using a unique comb applicator, showcasing its secure hold and rapid-drying action. The process highlights how the product effortlessly elevates the styling routine, resulting in sleek, well-groomed looks. The video effectively combines product interaction, visual transformation, and key benefit information to convey its value.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.300",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair stylist",
+        "applying hair gel",
+        "comb applicator",
+        "styling hair",
+        "hair product bottles",
+        "salon counter"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "direct focus on action",
+          "product display background",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is kept as the primary anchor because it introduces the product, demonstrates the core application process and its immediate effect on the first model's hair, and includes on-screen text and voiceover detailing the product's benefits (secure hold, rapid-drying, refreshing fragrance). It visually encapsulates the product's promise."
+    },
+    {
+      "start_time": "00:10.800",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair stylist",
+        "applying hair gel",
+        "comb applicator",
+        "styling hair",
+        "hair product bottles",
+        "salon counter"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "direct focus on action",
+          "product display background",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment reinforces the product's effectiveness and versatility by showing its application and the resulting transformation on a second individual. It serves as strong supporting visual evidence for the claims made in the anchor segment, confirming the consistent performance of the hair gel."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Product\\IMG_6002.MOV",
+  "detailed_description": "This video showcases the 'Spartan Root Activator' hair care line, specifically the shampoo and conditioner designed to promote hair growth. A hand picks up each sleek black bottle, one at a time, displaying the product's branding, pump dispenser, and key information on the label. The interaction highlights the physical product design and packaging, emphasizing its premium and functional aesthetic. It's a direct product introduction, allowing viewers to get a clear visual of both items.",
+  "segments": [
+    {
+      "start_time": "00:02.067",
+      "end_time": "00:12.900",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "black bottles",
+        "shampoo",
+        "conditioner",
+        "hand",
+        "label text",
+        "pump dispenser",
+        "white counter",
+        "Spartan brand"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "clinical",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "product-focused",
+          "minimalist background",
+          "handheld display"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it captures the direct interaction with and presentation of the two featured products, the 'Spartan Root Activator Shampoo' and 'Conditioner'. The hand picks up, rotates, and displays each bottle, allowing a clear view of the branding and product details, fulfilling the 'Product Interaction' and 'Product_Standalone' hero moment criteria."
+    }
+  ]
+}

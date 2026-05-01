@@ -1,0 +1,144 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid naughty\\ssstik.io_@vick_f4cts_1763679415085.mp4",
+  "detailed_description": "This video captures the intense and shocking experience of parents discovering their 12-year-old daughter is in labor after she complained of severe abdominal pain and a sensation of movement in her belly. The narrative describes the initial confusion and suspicion, leading to the dramatic revelation at the emergency room that their daughter was unexpectedly pregnant and in active labor with a breech baby. The video illustrates the daughter's profound distress and the urgent medical intervention required during this unexpected childbirth.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.950",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "crying girl",
+        "father comforting",
+        "hospital bed",
+        "abdominal pain"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "clinical"
+        ],
+        "mood": [
+          "serious",
+          "emotional",
+          "urgent"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "distressed lighting"
+        ]
+      },
+      "why_kept": "This segment serves as the visual hook, immediately immersing the viewer into the daughter's severe pain and distress, which is the core 'problem state' that drives the entire narrative."
+    },
+    {
+      "start_time": "00:24.000",
+      "end_time": "00:31.900",
+      "structural_tags": [
+        "Negative_Emotion",
+        "Shock_Surprise",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "crying face",
+        "tears",
+        "emotional distress"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "emotional",
+          "shocked",
+          "distraught"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dark lighting",
+          "raw emotion"
+        ]
+      },
+      "why_kept": "This close-up powerfully conveys the emotional climax of the story, reflecting the daughter's severe distress and the parent's dawning suspicion about her condition, making it a key moment of 'shock and surprise'."
+    },
+    {
+      "start_time": "00:32.000",
+      "end_time": "00:35.950",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "girl",
+        "oxygen mask",
+        "medical staff",
+        "medical procedure"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "clinical"
+        ],
+        "mood": [
+          "serious",
+          "clinical",
+          "urgent"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "medical equipment focus",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment illustrates the immediate medical 'process' the daughter is undergoing, showing her receiving critical care with an oxygen mask and surrounded by medical professionals, emphasizing the gravity of her situation."
+    },
+    {
+      "start_time": "01:08.000",
+      "end_time": "01:12.300",
+      "structural_tags": [
+        "Process_Labor",
+        "Reveal_Result",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "operating room",
+        "surgical setup",
+        "medical staff",
+        "delivery"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "clinical"
+        ],
+        "mood": [
+          "serious",
+          "clinical",
+          "intense"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "sterile environment",
+          "action-oriented"
+        ]
+      },
+      "why_kept": "This segment visually represents the climax of the entire narrative—the 'process' of labor and the ultimate 'reveal' of the unexpected childbirth, showcasing the operating room environment where the delivery is taking place."
+    }
+  ]
+}

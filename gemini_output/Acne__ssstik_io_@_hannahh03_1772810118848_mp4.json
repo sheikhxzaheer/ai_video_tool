@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Acne\\ssstik.io_@.hannahh03_1772810118848.mp4",
+  "detailed_description": "This video captures a young person's skincare routine, featuring the application of various products to their face. The on-screen text, 'seeing teens my age with clean skin and i look like this,' starkly contrasts with the visible acne on their complexion, highlighting a common adolescent struggle with skin concerns. The background music and the individual's somber expression further underscore a sense of vulnerability and the emotional toll of societal comparisons, making the routine a poignant display of managing a personal challenge.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.458",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Interaction",
+        "Negative_Emotion",
+        "Night_Routine",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "acne",
+        "skincare routine",
+        "applying serum",
+        "applying cream",
+        "applying lotion",
+        "facial care",
+        "emotional expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "reflective",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "straight-on angle"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core. It directly illustrates the 'Problem State' through visible acne and on-screen text, showcases continuous 'Product Interaction' and 'Process/Labor' as the individual applies multiple skincare items, and conveys 'Negative Emotion' through the facial expressions and the video's underlying theme of self-consciousness. There is no dead air or setup/calibration, making the entire duration essential to the narrative."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_12.mp4",
+  "detailed_description": "The video features a woman sleeping peacefully on a white pillow, demonstrating its comfort and supportive qualities. Text overlays on the screen highlight the pillow's key benefit: it molds perfectly to the head and neck without losing its shape or going flat. The scene effectively conveys a sense of calm and relaxation, showcasing a positive user experience and the product's ability to provide a restful night's sleep.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.221",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Face_Reaction",
+        "Mechanism_Of_Action",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman sleeping",
+        "white pillow",
+        "bed",
+        "pink sheets",
+        "text overlay",
+        "peaceful expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "relaxed"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "natural feel"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core, demonstrating direct product interaction, showcasing the user's positive emotional response (calm, peaceful sleep), and explicitly stating the product's key benefit via on-screen text ('molds to my head and my neck without going flat'). It perfectly aligns with the 'Product Interaction', 'Emotional Climax', and 'Key Information' hero moment criteria, with no extraneous footage."
+    }
+  ]
+}

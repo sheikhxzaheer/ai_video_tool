@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Testimonials\\IMG_8893.mp4",
+  "detailed_description": "The video features a young woman enthusiastically endorsing 'MoldMD Mold Spot Remover,' holding the product throughout her testimonial. She highlights its effectiveness in her washroom and around windows, describing it as a 'lifesaver' for her weekly cleaning routine. Expressing genuine satisfaction with her home now smelling fresh, she ensures she always has it stocked, concluding with a heartfelt thank you to the product. Her positive emotional reaction and direct product interaction form the core of the video's message.",
+  "segments": [
+    {
+      "start_time": "00:02.700",
+      "end_time": "00:16.400",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Product_Intro",
+        "Social_Proof",
+        "Positive_Emotion",
+        "Product_Interaction",
+        "Emotional_Climax"
+      ],
+      "visual_keywords": [
+        "woman",
+        "mold cleaner",
+        "spray bottle",
+        "smiling",
+        "bathroom",
+        "white tiles"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "positive",
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "testimonial style",
+          "simple background"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it contains all the critical 'Hero Moments': the woman introduces and holds the product ('Product Interaction'), delivers key information about its benefits and her consistent use ('Key Information'), expresses clear positive emotion and satisfaction ('Emotional Climax'), and provides a direct testimonial ('Social Proof', 'UGC_Talking_Head'). It adheres to the 'Visual Priority Rule' as the product is continuously visible and actively interacted with while she speaks. The segment effectively conveys the product's value and user experience without any setup or post-action dead air."
+    }
+  ]
+}

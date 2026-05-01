@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Celebrity\\ssstik.io_@esquirespain_1761835955113.mp4",
+  "detailed_description": "This video features actor Brad Pitt at a high-profile event, most likely the Oscars, walking the red carpet and engaging with the cameras. Dressed in a sleek tuxedo, he confidently strikes various poses, offering charismatic smiles and direct gazes to the photographers and onlookers. The clip encapsulates the essence of a celebrity's public appearance, highlighting his distinctive persona and the attention he commands at such grand events.",
+  "segments": [
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Brad Pitt",
+        "tuxedo",
+        "red carpet",
+        "posing",
+        "smiling",
+        "gesturing",
+        "camera",
+        "celebrity"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "red carpet lighting",
+          "celebrity appearance",
+          "stylish"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully captures Brad Pitt's direct engagement with the camera, showcasing his charismatic posing and confident demeanor on the red carpet. It exemplifies the 'Emotional Climax' and 'Process/Labor' of a celebrity's public appearance, presenting him as a visually captivating figure."
+    }
+  ]
+}

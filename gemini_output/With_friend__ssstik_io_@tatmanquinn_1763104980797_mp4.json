@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\With friend\\ssstik.io_@tatmanquinn_1763104980797.mp4",
+  "detailed_description": "This video beautifully illustrates the importance of companionship and support when dealing with anxiety. It features two men on a couch, one appearing distant, while the other offers a comforting touch and reassuring gaze. The on-screen text reinforces the message: 'Don't face anxiety alone... Always have someone by your side,' highlighting the core value of human connection in times of mental struggle.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.740",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Face_Reaction",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "two men",
+        "couch",
+        "reassurance",
+        "comforting touch",
+        "eye contact",
+        "anxiety support",
+        "living room"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "supportive",
+          "reassuring"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "home setting"
+        ]
+      },
+      "why_kept": "The entire segment from start to finish directly conveys the core message of not facing anxiety alone and having someone by your side. The visual interaction of one man offering comfort and reassurance to another, combined with the explicit on-screen text, perfectly encapsulates the semantic core of the video without any extraneous frames or setup/dead air. It serves as a complete demonstration of emotional support."
+    }
+  ]
+}

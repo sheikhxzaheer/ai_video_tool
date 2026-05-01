@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid playing\\ssstik.io_@maritdecoene_1763721217349.mp4",
+  "detailed_description": "This video captures a young girl enthusiastically dancing and jumping in a modern living room. She is actively engaged with a large TV screen that displays her own movements, suggesting an interactive dance game or a recording setup. Her clear laughter and high-energy performance highlight the positive emotional experience and active lifestyle promoted by the activity. The segment effectively conveys joy and playful interaction with technology.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "girl dancing",
+        "jumping",
+        "laughing",
+        "TV screen",
+        "living room",
+        "interactive dance"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "natural light"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the 'Process/Labor' of dancing, 'Product Interaction' with the TV/app, and a strong 'Emotional Climax' through the girl's joyful laughter and energetic movements. It starts immediately with the action and ends after the emotional peak, requiring no trimming as per the 'No-Mistake Rule'."
+    }
+  ]
+}

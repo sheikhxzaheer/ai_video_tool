@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid sleep\\ssstik.io_@babiesfromaroundtheworld_1763671405357.mp4",
+  "detailed_description": "The video presents a serene close-up of a baby sleeping peacefully, adorned in a soft, light-colored ribbed outfit, a matching bow headband, and delicate bracelets on each wrist. The baby's gentle breathing and tranquil expression, set against a clean white background, evoke a profound sense of calm and comfort. The entire scene is bathed in soft lighting, highlighting the innocence and peacefulness of the sleeping infant, accompanied by a soothing melody.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.110",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "baby sleeping",
+        "headband",
+        "bracelets",
+        "white outfit",
+        "peaceful expression",
+        "crib"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "gentle",
+          "peaceful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "minimalist",
+          "serene atmosphere",
+          "lullaby music"
+        ]
+      },
+      "why_kept": "This entire segment consistently captures the core emotional and visual value of the video: a baby sleeping soundly, which evokes feelings of calm and positive emotion. There are no extraneous frames, setup, or dead air, making the whole duration the semantic core displaying peace and comfort, potentially hinting at baby products designed for sleep or comfort."
+    }
+  ]
+}

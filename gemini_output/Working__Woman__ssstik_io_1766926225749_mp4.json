@@ -1,0 +1,198 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Woman\\ssstik.io_1766926225749.mp4",
+  "detailed_description": "This video captures the diligent process of a student completing an assignment. It showcases her initial focus and hydration at her organized desk, transitioning through hours of dedicated work as the natural light outside fades. The narrative emphasizes the sustained effort, from note-taking to extensive typing, and culminates in a clear moment of relief and satisfaction upon the successful completion of her task.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "girl",
+        "typing",
+        "laptop",
+        "drinking",
+        "cup",
+        "desk",
+        "hoodie",
+        "pink nails",
+        "posters",
+        "daylight"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "serious",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "casual",
+          "productive vibe"
+        ]
+      },
+      "why_kept": "This segment establishes the primary action of completing an assignment, shows the initial engagement with the laptop and a drink, and sets a focused tone for the video with the descriptive text overlay."
+    },
+    {
+      "start_time": "00:17.500",
+      "end_time": "00:21.500",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Workspace_Office",
+        "Process_Labor",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "desk area",
+        "laptop",
+        "notebook",
+        "pen",
+        "hands",
+        "typing",
+        "writing",
+        "posters",
+        "perfume bottles"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "organized desk",
+          "close-up work"
+        ]
+      },
+      "why_kept": "This segment provides an aesthetic view of the workspace, showcasing the act of writing notes alongside typing, diversifying the visual representation of 'doing work' and adding a personal touch with the text overlay."
+    },
+    {
+      "start_time": "00:30.000",
+      "end_time": "00:34.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Macro_Detail",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "hands",
+        "typing",
+        "keyboard",
+        "laptop screen"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright screen light",
+          "detailed hand movements"
+        ]
+      },
+      "why_kept": "This segment maintains the focus on the 'process/labor' by providing a close-up of the typing action, reinforcing the continuous effort being put into the assignment."
+    },
+    {
+      "start_time": "00:35.000",
+      "end_time": "00:39.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Negative_Emotion",
+        "Problem_State",
+        "Face_Reaction",
+        "Time_Wasted"
+      ],
+      "visual_keywords": [
+        "girl",
+        "tired face",
+        "darker room",
+        "laptop",
+        "window",
+        "dusk",
+        "hands on face"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "tired",
+          "serious",
+          "frustrated"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dimming light",
+          "exhausted expression",
+          "narrative progression"
+        ]
+      },
+      "why_kept": "This is a critical 'Emotional Climax' and 'Problem_State' moment, effectively conveying the passage of time ('3 hrs later') and the accompanying fatigue through the subject's facial expressions and the darkening environment."
+    },
+    {
+      "start_time": "00:50.000",
+      "end_time": "00:52.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Result_Transformation",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "girl",
+        "thumbs up",
+        "smiling",
+        "laptop",
+        "desk",
+        "hoodie"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "satisfied",
+          "happy",
+          "accomplished"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "thumbs up gesture",
+          "clear resolution",
+          "positive affirmation"
+        ]
+      },
+      "why_kept": "This final segment provides the 'Emotional Climax' and 'Result_Transformation' of the video, showing the successful completion of the assignment through a clear gesture of satisfaction and the 'All done' text."
+    }
+  ]
+}

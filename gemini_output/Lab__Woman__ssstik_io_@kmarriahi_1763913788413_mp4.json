@@ -1,0 +1,381 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Lab\\Woman\\ssstik.io_@kmarriahi_1763913788413.mp4",
+  "detailed_description": "This video showcases the engaging daily life and professional activities of a 'lab girl' in a microbiology laboratory. It features a rapid montage of various scientific processes, including culturing bacteria on petri dishes, conducting antibiotic susceptibility tests, preparing and labeling samples, transferring liquids using syringes, and observing microorganisms under a microscope. The content effectively highlights the meticulous work, diverse techniques, and visual results inherent in microbiology, emphasizing both the labor and the captivating discoveries made in a lab setting.",
+  "segments": [
+    {
+      "start_time": "00:00.600",
+      "end_time": "00:02.766",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "lab coat",
+        "person",
+        "glasses",
+        "lab environment"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "fast cut"
+        ]
+      },
+      "why_kept": "This segment serves as the visual hook and introduces the subject ('lab girl') in her work environment, establishing context before diving into the specific lab actions."
+    },
+    {
+      "start_time": "00:02.766",
+      "end_time": "00:03.733",
+      "structural_tags": [
+        "Result_Transformation",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "petri dish",
+        "red agar",
+        "bacterial colonies"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "detailed view"
+        ]
+      },
+      "why_kept": "This segment visually demonstrates the result of bacterial growth, a fundamental aspect of microbiology, showcasing the 'reveal' of the scientific process."
+    },
+    {
+      "start_time": "00:03.733",
+      "end_time": "00:04.700",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Macro_Detail",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "gloved hand",
+        "petri dish",
+        "antibiotic disks",
+        "zones of inhibition",
+        "E. coli"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "scientific documentation",
+          "clear visual"
+        ]
+      },
+      "why_kept": "This segment illustrates a key microbiology technique (antibiotic susceptibility testing) and its outcome, representing both 'process' and 'result'."
+    },
+    {
+      "start_time": "00:04.700",
+      "end_time": "00:05.500",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "gloved hands",
+        "lab coat",
+        "marker",
+        "petri dish",
+        "laminar flow hood"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "lab procedure",
+          "sterile environment"
+        ]
+      },
+      "why_kept": "This segment shows the preparation and labeling of samples, a critical 'process' in lab work that emphasizes attention to detail and professional methodology."
+    },
+    {
+      "start_time": "00:05.500",
+      "end_time": "00:06.333",
+      "structural_tags": [
+        "Product_Interaction",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "gloved hand",
+        "test tube",
+        "liquid sample",
+        "rack"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sample handling",
+          "clear liquids"
+        ]
+      },
+      "why_kept": "This segment captures the direct 'product interaction' of handling lab samples, a common and essential part of daily lab routines."
+    },
+    {
+      "start_time": "00:06.333",
+      "end_time": "00:07.400",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "gloved hand",
+        "syringe",
+        "yellow liquid",
+        "Bunsen burner",
+        "lab bench"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sterile technique",
+          "liquid transfer"
+        ]
+      },
+      "why_kept": "This segment highlights a precise 'process' involving sterile technique, crucial for preventing contamination in microbiology."
+    },
+    {
+      "start_time": "00:07.400",
+      "end_time": "00:08.566",
+      "structural_tags": [
+        "Result_Transformation",
+        "Macro_Detail",
+        "Cellular_Deep_Dive",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "microscope view",
+        "purple bacteria",
+        "pink background",
+        "bacilli"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "wow_reaction"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "microscopic imagery",
+          "scientific discovery"
+        ]
+      },
+      "why_kept": "This is the strongest 'reveal' moment, showing the microscopic world of bacteria, which is the core subject of microbiology, making it the central anchor for the video's theme."
+    },
+    {
+      "start_time": "00:08.566",
+      "end_time": "00:09.600",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "gloved hand",
+        "test tubes",
+        "different colored media",
+        "bacterial growth"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "diverse cultures",
+          "color variations"
+        ]
+      },
+      "why_kept": "This segment showcases various test results and different media, demonstrating the diversity of experiments and outcomes in a microbiology lab."
+    },
+    {
+      "start_time": "00:09.600",
+      "end_time": "00:10.533",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Standalone",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "rack",
+        "test tubes",
+        "media",
+        "cotton plugs"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "organized lab",
+          "multiple samples"
+        ]
+      },
+      "why_kept": "This segment provides a broader view of prepared samples and results, reinforcing the theme of extensive lab work and observation."
+    },
+    {
+      "start_time": "00:10.533",
+      "end_time": "00:11.466",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Macro_Detail",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "gloved hand",
+        "petri dish",
+        "bacterial lawn",
+        "antibiotic disks",
+        "inhibition zones"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "scientific analysis",
+          "growth patterns"
+        ]
+      },
+      "why_kept": "Another depiction of antibiotic susceptibility testing highlights the practical application of microbiology in determining treatment options, reinforcing the 'process' and 'result'."
+    },
+    {
+      "start_time": "00:11.466",
+      "end_time": "00:12.433",
+      "structural_tags": [
+        "Product_Interaction",
+        "Behind_The_Scenes",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "gloved hand",
+        "blood culture bottle",
+        "needle",
+        "vials"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clinical sample",
+          "sample processing"
+        ]
+      },
+      "why_kept": "This segment shows the handling of clinical samples, emphasizing the crucial role of microbiology in patient diagnostics and healthcare, representing a key 'process'."
+    }
+  ]
+}

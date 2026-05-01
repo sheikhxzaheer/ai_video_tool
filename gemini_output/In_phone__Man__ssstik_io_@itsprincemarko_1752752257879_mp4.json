@@ -1,0 +1,109 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\In phone\\Man\\ssstik.io_@itsprincemarko_1752752257879.mp4",
+  "detailed_description": "This video provides a clear tutorial on how to enable and use the auto-scroll feature within the TikTok application. The creator demonstrates the steps by long-pressing on a video, selecting the auto-scroll option from the pop-up menu, and then showcasing the feature in action as the app automatically navigates through multiple videos. The content highlights a convenient way for users to consume content hands-free.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.980",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Product_Intro",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "man speaking",
+        "smartphone",
+        "AUTO SCROLL text"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "ring light"
+        ]
+      },
+      "why_kept": "This segment introduces the video's topic and the product (TikTok via smartphone) with the speaker's clear explanation, setting the context for the subsequent demonstration."
+    },
+    {
+      "start_time": "00:02.980",
+      "end_time": "00:20.980",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "hand",
+        "smartphone",
+        "TikTok app",
+        "menu",
+        "auto-scroll toggle",
+        "videos scrolling automatically"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "informative",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "natural light"
+        ]
+      },
+      "why_kept": "This is the core 'how-to' and 'reveal' segment. It demonstrates the exact steps to enable auto-scroll on TikTok and then clearly shows the feature working as videos automatically advance, fulfilling the main promise of the video."
+    },
+    {
+      "start_time": "00:20.980",
+      "end_time": "00:24.000",
+      "structural_tags": [
+        "Offer_CTA",
+        "UGC_Talking_Head",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man speaking",
+        "thumbs up",
+        "FOLLOW NOW button",
+        "smartphone"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "engaging facial expression"
+        ]
+      },
+      "why_kept": "This segment serves as a concluding call to action, encouraging viewer engagement, and maintains the creator's presence with the product visible."
+    }
+  ]
+}

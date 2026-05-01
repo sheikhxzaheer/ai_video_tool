@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Spraying\\IMG_0180.MOV",
+  "detailed_description": "This video captures the core process of cleaning the interior of a kitchen cabinet. It begins with a hand spraying a cleaning solution onto the base of the cabinet, followed immediately by wiping the surface with a paper towel. The footage focuses on the practical application of the cleaning product and the manual labor involved in thoroughly scrubbing and cleaning the cabinet's bottom and edges, likely addressing accumulated dirt or moisture.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.233",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "hand",
+        "spray bottle",
+        "cleaning solution",
+        "paper towel",
+        "kitchen cabinet",
+        "pipes",
+        "wires",
+        "cleaning",
+        "wiping"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "serious",
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "task-oriented",
+          "direct lighting",
+          "practical demonstration"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it directly demonstrates the full process of product interaction (spraying) and the labor involved (wiping) to achieve cleanliness. There is no setup, dead air, or irrelevant footage, making the entire clip the semantic core showing the cleaning action in a kitchen cabinet."
+    }
+  ]
+}

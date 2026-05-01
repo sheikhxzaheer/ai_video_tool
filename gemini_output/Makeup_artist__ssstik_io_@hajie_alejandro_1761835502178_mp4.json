@@ -1,0 +1,61 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Makeup_artist\\ssstik.io_@hajie_alejandro_1761835502178.mp4",
+  "detailed_description": "This video captures a full makeup and hair transformation, showcasing the meticulous process from a bare face to a glamorous, polished look. A makeup artist expertly applies various cosmetic products, including foundation, contour, eye makeup, and bold red lipstick, while a hairstylist simultaneously curls and styles the model's hair. The video culminates in a stunning reveal of the final, elegant appearance, highlighting the model's enhanced features and confidence, concluding with a clear shot of a beauty product.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "01:12.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Process_Labor",
+        "Result_Transformation",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "makeup artist",
+        "hairstylist",
+        "makeup application",
+        "hair styling",
+        "foundation",
+        "concealer",
+        "contour",
+        "eyeshadow",
+        "eyeliner",
+        "false eyelashes",
+        "mascara",
+        "eyebrow gel",
+        "lipstick",
+        "red dress",
+        "ear cuff",
+        "product bottle"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "premium",
+          "glamorous"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "fast-paced editing",
+          "bright lighting",
+          "transformation sequence",
+          "upbeat music"
+        ]
+      },
+      "why_kept": "The entire video is kept as one continuous segment because it comprehensively showcases the core value: a complete makeup and hair transformation. It seamlessly integrates the 'Process/Labor' of applying makeup and styling hair with the 'Reveal/Result' of the stunning final look. The video also includes 'Product Interaction' at the end, and the continuous, engaging flow from start to finish leaves no trimmable 'setup' or 'post-action dead air' according to the 'No-Mistake Rule'."
+    }
+  ]
+}

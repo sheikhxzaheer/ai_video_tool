@@ -1,0 +1,168 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_DamarisIovescu_poductapplication.mp4",
+  "detailed_description": "This video showcases a woman's night skincare routine featuring two Korean beauty products: a collagen niacinamide jelly cream and a collagen night wrapping mask. The semantic core highlights the aesthetic presentation and texture of the jelly cream, the preparation for a skincare regimen, and the unique application and peel-off mechanism of the wrapping mask. It focuses on direct product interaction and the visual demonstration of how the products are used.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "holding products",
+        "pink packaging"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This segment serves as the initial hook, introducing the user and the two main products central to the video's content."
+    },
+    {
+      "start_time": "00:00.900",
+      "end_time": "00:03.400",
+      "structural_tags": [
+        "Product_Standalone",
+        "Macro_Detail",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "jelly cream",
+        "pink jar",
+        "opening lid",
+        "gel texture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "product focus",
+          "macro detail",
+          "texture emphasis"
+        ]
+      },
+      "why_kept": "This segment provides a detailed look at the first product, showcasing its packaging, the act of opening it, and the unique jelly texture, which is a key visual feature."
+    },
+    {
+      "start_time": "00:03.400",
+      "end_time": "00:03.900",
+      "structural_tags": [
+        "Night_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "blue headband",
+        "skincare preparation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "routine prep",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This brief moment sets the context for a personal skincare routine, indicating preparation for product application, specifically for a night routine as suggested by the product name."
+    },
+    {
+      "start_time": "00:03.900",
+      "end_time": "00:05.800",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "woman",
+        "night wrapping mask",
+        "applying mask",
+        "facial application"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "product application"
+        ]
+      },
+      "why_kept": "This segment introduces the second product and directly demonstrates its application, highlighting the primary use of the night wrapping mask."
+    },
+    {
+      "start_time": "00:05.800",
+      "end_time": "00:06.900",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "peeling mask",
+        "translucent film",
+        "skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear film",
+          "skin transformation",
+          "detailed process"
+        ]
+      },
+      "why_kept": "This segment is a crucial 'reveal' moment, showcasing the unique 'wrapping' and peel-off function of the mask, demonstrating the product's intended action and result."
+    }
+  ]
+}

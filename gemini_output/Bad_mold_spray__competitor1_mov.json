@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad mold spray\\competitor1.mov",
+  "detailed_description": "This video segment immediately establishes a problem state regarding common household cleaning products. It begins with a close-up on a bleach bottle's warning label, highlighting its irritant properties. This is followed by a shot of a woman making a thumbs-down gesture, surrounded by three cleaning products, including bleach, visually emphasizing the sentiment that these products, particularly bleach, are harsh for health. The segment functions as a direct visual hook and problem introduction.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Intro",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "bleach bottle",
+        "warning label",
+        "cleaning products",
+        "woman",
+        "thumbs down gesture",
+        "method cleaner",
+        "vindex cleaner"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "concerned"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "static shot",
+          "medium shot"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the semantic core because it immediately presents the video's main point: bleach is harsh and problematic. It combines a direct visual of the product's warning label (key information, product interaction) with a clear human emotional reaction (thumbs down) reinforcing the 'problem state' and introducing the main products discussed. No setup or dead air is present."
+    }
+  ]
+}

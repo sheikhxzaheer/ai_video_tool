@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20251211_134830406.mp4",
+  "detailed_description": "The video provides a direct visual introduction to the 'PERFECT MORNING TANGERINE PULSE' product. A person's hand firmly holds two pouches of the metabolic activator and nutrient charger, presenting them clearly to the viewer. The backdrop of a modern kitchen suggests the product's seamless integration into a daily routine, likely a morning one. This segment effectively showcases the product's packaging and quantity, emphasizing a personal interaction with the item.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.672",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Macro_Detail",
+        "Home_Kitchen",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "hand",
+        "pouches",
+        "PERFECT MORNING TANGERINE PULSE",
+        "metabolic activators",
+        "nutrient charger",
+        "kitchen counter",
+        "oven"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "informational"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean aesthetic",
+          "product-focused"
+        ]
+      },
+      "why_kept": "This entire segment is the Semantic Core as it perfectly captures the 'Product Interaction' hero moment. The video directly presents the product, with a hand holding two pouches, making the product the central focus. The text on the pouches is legible, providing key information. There is no setup, post-action dead air, or extraneous content to trim, adhering to the 'No-Mistake Rule'."
+    }
+  ]
+}

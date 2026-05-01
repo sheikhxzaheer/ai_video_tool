@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid+parents\\ssstik.io_@clizia_incorvaia_1763809052942.mp4",
+  "detailed_description": "A heartwarming video captures the tender and playful interactions between a mother and her young son. The two are seen lying comfortably on a couch, sharing multiple affectionate kisses and cuddles. Their loving bond is evident through their joyful expressions and gentle gestures, showcasing a sweet moment of familial warmth and deep connection. The child frequently leans in to kiss his mother, and they engage in soft, playful exchanges throughout the scene.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:23.953",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "mother",
+        "child",
+        "kissing",
+        "cuddling",
+        "sofa",
+        "affectionate gestures"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "warm lighting",
+          "natural interaction",
+          "authentic"
+        ]
+      },
+      "why_kept": "This entire segment represents the core value of the video: the continuous, affectionate interaction and emotional bond between a mother and her child. It clearly demonstrates 'Human Interaction' and 'Positive Emotion' through repeated kisses, cuddles, and joyful facial expressions. There are no setup or post-action 'dead air' frames, meaning the action begins at the start and ends at the conclusion of the video, adhering to the 'NO-MISTAKE' rule."
+    }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Traveling\\ssstik.io_@danielllestrada_1762252200143.mp4",
+  "detailed_description": "This video provides a behind-the-scenes look into the life of a professional makeup artist during a weekend work trip to West Palm Beach, Florida. It showcases her travel, early morning setup, multiple makeup application processes for a fashion photoshoot, and the final styled looks of the models. The video also captures moments of leisure, including dining, exploring the vibrant city, and enjoying the beautiful beach, before concluding with her departure via private jet, highlighting the dynamic nature of her work and travel.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.169",
+      "structural_tags": [
+        "Visual_Hook",
+        "Travel_Transit",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "mask",
+        "airport",
+        "suitcase",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "airport"
+        ],
+        "mood": [
+          "energetic",
+          "anticipatory"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "smooth movement",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "Serves as the initial visual hook and sets the context for the video, introducing the 'life as a professional makeup artist' theme and the travel aspect."
+    },
+    {
+      "start_time": "00:13.689",
+      "end_time": "00:20.122",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Workspace_Office",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "makeup kit",
+        "lighting setup",
+        "hotel room",
+        "TV screen"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "hotel room"
+        ],
+        "mood": [
+          "calm",
+          "focused"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "practical setup"
+        ]
+      },
+      "why_kept": "Demonstrates the essential preparation and setup phase of a makeup artist's work, showing the tools and environment for the job."
+    },
+    {
+      "start_time": "00:20.916",
+      "end_time": "00:22.427",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "makeup application",
+        "eyeshadow brush",
+        "client",
+        "makeup artist"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hotel room"
+        ],
+        "mood": [
+          "focused",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "natural colors"
+        ]
+      },
+      "why_kept": "Shows the direct application of makeup, illustrating the core skill and effort of a professional makeup artist."
+    },
+    {
+      "start_time": "00:22.842",
+      "end_time": "00:26.398",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "yellow dress",
+        "energy shot",
+        "drinking",
+        "smile"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hotel room"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright colors",
+          "candid moment"
+        ]
+      },
+      "why_kept": "Highlights product interaction with an energy shot, signaling the demanding schedule and need for energy during early morning work."
+    },
+    {
+      "start_time": "00:26.966",
+      "end_time": "00:28.529",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "makeup application",
+        "lip liner",
+        "client",
+        "makeup artist"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hotel room"
+        ],
+        "mood": [
+          "focused",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "detailed work"
+        ]
+      },
+      "why_kept": "Further demonstrates the meticulous process of makeup application, showcasing another aspect of the artist's skill."
+    },
+    {
+      "start_time": "00:31.066",
+      "end_time": "00:32.260",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "sunglasses",
+        "smile",
+        "palm trees",
+        "street",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "positive",
+          "happy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "sunny day",
+          "dynamic shot"
+        ]
+      },
+      "why_kept": "Captures a clear positive emotional reaction from the makeup artist, expressing satisfaction with her work location, which is a key emotional highlight."
+    },
+    {
+      "start_time": "00:38.835",
+      "end_time": "00:41.042",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "makeup application",
+        "bronzer brush",
+        "client",
+        "makeup artist"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "focused",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the core 'Process/Labor' of a makeup artist in a professional, outdoor setting, making it the strongest visual representation of the video's theme."
+    },
+    {
+      "start_time": "00:45.748",
+      "end_time": "00:46.604",
+      "structural_tags": [
+        "Result_Transformation",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "models",
+        "floral outfits",
+        "posing",
+        "photoshoot"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "aesthetic",
+          "fashionable"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright colors",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "Showcases the successful outcome of the makeup artist's work combined with the styled outfits, presenting the 'Result_Transformation' of the photoshoot."
+    },
+    {
+      "start_time": "00:46.852",
+      "end_time": "00:47.850",
+      "structural_tags": [
+        "Result_Transformation",
+        "Lifestyle_Active",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "model",
+        "floral dress",
+        "walking",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "joyful",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "vibrant colors",
+          "dynamic motion"
+        ]
+      },
+      "why_kept": "Presents one of the final styled looks in motion, demonstrating the aesthetic appeal and 'Result_Transformation' of the collaboration."
+    },
+    {
+      "start_time": "00:47.850",
+      "end_time": "00:50.089",
+      "structural_tags": [
+        "Result_Transformation",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "model",
+        "floral dress",
+        "running",
+        "street",
+        "palm trees"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "playful",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright daylight",
+          "energetic motion"
+        ]
+      },
+      "why_kept": "Highlights another dynamic 'Result_Transformation' of the photoshoot, emphasizing the vibrant and stylish outfits in the picturesque setting."
+    },
+    {
+      "start_time": "00:50.710",
+      "end_time": "00:52.289",
+      "structural_tags": [
+        "Result_Transformation",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "model",
+        "pink dress",
+        "Tory Burch store",
+        "walking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "fashionable",
+          "elegant"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean architecture",
+          "street photography"
+        ]
+      },
+      "why_kept": "Showcases a final styled look in a high-end fashion environment, reinforcing the 'Result_Transformation' and brand association."
+    },
+    {
+      "start_time": "01:16.890",
+      "end_time": "01:18.069",
+      "structural_tags": [
+        "Product_Interaction",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "hands",
+        "Starbucks cups",
+        "iced coffee"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "casual",
+          "refreshing"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "recognizable brand"
+        ]
+      },
+      "why_kept": "Demonstrates a common 'Product_Interaction' that often accompanies busy professional schedules, providing relatable social proof."
+    },
+    {
+      "start_time": "01:21.848",
+      "end_time": "01:24.475",
+      "structural_tags": [
+        "Result_Transformation",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "models",
+        "activewear",
+        "beach",
+        "posing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "ocean",
+          "nature"
+        ],
+        "mood": [
+          "healthy",
+          "energetic",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "beach setting"
+        ]
+      },
+      "why_kept": "Presents the 'Result_Transformation' of the activewear photoshoot, highlighting the fitness aesthetic in a beautiful outdoor environment."
+    },
+    {
+      "start_time": "01:26.540",
+      "end_time": "01:28.094",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "photographer",
+        "models",
+        "activewear",
+        "photoshoot setup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "busy",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "daylight",
+          "candid shot"
+        ]
+      },
+      "why_kept": "Offers a glimpse into the 'Process_Labor' and 'Behind_The_Scenes' of a professional photoshoot, showcasing the broader context of the makeup artist's work."
+    },
+    {
+      "start_time": "01:37.804",
+      "end_time": "01:39.141",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "woman",
+        "private jet",
+        "branded cup",
+        "drinking",
+        "smile"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "premium",
+          "relaxed"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "luxury setting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "Concludes the travel aspect with a high-end 'Product_Interaction' in a private jet, conveying a sense of luxury and satisfaction with her professional lifestyle."
+    }
+  ]
+}

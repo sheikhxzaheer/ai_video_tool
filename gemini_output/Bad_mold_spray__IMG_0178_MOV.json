@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad mold spray\\IMG_0178.MOV",
+  "detailed_description": "This video provides a concise demonstration of a practical two-tier pull-out trash and recycling bin system integrated seamlessly into a modern kitchen cabinet. A hand effortlessly opens the cabinet, revealing separate compartments for waste, highlighting an efficient and discreet solution for home waste management. The visual showcases the functional mechanism and the capacity of the bins, indicating practical daily use within a kitchen setting.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:02.169",
+      "structural_tags": [
+        "Visual_Hook",
+        "Home_Kitchen",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "pull-out trash bin",
+        "recycling system",
+        "kitchen cabinet",
+        "trash bags",
+        "cleaning product bottle",
+        "hand"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "functional",
+          "clean"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "smooth motion",
+          "product-focused"
+        ]
+      },
+      "why_kept": "This entire segment perfectly captures the core functionality and utility of the two-tier pull-out trash and recycling system, from the initial pull-out action revealing both bins to the final closing. It fully demonstrates the product's mechanism and benefit without any setup or post-action dead air, adhering to the 'No-Mistake' rule."
+    }
+  ]
+}

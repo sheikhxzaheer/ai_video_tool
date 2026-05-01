@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_16.mp4",
+  "detailed_description": "This video features a close-up shot of a hand pressing into a plush, white pillow, demonstrating its softness and quality. The action highlights the comfortable and 'next-level' feel of the product, showcasing a direct user interaction that conveys the pillow's key attribute. The visual emphasizes the tactile experience of using the pillow, making it appealing for rest and relaxation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.046",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Product_Standalone",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "hand",
+        "pressing",
+        "white pillow",
+        "plush",
+        "softness"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "tactile focus"
+        ]
+      },
+      "why_kept": "This segment is kept as it directly demonstrates the core value proposition of the product – the softness and quality of the pillow – through clear product interaction. The hand pressing into the pillow is a direct 'Product Interaction' hero moment, visually conveying the comfort and texture."
+    }
+  ]
+}

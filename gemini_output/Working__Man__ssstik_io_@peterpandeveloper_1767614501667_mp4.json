@@ -1,0 +1,186 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Man\\ssstik.io_@peterpandeveloper_1767614501667.mp4",
+  "detailed_description": "This video captures a mobile developer's routine, showcasing the effortless setup of a full coding workstation in a cafe. It demonstrates the portability and ease of assembly of a lightweight external monitor, transforming a standard laptop into an efficient dual-screen setup. The core message emphasizes maintaining high productivity and a complete development environment, even when working remotely outside a traditional office. The sequence highlights product interaction, the process of setting up, and the ultimate benefit of a versatile mobile workspace.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Travel_Transit",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "charger",
+        "laptop",
+        "backpack",
+        "man walking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "POV shot"
+        ]
+      },
+      "why_kept": "This segment establishes the initial state of mobility, showing the user packing their essential tech and starting their journey, setting the context for remote work."
+    },
+    {
+      "start_time": "00:05.700",
+      "end_time": "00:12.300",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "cafe door",
+        "coffee",
+        "pastry",
+        "laptop",
+        "wooden table"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "cafe ambience"
+        ]
+      },
+      "why_kept": "This segment transitions to the cafe setting, a typical remote work environment, and shows the initial setup of the laptop and getting a drink, indicating the start of the workday."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:17.300",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "portable monitor",
+        "monitor stand",
+        "laptop",
+        "cables",
+        "hands setting up"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "instructional"
+        ]
+      },
+      "why_kept": "This is the primary hero moment, demonstrating the core value proposition: the easy and quick setup of the portable monitor. It highlights the product's design and functionality as a key enabler for a mobile workstation."
+    },
+    {
+      "start_time": "00:17.300",
+      "end_time": "00:21.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation",
+        "Product_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "typing",
+        "laptop screen",
+        "code",
+        "portable monitor screen"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "productive atmosphere",
+          "coding view"
+        ]
+      },
+      "why_kept": "This segment immediately showcases the benefit of the portable monitor in action, demonstrating the user actively coding with the extended screen real estate, emphasizing enhanced productivity."
+    },
+    {
+      "start_time": "00:22.000",
+      "end_time": "00:31.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Workspace_Office",
+        "Result_Transformation",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "mouse",
+        "mouse pad",
+        "coffee",
+        "coaster",
+        "laptop",
+        "portable monitor",
+        "hands working"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "productive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "organized setup",
+          "full workstation view",
+          "smooth camera movement"
+        ]
+      },
+      "why_kept": "This segment completes the picture of a fully functional mobile workstation, including peripherals like a mouse and showing the user in a comfortable and productive work state, reinforcing the 'work from anywhere' value."
+    }
+  ]
+}

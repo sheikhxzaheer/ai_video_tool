@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mom+daughter\\ssstik.io_@shopkristinamarie_1763980219139.mp4",
+  "detailed_description": "The video humorously depicts the often-relatable dynamic between a mother and her teenage daughter. It opens with the mother affectionately approaching her daughter in a kitchen, initiating a spontaneous hug by lifting her off the ground. The daughter's initial tolerance for the embrace gradually gives way to an expression of exasperation as the hug continues. A voiceover dialogue adds to the comedic effect, with the daughter asking to be let go and the mother playfully insisting the 'hug hasn't kicked in yet,' perfectly capturing the parental tendency for persistent affection despite a teenager's reluctance.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.110",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Negative_Emotion",
+        "High_Energy",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "mother",
+        "daughter",
+        "hugging",
+        "kitchen",
+        "white cabinets",
+        "stainless steel appliances",
+        "wooden floor",
+        "playful interaction"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright kitchen",
+          "casual home video style",
+          "natural light"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, showcasing the complete comedic interaction from the mother's initiation of the hug to the daughter's evolving facial expression and the punchline dialogue. Trimming any part would diminish the narrative and humor of the scene."
+    }
+  ]
+}

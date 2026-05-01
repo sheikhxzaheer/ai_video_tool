@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_TaylorLowe_poductapplication.mp4",
+  "detailed_description": "This video captures a user's attempt to achieve 'glass skin' overnight using a two-step AIUIA Korean Beauty collagen mask routine. It demonstrates the application of a collagen jelly cream, highlighting its benefits for brightness and redness, followed by a collagen wrapping mask designed to lock in moisture and firm the skin. The video concludes with the user peeling off the wrapping mask and showcasing the immediate results of softer, smoother skin, confirming the product's effectiveness.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:22.080",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "UGC_Talking_Head",
+        "Night_Routine",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "collagen masks",
+        "jelly cream",
+        "wrapping mask",
+        "face application",
+        "peeling mask",
+        "smooth skin",
+        "skincare routine",
+        "mask applicator",
+        "pink products"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear skin",
+          "natural lighting",
+          "soft focus"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the semantic core because it demonstrates the full process of using the products, from introduction and application to the peeling and reveal of the immediate results. The narration directly explains the product's benefits and user experience, making every frame essential to understanding the value proposition and action. It perfectly adheres to the 'no-mistake' rule as it starts with the product introduction and ends with the final satisfied reaction, without unnecessary setup or dead air."
+    }
+  ]
+}

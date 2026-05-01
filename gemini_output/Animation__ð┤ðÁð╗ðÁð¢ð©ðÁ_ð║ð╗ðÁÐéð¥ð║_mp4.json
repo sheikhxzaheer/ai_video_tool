@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\ð┤ðÁð╗ðÁð¢ð©ðÁ ð║ð╗ðÁÐéð¥ð║.mp4",
+  "detailed_description": "This video provides a visually captivating, abstract representation of cellular activity or growth at a microscopic level. Translucent, glowing pink and purple spheres, resembling cells, are shown in a dynamic process, possibly undergoing division or interaction. The intricate movements and subtle changes in shape illustrate a continuous biological process, emphasizing the microscopic world's constant flux. The ethereal lighting and floating particles enhance the sense of a 'cellular deep dive.'",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Macro_Detail",
+        "Cellular_Deep_Dive",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "cells",
+        "cellular activity",
+        "microscopic view",
+        "pink spheres",
+        "glowing structures",
+        "biological process"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "clinical",
+          "ethereal"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "glowing",
+          "translucent",
+          "soft focus",
+          "floating particles",
+          "biological simulation"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it visually demonstrates the 'Process/Labor' hero moment, showcasing the dynamic and abstract activity of cell-like structures. There are no 'Setup & Calibration' or 'Post-Action Dead Air' frames, making the full duration essential to conveying the continuous microscopic process."
+    }
+  ]
+}

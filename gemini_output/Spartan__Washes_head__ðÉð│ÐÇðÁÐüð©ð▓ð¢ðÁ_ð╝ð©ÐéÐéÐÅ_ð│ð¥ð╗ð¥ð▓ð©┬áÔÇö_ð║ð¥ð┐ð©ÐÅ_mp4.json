@@ -1,0 +1,93 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Washes head\\ðÉð│ÐÇðÁÐüð©ð▓ð¢ðÁ ð╝ð©ÐéÐéÐÅ ð│ð¥ð╗ð¥ð▓ð©┬áÔÇö ð║ð¥ð┐ð©ÐÅ.mp4",
+  "detailed_description": "The video humorously illustrates a comparison between two distinct hair washing styles, attributed to 'girls' and 'boys.' The first segment depicts a gentle, soothing hair wash with the recipient smiling and relaxed, indicating a pleasant experience. In contrast, the second segment showcases a vigorous, almost aggressive scrubbing technique, resulting in the person's face being covered in shampoo foam, highlighting a stark difference in approach. This video's core meaning lies in the exaggerated yet relatable portrayal of these contrasting hair care processes and the associated reactions.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Process_Labor",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "man",
+        "sink",
+        "hair wash",
+        "shampoo",
+        "gentle massage",
+        "smiling",
+        "hands",
+        "water",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment is kept as a primary 'Hero Moment' because it demonstrates the first style of hair washing ('by Girls') which is gentle and elicits a positive, relaxed emotional response from the person receiving the wash. The 'Process_Labor' of shampooing and the 'Face_Reaction' are clearly visible, setting up the video's core comparative premise."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Process_Labor",
+        "Human_Interaction",
+        "Face_Reaction",
+        "High_Energy",
+        "Messy_Unorganized",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "man",
+        "sink",
+        "hair wash",
+        "shampoo",
+        "vigorous scrub",
+        "foam",
+        "hands",
+        "water",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "rugged"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "side angle shot",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment serves as the contrasting 'Hero Moment,' showcasing the second, more vigorous hair washing style ('by Boys'). It completes the humorous comparison by illustrating an 'energetic' and 'messy' approach to the 'Process_Labor,' directly contrasting the calmness of the previous segment and vital for understanding the video's full message."
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Douxds product\\ð©Ðüð┐ð¥ð╗ÐîðÀÐâðÁÐé ð┐ÐÇð¥ð┤Ðâð║Ðé 34.mp4",
+  "detailed_description": "This video demonstrates a simple yet effective skincare routine for men using Douxds products. It highlights the use of the Douxds Flex Brush for cleansing, showing how to apply the solution and scrub the face, followed by rinsing. The routine concludes with the application of Douxds Prime moisturizer to keep the skin hydrated and nourished. The presenter emphasizes maintaining clear skin through a consistent routine, showcasing the practical steps and the positive results.",
+  "segments": [
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:02.800",
+      "structural_tags": [
+        "Product_Standalone",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "skincare products",
+        "cleansing brush",
+        "bottles",
+        "bathroom counter"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "product focus"
+        ]
+      },
+      "why_kept": "This segment introduces the key products used in the routine, serving as a visual hook."
+    },
+    {
+      "start_time": "00:04.300",
+      "end_time": "00:09.600",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "hand",
+        "faucet",
+        "running water",
+        "cleansing brush",
+        "cleanser bottle",
+        "applying product"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "practical demonstration",
+          "clear action"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial steps of the cleansing process, including preparing the brush and applying the cleanser, while integrating spoken information about its purpose, adhering to the 'Product Interaction' and 'Key Information' criteria."
+    },
+    {
+      "start_time": "00:09.600",
+      "end_time": "00:11.200",
+      "structural_tags": [
+        "Macro_Detail",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "cleansing brush",
+        "cleanser drops",
+        "product texture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed view",
+          "product focus"
+        ]
+      },
+      "why_kept": "Provides a close-up detail of the cleanser applied to the brush, emphasizing the product interaction."
+    },
+    {
+      "start_time": "00:11.200",
+      "end_time": "00:13.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "face",
+        "cleansing brush",
+        "scrubbing action"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct application",
+          "demonstration"
+        ]
+      },
+      "why_kept": "This segment clearly shows the primary action of using the Douxds Flex Brush on the face, demonstrating the 'Process/Labor' and 'Product Interaction'."
+    },
+    {
+      "start_time": "00:13.500",
+      "end_time": "00:18.900",
+      "structural_tags": [
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "man",
+        "face",
+        "rinsing",
+        "running water",
+        "towel",
+        "drying"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "sequential action",
+          "routine step"
+        ]
+      },
+      "why_kept": "This segment concludes the cleansing portion of the routine by showing the rinsing and drying of the face."
+    },
+    {
+      "start_time": "00:18.900",
+      "end_time": "00:28.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Process_Labor",
+        "Human_Interaction",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "man",
+        "moisturizer bottle",
+        "applying cream",
+        "face",
+        "neck",
+        "massaging"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "nourishing"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "post-cleansing",
+          "skin nourishment"
+        ]
+      },
+      "why_kept": "This segment demonstrates the application of the moisturizer, integrating spoken benefits and emphasizing the importance of consistency, fulfilling 'Product Interaction' and 'Key Information' criteria."
+    },
+    {
+      "start_time": "00:28.400",
+      "end_time": "00:30.900",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "mirror reflection",
+        "clear skin",
+        "satisfied expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "positive",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "post-routine glow",
+          "self-reflection"
+        ]
+      },
+      "why_kept": "This segment acts as a 'Result/Reveal' moment, showing the man admiring his skin, implying the positive outcome of the routine and conveying satisfaction."
+    }
+  ]
+}

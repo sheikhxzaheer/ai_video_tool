@@ -1,0 +1,150 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melazma\\ð┤ð¥ ð▓ ð¢ð░Ðçð░ð╗ðÁ ð┐ð¥Ðüð╗ðÁ ð▓ ð║ð¥ð¢ÐåðÁ ð┐ÐÅÐéð¢ð░ ð¢ð░ ÐëðÁð║ðÁ.mp4",
+  "detailed_description": "This video effectively showcases a skincare transformation journey. It begins with a close-up of a person displaying acne, highlighting a 'problem state' and an implied challenge to their skincare routine. It then swiftly transitions to demonstrate the preparation and application of a green-colored skincare product. The video culminates in a 'result transformation,' revealing the same individual with clear, radiant skin, confidently affirming the success of their skincare regimen.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.333",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "acne",
+        "facial skin",
+        "ear piercing",
+        "necklace",
+        "green shirt",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "soft focus"
+        ]
+      },
+      "why_kept": "This segment serves as the compelling visual hook, immediately establishing the 'problem state' and setting up the narrative of skepticism and the need for effective skincare."
+    },
+    {
+      "start_time": "00:01.333",
+      "end_time": "00:02.166",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "green powder",
+        "bottle",
+        "clear cup",
+        "liquid",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "bright light"
+        ]
+      },
+      "why_kept": "This segment demonstrates the 'process' or 'labor' involved in preparing the skincare product, showcasing product interaction and the mechanism of action."
+    },
+    {
+      "start_time": "00:02.166",
+      "end_time": "00:03.133",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "green paste",
+        "spatula",
+        "face",
+        "cheek",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "bright light"
+        ]
+      },
+      "why_kept": "This segment further illustrates the 'process' of applying the skincare product, detailing the practical 'labor' and interaction with the product."
+    },
+    {
+      "start_time": "00:03.133",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Social_Proof",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "clear skin",
+        "glowing skin",
+        "denim jacket",
+        "car interior",
+        "sunlight",
+        "text overlay",
+        "OK emoji"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "confident",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "golden hour lighting",
+          "radiant skin",
+          "slicked-back hair"
+        ]
+      },
+      "why_kept": "This is the ultimate 'reveal' and 'result transformation' segment, showcasing the success of the skincare with clear, glowing skin and a positive, confident reaction, providing strong social proof."
+    }
+  ]
+}

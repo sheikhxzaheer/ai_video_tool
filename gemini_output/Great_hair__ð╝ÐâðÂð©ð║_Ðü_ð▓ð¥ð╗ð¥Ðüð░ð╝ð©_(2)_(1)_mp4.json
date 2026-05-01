@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ð╝ÐâðÂð©ð║ Ðü ð▓ð¥ð╗ð¥Ðüð░ð╝ð© (2) (1).mp4",
+  "detailed_description": "The video showcases a quick and simple transformation of curly hair. A person, viewed from behind, demonstrates how to easily change their tightly coiled curls into a looser, wavier style by running their hands through their hair. The video repeatedly shows the 'before' (very curly) and 'after' (wavy) states, highlighting the immediate visual change achievable through manual styling. It serves as a visual guide or demonstration of hair texture manipulation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "curly hair",
+        "wavy hair",
+        "hair styling",
+        "hands",
+        "hair transformation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "concrete ceiling",
+          "casual wear",
+          "back shot"
+        ]
+      },
+      "why_kept": "The entire video is dedicated to demonstrating the 'Semantic Core' – the process of styling curly hair to achieve a wavier look and then reverting it, showcasing a clear before-and-after transformation through manual action. Trimming any part would remove essential context or the repetitive nature of the demonstration."
+    }
+  ]
+}

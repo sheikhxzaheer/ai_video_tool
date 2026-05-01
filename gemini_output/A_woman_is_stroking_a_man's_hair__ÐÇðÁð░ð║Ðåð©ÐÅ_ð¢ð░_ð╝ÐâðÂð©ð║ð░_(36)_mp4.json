@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\A woman is stroking a man's hair\\ÐÇðÁð░ð║Ðåð©ÐÅ ð¢ð░ ð╝ÐâðÂð©ð║ð░ (36).mp4",
+  "detailed_description": "The video captures a continuous walk through a modern shopping mall from a dynamic, behind-the-subject perspective. It focuses on the individual's journey, highlighting their distinct personal style with an all-white outfit and visible tattoos, as they navigate the bustling commercial environment. The clip conveys a sense of casual exploration or daily activity within a vibrant public space, encountering various other shoppers and store fronts.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:26.500",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "person walking",
+        "shopping mall",
+        "white outfit",
+        "tattoos",
+        "other shoppers",
+        "storefronts",
+        "escalators"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera movement",
+          "natural lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment captures the entire, continuous action of walking through a shopping mall, showcasing the individual's personal style and the vibrant public environment. It represents the core visual narrative of the video as there is no specific product demonstration, transformation, or explicit emotional climax from a single moment."
+    }
+  ]
+}

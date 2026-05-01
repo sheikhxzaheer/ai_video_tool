@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ð╝ÐâðÂð©ð║ Ðü ð║ÐÇð░Ðüð©ð▓Ðïð╝ð© ð▓ð¥ð╗ð¥Ðüð░ð╝ð© (1).mp4",
+  "detailed_description": "The video features a handsome man on a boat, smiling gently and making direct eye contact with the camera. He is shown in a light-colored sleeveless top, and briefly shirtless and wet, suggesting he has been in the water. The background reveals a serene lake with distant mountains, buildings, and other boats, indicative of a pleasant, active, and relaxed outdoor lifestyle. The clip serves as a visual presentation of the individual in a desirable, calm, and approachable setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.918",
+      "structural_tags": [
+        "Visual_Hook",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "man",
+        "boat",
+        "lake",
+        "mountains",
+        "water",
+        "smiling",
+        "direct eye contact",
+        "sleeveless top",
+        "wet body"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "nature",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "sunny",
+          "clear sky",
+          "cinematic",
+          "clean"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the semantic core because it consistently showcases the individual in a desirable lifestyle context. There are no discernible setup/calibration moments or post-action dead air. The slight variations in shots, including a brief moment showing him shirtless and wet, contribute to the overall presentation of his active and relaxed persona on the water, fulfilling the 'No-Mistake Rule' by keeping the full duration as the core action of presenting the subject."
+    }
+  ]
+}

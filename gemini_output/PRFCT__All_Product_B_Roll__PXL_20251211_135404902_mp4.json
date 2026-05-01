@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20251211_135404902.mp4",
+  "detailed_description": "The video features a person holding two pouches of 'PERFECT MORNING TANGERINE PULSE' against an urban backdrop of apartment buildings. The focus is on showcasing the product's packaging and branding, with hands presenting the identical items to the camera. The interaction primarily involves holding and displaying the pouches, highlighting their design and the 'Tangerine Pulse' flavor.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.333",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hands",
+        "product pouches",
+        "Tangerine Pulse",
+        "Perfect Morning",
+        "urban buildings",
+        "balcony railing",
+        "greenery"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "urban backdrop",
+          "clear product display"
+        ]
+      },
+      "why_kept": "This entire segment serves as the 'Hero Moment' by continuously and directly showcasing two units of the product. The hands holding the pouches fulfill the 'Product Interaction' criteria, introducing the product and allowing for a clear view of its branding and key information. There is no significant setup, calibration, or post-action dead air to trim."
+    }
+  ]
+}

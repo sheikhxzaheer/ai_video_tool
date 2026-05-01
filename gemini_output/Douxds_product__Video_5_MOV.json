@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Douxds product\\Video_5.MOV",
+  "detailed_description": "The video features a man demonstrating his facial cleansing routine. He begins by applying a white cream cleanser to his face using his hands, ensuring full coverage. Subsequently, he utilizes a black, handheld electronic facial cleansing device, systematically massaging the product into his skin across various areas of his face including his cheeks, jawline, and forehead. The demonstration focuses on the practical application and interaction with the skincare products and device, showcasing the continuous process of achieving a clean complexion.",
+  "segments": [
+    {
+      "start_time": "00:00.600",
+      "end_time": "00:48.800",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Morning_Routine",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "man",
+        "facial cleanser",
+        "cream",
+        "electronic facial cleansing device",
+        "massaging face",
+        "skincare routine",
+        "bathroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct gaze",
+          "focused action",
+          "clean background",
+          "vertical video"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it comprehensively demonstrates the 'Process/Labor' of a facial cleansing routine and 'Product Interaction' with both the cream cleanser and the electronic facial device. It fulfills the criteria for showing professional action and product usage, capturing the entire valuable sequence of the skincare application."
+    }
+  ]
+}

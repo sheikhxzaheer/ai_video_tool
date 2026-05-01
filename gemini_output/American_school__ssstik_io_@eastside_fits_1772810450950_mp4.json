@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\American school\\ssstik.io_@eastside_fits_1772810450950.mp4",
+  "detailed_description": "This video captures a series of casual, positive interactions with groups of young people on a vibrant city street. Each segment features individuals or small groups posing briefly for the camera, often giving a thumbs-up gesture, before turning and continuing their walk. The overall mood is energetic and spontaneous, highlighting everyday street life and youthful camaraderie.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.458",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "young people",
+        "street",
+        "walking",
+        "posing",
+        "thumbs up",
+        "sidewalk",
+        "buildings",
+        "trees",
+        "casual attire",
+        "backpacks"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "daylight",
+          "casual street style",
+          "quick cuts"
+        ]
+      },
+      "why_kept": "The entire video constitutes the semantic core as it consistently demonstrates the primary action: casual, positive street interactions where individuals or groups acknowledge the camera with a pose and thumbs-up before moving on. There are no significant setup frames, post-action dead air, or elements that deviate from this core repeated interaction, adhering to the 'no-mistake' rule."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Man\\ssstik.io_1748419891853.mp4",
+  "detailed_description": "A plastic surgeon explains the origin and philosophy behind his brand, 'Angry Doctor.' He expresses quiet fury over how the cosmetics industry has hijacked skin health with complex, expensive 6 and 10-step programs. He argues these programs deny ordinary, well-meaning individuals access to understandable, effective skincare. He emphasizes the importance of skin health products that work at a cellular level, highlighting that his brand provides essential high-quality skincare and sun protection. His goal is to make full, high-quality skincare accessible from a young age for maximum lifetime benefit, contrasting it with the convoluted and unaffordable options offered by the cosmetic industry.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "01:06.590",
+      "structural_tags": [
+        "Key_Information",
+        "Talking_Head",
+        "Problem_State",
+        "Product_Intro",
+        "Negative_Emotion",
+        "Product_Standalone",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "man",
+        "doctor",
+        "scrubs",
+        "blue scrub cap",
+        "eyeglasses",
+        "skincare bottles",
+        "Young Night",
+        "Morning Night",
+        "table",
+        "window",
+        "blinds"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "clinical",
+          "determined"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "clean aesthetic",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it directly addresses the video's central question: 'So, why \"Angry\" Doctor?'. The speaker, a plastic surgeon, clearly explains his motivation, the problem he's addressing (cosmetic industry hijacking skin health), and introduces his products as the solution. His explicit mention of being 'angry' and 'furious' ties directly into the brand name, providing the emotional climax and key information. The products are visibly present throughout his explanation, linking his philosophy directly to his offerings."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLife_working\\Scene 21_completely transformed_ take 1.MOV",
+  "detailed_description": "This video captures an adorable small dog with tan fur and expressive eyes, wearing a vibrant purple collar with a yellow striped attachment. The dog, named Murphy, as indicated by its prominent red bone-shaped tag, is seen looking around before making direct and engaging eye contact with the camera. The footage highlights Murphy's charming demeanor and clearly displays its personalized accessories in a warm, indoor home setting. The entire clip serves as a delightful showcase of the pet.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.288",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Standalone",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "dog",
+        "tan fur",
+        "purple collar",
+        "yellow striped leash attachment",
+        "red bone tag",
+        "MURPHY",
+        "silver tag",
+        "patterned rug",
+        "wooden floor",
+        "looking at camera",
+        "eye contact"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "pet portrait",
+          "cute"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, showcasing the dog (Murphy) making eye contact with the camera, which is an emotional climax. It clearly displays the personalized collar and tags, making the 'product interaction' and 'reveal' elements central. There is no setup, dead air, or mistakes, so the full duration is kept as per the 'No-Mistake' rule."
+    }
+  ]
+}

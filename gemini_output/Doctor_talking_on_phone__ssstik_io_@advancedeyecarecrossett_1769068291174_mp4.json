@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor talking on phone\\ssstik.io_@advancedeyecarecrossett_1769068291174.mp4",
+  "detailed_description": "The video humorously depicts a doctor left alone with office phones, pretending to be clueless when answering calls. He lies across a reception desk, holding a landline phone to his ear, with a confused yet playful expression, while a comedic audio clip plays repetitive phrases of \"I don't know\" and \"I don't even know what that means.\" The scene captures a relatable office scenario where non-front-desk staff struggle with phone duties, presented in a lighthearted, meme-like fashion, highlighting the doctor's comical inability to handle phone queries.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.820",
+      "structural_tags": [
+        "Visual_Hook",
+        "Workspace_Office",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Confusion_Doubt",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "doctor",
+        "desk",
+        "phone",
+        "office",
+        "lying down",
+        "talking",
+        "clocks",
+        "cabinets"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "playful",
+          "humorous",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "static shot",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it presents the complete humorous scenario, including the visual action of the doctor lying on the desk, his facial expressions, interaction with the phone, and the accompanying comedic audio and text overlay that delivers the main joke. There are no trimmable parts as the action starts and ends within the given duration without any setup or dead air."
+    }
+  ]
+}

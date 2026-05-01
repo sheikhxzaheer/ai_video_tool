@@ -1,0 +1,55 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Acne Before_After\\ssstik.io_@luvleykat13_1768734429764.mp4",
+  "detailed_description": "This video showcases a comprehensive before-and-after transformation using a specific skincare product. It begins by highlighting a severe acne problem, then demonstrates the daily application of the cream over seven days, visually illustrating the gradual reduction in redness and acne. The climax reveals clear, balanced skin, followed by the explicit introduction of the 'Dr Althea 345 Relief Cream' as the solution. The video effectively communicates the product's benefits and efficacy through a visual timeline.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:16.480",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Before_After",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "acne",
+        "redness",
+        "skin",
+        "cream",
+        "applying cream",
+        "product tube",
+        "clear skin",
+        "smiling",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "hopeful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "time-lapse effect",
+          "text overlay"
+        ]
+      },
+      "why_kept": "This entire video segment serves as the complete narrative, starting with the problem (acne), showcasing the daily application and gradual transformation over a week, culminating in a clear skin reveal, and finally presenting the product responsible for the change. It effectively demonstrates product efficacy through a clear before-and-after story, making the whole duration the semantic core. Trimming any part would disrupt the continuous storytelling of problem, process, and solution."
+    }
+  ]
+}

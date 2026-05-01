@@ -1,0 +1,88 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pills\\ssstik.io_1746623983872.mp4",
+  "detailed_description": "This video addresses a common frustration with child-proof prescription bottle caps, which often require pressing a tab and can be difficult to open or re-secure properly. The presenter demonstrates a simple yet effective solution: by flipping the cap upside down, it can be effortlessly screwed on and off like a regular cap. This 'life hack' transforms a frequently annoying product interaction into a convenient and user-friendly experience.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "prescription bottle",
+        "orange bottle",
+        "white cap",
+        "thumb",
+        "pressing tab",
+        "opening cap",
+        "cap crooked",
+        "struggling to close"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "informative",
+          "frustration"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "clear demonstration"
+        ]
+      },
+      "why_kept": "This segment introduces the common problem associated with standard child-proof prescription caps, clearly demonstrating the difficulty and frustration of opening and re-securing them. It sets the stage for the solution."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:30.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "man",
+        "prescription bottle",
+        "white cap",
+        "flipping cap",
+        "screwing cap",
+        "unscrewing cap",
+        "easy open",
+        "easy close"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "informative",
+          "helpful",
+          "satisfaction"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear demonstration",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment presents the core value and solution of the video. It clearly demonstrates the 'hack' of flipping the cap to use it as a regular screw-on cap, showing the ease of use and immediate transformation from a problematic to a convenient interaction. This is the 'aha!' moment and the practical application of the tip."
+    }
+  ]
+}

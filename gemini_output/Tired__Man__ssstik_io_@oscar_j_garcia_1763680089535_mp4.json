@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Tired\\Man\\ssstik.io_@oscar.j.garcia_1763680089535.mp4",
+  "detailed_description": "The video captures a humorous moment of a man, comfortably nestled in a white blanket on a couch, visibly struggling to stay awake. An off-screen voice playfully teases him, initially asking \"A la mejilla ya\" (implying he's already sleeping on his cheek) and then inquiring, \"Ya tienes sueño?\" (Are you already sleepy?). Despite the questions, the man's sleepy facial expressions and slow reactions convey his profound tiredness, leading the voice to conclude, \"No quieres contestar\" (You don't want to answer). The scene highlights a relatable and endearing interaction centered around a cozy, sleepy individual.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:21.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Calm_Relaxation",
+        "Home_Kitchen",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "Man",
+        "Couch",
+        "Blanket",
+        "Sleepy",
+        "Dozing off",
+        "Living room",
+        "Off-screen voice"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "lighthearted"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "casual setting",
+          "everyday life"
+        ]
+      },
+      "why_kept": "This segment captures the entire 'hero moment' of the man struggling to stay awake while being playfully questioned by an off-screen person, clearly demonstrating his sleepy state. The continuous nature of the interaction and his reactions throughout the clip makes the whole duration essential to convey the core meaning."
+    }
+  ]
+}

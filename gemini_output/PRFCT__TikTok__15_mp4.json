@@ -1,0 +1,59 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\TikTok\\15.mp4",
+  "detailed_description": "The video's semantic core focuses on a man introducing and demonstrating a hydration drink as a solution for bloating, tiredness, and lack of energy from coffee. He showcases the product, explains its simple preparation by mixing a packet into water, and emphasizes its effectiveness through personal testimony of reduced bloating and increased energy without crashes. The segment includes product interaction such as holding the drink and packet, taking a sip, and highlighting its benefits for workout hydration, positioning it as a superior daily wellness alternative.",
+  "segments": [
+    {
+      "start_time": "00:06.495",
+      "end_time": "00:35.409",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Key_Information",
+        "Result_Transformation",
+        "Social_Proof",
+        "UGC_Talking_Head",
+        "Mechanism_Of_Action",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Home_Kitchen",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "man",
+        "glass",
+        "orange drink",
+        "ice",
+        "product packet",
+        "kitchen counter",
+        "microwave",
+        "talking",
+        "holding drink",
+        "sipping drink",
+        "explaining",
+        "pointing to packet"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "informative",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "bright lighting",
+          "casual"
+        ]
+      },
+      "why_kept": "This segment is the semantic core because it seamlessly integrates the introduction of the product, its benefits, usage instructions, personal testimony (social proof), and a clear demonstration of product interaction (holding, sipping, showing the packet). It provides all the essential information and visual cues for the product's value proposition while adhering to the visual priority rule by consistently featuring the product alongside the spoken dialogue."
+    }
+  ]
+}

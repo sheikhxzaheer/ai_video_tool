@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\ð░ð¢ð©ð╝ð░Ðåð©ÐÅ ð║ð░ð║ð©Ðà-Ðéð¥ ð║ð╗ðÁÐéð¥ð║.mp4",
+  "detailed_description": "This video provides a detailed 3D animation illustrating how Prostaglandin E2 (PGE2) influences the immune system in the context of cancer. It visually explains the interaction of PGE2 with specific prostanoid receptors (EP2 and EP4) on immune cells. This binding leads to the deactivation of these immune cells, a crucial mechanism that allows cancer cells to evade the body's natural defenses. The animation ultimately demonstrates how this immune suppression facilitates tumor growth and metastasis.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:29.000",
+      "structural_tags": [
+        "Micro_Nutrients_Anim",
+        "Cellular_Deep_Dive",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "PGE2 molecule",
+        "immune cell",
+        "prostanoid receptor",
+        "EP2 receptor",
+        "EP4 receptor",
+        "cancer cells",
+        "tumor growth",
+        "metastasis"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "scientific visualization",
+          "molecular biology",
+          "microscopic view",
+          "vibrant colors"
+        ]
+      },
+      "why_kept": "This entire segment constitutes the semantic core of the video, offering a comprehensive animated explanation of a critical biological mechanism. It clearly demonstrates the interaction of PGE2 with immune cells, the resulting immune suppression, and its direct consequence on cancer progression, fulfilling the 'Process/Labor' and 'Reveal/Result' criteria through scientific visualization."
+    }
+  ]
+}

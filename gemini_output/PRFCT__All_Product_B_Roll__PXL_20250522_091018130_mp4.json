@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250522_091018130.mp4",
+  "detailed_description": "This video's semantic core focuses on the effortless introduction of 'PERFCT MORNING TANGERINE PULSE.' The segment visually emphasizes product interaction as a hand retrieves the vibrant package from a shimmering infinity pool. Against a backdrop of the ocean and clear blue sky, the product is presented, highlighting its connection to a refreshing and active lifestyle. The scene suggests a premium experience and promotes a sense of calm and well-being associated with the product.",
+  "segments": [
+    {
+      "start_time": "00:00.600",
+      "end_time": "00:07.400",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "hand",
+        "product package",
+        "pool water",
+        "infinity pool",
+        "ocean",
+        "sky",
+        "Tangerine Pulse"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear blue sky",
+          "sparkling water",
+          "sunlit",
+          "clean",
+          "minimalist"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the 'Product Interaction' by showing a hand retrieving and presenting the product, 'Tangerine Pulse,' from an infinity pool. It serves as an effective 'Product Intro' within a desirable 'Lifestyle_Active' and 'Calm_Relaxation' setting, making it the entire semantic core of this short video. The segment begins precisely when the hand starts interacting with the product and ends at the video's conclusion, satisfying the 'No-Mistake' rule."
+    }
+  ]
+}

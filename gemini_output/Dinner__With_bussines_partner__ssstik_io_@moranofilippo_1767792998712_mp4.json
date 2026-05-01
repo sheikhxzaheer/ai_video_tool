@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Dinner\\With bussines partner\\ssstik.io_@moranofilippo_1767792998712.mp4",
+  "detailed_description": "The video captures a lively and elegant 'casual party' at Lake Como, featuring well-dressed individuals in formal attire enjoying a social gathering. The scene is set in a luxurious indoor venue, illuminated by warm candlelight and ornate chandeliers. People are seen conversing, laughing, and dancing, creating an atmosphere of high energy and positive social interaction. The entire clip serves as a visual showcase of a premium social event, humorously labeled as 'casual' by the on-screen text.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.833",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "people",
+        "formal wear",
+        "tuxedos",
+        "elegant dresses",
+        "dancing",
+        "dining table",
+        "candles",
+        "chandelier",
+        "luxurious interior",
+        "party",
+        "Lake Como"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "elegant lighting",
+          "warm ambiance",
+          "rich decor"
+        ]
+      },
+      "why_kept": "This entire segment effectively portrays the core message of the video: a high-energy, positive social gathering at Lake Como. It captures the luxurious setting, the formal attire of the attendees, their lively interactions (talking, smiling, dancing), and the overall elegant atmosphere, which are all central to the video's intended 'casual parties' theme."
+    }
+  ]
+}

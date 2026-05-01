@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid sleep\\SnapTik.Cx_1763720647.mp4",
+  "detailed_description": "This video beautifully captures a serene and cozy moment of a young child sleeping peacefully in their bed. It begins with a wide shot of a minimalist child's bedroom, showcasing the tasteful decor including framed wall art and a wooden toddler bed. The camera then gently zooms in, providing a closer look at the child nestled under a striped duvet, highlighting their calm expression and the comforting presence of small toys tucked beside them. The soft ambient lighting and soothing background music contribute to an overall sense of tranquility and a heartwarming depiction of a child's peaceful rest.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.411",
+      "structural_tags": [
+        "Visual_Hook",
+        "Calm_Relaxation",
+        "Night_Routine",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "sleeping child",
+        "toddler bed",
+        "striped duvet",
+        "white pillow",
+        "wooden bed frame",
+        "white walls",
+        "framed posters",
+        "small white table",
+        "whale plushie",
+        "colorful toys",
+        "stars on sheet"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "gentle camera movement"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the peaceful environment and the main subject – a child sleeping. The camera movement from a wide shot to a closer view enhances the focus on the serene moment without any extraneous or setup footage, perfectly capturing the intended mood and scene."
+    }
+  ]
+}

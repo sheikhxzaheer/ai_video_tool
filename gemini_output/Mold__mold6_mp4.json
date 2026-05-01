@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold\\mold6.mp4",
+  "detailed_description": "This video visually demonstrates the process of identifying a severe mold problem in a home. It begins by showcasing visible mold growth on a wall, hinting at a hidden issue. The camera then reveals the extent of the problem by opening a cabinet door, exposing significant black mold and water damage under a sink, strongly suggesting a major leak. The segment emphasizes the importance of inspecting areas for mold and connecting such discoveries to potential indicators like a high water bill.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Reveal_Transformation",
+        "Home_Kitchen",
+        "Negative_Emotion",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "green mold",
+        "black mold",
+        "wall damage",
+        "water stains",
+        "cabinet",
+        "sink pipes",
+        "mold growth"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "serious",
+          "concerning"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "close-up details",
+          "revealing shot"
+        ]
+      },
+      "why_kept": "This entire segment serves as the 'Semantic Core' by visually presenting the problem state (mold on the wall), and then executing a 'reveal' action (opening the cabinet) to expose a more severe and likely source of the mold issue (extensive mold under the sink). This sequence clearly demonstrates the core message of locating the source of mold problems, providing the primary value and action of the video."
+    }
+  ]
+}

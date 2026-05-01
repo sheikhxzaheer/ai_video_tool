@@ -1,0 +1,452 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Man\\ssstik.io_@conorbutkovic_1766923571406.mp4",
+  "detailed_description": "The video provides a detailed, quick-cut showcase of a person's routine in setting up a modern, aesthetic workspace. It emphasizes precise product interactions, from opening a laptop and connecting peripherals like an SD card and external SSD, to adjusting ambient lighting and putting on headphones. The overall narrative highlights an organized and efficient digital workflow within a clean, minimalist office environment, culminating in the user engaged in their work, showcasing a seamless blend of technology and aesthetic design for productivity.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands opening laptop",
+        "MacBook"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "smooth motion"
+        ]
+      },
+      "why_kept": "This segment demonstrates a key product interaction and the start of the workspace setup routine, establishing a calm and precise mood."
+    },
+    {
+      "start_time": "00:01.600",
+      "end_time": "00:02.067",
+      "structural_tags": [
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "finger pressing F12 key",
+        "laptop keyboard"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "macro shot",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "Shows a focused interaction with the laptop, indicating activation or a common daily task."
+    },
+    {
+      "start_time": "00:02.667",
+      "end_time": "00:03.200",
+      "structural_tags": [
+        "Product_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand placing water bottle",
+        "desk mat"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "minimalist setup",
+          "fluid motion"
+        ]
+      },
+      "why_kept": "Illustrates a small, deliberate act of preparing the workspace, contributing to the overall aesthetic."
+    },
+    {
+      "start_time": "00:03.467",
+      "end_time": "00:04.167",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "laptop screen",
+        "status bar",
+        "time and icons"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "screen detail",
+          "operating system UI"
+        ]
+      },
+      "why_kept": "Provides context to the digital environment and showcases the laptop's display."
+    },
+    {
+      "start_time": "00:04.600",
+      "end_time": "00:05.400",
+      "structural_tags": [
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "LED light strip",
+        "color change (blue to pink)",
+        "wall art"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "ambient lighting",
+          "mood setting"
+        ]
+      },
+      "why_kept": "Enhances the 'aesthetic' aspect of the workspace, showing thoughtful design elements."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:06.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hand removing SD card",
+        "camera back"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed action",
+          "tech setup"
+        ]
+      },
+      "why_kept": "Shows the initial step of a common data transfer process, implying content creation or management."
+    },
+    {
+      "start_time": "00:07.433",
+      "end_time": "00:08.067",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hand inserting SD card",
+        "laptop slot"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "precise movement",
+          "tech connection"
+        ]
+      },
+      "why_kept": "Continues the data transfer process, highlighting the integration of camera media with the laptop."
+    },
+    {
+      "start_time": "00:08.533",
+      "end_time": "00:09.133",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hand connecting USB-C adapter",
+        "laptop port"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "modern connectivity",
+          "seamless integration"
+        ]
+      },
+      "why_kept": "Demonstrates the use of modern tech accessories for expanding laptop capabilities."
+    },
+    {
+      "start_time": "00:09.733",
+      "end_time": "00:10.233",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hand connecting adapter",
+        "external SSD (Samsung)"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "storage solution",
+          "organized workspace"
+        ]
+      },
+      "why_kept": "Highlights the use of external storage, crucial for professional workflows."
+    },
+    {
+      "start_time": "00:10.767",
+      "end_time": "00:11.333",
+      "structural_tags": [
+        "Product_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand picking up headphones",
+        "AirPods Max"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "stylish tech",
+          "smooth motion"
+        ]
+      },
+      "why_kept": "Shows preparation for focused work, incorporating high-quality audio equipment into the routine."
+    },
+    {
+      "start_time": "00:11.667",
+      "end_time": "00:12.433",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "person putting on headphones",
+        "AirPods Max"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "personal routine",
+          "concentration prep"
+        ]
+      },
+      "why_kept": "Visualizes the transition to a focused work state, enhancing the narrative of productivity."
+    },
+    {
+      "start_time": "00:12.767",
+      "end_time": "00:13.200",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "hands typing",
+        "laptop keyboard"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office",
+          "indoor"
+        ],
+        "mood": [
+          "focused",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "active work",
+          "detail shot"
+        ]
+      },
+      "why_kept": "Captures the actual 'labor' of working, showing hands-on engagement with the laptop."
+    },
+    {
+      "start_time": "00:13.600",
+      "end_time": "00:14.233",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "person typing",
+        "laptop",
+        "desk setup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office",
+          "indoor"
+        ],
+        "mood": [
+          "focused",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "workflow overview",
+          "ergonomic setup"
+        ]
+      },
+      "why_kept": "Provides a broader view of the user interacting with their main workstation, showing both laptop and external monitor."
+    },
+    {
+      "start_time": "00:14.733",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Workspace_Office",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "person working at desk",
+        "laptop",
+        "large monitor",
+        "desk setup",
+        "clean environment",
+        "ergonomic chair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "office",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "productive",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "full workspace reveal",
+          "organized",
+          "minimalist",
+          "modern setup"
+        ]
+      },
+      "why_kept": "This segment provides the most comprehensive view of the entire aesthetic and functional workspace. It serves as the 'reveal' of the fully set up environment and the user actively engaged in work, encapsulating the video's core meaning of an efficient and stylish office setup."
+    }
+  ]
+}

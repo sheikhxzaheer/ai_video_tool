@@ -1,0 +1,234 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Woman\\ssstik.io_@drhallcute_1767348644818.mp4",
+  "detailed_description": "The video features a female doctor in scrubs humorously sharing three things potential donors should know before donating sperm. She explains that donors get private rooms with magazines for privacy (point 1), hints that polite donors might receive help if needed, though it's not discussed openly (point 2), and advises that if one misses the collection cup, a second attempt is required, humorously noting it happens often and suggesting asking the female doctor for help again (point 3). The video maintains a lighthearted and informative tone, using various settings (clinic, outdoors, car) to punctuate each point.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.300",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "woman",
+        "doctor",
+        "scrubs",
+        "stethoscope",
+        "counting fingers",
+        "clinic setting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "clinic"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment serves as the introduction, clearly stating the video's purpose ('Here are 3 things') and setting the informative yet humorous tone, making it a strong anchor for the core message."
+    },
+    {
+      "start_time": "00:02.300",
+      "end_time": "00:07.433",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "doctor",
+        "scrubs",
+        "stethoscope",
+        "smiling",
+        "pointing finger",
+        "clinic setting",
+        "outdoor background"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "outdoor",
+          "clinic"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "friendly demeanor"
+        ]
+      },
+      "why_kept": "This segment introduces the first key piece of information ('Number 1: You get your own private room with magazines') and transitions visually, clearly delivering a core message of the video."
+    },
+    {
+      "start_time": "00:07.433",
+      "end_time": "00:09.300",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "doctor",
+        "scrubs",
+        "stethoscope",
+        "smiling",
+        "talking",
+        "outdoor background"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "green foliage"
+        ]
+      },
+      "why_kept": "This segment continues the explanation of the first point, providing a visual change of scenery that supports the ongoing narrative without introducing a new primary point, making it effective b-roll for the initial anchor."
+    },
+    {
+      "start_time": "00:09.300",
+      "end_time": "00:14.033",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Humor",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "doctor",
+        "scrubs",
+        "stethoscope",
+        "car interior",
+        "seatbelt",
+        "smiling",
+        "talking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "playful",
+          "humorous"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "automotive interior",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment introduces the second distinct piece of humorous advice ('Number 2'), accompanied by a new visual context (inside a car and buckling a seatbelt), making it a self-contained anchor delivering a core message."
+    },
+    {
+      "start_time": "00:14.033",
+      "end_time": "00:18.266",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Humor",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "doctor",
+        "scrubs",
+        "stethoscope",
+        "counting fingers",
+        "smiling",
+        "talking",
+        "clinic setting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "clinic"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "expressive gestures"
+        ]
+      },
+      "why_kept": "This segment introduces the third main point ('Number 3: If you mess up your sperm cup, you're gonna have to go for round two'), reverting to the initial clinic setting and delivering another key piece of humorous advice."
+    },
+    {
+      "start_time": "00:18.266",
+      "end_time": "00:21.366",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Humor",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "doctor",
+        "scrubs",
+        "stethoscope",
+        "smiling",
+        "talking",
+        "clinic setting",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "clinic"
+        ],
+        "mood": [
+          "playful",
+          "humorous"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "engaging facial expression"
+        ]
+      },
+      "why_kept": "This segment concludes the third point by emphasizing the humorous frequency of the situation and adding an on-screen joke, reinforcing the overall lighthearted and informative core of the video."
+    }
+  ]
+}

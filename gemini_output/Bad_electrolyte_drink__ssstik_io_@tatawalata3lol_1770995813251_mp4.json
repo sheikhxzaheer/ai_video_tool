@@ -1,0 +1,298 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad electrolyte drink\\ssstik.io_@tatawalata3lol_1770995813251.mp4",
+  "detailed_description": "This video captures a woman's experience trying a vibrant purple-colored vitamin drink. She showcases the drink's unique visual characteristic of floating particles, then proceeds to taste it, providing immediate feedback on its light and subtle flavor, comparing it to flavored water. She expresses her satisfaction with the taste and highlights the added benefit of consuming vitamins, concluding with positive affirmations about the product's overall appeal and enjoyment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.600",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "purple liquid",
+        "glass",
+        "floating particles",
+        "woman smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "curious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "bright"
+        ]
+      },
+      "why_kept": "This segment serves as a visual hook, immediately showcasing the product's unique visual effect (floating particles) and eliciting an initial surprised/positive reaction from the user, generating curiosity."
+    },
+    {
+      "start_time": "00:09.680",
+      "end_time": "00:13.100",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman drinking",
+        "purple liquid",
+        "glass"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment shows the direct interaction of the user consuming the product, demonstrating its primary use."
+    },
+    {
+      "start_time": "00:17.380",
+      "end_time": "00:27.400",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "holding glass",
+        "purple drink",
+        "taste description"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This is the core segment as the user describes the product's key attribute (taste: subtle, like flavored water) and offers a usage tip (add ice), while continuously holding and interacting with the product, providing valuable user-generated content and information."
+    },
+    {
+      "start_time": "00:30.800",
+      "end_time": "00:33.700",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman drinking",
+        "purple liquid",
+        "glass"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "Further demonstrates product consumption, reinforcing the user's active engagement with the drink."
+    },
+    {
+      "start_time": "00:34.000",
+      "end_time": "00:35.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "positive expression",
+        "speaking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "positive",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "Captures a clear emotional climax with the user's direct, positive verbal feedback ('Taste really good'), validating the product's appeal."
+    },
+    {
+      "start_time": "00:38.200",
+      "end_time": "00:39.900",
+      "structural_tags": [
+        "Key_Information",
+        "UGC_Talking_Head",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "holding glass",
+        "vitamins"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "informative",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment highlights a key benefit of the product (getting vitamins), adding functional value to the review."
+    },
+    {
+      "start_time": "00:41.300",
+      "end_time": "00:43.000",
+      "structural_tags": [
+        "Positive_Emotion",
+        "UGC_Talking_Head",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "smiling",
+        "drinking",
+        "glass"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "Reinforces the positive user experience, combining verbal affirmation ('it's fun. Tastes good') with active product interaction."
+    },
+    {
+      "start_time": "00:43.700",
+      "end_time": "00:46.000",
+      "structural_tags": [
+        "Positive_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "smiling",
+        "holding glass"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "positive",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "Provides a strong, rhetorical concluding statement that encapsulates the product's overall positive impression."
+    },
+    {
+      "start_time": "00:49.000",
+      "end_time": "00:55.000",
+      "structural_tags": [
+        "Positive_Emotion",
+        "UGC_Talking_Head",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "smiling",
+        "holding glass",
+        "final expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "positive",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment serves as a final, emphatic endorsement, closing the video with a clear positive emotional response and a reaffirmation of satisfaction."
+    }
+  ]
+}

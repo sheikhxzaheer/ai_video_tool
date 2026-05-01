@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Man\\ssstik.io_@smalltownbeautybytess_1763678651713.mp4",
+  "detailed_description": "A woman humorously records her partner sleeping soundly on a couch, exhibiting exceptionally loud snoring. The camera slowly zooms in on the man's face, highlighting the intensity of his sleep. After several attempts to call his name, she gently nudges him, prompting a slow, groggy awakening. The video captures his confused facial expression as he stirs from his deep slumber, providing a relatable and comical insight into living with a heavy snorer.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "01:08.400",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Emotional_Climax",
+        "Home_Kitchen",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "sleeping",
+        "snoring",
+        "couch",
+        "pillow",
+        "living room",
+        "phone",
+        "waking up",
+        "beard",
+        "hand",
+        "grogginess"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "handheld camera"
+        ]
+      },
+      "why_kept": "This entire video segment is kept as the Semantic Core because it perfectly captures the 'Emotional Climax' (the comedic loud snoring) and 'Human Interaction' (the woman's attempt to wake her partner). It showcases the full narrative of the snoring and the subsequent groggy awakening, fulfilling the 'Reveal/Result' criterion of his reaction. The 'NO-MISTAKE' rule applies here, as the action of the snoring starts immediately and concludes with the partner's awakening and response, making the entire duration essential to the content's value."
+    }
+  ]
+}

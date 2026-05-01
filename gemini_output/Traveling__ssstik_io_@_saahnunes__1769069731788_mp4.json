@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Traveling\\ssstik.io_@_saahnunes__1769069731788.mp4",
+  "detailed_description": "This video captures a first-person perspective of a traveler moving through a modern airport terminal. The journey unfolds on a moving walkway, showcasing the act of holding a compact travel bag, adorned with a distinctive ring on the finger. The expansive windows reveal an atmospheric view of the airport tarmac, with airplanes parked at the gates, set against a distant city skyline glimmering under the twilight sky, conveying a sense of calm and the commencement of a journey.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:16.890",
+      "structural_tags": [
+        "Travel_Transit",
+        "Human_Interaction",
+        "Product_Present",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "airport",
+        "moving walkway",
+        "travel bag",
+        "person traveling",
+        "airplane",
+        "city skyline",
+        "airport terminal"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "transient"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "twilight lighting",
+          "modern architecture",
+          "smooth camera movement"
+        ]
+      },
+      "why_kept": "The entire segment consistently captures the core essence of the video: a person traveling through an airport, interacting with their bag on a moving walkway. It fully demonstrates the 'process' of travel and the 'product interaction' with the bag within that context, with no extraneous or trim-worthy content."
+    }
+  ]
+}

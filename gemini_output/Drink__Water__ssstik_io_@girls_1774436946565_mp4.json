@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Drink\\Water\\ssstik.io_@girls_1774436946565.mp4",
+  "detailed_description": "This video humorously demonstrates a woman's unique and perhaps exaggerated method of drinking water. She rapidly fills a glass from the tap, quickly drinks its contents, then immediately refills it from the tap, suggesting a continuous and substantial intake. The sequence concludes with a satisfied, almost playful smile, effectively conveying the 'POV: How I drink water' message.",
+  "segments": [
+    {
+      "start_time": "00:01.290",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Home_Kitchen",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "drinking water",
+        "filling glass",
+        "kitchen sink",
+        "tap",
+        "glass",
+        "smile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen",
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "direct address",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment captures the entire 'Semantic Core' of the video. It demonstrates the explicit process of filling and drinking water, highlighting the repetitive action and concluding with a clear emotional climax (a smile) that reinforces the video's intended message of 'how I drink water.' It includes the essential product interactions and avoids any setup or post-action dead air."
+    }
+  ]
+}

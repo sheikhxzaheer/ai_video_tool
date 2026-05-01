@@ -1,0 +1,175 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Douxds product\\ð©Ðüð┐ð¥ð╗ÐîðÀÐâðÁÐé ð┐ÐÇð¥ð┤Ðâð║Ðé 47 (1).mp4",
+  "detailed_description": "This video showcases a premium grooming and skincare routine. It begins by introducing the 'douxds FLEX Performance Skincare Tool' and 'PRIME Face Quench' products. The sequence then transitions to a professional barber performing a precise beard shave, followed by the application of the 'douxds FLEX' tool to gently massage and enhance the skin. The video concludes with a reveal of the client's refreshed, clean, and perfectly groomed appearance, highlighting the transformative results of the combined treatment.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:01:400",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands holding product boxes",
+        "douxds FLEX",
+        "skincare tool",
+        "performance skincare tool"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean backdrop",
+          "neutral colors",
+          "focused lighting"
+        ]
+      },
+      "why_kept": "This segment introduces the main product, 'douxds FLEX', and sets the stage for the demonstration, fulfilling the 'Product Intro' hero moment criteria."
+    },
+    {
+      "start_time": "00:01:400",
+      "end_time": "00:03:000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Product_Intro"
+      ],
+      "visual_keywords": [
+        "hands opening box",
+        "douxds PRIME",
+        "face quench"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean backdrop",
+          "neutral colors",
+          "focused lighting"
+        ]
+      },
+      "why_kept": "This segment shows interaction with a complementary product, adding context to the overall skincare and grooming experience."
+    },
+    {
+      "start_time": "00:03:000",
+      "end_time": "00:04:200",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "barber shaving",
+        "straight razor",
+        "man's beard",
+        "grooming"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "focused action",
+          "barber shop setting"
+        ]
+      },
+      "why_kept": "This segment demonstrates a part of the professional grooming process, providing context for the full 'transformation' and adhering to the 'Process/Labor' hero moment."
+    },
+    {
+      "start_time": "00:04:200",
+      "end_time": "00:06:300",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "hand applying tool",
+        "douxds FLEX",
+        "skincare tool",
+        "massaging face",
+        "man's face"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "smooth motion",
+          "focus on product use"
+        ]
+      },
+      "why_kept": "This is a core 'Hero Moment' segment, explicitly showing the 'douxds FLEX' skincare tool in action on the client's face, demonstrating its intended use and 'Product Interaction'."
+    },
+    {
+      "start_time": "00:06:300",
+      "end_time": "00:09:300",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man's profile",
+        "fresh haircut",
+        "trimmed beard",
+        "clean skin",
+        "groomed appearance"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "professional setting",
+          "satisfied expression"
+        ]
+      },
+      "why_kept": "This segment serves as the 'Reveal/Result', showcasing the complete transformation and the positive outcome of the grooming and skincare process, fulfilling a key 'Hero Moment'."
+    }
+  ]
+}

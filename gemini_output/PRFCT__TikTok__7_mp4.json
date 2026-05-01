@@ -1,0 +1,151 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\TikTok\\7.mp4",
+  "detailed_description": "The video features a woman introducing Perfect Morning Electrolytes as a healthier alternative to morning coffee, which can dehydrate. She highlights its benefits, such as providing clean glucose and potassium for hydration and sustained energy, preventing caffeine-crash headaches, and alleviating a drained feeling. She emphasizes that the product contains no sugar or artificial dyes, only clean ingredients, and notes its pleasant, non-salty taste. The video concludes with a strong call to action to purchase the electrolytes.",
+  "segments": [
+    {
+      "start_time": "00:04.090",
+      "end_time": "00:07.720",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "holding product bag",
+        "perfect morning electrolytes",
+        "smiling",
+        "speaking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment introduces the product by name and establishes its purpose as a morning alternative to coffee, making it a strong context-setting clip."
+    },
+    {
+      "start_time": "00:08.060",
+      "end_time": "00:21.060",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Ingredient_Highlight",
+        "UGC_Talking_Head",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "holding product bag",
+        "pointing",
+        "speaking",
+        "glucose",
+        "potassium",
+        "hydration",
+        "energy"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "informative",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "The subject actively interacts with the product by holding and pointing to the bag while explaining the key ingredients and benefits, providing crucial information about its 'Mechanism_Of_Action'."
+    },
+    {
+      "start_time": "00:21.060",
+      "end_time": "00:27.760",
+      "structural_tags": [
+        "Product_Interaction",
+        "Ingredient_Highlight",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "stirring drink",
+        "glass",
+        "straw",
+        "yellow liquid",
+        "no sugar",
+        "clean ingredients"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "informative",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment visually demonstrates the preparation of the product, showing clear 'Product_Interaction' (stirring) while reinforcing its 'clean ingredients' attribute."
+    },
+    {
+      "start_time": "00:32.400",
+      "end_time": "00:43.080",
+      "structural_tags": [
+        "Positive_Emotion",
+        "UGC_Talking_Head",
+        "Offer_CTA",
+        "Urgency_Rush"
+      ],
+      "visual_keywords": [
+        "woman",
+        "speaking",
+        "glass",
+        "straw",
+        "yellow liquid",
+        "pointing",
+        "no salty taste"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "positive",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment captures the speaker's positive emotional endorsement of the product's taste and concludes with a direct 'Call to Action' and a sense of 'Urgency_Rush', making it a crucial closing statement."
+    }
+  ]
+}

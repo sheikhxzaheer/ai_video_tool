@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\drive-download-20251227T113046Z-3-001\\BROLL4.mp4",
+  "detailed_description": "A man is shown working intensely on his laptop, indicating focus and initial stress. He briefly interacts with his phone, which seems to trigger an escalation of his frustration. He expresses this heightened stress by tossing the phone onto the desk and subsequently burying his face in his hands, clearly conveying a 'problem state' related to work or financial pressures that leads to an emotional climax of deep frustration and exasperation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.375",
+      "structural_tags": [
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Emotional_Climax",
+        "Workspace_Office",
+        "Financial_Stress",
+        "Time_Wasted"
+      ],
+      "visual_keywords": [
+        "man",
+        "typing",
+        "laptop",
+        "phone",
+        "desk",
+        "frustration",
+        "stress",
+        "hands on head",
+        "office",
+        "bookshelf"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "stressed",
+          "negative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "home office setting",
+          "screen light on face"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by depicting a continuous narrative of a 'Problem_State' escalating into an 'Emotional_Climax'. It begins with the subject engaged in work (typing), proceeds to a 'Product Interaction' (checking phone) that triggers a strong 'Negative_Emotion', and culminates in a clear 'Face_Reaction' of deep frustration and stress. There is no setup, calibration, or dead air, making the full duration relevant to the core message."
+    }
+  ]
+}

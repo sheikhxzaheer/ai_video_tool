@@ -1,0 +1,121 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B ROLL WASTE BIN.MOV",
+  "detailed_description": "This video showcases a woman demonstrating the process of putting on and interacting with a pillow and a silk pillowcase. It begins with her actively pulling the elegant, cream-colored pillowcase onto a pillow, illustrating the 'process/labor' of setting it up. Following this, she exhibits a moment of 'satisfaction' by holding the pillow close and smiling contentedly, suggesting comfort and the positive outcome of using the product. The video culminates in an energetic display of pillow fluffing, characterized by her flowing hair, which visually emphasizes the lightness and dynamic feel of the pillow, reinforcing a sense of high energy and satisfaction with the product interaction.",
+  "segments": [
+    {
+      "start_time": "00:00:00.600",
+      "end_time": "00:00:19.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Process_Labor",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pillow",
+        "silk pillowcase",
+        "pulling",
+        "adjusting",
+        "long hair",
+        "white sweater"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "dynamic hair movement"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the process of putting on the pillowcase, highlighting the product interaction and the effort involved, while the flowing hair adds an aesthetic and dynamic element."
+    },
+    {
+      "start_time": "00:00:19.500",
+      "end_time": "00:00:22.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pillow",
+        "silk pillowcase",
+        "holding",
+        "smiling",
+        "eyes closed",
+        "satisfaction"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "gentle smile"
+        ]
+      },
+      "why_kept": "This segment captures the immediate positive emotional response and satisfaction after the pillowcase has been successfully applied, signifying the 'result' and comfort."
+    },
+    {
+      "start_time": "00:00:22.000",
+      "end_time": "00:00:33.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "High_Energy",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pillow",
+        "silk pillowcase",
+        "fluffing",
+        "shaking",
+        "long hair flying",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "dynamic hair movement",
+          "vigorous motion"
+        ]
+      },
+      "why_kept": "This segment powerfully demonstrates the product's feel and resilience through energetic fluffing, with the woman's flowing hair enhancing the visual impact and conveying a sense of lightness and dynamism."
+    }
+  ]
+}

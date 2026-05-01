@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Washes head\\IMG_4730.mov",
+  "detailed_description": "The video provides a close-up demonstration of a man's hair washing routine in the shower. It meticulously showcases the process, from pumping shampoo from a bottle into his hands, to vigorously lathering it through his hair and across his face, and finally, rinsing off all the foam under a flowing shower head. The segment effectively highlights the product's application and the cleansing action.",
+  "segments": [
+    {
+      "start_time": "00:01.800",
+      "end_time": "00:59.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Result_Transformation",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "man",
+        "shower",
+        "shampoo",
+        "hair wash",
+        "foam",
+        "water",
+        "bottle",
+        "lathering",
+        "rinsing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear action",
+          "close-up detail"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it captures the entire process of washing hair with shampoo, demonstrating the product interaction (pumping the shampoo), the mechanism of action (lathering and massaging), and the result (rinsing clean). It effectively showcases the value and use of the product."
+    }
+  ]
+}

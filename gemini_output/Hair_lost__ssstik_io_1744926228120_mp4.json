@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Hair lost\\ssstik.io_1744926228120.mp4",
+  "detailed_description": "The video opens with a close-up shot of a pink and white striped pillow, heavily covered in strands of shed hair. A soft pink, plush blanket is visible in the background, contributing to a cozy bedroom aesthetic. A hand briefly enters the frame to subtly gesture towards the accumulated hair, emphasizing its quantity. An overlaying text poses a direct question to the viewer: 'Is it normal to lose this much hair in my sleep I feel like something ain't right,' effectively articulating the user's concern and the core problem presented.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion",
+        "UGC_Talking_Head",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hair loss",
+        "pillow",
+        "bed",
+        "pink blanket",
+        "striped pillowcase",
+        "hand",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "concerned",
+          "pensive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "cozy aesthetic",
+          "user-generated content"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by visually demonstrating the user's concern about significant hair loss on their pillow after sleeping. It effectively functions as a 'Problem_State' and a 'Visual_Hook,' complemented by the explanatory text overlay which conveys the 'Negative_Emotion' and 'Key Information'. No trimming was required as the video immediately establishes and maintains focus on the core subject without 'setup & calibration' or 'post-action dead air'."
+    }
+  ]
+}

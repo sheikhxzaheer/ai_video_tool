@@ -1,0 +1,119 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Feel bad\\ssstik.io_@facts.interesting1_1772469965301.mp4",
+  "detailed_description": "The video narrates a distressing personal story where a boyfriend falls critically ill and is hospitalized with a severe blood infection. Initially, his girlfriend expresses extreme worry as doctors struggle to diagnose him. The turning point comes with the discovery of a dangerous bacteria, typically found in the intestines, leading to the devastating realization for the girlfriend that her boyfriend may have been unfaithful. The 'worst news' transforms from a medical crisis into a profound emotional betrayal, as she grapples with the implications of the diagnosis.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "hospital bed",
+        "medical staff",
+        "hospital gown",
+        "medical equipment",
+        "gloves"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "direct camera angle"
+        ]
+      },
+      "why_kept": "This segment establishes the initial 'problem state' of the boyfriend's severe illness and his admission to the ER, setting the stage for the unfolding narrative and the 'worst news' mentioned in the text."
+    },
+    {
+      "start_time": "00:41.000",
+      "end_time": "00:50.000",
+      "structural_tags": [
+        "Problem_State",
+        "Key_Information",
+        "Medical_Equipment",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "hospital bed",
+        "IV drips",
+        "monitor",
+        "medical tubes",
+        "medical staff",
+        "gloves",
+        "bandages"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "medical setting"
+        ]
+      },
+      "why_kept": "This segment is crucial as it reveals the medical diagnosis – a dangerous bacteria – which is the direct cause of the subsequent emotional climax and the girlfriend's 'worst news'."
+    },
+    {
+      "start_time": "01:05.000",
+      "end_time": "01:09.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Face_Reaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "crying",
+        "tears",
+        "earbuds",
+        "distress"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "negative",
+          "emotional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "low lighting",
+          "intimate camera angle",
+          "raw emotion"
+        ]
+      },
+      "why_kept": "This segment serves as the emotional climax, visually representing the girlfriend's profound distress and directly stating her disbelief, clearly conveying the 'worst news' of implied infidelity that is the core semantic message."
+    }
+  ]
+}

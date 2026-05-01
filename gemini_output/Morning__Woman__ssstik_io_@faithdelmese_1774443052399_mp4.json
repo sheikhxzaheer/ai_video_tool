@@ -1,0 +1,322 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Morning\\Woman\\ssstik.io_@faithdelmese_1774443052399.mp4",
+  "detailed_description": "This video captures a woman's relatable morning routine, beginning with the struggle of waking up at 7:30 AM. It showcases her transition from groggy sleepiness to energized activity, including skincare application, changing into workout attire, and preparing a healthy breakfast drink. The semantic core focuses on the natural process of starting the day, emphasizing self-care and a healthy lifestyle.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.300",
+      "structural_tags": [
+        "Problem_State",
+        "Morning_Routine",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "rubbing eyes",
+        "tired",
+        "robe"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "sleepy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment establishes the initial 'problem state' of waking up and sets the context for a morning routine, making it a strong anchor."
+    },
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:02.100",
+      "structural_tags": [
+        "Morning_Routine",
+        "Process"
+      ],
+      "visual_keywords": [
+        "woman",
+        "brushing hair",
+        "long hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "Shows a common and relatable step in a morning routine, supporting the overall theme of getting ready."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:06.900",
+      "structural_tags": [
+        "Morning_Routine",
+        "Product_Interaction",
+        "Process"
+      ],
+      "visual_keywords": [
+        "woman",
+        "washing face",
+        "water"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "Captures the act of cleansing the face, a key self-care step in a morning routine."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:07.800",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Problem_State",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "yawning",
+        "tired"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "sleepy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "Reinforces the initial 'tired' state, adding a relatable emotional element to the wake-up process."
+    },
+    {
+      "start_time": "00:09.100",
+      "end_time": "00:10.800",
+      "structural_tags": [
+        "Result_Transformation",
+        "Lifestyle_Active",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "activewear",
+        "blue shorts",
+        "sports top"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment shows the transformation from sleepwear to activewear, signifying readiness for the day and a healthy, active lifestyle."
+    },
+    {
+      "start_time": "00:14.300",
+      "end_time": "00:15.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying toner",
+        "skincare",
+        "face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "Demonstrates product interaction with a skincare item, showcasing self-care within the routine."
+    },
+    {
+      "start_time": "00:15.500",
+      "end_time": "00:17.300",
+      "structural_tags": [
+        "Product_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying cream",
+        "skincare",
+        "pink jar",
+        "face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "Further illustrates the skincare regimen, highlighting the use of beauty products."
+    },
+    {
+      "start_time": "00:20.300",
+      "end_time": "00:21.300",
+      "structural_tags": [
+        "Product_Interaction",
+        "Morning_Routine",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pouring milk",
+        "Chobani Oat milk",
+        "cup"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "low light"
+        ]
+      },
+      "why_kept": "This segment captures the preparation of a morning drink, signifying the breakfast portion of the routine and direct product interaction."
+    },
+    {
+      "start_time": "00:21.300",
+      "end_time": "00:22.300",
+      "structural_tags": [
+        "Product_Interaction",
+        "Morning_Routine",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "stirring drink",
+        "cup",
+        "straw"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "low light"
+        ]
+      },
+      "why_kept": "Shows the active preparation of the drink, complementing the pouring action."
+    },
+    {
+      "start_time": "00:22.300",
+      "end_time": "00:23.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Morning_Routine",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "sipping drink",
+        "cup",
+        "straw"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "low light"
+        ]
+      },
+      "why_kept": "Concludes the drink preparation, showing consumption and completing the breakfast segment of the routine."
+    }
+  ]
+}

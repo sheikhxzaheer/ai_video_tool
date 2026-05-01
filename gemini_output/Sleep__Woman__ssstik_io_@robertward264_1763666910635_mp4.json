@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Woman\\ssstik.io_@robertward264_1763666910635.mp4",
+  "detailed_description": "This video captures a relatable and heartwarming scenario where a dog attempts to rouse its owner from sleep. The scene opens with a person comfortably napping on a sofa, covered by a blanket. The core action unfolds as the dog, with persistent and gentle pawing, works to uncover the person's leg and get their attention, showcasing a common and endearing pet-owner interaction. It highlights the playful and determined nature of a pet seeking connection.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.449",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Home_Kitchen",
+        "Lifestyle_Active",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "person sleeping",
+        "couch",
+        "pillows",
+        "blanket",
+        "dog paws",
+        "dog face",
+        "leg",
+        "waking up"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "handheld shot",
+          "everyday life"
+        ]
+      },
+      "why_kept": "This entire segment forms the semantic core by establishing the initial state (person sleeping), introducing the 'actor' (the dog), and showing the complete interaction where the dog playfully tries to wake the person. The progression from the wide shot of the sleeping person to the close-up of the dog's paws and face interacting with the blanket and leg is crucial for the narrative, making the whole duration a continuous 'hero moment' of pet-owner interaction."
+    }
+  ]
+}

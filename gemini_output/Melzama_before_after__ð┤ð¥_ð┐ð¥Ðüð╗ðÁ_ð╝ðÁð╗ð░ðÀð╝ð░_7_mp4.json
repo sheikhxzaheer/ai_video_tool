@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ð╝ðÁð╗ð░ðÀð╝ð░ 7.mp4",
+  "detailed_description": "This video showcases a remarkable skin transformation journey over 13 weeks, from late July to late October. It begins by presenting the 'before' state, highlighting significant dark patches on the subject's face, representing a problem state. Subsequent segments reveal the gradual lightening and clearing of these areas, demonstrating the procedure's effectiveness over several weeks through a visual time-lapse. The progression culminates in a clear, radiant complexion, reflecting a successful outcome and significant result transformation. The subject's confident smile in the final frames emphasizes the positive emotional impact of the transformation, underscored by the empowering message to 'trust the process!'.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.440",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "skin",
+        "dark spots",
+        "melasma",
+        "hyperpigmentation",
+        "skin treatment",
+        "skin improvement",
+        "progress",
+        "time-lapse",
+        "smiling",
+        "facial transformation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "car"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "selfie style",
+          "sequential shots"
+        ]
+      },
+      "why_kept": "The entire video constitutes the semantic core by documenting a complete visual 'Before_After' transformation of the subject's skin over 13 weeks. It effectively showcases the problem, the progressive improvement, and the successful final result, reinforced by a positive emotional climax and a key takeaway message ('Just trust the process!'). Each timestamped update is crucial for demonstrating the continuous result transformation."
+    }
+  ]
+}

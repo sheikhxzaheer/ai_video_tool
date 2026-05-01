@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_32.mp4",
+  "detailed_description": "This video directly showcases a FluffCo pillow, emphasizing its plush comfort and potential to alleviate neck pain. A hand gently presses the soft, white pillow, allowing viewers to visually appreciate its texture and quality. The overlaid text acts as a clear call to action, positioning FluffCo as the solution for a pain-free morning, leveraging direct product interaction with a clear benefit statement.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.101",
+      "structural_tags": [
+        "Product_Interaction",
+        "Product_Standalone",
+        "Offer_CTA",
+        "Calm_Relaxation",
+        "Home_Kitchen",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "hand",
+        "pillow",
+        "bed",
+        "white bedding",
+        "FluffCo label",
+        "neck pain relief text"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "bright lighting",
+          "soft focus"
+        ]
+      },
+      "why_kept": "This entire segment is the Semantic Core. It directly features the product (FluffCo pillow), shows clear human interaction with it (hand touching/feeling its softness), and delivers the primary message and call to action via the text overlay ('get FluffCo and wake up without neck pain'). There is no setup, post-action dead air, or extraneous footage; the action is continuous and focused."
+    }
+  ]
+}

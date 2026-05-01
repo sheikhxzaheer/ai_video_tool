@@ -1,0 +1,180 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Woman\\ssstik.io_@diaawska_1769710926672.mp4",
+  "detailed_description": "This video provides an intimate glimpse into the world of medicine, focusing on the meticulous processes and deep commitment required of a surgeon. It opens with an array of surgical instruments, setting the stage for precision and care. Subsequent scenes showcase the fundamental preparatory steps: a surgeon diligently scrubbing their hands and donning sterile attire, alongside a close-up of intricate suturing work. The inclusion of a medical imaging scan highlights the diagnostic aspects of healthcare. Overall, the montage, paired with reflective text overlays, conveys a powerful message about finding purpose and peace within the demanding and vital medical profession.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Standalone",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "surgical instruments",
+        "scalpels",
+        "forceps",
+        "sterile field",
+        "green cloth"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "clean lighting"
+        ]
+      },
+      "why_kept": "This segment serves as an immediate visual hook, establishing the medical and surgical context by showcasing essential tools, preparing the viewer for the theme of the video."
+    },
+    {
+      "start_time": "00:00.900",
+      "end_time": "00:04.400",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Workspace_Office",
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "surgeon",
+        "scrubs",
+        "mask",
+        "washing hands",
+        "surgical sink",
+        "water"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean facility",
+          "focused action"
+        ]
+      },
+      "why_kept": "This is a pivotal 'process/labor' shot, depicting the iconic and rigorous hand-scrubbing ritual of a surgeon, symbolizing dedication and preparation. It's chosen as the anchor for its strong visual narrative of commitment, reinforced by the overlaid text 'WHY DO YOU CHOOSE MEDICINE?'."
+    },
+    {
+      "start_time": "00:04.400",
+      "end_time": "00:05.167",
+      "structural_tags": [
+        "Macro_Detail",
+        "Human_Interaction",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "gloved hand",
+        "needle driver",
+        "suture",
+        "needle",
+        "surgical tools"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed work",
+          "precise movement"
+        ]
+      },
+      "why_kept": "This segment illustrates the precise and skilled nature of surgical work, demonstrating direct 'product interaction' with tools and highlighting the 'doing the work' aspect at a detailed level."
+    },
+    {
+      "start_time": "00:05.167",
+      "end_time": "00:05.900",
+      "structural_tags": [
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "MRI scan",
+        "neck",
+        "spine",
+        "medical imaging"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "diagnostic imagery",
+          "high-contrast"
+        ]
+      },
+      "why_kept": "This clip showcases the diagnostic facet of medicine, representing a 'reveal/result' of medical investigation and adding a broader perspective to the medical profession's responsibilities."
+    },
+    {
+      "start_time": "00:05.900",
+      "end_time": "00:07.167",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Workspace_Office",
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "surgeon",
+        "scrubs",
+        "surgical cap",
+        "gowning up",
+        "sterile gown"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "preparatory ritual",
+          "focused action"
+        ]
+      },
+      "why_kept": "This segment further emphasizes the meticulous 'process/labor' of surgical preparation, reinforcing the theme of dedication and structured environment, with the text 'I FOUND PEACE' providing emotional context."
+    }
+  ]
+}

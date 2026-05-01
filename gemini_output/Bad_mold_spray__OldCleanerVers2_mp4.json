@@ -1,0 +1,41 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad mold spray\\OldCleanerVers2.mp4",
+  "detailed_description": "A person is shown cleaning a shower fixture using Clorox Clean-Up spray. The video captures the direct product interaction as the individual sprays the cleaner onto the chrome faucet, demonstrating the application process. A white towel is held over the person's face, highlighting a cautious approach during the cleaning task. This segment focuses on the practical use of the cleaning product and the manual labor involved in maintaining a bathroom surface.",
+  "segments": [
+    {
+      "start_time": "00:02.400",
+      "end_time": "00:09.300",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Home"
+      ],
+      "visual_keywords": [
+        "person",
+        "cleaning spray",
+        "shower fixture",
+        "towel",
+        "spraying"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "everyday footage"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the 'Product Interaction' and 'Process/Labor' as the individual actively sprays the cleaning product onto the shower fixture. It showcases the key action of using the product for its intended purpose, making it the core 'hero moment' of the video."
+    }
+  ]
+}

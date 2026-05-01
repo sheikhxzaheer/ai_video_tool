@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Peeling\\CNWM_JillianGray_029_Peeling.MOV",
+  "detailed_description": "The video captures a woman with a shiny face mask and a pink bow headband, gently interacting with her skin near her ear, possibly checking the mask's texture or readiness for removal. She states, \"I'm dying to take this off,\" conveying a mix of anticipation and eagerness to conclude this step of her beauty routine. This segment showcases direct product interaction and a personal, relatable emotional reaction.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.305",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Product_Interaction",
+        "Night_Routine",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink headband",
+        "face mask",
+        "glowing skin",
+        "touching face",
+        "speaking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "personal"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "soft focus",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it perfectly encapsulates the 'Semantic Core' by demonstrating direct product interaction (woman with face mask, touching her face), a clear emotional climax (her statement 'I'm dying to take this off' conveying anticipation), and a key verbal statement. There are no setup frames, dead air, or extraneous actions, adhering to the 'no-mistake' rule for trimming."
+    }
+  ]
+}

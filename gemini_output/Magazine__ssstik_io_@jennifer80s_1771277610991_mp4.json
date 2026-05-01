@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Magazine\\ssstik.io_@jennifer80s_1771277610991.mp4",
+  "detailed_description": "This video offers a nostalgic journey through a vintage Glamour magazine from the 90s, showcasing a rapid succession of iconic advertisements and fashion spreads. The viewer gets a glimpse into the beauty, fashion, and lifestyle trends of the era, from makeup and hair products to clothing brands and music club offers. The continuous flipping of pages highlights the distinct aesthetic and advertising styles of the past, evoking a sense of retro appeal and cultural memory.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "01:00.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "Vintage magazine",
+        "Glamour magazine",
+        "90s ads",
+        "beauty products",
+        "fashion spreads",
+        "lipstick",
+        "mascara",
+        "shampoo",
+        "perfume",
+        "denim",
+        "celebrities",
+        "models",
+        "flipping pages",
+        "nostalgia"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "nostalgic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "vintage aesthetic",
+          "overhead shot",
+          "smooth transitions"
+        ]
+      },
+      "why_kept": "The entire video captures the semantic core by continuously showcasing vintage magazine advertisements and fashion spreads from the 90s. The act of flipping pages is the primary interaction, serving as a reveal for each new historical ad, making the whole duration essential for demonstrating the core value of the content."
+    }
+  ]
+}

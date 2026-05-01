@@ -1,0 +1,86 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated Before_After\\ssstik.io_@vanessakhongg_1774535634411.mp4",
+  "detailed_description": "This video humorously showcases the relatable experience of a woman dealing with bloating and discomfort due to constipation, contrasting it with the feeling of relief and renewed confidence after having a bowel movement. It visually presents a 'before and after' comparison of her stomach, highlighting the physical changes and emotional transformation from mild distress to empowered satisfaction. The video effectively uses text overlays to convey the 'problem state' and the 'result,' making the content highly relatable.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bloated stomach",
+        "pouting",
+        "patting belly",
+        "bedroom"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment establishes the 'problem state' by showing the woman's slightly bloated stomach and a facial expression of mild discomfort, clearly setting up the 'before' part of the comparison as indicated by the text overlay."
+    },
+    {
+      "start_time": "00:03.700",
+      "end_time": "00:11.750",
+      "structural_tags": [
+        "Result_Transformation",
+        "Social_Proof",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "woman",
+        "flat stomach",
+        "confident pose",
+        "smiling",
+        "black crop top",
+        "white shorts",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment serves as the 'after' state, showcasing the dramatic physical transformation to a flat stomach and a marked shift to a confident, happy facial expression, effectively conveying the relief and positive outcome of the 'solution' and acting as the main point of the video."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\532531331_58428C1D14164E30ACC188BDE5987BA0_video_dashinit.mp4",
+  "detailed_description": "This video vividly demonstrates a remarkable hair transformation over an approximate ten-month period. It begins with a 'Before' shot from November 2023, revealing a receding hairline and thinning hair, capturing a common problem state. The video then transitions to an 'After' shot from September 2024, showcasing significant hair regrowth, increased density, and a fuller hairline. The entire sequence serves as a clear visual testament to the success of a hair restoration process, highlighting a positive and dramatic change in the individual's hair condition.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.410",
+      "structural_tags": [
+        "Before_After",
+        "Result_Transformation",
+        "Problem_State",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair",
+        "hairline",
+        "hair thinning",
+        "hair growth",
+        "phone",
+        "mirror",
+        "dark hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious",
+          "transformative",
+          "hopeful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "self-shot",
+          "mirror reflection",
+          "clear visibility of hair"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it presents a compelling 'Before and After' transformation, which is the ultimate reveal and value proposition of the video. It directly addresses a problem (thinning hair) and showcases a successful solution (hair regrowth), making it the primary 'Hero Moment' of result and change. The text overlays with dates are crucial for understanding the timeline of the transformation."
+    }
+  ]
+}

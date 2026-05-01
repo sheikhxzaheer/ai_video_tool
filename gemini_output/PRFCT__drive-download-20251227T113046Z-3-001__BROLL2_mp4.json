@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\drive-download-20251227T113046Z-3-001\\BROLL2.mp4",
+  "detailed_description": "This video's semantic core focuses on the clear and inviting presentation of a 'PRFCCT MORNING TANGERINE PULSE' product. A man holds the product towards the camera, showcasing its packaging and branding. His positive facial expression, a gentle smile, establishes an immediate emotional connection and suggests satisfaction or anticipation associated with the product. The segment highlights the product's identity and aims to convey a positive, energetic start to the day.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:06.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man holding product",
+        "PRFCCT MORNING TANGERINE PULSE",
+        "product packaging",
+        "smiling face",
+        "orange gradient"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus on product",
+          "shallow depth of field",
+          "warm lighting"
+        ]
+      },
+      "why_kept": "This segment is the semantic core because it clearly introduces and displays the product in full focus, held by a smiling individual, directly fulfilling the 'Product Interaction' and 'Emotional Climax' hero moment criteria. The product name 'PRFCCT MORNING' is legible, providing key context. The segment effectively conveys the product's identity and purpose, establishing a positive association before the focus shifts and blurs."
+    }
+  ]
+}

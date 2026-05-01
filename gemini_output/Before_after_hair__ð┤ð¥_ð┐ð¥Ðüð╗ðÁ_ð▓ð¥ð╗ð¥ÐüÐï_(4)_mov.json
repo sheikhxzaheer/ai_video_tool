@@ -1,0 +1,467 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ð▓ð¥ð╗ð¥ÐüÐï (4).mov",
+  "detailed_description": "This video chronicles a man's six-month hair transplant journey, starting from the initial procedure at age 28. It visually tracks his progress through monthly updates, including the 'ugly duckling' phase, significant growth at month four, and a confident reveal at six months. The creator highlights the emotional impact of renewed self-confidence and feeling younger, encouraging viewers to consider a hair transplant. The video concludes with a strong call to action, recommending Doctours for the procedure and mentioning their payment plans.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "touching hair",
+        "smiling",
+        "hair growth"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "casual"
+        ]
+      },
+      "why_kept": "This segment serves as the primary visual hook and immediate reveal of the 6-month post-transplant result, establishing the video's core theme."
+    },
+    {
+      "start_time": "00:03.100",
+      "end_time": "00:06.130",
+      "structural_tags": [
+        "Before_After",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "man",
+        "beanie",
+        "walking",
+        "airport"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "travel"
+        ],
+        "mood": [
+          "anticipatory"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "action shot"
+        ]
+      },
+      "why_kept": "This segment provides the 'before' visual context, showing the subject wearing a hat likely to cover his previous hair loss, setting up the 'Before/After' narrative."
+    },
+    {
+      "start_time": "00:06.130",
+      "end_time": "00:12.300",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "man",
+        "short hair",
+        "red scalp",
+        "cat",
+        "woman cutting hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear, bright lighting",
+          "documentary style"
+        ]
+      },
+      "why_kept": "This segment is the first 'Month 1' reveal, showing the immediate post-transplant state and the transplanted hair before the shedding phase, crucial for detailing the process."
+    },
+    {
+      "start_time": "00:12.300",
+      "end_time": "00:16.800",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Negative_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "red scalp",
+        "stubble",
+        "woman's hand touching head"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "revealing"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment captures the 'ugly duckling phase' at month two, a key, challenging part of the hair transplant process, demonstrating transparency and reality."
+    },
+    {
+      "start_time": "00:16.800",
+      "end_time": "00:20.700",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Negative_Emotion",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "man",
+        "short hair",
+        "redness",
+        "talking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "patient"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting"
+        ]
+      },
+      "why_kept": "Shows the hair at month three, still 'rough', emphasizing the need for patience as a crucial part of the journey's emotional and physical process."
+    },
+    {
+      "start_time": "00:20.700",
+      "end_time": "00:25.500",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Result_Transformation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "touching hair",
+        "hair growth"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "optimistic",
+          "proud"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This 'Month 4' segment marks a significant turning point in hair growth, where the subject feels confident enough to go without a hat, a major positive reveal."
+    },
+    {
+      "start_time": "00:25.500",
+      "end_time": "00:30.900",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Result_Transformation",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "mirror",
+        "wet hair",
+        "applying hair product"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "fresh",
+          "practical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bathroom lighting"
+        ]
+      },
+      "why_kept": "Captures the 'Month 5' progress and a practical product interaction, showing the hair after a shower and styling, demonstrating its manageability and growth."
+    },
+    {
+      "start_time": "00:30.900",
+      "end_time": "00:38.900",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Result_Transformation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "full hair",
+        "touching hair",
+        "talking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "confident",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "casual"
+        ]
+      },
+      "why_kept": "This is the final and most impactful 'Month 6' reveal, showcasing the full and strong hair growth, which is the direct result of the transplant process."
+    },
+    {
+      "start_time": "00:38.900",
+      "end_time": "00:44.200",
+      "structural_tags": [
+        "Key_Information",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "talking",
+        "touching hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "optimistic",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "Provides crucial information about the long-term results of hair transplants, maintaining excitement and managing expectations for continued improvement."
+    },
+    {
+      "start_time": "00:44.200",
+      "end_time": "00:54.100",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "touching hair",
+        "smiling",
+        "turning head",
+        "back of head"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "confident",
+          "happy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "Highlights the profound emotional benefits and social impact of the hair transplant – feeling younger and more confident, directly linking to the 'reveal/result' criteria."
+    },
+    {
+      "start_time": "00:54.100",
+      "end_time": "00:58.500",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Problem_State",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "man",
+        "scalp marked",
+        "surgical cap",
+        "talking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "clinical"
+        ],
+        "mood": [
+          "serious",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clinical lighting"
+        ]
+      },
+      "why_kept": "This segment shows the initial 'before' state of the procedure (scalp markings) and transitions into a direct recommendation, framing the solution."
+    },
+    {
+      "start_time": "00:58.500",
+      "end_time": "01:06.600",
+      "structural_tags": [
+        "Offer_CTA",
+        "Social_Proof",
+        "Before_After",
+        "Financial_Stress"
+      ],
+      "visual_keywords": [
+        "split screen",
+        "before/after hair",
+        "Doctours website",
+        "reviews"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "digital",
+          "indoor"
+        ],
+        "mood": [
+          "informative",
+          "reassuring"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean graphic design"
+        ]
+      },
+      "why_kept": "This is a key 'Call to Action' segment, showcasing the Doctours platform, payment plans, and social proof, directly addressing potential barriers for viewers."
+    },
+    {
+      "start_time": "01:06.600",
+      "end_time": "01:11.500",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Positive_Emotion",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man",
+        "woman",
+        "smiling",
+        "outdoor",
+        "old photo",
+        "long hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "happy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "sunny",
+          "authentic"
+        ]
+      },
+      "why_kept": "Demonstrates the positive lifestyle impact and happiness from the transplant, also adding a 'before' comparison to his high school hair, reinforcing the transformation."
+    },
+    {
+      "start_time": "01:11.500",
+      "end_time": "01:20.900",
+      "structural_tags": [
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Offer_CTA",
+        "Urgency_Rush"
+      ],
+      "visual_keywords": [
+        "man",
+        "touching hair",
+        "talking",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "enthusiastic",
+          "convincing"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "Provides a final emotional climax ('crazy seeing it') and a strong, direct call to action, reinforcing the benefits and encouraging immediate engagement with the recommended service."
+    }
+  ]
+}

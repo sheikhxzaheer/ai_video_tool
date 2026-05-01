@@ -1,0 +1,214 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Man\\ssstik.io_@peterpandeveloper_1767613514776.mp4",
+  "detailed_description": "This video captures a modern developer's daily workflow within an aesthetically pleasing and ergonomic home office. It showcases a seamless routine involving smart desk gadgets like a glowing mug and a mechanical flip calendar, before transitioning into focused coding sessions. The highlight includes the dynamic use of a standing desk, demonstrating both seated and standing work to promote comfort and productivity throughout the day. The video emphasizes an organized, tech-integrated, and health-conscious approach to remote work, presenting a comprehensive look at a contemporary workspace. This workflow optimizes efficiency and well-being for a tech professional.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:04.700",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Morning_Routine",
+        "Aesthetic_Broll",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "hand",
+        "phone",
+        "charger",
+        "glowing mug",
+        "coaster",
+        "flip calendar",
+        "desk"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "organized desk"
+        ]
+      },
+      "why_kept": "This segment establishes the tech-integrated and organized workspace as part of a daily routine, showcasing unique desk items and setting the stage for the workday."
+    },
+    {
+      "start_time": "00:05.900",
+      "end_time": "00:07.800",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "hands typing",
+        "mechanical keyboard",
+        "mouse",
+        "desk mat"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused",
+          "tactile"
+        ]
+      },
+      "why_kept": "This segment is the first clear demonstration of the core work (typing/coding), representing the primary 'labor' of a developer and a key 'Product Interaction' with the keyboard."
+    },
+    {
+      "start_time": "00:07.800",
+      "end_time": "00:10.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "hand",
+        "headphones",
+        "man",
+        "typing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic movement"
+        ]
+      },
+      "why_kept": "Shows the product interaction of putting on headphones, enhancing the 'focused productivity' aspect of the routine and demonstrating a personal comfort choice."
+    },
+    {
+      "start_time": "00:10.500",
+      "end_time": "00:11.800",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "dual monitors",
+        "Spotify",
+        "code editor",
+        "laptop"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "digital interface",
+          "screen display"
+        ]
+      },
+      "why_kept": "Provides visual context for the type of work being done (coding) and the multi-screen setup, reinforcing the developer's modern work environment."
+    },
+    {
+      "start_time": "00:11.800",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "finger pressing button",
+        "standing desk",
+        "desk rising",
+        "man standing",
+        "stretching",
+        "typing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "smooth motion",
+          "ergonomic setup"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the key feature of the standing desk (mechanism of action) and the transition to an ergonomic, active working posture, highlighting a core product's value."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:19.900",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "man standing",
+        "typing",
+        "keyboard",
+        "laptop",
+        "monitors"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "productive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "continuous workflow",
+          "modern workspace"
+        ]
+      },
+      "why_kept": "This segment reinforces the sustained work in the standing position, showcasing continuous productivity and the full integration of the ergonomic setup into the daily routine, demonstrating the 'Process/Labor' value."
+    }
+  ]
+}

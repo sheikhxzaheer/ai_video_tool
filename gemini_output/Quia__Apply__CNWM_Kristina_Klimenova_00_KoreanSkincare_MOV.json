@@ -1,0 +1,192 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Apply\\CNWM_Kristina Klimenova_00_KoreanSkincare.MOV",
+  "detailed_description": "The video introduces the OUIO Collagen Night Wrapping Mask, a Korean beauty product highlighted for achieving flawless, youthful \"glass skin\" and reducing wrinkles. The creator, inspired by Korean women's ageless appearance, demonstrates the mask's application using a brush, explaining that its nano-collagen formula penetrates the skin overnight to hydrate and restore lost collagen. The video emphasizes the product's benefits in preventing fine lines and wrinkles, concluding with a call to action for viewers to try it.",
+  "segments": [
+    {
+      "start_time": "00:51.693",
+      "end_time": "00:56.123",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink robe",
+        "pink headband",
+        "holding pink tube",
+        "OUIO Collagen Night Wrapping Mask",
+        "product packaging"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "informative",
+          "enthusiastic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "clean background",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment clearly introduces the main product, the 'OUIO Collagen Night Wrapping Mask,' which is the central focus of the video. It serves as a strong product introduction."
+    },
+    {
+      "start_time": "00:56.123",
+      "end_time": "01:02.043",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink robe",
+        "squeezing pink tube",
+        "product on hand",
+        "gel consistency"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "product demonstration",
+          "textured background"
+        ]
+      },
+      "why_kept": "This segment demonstrates the product's texture and initial application method, detailing how it works as the last step in a skincare routine to lock in other products, supporting the main product's value proposition."
+    },
+    {
+      "start_time": "01:02.043",
+      "end_time": "01:10.573",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink robe",
+        "holding pink tube",
+        "mask brush",
+        "explaining benefits",
+        "collagen absorption"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "tool demonstration",
+          "clear explanation"
+        ]
+      },
+      "why_kept": "This segment shows the application tool (brush) and provides crucial 'Key Information' about nano-collagen and how it absorbs into the skin, directly explaining the product's efficacy."
+    },
+    {
+      "start_time": "01:10.573",
+      "end_time": "01:45.003",
+      "structural_tags": [
+        "The_Process/Labor",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink robe",
+        "applying mask",
+        "mask brush",
+        "face",
+        "forehead",
+        "cheeks",
+        "jawline",
+        "glowing skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "informative",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "face application",
+          "skin care routine",
+          "detailed demonstration"
+        ]
+      },
+      "why_kept": "This is a continuous 'Process/Labor' segment showing the full application of the mask to the face, reinforced with 'Key Information' about its benefits (glowing, hydrated skin, fine line reduction). It directly demonstrates the product's use and implied 'Result_Transformation'."
+    },
+    {
+      "start_time": "02:05.003",
+      "end_time": "02:11.133",
+      "structural_tags": [
+        "Offer_CTA",
+        "Product_Intro",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink robe",
+        "holding pink tube",
+        "OUIO Collagen Night Wrapping Mask",
+        "pointing down",
+        "call to action"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "persuasive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "clear call to action"
+        ]
+      },
+      "why_kept": "This segment serves as the concluding 'Call to Action,' explicitly encouraging viewers to try the product while clearly showcasing the product once more."
+    }
+  ]
+}

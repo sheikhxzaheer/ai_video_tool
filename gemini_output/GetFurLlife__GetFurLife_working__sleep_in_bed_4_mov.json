@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLife_working\\sleep_in_bed_4.mov",
+  "detailed_description": "This video's semantic core captures a golden retriever dog deeply asleep, nestled comfortably in a plush, gray pet bed or blanket. The dog's peaceful expression and full relaxation highlight the comfort and quality of the pet product. The entire segment demonstrates the product's effectiveness in providing a cozy and secure resting place for pets, evoking a sense of calm and contentment.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:14.00",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "sleeping dog",
+        "golden retriever",
+        "pet bed",
+        "plush blanket",
+        "relaxed expression",
+        "dog's nose"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "cozy atmosphere",
+          "textured fabric"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully demonstrates the primary benefit of a pet bed – comfort and relaxation – through the dog's serene sleep and peaceful facial expression. It showcases direct product interaction and an emotional climax of contentment."
+    }
+  ]
+}

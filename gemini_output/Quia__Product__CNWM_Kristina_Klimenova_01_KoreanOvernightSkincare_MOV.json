@@ -1,0 +1,156 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Product\\CNWM_Kristina Klimenova_01_KoreanOvernightSkincare.MOV",
+  "detailed_description": "The video highlights a Korean beauty hack involving an overnight collagen mask. The speaker, having recently returned from Korea, enthusiastically shares her discovery of the 'AIUO Collagen Night Wrapping Mask' and a silicone applicator. She explains how the mask effectively locks in skincare products, ensuring maximum absorption overnight instead of residue transferring to pillows. The video showcases the clear and perfect skin results she experienced after just three days of use, contrasting it with her skin's previous state. She highly recommends this Korean skincare innovation as a transformative beauty solution.",
+  "segments": [
+    {
+      "start_time": "00:20.100",
+      "end_time": "00:28.450",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink tube",
+        "AIUO mask",
+        "white applicator",
+        "talking",
+        "gesturing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear skin focus"
+        ]
+      },
+      "why_kept": "This segment introduces the product clearly, states its name, and explains its core mechanism of action (locking in skincare overnight), which is the central value proposition of the video."
+    },
+    {
+      "start_time": "00:52.200",
+      "end_time": "01:00.650",
+      "structural_tags": [
+        "Product_Intro",
+        "Social_Proof",
+        "Product_Standalone",
+        "Product_Interaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink tube",
+        "AIUO mask",
+        "Korean Beauty",
+        "talking",
+        "showing label"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear skin focus"
+        ]
+      },
+      "why_kept": "This segment reinforces the product's credibility by mentioning recommendations from locals in Korea and clearly displays the product name, solidifying its identity and the 'Korean beauty hack' aspect."
+    },
+    {
+      "start_time": "01:18.250",
+      "end_time": "01:21.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Face_Reaction",
+        "Result_Transformation",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "wide eyes",
+        "touching chin",
+        "clear skin",
+        "surprised expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "shock",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clear skin focus"
+        ]
+      },
+      "why_kept": "This segment captures a strong emotional climax and explicitly points to the visual transformation of her skin, serving as a powerful 'before/after' implication and highlighting the product's effectiveness."
+    },
+    {
+      "start_time": "01:33.200",
+      "end_time": "01:38.200",
+      "structural_tags": [
+        "Offer_CTA",
+        "Product_Interaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink tube",
+        "white applicator",
+        "talking",
+        "recommending"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear skin focus"
+        ]
+      },
+      "why_kept": "This segment provides a clear and direct call to action, encouraging viewers to try the product and reiterating the speaker's strong personal endorsement."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid playing\\ssstik.io_@clauserquen_1763680251444.mp4",
+  "detailed_description": "This video captures a toddler's successful transition from a crib to a new, smaller toddler bed. The bed, specifically designed for children aged one to one and a half years and older, is showcased for its practical features, including safety rails and low height, which enable the child to easily climb in and out. The video emphasizes the bed's aesthetic appeal, ease of assembly, and availability in different colors, concluding with a call to action for viewers to purchase the bed, especially noting the cost-effectiveness of the mattress-inclusive option.",
+  "segments": [
+    {
+      "start_time": "00:03.785",
+      "end_time": "00:34.020",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Social_Proof",
+        "Offer_CTA",
+        "Product_Standalone",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "toddler bed",
+        "baby",
+        "pajamas",
+        "blanket",
+        "stuffed animals",
+        "dresser",
+        "room lights",
+        "crib transition"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "color-changing lights",
+          "cozy atmosphere",
+          "bedroom setting"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it fully introduces the new toddler bed, demonstrates the baby's interaction and comfort with it, clearly highlights the product's key features (safety, accessibility, size), shows the positive outcome of the transition, and provides the essential call to action for potential buyers. It covers all relevant 'Hero Moment' criteria for the video's purpose."
+    }
+  ]
+}

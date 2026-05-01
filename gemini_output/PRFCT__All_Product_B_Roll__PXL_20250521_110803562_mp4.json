@@ -1,0 +1,55 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250521_110803562.mp4",
+  "detailed_description": "The video prominently features a person's hand holding a 'PRFCT MORNING TANGERINE PULSE' hydration and metabolic energy supplement pouch. The product is shown with water droplets, hinting at its use in active, warm environments. The backdrop is a picturesque clear blue ocean and rugged cliffs under a bright sky, conveying a sense of outdoor activity, freshness, and natural wellness. The product packaging is clearly visible, highlighting its benefits like 'Rapid Hydration,' 'Metabolic Activators' (turmeric, apple cider vinegar, black pepper), and 'Nutrient Charge,' positioning it as an essential for an active lifestyle by the sea.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:17.900",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "hand",
+        "product pouch",
+        "PRFCT MORNING",
+        "TANGERINE PULSE",
+        "water droplets",
+        "ocean",
+        "sea",
+        "cliffs",
+        "rocks",
+        "blue sky"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "nature",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "rugged",
+          "refreshing"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright sunlight",
+          "clear focus",
+          "natural lighting",
+          "serene background",
+          "wet appearance"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core. It clearly displays the product, its branding, and key benefits (Hydration Fuel, Metabolic Activators, Nutrient Charge) while a hand holds it. The natural, outdoor setting against the ocean and cliffs provides strong lifestyle context, suggesting the product's use for active, outdoor pursuits. The presence of water droplets on the pouch reinforces the idea of hydration and refreshment. All relevant information and visual appeal are concentrated in this continuous shot."
+    }
+  ]
+}

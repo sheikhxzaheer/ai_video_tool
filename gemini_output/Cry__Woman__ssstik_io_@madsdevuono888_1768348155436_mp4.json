@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cry\\Woman\\ssstik.io_@madsdevuono888_1768348155436.mp4",
+  "detailed_description": "A woman is captured on camera expressing intense sadness and crying, with tears visible and her voice audibly breaking with emotion. Her eyes are red and swollen, conveying a profound sense of distress. She communicates a desire to post the video to reflect on the experience, expressing hope for a positive outcome and requesting prayers. A young child briefly enters the frame and is embraced by her, further emphasizing a personal and vulnerable moment within a home setting. The video encapsulates a raw emotional climax and a call for support.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:34.908",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "crying woman",
+        "red eyes",
+        "sad expression",
+        "distress",
+        "child",
+        "t-shirt",
+        "blanket"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "emotional",
+          "vulnerable",
+          "authentic"
+        ]
+      },
+      "why_kept": "This entire segment serves as the 'Emotional Climax' hero moment, clearly showcasing the subject's profound distress and 'Face_Reaction' through visible crying and emotional speech. The continuous display of raw emotion, the brief interaction with a child, and the subject directly addressing the camera for support are central to the video's core meaning, without any identifiable setup or post-action dead air to trim."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury life\\ssstik.io_@edgar_welcome_1767010969846.mp4",
+  "detailed_description": "This video captures a dynamic urban moment featuring a striking red Lamborghini sports car. The vehicle is seen driving past the camera on a city street, showcasing its sleek design and emitting a characteristic engine sound. The clip highlights the presence of a high-performance luxury car amidst everyday city life, with other vehicles, pedestrians, and urban architecture visible in the background. It effectively presents the vehicle's aesthetic and auditory impact as it navigates the street.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.162",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Travel_Transit",
+        "Aesthetic_Broll",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "red Lamborghini",
+        "sports car",
+        "city street",
+        "driving",
+        "pedestrian",
+        "bus",
+        "traffic light",
+        "crane"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic shot",
+          "clear daylight",
+          "urban setting",
+          "rich red color"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it captures the entire duration of the luxury sports car (Lamborghini) driving past, which is the main subject and action of the video. It serves as the primary 'product interaction' and 'visual hook', showcasing the car's aesthetics and presence in an urban setting, thus fulfilling the 'No-Mistake Rule' by keeping the complete action."
+    }
+  ]
+}

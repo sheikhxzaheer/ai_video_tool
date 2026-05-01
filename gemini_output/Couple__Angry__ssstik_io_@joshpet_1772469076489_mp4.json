@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Couple\\Angry\\ssstik.io_@joshpet_1772469076489.mp4",
+  "detailed_description": "This video captures a charming and humorous interaction between an elderly couple. The woman playfully expresses her intention to go upstairs, but her husband, relaxing in a recliner, teases her, playfully asserting his authority over her bedtime. Their lighthearted argument escalates with amusing banter, including the man's playful 'dumbass' comment and the woman's energetic 'I got moves for you.' The segment highlights their loving and long-standing dynamic, showcasing their fun-loving personalities.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:52.400",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "UGC_Talking_Head",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "elderly couple",
+        "playful argument",
+        "recliner",
+        "living room",
+        "television",
+        "woman standing",
+        "man sitting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "casual home video",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "The entire video constitutes the semantic core, demonstrating the playful and loving interaction between the elderly couple. The continuous dialogue and facial expressions are integral to conveying the emotional climax and key information about their relationship dynamic. Trimming would remove context from this continuous banter, which is the primary value of the content."
+    }
+  ]
+}

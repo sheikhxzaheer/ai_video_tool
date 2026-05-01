@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250522_090823088.mp4",
+  "detailed_description": "This video features a clear, aesthetic product shot of 'PRFCT MORNING TANGERINE PULSE' hydration and metabolic fuel. The product packaging, an orange and white pouch, floats serenely on the surface of clear, rippling water under natural sunlight. The camera slowly rotates around the pouch, showcasing the branding and key benefits such as 'Rapid Hydration, Performance & Metabolic Energy', 'Hydration Fuel', 'Metabolic Activators', and 'Nutrient Charge+'. The tranquil water background emphasizes the product's refreshing and natural qualities.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.015",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Calm_Relaxation",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "product packaging",
+        "orange pouch",
+        "clear water",
+        "ripples",
+        "sunlight",
+        "PRFCT MORNING",
+        "TANGERINE PULSE"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "nature",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "fresh"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clear water reflection",
+          "natural light",
+          "gentle movement",
+          "minimalist branding"
+        ]
+      },
+      "why_kept": "The entire segment serves as the semantic core, providing a continuous, aesthetically pleasing presentation of the product. It clearly introduces the 'PRFCT MORNING TANGERINE PULSE' packaging, highlighting its branding and stated benefits while floating in a refreshing water environment, which perfectly aligns with the product's hydration theme. No trimming was necessary as the video starts and ends with the core action of showcasing the product."
+    }
+  ]
+}

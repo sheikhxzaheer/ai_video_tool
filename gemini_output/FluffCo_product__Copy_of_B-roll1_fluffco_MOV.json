@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B-roll1 fluffco.MOV",
+  "detailed_description": "This video captures a woman in a modern bathroom, taking a mirror selfie to showcase a black athleisure outfit, consisting of a sleeveless top and leggings. She smiles and poses confidently, placing her hand on her hip and making slight adjustments, emphasizing the comfortable fit and flattering appearance of the clothing. The entire segment highlights the product's wearability and the subject's satisfaction with it.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:30.933",
+      "structural_tags": [
+        "Product_Standalone",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman posing",
+        "black leggings",
+        "black sleeveless top",
+        "mirror selfie",
+        "smiling",
+        "modern bathroom",
+        "white marble floor"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "mirror reflection",
+          "clean aesthetic",
+          "bright lighting",
+          "casual fashion"
+        ]
+      },
+      "why_kept": "The entire video features the subject actively posing and smiling in a black top and leggings, clearly demonstrating the fit and appearance of the clothing, which constitutes the primary value and 'hero moment' of the content. There are no identifiable setup/calibration or post-action dead air segments; the action of showcasing the product is continuous."
+    }
+  ]
+}

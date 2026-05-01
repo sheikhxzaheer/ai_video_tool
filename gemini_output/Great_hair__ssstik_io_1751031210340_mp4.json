@@ -1,0 +1,237 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1751031210340.mp4",
+  "detailed_description": "This video showcases a significant hair transformation for an adult male. It begins by presenting the 'before' state, articulating the desire to avoid an unfashionable look, and then details the professional haircutting process. The core value is demonstrated through the 'after' reveal, highlighting a younger, more stylish appearance. The video concludes with a direct before-and-after split screen comparison, emphasizing the dramatic and positive change achieved, specifically recommending the service for men seeking a youthful transformation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.600",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "gray hair",
+        "mustache",
+        "white cape",
+        "salon",
+        "looking around"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "neutral lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment establishes the initial 'before' state of the client's hair and implicitly sets up the need for a transformation, acting as a visual hook."
+    },
+    {
+      "start_time": "00:03.600",
+      "end_time": "00:04.500",
+      "structural_tags": [
+        "Problem_State",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "text overlay",
+        "Japanese text",
+        "black screen"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "minimalist"
+        ]
+      },
+      "why_kept": "This text segment explicitly states the client's problem or desire, providing crucial context for the subsequent actions."
+    },
+    {
+      "start_time": "00:04.500",
+      "end_time": "00:06.600",
+      "structural_tags": [
+        "Human_Interaction",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "hairstylist",
+        "customer",
+        "mask",
+        "hair consultation",
+        "hair prepping"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment shows the professional interaction and initial preparation, emphasizing the service aspect and client involvement before the cut."
+    },
+    {
+      "start_time": "00:06.600",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "electric shaver",
+        "scissors",
+        "haircut",
+        "stylist hands",
+        "hair falling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dynamic cutting action"
+        ]
+      },
+      "why_kept": "This is the core 'process' segment, demonstrating the actual labor and skill involved in cutting the hair and performing the transformation."
+    },
+    {
+      "start_time": "00:14.000",
+      "end_time": "00:20.500",
+      "structural_tags": [
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "After_State"
+      ],
+      "visual_keywords": [
+        "man",
+        "new haircut",
+        "stylish",
+        "smiling",
+        "turning head",
+        "confident look"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "positive",
+          "confident",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is the initial 'reveal' of the successful transformation, showcasing the client's new look and positive emotional reaction."
+    },
+    {
+      "start_time": "00:23.000",
+      "end_time": "00:25.000",
+      "structural_tags": [
+        "Key_Information",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "text overlay",
+        "Japanese text",
+        "black screen",
+        "recommendation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "minimalist"
+        ]
+      },
+      "why_kept": "This segment provides key information about the target audience and benefit, reinforcing the value proposition of the service."
+    },
+    {
+      "start_time": "00:25.000",
+      "end_time": "00:27.500",
+      "structural_tags": [
+        "Before_After",
+        "Split_Screen",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "split screen",
+        "old haircut",
+        "new haircut",
+        "side-by-side comparison",
+        "hair transformation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "impactful",
+          "transformative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct comparison",
+          "clear contrast"
+        ]
+      },
+      "why_kept": "This is the definitive 'Before/After' comparison, visually demonstrating the significant transformation in a single, impactful frame."
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_Tina_poductapplication (1).mp4",
+  "detailed_description": "This video showcases the application and immediate effects of two Korean beauty skincare products: a Collagen Night Wrapping Mask and a Collagen Niacinamide Jelly Cream. It highlights the unique jelly-like texture of the products, demonstrates their smooth application using spatulas and brushes, and visibly illustrates the resulting hydrated and glowing skin. The video includes a quick 'Before/After' comparison and close-ups of the product packaging, emphasizing the brand's name 'QUIA Korean Beauty.'",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hands",
+        "spatula",
+        "pink jelly",
+        "product jar",
+        "QUIA logo"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment serves as a strong visual hook, immediately showcasing the product's unique, vibrant jelly texture and the act of scooping, which is a key product interaction."
+    },
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:02.500",
+      "structural_tags": [
+        "Before_After",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "glowing skin",
+        "split screen"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct comparison",
+          "natural light"
+        ]
+      },
+      "why_kept": "This brief segment is crucial as it directly demonstrates the 'Before/After' effect, clearly showing the product's transformative result on the skin, which is a core value proposition."
+    },
+    {
+      "start_time": "00:02.500",
+      "end_time": "00:09.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "Collagen Night Wrapping Mask",
+        "pink tube",
+        "silicone brush",
+        "face application",
+        "glowing skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "smooth application",
+          "focus on skin texture"
+        ]
+      },
+      "why_kept": "This segment introduces the first product (mask), demonstrates its application process using a tool, and immediately shows the hydrating and glowing effect on the skin, providing clear value and action."
+    },
+    {
+      "start_time": "00:09.500",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "Collagen Niacinamide Jelly Cream",
+        "pink jar",
+        "spatula",
+        "face application",
+        "glowing skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "tactile sensation",
+          "emphasis on hydration"
+        ]
+      },
+      "why_kept": "This segment introduces the second product (jelly cream), showcases its unique texture and application method with a spatula, followed by gentle rubbing to highlight the immediate radiant and hydrated skin, fully demonstrating its usage and effect."
+    }
+  ]
+}

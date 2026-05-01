@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Apply\\CNWM_JillianGray_010_Application.MOV",
+  "detailed_description": "The video demonstrates a woman applying a clear face mask to her forehead using a small silicone brush. Wearing a pink fuzzy headband, she directly addresses the viewer, explaining that the product should be applied everywhere and left on for only 15 minutes to dry. This segment highlights the ease of application and the short waiting time, emphasizing a simple and efficient skincare routine.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "UGC_Talking_Head",
+        "Calm_Relaxation",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman applying mask",
+        "silicone brush",
+        "clear gel mask",
+        "pink headband",
+        "forehead application",
+        "skincare routine"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "direct address",
+          "natural"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully captures the product interaction (applying the mask with a brush), the process (explaining the application and wait time), and the key information conveyed by the speaker. There is no dead air or setup; the action and dialogue are continuous and relevant to the product demonstration."
+    }
+  ]
+}

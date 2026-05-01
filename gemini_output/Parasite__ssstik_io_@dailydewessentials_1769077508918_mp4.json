@@ -1,0 +1,212 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Parasite\\ssstik.io_@dailydewessentials_1769077508918.mp4",
+  "detailed_description": "This video demonstrates the potent effect of oregano oil on human parasites under a microscope. It begins by showing active parasites, then introduces oregano oil, which is observed to gradually suffocate and envelop them. Over 30 minutes, the parasites' movement slows, and they become tightly surrounded by the oil, eventually appearing as if their internal structures are trying to escape, illustrating oregano oil's parasiticidal mechanism.",
+  "segments": [
+    {
+      "start_time": "00:01.071",
+      "end_time": "00:05.571",
+      "structural_tags": [
+        "Product_Interaction",
+        "Behind_The_Scenes",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "hand",
+        "glove",
+        "dropper",
+        "oregano oil bottle",
+        "microscope slide"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment shows the preparation of the experiment, including the product (oregano oil) being handled and applied, which is a key 'Product Interaction' and 'Process/Labor' element."
+    },
+    {
+      "start_time": "00:08.649",
+      "end_time": "00:12.649",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Macro_Detail",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "worms",
+        "parasites",
+        "microscopic view",
+        "movement"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "microscope view",
+          "high magnification"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state, showing the active parasites, which is crucial for demonstrating the subsequent 'Result_Transformation' after oregano oil is applied."
+    },
+    {
+      "start_time": "00:13.621",
+      "end_time": "00:25.799",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Macro_Detail",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "oregano oil",
+        "droplets",
+        "worms",
+        "parasites",
+        "microscopic view",
+        "suffocation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "microscope view",
+          "real-time observation"
+        ]
+      },
+      "why_kept": "This is the core 'Hero Moment' where the oregano oil is introduced to the parasites, and its immediate effect (suffocation) is shown, directly demonstrating the product's function."
+    },
+    {
+      "start_time": "00:26.171",
+      "end_time": "00:32.171",
+      "structural_tags": [
+        "Result_Transformation",
+        "Time_Wasted",
+        "Macro_Detail",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "worms",
+        "parasites",
+        "microscopic view",
+        "slowing movement",
+        "oregano oil"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "microscope view",
+          "time-lapse effect"
+        ]
+      },
+      "why_kept": "This segment shows the progression of the oregano oil's effect after 5 minutes, highlighting the gradual slowing of parasite movement, a key 'Result_Transformation'."
+    },
+    {
+      "start_time": "00:32.281",
+      "end_time": "00:46.911",
+      "structural_tags": [
+        "Result_Transformation",
+        "Mechanism_Of_Action",
+        "Macro_Detail",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "worms",
+        "parasites",
+        "microscopic view",
+        "oregano oil",
+        "surrounded"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "microscope view",
+          "oil encapsulation"
+        ]
+      },
+      "why_kept": "This segment illustrates the 'Mechanism_Of_Action' as the oregano oil physically surrounds the parasites, a significant step in their immobilization and demise."
+    },
+    {
+      "start_time": "00:47.011",
+      "end_time": "01:04.621",
+      "structural_tags": [
+        "Result_Transformation",
+        "Cellular_Deep_Dive",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "worms",
+        "parasites",
+        "microscopic view",
+        "oregano oil",
+        "internal disruption",
+        "cellular escape"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "microscope view",
+          "high magnification",
+          "visual evidence"
+        ]
+      },
+      "why_kept": "This final segment provides the culmination of the experiment, showing the severe impact on the parasites after 30 minutes, with apparent cellular disruption, representing the ultimate 'Result_Transformation'."
+    }
+  ]
+}

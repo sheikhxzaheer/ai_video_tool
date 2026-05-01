@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Gym\\Weird\\ssstik.io_@djfrancisco__1763103387009.mp4",
+  "detailed_description": "This video captures a man performing an unconventional core exercise at a modern gym, highlighting what the on-screen text labels as 'weird gym exercises.' The individual steps onto a specialized machine designed for abdominal work, then executes a unique movement where his legs and upper body are lifted in an inverted position, engaging his core muscles. The segment provides a clear demonstration of this peculiar fitness routine from start to finish.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:12.72",
+      "structural_tags": [
+        "Visual_Hook",
+        "Process_Labor",
+        "Human_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man",
+        "gym",
+        "exercise machine",
+        "abdominal exercise",
+        "leg raises",
+        "fitness",
+        "gym equipment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym",
+          "indoor"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean gym",
+          "modern gym design"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it fully demonstrates the 'weird gym exercise' as indicated by the video's text. It shows the complete process of the individual getting onto the specialized machine and performing the exercise, which is the core action and value proposition of the video."
+    }
+  ]
+}

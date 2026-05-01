@@ -1,0 +1,78 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Acne Before_After\\ð░ð║ð¢ðÁ ð┤ð¥ ð┐ð¥Ðüð╗ðÁ 4.mp4",
+  "detailed_description": "This video vividly illustrates a 'before and after' transformation focused on skin health and emotional well-being. It begins by showcasing a young woman with severe acne and a visibly distressed, tearful expression, representing a 'problem state'. The narrative then transitions to the same woman with clear, radiant skin and a calm, happy demeanor, signifying a successful 'result transformation' and a positive emotional climax. The core meaning lies in the powerful visual contrast between the two states, implying a journey to improved skin and newfound confidence.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.700",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "young woman",
+        "acne",
+        "red skin",
+        "sad expression",
+        "tears",
+        "crying"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "sad"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct lighting",
+          "vulnerable"
+        ]
+      },
+      "why_kept": "This segment is crucial as it establishes the 'problem state' and elicits a strong negative emotional response, setting up the context for the subsequent transformation. It's the 'before' part of the narrative."
+    },
+    {
+      "start_time": "00:05.750",
+      "end_time": "00:11.750",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "young woman",
+        "clear skin",
+        "smiling",
+        "confident expression",
+        "long hair",
+        "earbuds"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "healthy glow"
+        ]
+      },
+      "why_kept": "This segment is the 'reveal' or 'after' shot, demonstrating the successful transformation with clear skin and a positive, confident facial expression. It provides the resolution to the 'problem state' shown earlier, completing the video's core message."
+    }
+  ]
+}

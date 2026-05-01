@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\With friend\\ssstik.io_@karicassandra_1760873899114.mp4",
+  "detailed_description": "This video beautifully captures two women enjoying a sunny day in a picturesque cobblestone street lined with traditional stone buildings. They share moments of affection, holding hands, and playfully interacting, including a brief kiss and joyful twirls. The entire sequence exudes positive emotion, companionship, and a carefree travel lifestyle, highlighting their happy connection and the charming environment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "two women",
+        "kissing",
+        "smiling",
+        "holding hands",
+        "posing",
+        "twirling",
+        "cobblestone street",
+        "stone buildings",
+        "sunglasses",
+        "summer outfits"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "sunny",
+          "European village aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it continuously showcases the key 'Hero Moments' of 'Emotional Climax' (joy, affection, playful expressions) and 'Human Interaction' (kissing, holding hands, shared smiles). The short, uninterrupted flow effectively conveys the core message of companionship and a happy, relaxed lifestyle in an aesthetic setting. There are no discernible 'setup,' 'dead air,' or irrelevant portions to trim based on the specified rules."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury bed\\ssstik.io_@cityhouse_global_1766728773877.mp4",
+  "detailed_description": "This video showcases a stunning and uniquely designed bed, presented within a luxurious showroom setting. The bed's design is highlighted, featuring an elaborate headboard crafted with green velvets and elegant gold metal inserts. The presenter's voiceover explains that the design is inspired by a beautiful landscape. The camera moves to reveal the intricate details of the bed, emphasizing its premium materials and sophisticated aesthetic, from the wavy headboard to the matching bedside table.",
+  "segments": [
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Macro_Detail",
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "bed",
+        "headboard",
+        "green velvet",
+        "gold metal inserts",
+        "bedside table",
+        "decorative lamp",
+        "rug"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "detailed pan",
+          "luxurious design",
+          "elegant"
+        ]
+      },
+      "why_kept": "This segment serves as the semantic core by directly showcasing the featured bed in detail. The camera movement highlights the unique design, materials (green velvets, metal inserts), and overall aesthetic of the product, fulfilling the 'Reveal/Result' and 'Product Interaction' (camera interaction with product) criteria. The accompanying voiceover provides key information about the bed's inspiration and finishes, making this the most valuable and visually explicit part of the video for understanding the product."
+    }
+  ]
+}

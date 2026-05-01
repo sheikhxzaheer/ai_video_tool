@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated\\ssstik.io_@gracehopkins123_1774368811366.mp4",
+  "detailed_description": "The video features a young woman in light blue pajamas revealing her slightly bloated stomach, accompanied by an on-screen text overlay stating, 'hot girls bloat no matter what they eat xx'. She displays a range of positive emotions, from a confident smile to a playful, exaggerated reaction, as she interacts with and touches her stomach. The core message promotes body positivity and self-acceptance by normalizing bloating as a common and natural bodily occurrence.",
+  "segments": [
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:10.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "young woman",
+        "pajamas",
+        "bloated stomach",
+        "smiling",
+        "touching stomach",
+        "bedroom",
+        "pink lighting",
+        "star decorations"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "playful",
+          "positive",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "pink lighting",
+          "neon blue light accent",
+          "cozy aesthetic"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully captures the video's message: the subject reveals her stomach, displaying a range of confident and positive facial expressions and body language that normalize bloating, directly aligning with the on-screen text. It encompasses the key 'reveal' and 'emotional climax' moments."
+    }
+  ]
+}

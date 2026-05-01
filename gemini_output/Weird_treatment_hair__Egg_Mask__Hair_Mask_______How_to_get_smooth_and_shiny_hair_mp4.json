@@ -1,0 +1,145 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\Egg Mask  Hair Mask . . . How to get smooth and shiny hair.mp4",
+  "detailed_description": "This video meticulously demonstrates a DIY hair care routine, starting with the preparation of a homemade egg mask. It visually guides viewers through the process of mixing the egg, applying it evenly to the hair, and then rinsing it off. The core value culminates in showcasing the polished, well-groomed final hairstyle, accompanied by the individual's satisfied expression, highlighting the transformation achieved through the treatment.",
+  "segments": [
+    {
+      "start_time": "00:01.077",
+      "end_time": "00:06.577",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Process_Labor",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "cracking egg",
+        "egg yolk",
+        "whisking egg",
+        "bowl",
+        "hair dye brush"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background",
+          "focused hands"
+        ]
+      },
+      "why_kept": "This segment clearly shows the initial 'Process/Labor' of preparing the hair mask, including 'Product Interaction' with the egg and bowl, and highlights the 'Ingredient_Highlight' of the egg."
+    },
+    {
+      "start_time": "00:06.577",
+      "end_time": "00:10.517",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "applying egg to hair",
+        "brushing hair",
+        "hair dye brush",
+        "comb"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused action",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment demonstrates the critical 'Process/Labor' of applying the mask to the hair, showing the 'Product_Interaction' with the brush and comb to ensure even distribution, which is central to the 'Mechanism_Of_Action'."
+    },
+    {
+      "start_time": "00:10.517",
+      "end_time": "00:12.197",
+      "structural_tags": [
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "washing hair",
+        "sink",
+        "water",
+        "shampooing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dynamic water action",
+          "cleansing"
+        ]
+      },
+      "why_kept": "This segment captures the 'Process/Labor' of rinsing the hair, an essential intermediate step in the hair treatment routine before styling."
+    },
+    {
+      "start_time": "00:12.197",
+      "end_time": "00:14.287",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Visual_Hook",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "styled hair",
+        "shiny hair",
+        "man smiling",
+        "peace sign",
+        "hair brush"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "positive",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean hairstyle",
+          "satisfied expression",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This is the 'Reveal/Result' moment, clearly showing the 'Result_Transformation' of the styled hair. The man's smile and peace sign convey 'Positive_Emotion', acting as an 'Emotional Climax' and a strong 'Visual_Hook' for the video's conclusion."
+    }
+  ]
+}

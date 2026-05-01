@@ -1,0 +1,81 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\Hyrox Training B-Roll\\IMG_4395.MOV",
+  "detailed_description": "This video captures a man engaged in an intense kettlebell workout within a modern gym environment. It features dynamic movements, including walking and swinging with two kettlebells, showcasing the physical exertion and interaction with the equipment. The exercise is performed over several segments, demonstrating the continuous process of an active workout routine.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Lifestyle_Active",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "man",
+        "kettlebell",
+        "lifting",
+        "exercise",
+        "dynamic shot"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment serves as an immediate, high-energy visual hook, dynamically showcasing the kettlebell and the start of an active exercise, effectively grabbing viewer attention."
+    },
+    {
+      "start_time": "00:15.750",
+      "end_time": "00:53.900",
+      "structural_tags": [
+        "The Process/Labor",
+        "Product_Interaction",
+        "Lifestyle_Active",
+        "High_Energy",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "kettlebells",
+        "walking",
+        "exercising",
+        "gym",
+        "kettlebell swing",
+        "effort",
+        "satisfaction",
+        "sweat"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "steady camera"
+        ]
+      },
+      "why_kept": "This is the core semantic segment, demonstrating the full process of the kettlebell walking and swinging exercise. It clearly shows product interaction, the physical labor involved, and captures the active lifestyle, concluding with a facial expression that conveys effort and a sense of accomplishment."
+    }
+  ]
+}

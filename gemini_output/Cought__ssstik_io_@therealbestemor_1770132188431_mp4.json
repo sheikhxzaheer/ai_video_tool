@@ -1,0 +1,115 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cought\\ssstik.io_@therealbestemor_1770132188431.mp4",
+  "detailed_description": "The video captures a lighthearted and endearing moment with an elderly woman experiencing a series of sneezes. An off-camera person, presumably a family member, interacts with her by acknowledging her sneezes and playfully prompting her, to which she charmingly responds with a polite 'thank you' each time. Her genuine smiles and repeated 'takk' (thank you in Norwegian/Swedish) create a humorous and heartwarming dynamic, portraying a common human experience with a touch of warmth and playfulness in a homely, festive setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Emotional_Climax",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "elderly woman",
+        "sneeze",
+        "tissue",
+        "pink robe",
+        "glasses"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "homely setting"
+        ]
+      },
+      "why_kept": "This segment serves as the visual hook, immediately showcasing the central action of the video – the woman sneezing. It sets the tone for the lighthearted and humorous interaction that follows."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "elderly woman",
+        "sneeze",
+        "tissue",
+        "smile",
+        "speaking",
+        "pink robe",
+        "glasses"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "homely setting"
+        ]
+      },
+      "why_kept": "This segment captures a clear sneeze followed by her endearing smile and polite 'Takk' (thank you), which is a key emotional and interactive moment, establishing the pattern and charm of the video's premise."
+    },
+    {
+      "start_time": "00:32.000",
+      "end_time": "00:37.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "elderly woman",
+        "sneeze",
+        "tissue",
+        "smile",
+        "speaking",
+        "pink robe",
+        "glasses"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "homely setting"
+        ]
+      },
+      "why_kept": "This segment further reinforces the core theme, showing another prominent sneeze and her consistent, appreciative 'Takk', solidifying the humorous and affectionate interaction with the off-camera person."
+    }
+  ]
+}

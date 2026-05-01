@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pregnant\\ð▒ðÁÐÇðÁð╝ðÁð¢ð¢ð░ÐÅ 3.mp4",
+  "detailed_description": "This video captures a young woman showcasing a significantly large, seemingly prosthetic, belly. She wears a black crop top and blue jeans, posing playfully and smiling directly at the camera. Her gestures involve touching her belly and chest, emphasizing its prominent size, all while expressing positive emotions. The entire segment focuses on this visual presentation, making it the core action of the video.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.689",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "woman",
+        "long hair",
+        "black crop top",
+        "blue jeans",
+        "large belly",
+        "prosthetic belly",
+        "smiling",
+        "posing",
+        "touching belly",
+        "indoor room"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct gaze",
+          "steady shot",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "The entire video segment is kept as it continuously showcases the woman posing with and highlighting her large prosthetic belly. Her consistent smiling and gestural interactions with the belly form the central 'reveal' and 'product interaction' (where the prosthetic belly is the product being featured), fulfilling the emotional climax and continuous demonstration criteria without any discernible setup or post-action dead air."
+    }
+  ]
+}

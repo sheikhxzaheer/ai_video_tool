@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Sleeping in mak\\CNWM_JillianGray_017_Applied Mask (going to sleep).MOV",
+  "detailed_description": "The video features a young woman with blonde hair, wearing a pink plush headband and a black tank top, looking directly at the camera. She communicates her intention to go to bed and states that she will see the viewer in the morning. The segment captures a brief, personal moment suggesting the end of her day as part of a night routine, conveyed with a calm and friendly demeanor.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.977",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Night_Routine",
+        "Calm_Relaxation",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "blonde hair",
+        "pink headband",
+        "speaking",
+        "direct gaze"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "friendly"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment is the entirety of the video and represents the core message. It features the speaker delivering key information about her night routine, functioning as a 'Talking Head' moment. There is no other action or product interaction in the video to prioritize over this direct communication, making it the primary semantic core."
+    }
+  ]
+}

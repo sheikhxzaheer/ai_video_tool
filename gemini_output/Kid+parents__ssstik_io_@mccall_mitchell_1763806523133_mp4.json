@@ -1,0 +1,160 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid+parents\\ssstik.io_@mccall.mitchell_1763806523133.mp4",
+  "detailed_description": "This video beautifully captures the heartwarming bond between a father and his son on a sun-drenched beach. It showcases a series of tender and playful moments, from gentle interactions with a baby to lively games of football in the sand. The core message emphasizes the joy and affection shared between them, highlighted by the son's beaming smiles. It's a sweet portrayal of a father's love and the simple happiness of childhood playtime by the ocean.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.100",
+      "structural_tags": [
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Positive_Emotion",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "dad",
+        "son",
+        "beach",
+        "football",
+        "ocean",
+        "play"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear blue sky"
+        ]
+      },
+      "why_kept": "This segment establishes the initial playful interaction and bond between the father and son on the beach, with the football as a central element, setting the tone for the video."
+    },
+    {
+      "start_time": "00:03.200",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "dad",
+        "son",
+        "baby",
+        "beach",
+        "ocean",
+        "carrying",
+        "hugging",
+        "plane"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium | wide",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "loving",
+          "emotional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "serene",
+          "warm sun"
+        ]
+      },
+      "why_kept": "This segment captures tender and loving moments of the father holding and interacting with his son, emphasizing their emotional bond and affection in a serene beach setting."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:10.500",
+      "structural_tags": [
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Positive_Emotion",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "dad",
+        "son",
+        "beach",
+        "running",
+        "football",
+        "play"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright",
+          "dynamic movement"
+        ]
+      },
+      "why_kept": "This segment reinforces the playful and active bond between the father and son, with the football serving as a key prop for their joyful interaction on the beach."
+    },
+    {
+      "start_time": "00:10.500",
+      "end_time": "00:12.420",
+      "structural_tags": [
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "son",
+        "happy face",
+        "smiling",
+        "football",
+        "close-up"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "joyful",
+          "pure",
+          "happy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "clear focus on face"
+        ]
+      },
+      "why_kept": "This segment serves as the emotional climax of the video, vividly capturing the son's pure joy and happiness, which is the ultimate outcome and core message of the father-son bond demonstrated throughout the video. It's a strong visual and emotional hook."
+    }
+  ]
+}

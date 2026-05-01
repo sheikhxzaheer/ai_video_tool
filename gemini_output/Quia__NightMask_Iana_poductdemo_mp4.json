@@ -1,0 +1,116 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_Iana_poductdemo.mp4",
+  "detailed_description": "The video presents a Korean beauty jelly cream designed to achieve radiant \"glass skin.\" It visually introduces the product's unique pink, jelly-like texture through close-up scooping. The core of the video demonstrates the cream's application onto the face, showing its immediate glossy effect. Subsequent scenes highlight the spreading process, revealing a dewy, hydrated complexion, and conclude with the satisfied user showcasing the product, underscoring its efficacy in achieving a glowing look.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.300",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Macro_Detail",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "pink jelly cream",
+        "scooping",
+        "spatula",
+        "product jar"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "focus on product texture"
+        ]
+      },
+      "why_kept": "This segment serves as a visual hook, introducing the product and its unique, appealing jelly texture through a close-up interaction with a spatula."
+    },
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:04.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman applying cream",
+        "spatula application",
+        "rosy skin",
+        "glossy texture",
+        "dewy finish"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft focus",
+          "glowing skin",
+          "clear application process"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial application of the cream to the face, showing how the product is used and its immediate glossy, dewy appearance on the skin, which is crucial for the 'glass-skin' claim."
+    },
+    {
+      "start_time": "00:06.100",
+      "end_time": "00:11.700",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Product_Intro",
+        "Social_Proof",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman spreading cream",
+        "glowing skin",
+        "satisfied smile",
+        "product jar reveal",
+        "finger application"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "radiant glow",
+          "confident expression",
+          "direct eye contact",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment showcases the cream being fully integrated into the skin, highlighting the 'glass-skin' result and the user's satisfaction. It culminates in a clear product display and a positive facial expression, acting as a strong social proof and product reveal."
+    }
+  ]
+}

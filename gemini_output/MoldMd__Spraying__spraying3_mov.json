@@ -1,0 +1,41 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Spraying\\spraying3.mov",
+  "detailed_description": "The video segment captures a woman holding a bottle of 'MoldMD Mold Spot Remover' as she looks up towards a white tiled wall. Her action implies preparation for cleaning, clearly showcasing the product and its intended use in a home environment. The clip effectively highlights the product itself, demonstrating direct human interaction and hinting at the upcoming cleaning process.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.040",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "spray bottle",
+        "MoldMD",
+        "tiled wall",
+        "cleaning product"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "product-focused"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it features the subject clearly holding and displaying the product, directly interacting with it, and looking at the target area for its use. This fulfills the 'Product Interaction' and 'Process/Labor' hero moment criteria, serving as a direct introduction to the product and its purpose."
+    }
+  ]
+}

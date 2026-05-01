@@ -1,0 +1,87 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid+parents\\ssstik.io_@lovevery_1763807888861.mp4",
+  "detailed_description": "This video humorously contrasts the distinct play styles of a mom and a dad interacting with their baby. The mom engages in calm, structured, and educational play, meticulously using toys like a shape sorter, stacking cups, and flashcards. In sharp contrast, the dad's approach is depicted as more energetic and spontaneous, featuring playful lifting, using a bowl as a hat for the baby, and a more physical interaction with the same set of toys, set to a high-energy soundtrack to emphasize the difference.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.500",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Product_Interaction",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "mom",
+        "baby",
+        "playmat",
+        "shape sorter",
+        "stacking cups",
+        "colorful balls",
+        "flashcard (shoes)"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "cozy home",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment establishes the first part of the video's core comparison by showcasing the mom's gentle, structured, and educational play style, which is essential context for the subsequent contrast."
+    },
+    {
+      "start_time": "00:06.500",
+      "end_time": "00:14.500",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Product_Interaction",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "dad",
+        "baby",
+        "bowl (hat)",
+        "playmat",
+        "stacking cups"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "rugged"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "cozy home",
+          "dynamic camera movement"
+        ]
+      },
+      "why_kept": "This segment completes the video's core comparison by presenting the dad's more physical, high-energy, and less structured play style, providing the necessary contrast to the mom's interaction and highlighting the intended humor."
+    }
+  ]
+}

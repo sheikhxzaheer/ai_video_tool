@@ -1,0 +1,524 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Woman\\ssstik.io_@doctornatz_1769676587976.mp4",
+  "detailed_description": "This video montage encapsulates the daily life and profound dedication of a medical professional, showcasing various activities from meticulous surgical preparations and working in an operating room to administrative tasks in an office, alongside moments of self-care and brief breaks. The overarching theme is a deep passion for medicine, expressed through the constant engagement with the demanding yet rewarding aspects of the profession, highlighting the commitment and inherent love for the job.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.400",
+      "structural_tags": [
+        "Process_Labor",
+        "Behind_The_Scenes",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman",
+        "medical gown",
+        "gloves",
+        "surgical cap",
+        "hospital corridor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "professional attire"
+        ]
+      },
+      "why_kept": "This segment shows the initial preparation with full medical protective gear, establishing the professional setting and the 'Process_Labor' of entering a sterile environment."
+    },
+    {
+      "start_time": "00:01.400",
+      "end_time": "00:02.166",
+      "structural_tags": [
+        "Process_Labor",
+        "Workspace_Office",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "surgical cap",
+        "operating room",
+        "surgical lights",
+        "medical staff"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "serious",
+          "energetic",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "dynamic angle",
+          "professional attire"
+        ]
+      },
+      "why_kept": "This is chosen as the ANCHOR for its strong visual representation of the core 'Process_Labor' in medicine, capturing the intense environment of an operating room and the preparation involved."
+    },
+    {
+      "start_time": "00:02.166",
+      "end_time": "00:03.066",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Behind_The_Scenes",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman",
+        "office desk",
+        "computer",
+        "adjusting hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "Shows a transition to an administrative or office setting, highlighting another facet of a medical professional's daily life and 'Lifestyle_Active'."
+    },
+    {
+      "start_time": "00:03.066",
+      "end_time": "00:03.966",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hospital corridor",
+        "walking",
+        "follow-me shot"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "modern architecture",
+          "smooth camera movement"
+        ]
+      },
+      "why_kept": "Captures the sense of movement and daily routine within the hospital, emphasizing the 'Lifestyle_Active' and the environment."
+    },
+    {
+      "start_time": "00:03.966",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Face_Reaction",
+        "Process_Labor",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "surgical cap",
+        "mask",
+        "looking up"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "focused expression"
+        ]
+      },
+      "why_kept": "A close-up of the medical professional's face with protective gear, conveying seriousness and focus essential to the 'Process_Labor' of medicine."
+    },
+    {
+      "start_time": "00:05.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "green scrubs",
+        "smiling",
+        "selfie"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "hospital (balcony)"
+        ],
+        "mood": [
+          "positive",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "personal moment"
+        ]
+      },
+      "why_kept": "Highlights the 'Positive_Emotion' and personal satisfaction derived from the profession, a key aspect of 'medicine love'."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:07.033",
+      "structural_tags": [
+        "Process_Labor",
+        "Behind_The_Scenes",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman",
+        "scrub sink",
+        "washing hands",
+        "green scrubs",
+        "surgical cap"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "tiled walls",
+          "hygienic environment"
+        ]
+      },
+      "why_kept": "An essential and iconic 'Process_Labor' of hand scrubbing in the medical field, demonstrating hygiene protocols."
+    },
+    {
+      "start_time": "00:07.033",
+      "end_time": "00:08.066",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Lifestyle_Active",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "drinking coffee",
+        "green scrubs",
+        "break room"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "calm",
+          "relaxed"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "casual break",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "Shows a moment of 'Calm_Relaxation' and 'Behind_The_Scenes' daily life, emphasizing the personal side of a demanding profession."
+    },
+    {
+      "start_time": "00:08.066",
+      "end_time": "00:08.933",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Product_Standalone",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "arm",
+        "green scrubs",
+        "green shoes",
+        "hospital floor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "minimalist",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "An 'Aesthetic_Broll' shot that subtly emphasizes the uniform and the medical environment."
+    },
+    {
+      "start_time": "00:08.933",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "lab coat",
+        "coffee cup",
+        "elevator",
+        "mirror selfie"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "calm",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sleek interior",
+          "modern aesthetics"
+        ]
+      },
+      "why_kept": "Illustrates the 'Lifestyle_Active' of a medical professional, including professional attire like a lab coat and a brief personal moment."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:10.966",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Workspace_Office",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "shelves",
+        "folded scrubs",
+        "green uniforms",
+        "hospital storage"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "clinical",
+          "organized"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean",
+          "functional storage"
+        ]
+      },
+      "why_kept": "Provides a 'Behind_The_Scenes' look at the organization and abundance of medical attire, reinforcing the hospital 'Workspace_Office'."
+    },
+    {
+      "start_time": "00:10.966",
+      "end_time": "00:11.966",
+      "structural_tags": [
+        "Process_Labor",
+        "Workspace_Office",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "typing",
+        "computer",
+        "desk",
+        "office"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "modern office",
+          "focused work"
+        ]
+      },
+      "why_kept": "Showcases the administrative 'Process_Labor' involved in medicine, often done in an office setting."
+    },
+    {
+      "start_time": "00:11.966",
+      "end_time": "00:13.100",
+      "structural_tags": [
+        "Process_Labor",
+        "Lifestyle_Active",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman",
+        "walking",
+        "stethoscope",
+        "clipboard",
+        "reception area"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "professional",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "modern interior",
+          "dynamic shot"
+        ]
+      },
+      "why_kept": "Depicts active 'Process_Labor' and 'Lifestyle_Active' of a medical professional moving through the hospital, equipped with tools like a stethoscope and clipboard."
+    },
+    {
+      "start_time": "00:13.100",
+      "end_time": "00:14.033",
+      "structural_tags": [
+        "Process_Labor",
+        "Behind_The_Scenes",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman",
+        "blue scrubs",
+        "mask",
+        "surgical cap",
+        "locker room"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean",
+          "functional"
+        ]
+      },
+      "why_kept": "Another 'Process_Labor' and 'Behind_The_Scenes' shot showing preparation in the locker room, reinforcing the daily routine."
+    },
+    {
+      "start_time": "00:14.033",
+      "end_time": "00:15.266",
+      "structural_tags": [
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "green scrubs",
+        "mask",
+        "surgical cap",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "positive",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural expression",
+          "professional attire"
+        ]
+      },
+      "why_kept": "Concludes the montage with a 'Positive_Emotion' and 'Face_Reaction', reinforcing the underlying 'medicine love' theme through a contented smile."
+    }
+  ]
+}

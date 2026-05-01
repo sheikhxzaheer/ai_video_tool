@@ -1,0 +1,114 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Product\\IMG_6008.mov",
+  "detailed_description": "The video captures a chaotic event involving 'Spartan Root Activator Shampoo' bottles. It begins by showcasing a large quantity of these bottles neatly arranged in a wire basket on a reflective surface. Subsequently, a hand deliberately drops the entire basket, causing the numerous bottles to dramatically scatter and crash onto the tiled floor. The sequence concludes by presenting the messy aftermath, with bottles strewn across the ground, highlighting the unexpected and unorganized outcome.",
+  "segments": [
+    {
+      "start_time": "00:02.100",
+      "end_time": "00:04.100",
+      "structural_tags": [
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "shampoo bottles",
+        "wire basket",
+        "black tiled surface",
+        "product display"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "neutral",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean display",
+          "reflective surface"
+        ]
+      },
+      "why_kept": "This segment clearly showcases a large quantity of the product, setting the context for the subsequent action where these items are affected."
+    },
+    {
+      "start_time": "00:04.100",
+      "end_time": "00:07.100",
+      "structural_tags": [
+        "Product_Interaction",
+        "Malfunction_Fail",
+        "High_Energy",
+        "Shock_Surprise",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "hand",
+        "dropping basket",
+        "shampoo bottles",
+        "scattering",
+        "falling",
+        "impact"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "chaotic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic action",
+          "motion blur",
+          "impact sound"
+        ]
+      },
+      "why_kept": "This is the core action of the video, demonstrating a significant, destructive interaction with the product as a basket of shampoo bottles is intentionally dropped, resulting in a chaotic scattering."
+    },
+    {
+      "start_time": "00:07.100",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Messy_Unorganized",
+        "Result_Transformation",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "scattered bottles",
+        "shampoo",
+        "tiled floor",
+        "brush",
+        "aftermath"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "unorganized"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "aftermath scene",
+          "scattered items",
+          "reflective surface"
+        ]
+      },
+      "why_kept": "This segment visually displays the direct consequence and transformed state of the products after the main action, showing the scattered and unorganized bottles on the floor."
+    }
+  ]
+}

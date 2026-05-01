@@ -1,0 +1,55 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Yoga\\ssstik.io_@loisbellamy_1768390800693.mp4",
+  "detailed_description": "The video showcases a serene sunrise beach yoga session, featuring a woman gracefully performing various yoga poses on a towel laid on the sand. Against the backdrop of a vibrant sunrise over the ocean, the golden light reflects on the calm water, creating a tranquil and inspiring atmosphere. The continuous flow of poses emphasizes the fluid and mindful nature of the practice, highlighting an active and peaceful start to the day in a beautiful natural setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.467",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Morning_Routine",
+        "Human_Interaction",
+        "The_Process/Labor"
+      ],
+      "visual_keywords": [
+        "woman",
+        "yoga",
+        "beach",
+        "sunrise",
+        "ocean",
+        "yoga poses",
+        "sand",
+        "fitness",
+        "towel",
+        "sun reflection"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "nature",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "peaceful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sunrise lighting",
+          "serene",
+          "tranquil",
+          "natural light",
+          "golden hour",
+          "slow motion"
+        ]
+      },
+      "why_kept": "This segment is the entire video and perfectly demonstrates the core activity of 'sunrise beach yoga.' It shows a continuous sequence of yoga poses, fulfilling the 'process/labor' hero moment, set against an aesthetically pleasing and calming backdrop. There is no 'setup & calibration' or 'post-action dead air' to trim, making the entire duration the semantic core."
+    }
+  ]
+}

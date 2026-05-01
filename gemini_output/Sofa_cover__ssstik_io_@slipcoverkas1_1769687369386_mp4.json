@@ -1,0 +1,109 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sofa cover\\ssstik.io_@slipcoverkas1_1769687369386.mp4",
+  "detailed_description": "The video demonstrates the easy transformation of a green modular sofa into a cozy, plush, beige seating area using a soft sofa cover. It features a woman effortlessly applying the cover, carefully smoothing it into place, with close-up shots highlighting the fluffy texture. The video concludes with the woman comfortably enjoying the newly covered sofa, emphasizing the product's aesthetic appeal and enhanced comfort.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.933",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "fluffy sofa cover",
+        "green modular sofa",
+        "woman draping cover",
+        "adjusting cover"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment introduces the product (sofa cover) and clearly demonstrates the process of applying it to the sofa, showing the initial transformation from green to beige. It captures the 'Process/Labor' and 'Product Interaction'."
+    },
+    {
+      "start_time": "00:05.933",
+      "end_time": "00:07.733",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand smoothing fabric",
+        "plush texture",
+        "beige sofa cover"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft focus",
+          "texture emphasis"
+        ]
+      },
+      "why_kept": "This segment highlights the tactile quality and softness of the sofa cover through a close-up of a hand stroking the material. It reinforces the product's sensory appeal and quality, serving as 'Product Interaction' and 'Macro Detail'."
+    },
+    {
+      "start_time": "00:07.733",
+      "end_time": "00:09.166",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman on sofa",
+        "cloud pillow",
+        "renovated sofa",
+        "playful mood"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "satisfied expression"
+        ]
+      },
+      "why_kept": "This segment provides the 'Reveal/Result' of the sofa's transformation and captures the 'Emotional Climax' of a user enjoying the comfort and aesthetic of the newly covered sofa, emphasizing the product's benefits."
+    }
+  ]
+}

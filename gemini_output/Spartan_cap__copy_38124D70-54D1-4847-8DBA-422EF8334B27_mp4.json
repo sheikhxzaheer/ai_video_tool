@@ -1,0 +1,117 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan cap\\copy_38124D70-54D1-4847-8DBA-422EF8334B27.mp4",
+  "detailed_description": "This video highlights the \"Spartan\" smart red light therapy cap, showcasing its design and ease of use. It effectively illustrates the product's benefit by first depicting a man's concern over his thinning hair, followed by striking 'Before' and 'After' comparisons that demonstrate significant hair growth and improved hair health. The core message emphasizes the cap's ability to transform hair, making it stronger, thicker, and restoring confidence in just 20 minutes a day.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.410",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands",
+        "red light cap",
+        "LEDs",
+        "folding",
+        "device",
+        "buttons"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "focused lighting",
+          "dark background"
+        ]
+      },
+      "why_kept": "This segment is kept as an ANCHOR because it directly introduces the product, demonstrates its key feature (red light therapy LEDs), its flexible design, and user interaction (turning it on/off, folding). It visually establishes what 'Spartan' is."
+    },
+    {
+      "start_time": "00:07.410",
+      "end_time": "00:11.410",
+      "structural_tags": [
+        "Problem_State",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "hairline",
+        "scalp",
+        "concern",
+        "mirror"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "intimate"
+        ]
+      },
+      "why_kept": "This segment establishes the 'Problem State' the product aims to solve. The man's concerned expression while examining his hair effectively communicates the issue of hair loss, setting up the need and impact of the 'Spartan' cap."
+    },
+    {
+      "start_time": "00:11.410",
+      "end_time": "00:19.410",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "before",
+        "after",
+        "healthy hair",
+        "thick hair",
+        "confident",
+        "groomed"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "positive",
+          "confident",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "studio lighting",
+          "clean background",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This is the core 'Reveal/Result' moment, showcasing a dramatic 'Before/After' transformation. It directly demonstrates the product's effectiveness in improving hair strength, thickness, and overall health, serving as the strongest proof of value and the emotional climax of the video."
+    }
+  ]
+}

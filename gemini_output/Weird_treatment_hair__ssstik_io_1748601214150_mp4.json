@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ssstik.io_1748601214150.mp4",
+  "detailed_description": "This video captures a young man filmed underwater in a swimming pool, creating a dynamic and engaging visual hook. He interacts directly with the camera, touching his hair, making expressive faces including a surprised look, and exhaling numerous bubbles. The vibrant blue water and tiled pool bottom provide an aesthetic background for this close-up interaction, showcasing a playful and direct connection with the viewer.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.074",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Shock_Surprise",
+        "Aesthetic_Broll",
+        "Playful"
+      ],
+      "visual_keywords": [
+        "man",
+        "underwater",
+        "pool",
+        "bubbles",
+        "hand",
+        "hair",
+        "expressive face"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "underwater shot",
+          "bright blue water",
+          "dynamic bubbles"
+        ]
+      },
+      "why_kept": "This entire segment constitutes the semantic core, showcasing a continuous and complete interaction of the subject underwater. It begins immediately with the action and ends precisely when the primary action (interacting with the camera, making expressions, and exhaling bubbles) concludes, adhering to the 'No-Mistake' rule. The expressive face, direct eye contact, and the visual effect of the bubbles provide strong visual appeal and an emotional climax."
+    }
+  ]
+}

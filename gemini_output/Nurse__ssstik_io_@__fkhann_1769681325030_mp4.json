@@ -1,0 +1,88 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Nurse\\ssstik.io_@__fkhann_1769681325030.mp4",
+  "detailed_description": "The video showcases a young medical professional in blue scrubs preparing for her shift. She meticulously dons her stethoscope and ID badge, reflecting a calm yet determined attitude. The scene then follows her as she confidently walks down a hospital stairwell, maintaining her focused demeanor. The visual narrative emphasizes her readiness and dedication as she transitions into her demanding role within a healthcare environment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Behind_The_Scenes",
+        "Process_Labor",
+        "Positive_Emotion",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "scrubs",
+        "stethoscope",
+        "ID badge",
+        "getting ready",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background",
+          "professional attire"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates 'The Process/Labor' and 'Product Interaction' as the medical professional puts on her essential work tools (stethoscope and ID badge). Her focused and confident expression also serves as an 'Emotional Climax', making it a strong anchor for the video's core message of professional readiness."
+    },
+    {
+      "start_time": "00:04.900",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Lifestyle_Active",
+        "Travel_Transit",
+        "Behind_The_Scenes",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "scrubs",
+        "walking",
+        "stairs",
+        "hospital",
+        "determined"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic shot",
+          "movement",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment extends the 'Process/Labor' theme, showing the medical professional actively moving towards her work environment. Her determined walk reinforces the message of dedication and readiness, serving as a strong supporting visual to the initial preparation."
+    }
+  ]
+}

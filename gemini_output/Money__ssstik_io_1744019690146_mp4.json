@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Money\\ssstik.io_1744019690146.mp4",
+  "detailed_description": "This video showcases the systematic counting of a large quantity of U.S. dollar bills using a money counting machine. Bundles of $100 bills are fed into the machine, which rapidly counts them, adding to the substantial stacks of cash already neatly organized on a couch. The presence of multiple iPhone boxes in the background further contributes to an impression of affluence or significant transactions.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.740",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "money",
+        "cash",
+        "100 dollar bills",
+        "money counting machine",
+        "stacks of cash",
+        "hands",
+        "iPhone boxes"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus on action",
+          "rhythmic machine sound",
+          "organized display"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the rapid counting of large sums of money by a machine, the human interaction with the process, and the visual impact of accumulated wealth. It captures both 'the process' and 'the result' from start to finish without any dead air or setup/calibration."
+    }
+  ]
+}

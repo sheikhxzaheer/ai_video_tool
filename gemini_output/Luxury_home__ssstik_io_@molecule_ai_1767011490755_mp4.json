@@ -1,0 +1,121 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury home\\ssstik.io_@molecule_ai_1767011490755.mp4",
+  "detailed_description": "The video showcases a luxurious penthouse in New York, priced at €46,789,000. It opens with a stunning aerial view of the building's rooftop pools and a panoramic city skyline at sunset, immediately establishing its prime location and premium amenities. Subsequent interior shots reveal the opulent design, featuring a double-height living room with floor-to-ceiling windows and a grand chandelier, followed by an elegant bedroom offering breathtaking city views, including the iconic Empire State Building. The entire video acts as a comprehensive visual tour, highlighting the exclusive lifestyle and architectural grandeur of this high-value real estate.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Standalone",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "penthouse",
+        "rooftop",
+        "infinity pool",
+        "city skyline",
+        "sunset",
+        "New York"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "cinematic drone shot",
+          "golden hour lighting",
+          "modern architecture"
+        ]
+      },
+      "why_kept": "This segment serves as a strong visual hook, immediately establishing the exterior luxury, prime location, and stunning amenities (rooftop pools) of the penthouse, setting the aspirational tone for the entire video."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Home_Kitchen",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "living room",
+        "high ceiling",
+        "chandelier",
+        "large sofa",
+        "fireplace",
+        "city view",
+        "luxury interior"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "luxurious interior design",
+          "natural light",
+          "modern aesthetics"
+        ]
+      },
+      "why_kept": "This segment reveals the opulent and spacious interior of the penthouse's living area, showcasing its high-end design, grand features like the chandelier, and expansive city views, complementing the initial exterior shot."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Home_Kitchen",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "bedroom",
+        "large bed",
+        "city view",
+        "Empire State Building",
+        "modern fireplace",
+        "luxurious decor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "minimalist luxury",
+          "stunning bedroom view",
+          "inviting ambiance"
+        ]
+      },
+      "why_kept": "This segment highlights another key luxurious space within the penthouse, the bedroom, emphasizing comfort, modern design, and the personal experience of living with unparalleled city views, including an iconic landmark like the Empire State Building."
+    }
+  ]
+}

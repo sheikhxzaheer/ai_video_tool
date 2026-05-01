@@ -1,0 +1,108 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\SSYouTube.online_Blood Flow Shown As 3D Animation_1080p.mp4",
+  "detailed_description": "The video illustrates the vital process of blood circulation within human veins, highlighting how this flow can be interrupted by blood clots. It demonstrates the medical procedure called thrombectomy, where a catheter is expertly used to remove the obstructive clot from the vein. This intervention restores normal blood flow, ensuring that essential nutrients and oxygen reach the body's organs. The animation emphasizes the critical importance of clear blood vessels for overall health.",
+  "segments": [
+    {
+      "start_time": "00:04.225",
+      "end_time": "00:10.500",
+      "structural_tags": [
+        "Problem_State",
+        "Cellular_Deep_Dive",
+        "Micro_Nutrients_Anim"
+      ],
+      "visual_keywords": [
+        "blood clot",
+        "red blood cells",
+        "vein",
+        "obstruction"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "scientific visualization"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'problem state' by showing a large blood clot obstructing the flow of red blood cells within a vein, explaining the need for intervention."
+    },
+    {
+      "start_time": "00:10.500",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Cellular_Deep_Dive",
+        "Micro_Nutrients_Anim"
+      ],
+      "visual_keywords": [
+        "catheter",
+        "blood clot removal",
+        "red blood cells",
+        "vein",
+        "medical procedure",
+        "wire"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "3D animation",
+          "scientific visualization",
+          "surgical process"
+        ]
+      },
+      "why_kept": "This is the primary 'hero moment' demonstrating the core action: the catheter being inserted and actively removing the blood clot from the vein, showcasing the medical solution."
+    },
+    {
+      "start_time": "00:20.000",
+      "end_time": "00:24.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Cellular_Deep_Dive",
+        "Micro_Nutrients_Anim"
+      ],
+      "visual_keywords": [
+        "red blood cells",
+        "vein",
+        "restored flow",
+        "clear vessel"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "scientific visualization"
+        ]
+      },
+      "why_kept": "This segment serves as the 'reveal' or 'result transformation,' showing the successful restoration of unimpeded blood flow after the clot has been removed, highlighting the benefit of the procedure."
+    }
+  ]
+}

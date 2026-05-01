@@ -1,0 +1,202 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_YourContentSis_00_poductdemo.mp4",
+  "detailed_description": "This video demonstrates a perfected K-Beauty evening skincare routine focusing on hydration and anti-aging benefits. The routine involves two key products: a Collagen Night Wrapping Mask with hyaluronic acid, which is applied, allowed to set, and then peeled off to reveal plumped skin, and a Collagen Niacinamide Gel Cream, which is massaged into the face and neck. The video emphasizes the benefits of hyaluronic acid for skin structure and hydration, and niacinamide for strengthening the skin's protective barrier and retaining moisture, ultimately aiming for a 'glassy, hydrated skin' look.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Emotional_Climax",
+        "UGC_Talking_Head",
+        "Night_Routine",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "expressive face",
+        "open mouth",
+        "hands near face",
+        "black headband",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment serves as a visual hook, immediately engaging the viewer with an expressive reaction and setting the POV for the skincare routine."
+    },
+    {
+      "start_time": "00:02.900",
+      "end_time": "00:05.200",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "skincare products",
+        "pink tube",
+        "pink jar",
+        "purple bag",
+        "hand grabbing",
+        "squeezing product",
+        "collagen night wrapping mask"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment introduces the first product of the routine and demonstrates the initial interaction of dispensing it, providing context for the subsequent application."
+    },
+    {
+      "start_time": "00:05.200",
+      "end_time": "00:26.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Ingredient_Highlight",
+        "Result_Transformation",
+        "Face_Reaction",
+        "Night_Routine",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying mask",
+        "brush",
+        "gel mask",
+        "patting face",
+        "peeling mask",
+        "hyaluronic acid",
+        "plump skin",
+        "glowing skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clear skin focus"
+        ]
+      },
+      "why_kept": "This is the core anchor segment, demonstrating the complete cycle of the first product: its application, the scientific explanation of its key ingredient (hyaluronic acid), the satisfying visual of peeling off the mask (a clear transformation), and the immediate positive effect on the skin."
+    },
+    {
+      "start_time": "00:26.500",
+      "end_time": "00:29.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "woman",
+        "holding jar",
+        "pink gel cream",
+        "spatula",
+        "scooping product",
+        "collagen niacinamide gel cream"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up detail",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This segment introduces the second product of the routine, showcasing its packaging and texture through a close-up detail of scooping the cream."
+    },
+    {
+      "start_time": "00:29.500",
+      "end_time": "00:43.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Ingredient_Highlight",
+        "Result_Transformation",
+        "Face_Reaction",
+        "Night_Routine",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying cream",
+        "massaging face",
+        "niacinamide",
+        "skin barrier",
+        "hydrated skin",
+        "glassy skin",
+        "satisfied expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "focus on face and neck"
+        ]
+      },
+      "why_kept": "This segment completes the skincare routine, demonstrating the application of the second product, detailing its benefits (niacinamide for moisture retention), and showing the final, desired look of glassy, hydrated skin with a satisfied facial expression."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Celebrity\\ssstik.io_@angelawhite_1761836577710.mp4",
+  "detailed_description": "The video captures a woman dressed in a sparkling black gown posing confidently on a red carpet at the AVN Awards event. She strikes various poses, turning to face different photographers and offering smiles, showcasing her elegant attire and engaging with the event's atmosphere. The backdrop features repeated 'AVN AWARDS' and 'MyFreeCams' logos, setting the scene for a glamorous public appearance.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:14.614",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "black dress",
+        "red carpet",
+        "posing",
+        "smiling",
+        "AVN Awards",
+        "event",
+        "photographers"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "event lighting",
+          "glamorous",
+          "red carpet atmosphere"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it fully captures the 'Hero Moment' of the woman's confident posing and interaction with the photographers on the red carpet. There are no significant 'setup' or 'dead air' frames to trim; the action of posing begins almost immediately upon entry and continues until the video ends, demonstrating sustained emotional engagement and the full professional action of being photographed at an event."
+    }
+  ]
+}

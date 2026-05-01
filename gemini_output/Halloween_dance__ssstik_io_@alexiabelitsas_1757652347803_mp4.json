@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Halloween_dance\\ssstik.io_@alexiabelitsas_1757652347803.mp4",
+  "detailed_description": "The video showcases a couple playfully presenting their Men in Black (MIB) Halloween costumes. Dressed in coordinated black suits, white shirts, black ties, and sunglasses, they proudly display MIB agent ID badges. Throughout the clip, they interact with iconic props, including small green alien dolls and a 'neuralyzer' pen, striking various dynamic poses and dancing. Their vibrant energy and smiles effectively capture the essence of the MIB theme, offering a fun and engaging costume reveal.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "couple",
+        "MIB costumes",
+        "black suits",
+        "sunglasses",
+        "MIB badges",
+        "green alien dolls",
+        "neuralyzer (pen)",
+        "dancing",
+        "posing",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "fun costume reveal",
+          "dynamic posing",
+          "upbeat",
+          "clean background"
+        ]
+      },
+      "why_kept": "The entire segment serves as the central demonstration of the Men in Black costumes, highlighting the coordinated outfits, iconic props (alien dolls, neuralyzer, ID badges), and the playful, energetic interaction of the couple, effectively communicating the complete costume concept. No part of the video falls under 'Setup & Calibration' or 'Post-Action Dead Air,' making the whole duration the semantic core as per the 'NO-MISTAKE' rule."
+    }
+  ]
+}

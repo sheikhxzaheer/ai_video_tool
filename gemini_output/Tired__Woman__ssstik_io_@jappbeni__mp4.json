@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Tired\\Woman\\ssstik.io_@jappbeni_.mp4",
+  "detailed_description": "The video opens by immediately establishing a common 'problem state' of feeling tired while working in an office, conveyed through a woman's weary expression and a text overlay. It then transitions to demonstrating a simple, healthy solution: she picks up and eats a fresh pear. The segment concludes with her looking towards the camera, suggesting a subtle shift in mood or an acknowledgment of her choice to combat fatigue with a healthy snack in a calm manner.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.775",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion",
+        "Workspace_Office",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "office desk",
+        "computer",
+        "keyboard",
+        "mouse",
+        "pear",
+        "eating",
+        "tired expression",
+        "thoughtful look",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "everyday office scene",
+          "relatable scenario"
+        ]
+      },
+      "why_kept": "This entire video segment forms the semantic core by clearly presenting a relatable problem (tiredness at work) and an immediate, simple, and healthy action (eating a pear) as a solution, without any extraneous footage. The initial text and facial expression establish the 'Problem_State', while the interaction with the pear and the subsequent facial reaction demonstrate the 'Process/Labor' and a subtle 'Emotional Climax' of addressing the issue."
+    }
+  ]
+}

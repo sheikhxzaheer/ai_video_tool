@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250522_091028764.mp4",
+  "detailed_description": "The video features a person's hand holding a 'TANGERINE PULSE' product pouch against the backdrop of an infinity pool overlooking the ocean under a clear blue sky. The pouch is then dropped into the shimmering pool water, where it floats on the surface. This segment highlights the product in a serene, luxurious lifestyle setting, showcasing its interaction with water.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "hand holding product",
+        "pouch",
+        "TANGERINE PULSE",
+        "infinity pool",
+        "ocean",
+        "blue sky",
+        "dropping product",
+        "product floating",
+        "water ripples"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "aspirational"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "infinity pool view",
+          "clear water reflections",
+          "bright natural light",
+          "minimalist aesthetic"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it perfectly captures the core action of product interaction – from introducing the product to dropping it into the water and showing it float. The serene, aspirational setting also functions as a strong aesthetic visual hook, making the entire short clip a cohesive 'hero moment' of product demonstration in a lifestyle context."
+    }
+  ]
+}

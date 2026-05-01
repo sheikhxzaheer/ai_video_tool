@@ -1,0 +1,82 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\A woman is stroking a man's hair\\Ðüð╝ð¥ÐéÐÇð©Ðé ð¢ð░ ð╝ÐâðÂð©ð║ð░ ð© ð┐ð¥ð┐ÐÇð░ð▓ð╗ÐÅðÁÐé ð▓ð¥ð╗ð¥ÐüÐï.mp4",
+  "detailed_description": "The video showcases a short comedic sketch where a man approaches a woman posing on a park bench. Initially, the scene is set with romantic music and flirtatious glances, building an expectation of a romantic interaction. However, when the man asks if she is 'free' and she confirms, he delivers an unexpected and humorous punchline, telling her to occupy herself instead of staring at him. This subverts the romantic setup, revealing the true, lighthearted nature of the encounter as a joke.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.700",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman posing",
+        "man filming",
+        "park bench",
+        "palm trees",
+        "smiling",
+        "flirtatious glances",
+        "sunny day"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright natural lighting",
+          "cinematic shallow depth of field",
+          "slow motion"
+        ]
+      },
+      "why_kept": "This segment serves as a visual hook and establishes the setting and characters, creating a romantic/flirtatious atmosphere with poses and reactions, which is crucial for setting up the later comedic twist."
+    },
+    {
+      "start_time": "00:12.700",
+      "end_time": "00:22.900",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Key_Information",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "man speaking",
+        "woman reacting",
+        "dialogue",
+        "bald man",
+        "sunglasses",
+        "humorous punchline"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct interaction",
+          "comedic timing",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This is the core 'hero moment' of the video, where the main interaction and the comedic punchline occur. It contains the essential dialogue and the unexpected reaction from the man, which is the entire point of the sketch."
+    }
+  ]
+}

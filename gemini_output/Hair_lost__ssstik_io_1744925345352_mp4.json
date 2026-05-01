@@ -1,0 +1,111 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Hair lost\\ssstik.io_1744925345352.mp4",
+  "detailed_description": "This video addresses the common issue of hair clogging bathtub drains and the inconvenience of cleaning traditional hair catchers. It presents an innovative solution, the 'DrainFunnel,' which is designed to prevent clogs by allowing hair to flow freely through the drainage system instead of accumulating. The video visually demonstrates the product's effectiveness by showing hair disappearing down the drain and then revealing a clear plumbing P-trap where hair and water are seen passing through unimpeded, ultimately discharging into a bucket, confirming a clog-free operation. Text overlays highlight the problem, introduce the solution, and provide social proof of its long-term effectiveness.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Messy_Unorganized",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "bathtub drain",
+        "hair catcher",
+        "clump of hair",
+        "hand"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "white tub"
+        ]
+      },
+      "why_kept": "This segment effectively establishes the problem (clogged drains and unpleasant hair catchers) by showing a hand pulling out a large, messy clump of hair from a traditional catcher, creating a strong visual hook."
+    },
+    {
+      "start_time": "00:05.000",
+      "end_time": "00:10.800",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "bathtub drain",
+        "water",
+        "hair",
+        "text overlay",
+        "DrainFunnel"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "effective"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clear water",
+          "smooth flow"
+        ]
+      },
+      "why_kept": "This segment introduces the innovative solution and immediately demonstrates its effect at the drain level: hair is shown going down the drain without being caught, illustrating the core mechanism of action of the DrainFunnel."
+    },
+    {
+      "start_time": "00:10.800",
+      "end_time": "00:18.900",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Social_Proof",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "clear pipe",
+        "P-trap",
+        "water flow",
+        "hair",
+        "blue bucket",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "satisfying",
+          "effective"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "visible plumbing",
+          "continuous flow"
+        ]
+      },
+      "why_kept": "This segment provides conclusive visual evidence of the DrainFunnel's effectiveness, showing hair and water passing freely through a transparent P-trap and into a bucket, confirming that clogs are prevented. The social proof text reinforces the product's long-term success."
+    }
+  ]
+}

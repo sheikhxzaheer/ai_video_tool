@@ -1,0 +1,109 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1750167784944.mp4",
+  "detailed_description": "The video opens by presenting a 76-year-old man, highlighted with a text overlay claiming he has never had gray hair. When prompted about this remarkable fact, the man humorously contradicts the claim by visually pointing out and verbally describing the various colors present in his hair, specifically mentioning red, blonde, mousy, and even gray strands. He playfully dismisses the idea of having uniformly colored hair, coining the term 'odd-a-been hair,' akin to a horse's tail. The sequence culminates in his hearty laughter, delivering a charming and self-aware moment of humor regarding aging and hair. This short clip captures a delightful blend of surprise, a reveal that subverts expectations, and genuine amusement.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Face_Reaction",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "man",
+        "blond hair",
+        "smiling",
+        "touching hair",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment introduces the core premise of the video with the on-screen text and the initial question, setting up the expectation. The man's smiling reaction and initial gesture towards his hair begin the narrative, making it a strong visual hook."
+    },
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Reveal_Transformation",
+        "Macro_Detail",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "man",
+        "blond hair",
+        "gray hair",
+        "touching hair",
+        "different hair colors"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "neutral",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "detailed shot"
+        ]
+      },
+      "why_kept": "This close-up visually demonstrates the man's point, clearly showing the mixed colors in his hair, including 'gray,' directly contradicting the initial claim and providing the factual (albeit humorous) 'reveal'."
+    },
+    {
+      "start_time": "00:12.000",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Key_Information",
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man",
+        "talking",
+        "laughing",
+        "blond hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "playful",
+          "high energy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "expressive face"
+        ]
+      },
+      "why_kept": "This segment delivers the humorous punchline and the man's genuine, infectious laughter, serving as the emotional climax and the main takeaway of the video, reinforcing the playful contradiction about his hair color."
+    }
+  ]
+}

@@ -1,0 +1,399 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Lab\\Woman\\ssstik.io_@pcrbiosystems_1769713626291.mp4",
+  "detailed_description": "The video humorously introduces various pieces of laboratory equipment, personifying them as \"our favourite ladies in the lab.\" A scientist in a lab coat and gloves playfully interacts with different machines, from vortex mixers and centrifuges to incubators and heat blocks, giving each a unique, often human-sounding name. The video highlights basic product interactions and lab processes in a lighthearted, montage style. It culminates in the scientist gleefully tossing a handful of small lab vials into the air, showcasing a fun and engaging atmosphere within the scientific workspace and offering a behind-the-scenes look at common lab tools.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Behind_The_Scenes",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "lab coat",
+        "gloves",
+        "opening door",
+        "lab",
+        "office"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "quick cut"
+        ]
+      },
+      "why_kept": "This segment serves as the initial visual hook, setting the scene and introducing the subject in a lab environment before the main 'ladies' (equipment) are introduced."
+    },
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Mechanism_Of_Action",
+        "Behind_The_Scenes",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "lab coat",
+        "gloves",
+        "vortex mixer",
+        "touching machine",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This is the first segment where a specific piece of lab equipment (a 'lady') is introduced and interacted with, establishing the core premise of the video's narrative."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Mechanism_Of_Action",
+        "Behind_The_Scenes",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "lab coat",
+        "gloves",
+        "lab hood",
+        "opening cabinet",
+        "pointing",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "quick cut"
+        ]
+      },
+      "why_kept": "This segment introduces another 'lady' (lab hood) through direct interaction, showcasing more of the diverse lab equipment in a consistent playful manner."
+    },
+    {
+      "start_time": "00:05.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Mechanism_Of_Action",
+        "Behind_The_Scenes",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "lab coat",
+        "gloves",
+        "centrifuge",
+        "opening lid",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "quick cut"
+        ]
+      },
+      "why_kept": "Continuing the theme, this segment introduces another 'lady' (centrifuge) with an action that demonstrates its use, adding to the montage of lab interactions."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Behind_The_Scenes",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "lab coat",
+        "gloves",
+        "vortex mixer",
+        "hands on machine",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "quick cut"
+        ]
+      },
+      "why_kept": "This segment introduces another 'lady' (vortex mixer) with a direct, personal interaction and smile, emphasizing the playful personification of the equipment."
+    },
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Behind_The_Scenes",
+        "The_Process_Labor"
+      ],
+      "visual_keywords": [
+        "gloves",
+        "hands",
+        "vortex mixer",
+        "vibrating machine",
+        "pressing button"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "action shot"
+        ]
+      },
+      "why_kept": "This close-up segment directly demonstrates the 'process/labor' of using the vortex mixer, providing a clear visual of product interaction and functionality."
+    },
+    {
+      "start_time": "00:11.000",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Mechanism_Of_Action",
+        "Behind_The_Scenes",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "lab coat",
+        "gloves",
+        "incubator",
+        "opening door",
+        "crouching",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "quick cut"
+        ]
+      },
+      "why_kept": "This segment introduces another 'lady' (incubator) through an action of opening it, further expanding the variety of lab equipment showcased in the video."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Behind_The_Scenes",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "lab coat",
+        "gloves",
+        "heat block",
+        "pointing",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "quick cut"
+        ]
+      },
+      "why_kept": "Another 'lady' (heat block) is introduced with a direct interaction and positive facial expression, reinforcing the video's lighthearted tone and comprehensive display of lab tools."
+    },
+    {
+      "start_time": "00:14.000",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "woman",
+        "lab coat",
+        "gloves",
+        "vials",
+        "holding samples",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment introduces the smaller 'ladies' (vials/samples) and shows a direct interaction with them, maintaining the playful theme and showcasing the materials handled in the lab."
+    },
+    {
+      "start_time": "00:16.000",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "High_Energy",
+        "Positive_Emotion",
+        "Visual_Hook",
+        "Human_Interaction",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "woman",
+        "lab coat",
+        "gloves",
+        "vials",
+        "throwing vials",
+        "laughing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "joyful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "dynamic action",
+          "expressive"
+        ]
+      },
+      "why_kept": "This segment serves as the emotional climax and a strong visual hook, playfully concluding the introduction of the 'ladies' with high energy and positive emotion, reinforcing the video's lighthearted concept."
+    }
+  ]
+}

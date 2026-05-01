@@ -1,0 +1,213 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury hotel\\ssstik.io_@cambridgehotel_official_1766160238271.mp4",
+  "detailed_description": "This video showcases a modern and well-appointed hotel room at Cambridge Hotel Medan. It begins with the guest's arrival, demonstrating the keycard entry system and power activation. The main segment reveals the spacious and stylish room, highlighting its comfortable king-size bed, contemporary decor, and ample amenities. Further details include the panoramic city view, a peek at the outdoor swimming pool with a guest enjoying a swim, and a final look at the elegant, marble-finished bathroom complete with complimentary toiletries. The video effectively presents the key features and appealing ambiance of the hotel accommodation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.133",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "hotel keycard",
+        "door lock",
+        "hand",
+        "room number 1017"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial interaction with the hotel's keycard entry system, setting the scene for the room reveal."
+    },
+    {
+      "start_time": "00:03.966",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hotel keycard",
+        "power slot",
+        "hand"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean white interior"
+        ]
+      },
+      "why_kept": "Shows the activation of the room's power via the keycard, a standard hotel practice."
+    },
+    {
+      "start_time": "00:05.533",
+      "end_time": "00:08.100",
+      "structural_tags": [
+        "Reveal_Result",
+        "Aesthetic_Broll",
+        "Product_Standalone",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "hotel room",
+        "bed",
+        "window",
+        "modern decor",
+        "spacious"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "elegant design"
+        ]
+      },
+      "why_kept": "This is the primary 'hero moment' where the hotel room is first revealed, establishing the main product and setting the overall visual tone."
+    },
+    {
+      "start_time": "00:08.100",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Product_Standalone",
+        "Calm_Relaxation",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "king bed",
+        "bedside table",
+        "lamp",
+        "television",
+        "minibar",
+        "desk",
+        "modern decor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean lines",
+          "accent lighting"
+        ]
+      },
+      "why_kept": "Showcases various detailed features and design elements within the hotel room, complementing the main room reveal."
+    },
+    {
+      "start_time": "00:15.033",
+      "end_time": "00:22.200",
+      "structural_tags": [
+        "Product_Interaction",
+        "Reveal_Result",
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "curtain",
+        "city view",
+        "swimming pool",
+        "person swimming",
+        "tall buildings"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "panoramic view"
+        ]
+      },
+      "why_kept": "Highlights the room's impressive view and the hotel's outdoor amenities, including a guest enjoying the pool."
+    },
+    {
+      "start_time": "00:22.200",
+      "end_time": "00:25.000",
+      "structural_tags": [
+        "Reveal_Result",
+        "Product_Standalone",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "bathroom",
+        "bathtub",
+        "sink",
+        "toiletries",
+        "bottled water",
+        "marble"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "dark marble",
+          "sleek design",
+          "spot lighting"
+        ]
+      },
+      "why_kept": "Showcases the elegant bathroom and the complimentary amenities provided, emphasizing luxury and convenience."
+    }
+  ]
+}

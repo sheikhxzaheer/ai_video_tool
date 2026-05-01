@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLlife_product\\unboxing.mov",
+  "detailed_description": "This video features a woman unboxing and presenting the 'FUR LIFE Advanced Dog Calming Diffuser Kit.' She carefully opens the product box, revealing its contents. The video highlights her interaction with the product as she extracts and briefly displays the refill bottle and then the main diffuser unit, showcasing the product's components in a clear and engaging manner. Her positive expression throughout the unboxing process suggests satisfaction and ease of use.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:32.700",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "product box",
+        "FUR LIFE",
+        "dog calming diffuser kit",
+        "refill bottle",
+        "diffuser unit",
+        "unboxing",
+        "opening box",
+        "holding product"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clean background",
+          "soft focus"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the crucial 'Product Interaction' and 'Product_Intro' by showing the complete unboxing process. The woman's actions of opening the box, taking out the refill bottle, and then the diffuser unit are continuous 'hero moments' that reveal the product's components. Her consistent positive facial expression also aligns with the 'Emotional Climax' criteria."
+    }
+  ]
+}

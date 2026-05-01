@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Peeling\\CNWM_JillianGray_027_Peeling.MOV",
+  "detailed_description": "The video focuses on a woman's skincare routine, capturing the moment she begins to peel off a face mask. With a shiny, iridescent mask on her face and a pink bow headband, she positions her fingers on her cheek, ready to remove the product. She looks directly at the camera, expressing her excitement and anticipation for the result as she starts the peeling process. This segment emphasizes the user's positive emotional engagement with the product and the beginning of a transformation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.040",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face mask",
+        "peeling",
+        "pink headband",
+        "skincare"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "relaxed"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "direct gaze",
+          "skincare routine"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core because it immediately demonstrates the 'Product Interaction' (peeling off a face mask) and the 'Mechanism_Of_Action' of a peel-off mask. The subject's verbal statement and 'Face_Reaction' clearly convey a 'Positive_Emotion' of excitement and anticipation for the product's results, making it an emotional climax and a key hero moment showcasing user engagement."
+    }
+  ]
+}

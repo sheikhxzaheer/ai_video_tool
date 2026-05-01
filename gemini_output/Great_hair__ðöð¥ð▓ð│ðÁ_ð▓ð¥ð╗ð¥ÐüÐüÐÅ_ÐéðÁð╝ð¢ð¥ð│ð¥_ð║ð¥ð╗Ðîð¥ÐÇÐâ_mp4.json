@@ -1,0 +1,106 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ðöð¥ð▓ð│ðÁ ð▓ð¥ð╗ð¥ÐüÐüÐÅ ÐéðÁð╝ð¢ð¥ð│ð¥ ð║ð¥ð╗Ðîð¥ÐÇÐâ.mp4",
+  "detailed_description": "This video demonstrates the process of styling curly hair using a specific hair product. It begins by introducing the product, then showcases the hands-on process of scrunching and manipulating the curls to achieve definition and volume. The video concludes with a clear shot of the styled, bouncy hair and a final presentation of the product, emphasizing its role in achieving the desired look for curly hair.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "person",
+        "curly hair",
+        "hair product",
+        "hands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment introduces the product and the subject's hair, setting the context for the styling demonstration. It serves as a visual hook before the main action."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Result_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands",
+        "curly hair",
+        "scrunching hair",
+        "hair movement"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dynamic movement",
+          "focused on hair texture"
+        ]
+      },
+      "why_kept": "This is the primary 'Process/Labor' segment, showcasing the core action of styling curly hair. It visibly demonstrates the technique used to define and enhance the curls, which is central to the video's purpose. The gathering and releasing of hair further highlights the texture and volume."
+    },
+    {
+      "start_time": "00:16.000",
+      "end_time": "00:25.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Interaction",
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "styled curly hair",
+        "defined curls",
+        "hair product",
+        "hands holding product"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "final look",
+          "product branding"
+        ]
+      },
+      "why_kept": "This segment presents the final, styled look of the hair as a 'Result_Transformation' of the process, and then re-introduces the product. It effectively connects the aesthetic outcome back to the product used, reinforcing its effectiveness."
+    }
+  ]
+}

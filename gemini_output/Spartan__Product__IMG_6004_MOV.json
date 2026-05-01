@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Product\\IMG_6004.MOV",
+  "detailed_description": "This video features a professional display of multiple units of 'SPARTAN ROOT ACTIVATOR SHAMPOO'. The camera slowly pans across a clean, white surface, showcasing numerous black pump bottles neatly arranged. The product's label, highlighting its purpose to 'PROMOTE HAIR GROWTH', is clearly visible, emphasizing the branding and the quantity of the product available.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.904",
+      "structural_tags": [
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "Spartan Root Activator Shampoo",
+        "black bottles",
+        "pump dispensers",
+        "white counter",
+        "potted plant",
+        "product display"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "organized display",
+          "slow panning shot",
+          "minimalist background"
+        ]
+      },
+      "why_kept": "This entire segment serves as the 'Semantic Core' by showcasing a large quantity of the product, 'Spartan Root Activator Shampoo'. The slow camera pan from right to left highlights the volume of the product, effectively demonstrating its presence and making the product itself the central focus. It falls under 'The Reveal/Result' for presenting the final product arrangement and 'Product Interaction' by implicitly allowing the viewer to 'see' the product clearly."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cry\\Woman\\ssstik.io_@fvibhanjr60_1767009830613.mp4",
+  "detailed_description": "The video features a young woman with long blonde hair, visibly distressed and on the verge of tears. Her eyes appear red, suggesting deep sadness or recent crying. She sits, rubbing her hands, conveying a sense of vulnerability and a longing for peace. The accompanying melancholic music, with lyrics about needing help but desiring solitude, perfectly encapsulates her emotional state, making her the visual representation of the song's sentiment. The setting, an intimate bedroom, enhances the feeling of a private struggle.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.110",
+      "structural_tags": [
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "young woman",
+        "blonde hair",
+        "sad expression",
+        "red eyes",
+        "rubbing hands",
+        "black long-sleeve top",
+        "bedroom background",
+        "ceiling fan"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "calm",
+          "other"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "soft focus",
+          "emotional portrait"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, powerfully conveying a 'Negative_Emotion' and a 'Problem_State' through the subject's 'Face_Reaction' and body language. Her visible sadness, red eyes, and the melancholic music combine to create a strong emotional climax that defines the video's message. There are no setup frames or post-action dead air; the emotional display is continuous from start to finish."
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ðƒðÁÐÇðÁÐàð¥ð┤Ðï ð▓ð¥ð╗ð¥Ðü ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ð▓Ðïð┐ð░ð┤ðÁð¢ð©ðÁ.mp4",
+  "detailed_description": "This video captures the transformative journey of a man undergoing a hair transplant at Smile Hair Clinic. It meticulously documents the progression of hair regrowth, starting from an initial state of significant baldness on the crown and receding hairline. The core meaning is demonstrated through sequential visual updates, culminating in a dramatic 'Before and After' split-screen comparison, showcasing a full and healthy head of hair after 12 months. The video effectively highlights the successful outcome of the hair restoration procedure.",
+  "segments": [
+    {
+      "start_time": "00:01.442",
+      "end_time": "00:03.242",
+      "structural_tags": [
+        "Problem_State",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man",
+        "baldness",
+        "hair loss",
+        "scalp",
+        "receding hairline",
+        "top-down view"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "neutral lighting",
+          "clear view of scalp"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'Before' state, showing the extent of hair loss from a top-down perspective, which is crucial for appreciating the subsequent transformation."
+    },
+    {
+      "start_time": "00:16.892",
+      "end_time": "00:20.109",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair growth",
+        "full hair",
+        "dense hair",
+        "12th month",
+        "top-down view"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home"
+        ],
+        "mood": [
+          "positive",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "wet hair styling"
+        ]
+      },
+      "why_kept": "This segment provides a clear 'After' perspective from above, showcasing the successful hair regrowth and density achieved after 12 months, complementing the initial 'Before' shot."
+    },
+    {
+      "start_time": "00:20.933",
+      "end_time": "00:23.016",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair growth",
+        "hairline",
+        "side view",
+        "12th month",
+        "dense hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home"
+        ],
+        "mood": [
+          "positive",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "wet hair styling"
+        ]
+      },
+      "why_kept": "This segment offers an 'After' side view, effectively demonstrating the restored hairline and overall hair density from a different angle, reinforcing the transformation."
+    },
+    {
+      "start_time": "00:24.789",
+      "end_time": "00:27.422",
+      "structural_tags": [
+        "Reveal_Result",
+        "Before_After",
+        "Split_Screen"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair transplant",
+        "before and after",
+        "hair growth",
+        "transformation",
+        "split screen"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "mixed"
+        ],
+        "mood": [
+          "positive",
+          "shock_surprise"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct comparison",
+          "clear contrast"
+        ]
+      },
+      "why_kept": "This is the ultimate 'Hero Moment' as it directly presents the 'Before and After' comparison via a split screen, delivering the core message and the most impactful 'Reveal' of the successful hair transplant outcome."
+    }
+  ]
+}

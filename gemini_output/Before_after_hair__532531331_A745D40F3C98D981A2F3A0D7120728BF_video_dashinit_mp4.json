@@ -1,0 +1,77 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\532531331_A745D40F3C98D981A2F3A0D7120728BF_video_dashinit.mp4",
+  "detailed_description": "This video features a dramatic before-and-after transformation of a man's hair. It begins with a 'before' shot showcasing his receding hairline and thinning hair on top. This problem state is immediately followed by an 'after' shot, revealing a significant improvement in hair density and style, featuring a full head of hair with a modern fringe and a clean fade. The video effectively highlights the striking visual difference achieved, emphasizing the transformative result.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Problem_State",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man",
+        "thinning hair",
+        "receding hairline",
+        "beard",
+        "black t-shirt"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean lighting",
+          "simple background"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state, clearly showing the man's thinning hair and receding hairline, which is essential for highlighting the subsequent transformation."
+    },
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:07.387",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "full hair",
+        "styled hair",
+        "fringe",
+        "fade haircut",
+        "beard",
+        "black t-shirt"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "satisfied",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean lighting",
+          "simple background"
+        ]
+      },
+      "why_kept": "This segment is the 'after' state, showcasing the complete and successful hair transformation with a full, styled head of hair. It is the core 'reveal' moment and demonstrates the value of the service."
+    }
+  ]
+}

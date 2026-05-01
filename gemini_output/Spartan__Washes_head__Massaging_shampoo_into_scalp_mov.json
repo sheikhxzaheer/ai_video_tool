@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Washes head\\Massaging shampoo into scalp.mov",
+  "detailed_description": "A man in a luxurious marble shower is actively washing his hair with shampoo, creating a rich lather. He maintains direct eye contact with the camera and smiles warmly, conveying a sense of satisfaction and enjoyment during his personal care routine. The clean, well-lit environment highlights the intimate and refreshing experience of showering.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.450",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Morning_Routine",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "showering",
+        "washing hair",
+        "shampoo",
+        "foam",
+        "beard",
+        "tattoos",
+        "marble tiles",
+        "smile",
+        "eye contact"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "upward camera angle",
+          "direct eye contact",
+          "good lighting",
+          "clean marble bathroom"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it perfectly captures the 'Hero Moment' of product interaction (shampooing hair), the process of a personal care routine, and an emotional climax (the man smiling and making eye contact). There are no setup frames or post-action dead air, fulfilling the 'No-Mistake' rule."
+    }
+  ]
+}

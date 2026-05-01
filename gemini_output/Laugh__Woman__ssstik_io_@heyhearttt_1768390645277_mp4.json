@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Laugh\\Woman\\ssstik.io_@heyhearttt_1768390645277.mp4",
+  "detailed_description": "A young woman with long, flowing brown hair, wearing a light-colored, off-shoulder top, is captured in a vibrant close-up. She begins with a hand to her head, then bursts into a fit of uncontrollable, genuine laughter, frequently covering her mouth and closing her eyes as she experiences intense amusement. Her infectious, high-energy laughter is the primary focus, conveying a moment of pure joy and mirth throughout the entire video clip.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:14.00",
+      "structural_tags": [
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "woman",
+        "laughing",
+        "smiling",
+        "joyful",
+        "long hair",
+        "candid"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "authentic",
+          "spontaneous"
+        ]
+      },
+      "why_kept": "This entire segment serves as the core 'Emotional Climax' of the video. The subject's sustained, genuine, and high-energy laughter perfectly exemplifies 'Positive_Emotion' and 'Face_Reaction', making it the singular hero moment without any discernible setup or post-action dead air to trim."
+    }
+  ]
+}

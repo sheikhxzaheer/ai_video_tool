@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Testimonials\\Script 1B.mp4",
+  "detailed_description": "A man provides a direct and enthusiastic testimonial for 'MoldMD Mold Spot Remover.' He recounts his initial skepticism before subscribing to the product and expresses significant relief, stating that his allergies are now 'totally gone' after just a couple of weeks of use. He wishes he had discovered the product years ago and concludes by giving it a perfect '10 out of 10' rating, all while prominently holding and displaying the product bottle.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:20.300",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Product_Intro",
+        "Product_Interaction",
+        "Social_Proof",
+        "Positive_Emotion",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man speaking",
+        "holding product bottle",
+        "MoldMD",
+        "spray cleaner",
+        "kitchen background",
+        "window",
+        "Keurig"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clear focus on subject and product",
+          "direct address to camera"
+        ]
+      },
+      "why_kept": "This entire segment serves as a cohesive 'Hero Moment' where the speaker delivers a key testimonial and social proof for the MoldMD product. He consistently interacts with the product by holding it, displaying it, and using it as a prop while sharing his positive experience and giving a strong recommendation. This fulfills the 'Key Information', 'Product Interaction', and 'Emotional Climax' (satisfaction) criteria, with the product being visually central throughout."
+    }
+  ]
+}

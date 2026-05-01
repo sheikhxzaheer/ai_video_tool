@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Product\\CNWM_JillianGray_07_Packaging.MOV",
+  "detailed_description": "The video features a woman with a pink headband who introduces a product that effectively addresses her sensitive skin concerns. She presents a facial brush and a pink product tube to the camera, conveying a sense of satisfaction and relief after finding a solution that works for her. This segment highlights both her positive experience and the product itself.",
+  "segments": [
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Product_Intro",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink headband",
+        "facial brush",
+        "pink product tube",
+        "moon necklace",
+        "presenting product",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it perfectly encapsulates product interaction and key information. The subject is actively presenting the product (brush and tube) while finishing her key statement about finding something that 'finally works' for her sensitive skin. This aligns with the 'Product Interaction' and 'Key Information' hero moments, and adheres to the 'Visual Priority Rule' by focusing on the moment the product is visibly handled."
+    }
+  ]
+}

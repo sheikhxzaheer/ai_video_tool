@@ -1,0 +1,216 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad sleep\\ssstik.io_@shesjustmac_1768828143883.mp4",
+  "detailed_description": "This video humorously depicts the universal struggle of trying to sleep during a heatwave. It showcases a woman tossing and turning in bed, exhibiting clear frustration and discomfort from the oppressive heat. As her attempts to sleep fail, she resorts to various methods to cool down, including turning on a floor fan and dramatically pouring water over her face from a large insulated tumbler, highlighting the desperation for immediate relief in sweltering conditions.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.333",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Human_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "fanning self",
+        "discomfort",
+        "frustration"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "selfie-style"
+        ]
+      },
+      "why_kept": "This segment immediately establishes the core problem (difficulty sleeping due to heatwave) and the character's initial negative emotional response, serving as a strong visual hook."
+    },
+    {
+      "start_time": "00:01.333",
+      "end_time": "00:03.233",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Human_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "turning",
+        "pillows",
+        "restless"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment continues to build on the problem state, visually reinforcing the discomfort and restlessness caused by the heat, and her inability to find a comfortable position."
+    },
+    {
+      "start_time": "00:03.233",
+      "end_time": "00:06.033",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Human_Interaction",
+        "Night_Routine",
+        "Time_Wasted"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "tossing and turning",
+        "blanket",
+        "restless"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "natural light"
+        ]
+      },
+      "why_kept": "This wider shot further emphasizes the constant struggle and the complete inability to find sleep, showing her repeatedly adjusting the covers, then discarding them due to heat."
+    },
+    {
+      "start_time": "00:06.033",
+      "end_time": "00:08.033",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Human_Interaction",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "sitting up",
+        "frustrated"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment captures a clear 'climax' of frustration, where the character gives up on trying to sleep and decides to take active measures against the heat."
+    },
+    {
+      "start_time": "00:08.033",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Problem_State",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "woman",
+        "fan",
+        "turning on",
+        "seeking relief"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment shows the character actively seeking a solution by turning on a fan, a relatable action taken to combat high temperatures and a key product interaction."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:13.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Result_Transformation",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "tumbler",
+        "water",
+        "pouring water",
+        "cooling down",
+        "relief",
+        "straw"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment illustrates a dramatic and immediate attempt to cool down by pouring water over her face, emphasizing the severity of the heat and culminating in a moment of relief and product interaction with the tumbler."
+    }
+  ]
+}

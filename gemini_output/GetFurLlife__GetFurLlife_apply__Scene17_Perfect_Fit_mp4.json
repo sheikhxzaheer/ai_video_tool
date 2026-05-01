@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLlife_apply\\Scene17_Perfect Fit.mp4",
+  "detailed_description": "This video's semantic core demonstrates the clear and calm process of a person putting a purple collar and a metal leash on a gray dog in an outdoor park setting. The interaction highlights the ease of use and fit of the collar and leash, showing the dog's relaxed demeanor during the process. The focus is on the practical application of the pet accessories, ensuring the dog is ready for a walk. The clip begins with the collar being secured and ends once the leash is fully attached.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:31.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "dog",
+        "woman",
+        "purple collar",
+        "leash",
+        "attaching collar",
+        "attaching leash",
+        "park",
+        "grass"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clear focus"
+        ]
+      },
+      "why_kept": "This segment is kept as the semantic core because it directly showcases the 'Process/Labor' and 'Product Interaction' of putting on a dog collar and leash. It demonstrates the product in use, which is the primary value proposition of the video. The trimming ensures that only the essential action of preparing the dog for a walk is included, removing post-action dead air."
+    }
+  ]
+}

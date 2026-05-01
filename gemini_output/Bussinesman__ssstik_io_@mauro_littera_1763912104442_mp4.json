@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bussinesman\\ssstik.io_@mauro.littera_1763912104442.mp4",
+  "detailed_description": "This video features a stylish man dressed in a tailored royal blue suit, a black turtleneck, and black Chelsea boots. He confidently walks through an elegant, columned indoor hall, carrying a sleek black leather briefcase. The video focuses on presenting a sophisticated and professional look, with the briefcase serving as a key accessory that complements the overall refined aesthetic and implied business lifestyle.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.854",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Human_Interaction",
+        "Product_Standalone",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Workspace_Office",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "Man",
+        "blue suit",
+        "black turtleneck",
+        "black leather briefcase",
+        "sunglasses",
+        "watch",
+        "walking",
+        "architectural interior",
+        "formal wear"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office",
+          "travel"
+        ],
+        "mood": [
+          "premium",
+          "serious",
+          "confident",
+          "elegant"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "stylish presentation",
+          "smooth camera movement",
+          "sophisticated attire"
+        ]
+      },
+      "why_kept": "The entire video segment serves as a continuous showcase of the professional and stylish ensemble, with the black leather briefcase being a central and consistently featured accessory. The walking action itself implies an active, on-the-go lifestyle, which is part of the product's intended context. There is no 'setup' or 'dead air' before or after the presentation of the look and product."
+    }
+  ]
+}

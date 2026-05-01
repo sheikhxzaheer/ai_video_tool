@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Dog happy\\Snaptik.app_7307255871397072133.mp4",
+  "detailed_description": "The video features a charming Corgi dog seated comfortably on a brown sofa, with a light blue wall in the background. The dog begins by looking downwards, then quickly licks its nose before settling into a distinctive, almost 'smirking' expression. It maintains a calm, focused gaze towards the side, with its ears slightly perked, conveying a playful and knowing demeanor throughout the clip.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.292",
+      "structural_tags": [
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Corgi dog",
+        "couch",
+        "licking nose",
+        "smirking expression",
+        "perked ears",
+        "dog looking sideways"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "mischievous"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "clean background",
+          "static shot"
+        ]
+      },
+      "why_kept": "This entire segment captures the dog's key emotional display and unique facial expression, which is the core value and primary focus of the video. The initial lick and subsequent settled expression form a continuous 'hero moment' of the dog's personality. Trimming would remove part of this deliberate sequence."
+    }
+  ]
+}

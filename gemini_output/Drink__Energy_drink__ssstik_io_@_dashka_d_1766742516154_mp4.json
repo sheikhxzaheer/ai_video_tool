@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Drink\\Energy drink\\ssstik.io_@_dashka_d_1766742516154.mp4",
+  "detailed_description": "The video portrays the struggle of being an 'energeticoholic' through a visual display of numerous empty energy drink cans. A person is shown repeatedly consuming an energy drink, each sip followed by a noticeable grimace and the act of covering their face, symbolizing the overwhelming and potentially negative effects of excessive energy drink consumption. The melancholic music reinforces the theme of a burdensome habit.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.751",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "energy drink cans",
+        "person drinking",
+        "covering face",
+        "hoodie",
+        "table",
+        "wall"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "melancholic",
+          "reflective"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "low light",
+          "static shot",
+          "repetitive action"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, visually demonstrating the 'energeticoholic' concept. It establishes the problem through the collection of cans, shows the product interaction, and captures the clear negative emotional and physical reaction, effectively conveying the struggle without any superfluous frames."
+    }
+  ]
+}

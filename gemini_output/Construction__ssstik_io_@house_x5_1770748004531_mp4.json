@@ -1,0 +1,56 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Construction\\ssstik.io_@house.x5_1770748004531.mp4",
+  "detailed_description": "This video showcases the complete construction of a luxurious modern house nestled on a hill overlooking the ocean, captured in a captivating time-lapse. It begins with an empty lot and progressively reveals each stage of the building process, from foundation and framing to exterior finishing and landscaping. The core meaning lies in the impressive transformation from concept to a stunning, fully realized architectural masterpiece, highlighting both the effort involved and the beautiful final result.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Behind_The_Scenes",
+        "Result_Transformation",
+        "Before_After",
+        "Aesthetic_Broll",
+        "Human_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "construction",
+        "house",
+        "building process",
+        "time-lapse",
+        "ocean view",
+        "luxury home",
+        "workers",
+        "swimming pool",
+        "sunset",
+        "landscaping",
+        "modern architecture"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "nature",
+          "ocean"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "aspirational"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "time-lapse",
+          "golden hour lighting",
+          "high-angle view",
+          "smooth transition",
+          "construction progress"
+        ]
+      },
+      "why_kept": "This entire segment is kept because it's a continuous time-lapse that perfectly encapsulates the 'Semantic Core' of the video: the complete construction process and the dramatic reveal of the finished, luxurious house. It directly demonstrates 'THE PROCESS/LABOR' (construction workers building) and 'THE REVEAL/RESULT' (the transformation from an empty lot to a beautiful home), with implicit 'Before/After' aspects throughout. There is no 'setup & calibration' or 'post-action dead air' to trim, as the time-lapse starts exactly with the initial state and concludes with the final product."
+    }
+  ]
+}

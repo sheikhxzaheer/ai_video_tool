@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Product\\Products shot.mov",
+  "detailed_description": "This video features a young woman smiling at the camera while holding up two pink skincare products from the brand 'AIUO KOREAN BEAUTY'. She presents a jar of 'COLLAGEN MOISTURE CREAM' and a tube of 'COLLAGEN NIGHT WRAPPING MASK', gently rotating them to showcase the labels. The setting is indoors with warm, ambient lighting, and she is wearing bunny and bear ear headbands, adding a playful touch to the product introduction.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.819",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "UGC_Talking_Head",
+        "Aesthetic_Broll",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "skincare products",
+        "pink jar",
+        "pink tube",
+        "AIUO KOREAN BEAUTY",
+        "Collagen Moisture Cream",
+        "Collagen Night Wrapping Mask",
+        "smiling",
+        "headband",
+        "bunny ears",
+        "bear ears"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "soft focus",
+          "user-generated content style"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core, as it directly introduces and showcases the two skincare products, with the subject clearly presenting them to the viewer. The slight rotation of the products ensures the labels are visible, making it a clear product interaction and introduction. The subject's positive facial expression enhances the appeal of the products, and there is no setup, dead air, or extraneous activity to trim."
+    }
+  ]
+}

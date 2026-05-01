@@ -1,0 +1,265 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Makeup_artist\\ssstik.io_@hmbyasianicole_1762252417514.mp4",
+  "detailed_description": "This video captures the comprehensive transformation of a pageant contestant through professional hair and makeup artistry. It meticulously showcases key steps in makeup application, including face prep, foundation, eye makeup, and lip finishing, alongside the intricate process of hair styling, from setting curls to achieving voluminous looks. The semantic core culminates in the reveal of the stunning final look, highlighting the model's authentic and joyful reaction to her complete glamorous makeover, affirming the expertise and transformative power of the artists.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "makeup application",
+        "face spray",
+        "pre-makeup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment initiates the beauty transformation process by showing the initial product application, setting the stage for the 'Process/Labor' hero moment."
+    },
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "foundation",
+        "blush",
+        "makeup brush"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused lighting",
+          "professional application"
+        ]
+      },
+      "why_kept": "This segment showcases core makeup application steps, demonstrating the skilled 'Process/Labor' and 'Product Interaction' crucial to the transformation."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "mascara",
+        "eye makeup",
+        "lashes"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detail-oriented shot",
+          "precision application"
+        ]
+      },
+      "why_kept": "This clip highlights a detailed 'Process/Labor' step in eye makeup, demonstrating careful 'Product Interaction' to enhance the subject's eyes."
+    },
+    {
+      "start_time": "00:18.000",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "lip gloss",
+        "lip liner",
+        "lip makeup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused shot",
+          "finishing touches"
+        ]
+      },
+      "why_kept": "This segment shows the final 'Process/Labor' of lip makeup, representing a key 'Product Interaction' for completing the facial transformation."
+    },
+    {
+      "start_time": "00:27.000",
+      "end_time": "00:29.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Positive_Emotion",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "hair styling",
+        "hair rollers",
+        "curls"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dynamic motion",
+          "anticipation"
+        ]
+      },
+      "why_kept": "This marks the transition to hair styling, showing the initial 'Process/Labor' of unraveling curls and the start of the hair 'Result_Transformation', with a 'Positive_Emotion' from the model."
+    },
+    {
+      "start_time": "00:33.000",
+      "end_time": "00:36.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Behind_The_Scenes",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "hair volume",
+        "back-combing",
+        "hair styling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "volumizing technique",
+          "animated movement"
+        ]
+      },
+      "why_kept": "This segment demonstrates a specific 'Process/Labor' technique (back-combing) essential for achieving the desired hair volume, clearly showing expertise."
+    },
+    {
+      "start_time": "00:40.000",
+      "end_time": "00:42.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "hairspray",
+        "final hair styling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "finishing touch",
+          "hair setting"
+        ]
+      },
+      "why_kept": "This segment shows the crucial final 'Process/Labor' of hair styling with 'Product_Interaction' (hairspray), signifying the completion of the hair transformation."
+    },
+    {
+      "start_time": "00:43.000",
+      "end_time": "00:57.900",
+      "structural_tags": [
+        "Result_Transformation",
+        "Emotional_Climax",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "UGC_Talking_Head",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "final look",
+        "reaction",
+        "smile",
+        "mirror",
+        "hair",
+        "makeup"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "joyful",
+          "shock_surprise",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "expressive facial cues",
+          "direct engagement"
+        ]
+      },
+      "why_kept": "This is the ultimate 'Emotional_Climax' and 'Result_Transformation' of the video, capturing the model's genuine 'Face_Reaction' and 'Positive_Emotion' to her complete makeover. Her verbal expressions constitute a 'UGC_Talking_Head' moment directly tied to the visual outcome, making it the strongest hero moment."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold\\mold1.mp4",
+  "detailed_description": "The video provides a disquieting view inside a severely deteriorated bedroom, likely part of an abandoned structure. The walls and ceiling are extensively covered in what appears to be heavy mold, water damage, or soot, creating a stark visual of decay. A bed with a patterned headboard and soiled bedding dominates the center, flanked by neglected nightstands. The scene effectively communicates a profound sense of abandonment and deterioration, emphasized by the direct flashlight illumination revealing widespread damage and debris across the room.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.490",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Aesthetic_Broll",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "abandoned room",
+        "moldy walls",
+        "damaged ceiling",
+        "dirty bed",
+        "nightstands",
+        "debris on floor",
+        "flashlight beam"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "eerie",
+          "somber",
+          "decay",
+          "neglected"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "flashlight illumination",
+          "gritty texture",
+          "slow pan"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by continuously showcasing the pervasive decay and disrepair of an abandoned bedroom. The slow, deliberate camera pan allows viewers to absorb the extensive damage and atmospheric details, which is the sole subject matter and visual 'reveal' of the video."
+    }
+  ]
+}

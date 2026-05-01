@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Man\\ssstik.io_@veronikaknowles__1766674113505.mp4",
+  "detailed_description": "The video presents a humorous and relatable scenario of a man deeply asleep in bed, playfully labeled as a 'princess boyfriend' by the overlaid text. The camera gently pans around the sleeping figure, highlighting how he has seemingly claimed a significant portion of the bed and pillow. This entire segment serves as a lighthearted visual hook, depicting a common and amusing 'problem state' in shared living spaces.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.117",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man sleeping",
+        "boyfriend",
+        "bed",
+        "pillow",
+        "blanket",
+        "bedroom",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "humorous"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "soft focus",
+          "steady camera movement"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it visually demonstrates the 'princess boyfriend' scenario described by the on-screen text, which is the central humorous point of the video. The entire duration is essential to establish the visual context of the sleeping man and the implied 'problem state' of him taking up space, making it a complete and self-contained hero moment."
+    }
+  ]
+}

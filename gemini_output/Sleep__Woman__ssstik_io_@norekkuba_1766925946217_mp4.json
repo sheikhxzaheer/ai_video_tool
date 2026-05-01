@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Woman\\ssstik.io_@norekkuba_1766925946217.mp4",
+  "detailed_description": "This video captures a humorous and relatable moment between a couple traveling on an airplane. A blonde woman is seen deeply asleep with her mouth open, wearing a playful cat-ear headband. Her male partner secretly records her, initially smiling with amusement, then trying to suppress his laughter by covering his mouth. The clip highlights the man's affectionate and playful reaction to his partner's candid sleeping state, creating a lighthearted and endearing scene.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.533",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "woman sleeping",
+        "mouth open",
+        "cat ears headband",
+        "man smiling",
+        "man laughing",
+        "airplane cabin interior",
+        "white shirt",
+        "blonde hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "selfie view",
+          "natural light",
+          "handheld camera"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it encapsulates the complete 'hero moment' of the video. It begins with the humorous visual hook of the woman sleeping soundly with her mouth open, followed by the man's progressive emotional reaction—from a gentle smile to suppressed laughter. The entire duration is crucial to convey the full narrative and emotional climax of the playful interaction between the couple."
+    }
+  ]
+}

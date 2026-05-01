@@ -1,0 +1,206 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\TikTok\\12.mp4",
+  "detailed_description": "This video highlights a common morning hydration problem – feeling groggy, bloated, and dehydrated even after drinking plain water. The creator introduces 'Perfect Morning Electrolytes' as the solution, specifically the 'Tangerine Pulse' flavor, which is added to water. She emphasizes that this product provides the body with essential electrolytes it craves, tastes good without a salty flavor, and has made a significant positive difference in her morning routine. The video concludes with a strong call to action for viewers to upgrade their hydration if plain water isn't sufficient.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "holding glass",
+        "plain water",
+        "straw"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home_kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment clearly articulates the core problem of drinking plain water in the morning and visually represents it by holding a glass of water, setting the context for the product's solution."
+    },
+    {
+      "start_time": "00:12.700",
+      "end_time": "00:14.900",
+      "structural_tags": [
+        "Problem_State",
+        "UGC_Talking_Head",
+        "Negative_Emotion",
+        "Human_Interaction",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "woman sips water",
+        "holds glass",
+        "speaks about inadequacy"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home_kitchen"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment emphasizes the ineffectiveness of plain water through both verbal statement and the action of sipping, creating a direct lead-in to the product introduction."
+    },
+    {
+      "start_time": "00:14.900",
+      "end_time": "00:19.400",
+      "structural_tags": [
+        "Product_Intro",
+        "UGC_Talking_Head",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman showing product bag",
+        "holding mixed drink",
+        "explaining usage"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home_kitchen"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "product prominently displayed"
+        ]
+      },
+      "why_kept": "This is a primary 'hero moment' where the product is introduced, clearly shown with the mixed drink, and its core application (adding to water) is explained, making it central to the video's message."
+    },
+    {
+      "start_time": "00:19.400",
+      "end_time": "00:23.700",
+      "structural_tags": [
+        "Result_Transformation",
+        "UGC_Talking_Head",
+        "Positive_Emotion",
+        "Key_Information",
+        "Human_Interaction",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "woman speaking enthusiastically",
+        "gesturing",
+        "holding product and drink",
+        "explaining benefits (electrolytes)"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home_kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment highlights the positive impact of the product ('made such a difference') and explains its core mechanism (providing electrolytes), reinforcing its value proposition."
+    },
+    {
+      "start_time": "00:25.700",
+      "end_time": "00:28.400",
+      "structural_tags": [
+        "Product_Intro",
+        "UGC_Talking_Head",
+        "Positive_Emotion",
+        "Key_Information",
+        "Human_Interaction",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "woman pointing to product",
+        "smiling",
+        "speaking about good taste",
+        "no salty flavor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home_kitchen"
+        ],
+        "mood": [
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment adds to the product's appeal by emphasizing its pleasant taste and addressing potential concerns about salty flavors, enhancing consumer desire."
+    },
+    {
+      "start_time": "00:30.400",
+      "end_time": "00:34.600",
+      "structural_tags": [
+        "Offer_CTA",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "woman making a recommendation",
+        "holding product and drink",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home_kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "encouraging"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This is a direct and clear call to action, prompting viewers to consider trying the product if they face similar hydration issues, serving as the video's closing sales pitch."
+    }
+  ]
+}

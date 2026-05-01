@@ -1,0 +1,150 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold\\ssstik.io_@icecleaninguk_1770747544196.mp4",
+  "detailed_description": "This video meticulously documents the professional remediation of severe black mold from interior walls and window frames. The process begins by showcasing heavily mold-infested surfaces, followed by a person in full protective gear applying a specialized cleaning solution. The core of the video demonstrates the diligent scrubbing and wiping, with visible mold being removed, highlighting the product's effectiveness and the thoroughness required for such a task. The transformation culminates in a pristine 'after' shot, revealing clean, restored walls and windows, emphasizing the successful outcome of the mold removal.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.875",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "moldy wall",
+        "spray bottle",
+        "blue gloves",
+        "white protective suit"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "practical effects"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the severe mold problem and initiates the cleaning process with the first application of the solution, setting the scene for the intervention."
+    },
+    {
+      "start_time": "00:01.875",
+      "end_time": "00:05.812",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "window frame",
+        "mold",
+        "spray bottle",
+        "wiping",
+        "dirty cloth",
+        "blue gloves",
+        "white protective suit"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "practical effects"
+        ]
+      },
+      "why_kept": "This segment expands on the cleaning process, showing the solution being applied and wiped from a window frame, with the dirty cloth providing immediate visual proof of the product's effectiveness."
+    },
+    {
+      "start_time": "00:07.416",
+      "end_time": "00:25.104",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "moldy wall",
+        "scrubbing",
+        "sponge",
+        "spray bottle",
+        "wiping",
+        "dirty cloth",
+        "blue gloves",
+        "respirator mask",
+        "white protective suit"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "focused action",
+          "practical effects"
+        ]
+      },
+      "why_kept": "This is the primary 'Hero Moment,' showcasing the dedicated process of scrubbing and wiping, with clear visual evidence of the mold being physically removed from the wall, demonstrating the product's efficacy and the labor involved in transformation."
+    },
+    {
+      "start_time": "00:33.729",
+      "end_time": "00:39.104",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "clean wall",
+        "clean window",
+        "white window frame",
+        "green garden",
+        "sunlight"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clean aesthetic"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "bright natural light",
+          "pristine finish"
+        ]
+      },
+      "why_kept": "This segment serves as the ultimate 'reveal,' presenting the completely clean and restored wall and window, providing a stark 'after' comparison to the initial mold-infested state and highlighting the successful outcome."
+    }
+  ]
+}

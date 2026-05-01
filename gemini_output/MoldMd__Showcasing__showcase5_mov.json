@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\showcase5.mov",
+  "detailed_description": "This video introduces 'MoldMD', a multi-purpose mold and mildew spot remover. It showcases the product's front label, highlighting its eco-friendly, safe for all surfaces, and child/pet safe attributes, while the narrator emphasizes its enzyme-powered and non-toxic formula. The bottle is then rotated to display the back label, detailing directions for use and ingredients. The segment concludes with a physical demonstration of the spray trigger, reinforcing product interaction and ease of use.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.117",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Product_Standalone",
+        "Ingredient_Highlight",
+        "Mechanism_Of_Action",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "white spray bottle",
+        "MoldMD label",
+        "hands holding bottle",
+        "pink nails",
+        "snowflake design",
+        "product label text",
+        "spray trigger being pressed"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "informative",
+          "clinical",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "product-focused",
+          "clear visuals"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it functions as a continuous and complete introduction and demonstration of the product. It seamlessly transitions from presenting the product's key features on the front label, to detailing ingredients and instructions on the back label, and finally to demonstrating the product's primary interaction (spraying). The narration accompanies the visual presentation, making the entire duration essential to understanding the product's core value and how it is used. It adheres to the 'No-Mistake' rule as it begins with the primary action of product introduction and ends with a key product interaction."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\ssstik.io_@health.zone.333_1767812274983.mp4",
+  "detailed_description": "This video visually explains the progression of viral pneumonia within the human body. It begins by showing healthy lung alveoli, the tiny air sacs responsible for oxygen exchange. The animation then zooms in to illustrate how viruses invade these alveoli, triggering inflammation and infection. As the infection progresses, the alveoli become filled with fluid, impairing their function. Finally, the video demonstrates the widespread damage across the lungs, illustrating how a simple virus can transform into a serious threat by making breathing difficult.",
+  "segments": [
+    {
+      "start_time": "00:10.700",
+      "end_time": "00:32.000",
+      "structural_tags": [
+        "Problem_State",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Micro_Nutrients_Anim",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "viruses",
+        "alveoli",
+        "lungs",
+        "infection",
+        "inflammation",
+        "fluid",
+        "discoloration",
+        "damage"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "medical visualization",
+          "microscopic view",
+          "zooming effects"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it directly illustrates the 'Mechanism_Of_Action' of viral pneumonia, showing viruses invading the alveoli and causing 'Result_Transformation' through fluid buildup and widespread damage across the lungs. It effectively communicates the 'Problem_State' and the severity of the infection, from a cellular 'Micro_Nutrients_Anim' perspective to a macroscopic view of the entire organ."
+    }
+  ]
+}

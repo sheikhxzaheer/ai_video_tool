@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold Before_After\\rachaelbefore.mp4",
+  "detailed_description": "This video introduces the 'MoldMD Mold Spot Remover' product, showcasing its name and purpose. It then clearly presents a significant mold problem on a household surface, likely a window or door frame. The core action demonstrates the product's direct application, with a hand spraying the cleaning solution onto the heavily molded area, illustrating how the product is used to tackle the problem effectively.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Problem_State",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "mold cleaner bottle",
+        "hand",
+        "spraying",
+        "mold",
+        "window frame",
+        "wooden trim"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "direct application",
+          "practical demonstration"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it perfectly encapsulates the product introduction, highlights the 'Problem_State' (severe mold), and demonstrates the 'Product_Interaction' and 'Mechanism_Of_Action' by showing the cleaner being sprayed directly onto the moldy surface. It fulfills the criteria for showing the 'Process/Labor' of using the product to address a common household issue."
+    }
+  ]
+}

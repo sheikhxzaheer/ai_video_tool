@@ -1,0 +1,198 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Woman\\ssstik.io_1768396798706.mp4",
+  "detailed_description": "This video highlights the transformative impact of a standing desk from Amazon on a user's workday. It demonstrates the desk's seamless adjustability, allowing for effortless transitions between sitting and standing positions with pre-set height options. The video showcases the product's aesthetically pleasing design, multiple color choices, and its ability to foster a more dynamic and comfortable work environment. The user expresses complete satisfaction, emphasizing how this adjustable desk has become an essential and beloved part of her daily routine.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Workspace_Office",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "sitting",
+        "desk",
+        "computer",
+        "window",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clean decor"
+        ]
+      },
+      "why_kept": "This segment serves as the visual hook and introduces the video's premise by showing the initial desk setup and the overlaid text about changing the workday."
+    },
+    {
+      "start_time": "00:04.900",
+      "end_time": "00:13.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Lifestyle_Active",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "woman",
+        "standing desk",
+        "adjust height",
+        "computer",
+        "typing",
+        "drinking",
+        "sitting",
+        "standing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "energetic",
+          "productive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clean decor"
+        ]
+      },
+      "why_kept": "This is the primary 'Hero Moment,' demonstrating the core functionality of the standing desk. It visually captures the seamless transition from sitting to standing and back, showcasing the product's adjustable height and the user's active engagement with it during work."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:05.800",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hand",
+        "button",
+        "desk control panel",
+        "numeric display"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear",
+          "direct"
+        ]
+      },
+      "why_kept": "This close-up shot emphasizes the ease and precision of interacting with the desk's control panel, detailing the product's mechanism of action during the height adjustment."
+    },
+    {
+      "start_time": "00:11.200",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hand",
+        "button",
+        "desk control panel",
+        "numeric display"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear",
+          "direct"
+        ]
+      },
+      "why_kept": "Similar to the previous segment, this close-up of the control panel highlights the intuitive design and the functionality of setting presets for various heights."
+    },
+    {
+      "start_time": "00:17.000",
+      "end_time": "00:23.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Standalone",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Aesthetic_Broll",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "desk",
+        "computer",
+        "laptop",
+        "drink",
+        "glasses",
+        "woman",
+        "smile",
+        "happy",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "positive",
+          "satisfied",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clean decor",
+          "warm"
+        ]
+      },
+      "why_kept": "This segment serves as the emotional climax and final product showcase, featuring the user's positive reaction ('I'm completely obsessed'), close-ups of the desk setup, and a concluding visual of the integrated workspace."
+    }
+  ]
+}

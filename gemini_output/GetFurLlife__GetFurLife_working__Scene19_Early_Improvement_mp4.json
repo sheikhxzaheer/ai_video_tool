@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLife_working\\Scene19_Early Improvement.mp4",
+  "detailed_description": "The video centers on a blue American Bully dog, wearing a distinctive purple collar, showcasing its calm demeanor and trained behavior. The core moment captures the dog gracefully transitioning from an upright position to lying down on a light wooden floor, settling into a relaxed state. This segment highlights the dog's ability to respond to cues and maintain a placid temperament within its home environment.",
+  "segments": [
+    {
+      "start_time": "00:27.990",
+      "end_time": "00:33.430",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "dog",
+        "American Bully",
+        "blue coat",
+        "white markings",
+        "purple collar",
+        "lying down",
+        "resting",
+        "wooden floor"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "eye level shot",
+          "minimalist background",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment captures the dog performing a complete and distinct action (lying down) which demonstrates its calm nature and likely trained obedience, thus representing the 'Process/Labor' or 'Emotional Climax' of a pet showcasing its behavior. It shows a clear resolution to its previous movements and highlights its placid temperament."
+    }
+  ]
+}

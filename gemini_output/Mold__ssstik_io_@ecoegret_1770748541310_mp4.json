@@ -1,0 +1,177 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold\\ssstik.io_@ecoegret_1770748541310.mp4",
+  "detailed_description": "The video effectively demonstrates a mold remover gel called 'Ecoegret Stain Cleaner'. It opens by highlighting the pervasive problem of mold on bathroom walls and surfaces. The product is then introduced, emphasizing its effectiveness and affordability through clear visual cues of the bottle and its features. The core demonstration showcases a gloved hand applying the gel precisely to moldy grout lines, illustrating the ease of use and mechanism of action. Finally, the video delivers powerful before-and-after transformations, first on the treated grout and then on a severely mold-stained wall, visibly eradicating the mold and showcasing the product's powerful cleaning capabilities.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.200",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "moldy wall",
+        "green mold"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "focused"
+        ]
+      },
+      "why_kept": "This segment serves as a visual hook, immediately showcasing the problem of mold on walls that the product aims to solve, establishing context for the viewer."
+    },
+    {
+      "start_time": "00:04.100",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "product bottle",
+        "Ecoegret Stain Cleaner",
+        "hand",
+        "label"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "informative",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "product focus"
+        ]
+      },
+      "why_kept": "This segment introduces the product itself, showcasing its branding and key information on the label, which is crucial for product recognition and understanding its claims."
+    },
+    {
+      "start_time": "00:08.500",
+      "end_time": "00:12.200",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "gloved hand",
+        "applying gel",
+        "moldy grout",
+        "bathroom tiles"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "clinical",
+          "practical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed focus",
+          "action-oriented"
+        ]
+      },
+      "why_kept": "This segment is a direct demonstration of how to use the product, showcasing its application to a mold-affected area, which is a key 'process' hero moment."
+    },
+    {
+      "start_time": "00:12.200",
+      "end_time": "00:15.100",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "clean grout",
+        "gloved hand",
+        "wiping cloth",
+        "mold disappeared"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "satisfaction",
+          "effective"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear transformation",
+          "post-action"
+        ]
+      },
+      "why_kept": "This segment immediately shows the 'reveal' of the mold disappearing after the product's application and a simple wipe, demonstrating its effectiveness directly on the treated spot."
+    },
+    {
+      "start_time": "00:15.100",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "moldy wall",
+        "wiping",
+        "clean wall",
+        "cloth",
+        "hand"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "satisfaction",
+          "effective"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dramatic before/after",
+          "smooth cleaning"
+        ]
+      },
+      "why_kept": "This final segment provides a strong, undeniable 'before/after' comparison on a larger surface, solidifying the product's transformative power on moldy walls."
+    }
+  ]
+}

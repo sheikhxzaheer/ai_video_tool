@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_1770997928322.mp4",
+  "detailed_description": "The video captures a high-stakes moment in a hospital, showing multiple medical professionals in lab coats rushing a patient on a stretcher down a brightly lit hallway. The dynamic low-angle shot and motion blur emphasize the urgency and speed of the emergency transport. The focus is on the rapid action and the coordinated effort of the medical team.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.480",
+      "structural_tags": [
+        "Urgency_Rush",
+        "Human_Interaction",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "doctors",
+        "nurses",
+        "medical professionals",
+        "patient",
+        "stretcher",
+        "hospital hallway",
+        "rushing",
+        "emergency transport",
+        "motion blur"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "clinical",
+          "urgent"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera",
+          "low angle",
+          "motion blur",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This entire segment represents a 'Hero Moment' demonstrating 'THE PROCESS/LABOR' of medical professionals in an emergency. The act of rushing the patient on a stretcher is the core action and value, conveying urgency and professional action. No setup or dead air exists to trim, so the full duration is kept."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury hotel\\ssstik.io_@luiza.miluma_1768052449984.mp4",
+  "detailed_description": "The video showcases a luxurious hotel experience, starting with the elegant process of entering a suite at The Ritz. It highlights the use of a key card to access a beautifully decorated room, then transitions into a captivating tour of the spacious and opulent suite. The tour reveals a sophisticated living area with a fireplace and grand furnishings, and a serene bedroom featuring a large canopy bed and classical decor. The overall presentation emphasizes the premium, comfortable, and elegant ambiance of the accommodation, perfect for a high-end travel experience.",
+  "segments": [
+    {
+      "start_time": "00:06.100",
+      "end_time": "00:08.800",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "key card",
+        "door lock",
+        "door handle",
+        "green light",
+        "blue light"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "hotel hallway"
+        ],
+        "mood": [
+          "premium",
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "polished brass"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the 'Product Interaction' by showing the user operating the key card to gain entry, which is a key part of the hotel check-in experience."
+    },
+    {
+      "start_time": "00:08.800",
+      "end_time": "00:48.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Result_Transformation",
+        "Calm_Relaxation",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "hotel suite",
+        "living room",
+        "bedroom",
+        "chandelier",
+        "sofa",
+        "fireplace",
+        "large bed",
+        "desk",
+        "ornate carpet",
+        "curtains",
+        "lamps",
+        "luxury decor"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "hotel suite"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "luxurious",
+          "elegant"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "ornate decor",
+          "classical design",
+          "soft lighting",
+          "high ceilings",
+          "detailed moldings",
+          "plush furnishings"
+        ]
+      },
+      "why_kept": "This segment is the main 'Reveal/Result' of the video, showcasing the entire luxurious hotel suite. It serves as the primary visual and conveys the core value proposition of the accommodation, embodying 'Aesthetic_Broll' and the overall 'premium' experience."
+    }
+  ]
+}

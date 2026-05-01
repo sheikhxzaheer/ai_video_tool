@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Study\\ssstik.io_@raniiaaz_1772817664164.mp4",
+  "detailed_description": "This video showcases a focused individual engaged in a study session, highlighting the diligent process of academic work. Dressed in a Columbia University hoodie, the person is seen meticulously writing notes, consulting textbooks, highlighting key information, and organizing various study materials at a desk. The scene emphasizes concentration and the methodical approach to learning, portraying a common night routine for students.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:33.400",
+      "structural_tags": [
+        "The_Process/Labor",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Night_Routine",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "person studying",
+        "writing notes",
+        "flipping pages",
+        "highlighting",
+        "pen",
+        "textbook",
+        "notebook",
+        "laptop",
+        "desk",
+        "study materials",
+        "cup"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "serious",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead lighting",
+          "warm lighting",
+          "cozy",
+          "studious atmosphere"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the 'Process/Labor' of studying. It consistently shows the individual actively engaged in writing, reading, and organizing academic materials, which is the main action and value presented in the video without any significant breaks or irrelevant content."
+    }
+  ]
+}

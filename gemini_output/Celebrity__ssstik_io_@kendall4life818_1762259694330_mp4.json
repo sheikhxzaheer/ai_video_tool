@@ -1,0 +1,55 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Celebrity\\ssstik.io_@kendall4life818_1762259694330.mp4",
+  "detailed_description": "Kendall Jenner offers a backstage glimpse from Vogue World, providing commentary while a stylist attends to her hair. She shares her enthusiasm for the upcoming show, which she describes as spectacular. Speaking into a 'VOGUE' branded microphone, she details her look, focusing on how her hair will accommodate a hat, which is then visually presented in a split-screen as she walks the runway. Her positive and energetic demeanor highlights the excitement surrounding the fashion event.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:20.570",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Split_Screen",
+        "Key_Information",
+        "Product_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "Kendall Jenner",
+        "microphone",
+        "hair being styled",
+        "backstage setup",
+        "bright lights",
+        "hat",
+        "runway walk",
+        "fashion show",
+        "dress",
+        "crowd"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright key light",
+          "natural makeup",
+          "candid feel",
+          "fashion event"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, featuring Kendall Jenner as a 'talking head' providing key information about Vogue World and her specific look. It includes product interaction (with the microphone), positive emotional reactions, and a crucial 'reveal' of her outfit and hat via a split-screen, all within a 'behind-the-scenes' context. No trimming was necessary as it starts and ends directly with the relevant action and dialogue."
+    }
+  ]
+}

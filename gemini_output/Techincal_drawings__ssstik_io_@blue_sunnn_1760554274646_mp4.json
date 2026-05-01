@@ -1,0 +1,57 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Techincal drawings\\ssstik.io_@blue.sunnn_1760554274646.mp4",
+  "detailed_description": "This video provides a captivating time-lapse of an individual sketching a product design, likely for a bag or container. Starting with foundational geometric shapes and guidelines, the artist meticulously refines the form, adding intricate details such as internal compartments, pockets, and shading. The close-up perspective showcases the precision and fluidity of the drawing process, illustrating the conceptualization phase of industrial or product design from initial ideation to detailed technical outlines, complete with explanatory labels.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "01:25.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Behind_The_Scenes",
+        "Macro_Detail",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "drawing",
+        "sketching",
+        "pen",
+        "paper",
+        "design",
+        "product",
+        "bag",
+        "container",
+        "lines",
+        "geometric shapes",
+        "perspective",
+        "shading",
+        "text labels"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "serious",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "smooth camera movement",
+          "clear focus",
+          "minimalist",
+          "top-down angle",
+          "time-lapse"
+        ]
+      },
+      "why_kept": "The entire video constitutes a continuous 'Process/Labor' hero moment, showcasing the skill and detailed steps involved in creating a product sketch. There are no identifiable setup, calibration, or post-action dead air segments, making the whole duration the semantic core."
+    }
+  ]
+}

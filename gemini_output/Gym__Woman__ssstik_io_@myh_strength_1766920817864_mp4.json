@@ -1,0 +1,202 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Gym\\Woman\\ssstik.io_@myh.strength_1766920817864.mp4",
+  "detailed_description": "The video captures a woman's dedicated 'Glute Day' workout routine at the gym. It showcases her performing several intense glute-focused exercises, including hip abductions, hip thrusts with a heavy barbell, and cable kickbacks. The footage highlights her focus and effort during the training, as well as brief moments of positive energy and hydration between sets, emphasizing the process and labor involved in building strength and muscles.",
+  "segments": [
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Positive_Emotion",
+        "High_Energy",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "winking",
+        "fixing hair",
+        "locker room"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": "bright lighting, confident posture"
+      },
+      "why_kept": "This segment acts as a high-energy visual hook, showing the subject's positive and playful demeanor before starting her workout, setting the tone for 'Glute Day'."
+    },
+    {
+      "start_time": "00:09.500",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Lifestyle_Active",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hip abductor machine",
+        "glute exercise",
+        "gym"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": "clear exercise form, focus"
+      },
+      "why_kept": "This segment demonstrates one of the core glute exercises, highlighting the 'process' of the workout. It shows the specific interaction with the gym equipment."
+    },
+    {
+      "start_time": "00:15.500",
+      "end_time": "00:19.500",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Emotional_Climax",
+        "Lifestyle_Active",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hip thrust",
+        "barbell",
+        "weights",
+        "glute exercise",
+        "effort",
+        "gym"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": "intense effort, full body engagement, dynamic camera"
+      },
+      "why_kept": "This is the ANCHOR segment as it showcases a highly impactful glute exercise (hip thrusts) with significant effort and an emotional climax of strain, clearly representing the core idea of 'Glute Day' and the labor involved."
+    },
+    {
+      "start_time": "00:20.500",
+      "end_time": "00:22.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Lifestyle_Active",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "shaker bottle",
+        "drinking",
+        "gym"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "calm",
+          "active"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": "brief pause, hydration"
+      },
+      "why_kept": "This segment shows a common 'product interaction' (drinking from a shaker bottle) during a workout, providing a natural transition and reinforcing the active lifestyle theme."
+    },
+    {
+      "start_time": "00:27.500",
+      "end_time": "00:30.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Lifestyle_Active",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "cable kickbacks",
+        "ankle strap",
+        "glute exercise",
+        "gym",
+        "right leg"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": "focused movement, controlled action"
+      },
+      "why_kept": "This segment further illustrates the 'process' of glute training by showing another distinct exercise (cable kickbacks on the right leg), demonstrating variety in the workout."
+    },
+    {
+      "start_time": "00:30.500",
+      "end_time": "00:33.500",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Lifestyle_Active",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "cable kickbacks",
+        "ankle strap",
+        "glute exercise",
+        "gym",
+        "left leg"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": "consistent form, symmetrical training"
+      },
+      "why_kept": "This segment completes the cable kickback exercise by showing the movement on the left leg, reinforcing the thoroughness of the 'Glute Day' routine."
+    }
+  ]
+}

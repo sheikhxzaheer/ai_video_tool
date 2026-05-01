@@ -1,0 +1,117 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Man\\ssstik.io_@anekies_1760623424468.mp4",
+  "detailed_description": "This video highlights the practical benefits and seamless functionality of an adjustable standing desk within a modern office setting. It showcases an individual effortlessly transitioning between sitting and standing positions while working, emphasizing the desk's ease of use and its contribution to a more dynamic work lifestyle. The integration of the desk into daily work routines, including brief collaborative interactions with a colleague, underscores its versatility and value in a contemporary workspace. The core message revolves around promoting flexibility and active productivity through ergonomic office solutions.",
+  "segments": [
+    {
+      "start_time": "00:01.365",
+      "end_time": "00:04.980",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "adjustable desk",
+        "person working",
+        "standing desk",
+        "typing",
+        "desk raising",
+        "desk lowering"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "productive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "modern office design"
+        ]
+      },
+      "why_kept": "This segment is kept as the ANCHOR because it provides a complete and clear demonstration of the core product functionality—the desk transitioning from a sitting to a standing height, showing the user actively engaging with it and adapting their posture. It perfectly encapsulates the 'Process/Labor' and 'Product Interaction' hero moments by illustrating the mechanism of action."
+    },
+    {
+      "start_time": "00:14.332",
+      "end_time": "00:16.799",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Intro",
+        "Workspace_Office",
+        "Lifestyle_Active",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "adjustable desk",
+        "person working",
+        "standing desk",
+        "colleague interaction",
+        "desk raising",
+        "desk lowering"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "productive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "modern office design"
+        ]
+      },
+      "why_kept": "This segment is vital as BROLL because it showcases the 'Human Interaction' aspect beyond just the product. It demonstrates how the adjustable desk facilitates natural social interaction and collaboration in the workplace, even when transitioning between sitting and standing, thus implying social proof and real-world applicability."
+    },
+    {
+      "start_time": "00:17.472",
+      "end_time": "00:20.245",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "adjustable desk",
+        "person working",
+        "standing desk",
+        "typing",
+        "desk raising",
+        "desk lowering"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "productive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "modern office design"
+        ]
+      },
+      "why_kept": "This segment serves as valuable BROLL by offering another clear, concise demonstration of the desk's height adjustment feature. It reinforces the 'Mechanism_Of_Action' and 'Product_Interaction' hero moments from a slightly different angle, ensuring the viewer fully grasps the ease and efficiency of the product's core function."
+    }
+  ]
+}

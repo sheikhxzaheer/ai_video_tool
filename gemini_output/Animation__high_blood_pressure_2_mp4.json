@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\high blood pressure 2.mp4",
+  "detailed_description": "This video provides a visually engaging 3D animation of red and white blood cells flowing dynamically through a blood vessel. It offers a simulated close-up perspective of microcirculation, highlighting the constant movement and interaction of these vital cellular components. The animation features numerous red, biconcave disc-shaped cells and fewer, spherical white blood cells, all moving smoothly within a reddish, internal biological environment. The continuous flow illustrates a fundamental biological process within the body.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:16.800",
+      "structural_tags": [
+        "Micro_Nutrients_Anim",
+        "Cellular_Deep_Dive",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "red blood cells",
+        "white blood cells",
+        "blood flow",
+        "microcirculation",
+        "biological animation",
+        "cellular movement"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "smooth motion",
+          "gradient lighting",
+          "biological visualization"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it consistently demonstrates the core action of the video: the animated visualization of blood cells flowing, which serves as a 'Process/Labor' hero moment by simulating a biological process. There are no identifiable setup/calibration, post-action dead air, or non-essential talking head segments to trim, adhering to the 'No-Mistake Rule'."
+    }
+  ]
+}

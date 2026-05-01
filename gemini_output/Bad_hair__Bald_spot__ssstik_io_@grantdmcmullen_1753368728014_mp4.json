@@ -1,0 +1,78 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\Bald spot\\ssstik.io_@grantdmcmullen_1753368728014.mp4",
+  "detailed_description": "This video captures a 'before and after' transformation of a man's beard trim and a head design touch-up. It showcases the initial state with an untrimmed beard and a partially visible head design, followed by a quick transition to the refreshed look. The subject displays satisfaction with the refined beard line and the sharpened head tattoo, highlighting the positive outcome of the grooming session.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Before_After",
+        "Problem_State",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "beard",
+        "barber chair",
+        "barbershop",
+        "mirror",
+        "untidy beard",
+        "head design"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "casual setting"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state of the subject's beard and head, which is crucial for demonstrating the subsequent transformation. It serves as the baseline for the 'Before/After' comparison."
+    },
+    {
+      "start_time": "00:05.000",
+      "end_time": "00:09.600",
+      "structural_tags": [
+        "Before_After",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "trimmed beard",
+        "fresh head design",
+        "barber chair",
+        "barbershop",
+        "mirror",
+        "satisfied expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "casual setting"
+        ]
+      },
+      "why_kept": "This segment clearly presents the 'after' state, showcasing the result of the beard trim and head design. The subject's satisfied expression reinforces the positive outcome, making it a key 'Reveal/Result' moment and an emotional climax."
+    }
+  ]
+}

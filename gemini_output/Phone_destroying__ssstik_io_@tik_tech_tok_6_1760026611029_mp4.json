@@ -1,0 +1,254 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Phone destroying\\ssstik.io_@tik.tech.tok.6_1760026611029.mp4",
+  "detailed_description": "This video rigorously tests the durability of an iPhone's anodized aluminum camera plateau and its textured glass back. It demonstrates the susceptibility of the plateau's sharp edges to cosmetic chipping from coins and keys, a known phenomenon in anodizing processes due to the lack of an appropriate radius, as detailed by ISO and military standards. In contrast, the main textured glass back proves highly scratch-resistant. The video concludes by highlighting this as an Apple design choice that affects the long-term cosmetic appearance of the device.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Interaction",
+        "Reveal_Result"
+      ],
+      "visual_keywords": [
+        "iPhone",
+        "coin",
+        "camera plateau",
+        "scratches",
+        "chipping",
+        "blue phone"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "macro detail"
+        ]
+      },
+      "why_kept": "This segment introduces the core problem by demonstrating how a common item (coin) can cause cosmetic damage (scratches and chipping) to the anodized camera plateau, setting the stage for the rest of the video."
+    },
+    {
+      "start_time": "00:12.600",
+      "end_time": "00:26.500",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Interaction",
+        "Reveal_Result"
+      ],
+      "visual_keywords": [
+        "iPhone",
+        "key",
+        "camera plateau",
+        "scratches",
+        "chipping",
+        "blue phone"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "macro detail"
+        ]
+      },
+      "why_kept": "This segment reinforces the problem shown previously with the coin, by demonstrating similar damage (scratches on flat, chipping on corner) using another common item (key), confirming the material's susceptibility."
+    },
+    {
+      "start_time": "00:29.800",
+      "end_time": "00:39.900",
+      "structural_tags": [
+        "Key_Information",
+        "Reveal_Result",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "iPhone",
+        "chipped anodizing",
+        "finger pointing",
+        "blue phone",
+        "standards text"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "informative text overlay"
+        ]
+      },
+      "why_kept": "This segment transitions from demonstration to explanation, showing a close-up of the chipped area while introducing the concept of anodizing standards and the known issue with sharp corners."
+    },
+    {
+      "start_time": "00:39.900",
+      "end_time": "01:08.500",
+      "structural_tags": [
+        "Macro_Detail",
+        "Key_Information",
+        "Reveal_Result",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "microscope",
+        "chipped anodizing",
+        "sharp edge",
+        "ISO standards text",
+        "military specification text",
+        "blue phone"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "microscopic view",
+          "illuminated focus",
+          "informative text overlay"
+        ]
+      },
+      "why_kept": "This is a pivotal segment. It uses a microscope to visually confirm the chipping and provides detailed textual information on international and military standards for anodizing, explaining *why* the sharp edges lead to this issue. It offers the scientific and technical 'reveal'."
+    },
+    {
+      "start_time": "01:08.500",
+      "end_time": "01:35.500",
+      "structural_tags": [
+        "Macro_Detail",
+        "Key_Information",
+        "Reveal_Result",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "microscope",
+        "chipped anodizing",
+        "sheared off coating",
+        "blue phone"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "microscopic view",
+          "illuminated focus",
+          "informative narration"
+        ]
+      },
+      "why_kept": "Continuing the microscopic analysis, this segment clearly demonstrates a large chunk of anodizing 'shearing off' the blue camera shelf edge, providing direct visual evidence of the coating's failure due to the sharp corner, reinforced by the expert narration."
+    },
+    {
+      "start_time": "01:35.500",
+      "end_time": "01:53.600",
+      "structural_tags": [
+        "Product_Interaction",
+        "Reveal_Result",
+        "Low_Quality_Comparison"
+      ],
+      "visual_keywords": [
+        "iPhone",
+        "textured glass back",
+        "key",
+        "coin",
+        "scratches",
+        "wiping clean",
+        "blue phone"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "informative",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "comparison demonstration"
+        ]
+      },
+      "why_kept": "This segment serves as a crucial contrast, demonstrating the excellent scratch resistance of the iPhone's main textured glass back with both a key and a coin, and showing that any marks simply wipe away. This highlights that the chipping issue is specific to the anodized plateau's design."
+    },
+    {
+      "start_time": "01:54.600",
+      "end_time": "02:04.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Key_Information",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "iPhone",
+        "caliper",
+        "sharp edge",
+        "camera plateau",
+        "measurement",
+        "blue phone"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "precise measurement",
+          "bright lighting",
+          "concluding statement"
+        ]
+      },
+      "why_kept": "This concluding segment visually measures the sharp edge of the camera plateau, directly linking the demonstrated damage to the un-radiused design, and summarizing that this specific sharp edge is the cosmetic weakest point."
+    }
+  ]
+}

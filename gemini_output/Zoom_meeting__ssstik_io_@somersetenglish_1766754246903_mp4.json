@@ -1,0 +1,178 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Zoom meeting\\ssstik.io_@somersetenglish_1766754246903.mp4",
+  "detailed_description": "This video illustrates a daily team stand-up meeting held via video conference, where each team member shares their work priorities and tasks. The team leader opens the call by setting the agenda for reviewing individual tasks to ensure clarity on team priorities. Subsequently, each member provides concise updates on their specific responsibilities, such as website updates, financial reporting, and video editing. The meeting concludes with the team leader sharing her own tasks and a call to action, fostering effective remote communication and coordination.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:13.00",
+      "structural_tags": [
+        "Visual_Hook",
+        "Key_Information",
+        "Morning_Routine",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "video call interface",
+        "team leader"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "office",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "serious",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "standard webcam view",
+          "professional"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it introduces the daily team meeting, sets the purpose, and initiates the task-sharing process, providing essential context for the rest of the video."
+    },
+    {
+      "start_time": "00:13.60",
+      "end_time": "00:25.00",
+      "structural_tags": [
+        "Key_Information",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "team member",
+        "task update"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "webcam view",
+          "professional"
+        ]
+      },
+      "why_kept": "This segment is kept as it demonstrates a team member sharing key information about their daily tasks, contributing to the core theme of a team meeting."
+    },
+    {
+      "start_time": "00:29.50",
+      "end_time": "00:41.00",
+      "structural_tags": [
+        "Key_Information",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "man speaking",
+        "team member",
+        "task update",
+        "financial reporting"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "webcam view",
+          "professional"
+        ]
+      },
+      "why_kept": "This segment shows another team member providing their task update, reinforcing the primary action of the video: a structured daily team meeting."
+    },
+    {
+      "start_time": "00:44.20",
+      "end_time": "00:56.50",
+      "structural_tags": [
+        "Key_Information",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "team member",
+        "task update",
+        "editing backlog"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "webcam view",
+          "professional"
+        ]
+      },
+      "why_kept": "This segment is crucial for showcasing the last team member's contribution to the task update round, further detailing the meeting's content."
+    },
+    {
+      "start_time": "01:00.00",
+      "end_time": "01:15.50",
+      "structural_tags": [
+        "Key_Information",
+        "Call_To_Action",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "team leader",
+        "meeting closing",
+        "waving goodbye"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "office",
+          "indoor"
+        ],
+        "mood": [
+          "positive_emotion",
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "standard webcam view",
+          "professional",
+          "friendly farewell"
+        ]
+      },
+      "why_kept": "This segment completes the meeting cycle, featuring the team leader's final task update, a call to action, and a positive closing, which is integral to the full narrative of the daily team call."
+    }
+  ]
+}

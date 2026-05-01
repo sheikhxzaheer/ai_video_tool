@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\A woman is stroking a man's hair\\ssstik.io_1743523677822.mp4",
+  "detailed_description": "This video captures a stylish man walking confidently through bustling indoor and outdoor public spaces, including a shopping mall and city streets. The footage follows him from various angles, frequently showing him looking directly at the camera with a smile, and other pedestrians reacting to his presence or the camera's. The video focuses on the urban environment, human interaction, and a sense of dynamic movement and observation, consistent throughout its duration.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:33.479",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man walking",
+        "urban street",
+        "shopping mall",
+        "crowd",
+        "people looking at camera",
+        "smile",
+        "tattoos",
+        "water bottle"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "handheld",
+          "street photography",
+          "urban vlog"
+        ]
+      },
+      "why_kept": "The entire video consistently portrays the subject walking through diverse urban settings, intentionally engaging the camera and implicitly prompting reactions from passersby, demonstrating a continuous 'process' of navigating and interacting within these environments, punctuated by direct human interaction. The 'NO-MISTAKE' rule applies as the core action of walking and being observed is continuous from start to end, with the opening smile serving as a strong emotional hook within this continuous flow."
+    }
+  ]
+}

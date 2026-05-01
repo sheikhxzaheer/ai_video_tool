@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Halloween_dance\\ssstik.io_@reynaandroman_1757578176140.mp4",
+  "detailed_description": "This video captures the vibrant and terrifying atmosphere of a Halloween Horror Nights scare zone, showcasing a variety of clown characters performing. It features Art the Clown from Terrifier riding a tricycle, followed by a dynamic ensemble of clowns on stilts and others interacting with props. The performance culminates with clowns wielding chainsaws, directly engaging the audience and delivering a high-energy scare experience under dramatic lighting and smoke effects, highlighting the immersive nature of the event.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "01:18.490",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "High_Energy",
+        "Emotional_Climax",
+        "Aesthetic_Broll",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "scary clowns",
+        "Halloween Horror Nights",
+        "scare zone",
+        "tricycle",
+        "stilts",
+        "chainsaws",
+        "fog",
+        "red lighting",
+        "crowd",
+        "performance",
+        "horror characters"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "rugged",
+          "other"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dramatic red and yellow lighting",
+          "smoky atmosphere",
+          "theatrical performance",
+          "nighttime event"
+        ]
+      },
+      "why_kept": "The entire video constitutes the semantic core as it showcases the full performance of various scare actors (clowns) in a Halloween event, demonstrating their interactions, costumes, and the overall energetic and terrifying atmosphere. It begins with a recognizable character (Art the Clown) and progresses through different performance elements, culminating in direct audience engagement with chainsaw props, fulfilling the 'Process/Labor' and 'Emotional Climax' criteria as a continuous 'hero moment' of live entertainment."
+    }
+  ]
+}

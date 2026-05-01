@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Neck pain\\Ðâ ð╝ÐâðÂð©ð║ð░ ð▒ð¥ð╗Ðî ð▓ ÐêðÁðÁ.mp4",
+  "detailed_description": "The video vividly captures the relatable experience of waking up with a stiff neck. A man is shown grimacing and holding his neck in discomfort, illustrating the pain and restricted movement caused by sleeping in an awkward position. The text overlay directly states the common 'POV' scenario, amplifying the problem state through a clear emotional and physical demonstration.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "stiff neck",
+        "grimacing",
+        "neck pain",
+        "discomfort",
+        "holding neck",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "relatable"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "social media style",
+          "POV content"
+        ]
+      },
+      "why_kept": "This entire segment is kept because it directly and clearly portrays the 'Problem_State' of a stiff neck through the subject's expressive facial reaction and body language, perfectly aligning with the text overlay. It functions as the core 'Hero Moment' by effectively demonstrating the discomfort and pain, which is the central theme of the video."
+    }
+  ]
+}

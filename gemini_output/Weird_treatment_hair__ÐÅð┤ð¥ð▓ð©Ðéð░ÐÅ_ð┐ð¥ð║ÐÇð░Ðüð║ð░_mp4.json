@@ -1,0 +1,83 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ÐÅð┤ð¥ð▓ð©Ðéð░ÐÅ ð┐ð¥ð║ÐÇð░Ðüð║ð░.mp4",
+  "detailed_description": "This video highlights the critical issue hairstylists face when clients do not disclose their hair's full chemical history. It begins by showing a stylist carefully applying a purple hair treatment to a client's hair, demonstrating the meticulous process involved in hair coloring or bleaching. The video then transitions to a shocking close-up, revealing severely damaged, bleached hair that stretches like elastic and breaks when gently pulled, illustrating the disastrous consequences of applying chemical treatments to hair that has undisclosed prior chemical processes, leading to extreme breakage and potential ruin.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.720",
+      "structural_tags": [
+        "Problem_State",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "stylist",
+        "gloves",
+        "hair",
+        "purple product",
+        "application",
+        "comb",
+        "hair salon"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment shows the initial process of hair treatment application, setting the scene for the problem highlighted by the text. It demonstrates the labor involved in hair styling before the damage is revealed."
+    },
+    {
+      "start_time": "00:11.720",
+      "end_time": "00:23.770",
+      "structural_tags": [
+        "Problem_State",
+        "Result_Transformation",
+        "Negative_Emotion",
+        "Macro_Detail",
+        "Human_Interaction",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "damaged hair",
+        "bleached hair",
+        "stretching hair",
+        "breaking hair",
+        "scalp",
+        "fingers"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "shock"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "macro photography",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This is the core 'reveal' moment, visually demonstrating the severe hair damage that results from undisclosed prior treatments. It's the emotional and informational climax, showing the direct consequence of the problem stated in the video's text."
+    }
+  ]
+}

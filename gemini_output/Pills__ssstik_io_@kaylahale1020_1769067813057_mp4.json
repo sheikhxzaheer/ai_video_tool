@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pills\\ssstik.io_@kaylahale1020_1769067813057.mp4",
+  "detailed_description": "A person demonstrates the precise process of counting and dispensing medication. Green and light green capsules are poured from a bulk container onto a clear counting tray. Using a spatula, the capsules are methodically counted to ensure accuracy. Once the correct quantity is reached, the pills are skillfully transferred from the counting tray into a smaller prescription bottle, which is then securely capped. The video highlights the careful and systematic procedure involved in pharmaceutical dispensing.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:25.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "pills",
+        "capsules",
+        "counting tray",
+        "spatula",
+        "pill bottle",
+        "hands"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "functional shot",
+          "task-oriented"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it clearly demonstrates the full 'Process/Labor' and 'Product Interaction' of counting and dispensing medication. The video starts directly with the action of pouring pills and concludes with the final step of capping the prescription bottle, adhering to the 'no-mistake' rule by including the complete continuous action without any noticeable setup or dead air."
+    }
+  ]
+}

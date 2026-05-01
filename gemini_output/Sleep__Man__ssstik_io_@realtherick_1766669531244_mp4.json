@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Man\\ssstik.io_@realtherick_1766669531244.mp4",
+  "detailed_description": "A man lies in bed, attempting to sleep peacefully under a pink blanket. His tranquil state is suddenly interrupted when his eyes snap open in surprise. The blanket over his groin area humorously inflates rapidly, accompanied by a comedic engine revving sound effect, depicting a common and unexpected male experience when trying to fall asleep.",
+  "segments": [
+    {
+      "start_time": "00:04.400",
+      "end_time": "00:08.900",
+      "structural_tags": [
+        "Shock_Surprise",
+        "Face_Reaction",
+        "High_Energy",
+        "Problem_State",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man in bed",
+        "pink blanket",
+        "surprised expression",
+        "blanket inflating",
+        "engine revving sound"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "shock"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "comedic timing",
+          "sound effects",
+          "sudden movement"
+        ]
+      },
+      "why_kept": "This segment captures the core comedic action of the video, showing the man's sudden surprise and the humorous inflation of the blanket, which is the central punchline and emotional climax of the skit."
+    }
+  ]
+}

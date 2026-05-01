@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Skin is peeled off\\Ðüð┤ð©ÐÇð░ðÁÐé ð╝ð░Ðüð║Ðâ ð© ð¢ð░ð╝ð░ðÀÐïð▓ð░ðÁÐé ð╗ð©Ðåð¥.mp4",
+  "detailed_description": "The video demonstrates a skincare routine focused on achieving radiant skin with a minimalist approach. It features a woman peeling off a facial mask to reveal a clear complexion, then applying a new, glowing product with a brush. The Medicube Collagen Bright Glow product is highlighted, culminating in a final shot of the woman's dewy, luminous skin, reinforcing the message of 'skincare minimalism' for healthy, glowing results.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.800",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "skincare",
+        "peeling mask",
+        "product application",
+        "brush",
+        "glowing skin",
+        "medicube",
+        "collagen mask",
+        "minimalism"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "smooth transitions"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as the semantic core because it demonstrates the full cycle of the product's intended use and outcome. It effectively combines the 'Mechanism_Of_Action' (peeling, applying), 'Product_Interaction' (holding, brushing), 'Result_Transformation' (glowing skin), 'Product_Intro' (showing the tube), and the overarching message via text overlay, all within a cohesive and visually appealing sequence. No trimming was necessary as the action starts immediately and ends with a clear final result shot."
+    }
+  ]
+}

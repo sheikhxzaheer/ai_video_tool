@@ -1,0 +1,310 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad foundation\\ssstik.io_@belkashop.ua_1763929309508.mp4",
+  "detailed_description": "This video showcases a LOCEAN CC cream, lauded as a top choice among makeup artists. The cream, initially white, ingeniously adapts to the user's skin tone upon application, providing a remarkably light and natural coverage. It effectively evens out the complexion, subtly reducing the visibility of imperfections like freckles, creating a 'no-makeup' look. Beyond its color-correcting abilities, the cream also offers moisturizing, nourishing, and SPF 45 protection. The video encourages viewers to experience its unique formula, available in various sizes, for all skin types.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.300",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Product_Intro"
+      ],
+      "visual_keywords": [
+        "cream dispensing",
+        "hand",
+        "product nozzle",
+        "white cream"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment introduces the product and its texture by showing the cream being dispensed, which is a key product interaction."
+    },
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:06.600",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Process",
+        "Result_Transformation",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "cream blending",
+        "hand",
+        "skin tone matching",
+        "white cream transforming"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "detailed view"
+        ]
+      },
+      "why_kept": "This segment demonstrates the core 'mechanism of action' of the CC cream, showing how the white cream transforms and blends perfectly into the skin tone."
+    },
+    {
+      "start_time": "00:06.600",
+      "end_time": "00:09.100",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hands comparison",
+        "skin tone difference",
+        "blended skin",
+        "watch"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear comparison",
+          "even skin"
+        ]
+      },
+      "why_kept": "This segment provides an implicit 'before/after' comparison on the hands, clearly illustrating the product's immediate skin-evening effect."
+    },
+    {
+      "start_time": "00:09.100",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "face application",
+        "cream dots",
+        "blending on face",
+        "woman"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "face-focused",
+          "natural application"
+        ]
+      },
+      "why_kept": "This segment shows the direct application of the CC cream onto the face, demonstrating the intended use and blending process."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "smooth face",
+        "smiling woman",
+        "light coverage"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "expressive face",
+          "natural glow"
+        ]
+      },
+      "why_kept": "This segment captures the positive immediate result on the face and the user's satisfied reaction, reinforcing the product's effectiveness."
+    },
+    {
+      "start_time": "00:18.000",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "neck application",
+        "face blending",
+        "cream on neck",
+        "woman"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "diligent"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "thorough application",
+          "focus on blending"
+        ]
+      },
+      "why_kept": "This segment continues the application process, showing the versatility of the cream for blending onto the neck for a seamless look."
+    },
+    {
+      "start_time": "00:22.000",
+      "end_time": "00:27.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Emotional_Climax",
+        "Face_Reaction",
+        "Human_Interaction",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "even skin tone",
+        "less visible freckles",
+        "smiling face",
+        "woman's face"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "satisfied",
+          "happy",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "final look",
+          "glowing skin",
+          "authentic reaction"
+        ]
+      },
+      "why_kept": "This is the ANCHOR as it presents the ultimate 'reveal' of the product's effect on the face, clearly showing the enhanced skin tone and reduced visibility of imperfections, combined with a strong positive emotional climax."
+    },
+    {
+      "start_time": "00:27.000",
+      "end_time": "00:29.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "CC cream bottle",
+        "LOcean logo",
+        "silver bottle",
+        "holding product"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "product showcase",
+          "brand highlight"
+        ]
+      },
+      "why_kept": "This segment clearly introduces the specific product (LOcean CC Cream) being demonstrated, allowing viewers to identify it."
+    },
+    {
+      "start_time": "00:36.000",
+      "end_time": "00:41.000",
+      "structural_tags": [
+        "Offer_CTA",
+        "Product_Intro",
+        "Product_Standalone",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "multiple CC cream tubes",
+        "LOcean products",
+        "different sizes",
+        "holding products"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative",
+          "practical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "product range",
+          "buying options"
+        ]
+      },
+      "why_kept": "This segment serves as a 'call to action' by presenting various product sizes, giving viewers clear purchasing options for the featured CC cream."
+    }
+  ]
+}

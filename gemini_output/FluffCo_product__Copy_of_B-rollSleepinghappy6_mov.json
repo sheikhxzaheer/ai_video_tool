@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B-rollSleepinghappy6.mov",
+  "detailed_description": "A woman with long gray hair, wearing a striped romper, gracefully settles onto a bed for a moment of relaxation. She carefully maneuvers her body onto the white-sheeted bed, resting her head on a pillow with her legs elevated. A calm gray cat sits attentively near her feet, observing her actions and occasionally glancing at the camera. The scene captures a peaceful and cozy interaction between the woman and her pet, emphasizing tranquility and comfort.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "cat",
+        "lying down",
+        "relaxing",
+        "pillow"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "relaxing"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "cozy atmosphere"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully captures the 'Process/Labor' of the woman settling into bed, demonstrating 'Product Interaction' with the bed and pillow, and conveying an 'Emotional Climax' of calm relaxation as she closes her eyes. The presence of the cat adds to the cozy 'Human_Interaction' aspect. The video starts directly with the action and ends after the completion of the settling, adhering to the 'No-Mistake' rule for trimming."
+    }
+  ]
+}

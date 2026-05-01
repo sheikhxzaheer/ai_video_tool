@@ -1,0 +1,84 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ð╝ðÁð╗ð░ðÀð╝ð░ 2┬áÔÇö ð║ð¥ð┐ð©ÐÅ.mp4",
+  "detailed_description": "The video showcases a remarkable skin transformation, addressing melasma and hormonal spots. It highlights a woman's complexion before treatment, characterized by visible melasma patches and uneven skin tone. Subsequently, it presents her skin after, appearing significantly clearer, smoother, and more radiant. The core message emphasizes the crucial role of exfoliation in achieving these positive results, presenting a clear 'before and after' demonstration of improved skin health and appearance.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.700",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "melasma",
+        "dark spots",
+        "uneven skin tone",
+        "bare skin",
+        "text overlay 'ANTES'",
+        "text overlay 'MELASMA manchas Por causa hormonal'"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "direct view",
+          "realistic skin texture"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'before' state of the skin, explicitly showing melasma and stating its hormonal cause. It serves as a crucial visual hook and sets the problem that the transformation aims to solve."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Key_Information",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "clear skin",
+        "makeup",
+        "smile",
+        "radiant complexion",
+        "text overlay 'DESPUES'",
+        "text overlay 'La importancia de la EXFOLIACIÓN'"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "calm",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "direct view",
+          "clean aesthetic",
+          "make-up applied"
+        ]
+      },
+      "why_kept": "This segment presents the 'after' state, showcasing the improved, clearer skin and the woman's satisfied expression. It also delivers the key information about the importance of exfoliation, directly addressing the solution to the initial problem."
+    }
+  ]
+}

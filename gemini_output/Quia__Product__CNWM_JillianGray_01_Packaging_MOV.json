@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Product\\CNWM_JillianGray_01_Packaging.MOV",
+  "detailed_description": "This video captures a short, direct product introduction. A woman, wearing a pink bow headband, presents a pink skincare mask tube and an applicator brush to the camera with a warm, inviting smile. The moment highlights the product itself and the user's positive interaction with it, suggesting an upcoming beauty or self-care routine.",
+  "segments": [
+    {
+      "start_time": "00:00.650",
+      "end_time": "00:02.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink headband",
+        "skincare mask tube",
+        "applicator brush",
+        "smiling",
+        "holding product"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "direct gaze",
+          "soft focus"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it clearly introduces the product (a mask and applicator) and shows the user interacting with it, all conveyed with a positive facial expression. It directly demonstrates the 'Product Interaction' and 'Emotional Climax' hero moments without any setup or post-action dead air."
+    }
+  ]
+}

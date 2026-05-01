@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad pillow\\ssstik.io_@introvertedextrovert19_1761898667891.mp4",
+  "detailed_description": "This video presents a common household dilemma: down pillows shedding feathers excessively, turning the living room into a messy 'duck farm.' The creator expresses clear frustration and exasperation, referring to the situation as a 'nightmare.' They are actively seeking recommendations and solutions from viewers on how to prevent the down feathers from escaping the pillows or if it's better to simply replace them entirely. The video serves as a direct appeal for help with a persistent and annoying home decor problem.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:32.483",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "down pillows",
+        "feathers",
+        "sofa",
+        "couch",
+        "living room",
+        "mess"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "frustrated"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "static shot with pan"
+        ]
+      },
+      "why_kept": "This entire segment clearly demonstrates the 'Problem State' (feathers everywhere from down pillows) and the 'Emotional Climax' of frustration, culminating in a direct 'Call to Action' for viewer recommendations. The visual evidence of the feathers and the explicit narration describing the 'nightmare' and asking for help are the core value of this video. Trimming would remove essential context or the direct plea for a solution, which is the primary purpose of the content. It adheres to the 'No-Mistake Rule' as it starts with the problem and ends with the call for action."
+    }
+  ]
+}

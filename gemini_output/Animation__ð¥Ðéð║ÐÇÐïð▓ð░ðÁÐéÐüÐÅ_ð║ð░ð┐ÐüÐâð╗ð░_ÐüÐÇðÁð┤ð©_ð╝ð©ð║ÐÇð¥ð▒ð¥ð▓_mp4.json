@@ -1,0 +1,119 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\ð¥Ðéð║ÐÇÐïð▓ð░ðÁÐéÐüÐÅ ð║ð░ð┐ÐüÐâð╗ð░ ÐüÐÇðÁð┤ð© ð╝ð©ð║ÐÇð¥ð▒ð¥ð▓.mp4",
+  "detailed_description": "This video visually demonstrates the efficacy of a pharmaceutical capsule at a microscopic level. It illustrates the 'mechanism of action' where the capsule dissolves, releasing active particles that effectively target and eliminate various types of microorganisms, such as bacteria and spiral-shaped pathogens. The scene is also presented through the lens of a microscope, highlighting the scientific observation and validation of the drug's impact on biological systems. The animation vividly portrays the transformation from a pathogen-rich environment to a cleared state, emphasizing the drug's therapeutic benefit.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.800",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "red and silver capsule",
+        "dissolving particles",
+        "rod-shaped bacteria",
+        "spiral bacteria",
+        "spherical cells",
+        "microorganisms disappearing",
+        "blue background"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "3D animation",
+          "microscopic view",
+          "scientific visualization"
+        ]
+      },
+      "why_kept": "This segment is the primary hero moment, vividly illustrating the capsule's dissolution and its active agents eliminating microorganisms, directly demonstrating the product's core mechanism of action and the resulting transformation."
+    },
+    {
+      "start_time": "00:07.800",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Workspace_Office",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "microscope",
+        "monitor screen",
+        "microorganisms on screen",
+        "scientific equipment"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean desk setup",
+          "scientific observation"
+        ]
+      },
+      "why_kept": "This segment provides crucial context by showing the microscopic action being observed through a laboratory microscope, reinforcing the scientific and research-oriented nature of the content without distracting from the main action."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:23.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "blue and silver capsule",
+        "dissolving particles",
+        "rod-shaped bacteria",
+        "spiral bacteria",
+        "spherical cells",
+        "microorganisms disappearing",
+        "blue background"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "3D animation",
+          "microscopic view",
+          "scientific visualization",
+          "color variation"
+        ]
+      },
+      "why_kept": "This segment reiterates and reinforces the core message of the drug's effectiveness, showcasing the mechanism of action and positive outcome with a slightly different visual, solidifying the 'reveal/result' and 'product interaction' aspects."
+    }
+  ]
+}

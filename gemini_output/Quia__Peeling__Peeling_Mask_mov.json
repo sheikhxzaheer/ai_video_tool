@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Peeling\\Peeling Mask.mov",
+  "detailed_description": "The video captures a woman performing a skincare routine, specifically using a peel-off mask or strip on her face. She meticulously peels a transparent substance from her cheek, revealing clearer-looking skin underneath. She then holds up the removed piece, which appears to contain impurities, and expresses a look of surprise or satisfaction. The process is repeated on another part of her face, highlighting the product's effectiveness in visibly removing dead skin or buildup. The core meaning demonstrates the product's immediate mechanism of action and the resulting skin transformation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:33.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Face_Reaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman peeling mask",
+        "skincare routine",
+        "face mask removal",
+        "clear skin",
+        "headband"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "satisfied",
+          "surprised"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "detailed face shot"
+        ]
+      },
+      "why_kept": "This entire segment represents the core action of the video, showing the full process of peeling the product from the face, displaying the removed impurities, and capturing the user's reaction to the visible results. It perfectly encapsulates the product's function and immediate impact."
+    }
+  ]
+}

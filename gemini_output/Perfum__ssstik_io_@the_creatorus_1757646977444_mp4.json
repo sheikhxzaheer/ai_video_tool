@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Perfum\\ssstik.io_@the.creatorus_1757646977444.mp4",
+  "detailed_description": "This video captures the elegant and satisfying act of spraying perfume from a clear glass bottle with a golden atomizer. Through a slow-motion, macro close-up, it showcases the fine mist of the fragrance as it is dispensed, emphasizing the product's mechanism and creating a luxurious visual experience. The focus is entirely on the product interaction and the appealing visual effect of the spray against a dark background, highlighting the quality and aesthetic of the perfume.",
+  "segments": [
+    {
+      "start_time": "00:01.365",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "perfume spray",
+        "mist",
+        "golden atomizer",
+        "glass bottle",
+        "finger pressing",
+        "slow motion"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "elegant"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "slow motion",
+          "dramatic lighting",
+          "dark background"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it precisely captures the 'Product Interaction' and 'Mechanism_Of_Action' of the perfume bottle. It clearly shows the finger pressing the atomizer and the resulting fine mist being dispensed, making it a compelling 'Macro_Detail' and 'Aesthetic_Broll' shot that demonstrates the product's function and visual appeal."
+    }
+  ]
+}

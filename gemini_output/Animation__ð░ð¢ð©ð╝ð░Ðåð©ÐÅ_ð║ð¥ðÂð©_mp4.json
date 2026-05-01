@@ -1,0 +1,74 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\ð░ð¢ð©ð╝ð░Ðåð©ÐÅ ð║ð¥ðÂð©.mp4",
+  "detailed_description": "This video's semantic core illustrates the efficacy of a product or treatment at a cellular level. It first visually depicts an active process within a skin layer, showing glowing, animated cellular structures representing a mechanism of action. This is followed by a clear transformation, presenting a densely packed, smooth layer of healthy-looking skin cells, signifying the positive and rejuvenating result of the initial cellular activity. The animation effectively communicates both the internal workings and the desired outcome on skin health.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "skin layer",
+        "glowing cells",
+        "active spheres",
+        "pink",
+        "animation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "animated CGI",
+          "soft lighting",
+          "scientific representation"
+        ]
+      },
+      "why_kept": "This segment is kept as it visually explains the core process or 'how it works' at a cellular level, which is a key 'hero moment' for scientific or cosmetic products. It shows active elements and a mechanism of action."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Result_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "smooth skin",
+        "healthy cells",
+        "polygonal cells",
+        "pink",
+        "animation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "animated CGI",
+          "smooth texture",
+          "scientific representation"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the 'reveal' or 'result' of the mechanism shown previously. It transitions to a visual representing healthy, transformed skin, serving as the desired outcome of the process. It's crucial for showing the benefit."
+    }
+  ]
+}

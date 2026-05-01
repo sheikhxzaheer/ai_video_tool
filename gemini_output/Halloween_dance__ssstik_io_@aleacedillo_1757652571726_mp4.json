@@ -1,0 +1,85 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Halloween_dance\\ssstik.io_@aleacedillo_1757652571726.mp4",
+  "detailed_description": "The video showcases a couple's playful Halloween costume transformation. It begins with them in casual athletic wear, dancing lightly to music and interacting playfully. Through a quick cut, they instantly switch into elaborate, regal Egyptian Pharaoh and Queen costumes, striking a confident and dramatic pose. The video highlights the dramatic before-and-after change, emphasizing the fun and creativity of their Halloween attire and the 'reveal' effect.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.877",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "couple dancing",
+        "casual clothes",
+        "t-shirt",
+        "shorts",
+        "indoor living room",
+        "television"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "dynamic movement"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state, showing the couple in their everyday casual attire, which is essential context for the subsequent costume transformation. Their playful interaction adds to the visual hook."
+    },
+    {
+      "start_time": "00:07.747",
+      "end_time": "00:11.230",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "couple in costumes",
+        "Egyptian Pharaoh costume",
+        "Cleopatra costume",
+        "gold accents",
+        "black dress",
+        "pharaoh staff",
+        "regal pose"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "dramatic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "static pose",
+          "costume detail"
+        ]
+      },
+      "why_kept": "This segment is the 'reveal' and the ultimate 'result' of the transformation. It showcases the elaborate Halloween costumes, which is the main point of the video. It directly follows and contrasts with the 'before' segment, completing the semantic core of the dramatic change."
+    }
+  ]
+}

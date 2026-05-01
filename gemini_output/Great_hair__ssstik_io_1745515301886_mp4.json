@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1745515301886.mp4",
+  "detailed_description": "This video features a professional stylist using a branded 'Slick Gorilla' comb to meticulously style the back of a client's dark hair. The tattooed hand of the stylist guides the comb through the hair, demonstrating the careful process of smoothing and shaping it. The primary focus is on the interaction with the comb and the precise technique employed to achieve a neat and polished hairstyle, likely as a final touch after a fresh haircut. The clip highlights both the tool and the skill involved in hair grooming.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.257",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hair",
+        "comb",
+        "Slick Gorilla",
+        "styling",
+        "haircut",
+        "hand",
+        "tattoos",
+        "barber"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "detailed focus",
+          "professional aesthetic"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it perfectly captures the core action of the video: the professional interaction with the product (Slick Gorilla comb) to perform a styling process on the hair. There is no setup, dead air, or unnecessary footage; the action starts immediately and finishes cleanly, fulfilling the 'No-Mistake' rule. It effectively demonstrates the 'Process/Labor' and 'Product Interaction' hero moments."
+    }
+  ]
+}

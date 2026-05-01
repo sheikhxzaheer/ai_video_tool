@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\brushme.mov",
+  "detailed_description": "The video features a smiling woman demonstrating a small, red and black cleaning brush. She actively uses the brush to clean under and around her long fingernails, showcasing the bristles effectively removing what appears to be white powder or residue. Her continuous positive expression, maintained throughout the demonstration, suggests satisfaction with the product's performance and efficacy.",
+  "segments": [
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "red cleaning brush",
+        "black bristles",
+        "fingernails",
+        "long nails",
+        "brushing",
+        "white powder",
+        "cleaning"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "natural light",
+          "close-up details"
+        ]
+      },
+      "why_kept": "This segment clearly showcases the product's primary function and its mechanism of action as the woman actively demonstrates brushing her fingernails. It also captures her positive facial expression, conveying satisfaction and an implicit result of cleanliness as residue is visibly brushed away."
+    }
+  ]
+}

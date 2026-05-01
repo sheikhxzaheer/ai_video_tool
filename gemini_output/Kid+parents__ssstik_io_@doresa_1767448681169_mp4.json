@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid+parents\\ssstik.io_@doresa_1767448681169.mp4",
+  "detailed_description": "This heartwarming video captures a family progressively building a joyful human pyramid on the living room floor. It begins with the father tenderly interacting with his newborn baby, followed by his two older sons playfully piling on top, each adding to the stack with big smiles. The scene culminates with the mother joining the pile, adorned with festive reindeer antlers, creating a beautiful family portrait that radiates happiness and love for the camera.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:13.06",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Aesthetic_Broll",
+        "Reveal_Result"
+      ],
+      "visual_keywords": [
+        "father",
+        "newborn baby",
+        "sons",
+        "mother",
+        "family",
+        "human pyramid",
+        "smiling",
+        "reindeer antlers",
+        "living room"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "cozy atmosphere",
+          "family portrait style"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core, showcasing the progressive build-up of a joyful family human pyramid, culminating in a heartwarming portrait that highlights their love and connection. All actions contribute to the final emotional climax and reveal, with no extraneous footage."
+    }
+  ]
+}

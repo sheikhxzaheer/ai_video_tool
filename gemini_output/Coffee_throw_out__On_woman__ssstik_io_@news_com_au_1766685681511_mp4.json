@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Coffee throw out\\On woman\\ssstik.io_@news.com.au_1766685681511.mp4",
+  "detailed_description": "The video documents a volatile incident at a McDonald's establishment in Michigan, US. An agitated customer, seen at the counter, suddenly lashes out by throwing a cup of scalding hot coffee directly at a surprised worker. This aggressive act, captured in real-time, highlights a moment of extreme negative emotion and conflict. The quick interaction shows the customer initiating the throw and immediately turning to leave after the liquid splashes. This footage serves as a stark example of an unfortunate customer-employee confrontation.",
+  "segments": [
+    {
+      "start_time": "00:04.900",
+      "end_time": "00:05.700",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Negative_Emotion",
+        "High_Energy",
+        "Emotional_Climax"
+      ],
+      "visual_keywords": [
+        "McDonald's counter",
+        "customer throwing coffee",
+        "liquid splash",
+        "worker reaction",
+        "confrontation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "energetic",
+          "confrontational"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "raw footage",
+          "handheld",
+          "documentary style"
+        ]
+      },
+      "why_kept": "This segment precisely captures the core action of the video: the customer throwing coffee at the worker. It represents the emotional climax and the central 'problem state' that the video intends to convey, demonstrating the aggressive interaction clearly and concisely."
+    }
+  ]
+}

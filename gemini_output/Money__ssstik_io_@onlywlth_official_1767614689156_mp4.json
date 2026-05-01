@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Money\\ssstik.io_@onlywlth_official_1767614689156.mp4",
+  "detailed_description": "This video features a person's hand showcasing substantial stacks of U.S. currency, including $100, $50, and $20 bills, meticulously arranged and banded. The individual's hand, adorned with a gold chain, actively fans out bundles of $100 bills, emphasizing the volume and crispness of the money. The presentation highlights a lifestyle of financial abundance through the visual display and interaction with large sums of cash, set against a striped background.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Product_Present",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "hand",
+        "money",
+        "cash",
+        "stacks",
+        "$100 bills",
+        "$50 bills",
+        "$20 bills",
+        "fanning bills",
+        "gold chain",
+        "banknotes"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "dark lighting",
+          "striped background",
+          "display of wealth"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the action of fanning and showcasing large quantities of money. It visually represents financial abundance and a luxury lifestyle, which is the primary message of the video. There is no setup, dead air, or irrelevant footage to trim, adhering to the 'No-Mistake Rule'."
+    }
+  ]
+}

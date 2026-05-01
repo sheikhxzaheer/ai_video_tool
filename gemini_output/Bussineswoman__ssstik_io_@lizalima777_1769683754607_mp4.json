@@ -1,0 +1,57 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bussineswoman\\ssstik.io_@lizalima777_1769683754607.mp4",
+  "detailed_description": "The video features a poised woman in a pristine white suit and glasses, first seen checking her phone in the back of a luxury car. She then elegantly exits the vehicle and walks confidently along a city sidewalk, carrying a stylish burgundy handbag. An overlaid text caption reveals her inner thoughts: 'Me after successfully pretending to be a dumb, innocent girl when I'm fully aware and five moves ahead.' The visuals of her composed demeanor and purposeful stride perfectly illustrate the message of hidden intelligence and strategic thinking.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Face_Reaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Positive_Emotion",
+        "Travel_Transit",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman",
+        "white suit",
+        "blazer",
+        "pants",
+        "glasses",
+        "phone",
+        "burgundy handbag",
+        "luxury car",
+        "city street",
+        "walking",
+        "confident expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "outdoor",
+          "street",
+          "car"
+        ],
+        "mood": [
+          "serious",
+          "premium",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "professional attire",
+          "dynamic movement",
+          "city backdrop"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the semantic core because the visual narrative, combined with the crucial overlaid text, comprehensively conveys the central message of a strategically intelligent individual. Her composed demeanor, stylish appearance, and purposeful actions throughout the clip directly illustrate the claim of being 'fully aware and five moves ahead' after 'pretending to be a dumb, innocent girl,' making the full duration essential to the core meaning."
+    }
+  ]
+}

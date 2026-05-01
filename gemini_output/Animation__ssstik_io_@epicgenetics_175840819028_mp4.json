@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\ssstik.io_@epicgenetics_175840819028.mp4",
+  "detailed_description": "This video segment visually explains a complex cellular process, specifically focusing on the internal structures of a cell and the activity of mitochondria. Through high-quality 3D animation, glowing particles representing reactive oxygen species are shown interacting with various organelles, particularly highlighting the mitochondria's role. The visual serves to illustrate the mechanism of action for specific biological phenomena.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.040",
+      "structural_tags": [
+        "Micro_Nutrients_Anim",
+        "Cellular_Deep_Dive",
+        "Mechanism_Of_Action",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "cell",
+        "mitochondria",
+        "organelles",
+        "glowing particles",
+        "animation",
+        "cellular process",
+        "reactive oxygen species"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "informative",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "glowing effects",
+          "scientific visualization",
+          "dark background"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it is a direct visual representation and explanation of a biological mechanism (mitochondrial reactive oxygen species), fulfilling the 'Mechanism_Of_Action' and 'Cellular_Deep_Dive' criteria. The high-quality animation constitutes the 'Process/Labor' of conveying scientific information."
+    }
+  ]
+}

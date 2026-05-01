@@ -1,0 +1,154 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid playing\\ssstik.io_@babyfaceniko_1763717750336.mp4",
+  "detailed_description": "This video captures a heartwarming and energetic pillow fight between a toddler and an unseen adult in a bedroom. The child, dressed in pajamas, stands on the bed, eagerly anticipating each pillow toss. With every pillow thrown, the child erupts in joyous laughter, diving into the soft bedding. The interaction showcases pure, unfiltered happiness and playful bonding, highlighted by the child's infectious giggles and the adult's participation.",
+  "segments": [
+    {
+      "start_time": "00:01.378",
+      "end_time": "00:04.938",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "toddler",
+        "bed",
+        "pillow",
+        "laughter",
+        "playing",
+        "jumping"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "bedroom setting",
+          "natural sound"
+        ]
+      },
+      "why_kept": "This segment introduces the playful interaction, showing the child's anticipation (triggered by the adult's 'Ready?'), the pillow being thrown, and the child's immediate, joyful reaction with laughter, setting the core theme of the video."
+    },
+    {
+      "start_time": "00:05.108",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "adult",
+        "pillow",
+        "laughter"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "bedroom setting"
+        ]
+      },
+      "why_kept": "This segment shows the adult participant's joyful reaction (catching the pillow and laughing), reinforcing the shared positive emotion and human interaction central to the video's core meaning."
+    },
+    {
+      "start_time": "00:12.000",
+      "end_time": "00:16.898",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "toddler",
+        "bed",
+        "pillow",
+        "laughter",
+        "playing",
+        "adult hand"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "bedroom setting",
+          "natural sound"
+        ]
+      },
+      "why_kept": "This longer segment captures another complete sequence of the interaction, including the child's verbal readiness ('Yeah!'), the pillow toss, and an extended, enthusiastic display of laughter and playful rolling, emphasizing sustained joy."
+    },
+    {
+      "start_time": "00:20.108",
+      "end_time": "00:21.908",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "toddler",
+        "bed",
+        "pillow",
+        "laughter"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "bedroom setting"
+        ]
+      },
+      "why_kept": "This final segment provides a concluding highlight of the core action and the child's consistent joyful reaction, ending the video on a high-energy note."
+    }
+  ]
+}

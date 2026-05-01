@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\GarageShot2.mp4",
+  "detailed_description": "This video features a person's hand reaching for and retrieving a bottle of 'MoldMD Mold Spot Remover' from a red storage shelf. The white spray bottle, clearly labeled with its branding, is prominently displayed before being picked up. This segment effectively demonstrates a direct and simple interaction with the product, highlighting its presence and immediate usability within a storage context.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.760",
+      "structural_tags": [
+        "Product_Interaction",
+        "Product_Intro",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "MoldMD Mold Spot Remover",
+        "spray bottle",
+        "red shelf",
+        "green container",
+        "storage"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "functional",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "natural lighting",
+          "still shot"
+        ]
+      },
+      "why_kept": "This segment is kept as the semantic core because it directly demonstrates the 'Product Interaction' hero moment. A hand reaches for, grasps, and lifts the 'MoldMD Mold Spot Remover' bottle, clearly showcasing the product and an initial engagement with it. There is no dead air or setup, capturing the action from start to finish."
+    }
+  ]
+}

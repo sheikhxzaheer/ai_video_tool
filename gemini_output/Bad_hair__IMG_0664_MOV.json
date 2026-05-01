@@ -1,0 +1,342 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\IMG_0664.MOV",
+  "detailed_description": "This video features a young man humorously confronting his receding hairline, visually demonstrating his bald spot with a look of dismay. He then embarks on a bold transformation by shaving his head, ingeniously integrating the sounds of the clippers into a catchy musical beat composed on a keyboard. The video captures the entire process, from his initial struggle and the creative sound design, to the final reveal of his confidently shaved head and a satisfied, smiling reaction.",
+  "segments": [
+    {
+      "start_time": "00:01.200",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "glasses",
+        "messy hair",
+        "bald spot",
+        "hand gestures",
+        "facial expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "plain background"
+        ]
+      },
+      "why_kept": "This segment establishes the core problem and the subject's initial emotional state regarding his hair loss, setting the stage for the transformation."
+    },
+    {
+      "start_time": "00:08.700",
+      "end_time": "00:09.600",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "cartoon",
+        "eyes",
+        "smoke",
+        "surprise"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "playful"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "animation"
+        ]
+      },
+      "why_kept": "This short animated clip provides a humorous and exaggerated interlude, emphasizing the emotional impact of the hair situation."
+    },
+    {
+      "start_time": "00:09.800",
+      "end_time": "00:10.900",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "clippers",
+        "hand",
+        "glasses",
+        "serious expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "Introduces the main tool (hair clippers) that will be used for the video's central action and transformation."
+    },
+    {
+      "start_time": "00:10.900",
+      "end_time": "00:16.200",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Workspace_Office",
+        "Product_Interaction",
+        "The_Process_Labor"
+      ],
+      "visual_keywords": [
+        "clippers",
+        "microphone",
+        "computer screen",
+        "piano keyboard",
+        "hands",
+        "sound engineering",
+        "music production"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up",
+          "creative process"
+        ]
+      },
+      "why_kept": "Highlights the unique creative aspect of the video, showing the recording of clipper sounds and their integration into a musical beat."
+    },
+    {
+      "start_time": "00:16.200",
+      "end_time": "00:24.700",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Behind_The_Scenes",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "man",
+        "clippers",
+        "hair shaving",
+        "computer screen",
+        "piano keyboard",
+        "hands",
+        "sound effects"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "mixed"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "quick cuts",
+          "transformation"
+        ]
+      },
+      "why_kept": "Demonstrates the initial phase of the hair transformation interleaved with the ongoing sound design process, maintaining the video's core theme."
+    },
+    {
+      "start_time": "00:24.700",
+      "end_time": "00:25.500",
+      "structural_tags": [
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "glasses",
+        "partially shaved head",
+        "concerned expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "Captures a brief moment of apprehension or realization during the significant change, adding an emotional beat to the process."
+    },
+    {
+      "start_time": "00:25.500",
+      "end_time": "00:28.100",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Workspace_Office",
+        "Product_Interaction",
+        "The_Process_Labor"
+      ],
+      "visual_keywords": [
+        "hand",
+        "piano keyboard",
+        "sound engineering"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "quick cuts"
+        ]
+      },
+      "why_kept": "Further reinforces the unique creative aspect by showing more of the sound production process, connecting it to the shaving."
+    },
+    {
+      "start_time": "00:28.100",
+      "end_time": "00:30.900",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Playful"
+      ],
+      "visual_keywords": [
+        "man",
+        "clippers",
+        "shaving",
+        "hair",
+        "filter",
+        "funny expression",
+        "George Costanza"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "humorous",
+          "visual effect"
+        ]
+      },
+      "why_kept": "This segment provides a humorous and visually engaging moment during the shaving process, utilizing a comedic filter to highlight the hair removal."
+    },
+    {
+      "start_time": "00:30.900",
+      "end_time": "00:43.700",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "man",
+        "clippers",
+        "shaving",
+        "bald head",
+        "hair falling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clear action"
+        ]
+      },
+      "why_kept": "This segment shows the decisive completion of the head shave, crucial for depicting the full physical transformation."
+    },
+    {
+      "start_time": "00:43.700",
+      "end_time": "00:49.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "glasses",
+        "shaved head",
+        "smile",
+        "happy expression",
+        "hand touching head"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "expressive"
+        ]
+      },
+      "why_kept": "This is the ultimate 'reveal' of the final look and captures the subject's positive emotional climax and satisfaction with the transformation."
+    }
+  ]
+}

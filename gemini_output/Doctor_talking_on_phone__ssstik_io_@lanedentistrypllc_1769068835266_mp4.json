@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor talking on phone\\ssstik.io_@lanedentistrypllc_1769068835266.mp4",
+  "detailed_description": "The video humorously depicts a doctor attempting to assist with phone calls at the front desk because the regular staff is busy. Unfamiliar with the typical front-desk inquiries, the doctor struggles to answer questions, repeatedly admitting \"I don't know\" and expressing confusion about the callers' requests. His exasperated facial expressions and fumbling attempts to understand highlight the challenges of stepping outside one's primary role. The scene, set in a professional office, creates a relatable and comedic scenario underscored by his struggle and the lighthearted sound effects.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.670",
+      "structural_tags": [
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Confusion_Doubt",
+        "Workspace_Office",
+        "Negative_Emotion",
+        "Playful"
+      ],
+      "visual_keywords": [
+        "man",
+        "doctor",
+        "scrubs",
+        "beard",
+        "phone",
+        "desk",
+        "office",
+        "struggling",
+        "confused",
+        "exasperated",
+        "glasses"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "playful",
+          "serious",
+          "humorous",
+          "frustrated"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "static shot",
+          "everyday setting"
+        ]
+      },
+      "why_kept": "The entire segment is kept as it fully encapsulates the video's core message: the humorous struggle of a doctor trying to handle front-desk phone calls due to lack of familiarity. His repeated expressions of confusion, frustration, and the comedic timing of his responses, combined with the overlay text, constitute the complete 'hero moment' of the sketch. There is no setup, post-action dead air, or extraneous footage to trim."
+    }
+  ]
+}

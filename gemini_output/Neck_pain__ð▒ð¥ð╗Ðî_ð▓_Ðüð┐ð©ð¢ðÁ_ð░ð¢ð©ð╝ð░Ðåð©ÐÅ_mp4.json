@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Neck pain\\ð▒ð¥ð╗Ðî ð▓ Ðüð┐ð©ð¢ðÁ ð░ð¢ð©ð╝ð░Ðåð©ÐÅ.mp4",
+  "detailed_description": "This video visually demonstrates the problem of spinal discomfort, focusing on neck and lower back pain. It uses a translucent 3D animation of a female figure, gradually highlighting her spine. As the animation progresses, specific areas of the neck and lower back illuminate with a glowing red and orange hue, indicating points of pain or inflammation. The figure's subtle facial expression and hand placements on her neck and lower back reinforce the sensation of discomfort, effectively illustrating the problem state.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:12.44",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "human body",
+        "spine",
+        "vertebrae",
+        "neck pain",
+        "back pain",
+        "glowing",
+        "red",
+        "blue",
+        "hands",
+        "discomfort"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "translucent",
+          "x-ray vision",
+          "glowing effect",
+          "diagnostic visualization"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core, as it clearly and progressively illustrates the problem of spinal pain (neck and lower back) through visual highlighting and suggestive body language. It's a continuous visual explanation of the 'Problem State' and the 'Mechanism_Of_Action' (where the pain is located) and does not contain any trimmable setup or post-action dead air."
+    }
+  ]
+}

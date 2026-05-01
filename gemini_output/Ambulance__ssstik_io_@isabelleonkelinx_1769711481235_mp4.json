@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@isabelleonkelinx_1769711481235.mp4",
+  "detailed_description": "This video showcases a medical team performing an airway management procedure on a patient in a clinical setting. After an initial period of mask ventilation, a laryngeal mask airway (LMA) device, specifically the 'air-Q sp', is expertly inserted into the patient's mouth to secure their airway. The device's cuff is inflated using a syringe, and it is then connected to a breathing circuit, demonstrating the complete process of preparing the patient for mechanical ventilation or assisted breathing with this specialized medical equipment.",
+  "segments": [
+    {
+      "start_time": "00:04.500",
+      "end_time": "00:31.500",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Behind_The_Scenes",
+        "Mechanism_Of_Action",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "Laryngeal mask airway (LMA)",
+        "air-Q sp device",
+        "airway management",
+        "intubation",
+        "breathing circuit",
+        "syringe",
+        "medical professionals",
+        "patient",
+        "hospital bed",
+        "medical equipment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "hospital setting",
+          "medical procedure",
+          "clear view of device usage",
+          "focused and professional atmosphere",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the 'Process/Labor' of medical professionals inserting and connecting a specialized airway device. It highlights 'Product Interaction' with the 'air-Q sp' LMA and showcases the 'Mechanism_Of_Action' as the device is precisely placed and prepared for use, forming the entire semantic core of the video's medical expertise."
+    }
+  ]
+}

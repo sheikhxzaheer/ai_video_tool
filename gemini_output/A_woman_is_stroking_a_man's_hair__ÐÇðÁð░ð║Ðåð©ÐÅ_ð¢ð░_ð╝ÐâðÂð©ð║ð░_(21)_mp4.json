@@ -1,0 +1,117 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\A woman is stroking a man's hair\\ÐÇðÁð░ð║Ðåð©ÐÅ ð¢ð░ ð╝ÐâðÂð©ð║ð░ (21).mp4",
+  "detailed_description": "This video captures a man's continuous journey through the bustling streets of New York City, set to the song 'What Is Love'. It showcases a montage of diverse urban scenes, highlighting incidental encounters and observations of various people, predominantly women, within dynamic cityscapes like Times Square. The video emphasizes subtle human interactions and the essence of street life, culminating in a call to action for viewers to subscribe for a continuation of this observational series.",
+  "segments": [
+    {
+      "start_time": "00:29.000",
+      "end_time": "00:31.000",
+      "structural_tags": [
+        "Travel_Transit",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man walking",
+        "crowded street",
+        "Times Square",
+        "city buildings",
+        "billboards",
+        "pedestrians"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "daylight",
+          "dynamic camera movement",
+          "urban vista"
+        ]
+      },
+      "why_kept": "This segment establishes the primary setting and activity of the video: walking through a busy, iconic urban environment, which is a core part of its semantic meaning."
+    },
+    {
+      "start_time": "00:31.000",
+      "end_time": "00:34.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman smiling",
+        "man walking",
+        "water bottle",
+        "black coat",
+        "urban street"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "positive",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "daylight",
+          "direct gaze",
+          "candid moment"
+        ]
+      },
+      "why_kept": "This segment captures a clear and positive human interaction, where a woman directly looks and smiles at the camera/subject, illustrating the observational and interactive nature of the video's premise."
+    },
+    {
+      "start_time": "00:54.000",
+      "end_time": "00:59.866",
+      "structural_tags": [
+        "Offer_CTA",
+        "Travel_Transit",
+        "Human_Interaction",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "man walking away",
+        "Times Square",
+        "crowd",
+        "billboards",
+        "text overlay",
+        "call to action"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "anticipatory"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "daylight",
+          "dynamic movement",
+          "future engagement"
+        ]
+      },
+      "why_kept": "This segment is the conclusive 'hero moment' as it contains the explicit call to action, 'Part 2 için abone ol 🥊' (Subscribe for Part 2 🥊), which is key information that dictates the video's purpose and future engagement, while also encapsulating the urban environment and ongoing transit."
+    }
+  ]
+}

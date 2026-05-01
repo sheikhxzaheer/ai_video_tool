@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid naughty\\ssstik.io_@elcircofrancoyelena_1763668096673.mp4",
+  "detailed_description": "This video humorously showcases a parent's strategy to ensure a peaceful 8-hour flight by giving their three-year-old a melatonin gummy. Dressed in pajamas, the child is seen consuming the gummy, making expressive faces, and then drinking water. The scene captures the child's direct interaction with the product, highlighting the challenge and solution of keeping a young child calm during long-haul travel.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:31.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Travel_Transit",
+        "Problem_State",
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "child",
+        "airplane",
+        "melatonin gummy",
+        "water bottle",
+        "eating",
+        "drinking",
+        "pajamas",
+        "grimace"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "handheld camera",
+          "close-up on child's face"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the direct interaction of the child with the melatonin gummy and water, her reaction to it, and setting the context of an 8-hour airplane flight. It effectively communicates the parent's solution to a common travel challenge, aligning with the 'Product Interaction' and 'Emotional Climax' hero moment criteria. The video begins and ends precisely with the relevant actions, requiring no trimming as per the 'No-Mistake' rule."
+    }
+  ]
+}

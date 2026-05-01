@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold Before_After\\afterspray.mov",
+  "detailed_description": "This video demonstrates the cleaning process for a bathtub drain. It begins with a close-up shot of a hand using a small red brush to scrub accumulated dirt and grime from around the metal drain cover. Following the scrubbing, a shower head is used to rinse the area, effectively washing away the loosened debris. The process concludes with the drain appearing visibly cleaner, highlighting a practical method for bathroom maintenance.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "scrub brush",
+        "bathtub drain",
+        "dirt",
+        "grime",
+        "water",
+        "shower head",
+        "cleaning"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "practical footage",
+          "demonstrative"
+        ]
+      },
+      "why_kept": "This segment captures the entire cleaning process, from the initial scrubbing of the dirty drain (Problem_State, Mechanism_Of_Action) to the final rinsing that reveals a cleaner surface (Result_Transformation). It demonstrates the core action and value of the cleaning task, making it the complete semantic core without any dead air or setup."
+    }
+  ]
+}

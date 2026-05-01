@@ -1,0 +1,55 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Couple\\Happy\\ssstik.io_@danielleebrownn__1772474655683.mp4",
+  "detailed_description": "The video beautifully illustrates the profound emotional connection and joy shared between a couple, embodying the sentiment of 'how life feels when we're together.' Set against stunning sunset backdrops on a beach, it captures a series of intimate and playful moments. From running hand-in-hand along the shore to embracing in the ocean waves and sharing tender kisses, the footage consistently radiates positive emotion and romantic harmony, creating a cohesive and heartfelt narrative of companionship.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.189",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "couple",
+        "beach",
+        "ocean",
+        "sunset",
+        "running",
+        "hugging",
+        "kissing",
+        "holding hands",
+        "waves",
+        "silhouette"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "ocean",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "playful",
+          "romantic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "golden hour",
+          "cinematic",
+          "dreamy",
+          "warm lighting",
+          "slow-motion feel"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, delivering a continuous emotional narrative that perfectly visualizes the accompanying text 'how life feels when we're together.' Each moment, from playful running to intimate embraces by the ocean at sunset, reinforces the central theme of love, joy, and togetherness. Breaking it down further would diminish the cohesive storytelling and emotional impact."
+    }
+  ]
+}

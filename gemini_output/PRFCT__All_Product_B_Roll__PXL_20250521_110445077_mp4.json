@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250521_110445077.mp4",
+  "detailed_description": "The video prominently features a 'PRFCT MORNING TANGERINE PULSE' product bag situated on a wooden deck, bathed in morning sunlight, beside a tranquil body of water. The backdrop of a clear blue sky and modern wooden architecture conveys a sense of luxury and calm. A hand briefly interacts with the water, subtly suggesting the product's integration into a refreshing morning wellness or hydration routine. The entire scene emphasizes an aspirational and relaxed lifestyle associated with the product.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Human_Interaction",
+        "Morning_Routine",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "product bag",
+        "Tangerine Pulse",
+        "wooden deck",
+        "hot tub",
+        "water",
+        "blue sky",
+        "hand"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "relaxed"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "golden hour light",
+          "clean background"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, showcasing the product in its intended lifestyle context without any setup or post-action dead air. The clear display of the product, the appealing outdoor environment, and the subtle human interaction with the water effectively communicate the product's brand and proposed use for a refreshing morning routine. Adhering to the 'No-Mistake Rule,' the full duration is kept as it begins and ends precisely with the primary visual message."
+    }
+  ]
+}

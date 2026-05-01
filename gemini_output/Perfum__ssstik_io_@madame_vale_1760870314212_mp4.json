@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Perfum\\ssstik.io_@madame_vale_1760870314212.mp4",
+  "detailed_description": "This video features a woman demonstrating her unique and comprehensive method of applying perfume. She begins by spraying the fragrance onto her hands, then rubs them together to warm and distribute the scent. She proceeds to apply the perfume to her neck, décolletage, and even runs her perfumed hands through her hair, emphasizing various pulse points for a lasting impression. The entire sequence showcases her deliberate and elegant routine for wearing fragrance.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "perfume bottle",
+        "spraying perfume",
+        "applying perfume",
+        "hands",
+        "neck",
+        "hair",
+        "rubbing hands"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "elegant"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean background",
+          "jewelry",
+          "braided hair",
+          "red top"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully demonstrates the user's specific method of applying perfume, which is the entire purpose of the video as stated by the overlay text. It continuously shows product interaction, the process, and the human element without any irrelevant pauses or dead air."
+    }
+  ]
+}

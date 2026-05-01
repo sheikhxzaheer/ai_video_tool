@@ -1,0 +1,200 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold\\ssstik.io_@svetlanakolomeich_1770747360951.mp4",
+  "detailed_description": "This video showcases a highly effective mold remover from Germany's DM store, specifically 'Denk mit SCHIMMEL ENTFERNER POWER-FORMEL'. The user demonstrates the product's ability to tackle severe black mold on a wall, particularly behind kitchen furniture, a common problem in Germany. After an initial spray, the mold visibly fades within minutes, requiring no scrubbing. A second application and a simple wipe with a damp cloth completely eliminate the stubborn mold, revealing a pristine white wall. The user emphasizes the product's effectiveness and affordable price (2.25 Euro), recommending it as the best solution they've found.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Home_Kitchen",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "Black mold",
+        "dirty wall",
+        "wooden floor",
+        "electrical outlet",
+        "cables"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "documentary style"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the severe mold problem, serving as the essential 'before' visual and setting the context for the product's solution."
+    },
+    {
+      "start_time": "00:09.500",
+      "end_time": "00:19.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "Hand",
+        "Denk mit mold remover bottle",
+        "spraying action",
+        "mold",
+        "wall"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up action",
+          "demonstrative"
+        ]
+      },
+      "why_kept": "This segment introduces the product and demonstrates its direct application, showing the 'how-to' of the solution."
+    },
+    {
+      "start_time": "00:21.000",
+      "end_time": "00:32.000",
+      "structural_tags": [
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "Fading mold",
+        "whitening wall",
+        "wooden floor"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "shock_surprise",
+          "positive_emotion"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "time-lapse effect",
+          "dramatic change"
+        ]
+      },
+      "why_kept": "This segment provides a compelling visual demonstration of the product's immediate and powerful effect, showcasing the significant transformation of the mold."
+    },
+    {
+      "start_time": "00:32.000",
+      "end_time": "00:34.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "Hand",
+        "Denk mit mold remover bottle",
+        "spraying action",
+        "wall"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused action"
+        ]
+      },
+      "why_kept": "This brief segment reinforces the product's usage, showing a second application for any remaining spots, emphasizing its thoroughness."
+    },
+    {
+      "start_time": "00:35.000",
+      "end_time": "00:36.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "Hand in glove",
+        "blue cloth",
+        "wiping wall"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "final touch"
+        ]
+      },
+      "why_kept": "This segment illustrates the minimal effort required to complete the cleaning process, highlighting the product's effectiveness without strenuous scrubbing."
+    },
+    {
+      "start_time": "00:46.000",
+      "end_time": "00:49.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "Clean wall",
+        "white baseboard",
+        "wooden floor",
+        "electrical outlet"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "positive_emotion"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "pristine finish",
+          "after shot"
+        ]
+      },
+      "why_kept": "This segment serves as the conclusive 'after' shot, showcasing the complete and satisfying result of the mold removal, reinforcing the product's efficacy."
+    }
+  ]
+}

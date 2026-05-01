@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1745521854483.mp4",
+  "detailed_description": "The video features a charismatic man modeling a sleek all-black outfit against a vibrant green, illuminated backdrop. He maintains a confident posture, smiles directly at the camera, and engages viewers with a charming hand gesture and a wink, effectively showcasing his personal appeal and the sharpness of his attire in a playful yet sophisticated manner.",
+  "segments": [
+    {
+      "start_time": "00:04.100",
+      "end_time": "00:07.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "black shirt",
+        "black pants",
+        "belt",
+        "watch",
+        "green wall",
+        "lights",
+        "smiling",
+        "winking",
+        "hand gesture",
+        "confident pose"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic lighting",
+          "confident posing",
+          "direct eye contact",
+          "charismatic"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it encapsulates the most engaging and charismatic interaction of the video. It features the model's confident smile, a direct hand gesture, and a distinct wink, representing the peak emotional climax and human interaction, which is the core value being conveyed in this modeling sequence. It avoids repetitive or less dynamic posing from earlier parts and cuts out the post-action walk-off."
+    }
+  ]
+}

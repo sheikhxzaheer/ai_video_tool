@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sofa cover\\ssstik.io_@lazysofauk_1769691052853.mp4",
+  "detailed_description": "This video demonstrates the easy application of a plush, white sofa cover onto a beige sectional sofa. A person drapes and smooths the textured cover over the sofa, instantly transforming its appearance. The segment highlights the product's soft feel, simple installation, and the cozy, refreshed aesthetic it brings to the living space, culminating in a charming final look with decorative plush sheep.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.410",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Home_Kitchen",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "white sofa cover",
+        "sectional sofa",
+        "person applying cover",
+        "plush texture",
+        "sheep plushies",
+        "modern living room",
+        "wood accent wall",
+        "large window"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "cozy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "smooth transitions"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the entire process of applying the sofa cover, from initial draping to the final smoothing and aesthetic presentation. It effectively showcases the product's ease of use, texture, and the immediate visual transformation it provides to the sofa, embodying the core value proposition of the product."
+    }
+  ]
+}

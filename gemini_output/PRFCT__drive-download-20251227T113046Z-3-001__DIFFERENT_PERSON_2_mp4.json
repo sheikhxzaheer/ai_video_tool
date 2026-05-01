@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\drive-download-20251227T113046Z-3-001\\DIFFERENT PERSON 2.mp4",
+  "detailed_description": "The video features a young man in an office setting holding a product pouch labeled 'Tangerine Pulse'. He directly addresses the camera, introducing the product as his essential 'morning go-to' for busy days when he needs to accomplish a lot. He explains its core benefits, describing it as a unique blend of electrolytes and a nootropic, suggesting it aids both hydration and cognitive function. This segment functions as a personal testimonial, highlighting the product's utility in boosting productivity and focus for an active lifestyle.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.960",
+      "structural_tags": [
+        "Product_Intro",
+        "UGC_Talking_Head",
+        "Morning_Routine",
+        "Lifestyle_Active",
+        "Ingredient_Highlight",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man speaking",
+        "holding product pouch",
+        "Tangerine Pulse",
+        "office desk",
+        "laptop",
+        "monitor",
+        "plants"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "informative",
+          "casual"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "direct address",
+          "clean aesthetic",
+          "authentic"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as the subject directly introduces the product, explains its primary purpose and benefits (key information), and demonstrates interaction by holding the product throughout his testimonial. It establishes the product's role as a 'morning go-to' for productivity and highlights its unique formulation."
+    }
+  ]
+}

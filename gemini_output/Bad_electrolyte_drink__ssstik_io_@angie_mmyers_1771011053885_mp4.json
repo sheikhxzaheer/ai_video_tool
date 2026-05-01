@@ -1,0 +1,126 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad electrolyte drink\\ssstik.io_@angie.mmyers_1771011053885.mp4",
+  "detailed_description": "This video showcases a woman demonstrating the use of Liquid I.V.'s new sugar-free strawberry watermelon electrolyte powder. She highlights its efficacy in preventing hangovers, particularly for those in their 30s, by pouring the powder into water, stirring it, and then taking a satisfying sip. The core message emphasizes the product's great taste, lack of a salty aftertaste, and its convenience. The video concludes with a recommendation to purchase the product, especially when on sale, reinforcing its value for daily hydration and well-being.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.960",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hands",
+        "Liquid I.V. packet",
+        "powder",
+        "glass of water",
+        "pouring",
+        "restaurant"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "restaurant"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up on hands",
+          "natural lighting",
+          "nighttime cityscape background"
+        ]
+      },
+      "why_kept": "This segment visually introduces the product and demonstrates the initial key action of preparing the drink by tearing the packet and pouring the powder into a glass, setting the stage for consumption."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hands",
+        "stirring",
+        "straw",
+        "glass of water",
+        "drinking",
+        "wink",
+        "smile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "restaurant"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear action",
+          "expressive facial reactions",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This is the core 'hero moment' as it vividly shows the product being mixed and consumed, followed by a clear, positive emotional reaction (a wink and smile), strongly conveying the benefit and enjoyable taste of the drink. It's the central demonstration of product interaction and user satisfaction."
+    },
+    {
+      "start_time": "00:17.200",
+      "end_time": "00:22.500",
+      "structural_tags": [
+        "Product_Standalone",
+        "Product_Intro",
+        "Offer_CTA",
+        "UGC_Talking_Head",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hands",
+        "Liquid I.V. packet",
+        "call to action",
+        "smile"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "restaurant"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address to camera",
+          "clear product display",
+          "positive closure"
+        ]
+      },
+      "why_kept": "This segment serves as a crucial wrap-up, providing a final clear view of the product, reinforcing its identity, and delivering a direct call to action for viewers to purchase, particularly when it's on sale, leveraging a sense of urgency."
+    }
+  ]
+}

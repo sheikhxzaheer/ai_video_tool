@@ -1,0 +1,79 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated Before_After\\ssstik.io_@user4sqihxza20_1774365206582.mp4",
+  "detailed_description": "This video demonstrates how a woman's belly visibly bloats after consuming 1 litre of water. The initial segment shows her drinking the water, with her stomach gradually distending. A subsequent segment, captured 5 minutes later, reveals that her belly remains significantly bloated, emphasizing the physical impact of rapid water intake on the digestive system and body appearance.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:47.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "drinking water",
+        "pink water bottle",
+        "belly bloating",
+        "pink shorts",
+        "white tank top"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "minimal background",
+          "string lights"
+        ]
+      },
+      "why_kept": "This segment captures the core action of drinking 1 litre of water and immediately demonstrates the resulting belly bloating. It clearly shows the 'before' (implied at start) and the direct 'after' state, fulfilling both 'THE PROCESS/LABOR' and 'THE REVEAL/RESULT' criteria. The text overlay provides essential context."
+    },
+    {
+      "start_time": "00:48.000",
+      "end_time": "01:13.590",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bloated belly",
+        "pink shorts",
+        "white tank top",
+        "touching stomach"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "minimal background",
+          "string lights"
+        ]
+      },
+      "why_kept": "This segment serves as a crucial 'after' comparison, showing the belly's state 5 minutes later, reinforcing the initial bloating demonstration. It highlights the sustained effect, which is key to the video's message about water intake and bloating, thus fulfilling 'THE REVEAL/RESULT' criterion."
+    }
+  ]
+}

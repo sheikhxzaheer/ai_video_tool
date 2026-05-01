@@ -1,0 +1,284 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Eat\\ssstik.io_@narmincooks_1774370345531.mp4",
+  "detailed_description": "This video's semantic core focuses on demonstrating a complete and appealing fried chicken recipe. It effectively captures the entire cooking process, from preparing the raw chicken and making the batter to coating the pieces and deep-frying them to crispy perfection. The video cleverly bookends the instructional segments with a couple enthusiastically enjoying the finished dish, highlighting the satisfying taste and the successful outcome of the recipe.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "couple",
+        "fried chicken",
+        "eating",
+        "satisfaction",
+        "dipping sauce"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean kitchen"
+        ]
+      },
+      "why_kept": "This segment serves as a strong visual hook, immediately showcasing the delicious final product and the joyful consumption, setting the expectation for the recipe demonstration."
+    },
+    {
+      "start_time": "00:04.100",
+      "end_time": "00:06.100",
+      "structural_tags": [
+        "The_Process/Labor",
+        "Ingredient_Highlight",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "chicken breast",
+        "cutting board",
+        "knife",
+        "slicing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean white surface",
+          "sharp focus"
+        ]
+      },
+      "why_kept": "Demonstrates the initial preparation step of the chicken, crucial for any cooking process, highlighting the hands-on expertise."
+    },
+    {
+      "start_time": "00:06.500",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "The_Process/Labor",
+        "Ingredient_Highlight",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "flour",
+        "sifter",
+        "egg",
+        "paprika",
+        "salt",
+        "water",
+        "mixing bowl",
+        "whisk",
+        "batter"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed focus",
+          "ingredient shots"
+        ]
+      },
+      "why_kept": "Shows the precise steps of creating the batter, an essential component of the fried chicken recipe, demonstrating technical skill."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:17.500",
+      "structural_tags": [
+        "The_Process/Labor",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "chicken pieces",
+        "batter",
+        "mixing",
+        "spatula"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "hands-on action"
+        ]
+      },
+      "why_kept": "Illustrates the critical step of coating the chicken in the wet batter, foundational for the texture of the fried chicken."
+    },
+    {
+      "start_time": "00:18.000",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "The_Process/Labor",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "battered chicken",
+        "flour",
+        "coating",
+        "tongs"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "precise movements",
+          "textured coating"
+        ]
+      },
+      "why_kept": "Highlights the secondary coating process, vital for creating the desired crispy exterior of the fried chicken."
+    },
+    {
+      "start_time": "00:20.000",
+      "end_time": "00:24.000",
+      "structural_tags": [
+        "The_Process/Labor",
+        "Result_Transformation",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hot oil",
+        "frying",
+        "chicken",
+        "golden brown",
+        "skimmer"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "transformative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bubbling oil",
+          "crispy texture forming"
+        ]
+      },
+      "why_kept": "Shows the actual cooking and transformation of the chicken from raw to perfectly fried, demonstrating the core culinary technique."
+    },
+    {
+      "start_time": "00:24.000",
+      "end_time": "00:27.000",
+      "structural_tags": [
+        "Reveal_Result",
+        "Product_Standalone",
+        "Product_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "fried chicken basket",
+        "dipping sauce",
+        "ketchup",
+        "hand dipping"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "appetizing",
+          "satisfying"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "food presentation",
+          "vibrant colors"
+        ]
+      },
+      "why_kept": "Presents the final, tempting product and demonstrates a common way of enjoying it, linking back to the initial hook."
+    },
+    {
+      "start_time": "00:27.000",
+      "end_time": "00:29.900",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Social_Proof",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "couple",
+        "eating",
+        "fried chicken",
+        "smiling",
+        "satisfaction",
+        "conversation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "happy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural reactions",
+          "shared experience"
+        ]
+      },
+      "why_kept": "This segment provides the emotional payoff and social proof, showing genuine enjoyment and satisfaction with the final product, reinforcing the success of the recipe."
+    }
+  ]
+}

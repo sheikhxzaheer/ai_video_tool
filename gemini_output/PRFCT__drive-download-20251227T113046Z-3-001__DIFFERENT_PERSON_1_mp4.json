@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\drive-download-20251227T113046Z-3-001\\DIFFERENT PERSON 1.mp4",
+  "detailed_description": "This video captures a young woman in an outdoor, natural setting, engaging with the camera in a selfie-style format. She enthusiastically praises a product, which she holds in a bottle containing an orange liquid. Her testimony focuses on the product's benefits, specifically mentioning mental clarity, focus, and clean energy without any negative side effects like crashes or anxiety. Her positive facial expressions and direct address convey genuine satisfaction and serve as a strong endorsement for the beverage, framing it within an active and healthy lifestyle.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.574",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "holding bottle",
+        "orange drink",
+        "forest background",
+        "smiling",
+        "athletic wear"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "energetic",
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "bright",
+          "soft focus background",
+          "vibrant"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it features a 'Talking Head' directly delivering key information about the product's benefits, while actively holding and displaying the product. The subject's clear positive emotional expression and product interaction, coupled with the absence of any setup or post-action dead air, make the entire duration a 'Hero Moment' according to the 'No-Mistake Rule'."
+    }
+  ]
+}

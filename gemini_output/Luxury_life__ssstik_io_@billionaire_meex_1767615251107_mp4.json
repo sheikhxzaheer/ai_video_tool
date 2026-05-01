@@ -1,0 +1,376 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury life\\ssstik.io_@billionaire.meex_1767615251107.mp4",
+  "detailed_description": "This video is a fast-paced montage showcasing an ultra-luxury lifestyle. It features a series of opulent possessions and experiences, including private jets, high-end sports cars like McLaren and Rolls-Royce, luxury SUVs such as Range Rovers and Mercedes G-Wagons, a sleek speed boat, a prestigious Rolex watch, and large sums of money. The culmination of this aspirational lifestyle is depicted by a man in a suit overlooking an infinity pool and the ocean from a modern, lavish home at sunset, reinforcing the theme of wealth, freedom, and exclusive travel.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Travel_Transit",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "McLaren sports car",
+        "private jet",
+        "airport tarmac",
+        "night"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "premium",
+          "energetic"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "low light",
+          "reflections"
+        ]
+      },
+      "why_kept": "This segment is a 'reveal' of two prominent luxury items (sports car and private jet), setting an aspirational tone for the wealthy lifestyle theme."
+    },
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hand",
+        "Euro banknotes",
+        "money counter",
+        "smartphone",
+        "wallet balance"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dark background",
+          "crisp detail"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates tangible wealth through the fanning of banknotes and a displayed digital wallet balance, contributing to the 'result' of a luxurious life."
+    },
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "Range Rover",
+        "luxury SUV",
+        "headlights"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "premium",
+          "energetic"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "night",
+          "street lights"
+        ]
+      },
+      "why_kept": "This 'reveal' showcases multiple high-end luxury SUVs, reinforcing the theme of opulent possessions."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Travel_Transit",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "speed boat",
+        "ocean",
+        "mountains",
+        "wake"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "ocean",
+          "nature"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "daylight",
+          "dynamic shot"
+        ]
+      },
+      "why_kept": "This segment displays a luxury recreational asset (speedboat) in an exotic location, representing a component of the aspirational lifestyle."
+    },
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Travel_Transit",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "McLaren sports car",
+        "highway",
+        "mountains",
+        "sunset"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "premium",
+          "energetic"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "golden hour lighting",
+          "motion blur"
+        ]
+      },
+      "why_kept": "This dynamic shot of a luxury sports car in motion serves as a 'reveal' of another high-value asset and reinforces the travel aspect of the wealthy lifestyle."
+    },
+    {
+      "start_time": "00:05.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Macro_Detail",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "Rolex Daytona watch",
+        "watch box",
+        "documents"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "professional product shot",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This 'reveal' of a luxury watch, complete with its documentation, signifies high-value personal possessions, a key element of the theme."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Travel_Transit",
+        "Product_Standalone",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "Rolls Royce car",
+        "orange interior",
+        "private jet",
+        "tarmac"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "premium",
+          "energetic"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "overcast lighting",
+          "car door open"
+        ]
+      },
+      "why_kept": "This segment combines the 'reveal' of a bespoke luxury car with a private jet, emphasizing the exclusivity and travel associated with a high-net-worth individual."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "Mercedes G-Wagon",
+        "luxury SUVs",
+        "garage"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean lines",
+          "showroom feel"
+        ]
+      },
+      "why_kept": "The 'reveal' of multiple luxury SUVs implies a collection and reinforces the theme of extensive wealth and expensive possessions."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Travel_Transit",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man in suit",
+        "infinity pool",
+        "modern house",
+        "ocean",
+        "sunset"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "aspirational"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "golden hour lighting",
+          "panoramic view",
+          "architectural design"
+        ]
+      },
+      "why_kept": "This segment serves as the ANCHOR because it provides the most comprehensive and aspirational 'reveal' of the luxury lifestyle, combining lavish real estate, scenic views, and implied freedom/success, encapsulating the video's core message."
+    },
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Product_Standalone",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "Rolls Royce car",
+        "mansion",
+        "gravel driveway"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "historic architecture",
+          "grand setting"
+        ]
+      },
+      "why_kept": "This segment 'reveals' a luxury car positioned against a grand mansion, linking high-value vehicles with opulent real estate, further building the luxury narrative."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:11.233",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Travel_Transit",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "private jet",
+        "Range Rover SUV",
+        "snowy mountains",
+        "tarmac"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "premium",
+          "energetic",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "bright daylight",
+          "alpine backdrop"
+        ]
+      },
+      "why_kept": "This final 'reveal' ties together private jet travel and a luxury SUV in a scenic, exclusive mountain setting, serving as a strong closing statement for the aspirational lifestyle."
+    }
+  ]
+}

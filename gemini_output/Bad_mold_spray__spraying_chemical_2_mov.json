@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad mold spray\\spraying chemical 2.mov",
+  "detailed_description": "The video captures a bald man in a shower attempting to clean using a purple spray bottle and a cloth. He brings the product close to his face, sprays it onto the cloth, and immediately recoils with a strong, visible grimace. His facial expression clearly indicates an intense negative reaction, likely due to an unpleasant smell or irritation caused by the cleaning product, highlighting a potential problem state associated with its use.",
+  "segments": [
+    {
+      "start_time": "00:00:03.000",
+      "end_time": "00:00:12.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Mechanism_Of_Action",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "man",
+        "bald",
+        "beard",
+        "shower",
+        "cleaning spray",
+        "purple bottle",
+        "cloth",
+        "spraying",
+        "grimacing",
+        "discomfort"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "discomfort"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct gaze",
+          "tiled background",
+          "natural light",
+          "handheld feel"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it clearly demonstrates the subject's direct interaction with the product (spraying the cleaner) and captures a distinct emotional climax – a strong negative facial reaction to the product. This combination effectively conveys a 'Problem State' with the product, fulfilling multiple 'Hero Moment' criteria."
+    }
+  ]
+}

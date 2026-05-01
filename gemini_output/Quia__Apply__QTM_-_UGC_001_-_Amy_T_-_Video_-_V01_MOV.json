@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Apply\\QTM - UGC 001 - Amy T - Video - V01.MOV",
+  "detailed_description": "This video features a woman applying a clear gel face mask to her cheek and jawline using a silicone brush. She wears a soft, striped headband and maintains direct eye contact with the camera, showcasing the smooth and easy application of the skincare product. The segment highlights the practical use of the mask and brush as part of a beauty or self-care routine, demonstrating the product's texture and coverage.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "headband",
+        "face mask",
+        "gel mask",
+        "silicone brush",
+        "applying skincare",
+        "cheek",
+        "jawline",
+        "beauty routine"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "clean"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the primary action of product application and interaction. It clearly shows the 'Process/Labor' and 'Product Interaction' hero moments from start to finish without any significant 'setup & calibration' or 'post-action dead air' to trim. The subject's direct gaze also acts as a 'Visual Hook' and 'Face_Reaction' conveying engagement."
+    }
+  ]
+}

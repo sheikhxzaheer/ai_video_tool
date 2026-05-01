@@ -1,0 +1,147 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B ROLL UN HAPPY PILLOW.MOV",
+  "detailed_description": "This video captures the sweet and cozy moments of a woman waking up, highlighting the universal desire to linger in bed. It showcases her sleepy expressions, gentle groans, and the actions of snuggling into her soft blanket and pillow, conveying a sense of calm relaxation and comfort during a slow morning routine. The core emphasizes the enjoyable, lazy feelings associated with starting the day gently from a comfortable bed.",
+  "segments": [
+    {
+      "start_time": "00:02.100",
+      "end_time": "00:06.500",
+      "structural_tags": [
+        "Morning_Routine",
+        "Calm_Relaxation",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "adjusting pillow",
+        "settling in bed",
+        "sleepy face",
+        "blanket",
+        "pillow"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "cozy aesthetic"
+        ]
+      },
+      "why_kept": "This segment shows the 'Process' of the woman settling down and adjusting her pillow for comfort, establishing the morning routine and cozy environment."
+    },
+    {
+      "start_time": "00:09.900",
+      "end_time": "00:11.700",
+      "structural_tags": [
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Morning_Routine",
+        "Calm_Relaxation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "sleepy smile",
+        "direct gaze",
+        "pillow"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "direct engagement"
+        ]
+      },
+      "why_kept": "This is a strong 'Emotional Climax' as the woman looks directly at the camera with a clear, sleepy, and content smile, embodying the comfort and positive feeling of staying in bed."
+    },
+    {
+      "start_time": "00:25.100",
+      "end_time": "00:28.100",
+      "structural_tags": [
+        "Morning_Routine",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Calm_Relaxation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "emerging from blanket",
+        "stretching",
+        "sleepy smile"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "natural movement"
+        ]
+      },
+      "why_kept": "This segment captures the 'Process' of waking up, with the woman emerging from under her blanket, stretching, and displaying a content, sleepy facial expression, supporting the overall cozy morning theme."
+    },
+    {
+      "start_time": "00:39.100",
+      "end_time": "00:42.500",
+      "structural_tags": [
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Morning_Routine",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "sleepy smile",
+        "eyes closed",
+        "eyes open"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "peaceful expression"
+        ]
+      },
+      "why_kept": "This is another clear 'Emotional Climax' showing a satisfied and comfortable smile, reinforcing the positive and calm mood of the morning."
+    }
+  ]
+}

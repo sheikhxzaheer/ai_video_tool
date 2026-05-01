@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\pentatrichomonas-hominis-protozoan-in-human-intest-2025-08-29-10-19-18-utc.mp4",
+  "detailed_description": "This video vividly illustrates the journey of substances through the human digestive system using 3D animation. It begins by showing glowing yellow particles, representing nutrients or medication, as they descend through the esophagus into the stomach. The particles then continue to move through the small and large intestines. The animation concludes with the digestive organs themselves glowing, symbolizing the absorption or beneficial effect of the ingested substance throughout the system.",
+  "segments": [
+    {
+      "start_time": "00:00.600",
+      "end_time": "00:09.900",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Micro_Nutrients_Anim"
+      ],
+      "visual_keywords": [
+        "digestive system",
+        "esophagus",
+        "stomach",
+        "small intestine",
+        "large intestine",
+        "yellow particles",
+        "glowing organs",
+        "3D animation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "scientific"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "wireframe human body",
+          "glowing effects",
+          "scientific visualization",
+          "dark background"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it demonstrates the entire process of a substance moving through the digestive system (Mechanism_Of_Action) and shows the subsequent effect or absorption represented by the glowing organs (Result_Transformation). It encompasses the key action and its visual outcome."
+    }
+  ]
+}

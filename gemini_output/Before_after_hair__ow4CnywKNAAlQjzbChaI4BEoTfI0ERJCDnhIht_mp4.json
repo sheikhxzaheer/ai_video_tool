@@ -1,0 +1,131 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ow4CnywKNAAlQjzbChaI4BEoTfI0ERJCDnhIht.mp4",
+  "detailed_description": "This video dramatically showcases a hair transformation. It begins by presenting a man with a noticeable bald spot and receding hairline, clearly establishing the 'before' or 'problem state'. A curly hairpiece is then shown, hinting at the solution. The video concludes with the man, now adorned with a full head of curly hair, revealing the impressive 'after' state and the successful result of the hair transformation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.810",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man, barber chair, bald, receding hairline, curly hair, beard"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment introduces the subject and clearly establishes the 'before' state, highlighting the problem of hair loss. It serves as a strong visual hook for the upcoming transformation."
+    },
+    {
+      "start_time": "00:02.810",
+      "end_time": "00:05.730",
+      "structural_tags": [
+        "Problem_State",
+        "Macro_Detail",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "overhead view, bald spot, scalp, curly hair, hair loss"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "top-down angle",
+          "detailed view"
+        ]
+      },
+      "why_kept": "This close-up, overhead shot provides a detailed view of the baldness, emphasizing the extent of the hair loss and reinforcing the 'problem state' prior to the transformation."
+    },
+    {
+      "start_time": "00:05.730",
+      "end_time": "00:08.730",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "curly hairpiece, wig, dark hair, stand, hair texture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "good lighting"
+        ]
+      },
+      "why_kept": "This segment introduces the hairpiece, which is the product or solution being used for the transformation. It shows the quality and style of the hairpiece itself."
+    },
+    {
+      "start_time": "00:08.730",
+      "end_time": "00:11.730",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man, barber chair, full head of hair, curly hair, transformed look"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "positive",
+          "energetic",
+          "transformative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background",
+          "confident posture"
+        ]
+      },
+      "why_kept": "This is the most impactful 'hero moment,' showcasing the final 'after' state where the man has a full head of curly hair, demonstrating the successful and dramatic transformation. It serves as the primary reveal."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B-RollJumpingFallingAsleep.MOV",
+  "detailed_description": "This video features a woman joyfully interacting with two white pillows on a brown leather couch. She jumps onto the couch, immediately hugging the pillows and settling into a deeply comfortable and relaxed state. Her closed eyes and satisfied smile clearly convey a sense of comfort and contentment, highlighting the soft and inviting nature of the pillows. The scene takes place in a cozy home environment, emphasizing relaxation and personal well-being.",
+  "segments": [
+    {
+      "start_time": "00:01.600",
+      "end_time": "00:11.857",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hugging pillows",
+        "leather couch",
+        "smiling",
+        "comfort",
+        "relaxation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "cozy atmosphere"
+        ]
+      },
+      "why_kept": "This segment is the semantic core because it demonstrates key hero moments: direct product interaction (woman hugging the pillows) and a clear emotional climax (her satisfied, comfortable facial expression). It effectively conveys the product's value proposition of comfort and relaxation without any setup, dead air, or extraneous footage."
+    }
+  ]
+}

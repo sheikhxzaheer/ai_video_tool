@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mom+daughter\\ssstik.io_@ellamendelsohn_1760040099533.mp4",
+  "detailed_description": "This video features two women, likely a mother and daughter or close friends, playfully posing and interacting while showcasing their stylish outfits. The segment highlights their affectionate relationship through smiles, winks, and a warm embrace. The women exude confidence and positive energy, creating a visual narrative of shared joy and fashion. The focus is on their dynamic interaction and the aesthetic appeal of their attire.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.440",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Two women posing",
+        "Smiling",
+        "Winking",
+        "Hugging",
+        "Olive green long-sleeve dress",
+        "Black long-sleeve dress",
+        "Gold earrings",
+        "Fashion showcase"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "warm tone",
+          "confident poses",
+          "friendly interaction"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the playful interaction and positive emotions between the two women while showcasing their fashion. There are no 'setup' or 'dead air' moments; the continuous posing, smiling, and hugging constitute the primary value and 'hero moment' of this social content."
+    }
+  ]
+}

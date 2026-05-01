@@ -1,0 +1,238 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Routine\\Drinking Water_LiftLab Shots.MOV",
+  "detailed_description": "This video captures a woman's daily self-care routine, emphasizing both hydration and advanced skincare practices. It showcases her interacting with various products, from working on her laptop and staying hydrated with sparkling water to using a specialized facial massage device with green and red light therapy. The core value lies in demonstrating how these products are integrated into a busy lifestyle, offering insights into their practical application and benefits for maintaining well-being and skin health throughout the day.",
+  "segments": [
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:22.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Calm_Relaxation",
+        "Morning_Routine",
+        "Workspace_Office",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "laptop",
+        "typing",
+        "water bottle",
+        "drinking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "cozy setting"
+        ]
+      },
+      "why_kept": "This segment establishes the beginning of the daily routine, showing the subject working and initiating hydration, which is a continuous theme in the video."
+    },
+    {
+      "start_time": "00:27.000",
+      "end_time": "00:57.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Morning_Routine",
+        "Home_Kitchen",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bathroom",
+        "hair band",
+        "water bottle",
+        "glass",
+        "pouring water",
+        "drinking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "mirror reflection"
+        ]
+      },
+      "why_kept": "This segment continues the daily routine, focusing on hydration and basic self-care in a bathroom setting, setting the stage for more active skincare."
+    },
+    {
+      "start_time": "01:01.000",
+      "end_time": "01:23.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Process_Labor",
+        "Face_Reaction",
+        "Morning_Routine",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face massager",
+        "green light",
+        "applying to face",
+        "eye area"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "clinical",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear product view",
+          "skincare focus"
+        ]
+      },
+      "why_kept": "This is a primary hero moment, introducing the facial device and demonstrating its initial use with green light, clearly showing product interaction and its mechanism."
+    },
+    {
+      "start_time": "01:25.500",
+      "end_time": "01:51.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Process_Labor",
+        "Macro_Detail",
+        "Morning_Routine",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face massager",
+        "green light",
+        "red light",
+        "applying to face",
+        "forehead",
+        "cheeks"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "clinical",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed product use",
+          "light therapy visible",
+          "direct eye contact"
+        ]
+      },
+      "why_kept": "This segment provides a detailed close-up of the device's application, highlighting the transition between green and red light therapy, showcasing the product's versatility and direct impact on the skin."
+    },
+    {
+      "start_time": "01:54.000",
+      "end_time": "02:16.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Key_Information",
+        "Lifestyle_Active",
+        "Workspace_Office",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "woman",
+        "phone call",
+        "face massager",
+        "using device while talking",
+        "speaking about product"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "multitasking",
+          "casual setting",
+          "informative dialogue"
+        ]
+      },
+      "why_kept": "This segment showcases the product's integration into daily life, demonstrating its usability while multitasking and providing verbal key information about the device ('Lift Lab Sculptor')."
+    },
+    {
+      "start_time": "02:20.000",
+      "end_time": "02:35.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Calm_Relaxation",
+        "Night_Routine",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "water bottle",
+        "glass",
+        "pouring water",
+        "drinking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bedroom setting",
+          "evening routine",
+          "comfort"
+        ]
+      },
+      "why_kept": "This final segment concludes the daily routine with a focus on hydration, reinforcing the theme of consistent self-care throughout the day, from morning to evening."
+    }
+  ]
+}

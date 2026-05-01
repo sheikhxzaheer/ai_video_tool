@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Apply\\CNWM_JillianGray_011_Application.MOV",
+  "detailed_description": "The video features a woman in a pink headband applying a clear facial product to her forehead with a silicone brush. She directly addresses the camera, explaining that the product contains hyaluronic acid and niacinamide, emphasizing its beneficial ingredients. Her focused application and positive facial expression, including a smile, convey a pleasant and informative product demonstration as part of a skincare routine.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.190",
+      "structural_tags": [
+        "Product_Interaction",
+        "Ingredient_Highlight",
+        "UGC_Talking_Head",
+        "Face_Reaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink headband",
+        "silicone brush",
+        "applying product",
+        "face",
+        "hyaluronic acid",
+        "niacinamide",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "informative",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "clear lighting",
+          "skincare routine"
+        ]
+      },
+      "why_kept": "This segment is the semantic core of the video as it simultaneously demonstrates the active application of the product, highlights its key beneficial ingredients (hyaluronic acid and niacinamide) through verbal explanation, and features direct engagement with the viewer via a talking head style. There is continuous product interaction and no 'dead air' or 'setup' frames, making the entire duration a concentrated 'hero moment' of product use and information delivery."
+    }
+  ]
+}

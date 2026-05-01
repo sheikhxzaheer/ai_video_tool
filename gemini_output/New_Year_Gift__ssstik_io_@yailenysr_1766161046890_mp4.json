@@ -1,0 +1,150 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\New Year Gift\\ssstik.io_@yailenysr_1766161046890.mp4",
+  "detailed_description": "A young woman in festive plaid pajamas joyfully unwraps a Christmas gift with palpable anticipation. Her excitement culminates in a delightful shriek as she uncovers an iPad, a gift she clearly desired. She meticulously reveals the sleek device from its packaging, showcasing it with a beaming smile. She then articulates her plans to use the iPad for various purposes, including business organization, creative design, and entertainment during travel, expressing profound satisfaction with her new gadget.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Process",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "unwrapping gift",
+        "red plaid pajamas",
+        "brown box",
+        "Christmas tree"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "festive"
+        ]
+      },
+      "why_kept": "This segment captures the initial anticipation and the process of unwrapping the gift, setting the stage for the main reveal. Her verbal cues 'It's really heavy' and 'something that I wanted' build suspense."
+    },
+    {
+      "start_time": "00:23.000",
+      "end_time": "00:25.800",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Shock_Surprise",
+        "High_Energy",
+        "Face_Reaction",
+        "Reveal_Result",
+        "Product_Intro",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "pulling out iPad box",
+        "screaming with joy",
+        "red plaid pajamas",
+        "Christmas tree"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright",
+          "festive"
+        ]
+      },
+      "why_kept": "This is the core 'Hero Moment' of the video, showcasing the emotional climax of revealing the desired iPad with an authentic, high-energy reaction. It clearly demonstrates the surprise and joy associated with the gift."
+    },
+    {
+      "start_time": "00:49.000",
+      "end_time": "00:53.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Reveal_Result",
+        "Macro_Detail",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "unboxing iPad",
+        "removing plastic film",
+        "holding iPad",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean",
+          "detailed"
+        ]
+      },
+      "why_kept": "This segment provides a detailed look at the product itself, capturing the moment the iPad is fully removed from its packaging, emphasizing the product's sleek design and her satisfaction."
+    },
+    {
+      "start_time": "00:56.000",
+      "end_time": "01:04.000",
+      "structural_tags": [
+        "Key_Information",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "holding iPad",
+        "talking about use cases",
+        "smiling",
+        "red plaid pajamas"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "positive",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "conversational"
+        ]
+      },
+      "why_kept": "This segment adds value by explaining the practical applications and desire for the product, reinforcing the positive emotional connection and the product's utility, while adhering to the 'Visual Priority Rule' by keeping the product in frame."
+    }
+  ]
+}

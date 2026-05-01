@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\2.mp4",
+  "detailed_description": "This 3D animation provides a detailed cross-section view of human skin, showcasing the intricate layers, blood vessels, and hair follicles. The animation zeroes in on a single hair follicle, illustrating the biological mechanism where Dihydrotestosterone (DHT) molecules accumulate around its base. The visual representation, complete with a 'DHT' label, effectively communicates how this hormone interacts with and potentially impacts hair follicles, offering insight into a common cause of hair loss.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:08.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Cellular_Deep_Dive",
+        "Formula_Graphic"
+      ],
+      "visual_keywords": [
+        "skin cross-section",
+        "hair follicle",
+        "dermis",
+        "epidermis",
+        "blood vessels",
+        "DHT",
+        "molecules",
+        "animation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "scientific visualization",
+          "anatomical detail",
+          "clear labeling"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core, demonstrating the detailed anatomical structure of the skin and, most importantly, the animated mechanism of Dihydrotestosterone (DHT) affecting a hair follicle, which is the central informational point of the video. The animation clearly illustrates the process and labels the key hormone, making it a crucial 'Mechanism_Of_Action' moment without any extraneous footage."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Woman\\ssstik.io_@marinagudov_1761900432632.mp4",
+  "detailed_description": "The video showcases the ultimate comfort and nap-inducing quality of a large, plush modular sofa designed for relaxation. It follows a woman as she settles into the expansive white sofa, surrounded by pillows and blankets, eventually falling into a deep sleep. The scene transitions from a softly lit room with natural light filtering through large windows to a cozy, dimly lit ambiance with only warm candle light, emphasizing the luxurious and tranquil experience of napping in this comfortable setting. The on-screen text highlights the user's choice to 'nap the hardest' in this particular bed-like sofa.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman napping",
+        "large white modular sofa",
+        "cozy room",
+        "candles",
+        "dimming lights",
+        "large windows",
+        "lush greenery outside",
+        "wooden ceiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "relaxed",
+          "cozy",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm ambient lighting",
+          "natural light",
+          "modern rustic aesthetic",
+          "smooth camera movement"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it perfectly encapsulates the 'Semantic Core' of the video. It begins with the woman actively engaging with the product (the large sofa/bed) by getting comfortable, progresses through the process of her settling in and falling asleep (Product Interaction, Emotional Climax), and concludes with the room dimming to highlight the deep, uninterrupted sleep. The on-screen text provides essential context, making the entire duration a continuous demonstration of the product's value and the resulting emotional state of extreme relaxation."
+    }
+  ]
+}

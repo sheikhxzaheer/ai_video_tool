@@ -1,0 +1,59 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Treatmant_skin\\ssstik.io_@jasminnlily__1763052976228.mp4",
+  "detailed_description": "This video demonstrates the application and benefits of a hydrating facial serum. A woman is shown applying the clear, 'snail mucin-like' textured serum to her skin with a dropper, spreading it to reveal a dewy, glowing complexion. Text overlays highlight the serum's key features, including being 20% more hydrating than hyaluronic acid, suitable for sensitive skin (niacinamide & hyaluronic acid), anti-inflammatory, fungal acne safe, and effective in promoting collagen production. The video emphasizes the product's unique texture that 'melts like water' and its ability to provide intense hydration, culminating in a radiant 'hydrate and glow' look.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Macro_Detail",
+        "Product_Standalone",
+        "Positive_Emotion",
+        "Ingredient_Highlight",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "glowing skin",
+        "serum",
+        "dropper",
+        "bottle",
+        "applying",
+        "patting",
+        "spreading",
+        "stretching texture",
+        "dewy finish",
+        "glossy lips"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "clinical",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "soft focus",
+          "minimalist background",
+          "high key lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "The entire video constitutes the semantic core as it seamlessly demonstrates the product's application, unique texture, and the immediate visible result of hydrated, glowing skin. It adheres to the 'No-Mistake Rule' by starting exactly with the action and ending precisely when the demonstration is complete, making all frames essential for conveying the product's value proposition and key features through visual cues and overlaid text."
+    }
+  ]
+}

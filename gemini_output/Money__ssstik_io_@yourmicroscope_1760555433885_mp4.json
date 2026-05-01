@@ -1,0 +1,78 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Money\\ssstik.io_@yourmicroscope_1760555433885.mp4",
+  "detailed_description": "This video meticulously explores the intricate details of a 100-dollar bill by placing it under a powerful microscope. The segment begins with a clear introduction of the subject, followed by the careful process of positioning the currency on the microscope stage. The core of the video then transitions to highly magnified close-ups at 80x and 200x, revealing the hidden textures, precision printing, and the iridescent, color-shifting security features embedded in the bill, showcasing the advanced anti-counterfeiting measures and the microscopic artistry of currency design.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Process_Labor",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "hands in black gloves",
+        "100 dollar bill",
+        "microscope",
+        "adjusting lens",
+        "microscope stage"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "focused action"
+        ]
+      },
+      "why_kept": "This segment acts as the visual hook and sets up the premise of the video by introducing the object (100-dollar bill) and demonstrating the initial process of placing it under the microscope and adjusting the equipment. It's essential context for the reveal."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "01:01.000",
+      "structural_tags": [
+        "Reveal_Result",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "magnified $100 bill",
+        "green ink texture",
+        "black lines",
+        "holographic glitter",
+        "paper fibers",
+        "80x magnification",
+        "200x magnification"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "scientific",
+          "curious",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "detailed view",
+          "bright illumination",
+          "microscopic imagery"
+        ]
+      },
+      "why_kept": "This is the primary 'Hero Moment' of the video, showcasing the actual microscopic reveal of the dollar bill. It directly demonstrates the video's core value by presenting the intricate and often unseen details of the currency, fulfilling the promise made in the title and preceding setup segment."
+    }
+  ]
+}

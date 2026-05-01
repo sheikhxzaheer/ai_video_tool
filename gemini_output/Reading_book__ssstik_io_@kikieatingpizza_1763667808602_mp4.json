@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Reading book\\ssstik.io_@kikieatingpizza_1763667808602.mp4",
+  "detailed_description": "The video humorously contrasts public perception with personal reality regarding romance novel content. It begins with a woman serenely reading, accompanied by a voiceover depicting a clichéd, wholesome romance scene, representing 'what people think I read.' The scene then shifts to the woman covering her mouth in laughter as the voiceover transitions to censored explicit content, revealing 'what I actually read.' This highlights the often-spicy nature of modern romance novels versus their innocent stereotype, showcasing an emotional climax and a playful reveal.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.680",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Reveal_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "reading",
+        "book",
+        "bed",
+        "laughing",
+        "smiling",
+        "apartment",
+        "kitchenette"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "casual"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it functions as a complete narrative. The initial frames set up the 'what people think' expectation (Problem_State), while the latter part provides the 'what I actually read' reveal and emotional climax through the subject's laughter and the contrasting voiceover. Both parts are essential for the comedic effect and core message of the video, creating a single, cohesive 'Hero Moment'."
+    }
+  ]
+}

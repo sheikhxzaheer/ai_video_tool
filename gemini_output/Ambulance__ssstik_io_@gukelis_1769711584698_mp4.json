@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@gukelis_1769711584698.mp4",
+  "detailed_description": "The video captures a medical professional, wearing green scrubs and a mask, diligently transporting a patient on a gurney through a brightly lit hospital hallway. The patient, covered in a green sheet and connected to medical tubes, is carefully moved towards a set of double doors. The scene highlights the routine yet critical aspect of patient care and movement within a clinical environment, showcasing the professional's focused action in ensuring the patient's safe passage. The smooth camera work emphasizes the calm and efficient nature of the process.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:24.792",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Clinical"
+      ],
+      "visual_keywords": [
+        "medical professional",
+        "patient",
+        "hospital gurney",
+        "hospital hallway",
+        "medical transport",
+        "hospital doors",
+        "oxygen tubes"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "tracking shot",
+          "clean aesthetic",
+          "hospital setting",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it perfectly encapsulates the 'Process/Labor' hero moment, showing the professional action of transporting a patient in a medical facility. The entire video duration is dedicated to this core action, with no discernible setup, calibration, or post-action dead air, adhering to the 'No-Mistake' rule."
+    }
+  ]
+}

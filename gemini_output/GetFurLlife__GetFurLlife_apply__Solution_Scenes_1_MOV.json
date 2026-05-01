@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLlife_apply\\Solution Scenes 1.MOV",
+  "detailed_description": "The video features a husky dog lying on a concrete surface, wearing a purple collar with a FURLIFE product tag attached. The camera initially captures a wider shot of the dog, showing it lying down and occasionally shifting its head while making soft whining sounds. As the video progresses, the camera slowly zooms in, focusing on the dog's collar and providing a clear, detailed view of the FURLIFE tag. The tag highlights its '30 DAYS EFFECTIVENESS,' 'NATURAL INGREDIENTS,' 'WATER RESISTANT,' and 'NON-TOXIC' properties, along with images of a Dalmatian and a Weimaraner, effectively showcasing the product in its intended use.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Ingredient_Highlight",
+        "Calm_Relaxation",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "husky dog",
+        "dog collar",
+        "FURLIFE tag",
+        "concrete ground",
+        "dog whining",
+        "dog lying down",
+        "product details"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "handheld camera",
+          "close-up details"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it continuously demonstrates the FURLIFE product attached to a dog's collar. It begins by establishing the context of the dog wearing the product and progresses to a clear, detailed macro shot of the product tag, effectively showcasing its key features and benefits directly from the label. There is no 'dead air' or 'setup/calibration' to trim, and the entire duration contributes to the core message of product display and interaction, adhering to the 'no-mistake' rule."
+    }
+  ]
+}

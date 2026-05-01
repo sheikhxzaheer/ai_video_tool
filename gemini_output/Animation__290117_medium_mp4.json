@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\290117_medium.mp4",
+  "detailed_description": "The video features a stylized 3D animation of a human head and upper torso, depicted with translucent skin revealing a skeletal structure. The central focus is a vibrantly glowing, amber-colored brain within the skull. The brain exhibits continuous, dynamic light pulses and flashes, visually simulating intense neural activity and cognitive function against a stark, dark background. This visual serves as a compelling metaphor for thought processes, intelligence, or a highly active mind.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.600",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Aesthetic_Broll",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "glowing brain",
+        "human anatomy",
+        "neural activity",
+        "x-ray vision",
+        "digital rendering",
+        "skeleton"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "energetic",
+          "serious",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dark background",
+          "glowing effects",
+          "translucent",
+          "3D animation",
+          "futuristic"
+        ]
+      },
+      "why_kept": "This entire segment consistently displays the core visual concept of an active, glowing human brain, which is the sole 'action' and 'value' demonstrated in the video. The continuous animation of neural activity serves as the primary semantic message without any setup, dead air, or external interaction."
+    }
+  ]
+}

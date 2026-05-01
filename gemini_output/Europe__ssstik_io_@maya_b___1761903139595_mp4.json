@@ -1,0 +1,242 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Europe\\ssstik.io_@maya_b___1761903139595.mp4",
+  "detailed_description": "This video serves as a travel guide, outlining '5 Things to Do in Lisbon' for Euro summer. It covers key attractions like the vibrant Feira da Ladra market, the trendy LX Factory converted from an industrial site, and scenic 'miradouros' offering breathtaking sunset views. The guide also recommends a day trip to Sintra to explore its historic castles and highlights Lisbon's diverse and incredible food scene, providing a list of favorite cafes and restaurants.",
+  "segments": [
+    {
+      "start_time": "00:01.096",
+      "end_time": "00:05.106",
+      "structural_tags": [
+        "Visual_Hook",
+        "Travel_Transit",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Lisbon skyline",
+        "sunset",
+        "cobbled street",
+        "market entrance",
+        "people"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright daylight",
+          "colorful sunset",
+          "dynamic cuts"
+        ]
+      },
+      "why_kept": "This segment serves as the visual and textual introduction to the video's core theme: '5 Things to Do in Lisbon,' immediately engaging the viewer with iconic cityscapes and vibrant market scenes."
+    },
+    {
+      "start_time": "00:05.106",
+      "end_time": "00:12.300",
+      "structural_tags": [
+        "Key_Information",
+        "Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Travel_Transit",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "market stalls",
+        "jewelry",
+        "rings",
+        "postcards",
+        "people browsing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "calm",
+          "exploratory"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "daylight",
+          "detailed close-ups",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment details the first recommendation, the Feira da Ladra market, showcasing the browsing process, the diverse items sold (jewelry, postcards), and the 'result' of shopping (new rings), directly fulfilling the guide's purpose."
+    },
+    {
+      "start_time": "00:12.700",
+      "end_time": "00:21.900",
+      "structural_tags": [
+        "Key_Information",
+        "Process_Labor",
+        "Travel_Transit",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "LX Factory",
+        "industrial site",
+        "shops",
+        "restaurants",
+        "bookstore",
+        "records",
+        "people walking",
+        "bridge"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "indoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "exploratory"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "daylight",
+          "urban",
+          "multi-level architecture"
+        ]
+      },
+      "why_kept": "This segment introduces LX Factory, explaining its concept and visually demonstrating the experience of browsing shops and restaurants within this converted industrial space, providing key information for a visitor."
+    },
+    {
+      "start_time": "00:22.000",
+      "end_time": "00:29.500",
+      "structural_tags": [
+        "Key_Information",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Travel_Transit",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Lisbon skyline",
+        "sunset",
+        "Miradouro da Senhora do Monte",
+        "city lights"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "beautiful",
+          "romantic"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "vibrant colors",
+          "golden hour",
+          "panoramic view"
+        ]
+      },
+      "why_kept": "This segment highlights visiting Lisbon's miradouros for beautiful views and incredible sunsets, specifically naming the recommended spot. It captures the 'reveal' of a stunning sunset and evokes positive emotions, central to a travel guide."
+    },
+    {
+      "start_time": "00:29.500",
+      "end_time": "00:37.500",
+      "structural_tags": [
+        "Key_Information",
+        "Travel_Transit",
+        "Aesthetic_Broll",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "Sintra",
+        "Pena Palace",
+        "Quinta da Regaleira",
+        "castles",
+        "ornate architecture",
+        "gardens",
+        "people walking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "awe-inspiring",
+          "historical",
+          "majestic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright daylight",
+          "colorful buildings",
+          "lush greenery"
+        ]
+      },
+      "why_kept": "This segment details the recommendation for a day trip to Sintra, showcasing the iconic and beautiful castles like Pena Palace and Quinta da Regaleira. It conveys the unique architectural beauty and provides practical travel information, essential for the guide."
+    },
+    {
+      "start_time": "00:37.500",
+      "end_time": "00:47.450",
+      "structural_tags": [
+        "Key_Information",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "food dishes",
+        "sushi",
+        "ceviche",
+        "dim sum",
+        "iced coffee",
+        "Cafe Tehran",
+        "restaurant interiors",
+        "restaurant names"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "outdoor",
+          "other"
+        ],
+        "mood": [
+          "delicious",
+          "indulgent",
+          "satisfying"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "appetizing close-ups",
+          "warm lighting",
+          "handwritten text overlays"
+        ]
+      },
+      "why_kept": "This final segment focuses on Lisbon's food scene, showcasing various dishes and drinks, and critically, providing specific restaurant recommendations. It demonstrates 'product interaction' with food and delivers crucial 'key information' for culinary exploration, completing the '5 things to do' list."
+    }
+  ]
+}

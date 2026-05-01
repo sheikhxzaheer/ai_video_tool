@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Product\\CNWM_JillianGray_00_Packaging.MOV",
+  "detailed_description": "The video features a woman with a pink bow headband unboxing a new skincare product. She begins by presenting a pink product box from a brand called 'QUIA,' smiling at the camera. She then proceeds to unseal and open the box, carefully extracting a pink tube labeled 'QUIA Collagen Night Mask.' The video concludes with her holding up the newly revealed product, maintaining a cheerful and satisfied expression, highlighting a positive unboxing experience.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.700",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink headband",
+        "smiling",
+        "unboxing",
+        "pink product box",
+        "QUIA",
+        "Collagen Night Mask",
+        "pink tube",
+        "presenting product"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean background",
+          "casual wear"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully captures the product introduction, the act of unboxing (product interaction), and the positive emotional reaction of the subject upon revealing the product. It adheres to the 'No-Mistake' rule as the action starts immediately and ends with the successful presentation of the product."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1750972333654.mp4",
+  "detailed_description": "This video humorously captures a man's decision about getting a haircut. It begins with him showcasing his somewhat messy, unstyled gray hair while contemplating a visit to the barber. After a brief visual transition, he reveals his hair now neatly styled, along with a textual overlay indicating he has changed his mind about the haircut for the moment. The content highlights a subtle transformation and a relatable moment of personal grooming choices.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.500",
+      "structural_tags": [
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man",
+        "gray hair",
+        "touching hair",
+        "messy hair",
+        "beard",
+        "home interior"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "contemplative",
+          "casual"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "handheld camera"
+        ]
+      },
+      "why_kept": "This segment establishes the initial problem state (messy hair, considering a haircut) and shows the process of the man trying to style his hair, making it a key 'Problem_State' and 'Process' moment. The text overlay provides crucial context."
+    },
+    {
+      "start_time": "00:11.000",
+      "end_time": "00:21.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man",
+        "gray hair",
+        "styled hair",
+        "touching hair",
+        "beard",
+        "kitchen",
+        "smile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "satisfied",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "handheld camera",
+          "kitchen utensils in background"
+        ]
+      },
+      "why_kept": "This segment is the 'reveal' of the transformation, showing the man's hair styled and his subsequent decision not to get a haircut. His satisfied expression and the accompanying text convey the resolution and emotional climax, making it crucial for the semantic core."
+    }
+  ]
+}

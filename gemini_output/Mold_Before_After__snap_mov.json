@@ -1,0 +1,41 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold Before_After\\snap.mov",
+  "detailed_description": "This video captures the straightforward action of turning on a bathtub faucet. A human hand manipulates the faucet handle, causing water to flow into the tub. The clip effectively demonstrates the functional interaction with a common bathroom fixture, showcasing the immediate result of operating the control.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.568",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "hand",
+        "bathtub",
+        "faucet",
+        "water",
+        "shower head",
+        "tiles"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "everyday action"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully demonstrates the 'Product Interaction' (turning the faucet) and the immediate 'Result_Transformation' (water flowing into the tub). The entire duration captures the complete, uninterrupted action without any setup, dead air, or mistakes, adhering to the 'No-Mistake' rule."
+    }
+  ]
+}

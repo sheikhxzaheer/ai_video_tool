@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Peeling\\CNWM_JillianGray_026_Peeling.MOV",
+  "detailed_description": "This video captures a satisfying beauty ritual as a person adorned with a pink headband carefully peels off a translucent face mask. The core value lies in demonstrating the peel-off process, revealing the mask's texture and the clean skin underneath. The subject maintains a pleasant, satisfied expression, emphasizing the positive experience of using the product. The clip focuses on the tactile interaction with the mask and the visual transformation it offers, concluding with a clear shot of the peeled mask held up to the camera.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.119",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "peeling face mask",
+        "pink headband",
+        "satisfied smile",
+        "peeled mask",
+        "clear mask"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "satisfied",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "natural skin",
+          "casual style",
+          "vertical video"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it perfectly encapsulates the 'Hero Moment' criteria. It shows the 'Process/Labor' of peeling the mask, the 'Product Interaction' as the mask is removed, the 'Reveal/Result' of the peeled mask, and the 'Emotional Climax' through the subject's satisfied smile. The action starts precisely at the beginning and ends naturally with the display of the peeled mask, adhering to the 'No-Mistake Rule'."
+    }
+  ]
+}

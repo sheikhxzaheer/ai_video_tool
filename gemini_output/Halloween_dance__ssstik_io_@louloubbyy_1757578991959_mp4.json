@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Halloween_dance\\ssstik.io_@louloubbyy_1757578991959.mp4",
+  "detailed_description": "This video features a playful interaction between a woman dressed as a police officer and a man in an orange prisoner jumpsuit, set to a song about being in love with a criminal. The woman exhibits a flirtatious demeanor, using her police props like a baton and handcuffs, and engaging with the man through gestures and facial expressions. The core meaning is a lighthearted role-play, emphasizing a 'cop and criminal' dynamic with positive and engaging emotions.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.655",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "police costume",
+        "police badge",
+        "police hat",
+        "handcuffs",
+        "baton",
+        "man",
+        "prisoner jumpsuit",
+        "braids",
+        "smiling",
+        "flirting",
+        "role-play"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "good lighting",
+          "clean background",
+          "costume play"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core. It immediately introduces the characters in their themed costumes and captures the complete playful, flirtatious interaction central to the video's narrative and audio. There are no setup or post-action dead air frames, and all actions contribute to the 'hero moment' of the role-play."
+    }
+  ]
+}

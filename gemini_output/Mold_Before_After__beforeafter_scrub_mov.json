@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold Before_After\\beforeafter scrub.mov",
+  "detailed_description": "This video concisely demonstrates the effectiveness of 'MoldMD Mold Spot Remover'. It captures the full cleaning process, starting with the application of the spray onto a dirty shower drain. The product is then actively worked in with a brush, dislodging grime, and finally wiped clean with a cloth, revealing a visibly transformed, spotless surface. The entire sequence highlights the product's direct interaction and immediate results in a home cleaning scenario.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.958",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "spray bottle",
+        "MoldMD",
+        "mold spot remover",
+        "shower drain",
+        "scrubbing",
+        "red brush",
+        "gray cloth",
+        "cleaning",
+        "grime",
+        "dirty drain",
+        "clean drain"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct focus",
+          "clear demonstration"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it visually captures the entire process from product application to the final clean result. It demonstrates the 'Product Interaction' (spraying MoldMD), 'Process/Labor' (scrubbing and wiping), and the 'Reveal/Result' (the dirty drain becoming clean). The full value proposition of the product is shown in this continuous, action-oriented sequence, making it a complete 'Hero Moment'."
+    }
+  ]
+}

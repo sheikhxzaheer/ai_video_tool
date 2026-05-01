@@ -1,0 +1,174 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Halloween_dance\\ssstik.io_@_verdegrun_1757651816971.mp4",
+  "detailed_description": "This video features a dramatic and performative scene with two individuals in elaborate gothic and vampire-themed Halloween costumes. Set outdoors at night against an elegant building, a woman in a black corset and a flowing skirt poses provocatively, while a man in a suit with skull-like makeup engages in a brief, chilling interaction, seemingly revealing a bloody prop from his jacket. The sequence is intensified by a menacing voiceover stating, 'If I can't have you, no one can,' culminating in the woman's wide, unsettling smile, effectively capturing a dark, possessive narrative for a spooky aesthetic.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.090",
+      "structural_tags": [
+        "Visual_Hook",
+        "Positive_Emotion",
+        "Aesthetic_Broll",
+        "Face_Reaction",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "woman posing",
+        "gothic costume",
+        "vampire makeup",
+        "menacing smile",
+        "night scene"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "playful",
+          "other"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "night lighting",
+          "dramatic costumes",
+          "gothic aesthetic",
+          "horror theme",
+          "dark makeup"
+        ]
+      },
+      "why_kept": "This segment immediately establishes the dramatic, gothic theme and the main character's persona with a strong visual hook and expressive pose, setting the stage for the narrative."
+    },
+    {
+      "start_time": "00:00.090",
+      "end_time": "00:04.990",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Visual_Hook",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman posing",
+        "man with skull makeup",
+        "gothic costumes",
+        "interaction",
+        "hand grabbing",
+        "tongue out"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "playful",
+          "other"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "night lighting",
+          "dramatic costumes",
+          "gothic aesthetic",
+          "horror theme",
+          "dark makeup"
+        ]
+      },
+      "why_kept": "This segment introduces the second character and their interaction, building on the initial visual and deepening the themed narrative. The woman's reaction adds to the performance."
+    },
+    {
+      "start_time": "00:04.990",
+      "end_time": "00:06.900",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Aesthetic_Broll",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "man's reveal",
+        "red prop",
+        "woman's reaction",
+        "gothic costume",
+        "vampire theme"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "playful",
+          "other"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "night lighting",
+          "dramatic costumes",
+          "gothic aesthetic",
+          "horror theme",
+          "dark makeup"
+        ]
+      },
+      "why_kept": "This is a key 'reveal' moment where the man subtly shows a 'bloody' prop, directly supporting the horror/vampire theme implied by the costumes and voiceover, marking a narrative turning point."
+    },
+    {
+      "start_time": "00:06.900",
+      "end_time": "00:09.120",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman smiling",
+        "menacing expression",
+        "final pose",
+        "gothic costume",
+        "night scene"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "playful",
+          "other"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "night lighting",
+          "dramatic costumes",
+          "gothic aesthetic",
+          "horror theme",
+          "dark makeup"
+        ]
+      },
+      "why_kept": "This segment captures the emotional climax with the woman's wide, sinister smile and confident final pose, perfectly encapsulating the dark, playful, and dramatic essence of the Halloween-themed performance. It provides a strong, memorable conclusion to the narrative."
+    }
+  ]
+}

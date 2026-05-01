@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid naughty\\ssstik.io_@abbyersan_1763667986900.mp4",
+  "detailed_description": "The video captures a charming and humorous moment of a young child asleep on an airplane. The child is wearing a leopard print jacket and pink pants, nestled face-first into the seat in front, with their head pressed firmly against the backrest. The scene is accompanied by a comical, almost animalistic sound effect, emphasizing the unexpected and endearing way the child has managed to fall asleep during transit. A text overlay queries, 'idk why she fell asleep like this 😂', highlighting the unique and amusing nature of the sleeping position.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.800",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "baby sleeping",
+        "airplane seat",
+        "leopard print jacket",
+        "pink pants",
+        "airplane window",
+        "head pressed into seat",
+        "pigtails",
+        "water bottle"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "handheld shot",
+          "casual",
+          "slice of life"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it fully captures and delivers the singular, humorous, and endearing moment of the child's unusual sleeping position on the airplane, directly aligning with the video's explicit message and intent."
+    }
+  ]
+}

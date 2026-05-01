@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Skin is peeled off\\snaptik_7419192106125774086 (1).mp4",
+  "detailed_description": "The video demonstrates a cosmetic procedure designed to remove hyperpigmentation from a woman's face. A professional, wearing gloves, meticulously peels off a translucent film from the client's skin. As the film is removed, it visibly lifts away dark spots and areas of uneven skin tone, revealing a clearer, freshly treated complexion underneath. The process visually highlights the efficacy of the treatment in addressing skin discoloration.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:46.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "facial peel",
+        "skin treatment",
+        "hyperpigmentation removal",
+        "dark spots",
+        "peeling skin",
+        "gloved hands",
+        "face",
+        "cosmetic procedure"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "transformative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "professional setup",
+          "detailed view"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it perfectly encapsulates the 'Process/Labor' and 'Reveal/Result' hero moments. It continuously shows the action of peeling a film to remove hyperpigmentation, clearly demonstrating the core value and transformation of the treatment without any setup, calibration, or post-action dead air."
+    }
+  ]
+}

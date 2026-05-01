@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Product\\CNWM_JillianGray_05_Packaging.MOV",
+  "detailed_description": "A young woman, wearing a distinctive pink bunny headband, introduces and presents a 'Quia Collagen Night Wrapping Mask'. She holds the product up, clearly displaying its branding, while explaining its straightforward application as the final step in a nighttime skincare routine. Her friendly demeanor and smile convey ease of use and a positive user experience, making this segment a clear product introduction with key usage information.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Key_Information",
+        "Night_Routine",
+        "Positive_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink headband",
+        "black top",
+        "skincare product",
+        "pink tube",
+        "Quia Collagen Night Wrapping Mask",
+        "smiling",
+        "presenting product"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "direct address",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it clearly introduces the product, demonstrates active product interaction by holding it prominently, and delivers essential information regarding its application and integration into a nighttime routine. The speaker's engaging, smiling facial expression and direct address contribute to a positive emotional climax, aligning with the 'Product Interaction', 'Key Information', and 'Emotional Climax' hero moment criteria."
+    }
+  ]
+}

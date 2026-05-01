@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\6.mp4",
+  "detailed_description": "The video illustrates the process of hair growth stimulation using a specialized device. It begins by showing the animated growth and darkening of hair within a follicle, followed by a user applying a red-light therapy device to their scalp. The video then delves into a microscopic view, demonstrating how the red light penetrates the skin to stimulate blood vessels and hair follicles at a cellular level, promoting healthier and more robust hair growth. This cohesive sequence explains the product's function and benefits.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Cellular_Deep_Dive",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Result_Transformation",
+        "Micro_Nutrients_Anim",
+        "Formula_Graphic"
+      ],
+      "visual_keywords": [
+        "hair follicle",
+        "skin layers",
+        "hair growth",
+        "device",
+        "red light",
+        "scalp",
+        "blood vessels",
+        "cellular stimulation",
+        "animation",
+        "3D render"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "3D animation",
+          "scientific visualization",
+          "clear lighting",
+          "explanatory"
+        ]
+      },
+      "why_kept": "This entire video segment serves as the 'Semantic Core' by cohesively demonstrating the problem (hair thinning/weakness, implied by the initial follicle state), the solution (using the red-light device), and the scientific mechanism by which the product achieves hair growth and follicle stimulation, presented through a combination of animated scientific illustration and product interaction. It starts and ends precisely with the core action and explanation, fulfilling the 'No-Mistake Rule'."
+    }
+  ]
+}

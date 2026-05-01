@@ -1,0 +1,151 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Gym\\Woman\\ssstik.io_@ranyadallyfbb_1769069332903.mp4",
+  "detailed_description": "This video serves as an educational guide on how different grip types significantly influence muscle engagement during back exercises. It explicitly demonstrates the pronated grip, where palms face down, emphasizing its role in activating the upper back, lats, and rear deltoids, and showcases this with lat pulldowns and barbell rows. Conversely, the supinated grip, with palms facing up, is presented as a technique that increases bicep involvement and elbow flexion strength, illustrated through exercises like supinated lat pulldowns and machine rows. The video highlights that using the same exercise with a different grip provides a distinct muscular stimulus. It provides practical advice, suggesting a pronated grip for more back focus and a supinated grip for greater bicep activation. Ultimately, the video encourages viewers to choose their grip intentionally based on their specific fitness goals, concluding with a call to action to save the video for future reference.",
+  "segments": [
+    {
+      "start_time": "00:03.500",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Key_Information",
+        "Macro_Detail",
+        "Process_Labor",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "pronated grip",
+        "palms down",
+        "lat pulldown",
+        "barbell row",
+        "back muscles",
+        "muscle definition",
+        "gym equipment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear text overlay",
+          "dynamic camera angles",
+          "focused on exercise form"
+        ]
+      },
+      "why_kept": "This segment introduces and demonstrates the pronated grip with clear visual cues (text overlay, close-up on hands), shows the exercise in action, and even highlights the resulting muscle development, making it a strong anchor for the video's core message."
+    },
+    {
+      "start_time": "00:17.500",
+      "end_time": "00:26.000",
+      "structural_tags": [
+        "Key_Information",
+        "Macro_Detail",
+        "Process_Labor",
+        "Mechanism_Of_Action",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "supinated grip",
+        "palms up",
+        "lat pulldown",
+        "machine row",
+        "gym equipment"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear text overlay",
+          "dynamic camera angles",
+          "focused on exercise form"
+        ]
+      },
+      "why_kept": "This segment clearly introduces and demonstrates the supinated grip, mirroring the structure of the pronated grip explanation. It's essential for comparing the two grip types and their effects on muscle activation."
+    },
+    {
+      "start_time": "00:29.500",
+      "end_time": "00:38.000",
+      "structural_tags": [
+        "Key_Information",
+        "Process_Labor",
+        "Mechanism_Of_Action",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "pronated grip",
+        "supinated grip",
+        "lat pulldown",
+        "barbell row",
+        "different stimulus",
+        "gym equipment"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "serious",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "text overlay for comparison",
+          "demonstrating transitions in grip"
+        ]
+      },
+      "why_kept": "This segment visually emphasizes the core message that different grips provide different stimuli for the same exercise and provides direct advice on which grip to use for specific muscle group focus, reinforcing the educational value."
+    },
+    {
+      "start_time": "00:39.500",
+      "end_time": "00:43.000",
+      "structural_tags": [
+        "Offer_CTA",
+        "Key_Information",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "speaker",
+        "call to action text",
+        "earbud"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "informative",
+          "friendly"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address to camera",
+          "text overlay for CTA"
+        ]
+      },
+      "why_kept": "This segment delivers a clear call to action and a concluding summary of the video's value, encouraging viewer engagement and retention of the information presented."
+    }
+  ]
+}

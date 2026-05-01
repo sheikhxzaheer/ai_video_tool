@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\ssstik.io_1744132314900.mp4",
+  "detailed_description": "The video features a young man demonstrating the progress of his hair regrowth after four months of treatment with finasteride and minoxidil. He repeatedly lifts sections of his light brown hair to reveal his frontal hairline and scalp, showcasing the new, finer hairs that have grown. The clip effectively highlights the transformation and increased density of his hair in the treated areas over the four-month period, serving as a personal testimony of the treatment's results.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:14.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Before_After",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair",
+        "scalp",
+        "hairline",
+        "hair regrowth",
+        "fingers lifting hair",
+        "forehead",
+        "acne"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "focused",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "self-shot",
+          "progress demonstration",
+          "authentic"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it directly demonstrates the claimed result of using finasteride and minoxidil for four months. The subject actively lifts his hair multiple times to clearly reveal the hairline and scalp, showing visible hair regrowth and increased density, which is the primary value proposition and 'Reveal/Result' hero moment of the video. The text overlay immediately sets the context, making the entire duration of the visual demonstration crucial for understanding the impact of the treatment."
+    }
+  ]
+}

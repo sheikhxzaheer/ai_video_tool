@@ -1,0 +1,217 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_Ugne Jureviciute_Product Demo.mp4",
+  "detailed_description": "This video showcases a Korean beauty routine featuring two products from QUIA: a Collagen Niacinamide Jelly Cream and a Collagen Night Wrapping Mask. It demonstrates the unboxing and unique textures of both products, followed by their application onto the face and neck using a spatula. The highlight includes the satisfying peel-off of the wrapping mask, emphasizing its transformative effect, and concludes with the user happily displaying both products for a complete skincare experience.",
+  "segments": [
+    {
+      "start_time": "00:01.218",
+      "end_time": "00:03.955",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "pink box",
+        "jar",
+        "jelly cream",
+        "spatula",
+        "texture"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This segment clearly introduces the first product, its packaging, and its distinctive jelly texture through unboxing and stirring, which is a key product interaction."
+    },
+    {
+      "start_time": "00:04.281",
+      "end_time": "00:06.881",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Night_Routine",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "neck",
+        "spatula",
+        "applying cream",
+        "spreading cream"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "skincare application"
+        ]
+      },
+      "why_kept": "This segment is crucial for demonstrating the direct application of the jelly cream to the user's face and neck, showcasing the 'process' of using the product effectively."
+    },
+    {
+      "start_time": "00:08.571",
+      "end_time": "00:11.138",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "pink box",
+        "tube",
+        "clear gel",
+        "spatula",
+        "dripping"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This segment introduces the second product, the wrapping mask, and highlights its unique clear gel texture as it's squeezed onto a spatula, demonstrating a key product characteristic."
+    },
+    {
+      "start_time": "00:11.238",
+      "end_time": "00:15.938",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Night_Routine",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "spatula",
+        "applying mask",
+        "shining skin",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "skincare application"
+        ]
+      },
+      "why_kept": "This segment shows the detailed application of the wrapping mask, which is a core 'process' moment, combined with the user's positive reaction to the product."
+    },
+    {
+      "start_time": "00:19.497",
+      "end_time": "00:20.597",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "hand",
+        "peeling mask",
+        "clear film"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This is a key 'reveal' moment, demonstrating the unique peel-off functionality of the wrapping mask and showing a tangible 'result' of product interaction."
+    },
+    {
+      "start_time": "00:20.731",
+      "end_time": "00:21.431",
+      "structural_tags": [
+        "Product_Standalone",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "holding two products",
+        "pink products"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment serves as a strong concluding shot, showing both featured products together with a clear positive emotional response from the user, reinforcing product appeal."
+    }
+  ]
+}

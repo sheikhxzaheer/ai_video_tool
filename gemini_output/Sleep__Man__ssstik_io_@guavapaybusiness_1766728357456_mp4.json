@@ -1,0 +1,153 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Man\\ssstik.io_@guavapaybusiness_1766728357456.mp4",
+  "detailed_description": "This video humorously portrays the relentless mental burden faced by small business owners, even during sleep. It showcases a man repeatedly trying to rest, only to be jolted awake by anxieties related to his business, such as refunds, negative reviews, low stock, and the looming deadline to file tax returns. Each abrupt awakening, accompanied by a worried or frustrated facial expression, highlights the difficulty entrepreneurs have in disengaging from work, illustrating a common problem of balancing life and business responsibilities and the struggle for restful sleep amidst constant operational concerns.",
+  "segments": [
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:04.100",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Financial_Stress",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "man sleeping",
+        "flinching",
+        "worried expression",
+        "refund notification",
+        "bed"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "stressed"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "focused on facial expressions"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates an 'Emotional Climax' through the subject's flinch and frustrated facial expression in response to a business-related thought ('Refund'), effectively showing a 'Problem State' and 'Negative_Emotion' of a small business owner trying to sleep."
+    },
+    {
+      "start_time": "00:06.700",
+      "end_time": "00:09.600",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "man sleeping",
+        "flinching",
+        "stressed expression",
+        "negative review notification",
+        "bed"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "stressed"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "focused on facial expressions"
+        ]
+      },
+      "why_kept": "This segment also serves as an 'Emotional Climax', showing another distinct 'Problem State' ('Negative review') and the subject's negative emotional reaction, reinforcing the core message of the video's theme."
+    },
+    {
+      "start_time": "00:11.700",
+      "end_time": "00:14.700",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "man sleeping",
+        "flinching",
+        "worried expression",
+        "low stock notification",
+        "bed"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "stressed"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "focused on facial expressions"
+        ]
+      },
+      "why_kept": "As another instance of an 'Emotional Climax', this segment illustrates a different 'Problem State' ('Low stock') and the accompanying 'Negative_Emotion', further building on the relatable struggles of a small business owner."
+    },
+    {
+      "start_time": "00:17.000",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Financial_Stress",
+        "Shock_Surprise",
+        "Urgency_Rush",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "man sleeping",
+        "sudden wake up",
+        "alarm sound",
+        "wide eyes",
+        "stressed expression",
+        "tax return notification",
+        "bed"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "stressed"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "focused on facial expressions",
+          "abrupt change"
+        ]
+      },
+      "why_kept": "This is the strongest 'Emotional Climax' and the primary 'Hero Moment' of the video. It showcases a dramatic shift from sleep to full wakefulness due to an urgent business concern ('File tax return' with an alarm), embodying the 'Problem_State' with clear 'Shock_Surprise' and 'Urgency_Rush'. It encapsulates the core meaning of the video most intensely and conclusively."
+    }
+  ]
+}

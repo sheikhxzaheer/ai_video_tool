@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of Revision Hook #1 BDailey.MP4",
+  "detailed_description": "The video's semantic core features a woman delivering key information directly to the camera. She smiles and clearly states the main topic of her video, expressing her regret over buying a specific product. During her statement, she picks up an empty glass, adding a subtle visual element to her presentation.",
+  "segments": [
+    {
+      "start_time": "00:03.950",
+      "end_time": "00:06.660",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "smiling",
+        "holding glass",
+        "blonde hair",
+        "white top"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "informative",
+          "friendly"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment is kept as the 'Semantic Core' because it contains the speaker's explicit statement of the video's main topic ('Three reasons why I regret buying this fluffco pillow'), which is the core information being conveyed. Although the 'fluffco pillow' is not present, this is a 'Key Information' talking head segment, and the interaction with the glass during the statement adds a dynamic visual element. This is the sole 'Hero Moment' within the video."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\4.mp4",
+  "detailed_description": "This animated video showcases a detailed cross-section of human skin, illustrating its layers, hair follicles, blood vessels, and nerve endings. A scalp massage device with rotating brush heads is introduced into the frame, demonstrating its interaction with the skin's surface. The animation effectively visualizes the massaging action, providing insight into the mechanism of how such a device might stimulate the scalp.",
+  "segments": [
+    {
+      "start_time": "00:00:02.000",
+      "end_time": "00:00:08.567",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Macro_Detail",
+        "Cellular_Deep_Dive",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "scalp massage device",
+        "rotating brushes",
+        "skin cross-section",
+        "hair follicle",
+        "dermis",
+        "epidermis",
+        "blood vessels",
+        "nerves",
+        "massage action"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "3D animation",
+          "medical illustration",
+          "scientific visualization"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the core function and mechanism of action of the product (scalp massage device) interacting with the animated skin, which is the primary value and information conveyed by the video."
+    }
+  ]
+}

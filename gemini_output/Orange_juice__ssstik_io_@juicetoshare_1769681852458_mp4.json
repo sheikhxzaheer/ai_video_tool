@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Orange juice\\ssstik.io_@juicetoshare_1769681852458.mp4",
+  "detailed_description": "The video provides a clear and concise demonstration of making a fresh, healthy juice. It meticulously shows the process of adding key ingredients—carrots, oranges, and ginger—into a juicer. The footage then captures the juicer efficiently extracting the vibrant orange liquid, culminating in the satisfying pour of the freshly made juice into a glass, presented as part of a 'Detox Day 6' regimen. This segment highlights both the product's function and the visually appealing result of healthy juice preparation.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:11.75",
+      "structural_tags": [
+        "Visual_Hook",
+        "Home_Kitchen",
+        "Human_Interaction",
+        "Product_Present",
+        "Ingredient_Highlight",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "carrots",
+        "oranges",
+        "ginger",
+        "juicer",
+        "juice",
+        "pouring",
+        "glass",
+        "hands"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "overhead shots",
+          "smooth pouring",
+          "vibrant colors",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it clearly demonstrates the full process of making juice, from ingredient placement and product interaction (juicer operation) to the final result of the freshly poured drink. It highlights key ingredients and implicitly promotes a healthy lifestyle, meeting all 'hero moment' criteria for process, product interaction, and result."
+    }
+  ]
+}

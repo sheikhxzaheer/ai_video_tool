@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_25.mp4",
+  "detailed_description": "The video captures a woman lying on a bed, actively laughing and smiling, expressing clear positive emotion and relaxation. She is playfully moving her legs and arms while in bed, indicating a moment of lightheartedness and comfort. A text overlay suggests a positive context, like 'everything is sorted,' reinforcing the cheerful mood.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.100",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Home",
+        "Calm_Relaxation",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "woman",
+        "lying on bed",
+        "laughing",
+        "smiling",
+        "white bedding",
+        "bedroom",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "casual",
+          "relaxed vibe"
+        ]
+      },
+      "why_kept": "This segment captures the main subject experiencing a clear moment of positive emotion through active laughter and smiling, combined with playful movement while relaxed on a bed. The entire duration shows this emotional climax without any setup or post-action dead air, making it the complete semantic core."
+    }
+  ]
+}

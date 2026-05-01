@@ -1,0 +1,41 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\GarageShot1.mp4",
+  "detailed_description": "This video features a direct product interaction, showcasing a hand reaching for and retrieving a white spray bottle of \"MoldMD Mold Spot Remover\" from a storage shelf. The action is brief and to the point, emphasizing the product itself and its accessibility within a home or utility setting. It highlights the moment of selecting the cleaning product, ready for use.",
+  "segments": [
+    {
+      "start_time": "00:00:000",
+      "end_time": "00:03:040",
+      "structural_tags": [
+        "Product_Interaction",
+        "Product_Intro",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hand",
+        "MoldMD spray bottle",
+        "mold spot remover",
+        "storage shelf",
+        "green container"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "neutral",
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it perfectly encapsulates a 'Product Interaction' hero moment. The hand reaching for, grasping, and removing the 'MoldMD Mold Spot Remover' bottle is the core action and value demonstration of this video, with no extraneous footage before or after the key event, adhering to the 'No-Mistake Rule'."
+    }
+  ]
+}

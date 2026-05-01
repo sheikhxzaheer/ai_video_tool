@@ -1,0 +1,203 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\Bald spot\\ssstik.io_1746537105116.mp4",
+  "detailed_description": "The video humorously showcases a bald man's imaginary hair transformation through ASMR sounds and exaggerated movements. Using a hair comb and kitchen tongs, he playfully simulates the process of 'growing' long, curly hair, culminating in the sudden appearance of a voluminous wig. The video blends comedic acting with sound effects to illustrate a 'before and after' hair journey, ending with the wig vanishing, returning him to his bald state, while engaging the viewer with a direct question.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Reveal_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Humor"
+      ],
+      "visual_keywords": [
+        "bald man",
+        "black hair clip",
+        "curly wig",
+        "hair transformation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "humorous"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct address",
+          "comedic timing"
+        ]
+      },
+      "why_kept": "This segment establishes the entire premise of the video: a humorous before-and-after hair transformation, immediately engaging the viewer with a visual hook and setting the stage for the comedic process."
+    },
+    {
+      "start_time": "00:04.600",
+      "end_time": "00:31.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Process_Labor",
+        "ASMR",
+        "High_Energy",
+        "Positive_Emotion",
+        "Emotional_Climax",
+        "Humor",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "black hair comb",
+        "scratching sounds",
+        "head scratching",
+        "body scratching",
+        "exaggerated movements",
+        "sigh of relief"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "humorous"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sound effects",
+          "exaggerated acting",
+          "close-up on comb"
+        ]
+      },
+      "why_kept": "This segment demonstrates the first 'tool' (the comb) and its playful 'mechanism of action' through ASMR sounds and exaggerated full-body 'grooming.' It's a key part of the humorous 'process' leading to the desired hair transformation, ending with a comedic emotional climax."
+    },
+    {
+      "start_time": "00:31.700",
+      "end_time": "00:50.800",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Process_Labor",
+        "ASMR",
+        "High_Energy",
+        "Positive_Emotion",
+        "Emotional_Climax",
+        "Humor"
+      ],
+      "visual_keywords": [
+        "metal tongs",
+        "clacking sounds",
+        "ear interaction",
+        "body movements",
+        "exaggerated facial expressions"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "humorous"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sound effects",
+          "exaggerated acting",
+          "dynamic movements"
+        ]
+      },
+      "why_kept": "This segment introduces the second 'tool' (tongs) and continues the comedic 'process' of hair growth through ASMR sounds and highly expressive, energetic physical interaction. It maintains the humorous tone and builds anticipation for the final 'result.'"
+    },
+    {
+      "start_time": "00:51.500",
+      "end_time": "01:02.000",
+      "structural_tags": [
+        "Reveal_Transformation",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Humor"
+      ],
+      "visual_keywords": [
+        "long curly wig",
+        "hair flip",
+        "playing with hair",
+        "smiling",
+        "direct question"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sudden appearance",
+          "expressive gestures",
+          "direct address to camera"
+        ]
+      },
+      "why_kept": "This is the primary reveal of the 'transformed' hair (the wig), showcasing its appearance and the man's playful, high-energy interaction with it. It includes a direct question to the audience ('Do you love it?'), acting as both a call to action and a key information point, reinforcing the video's lighthearted engagement."
+    },
+    {
+      "start_time": "01:02.000",
+      "end_time": "01:05.000",
+      "structural_tags": [
+        "Reveal_Transformation",
+        "Before_After",
+        "Humor",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "wig disappearing",
+        "hair flip",
+        "bald head",
+        "snapping fingers",
+        "calm expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "humorous"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "reverse transformation",
+          "comedic resolution"
+        ]
+      },
+      "why_kept": "This segment provides a humorous and unexpected conclusion to the transformation narrative, showing the wig disappearing and the man returning to his bald state with a calm, satisfied gesture. It completes the 'before and after' cycle with a final comedic flourish."
+    }
+  ]
+}

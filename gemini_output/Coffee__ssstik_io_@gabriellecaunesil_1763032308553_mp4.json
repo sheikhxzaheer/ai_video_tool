@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Coffee\\ssstik.io_@gabriellecaunesil_1763032308553.mp4",
+  "detailed_description": "A stylish woman, adorned in sunglasses and an elegant dark grey ensemble, is captured in a bright, classic room. She is seen stirring and then delicately sipping coffee from a small cup. A humorous voiceover plays, expressing a desire for the coffee to 'fix my entire life.' The woman's subtle, amused smile at the end of the clip serves as a delightful reaction, encapsulating a moment of calm, humor, and satisfaction with her morning ritual.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.080",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Morning_Routine",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "sunglasses",
+        "coffee",
+        "cup",
+        "spoon",
+        "marble table",
+        "elegant room",
+        "sparkling top",
+        "smile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "elegant setting",
+          "natural light",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core. It clearly demonstrates product interaction (drinking coffee), a professional action (part of a morning routine), and culminates in a clear emotional climax (a subtle, amused smile) in response to the humorous voiceover. There is no setup or post-action dead air, capturing the full intended narrative."
+    }
+  ]
+}

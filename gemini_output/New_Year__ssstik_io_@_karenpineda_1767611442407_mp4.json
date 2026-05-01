@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\New Year\\ssstik.io_@_karenpineda_1767611442407.mp4",
+  "detailed_description": "The video presents a festive Christmas tree beautifully decorated with New Year's Eve elements. Large golden foil balloons spelling out '20' and '26' are prominently displayed against the backdrop of the tree's twinkling white lights, signifying a celebration for the year 2026. Complementary silver star-shaped ornaments complete the elegant and celebratory ambiance, transforming a traditional Christmas tree into a unique New Year's display.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:16.10",
+      "structural_tags": [
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "Christmas tree",
+        "New Year's Eve decoration",
+        "gold balloons",
+        "2026",
+        "twinkling lights",
+        "silver star ornaments",
+        "festive ambiance",
+        "living room"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "festive",
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "high ceiling",
+          "arched window",
+          "night scene"
+        ]
+      },
+      "why_kept": "This entire segment serves as the 'reveal' of the New Year's Eve decorated tree, which is the core subject and visual appeal of the video. It directly showcases the completed festive setup with the '2026' balloons, meeting the criteria for a result/transformation and aesthetic b-roll. There is no extraneous setup, post-action dead air, or speaking that would require trimming."
+    }
+  ]
+}

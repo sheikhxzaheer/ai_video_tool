@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Sleeping in mak\\CNWM_JillianGray_016_Applied Mask (going to sleep).MOV",
+  "detailed_description": "A woman with blonde hair and a pink bow headband is shown applying a product to her hands. She rubs her hands together, spreading the substance, and looks at the camera with a gentle, satisfied smile. The scene conveys a sense of calm and personal care, highlighting the interaction with a product as part of a routine.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.138",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "blonde hair",
+        "pink headband",
+        "applying lotion",
+        "rubbing hands",
+        "smiling",
+        "skincare routine",
+        "jewelry"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "natural",
+          "personal care"
+        ]
+      },
+      "why_kept": "This segment captures the core 'Product Interaction' as the subject applies and rubs a substance into her hands. It also showcases 'The Process/Labor' of a personal care routine and an 'Emotional Climax' with her clear, satisfied smile directly at the camera. The entire clip is the 'Hero Moment' as it starts and ends with the full action and reaction, requiring no trimming."
+    }
+  ]
+}

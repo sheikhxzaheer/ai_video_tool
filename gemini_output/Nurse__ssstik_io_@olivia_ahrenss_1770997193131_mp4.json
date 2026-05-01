@@ -1,0 +1,273 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Nurse\\ssstik.io_@olivia.ahrenss_1770997193131.mp4",
+  "detailed_description": "This video showcases a series of practical skills and daily routines performed by an ER nurse. It features the nurse demonstrating critical life-saving techniques like CPR and Bag-Valve Mask ventilation on both adult and infant mannequins, highlighting the diverse patient population in an emergency setting. The video also emphasizes proficiency in essential procedures such as ultrasound-guided IV insertion, preparation for Foley catheters, NG tubes, and blood draws, as well as the importance of proper PPE donning. It provides a comprehensive look into the demanding and multifaceted role of an ER nurse, demonstrating quick thinking and adaptability through various medical tasks and equipment handling.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.900",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Clinical_Mood"
+      ],
+      "visual_keywords": [
+        "nurse",
+        "CPR",
+        "chest compressions",
+        "BVM",
+        "bag-valve mask",
+        "adult dummy",
+        "mannequin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "realistic",
+          "instructional"
+        ]
+      },
+      "why_kept": "This segment demonstrates core, life-saving skills (CPR and BVM ventilation) that are critical to an ER nurse's role, directly addressing the video's theme of 'skills used on a regular basis'."
+    },
+    {
+      "start_time": "00:16.000",
+      "end_time": "00:29.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Clinical_Mood"
+      ],
+      "visual_keywords": [
+        "nurse",
+        "Foley catheter",
+        "BVM",
+        "bag-valve mask",
+        "baby dummy",
+        "mannequin",
+        "pediatric care"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "realistic",
+          "instructional"
+        ]
+      },
+      "why_kept": "This segment further illustrates the breadth of an ER nurse's skills by demonstrating procedures for pediatric patients, including Foley catheter preparation and BVM ventilation, reinforcing versatility."
+    },
+    {
+      "start_time": "00:29.900",
+      "end_time": "00:35.500",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Workspace_Office",
+        "Clinical_Mood"
+      ],
+      "visual_keywords": [
+        "nurse",
+        "ultrasound machine",
+        "mobile cart",
+        "plugging in",
+        "ultrasound screen",
+        "probe",
+        "IV insertion"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "equipment focus",
+          "practical"
+        ]
+      },
+      "why_kept": "This segment demonstrates the use of specialized medical equipment for advanced procedures like ultrasound-guided IVs, a practical and common skill in the ER, highlighting technological proficiency."
+    },
+    {
+      "start_time": "00:37.700",
+      "end_time": "00:56.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Behind_The_Scenes",
+        "Macro_Detail",
+        "Workspace_Office",
+        "Clinical_Mood"
+      ],
+      "visual_keywords": [
+        "nurse",
+        "medical supplies",
+        "IV kits",
+        "needles",
+        "blood tubes",
+        "EKG electrodes",
+        "shelves"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "inventory view",
+          "detailed product shots"
+        ]
+      },
+      "why_kept": "This segment visually showcases the essential supplies for frequently performed ER skills such as IV insertion, EKGs, and blood draws, providing context for the practical aspects of the job."
+    },
+    {
+      "start_time": "00:57.000",
+      "end_time": "01:10.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Behind_The_Scenes",
+        "Macro_Detail",
+        "Workspace_Office",
+        "Clinical_Mood"
+      ],
+      "visual_keywords": [
+        "nurse",
+        "medical supplies",
+        "Foley catheter tray",
+        "SurgiPrep",
+        "surgical gloves",
+        "NG tube",
+        "shelves"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "inventory view",
+          "detailed product shots"
+        ]
+      },
+      "why_kept": "Continuing the display of necessary equipment, this segment highlights supplies for Foley catheters and NG tube placement, further demonstrating the wide range of procedures an ER nurse handles."
+    },
+    {
+      "start_time": "01:12.000",
+      "end_time": "01:21.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Clinical_Mood"
+      ],
+      "visual_keywords": [
+        "nurse",
+        "hair net",
+        "gloves",
+        "PPE",
+        "donning",
+        "doffing",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "personal perspective",
+          "ppe demonstration"
+        ]
+      },
+      "why_kept": "This segment illustrates the routine but vital skill of donning PPE, including a hairnet and sterile gloves, essential for infection control and safety. The nurse's smile adds a positive emotional touch to a practical skill."
+    },
+    {
+      "start_time": "01:29.500",
+      "end_time": "01:33.800",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Behind_The_Scenes",
+        "Workspace_Office",
+        "Clinical_Mood"
+      ],
+      "visual_keywords": [
+        "nurse",
+        "blood warmer",
+        "medical equipment",
+        "loading",
+        "dispenser"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "equipment handling",
+          "functional"
+        ]
+      },
+      "why_kept": "This segment shows the practical interaction with specific medical equipment, a blood warmer, demonstrating the hands-on and technical skills required to operate various devices in an ER setting."
+    }
+  ]
+}

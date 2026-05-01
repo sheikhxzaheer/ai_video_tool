@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad mold spray\\spraying other chemical 1.mov",
+  "detailed_description": "This video humorously portrays a man attempting to perform the simple task of cleaning his bathroom counter while simultaneously battling a series of intense sneezes, likely due to allergies or a cold. With a handkerchief pressed to his face, he comically struggles to spray Lysol, showcasing the relatable challenge of managing daily chores when feeling unwell. The segment highlights both product interaction with the cleaner and the exaggerated, yet familiar, physical expressions of sneezing.",
+  "segments": [
+    {
+      "start_time": "00:01.800",
+      "end_time": "00:11.300",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "man",
+        "bald",
+        "beard",
+        "grey t-shirt",
+        "handkerchief",
+        "Lysol spray",
+        "bathroom",
+        "sink",
+        "mirror",
+        "counter",
+        "sneezing action",
+        "spraying"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "playful",
+          "relatable"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "bright",
+          "realistic"
+        ]
+      },
+      "why_kept": "This segment captures the core comedic action: the man's exaggerated sneezing reaction (Problem_State and Face_Reaction) while actively trying to clean with the Lysol spray (Product_Interaction and Mechanism_Of_Action). It shows the full progression of his struggle, delivering the central humorous premise of the video."
+    }
+  ]
+}

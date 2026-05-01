@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Treatmant_skin\\ssstik.io_@vicky.derosa_1761473998163.mp4",
+  "detailed_description": "This video showcases a woman demonstrating her natural exfoliant routine for the neck and chest using a homemade mixture of lemon, baking soda, and turmeric (optional). She explains the process, emphasizing the benefits of consistent use for maintaining youthful skin and preventing wrinkles, based on compliments she receives. The video concludes with a call to action for viewers to try the routine consistently and share their results regarding age spots, all delivered in a friendly, engaging manner.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:56.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Key_Information",
+        "UGC_Talking_Head",
+        "Positive_Emotion",
+        "Result_Transformation",
+        "Social_Proof",
+        "Offer_CTA",
+        "Home_Kitchen",
+        "Lifestyle_Active",
+        "Calm_Relaxation",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying scrub",
+        "neck",
+        "chest",
+        "bowl",
+        "yellow mixture",
+        "lemon",
+        "baking soda",
+        "turmeric"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "The entire video constitutes the semantic core, as the subject is continuously demonstrating the product application (Process/Labor, Product Interaction) while simultaneously providing key information about its use, benefits, and a call to action. There are no significant 'setup' or 'post-action dead air' moments to trim, adhering to the 'no-mistake' rule where the action is continuous from start to finish."
+    }
+  ]
+}

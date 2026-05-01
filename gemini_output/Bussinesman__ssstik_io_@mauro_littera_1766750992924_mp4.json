@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bussinesman\\ssstik.io_@mauro.littera_1766750992924.mp4",
+  "detailed_description": "The video captures a stylish man enjoying a morning coffee ritual outdoors. He is seen stirring his espresso, taking a thoughtful sip, and then checking his watch, suggesting a moment of calm contemplation before a busy day. His attire and the setting evoke a sophisticated, relaxed lifestyle, highlighting a peaceful start to the day.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.600",
+      "structural_tags": [
+        "Product_Interaction",
+        "Calm_Relaxation",
+        "Morning_Routine",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "coffee",
+        "espresso",
+        "stirring",
+        "drinking",
+        "outdoor cafe",
+        "watch",
+        "striped shirt"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "relaxed"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "soft focus background",
+          "elegant",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment comprehensively displays the main action of the video: a man engaging in his morning coffee ritual. It includes the 'Product_Interaction' of stirring and drinking coffee, conveys a mood of 'Calm_Relaxation' and establishes a 'Morning_Routine' within a 'Lifestyle_Active' context. The entire duration from start to end perfectly captures this core activity without any discernible setup or post-action dead air, adhering to the 'no-mistake' rule."
+    }
+  ]
+}

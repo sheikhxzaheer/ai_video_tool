@@ -1,0 +1,154 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep treatment\\ssstik.io_@curtainsandcarpets_1761839612162.mp4",
+  "detailed_description": "This video demonstrates the effectiveness of blackout curtains. A person is shown closing the curtains over a window, transforming the brightly lit room into complete darkness. The voiceover emphasizes that this provides '100% blackout' even during the day. The curtains are then repeatedly opened and closed to further showcase this light-blocking capability, highlighting the stark contrast between daylight and the total darkness achieved by the blackout curtains.",
+  "segments": [
+    {
+      "start_time": "00:04.200",
+      "end_time": "00:20.400",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Before_After",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "man",
+        "closing curtains",
+        "room getting dark",
+        "blackout effect",
+        "window",
+        "curtains"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "demonstration"
+        ]
+      },
+      "why_kept": "This segment is the core demonstration, showing the process of closing the curtains and the complete transformation to darkness, directly illustrating the 'blackout' feature as explained by the voiceover."
+    },
+    {
+      "start_time": "00:20.400",
+      "end_time": "00:22.800",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man",
+        "opening curtains",
+        "room getting light",
+        "window",
+        "curtains"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "demonstration"
+        ]
+      },
+      "why_kept": "This segment complements the anchor by showing the reversal of the blackout, bringing light back into the room and emphasizing the curtains' effect through contrast."
+    },
+    {
+      "start_time": "00:23.100",
+      "end_time": "00:25.500",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "closing curtains",
+        "room getting dark",
+        "blackout effect",
+        "window",
+        "curtains"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "demonstration"
+        ]
+      },
+      "why_kept": "This segment reinforces the blackout effect by providing a quick, repeated demonstration of the curtains' ability to block out light completely."
+    },
+    {
+      "start_time": "00:27.200",
+      "end_time": "00:29.800",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "opening curtains",
+        "room getting light",
+        "window",
+        "curtains"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "demonstration"
+        ]
+      },
+      "why_kept": "This final segment concludes the demonstration by showing the room returning to its lit state, confirming the versatility and effectiveness of the curtains."
+    }
+  ]
+}

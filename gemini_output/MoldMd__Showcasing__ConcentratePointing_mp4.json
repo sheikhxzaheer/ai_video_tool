@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\ConcentratePointing.mp4",
+  "detailed_description": "The video features a man in a kitchen setting, wearing a blue t-shirt and glasses, holding a small white bottle of 'MOLDMD MOLD & MILDEW REMOVER.' He maintains direct eye contact with the camera and points to the product with his finger, effectively presenting it to the viewer. This segment serves as a clear and concise product introduction, highlighting the item's presence and intended purpose within a domestic context.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Human_Interaction",
+        "UGC_Talking_Head",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "glasses",
+        "blue shirt",
+        "mold remover bottle",
+        "MOLDMD",
+        "pointing",
+        "kitchen",
+        "countertop",
+        "cabinets"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct eye contact",
+          "product focused",
+          "clean background",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it directly introduces the product to the viewer. The subject's sustained direct gaze and deliberate pointing gesture clearly highlight the 'MOLDMD MOLD & MILDEW REMOVER' bottle, establishing the central focus of the video. It functions as a direct and engaging product presentation moment without any extraneous footage."
+    }
+  ]
+}

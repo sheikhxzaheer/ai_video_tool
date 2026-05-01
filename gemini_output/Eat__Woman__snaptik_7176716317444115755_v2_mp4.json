@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Eat\\Woman\\snaptik_7176716317444115755_v2.mp4",
+  "detailed_description": "The video humorously depicts the internal struggle of someone on a diet. A woman in a bright kitchen repeatedly attempts to eat tempting macarons and drink from a glass, only to stop herself each time, expressing visible frustration and determination. Holding a cucumber as a symbol of healthy eating, she fights her cravings, ultimately giving in to the desire for a macaron but then powerfully resisting it with an emphatic 'no'. The entire sequence captures the relatable challenge of maintaining dietary discipline through comedic exaggeration.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "High_Energy",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "macarons",
+        "cucumber",
+        "wine glass",
+        "kitchen counter",
+        "diet struggle",
+        "temptation",
+        "frustration",
+        "resistance"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "playful",
+          "humorous",
+          "frustrated"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "static shot",
+          "bright lighting",
+          "comedic timing"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it entirely captures the humorous narrative of a person's internal struggle with diet cravings. It uses exaggerated facial expressions, gestures, and interaction with food (macarons, cucumber) to convey the relatable conflict between healthy choices and temptation, directly illustrating the 'Me on a diet...' premise."
+    }
+  ]
+}

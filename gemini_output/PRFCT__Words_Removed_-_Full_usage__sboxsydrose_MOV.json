@@ -1,0 +1,144 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\Words Removed - Full usage\\sboxsydrose.MOV",
+  "detailed_description": "This video features a woman introducing and demonstrating a hydration product. She enthusiastically presents the 'Perfect Morning Tangerine Pulse' electrolyte packet, highlighting its low calorie and carbohydrate content. The video then shows the preparation process, where she tears open a sachet and mixes the powder into a glass of water. Finally, she drinks the beverage, expressing satisfaction with its delicious, refreshing, and hydrating qualities, and encourages viewers to use a specific discount code.",
+  "segments": [
+    {
+      "start_time": "00:10.230",
+      "end_time": "00:12.160",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "High_Energy",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "product packet",
+        "shaking",
+        "enthusiasm"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home_kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "dynamic movement"
+        ]
+      },
+      "why_kept": "This segment visually introduces the product with high energy and positive emotion, capturing attention and presenting the item central to the video's message."
+    },
+    {
+      "start_time": "00:12.160",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "woman",
+        "product packet",
+        "sachet",
+        "reading label",
+        "opening packaging"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home_kitchen"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear view of product label"
+        ]
+      },
+      "why_kept": "This segment provides a clear, detailed look at the product packaging and the individual sachet, conveying important product information and its convenient format."
+    },
+    {
+      "start_time": "00:17.000",
+      "end_time": "00:22.280",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "sachet",
+        "glass",
+        "water",
+        "pouring",
+        "mixing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home_kitchen"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "demonstration of use"
+        ]
+      },
+      "why_kept": "This segment demonstrates the core action of preparing the product, showing its ease of use and integrating it into a routine."
+    },
+    {
+      "start_time": "00:25.500",
+      "end_time": "00:33.200",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Call_To_Action",
+        "UGC_Talking_Head",
+        "Result_Transformation",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "glass",
+        "drinking",
+        "smiling",
+        "thumbs up",
+        "talking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home_kitchen"
+        ],
+        "mood": [
+          "positive",
+          "energetic",
+          "refreshing"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "upbeat"
+        ]
+      },
+      "why_kept": "This segment captures the emotional climax, showing the positive user experience, verbalizing the benefits, and including the call to action, which is crucial for conversion."
+    }
+  ]
+}

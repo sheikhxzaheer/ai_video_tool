@@ -1,0 +1,91 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Tired\\Woman\\ssstik.io_@chezcalinea_1767631511503.mp4",
+  "detailed_description": "This video vividly illustrates the profound impact of severe anxiety, showing a woman experiencing a panic attack characterized by trembling, crying, and difficulty breathing. Her partner, feeling helpless, then introduces a specialized weighted blanket/hoodie. Within moments of using the product, she transitions from intense distress to a state of calm and peaceful sleep, showcasing the product's immediate and effective relief for anxiety. The video concludes with a call to action, encouraging viewers to find the product if they know someone suffering from similar challenges.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Emotional_Climax",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "crying",
+        "trembling",
+        "curled up",
+        "distress",
+        "bedroom",
+        "bed",
+        "white rug"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "serious",
+          "distressed",
+          "somber"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "warm lighting",
+          "vulnerable moment"
+        ]
+      },
+      "why_kept": "This segment powerfully establishes the problem of severe anxiety and the intense emotional distress experienced by the subject, creating an essential context for the subsequent product solution. It represents a clear 'Problem State' and 'Emotional Climax'."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:16.295",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Offer_CTA",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "weighted garment",
+        "hooded blanket",
+        "lotus logo",
+        "woman",
+        "sleeping",
+        "bed",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "calm",
+          "relieved",
+          "comforting"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "transformative effect",
+          "cozy aesthetic"
+        ]
+      },
+      "why_kept": "This segment introduces the product as a solution to the previously established problem, demonstrates direct 'Product Interaction' as the woman uses it, and clearly shows the 'Result_Transformation' to a state of 'Calm_Relaxation' and 'Positive_Emotion'. It concludes with a 'Call to Action', making it the core 'solution' part of the narrative."
+    }
+  ]
+}

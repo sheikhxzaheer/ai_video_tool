@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\With friend\\ssstik.io_@nevaaadaa_1760874088702.mp4",
+  "detailed_description": "The video features two young women performing a synchronized dance routine in an indoor setting, likely a dressing room or bathroom, against a backdrop of a wooden ceiling and tiled wall. They are dressed in matching black crop tops, baggy black pants, and accessorized with body chains, necklaces, and piercings. The women move their torsos and arms rhythmically to the music, showcasing a confident and energetic performance focused on their coordinated movements and trendy fashion.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.833",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "two women",
+        "dancing",
+        "black outfits",
+        "crop tops",
+        "baggy pants",
+        "body chains",
+        "long hair",
+        "synchronized movement",
+        "torso movements",
+        "arm movements"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "trendy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "synchronized",
+          "rhythmic",
+          "fashion-focused"
+        ]
+      },
+      "why_kept": "The entire segment demonstrates the core action of the video, which is a synchronized dance performance. It begins immediately with the action and ends without any setup or post-action dead air, adhering to the 'No-Mistake' rule. It fully captures the 'Process/Labor' of their performance and their confident 'Emotional Climax'."
+    }
+  ]
+}

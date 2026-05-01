@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cote D'azur\\ssstik.io_@lau_dmn_1766069753552.mp4",
+  "detailed_description": "This video showcases a stunning panoramic infinity pool located high above the Mediterranean Sea on the French Riviera (Côte d'Azur). A person is seen swimming leisurely, emphasizing the serene and luxurious experience. The clear blue sky and expansive ocean vista create a breathtaking backdrop, highlighting the pool's unique elevated position and offering a sense of ultimate relaxation and scenic beauty.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.680",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Lifestyle_Active",
+        "Travel_Transit",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "person swimming",
+        "infinity pool",
+        "ocean view",
+        "panoramic view",
+        "blue sky",
+        "green trees",
+        "lounge chairs",
+        "Côte d'Azur"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "ocean",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "luxurious",
+          "serene"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright sunlight",
+          "clear blue",
+          "stunning landscape",
+          "slow pan"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core. It continuously showcases the 'panoramic pool, the highest perched on the Côte d'Azur,' as stated in the text overlay. A person swimming actively demonstrates interaction with the pool, while the wide shots capture the breathtaking view, fulfilling the 'Process,' 'Reveal/Result,' and 'Emotional Climax' criteria. There is no 'dead air' or 'setup/calibration' and the action is continuous."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ðöð¥-ð┐ÐûÐüð╗ÐÅ, ð▓ Ðüð░ð╗ð¥ð¢Ðû Ðéð░ ð¢ð░ ð▓Ðâð╗ð©ÐåÐû.mp4",
+  "detailed_description": "This video showcases a remarkable before-and-after transformation using Replíque Second Skin Hair Pieces. It begins by presenting a man with significant hair loss, showing various angles of his scalp as the 'problem state.' The video then transitions to the same man, now with a full and natural-looking head of hair, visibly happier and more confident. This 'reveal' is captured both indoors in a salon setting and outdoors on a street, emphasizing the natural appearance and lifestyle integration of the hair piece.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.700",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man",
+        "baldness",
+        "hair loss",
+        "scalp",
+        "barber chair",
+        "salon"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean lighting",
+          "top-down view",
+          "revealing"
+        ]
+      },
+      "why_kept": "This segment is crucial as it establishes the 'before' state and the core problem of hair loss, providing necessary context for the product's solution. It acts as the visual hook and problem statement."
+    },
+    {
+      "start_time": "00:08.700",
+      "end_time": "00:16.800",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "man",
+        "full hair",
+        "hair piece",
+        "glasses",
+        "smiling",
+        "champagne",
+        "jacket",
+        "street",
+        "natural look"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "outdoor",
+          "street",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "positive",
+          "premium",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic shots",
+          "confident portrayal",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment is the 'reveal' and 'result,' showcasing the dramatic transformation achieved by the Replíque Second Skin Hair Piece. It highlights the natural appearance, positive emotional impact, and versatility of the product in different settings, making it the core value proposition."
+    }
+  ]
+}

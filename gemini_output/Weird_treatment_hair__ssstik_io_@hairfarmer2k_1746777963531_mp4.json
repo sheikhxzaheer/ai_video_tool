@@ -1,0 +1,218 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ssstik.io_@hairfarmer2k_1746777963531.mp4",
+  "detailed_description": "The video showcases a man attempting a challenge by repeatedly rubbing a freshly cut jalapeno pepper on his bald scalp. He demonstrates the 'process' of cutting the pepper and then endures the burning sensation with varied facial expressions, ranging from focused determination and direct eye contact with the camera to visible wincing and discomfort. The video highlights his endurance through physical action and emotional reactions to the spicy 'product.'",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Process_Labor",
+        "Product_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "jalapeno",
+        "bald head",
+        "rubbing",
+        "cutting board",
+        "kitchen"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "serious",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment introduces the challenge, showing the initial act of rubbing the jalapeno on the man's head, setting the scene for the 'process' and 'product interaction'."
+    },
+    {
+      "start_time": "00:07.200",
+      "end_time": "00:10.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "knife",
+        "jalapeno",
+        "cutting board",
+        "cutting"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct gaze",
+          "preparation"
+        ]
+      },
+      "why_kept": "This segment shows the preparation of the jalapeno, reinforcing the 'product interaction' and his direct engagement with the challenge before further application."
+    },
+    {
+      "start_time": "00:11.000",
+      "end_time": "00:18.200",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Emotional_Climax",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "jalapeno",
+        "bald head",
+        "rubbing",
+        "intense stare",
+        "wincing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "serious",
+          "energetic",
+          "shock_surprise"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct eye contact",
+          "expressions of discomfort"
+        ]
+      },
+      "why_kept": "This is a core 'hero moment' where the man directly engages the viewer while applying the pepper, showcasing his endurance and the immediate, strong 'face reaction' to the capsaicin."
+    },
+    {
+      "start_time": "00:19.000",
+      "end_time": "00:24.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Negative_Emotion",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "jalapeno",
+        "bald head",
+        "rubbing",
+        "wincing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "head down",
+          "expressions of pain"
+        ]
+      },
+      "why_kept": "This segment continues to demonstrate the 'process' and the man's ongoing struggle, focusing on the sustained 'negative emotion' and physical discomfort of the challenge."
+    },
+    {
+      "start_time": "00:25.000",
+      "end_time": "00:30.000",
+      "structural_tags": [
+        "Face_Reaction",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Confusion_Doubt"
+      ],
+      "visual_keywords": [
+        "man",
+        "rubbing head",
+        "thumbs up",
+        "hand gestures",
+        "eye contact"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct eye contact",
+          "challenge gesture"
+        ]
+      },
+      "why_kept": "This segment captures a pivotal 'face reaction' and 'human interaction,' as the man looks at the camera, gives a thumbs-up (possibly ironic), and then counts on his fingers, implying rounds or duration of the challenge."
+    },
+    {
+      "start_time": "00:32.400",
+      "end_time": "00:37.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "jalapeno stem",
+        "bald head",
+        "rubbing",
+        "wincing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "home",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "head down",
+          "final effort"
+        ]
+      },
+      "why_kept": "This final segment emphasizes the persistence of the challenge, as the man continues to rub even the stem of the pepper, showing continued 'process' and 'negative emotion' until the very end."
+    }
+  ]
+}

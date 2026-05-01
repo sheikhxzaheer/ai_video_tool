@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor talking on phone\\ssstik.io_@family.eye.med_1768390401970.mp4",
+  "detailed_description": "The video features a man in a doctor's white lab coat, identified by the name 'Matthew Earhart, OD' embroidered on it, sitting at an office desk. He is actively engaged in a phone call using a landline, repeatedly expressing confusion with phrases like 'I don't know' and 'I don't even know what that means.' His facial expressions convey a sense of bewilderment or exasperation, suggesting a common and relatable office interaction where information is unclear. The setting is a professional office with a distinctive wood-paneled accent wall, indicating a typical workspace.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.456",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Confusion_Doubt",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "man",
+        "doctor",
+        "lab coat",
+        "phone",
+        "desk",
+        "computer monitor",
+        "office",
+        "wood wall",
+        "phone call"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "playful",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "office lighting",
+          "professional setting",
+          "reclaimed wood wall"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating a professional (doctor) engaged in a phone call within an office setting. The hero moment is captured through his active interaction with the phone, his clear facial expressions conveying confusion, and his repeated dialogue indicating a lack of understanding. The continuous action and dialogue from start to end mean no trimming is necessary based on the 'no-mistake' rule."
+    }
+  ]
+}

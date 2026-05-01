@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\36b1f2ee955b4971a87aa076e42dde7d┬áÔÇö ð║ð¥ð┐ð©ÐÅ.mp4",
+  "detailed_description": "The video features a young man expressing deep concern and doubt about experiencing hair loss. He pulls back his hair at the temples, revealing a visibly receding hairline, while displaying a worried and questioning facial expression. The on-screen text 'Im not going bald right.... RIGHT?!' and dramatic sound effects amplify his anxiety and the sudden realization of a potential problem. This clip effectively captures a 'problem state' and emotional climax, highlighting a common insecurity about hair health.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.300",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Confusion_Doubt",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "man",
+        "receding hairline",
+        "worried expression",
+        "hand pulling hair",
+        "forehead"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "anxious",
+          "doubtful",
+          "shock"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "handheld feel",
+          "dramatic music effect"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the 'Problem State' (perceived balding) and the 'Emotional Climax' (doubt, shock, negative emotion) of the subject. The visual action of pulling the hair back to reveal the hairline, combined with the worried facial expression, the overlaid text, and the dramatic sound design, constitutes the entire semantic core of the video, making it a single, strong 'Hero Moment'."
+    }
+  ]
+}

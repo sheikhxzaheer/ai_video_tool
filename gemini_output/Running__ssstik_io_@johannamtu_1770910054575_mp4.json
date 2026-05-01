@@ -1,0 +1,192 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Running\\ssstik.io_@johannamtu_1770910054575.mp4",
+  "detailed_description": "This video beautifully captures the serene act of a woman running outdoors during the golden hour, symbolizing the therapeutic power of exercise. Against a backdrop of sun-drenched trees and a frosty field, she runs with headphones, her expression calm and focused, highlighting the emotional release and healing often found in physical activity. The persistent on-screen text, 'when life hurts running heals,' reinforces the core message that running serves as a powerful coping mechanism and source of solace.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.200",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman running",
+        "blonde hair",
+        "ponytail",
+        "headphones",
+        "sunrise/sunset",
+        "trees",
+        "path"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "golden hour lighting",
+          "flowing hair",
+          "serene"
+        ]
+      },
+      "why_kept": "This segment establishes the main subject, action (running), and mood, serving as the primary visual representation of the 'process/labor' and 'emotional climax' hero moments, crucial for setting the video's theme."
+    },
+    {
+      "start_time": "00:03.200",
+      "end_time": "00:04.280",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "frosty field",
+        "sunrise/sunset",
+        "trees",
+        "dog"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "peaceful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "golden hour lighting",
+          "scenic landscape",
+          "winter morning"
+        ]
+      },
+      "why_kept": "This segment provides an aesthetic break and wider environmental context, reinforcing the calm and natural setting that complements the healing theme of running. It functions as supporting BROLL."
+    },
+    {
+      "start_time": "00:04.280",
+      "end_time": "00:09.120",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman running",
+        "blonde hair",
+        "ponytail",
+        "headphones",
+        "trees",
+        "field"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "golden hour lighting",
+          "flowing hair",
+          "dynamic movement"
+        ]
+      },
+      "why_kept": "This segment continues the primary action of running, reiterating the 'process/labor' and 'emotional climax' aspects, ensuring the core message about running's healing power is consistently conveyed."
+    },
+    {
+      "start_time": "00:09.120",
+      "end_time": "00:10.960",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "frosty field",
+        "sunrise/sunset",
+        "trees",
+        "path"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "peaceful"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "golden hour lighting",
+          "scenic landscape",
+          "winter morning"
+        ]
+      },
+      "why_kept": "Similar to the previous wide shot, this BROLL segment further establishes the tranquil and beautiful environment, enhancing the overall mood of calm and providing visual variety."
+    },
+    {
+      "start_time": "00:10.960",
+      "end_time": "00:16.480",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman running",
+        "blonde hair",
+        "ponytail",
+        "headphones",
+        "trees",
+        "path"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "golden hour lighting",
+          "flowing hair",
+          "focused expression"
+        ]
+      },
+      "why_kept": "This final running segment serves to conclude the video by reinforcing the main action and message, leaving the viewer with a lasting impression of the positive and healing aspects of running."
+    }
+  ]
+}

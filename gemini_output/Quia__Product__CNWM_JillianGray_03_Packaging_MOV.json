@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Product\\CNWM_JillianGray_03_Packaging.MOV",
+  "detailed_description": "This video features a woman wearing a pink headband, introducing a Korean Beauty 'Collagen Night Wrapping Mask' in a pink tube. She smiles at the camera while holding the product, explaining that it should be applied at the end of one's nighttime skincare routine. The segment highlights the product's introduction, user interaction, and provides key usage information for a specific beauty regimen.",
+  "segments": [
+    {
+      "start_time": "00:00.677",
+      "end_time": "00:04.477",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Key_Information",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "skincare product",
+        "collagen mask",
+        "pink tube",
+        "holding product",
+        "smiling",
+        "pink headband"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully encompasses the product introduction, the presenter's positive engagement (smiling), explicit mention of the product's name and type, and crucial information regarding its application within a nighttime routine. It starts precisely when the product is brought into the frame and ends after the core information is delivered and the product is still actively held and presented."
+    }
+  ]
+}

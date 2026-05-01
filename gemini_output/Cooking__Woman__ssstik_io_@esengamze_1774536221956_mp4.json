@@ -1,0 +1,132 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cooking\\Woman\\ssstik.io_@esengamze_1774536221956.mp4",
+  "detailed_description": "This video showcases the meticulous and aesthetic process of preparing and setting a beautiful brunch spread on a marble-top table. It highlights the arrangement of various dishes, from fresh produce and hummus to pancakes and avocado toast, demonstrating thoughtful presentation and product interaction with the unique dishware. The video culminates in a warm gathering of friends enjoying the meal, underscoring the joy of shared food and companionship in a stylish home environment, complete with playful and heartwarming interactions with a pet.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.800",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hands",
+        "plates",
+        "napkins",
+        "hummus",
+        "tomatoes",
+        "cucumbers",
+        "carrots",
+        "honey",
+        "salt shaker",
+        "pepper shaker",
+        "pancakes",
+        "strawberries",
+        "blueberries",
+        "avocado toast",
+        "marble table"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "curated dishes"
+        ]
+      },
+      "why_kept": "This segment meticulously displays the process of setting the table and arranging a diverse, aesthetically pleasing brunch spread, which is the primary action and value demonstration of the video. It directly shows the 'doing the work' aspect of food preparation and table setting."
+    },
+    {
+      "start_time": "00:08.800",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Reveal_Transformation",
+        "Aesthetic_Broll",
+        "Home_Kitchen",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "fully set table",
+        "various food dishes",
+        "flowers",
+        "marble table",
+        "white chairs",
+        "gold table legs"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "spacious",
+          "elegant decor"
+        ]
+      },
+      "why_kept": "This segment serves as the 'reveal' of the completed and beautifully arranged brunch table, showcasing the aesthetic result of the previous preparation and highlighting the overall appeal of the meal and setting."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "two women",
+        "dog",
+        "eating",
+        "laughing",
+        "petting dog",
+        "dog on shoulder",
+        "dog sleeping",
+        "marble table",
+        "food"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "warm interactions",
+          "comfortable setting"
+        ]
+      },
+      "why_kept": "This segment captures the essence of enjoying the prepared meal with company, demonstrating positive human interaction, happiness, and the relaxed atmosphere after the preparation, including endearing interactions with a pet, which adds emotional value to the narrative."
+    }
+  ]
+}

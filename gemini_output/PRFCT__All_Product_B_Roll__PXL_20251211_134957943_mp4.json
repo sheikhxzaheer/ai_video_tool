@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20251211_134957943.mp4",
+  "detailed_description": "This video showcases the packaging of 'PRFECT MORNING TANGERINE PULSE', a dietary supplement. A person's hands are seen removing several single-serving sachets from a larger resealable pouch, demonstrating the product's convenient portioning and ease of access. The interaction highlights the practical design for daily use, followed by the pouch being neatly stored away.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Home_Kitchen",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "hands",
+        "product pouch",
+        "single-serving sachets",
+        "Tangerine Pulse",
+        "countertop"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "kitchen",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "practical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it demonstrates direct product interaction, showing how the individual sachets are stored within and retrieved from the main product pouch. It clearly illustrates the product's packaging and implies its use as a single-serving supplement, which aligns with 'Product Interaction' and 'Product Intro' hero moment criteria."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Dog happy\\Snaptik.app_7350298136331422994.mp4",
+  "detailed_description": "This video features a charming small dog with light brown and white fur demonstrating a very peculiar, high-stepping walk on a brick-paved path. The dog approaches the camera with a confident and almost elegant gait, lifting its front paws noticeably high with each step. The entire video focuses on showcasing this distinctive and endearing walking style, set to cheerful, upbeat music, creating a lighthearted and delightful visual experience.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.024",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Positive_Emotion",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "dog walking",
+        "high-stepping gait",
+        "brick pavement",
+        "parked cars",
+        "shiba inu-like dog"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "positive"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "steady shot",
+          "engaging subject"
+        ]
+      },
+      "why_kept": "The entire video is dedicated to showcasing the dog's unique and characteristic high-stepping walk, which is the singular 'hero moment' and the core value of the content. There is no setup or post-action dead air, making the full duration the semantic core."
+    }
+  ]
+}

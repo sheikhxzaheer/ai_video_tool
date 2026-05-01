@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Money\\lots of bands.mp4",
+  "detailed_description": "This video prominently displays a large cardboard box filled with neatly stacked bundles of US 100-dollar bills, secured with rubber bands. A hand reaches into the box, briefly lifts and repositions a stack of money, emphasizing the significant volume of cash present. The visual creates an immediate impression of wealth and financial abundance, highlighting direct human interaction with the currency, suggesting a theme of money handling or accumulation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.473",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "hand",
+        "money",
+        "100-dollar bills",
+        "stacks of cash",
+        "rubber bands",
+        "cardboard box"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "bright lighting",
+          "detailed focus"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it immediately presents the core subject matter: a large quantity of money. The human hand interacting with the stacks of cash serves as the primary action, demonstrating product interaction and establishing the video's central theme of wealth or financial transactions without any setup or dead air. It acts as a strong visual hook."
+    }
+  ]
+}

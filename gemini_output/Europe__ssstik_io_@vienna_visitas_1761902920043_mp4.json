@@ -1,0 +1,519 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Europe\\ssstik.io_@vienna.visitas_1761902920043.mp4",
+  "detailed_description": "This video serves as a compelling visual greeting to Vienna, showcasing the city's iconic landmarks, opulent architecture, vibrant street life, and serene historical gardens. It acts as a curated tour, highlighting the rich cultural heritage and aesthetic beauty that define Vienna, inviting viewers to explore its grandeur. The montage captures various aspects, from bustling cityscapes to tranquil historical sites, all under a warm, inviting light.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.400",
+      "structural_tags": [
+        "Visual_Hook",
+        "Key_Information",
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "Rathaus",
+        "tram",
+        "Vienna City Hall",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "street",
+          "outdoor"
+        ],
+        "mood": [
+          "welcoming",
+          "grand",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "establishing shot",
+          "sunset lighting",
+          "neogothic architecture"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it explicitly states the video's purpose with the 'Welcome to VIENNA' text, acting as a direct introduction and visual hook to the destination."
+    },
+    {
+      "start_time": "00:01.400",
+      "end_time": "00:02.300",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "city street",
+        "buildings",
+        "clock tower",
+        "pedestrians"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "street",
+          "outdoor"
+        ],
+        "mood": [
+          "lively",
+          "historic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "golden hour",
+          "cobblestone streets",
+          "ornate buildings"
+        ]
+      },
+      "why_kept": "This segment contributes to the semantic core by showcasing a typical, elegant Viennese street scene, illustrating the city's atmosphere."
+    },
+    {
+      "start_time": "00:02.300",
+      "end_time": "00:03.200",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "Schönbrunn Palace gardens",
+        "Gloriette",
+        "flowers"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "nature",
+          "outdoor"
+        ],
+        "mood": [
+          "serene",
+          "grand",
+          "beautiful"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "well-maintained gardens",
+          "classical architecture",
+          "sunset glow"
+        ]
+      },
+      "why_kept": "This segment is essential for highlighting Vienna's renowned imperial gardens and palaces, a key attraction."
+    },
+    {
+      "start_time": "00:03.200",
+      "end_time": "00:04.200",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "Maria Theresia Monument",
+        "archway",
+        "cyclist",
+        "pedestrians"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "street",
+          "outdoor"
+        ],
+        "mood": [
+          "historic",
+          "busy",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "architectural framing",
+          "monumental sculpture"
+        ]
+      },
+      "why_kept": "Showcases another significant historical landmark and public space, reinforcing Vienna's rich history."
+    },
+    {
+      "start_time": "00:04.200",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "shopping street",
+        "people walking",
+        "shops"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "street",
+          "outdoor"
+        ],
+        "mood": [
+          "lively",
+          "modern",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "urban landscape",
+          "evening light",
+          "commercial area"
+        ]
+      },
+      "why_kept": "Illustrates the contemporary, bustling side of Vienna's city center."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:06.100",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "fountain statue",
+        "water",
+        "sun flare",
+        "Schönbrunn Palace"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "majestic",
+          "serene",
+          "beautiful"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "ornate sculpture",
+          "backlighting",
+          "golden hour"
+        ]
+      },
+      "why_kept": "Highlights the artistic and detailed beauty of Vienna's public art and palace grounds."
+    },
+    {
+      "start_time": "00:06.100",
+      "end_time": "00:07.100",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "palace interior",
+        "grand staircase",
+        "frescoes",
+        "ornate railings"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "luxurious",
+          "historic",
+          "grand"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "ornate decor",
+          "baroque architecture",
+          "red carpet"
+        ]
+      },
+      "why_kept": "Showcases the opulent interiors of Vienna's historical residences, emphasizing its imperial past."
+    },
+    {
+      "start_time": "00:07.100",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "outdoor cafe",
+        "balustrade",
+        "umbrellas",
+        "people dining"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "relaxed",
+          "social",
+          "pleasant"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "leisurely atmosphere",
+          "cobblestone",
+          "historic buildings"
+        ]
+      },
+      "why_kept": "Depicts the leisurely European cafe culture integrated with historical surroundings."
+    },
+    {
+      "start_time": "00:08.500",
+      "end_time": "00:10.200",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "Museum of Natural History",
+        "rose garden",
+        "red flowers"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "nature",
+          "outdoor"
+        ],
+        "mood": [
+          "beautiful",
+          "grand",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "classical architecture",
+          "vibrant colors",
+          "garden landscape"
+        ]
+      },
+      "why_kept": "Features another grand museum and beautiful park, emphasizing Vienna's cultural and green spaces."
+    },
+    {
+      "start_time": "00:10.200",
+      "end_time": "00:11.100",
+      "structural_tags": [
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "pigeons",
+        "water",
+        "bird bath"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "natural",
+          "calm",
+          "candid"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "everyday life",
+          "soft light",
+          "wildlife"
+        ]
+      },
+      "why_kept": "Adds a charming, authentic touch of street life in Vienna."
+    },
+    {
+      "start_time": "00:11.100",
+      "end_time": "00:12.300",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "ancient ruins",
+        "statues",
+        "pond",
+        "columns"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "historic",
+          "serene",
+          "contemplative"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "classical ruins",
+          "greenery",
+          "water feature"
+        ]
+      },
+      "why_kept": "Highlights the rich historical layers and classical artistry present in Vienna's public spaces."
+    },
+    {
+      "start_time": "00:12.300",
+      "end_time": "00:13.200",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "cafe terrace",
+        "green dome",
+        "historic building"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "relaxed",
+          "elegant",
+          "picturesque"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "architectural detail",
+          "white umbrellas",
+          "warm light"
+        ]
+      },
+      "why_kept": "Showcases elegant outdoor dining and architectural beauty, typical of Viennese charm."
+    },
+    {
+      "start_time": "00:13.200",
+      "end_time": "00:14.200",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "Hotel Sacher",
+        "horse-drawn carriage",
+        "flags"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "street",
+          "outdoor"
+        ],
+        "mood": [
+          "luxurious",
+          "historic",
+          "traditional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "iconic hotel",
+          "old-world charm",
+          "tourist experience"
+        ]
+      },
+      "why_kept": "Features a renowned hotel and a classic Viennese mode of transport, emphasizing luxury and tradition."
+    },
+    {
+      "start_time": "00:14.200",
+      "end_time": "00:15.300",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "Hofburg Palace",
+        "green dome",
+        "archway",
+        "pedestrians"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "street",
+          "outdoor"
+        ],
+        "mood": [
+          "grand",
+          "historic",
+          "impressive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "imperial architecture",
+          "public square",
+          "entrance gate"
+        ]
+      },
+      "why_kept": "Highlights a major imperial palace, central to Vienna's history and tourism."
+    },
+    {
+      "start_time": "00:15.300",
+      "end_time": "00:16.400",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "Mozart Monument",
+        "park",
+        "flowers",
+        "pedestrians"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "nature",
+          "outdoor"
+        ],
+        "mood": [
+          "historic",
+          "peaceful",
+          "cultural"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "classical statue",
+          "green park",
+          "cultural homage"
+        ]
+      },
+      "why_kept": "Concludes the visual tour by featuring a monument to one of Vienna's most famous residents, connecting to its musical heritage."
+    }
+  ]
+}

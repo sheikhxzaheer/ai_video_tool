@@ -1,0 +1,73 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\ssstik.io_@estefaniablancol_1761221921779┬áÔÇö ð║ð¥ð┐ð©ÐÅ.mp4",
+  "detailed_description": "This video vividly presents a 'Before and After' skincare transformation. It begins by showing a woman with visible freckles and hyperpigmentation, portraying a 'before' state. The video then transitions to the same woman with noticeably clearer and smoother skin, exhibiting a satisfied and confident expression, effectively showcasing a successful aesthetic result or treatment outcome.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.483",
+      "structural_tags": [
+        "Before_After",
+        "Problem_State",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "skin",
+        "freckles",
+        "hyperpigmentation",
+        "neutral expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the 'Before' state, clearly showing the initial skin condition with freckles and hyperpigmentation, which is critical for setting up the subsequent transformation. It serves as the problem state."
+    },
+    {
+      "start_time": "00:03.483",
+      "end_time": "00:07.133",
+      "structural_tags": [
+        "Before_After",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "clear skin",
+        "smiling",
+        "hair flip"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment presents the 'After' state, showcasing the successful transformation with visibly clearer skin and a confident, happy facial expression. It's the reveal of the desired result and the emotional climax, making it the anchor for the video's core message."
+    }
+  ]
+}

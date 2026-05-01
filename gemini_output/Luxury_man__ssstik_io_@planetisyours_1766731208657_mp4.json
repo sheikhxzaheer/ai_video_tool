@@ -1,0 +1,154 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury man\\ssstik.io_@planetisyours_1766731208657.mp4",
+  "detailed_description": "The video portrays a sophisticated individual's luxurious lifestyle, featuring elegant travel in a Mercedes EQS and a grand estate. It highlights the seamless blend of high-end automotive comfort with opulent surroundings, emphasizing an aura of understated wealth and refined taste. The man's stylish attire and composed demeanor further underscore the premium experience, from arrival to leisurely exploration of the estate, showcasing a life of refined travel and leisure.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Travel_Transit",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man driving",
+        "Mercedes car interior",
+        "steering wheel",
+        "sunroof",
+        "pinstripe suit"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "sophisticated"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "interior lighting",
+          "wide-angle view",
+          "smooth motion"
+        ]
+      },
+      "why_kept": "This segment introduces the luxurious interior of the Mercedes EQS and the elegant driver, establishing the high-end nature of the travel experience and the product's role."
+    },
+    {
+      "start_time": "00:01.400",
+      "end_time": "00:03.200",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "man walking",
+        "long coat",
+        "grand building",
+        "lush greenery",
+        "gravel path"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "majestic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "establishing shot",
+          "architectural detail"
+        ]
+      },
+      "why_kept": "This segment visually establishes the opulent destination, a grand mansion, which is integral to the overall luxury lifestyle narrative of the video."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:06.300",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Travel_Transit",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man walking",
+        "leather bag",
+        "Mercedes EQS",
+        "grand mansion",
+        "gravel path"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "sophisticated"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "steady cam",
+          "elegant attire"
+        ]
+      },
+      "why_kept": "This segment serves as the central 'hero moment' by showing the protagonist actively interacting with the luxury car while depicting the grand estate in the background, perfectly encapsulating the video's theme of sophisticated travel and opulent lifestyle."
+    },
+    {
+      "start_time": "00:06.300",
+      "end_time": "00:07.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "Travel_Transit",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Mercedes car dashboard",
+        "steering wheel",
+        "grand building in background",
+        "driving away",
+        "driver's hands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car",
+          "outdoor"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "dynamic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "POV shot",
+          "dashboard display",
+          "smooth motion"
+        ]
+      },
+      "why_kept": "This segment provides a dynamic driver's perspective, showcasing the car's advanced interior while driving away from the luxurious estate, reinforcing the journey and the destination."
+    }
+  ]
+}

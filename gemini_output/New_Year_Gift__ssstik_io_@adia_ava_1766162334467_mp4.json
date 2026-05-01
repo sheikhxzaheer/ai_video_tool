@@ -1,0 +1,142 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\New Year Gift\\ssstik.io_@adia_ava_1766162334467.mp4",
+  "detailed_description": "This video captures a delightful Christmas morning moment as a daughter unwraps a special gift, knowing her mom is recording her reaction. The daughter's excitement builds as she carefully tears open the wrapping paper, culminating in a joyful and surprised expression upon revealing a Louis Vuitton box. Her wide eyes and beaming smile clearly indicate she has received a highly anticipated or significant present. The continuous recording by her mother frames the entire experience, emphasizing the sentimental value and the 'jackpot' feeling of this holiday gift.",
+  "segments": [
+    {
+      "start_time": "00:00.625",
+      "end_time": "00:02.916",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "girl",
+        "wrapped gift",
+        "smiling",
+        "anticipation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "festive"
+        ]
+      },
+      "why_kept": "This segment sets the initial scene, showing the daughter's anticipation and her holding the wrapped gift, ready to begin the unwrapping process."
+    },
+    {
+      "start_time": "00:03.416",
+      "end_time": "00:04.166",
+      "structural_tags": [
+        "Social_Proof",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "mom",
+        "recording with phone",
+        "smiling",
+        "glasses"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment provides crucial context from the text overlay, explicitly showing the 'mom starts recording' action, which signifies the importance of the upcoming reveal."
+    },
+    {
+      "start_time": "00:04.708",
+      "end_time": "00:14.958",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Shock_Surprise",
+        "Positive_Emotion",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "girl",
+        "unwrapping gift",
+        "tearing paper",
+        "Louis Vuitton box",
+        "surprise reaction",
+        "smiling",
+        "eyes wide"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "shock_surprise"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "close-up reaction"
+        ]
+      },
+      "why_kept": "This is the core 'hero moment' where the main action (unwrapping), the product reveal (Louis Vuitton box), and the daughter's genuine, ecstatic emotional climax are captured. It directly demonstrates the 'jackpot' moment."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:16.850",
+      "structural_tags": [
+        "Social_Proof",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "mom",
+        "recording with phone",
+        "smiling",
+        "glasses"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment concludes the narrative by reinforcing the presence of the mother recording the joyous outcome, aligning with the video's central theme."
+    }
+  ]
+}

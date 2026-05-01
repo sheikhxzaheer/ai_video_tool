@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid sleep\\ssstik.io_@cynkaygarza_1763721085298.mp4",
+  "detailed_description": "This video beautifully captures a tender moment of a child sleeping peacefully, gently hugging and kissing a plush toy. The scene highlights the emotional connection and comfort a child finds in their beloved object, evoking feelings of calm and affection. It visually demonstrates the toy as a source of solace and companionship during rest.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.666",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "child",
+        "sleeping",
+        "plush toy",
+        "bed",
+        "hugging",
+        "kissing",
+        "blanket",
+        "pillow"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "other: tender, affectionate"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "cozy",
+          "peaceful"
+        ]
+      },
+      "why_kept": "This entire segment is the 'Semantic Core' as it directly showcases the product interaction, where a child lovingly embraces and kisses a plush toy while sleeping. It effectively conveys a strong positive emotional connection (comfort, peace, affection) which is a key 'Emotional Climax' hero moment. The segment is captured without any setup, dead air, or extraneous footage, making the entire duration relevant to the core message."
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ssstik.io_@xslimes2u_1751991274129.mp4",
+  "detailed_description": "This video captures a playful and unique challenge where a woman creates vibrant fuchsia slime directly on her bald father's head. It showcases the entire process, from applying various liquids and foam to mixing in the color and carefully shaping the gooey substance. The father's bewildered yet trusting expressions, contrasted with the daughter's nervous but joyful demeanor, add to the charm. The climax involves the satisfying peel-off of the fully formed slime, revealing a surprisingly clean scalp, followed by heartfelt appreciation and a call for new challenge ideas.",
+  "segments": [
+    {
+      "start_time": "00:05.400",
+      "end_time": "00:09.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Positive_Emotion",
+        "Confusion_Doubt"
+      ],
+      "visual_keywords": [
+        "girl pouring liquid",
+        "white glue",
+        "bald head",
+        "man's neutral face",
+        "girl's surprised face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "playful",
+          "confused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "casual setting"
+        ]
+      },
+      "why_kept": "This segment establishes the unique premise by showing the initial application of the main component (glue) onto the grandpa's head, capturing both the daughter's playful intent and the grandpa's initial bewildered reaction."
+    },
+    {
+      "start_time": "00:09.400",
+      "end_time": "00:15.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "girl spraying foam",
+        "adding pink dye drops",
+        "bald head",
+        "man's widening eyes",
+        "girl's smiling face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "playful",
+          "surprised"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "casual setting"
+        ]
+      },
+      "why_kept": "This segment continues the slime-making process by adding key ingredients (foam and dye), with the grandpa's subtle but clear expression of surprise serving as an emotional highlight."
+    },
+    {
+      "start_time": "00:29.400",
+      "end_time": "00:37.400",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "girl shaping purple slime",
+        "bald head",
+        "man with towel",
+        "grandma entering",
+        "child touching slime"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "family vlog style"
+        ]
+      },
+      "why_kept": "This is the primary 'doing the work' segment, showcasing the intricate process of mixing and shaping the fuchsia slime into its final form on the grandpa's head. It also incorporates multi-generational interaction and positive emotional reactions, solidifying its role as the core 'hero moment'."
+    },
+    {
+      "start_time": "00:57.400",
+      "end_time": "01:00.400",
+      "structural_tags": [
+        "Reveal_Result",
+        "Product_Interaction",
+        "Process_Labor",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "girl peeling purple slime",
+        "bald head",
+        "clean scalp",
+        "man's calm face",
+        "girl's hands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "satisfaction",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clear transformation"
+        ]
+      },
+      "why_kept": "This segment provides the crucial 'reveal' of the successful slime removal, demonstrating that the process leaves the scalp clean and underscoring the product's (slime's) final state and function."
+    },
+    {
+      "start_time": "01:00.400",
+      "end_time": "01:05.400",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Social_Proof",
+        "Human_Interaction",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "grandma touching clean head",
+        "grandpa smiling",
+        "girl hugging grandpa",
+        "heart emoji",
+        "call to action text"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "positive",
+          "affectionate",
+          "happy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "warm family moment"
+        ]
+      },
+      "why_kept": "This segment provides the ultimate positive resolution and social proof, showing the clean result and the loving, happy reactions from the family, concluding with a direct call to action."
+    }
+  ]
+}

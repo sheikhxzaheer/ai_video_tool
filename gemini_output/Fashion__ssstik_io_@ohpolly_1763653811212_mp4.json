@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Fashion\\ssstik.io_@ohpolly_1763653811212.mp4",
+  "detailed_description": "The video provides a captivating glimpse into a high-fashion runway show, featuring a model elegantly walking in a striking white dress and heels. The event unfolds within a grand, architecturally rich hall, enhanced by warm, ambient lighting and a reflective runway that doubles the visual impact. Spectators line the sides, many recording the spectacle on their phones, underscoring the event's allure and the showcased design's appeal. This segment perfectly encapsulates the dynamic atmosphere and sophisticated presentation of a contemporary fashion collection.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.548",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Premium"
+      ],
+      "visual_keywords": [
+        "model",
+        "fashion show",
+        "runway",
+        "white dress",
+        "heels",
+        "audience",
+        "smartphones",
+        "grand hall",
+        "chandeliers",
+        "reflections",
+        "arched ceilings"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "glamorous lighting",
+          "reflective runway",
+          "ornate architecture",
+          "fashion show ambiance"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it fully captures the essence of a fashion show. It clearly demonstrates the main action (model walking the runway to showcase a design), includes audience engagement (human interaction), and highlights the product (the white dress and heels). The elegant setting and dynamic presentation contribute to a premium aesthetic, making it a complete and self-contained 'hero moment' for a fashion event."
+    }
+  ]
+}

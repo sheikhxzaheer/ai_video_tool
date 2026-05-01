@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Laser treatment\\ssstik.io_@nyclaser_1761315804655.mp4",
+  "detailed_description": "This video captures the meticulous process of full leg laser hair removal, performed by a professional technician. The client's legs are prepped with white guide lines, and the technician, wearing protective eyewear and gloves, systematically glides the laser device across the skin. The visible green light emanating from the device highlights the precision and advanced technology utilized in this aesthetic treatment, demonstrating the expertise and focused effort involved in the procedure.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.497",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Clinical"
+      ],
+      "visual_keywords": [
+        "laser hair removal device",
+        "technician",
+        "client's legs",
+        "green laser light",
+        "gloves",
+        "safety glasses",
+        "treatment bed",
+        "white marking lines"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "professional",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "steady camera",
+          "well-lit",
+          "clean aesthetics"
+        ]
+      },
+      "why_kept": "This entire segment consistently demonstrates the core action and value of the video: the professional process of laser hair removal. It fulfills the 'PROCESS/LABOR' and 'PRODUCT INTERACTION' hero moment criteria without any 'setup & calibration' or 'post-action dead air' to trim, thus adhering to the 'NO-MISTAKE' rule."
+    }
+  ]
+}

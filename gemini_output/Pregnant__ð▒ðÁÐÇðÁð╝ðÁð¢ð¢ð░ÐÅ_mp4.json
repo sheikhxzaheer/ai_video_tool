@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pregnant\\ð▒ðÁÐÇðÁð╝ðÁð¢ð¢ð░ÐÅ.mp4",
+  "detailed_description": "The video features a blonde woman in a light blue ribbed tank top and matching shorts, playfully dancing in what appears to be a hotel room. She highlights a prominent 'baby bump,' potentially real or simulated, by turning to the side and gently cradling her stomach. Throughout the video, she maintains a joyful and energetic demeanor, smiling broadly at the camera and moving to upbeat music. Her expressive movements emphasize a positive and happy mood, creating a lighthearted and engaging visual narrative.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.089",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "blonde woman",
+        "dancing",
+        "blue outfit",
+        "pregnant belly",
+        "hotel room",
+        "smiling",
+        "gesturing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "casual setting",
+          "upbeat music",
+          "engaging performance"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, showcasing the woman's playful dance and joyful expressions while highlighting her 'baby bump.' It continuously demonstrates positive emotion and energetic movement, fulfilling the 'emotional climax' and 'visual hook' criteria without any discernible setup or dead air, thus adhering to the 'no-mistake' rule for trimming."
+    }
+  ]
+}

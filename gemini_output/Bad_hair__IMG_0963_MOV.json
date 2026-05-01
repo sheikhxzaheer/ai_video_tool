@@ -1,0 +1,242 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\IMG_0963.MOV",
+  "detailed_description": "This video documents a personal journey to address thinning hair, starting with the decision to combat hair loss and shave the head. The main focus is on demonstrating a comprehensive daily hair regrowth routine. This regimen includes using a dermaroller to stimulate the scalp, applying Kirkland Minoxidil for regrowth, followed by peppermint oil to counteract scalp dryness, and finishing with a scalp massager to enhance blood flow and product absorption. The video serves as an instructional guide for initiating a hair regrowth journey, promising future results.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:05.18",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man",
+        "thinning hair",
+        "scalp",
+        "head",
+        "reflection",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "determined"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "selfie video",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment clearly sets the context by presenting the problem of thinning hair and the decision to start a regrowth journey, acting as the primary hook."
+    },
+    {
+      "start_time": "00:06.00",
+      "end_time": "00:09.00",
+      "structural_tags": [
+        "Before_After",
+        "Problem_State",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "shaved head",
+        "scalp",
+        "examining",
+        "hairline"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "selfie video",
+          "clear lighting"
+        ]
+      },
+      "why_kept": "This segment visually establishes the 'before' state more clearly with a shaved head, showing the extent of hair loss and the commitment to the journey."
+    },
+    {
+      "start_time": "00:10.00",
+      "end_time": "00:18.00",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "dermaroller",
+        "scalp",
+        "rolling",
+        "stimulation",
+        "hairline"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "instructive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "selfie video",
+          "focused action"
+        ]
+      },
+      "why_kept": "Demonstrates the first practical step of the hair regrowth routine, showing explicit product interaction and the process of scalp stimulation."
+    },
+    {
+      "start_time": "00:19.00",
+      "end_time": "00:29.00",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "minoxidil",
+        "dropper",
+        "scalp application",
+        "spreading",
+        "hair treatment"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "instructive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "selfie video",
+          "clear product visibility"
+        ]
+      },
+      "why_kept": "Highlights the application of minoxidil, a key product for hair regrowth, showing precise product interaction and the spreading technique."
+    },
+    {
+      "start_time": "00:30.00",
+      "end_time": "00:41.00",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Process_Labor",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "peppermint oil",
+        "drops",
+        "scalp application",
+        "spreading",
+        "moisturizing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "instructive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "selfie video",
+          "textual explanation"
+        ]
+      },
+      "why_kept": "Shows the application of peppermint oil to address scalp dryness, adding a practical tip and demonstrating additional product interaction within the routine."
+    },
+    {
+      "start_time": "00:42.00",
+      "end_time": "00:51.00",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "scalp massager",
+        "massage",
+        "scalp blood flow",
+        "circular motion"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "instructive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "selfie video",
+          "consistent technique"
+        ]
+      },
+      "why_kept": "Concludes the hands-on demonstration of the routine by showing the use of a scalp massager, emphasizing complete scalp care."
+    },
+    {
+      "start_time": "00:51.00",
+      "end_time": "00:53.00",
+      "structural_tags": [
+        "Offer_CTA",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "thumbs up",
+        "text overlay",
+        "anticipation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "hopeful",
+          "optimistic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "selfie video",
+          "future oriented"
+        ]
+      },
+      "why_kept": "This segment provides a forward-looking statement and a positive sign-off, creating anticipation for the results of the demonstrated journey."
+    }
+  ]
+}

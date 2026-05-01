@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B ROLL HAPPY(1).MOV",
+  "detailed_description": "This video showcases a young woman enthusiastically interacting with a white pillow while on a bed. She repeatedly hugs, squishes, and embraces the pillow, highlighting its perceived softness and comfort. Her cheerful expressions, characterized by frequent smiles and bright eyes, convey a strong sense of positive emotion and satisfaction. The interaction demonstrates the product's quality through direct physical engagement, suggesting it provides coziness and a relaxing experience. The overall tone is lighthearted and highlights the delightful user experience of the pillow.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:33.729",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pillow",
+        "bed",
+        "hugging",
+        "squishing",
+        "smiling",
+        "comfort",
+        "coziness"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "cozy feel",
+          "bright room"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the product's appeal through direct human interaction and a clear emotional climax. The woman actively engages with the pillow, showcasing its comfort and softness, while her consistent smiling conveys positive emotions, which is central to the product's value proposition. No significant setup or dead air is present, making the full duration a continuous hero moment."
+    }
+  ]
+}

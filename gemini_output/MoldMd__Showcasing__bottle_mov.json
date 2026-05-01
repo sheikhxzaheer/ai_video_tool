@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\bottle.mov",
+  "detailed_description": "The video showcases a woman holding and gently rotating a white bottle of MoldMD's 'Mold Spot Remover Concentrate.' She displays the front label, highlighting its multi-purpose use for mold and mildew stains, plant-powered formula, and safety for all surfaces. As she rotates the bottle, the detailed back label with directions, ingredients, and company information becomes visible. Throughout the presentation, she maintains a subtle, positive smile, conveying a sense of satisfaction and approval for the product.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.384",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Macro_Detail",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hands",
+        "long nails",
+        "product bottle",
+        "MoldMD",
+        "Mold Spot Remover Concentrate",
+        "labels",
+        "text",
+        "smile",
+        "white bottle",
+        "green label"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "soft lighting",
+          "detailed product view",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it perfectly captures the hero moment of 'Product Interaction' where the subject displays the product by rotating it, allowing the viewer to clearly see all labels and key information. Her consistent smile also provides an 'Emotional Climax' of positive sentiment. There is no 'Setup & Calibration' or 'Post-Action Dead Air,' making the entire duration essential to the semantic core."
+    }
+  ]
+}

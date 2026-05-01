@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Spraying\\moldmdusage.mov",
+  "detailed_description": "This video demonstrates the effective cleaning power of 'MoldMD Spot Remover' in a bathroom setting. It shows the simple process of spraying the product onto the corner of a white bathtub and then wiping it clean with a yellow cloth, resulting in a visibly transformed and sparkling surface. The voiceover emphasizes the product's safety for cleaning washrooms and windows, as well as its convenient multi-purpose functionality, reducing the need for multiple cleaning bottles.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Home_Kitchen",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "hand",
+        "spray bottle",
+        "MoldMD Spot Remover",
+        "bathtub",
+        "tile wall",
+        "yellow cloth",
+        "cleaning",
+        "wiping"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "demonstration focus"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it comprehensively demonstrates the product's primary function. It clearly shows the 'Product Interaction' (spraying the cleaner), the 'Process/Labor' (wiping the surface), and the 'Reveal/Result' (the clean bathtub corner). The voiceover also provides 'Key Information' about the product's benefits, directly accompanying the visual action, making it a complete hero moment according to the 'No-Mistake' rule, as the action begins at the start and the result is evident by the end."
+    }
+  ]
+}

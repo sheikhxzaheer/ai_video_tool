@@ -1,0 +1,81 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\A woman's reaction to a man\\2025-07-18_21.51.15.mov",
+  "detailed_description": "This video presents two distinct lifestyle moments: an energetic evening scene on a bustling city street, followed by a calm morning routine of a man waking up in bed. The sequence suggests a transition from a night out to the beginning of a new day. It captures everyday human activities and environments without focusing on a specific product or professional expertise, serving as b-roll or scene-setting content.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.373",
+      "structural_tags": [
+        "Visual_Hook",
+        "Lifestyle_Active",
+        "Travel_Transit",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "walking",
+        "street",
+        "city lights",
+        "night",
+        "purse",
+        "crowd"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "neon lighting",
+          "dynamic movement",
+          "city nightlife"
+        ]
+      },
+      "why_kept": "This segment serves as a visual hook, setting an initial scene of activity and movement in an urban night environment. It establishes a lifestyle context that can prelude various narratives."
+    },
+    {
+      "start_time": "00:01.373",
+      "end_time": "00:02.373",
+      "structural_tags": [
+        "Morning_Routine",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "waking up",
+        "bed",
+        "blanket",
+        "tank top",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "simple setting",
+          "everyday life"
+        ]
+      },
+      "why_kept": "This segment is chosen as the ANCHOR because it depicts a clear, universally relatable human action – waking up as part of a morning routine. This specific action grounds the narrative in a daily life context, offering a potential starting point for a story or theme related to health, wellness, or daily habits."
+    }
+  ]
+}

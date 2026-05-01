@@ -1,0 +1,127 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\532531331_An80XC_JIlXVdFulylPmgbTaUgJxPRV0RmBZKISWtkpipuGSykeiA.mp4",
+  "detailed_description": "This video provides a concise, step-by-step guide for men to achieve a modern, textured hairstyle. It demonstrates the application of a texturizing salt spray followed by a blow-dry with a diffuser to build volume and enhance natural waves. The routine continues with the use of styling powder for added lift and definition, finished by hand-styling. The final step involves setting the desired look with hairspray, showcasing a complete and refined hairstyle.",
+  "segments": [
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Process_Labor",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair",
+        "texturizing salt spray",
+        "spraying hair",
+        "hairdryer",
+        "diffuser",
+        "blow-drying"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "direct gaze",
+          "demonstrative",
+          "clear action"
+        ]
+      },
+      "why_kept": "This segment introduces the first product (salt spray) and demonstrates its application, followed by the initial styling process using a hairdryer and diffuser, which is crucial for building the foundational texture and volume."
+    },
+    {
+      "start_time": "00:22.750",
+      "end_time": "00:32.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Process_Labor",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair",
+        "styling powder",
+        "applying powder",
+        "hand styling",
+        "textured hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "direct gaze",
+          "demonstrative",
+          "focused action"
+        ]
+      },
+      "why_kept": "This segment introduces the second product (styling powder) and shows the precise hand-styling technique used to enhance the hair's texture and achieve the desired volume and definition after initial drying."
+    },
+    {
+      "start_time": "00:32.500",
+      "end_time": "00:40.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Process_Labor",
+        "Emotional_Climax",
+        "Reveal_Result",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair",
+        "hairspray",
+        "applying hairspray",
+        "final styled hair",
+        "smile",
+        "peace sign",
+        "side profile"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "direct gaze",
+          "satisfaction",
+          "final presentation"
+        ]
+      },
+      "why_kept": "This segment completes the styling process by applying hairspray for hold, showcases a clear emotional climax (smile and peace sign), and provides a comprehensive reveal of the final, well-styled hair from multiple angles."
+    }
+  ]
+}

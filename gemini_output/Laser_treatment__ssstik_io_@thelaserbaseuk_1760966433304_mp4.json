@@ -1,0 +1,96 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Laser treatment\\ssstik.io_@thelaserbaseuk_1760966433304.mp4",
+  "detailed_description": "This video dynamically showcases the professional and meticulous process of a laser hair removal clinic, 'The Laser Base.' It features a practitioner demonstrating a sequence of actions, including handling a cooling agent, utilizing safety eye shields, operating a laser hair removal device with a simulated flash, and applying post-treatment lotion. The fast-paced visual sequence emphasizes efficiency and care. The video concludes with an informational screen promoting the clinic as a top-rated service in Greater Manchester and a call to action for booking a consultation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.868",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Product_Interaction",
+        "High_Energy",
+        "Clinical"
+      ],
+      "visual_keywords": [
+        "woman",
+        "gloves",
+        "laser safety glasses",
+        "face mask",
+        "hands",
+        "small container",
+        "vapor",
+        "protective eye shields",
+        "laser hair removal device",
+        "laser flash",
+        "lotion bottle",
+        "lotion pump",
+        "lotion on hand"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio",
+          "clinical"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "premium",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "fast cuts",
+          "dynamic editing",
+          "professional lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment visually demonstrates the core process and product interactions of a laser hair removal clinic, highlighting expertise, safety, and care through a series of rapid, deliberate actions. It's the primary visual representation of the service's value and how the work is done."
+    },
+    {
+      "start_time": "00:15.868",
+      "end_time": "00:20.500",
+      "structural_tags": [
+        "Key_Information",
+        "Offer_CTA",
+        "Social_Proof",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "text overlay",
+        "clinic logo",
+        "lightning bolt icon",
+        "blurred background",
+        "woman wearing glasses"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "clinical"
+        ],
+        "mood": [
+          "informative",
+          "professional",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean typography",
+          "minimalist design",
+          "brand-focused"
+        ]
+      },
+      "why_kept": "This segment provides crucial 'Key Information' about the clinic, reinforces its credibility with 'Social_Proof' ('Top rated'), and delivers a clear 'Offer_CTA' ('Book a consultation'), which is essential for the video's business objective."
+    }
+  ]
+}

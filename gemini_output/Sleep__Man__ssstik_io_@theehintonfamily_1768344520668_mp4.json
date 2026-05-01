@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Man\\ssstik.io_@theehintonfamily_1768344520668.mp4",
+  "detailed_description": "This video (image) presents a humorous scenario where a man is seen sleeping peacefully in bed, while his wife stands behind him with arms raised in an intense prayer or worship posture. An overlaid text caption serves as the punchline, reading: 'When you prayed for a wife that's a prayer warrior but didn't realize just how real it was going to get.' The scene plays on the comedic contrast between the man's relaxed state and the wife's fervent devotion, highlighting the unexpected intensity of a desired characteristic in a partner.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:00.00",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man sleeping",
+        "woman praying",
+        "bedroom",
+        "bed",
+        "arms raised",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "candid feel",
+          "humorous tone"
+        ]
+      },
+      "why_kept": "This single image segment serves as the entire semantic core of the video, presenting both the visual setup of a man sleeping and a woman intensely praying, along with the crucial text overlay that delivers the humorous punchline and core message. It effectively establishes the 'problem state' through comedy."
+    }
+  ]
+}

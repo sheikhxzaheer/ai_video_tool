@@ -1,0 +1,419 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Makeup\\ssstik.io_@darceyangel_1768234726887.mp4",
+  "detailed_description": "This video showcases a complete daily makeup routine, meticulously demonstrating the application of various beauty products. The creator applies primer, foundation, concealer, setting powder, cream blush, eyebrow gel, mascara, nose contour, eyeshadow, and lip gloss. Each step focuses on product interaction and blending techniques, culminating in a radiant and natural finished look, emphasizing a simple yet effective beauty regimen.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.750",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Morning_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "lip balm application",
+        "lip product",
+        "hands applying"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial product interaction, starting the makeup routine with lip balm application."
+    },
+    {
+      "start_time": "00:01.750",
+      "end_time": "00:05.600",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Morning_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "serum application",
+        "primer",
+        "face blending",
+        "skincare"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment shows the application and blending of a face serum or primer, an essential step in the makeup process."
+    },
+    {
+      "start_time": "00:05.600",
+      "end_time": "00:11.700",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Morning_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "foundation application",
+        "face brush",
+        "blending makeup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment captures the application and blending of foundation, a core step for base makeup."
+    },
+    {
+      "start_time": "00:11.700",
+      "end_time": "00:14.800",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Morning_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "concealer application",
+        "under-eye concealer",
+        "small brush"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment highlights the precise application and blending of concealer to brighten and even skin tone."
+    },
+    {
+      "start_time": "00:14.800",
+      "end_time": "00:19.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Morning_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "setting powder",
+        "powder puff",
+        "face setting"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment shows the application of setting powder, a key step for finishing the base makeup."
+    },
+    {
+      "start_time": "00:19.400",
+      "end_time": "00:24.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Morning_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "cream blush",
+        "heart shapes",
+        "blush blending",
+        "face brush"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment visually demonstrates the application and blending of cream blush, adding color and dimension to the face."
+    },
+    {
+      "start_time": "00:24.000",
+      "end_time": "00:26.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Morning_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "powder application",
+        "small brush",
+        "under-eye powder"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment shows additional targeted powder application for a refined finish."
+    },
+    {
+      "start_time": "00:26.500",
+      "end_time": "00:29.600",
+      "structural_tags": [
+        "Process_Labor",
+        "Morning_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "eyebrow brushing",
+        "brow gel"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment features the styling of eyebrows, a crucial step for framing the face."
+    },
+    {
+      "start_time": "00:29.600",
+      "end_time": "00:36.700",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Morning_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "eyelash curler",
+        "mascara application",
+        "long lashes"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment demonstrates both eyelash curling and mascara application, enhancing the eyes."
+    },
+    {
+      "start_time": "00:36.700",
+      "end_time": "00:40.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Morning_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "nose contour",
+        "eyeshadow application",
+        "small brush"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment shows contouring the nose and applying eyeshadow for facial definition and eye enhancement."
+    },
+    {
+      "start_time": "00:40.000",
+      "end_time": "00:42.300",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Morning_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "lip gloss application",
+        "shiny lips"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment concludes the lip makeup, demonstrating the final touch with lip gloss application."
+    },
+    {
+      "start_time": "00:42.300",
+      "end_time": "00:47.000",
+      "structural_tags": [
+        "Reveal_Transformation",
+        "Positive_Emotion",
+        "Morning_Routine",
+        "Aesthetic_Broll",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "final makeup look",
+        "glowing skin",
+        "natural beauty",
+        "smile",
+        "satisfied expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "natural look"
+        ]
+      },
+      "why_kept": "This segment serves as the main 'reveal' of the completed daily makeup look, showcasing the transformation and the creator's satisfied reaction, making it the climactic hero moment."
+    }
+  ]
+}

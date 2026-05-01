@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\TikTok\\9.mp4",
+  "detailed_description": "The core of this video demonstrates the preparation and key benefits of 'Perfect Morning Electrolytes'. The user is shown pouring a tangerine-flavored packet into cold water, stirring it, and taking a refreshing sip. With the prepared drink in hand, she enthusiastically explains its delicious, non-salty taste and highlights its unique formulation with glucose for three times faster hydration. This segment effectively conveys the product's ease of use, palatability, and primary functional advantage.",
+  "segments": [
+    {
+      "start_time": "00:26.000",
+      "end_time": "00:42.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Face_Reaction",
+        "UGC_Talking_Head",
+        "Home_Kitchen",
+        "Positive_Emotion",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pouring powder",
+        "glass of water",
+        "stirring drink",
+        "straw",
+        "sipping drink",
+        "yellow liquid",
+        "product packet",
+        "hand gestures",
+        "talking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "casual setting"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it visually demonstrates the entire process of preparing the Perfect Morning Electrolyte drink (pouring, stirring), followed by the user's direct interaction (tasting) and positive emotional reaction. Crucially, it combines these actions with her verbal explanation of the product's core value: its delicious, non-salty taste, and its mechanism for three times faster hydration through glucose, effectively showcasing both the 'action' and 'expertise/value' criteria in a continuous, impactful sequence."
+    }
+  ]
+}

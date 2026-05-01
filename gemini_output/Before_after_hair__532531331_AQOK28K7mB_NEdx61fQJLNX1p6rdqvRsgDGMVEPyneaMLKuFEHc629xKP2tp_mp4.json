@@ -1,0 +1,84 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\532531331_AQOK28K7mB_NEdx61fQJLNX1p6rdqvRsgDGMVEPyneaMLKuFEHc629xKP2tp.mp4",
+  "detailed_description": "This video showcases a dramatic hair and facial transformation, illustrating a 'before and after' scenario. Initially, a young man is shown with noticeable hair thinning and acne, presenting a 'problem state'. The video then transitions to reveal his significantly improved appearance, featuring a full head of styled hair and clearer skin. The transformation culminates with the man smiling and giving a thumbs-up, conveying satisfaction and serving as positive social proof for the treatment or service received.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.500",
+      "structural_tags": [
+        "Problem_State",
+        "Before_After",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "thinning hair",
+        "receding hairline",
+        "acne",
+        "beard",
+        "white t-shirt",
+        "neutral expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear lighting",
+          "static shot"
+        ]
+      },
+      "why_kept": "This segment is kept as it clearly establishes the 'before' state, highlighting the problem of hair thinning and skin issues, which is crucial for demonstrating the subsequent transformation."
+    },
+    {
+      "start_time": "00:05.500",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Social_Proof",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "full hair",
+        "styled hair",
+        "cleared skin",
+        "beard",
+        "white t-shirt",
+        "smiling",
+        "thumbs up"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear lighting",
+          "dynamic expression"
+        ]
+      },
+      "why_kept": "This is the primary 'hero moment' as it vividly showcases the successful transformation of the man's hair and overall appearance. His genuine smile and thumbs-up provide strong emotional climax and social proof for the effectiveness of the treatment, making it the most impactful part of the video."
+    }
+  ]
+}

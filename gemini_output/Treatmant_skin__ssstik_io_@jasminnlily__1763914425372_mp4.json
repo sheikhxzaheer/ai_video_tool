@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Treatmant_skin\\ssstik.io_@jasminnlily__1763914425372.mp4",
+  "detailed_description": "This video thoroughly demonstrates a hydrating skincare serum. It highlights the product's application process, starting with droplets being applied via a dropper and gently massaged into the skin. On-screen text emphasizes key benefits, such as being 20% more hydrating than hyaluronic acid, suitability for sensitive skin, and its anti-inflammatory properties. The video also showcases the serum's unique 'snail mucin-like' texture that 'melts like water,' ultimately revealing a highly hydrated and glowing complexion on the model's face, conveying a sense of satisfaction.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.060",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Macro_Detail",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "serum",
+        "dropper",
+        "skin",
+        "face",
+        "hydration",
+        "glow",
+        "application",
+        "hands",
+        "bottle",
+        "texture"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "glowing effect",
+          "focus on skin"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it continuously demonstrates the product interaction, application process, unique texture, and immediate visible results (hydration and glow). The on-screen text overlays provide crucial product information and benefits, fulfilling all 'Hero Moment' criteria for product interaction, process, result, and key information. There are no extraneous frames, and the action starts and ends precisely within this duration."
+    }
+  ]
+}

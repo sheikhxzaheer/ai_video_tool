@@ -1,0 +1,130 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Man\\ssstik.io_@peterpandeveloper_1766752355849.mp4",
+  "detailed_description": "The video provides a detailed showcase of a modern work-from-home routine, emphasizing the setup and interactive elements of a personalized tech-equipped workspace. It captures the daily ritual of an individual preparing for work, from organizing desk essentials and lighting a scented candle to interacting with various gadgets like a smart calendar, phone, and digital display. The core of the routine involves adjusting a standing desk and engaging in focused work, highlighted by close-ups of typing and using specialized input devices, culminating in a demonstration of the individual actively working in their aesthetic home office.",
+  "segments": [
+    {
+      "start_time": "00:01.385",
+      "end_time": "00:03.969",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "hand",
+        "energy drink can",
+        "coaster",
+        "laptop",
+        "monitor",
+        "desk setup",
+        "speakers",
+        "keyboard"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic cuts",
+          "well-lit"
+        ]
+      },
+      "why_kept": "This segment initiates the routine, showcasing the initial setup of essential items on the desk, providing a visual hook for the workspace's functionality and aesthetic."
+    },
+    {
+      "start_time": "00:04.300",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Workspace_Office",
+        "Data_Metrics_Chart",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "hand",
+        "smartphone",
+        "apps",
+        "followers count",
+        "desk calendar",
+        "candle",
+        "lighter",
+        "flame",
+        "digital clock",
+        "YouTube subscriber count"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed shots",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This segment details various product interactions that are part of the daily routine, highlighting specific gadgets and adding an atmospheric element with the candle, complementing the main workspace setup."
+    },
+    {
+      "start_time": "00:12.000",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Morning_Routine",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "desk controls",
+        "standing desk",
+        "man",
+        "drinking",
+        "energy drink",
+        "typing",
+        "keyboard",
+        "mouse",
+        "macro pad",
+        "computer work"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "energetic",
+          "productive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic action",
+          "focused shots"
+        ]
+      },
+      "why_kept": "This is a core 'hero moment' demonstrating the standing desk's mechanism and the active process of working, including key interactions like drinking and typing, which are central to a productive home office routine."
+    }
+  ]
+}

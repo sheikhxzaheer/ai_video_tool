@@ -1,0 +1,82 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Nurse\\ssstik.io_@anesthesiologist8_1769710069808.mp4",
+  "detailed_description": "The video provides a glimpse into the demanding world of medical professionals. It begins with a focused shot of a hand pressing a blue-lit access button, signaling entry into a restricted, specialized area. The scene then dramatically transitions into an active operating room, where a team of surgeons and an anesthesiologist (indicated by the watermark 'Anesthesiologist8') are deeply engaged in a surgical procedure. The intense environment, filled with medical equipment and focused personnel in scrubs, underscores the critical and collaborative nature of saving lives. It's a concise portrayal of professional dedication and the meticulous work involved in a clinical setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.400",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "hand",
+        "button",
+        "door handle",
+        "door",
+        "glowing button"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "modern aesthetic",
+          "clean lines",
+          "metallic surfaces"
+        ]
+      },
+      "why_kept": "This segment serves as a visual hook, showing the initiation of a professional task by interacting with an access system, setting the stage for the work environment."
+    },
+    {
+      "start_time": "00:01.400",
+      "end_time": "00:12.300",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Workspace_Office",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "operating room",
+        "surgeons",
+        "medical team",
+        "surgical procedure",
+        "medical equipment",
+        "scrubs",
+        "surgical caps",
+        "surgical instruments"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide | medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "professional setting",
+          "sterile environment",
+          "active scene"
+        ]
+      },
+      "why_kept": "This is the core 'Hero Moment' showcasing professional action and labor – a team of medical professionals actively performing surgery. It demonstrates their expertise and the critical nature of their work."
+    }
+  ]
+}

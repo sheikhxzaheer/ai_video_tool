@@ -1,0 +1,562 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\American school\\ssstik.io_@efexchangeyear_1772810405118.mp4",
+  "detailed_description": "The video is a vibrant montage showcasing various quintessential moments that embody the concept of a \"teenage dream.\" It compiles short, energetic clips featuring high school football games, festive celebrations with fireworks and smoke, travel experiences like driving through scenic landscapes or visiting iconic cityscapes, daily school life represented by a school bus, and heartwarming holiday light displays. Each scene, consistently overlaid with the text \"teenage dream.\", collectively paints a picture of excitement, freedom, social connection, and memorable experiences characteristic of adolescence. The semantic core is the entire collection of these joyous and aspirational moments.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.890",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "girls",
+        "football field",
+        "sunset",
+        "stadium",
+        "lights"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "golden hour",
+          "wide shot"
+        ]
+      },
+      "why_kept": "Illustrates a common social and athletic aspect of a teenage dream, highlighting community and shared experiences."
+    },
+    {
+      "start_time": "00:00.890",
+      "end_time": "00:01.890",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "High_Energy",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "fireworks",
+        "night",
+        "water",
+        "celebration"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "night shot",
+          "colorful"
+        ]
+      },
+      "why_kept": "Represents celebration, wonder, and memorable events, contributing to the dream-like atmosphere."
+    },
+    {
+      "start_time": "00:01.890",
+      "end_time": "00:02.890",
+      "structural_tags": [
+        "High_Energy",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "stadium",
+        "crowd",
+        "red lights",
+        "football game"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "night shot",
+          "bright lights"
+        ]
+      },
+      "why_kept": "Shows the communal excitement and passion of large sports events, a staple of the teenage experience."
+    },
+    {
+      "start_time": "00:02.890",
+      "end_time": "00:03.890",
+      "structural_tags": [
+        "High_Energy",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "crowd",
+        "hands up",
+        "pink smoke",
+        "party",
+        "celebration"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "smoke effect",
+          "dynamic"
+        ]
+      },
+      "why_kept": "Conveys a vibrant, celebratory party atmosphere characteristic of youthful social gatherings."
+    },
+    {
+      "start_time": "00:03.890",
+      "end_time": "00:04.890",
+      "structural_tags": [
+        "High_Energy",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "students",
+        "high-five",
+        "football players",
+        "team",
+        "field"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "action shot",
+          "close interaction"
+        ]
+      },
+      "why_kept": "Captures the excitement and connection around school sports, a quintessential teenage dream element."
+    },
+    {
+      "start_time": "00:04.890",
+      "end_time": "00:05.890",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "football field",
+        "game",
+        "crowd",
+        "sky",
+        "stadium"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "daylight",
+          "panoramic"
+        ]
+      },
+      "why_kept": "Provides a broader context for the sports-related teenage dream, showing the scale of the event."
+    },
+    {
+      "start_time": "00:05.890",
+      "end_time": "00:06.890",
+      "structural_tags": [
+        "High_Energy",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "crowd",
+        "cheering",
+        "hands up",
+        "night game",
+        "stadium"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "night shot",
+          "dynamic lighting"
+        ]
+      },
+      "why_kept": "Emphasizes the collective excitement and vibrant atmosphere of social events at night."
+    },
+    {
+      "start_time": "00:06.890",
+      "end_time": "00:07.890",
+      "structural_tags": [
+        "Travel_Transit",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "car interior",
+        "steering wheel",
+        "desert",
+        "mountains",
+        "road",
+        "sunny"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "POV drive",
+          "bright daylight"
+        ]
+      },
+      "why_kept": "Represents freedom, adventure, and road trips, a common aspiration in a teenage dream."
+    },
+    {
+      "start_time": "00:07.890",
+      "end_time": "00:08.890",
+      "structural_tags": [
+        "Human_Interaction",
+        "Travel_Transit",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "school bus",
+        "students",
+        "getting on bus",
+        "school life"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright daylight",
+          "iconic image"
+        ]
+      },
+      "why_kept": "An iconic visual representing daily school life and routines, a foundational part of the teenage experience."
+    },
+    {
+      "start_time": "00:08.890",
+      "end_time": "00:09.890",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "cheerleaders",
+        "football field",
+        "mountains",
+        "stadium",
+        "banners"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "daylight",
+          "scenic background"
+        ]
+      },
+      "why_kept": "Illustrates school spirit, participation in activities, and the vibrant culture of high school sports."
+    },
+    {
+      "start_time": "00:09.890",
+      "end_time": "00:10.890",
+      "structural_tags": [
+        "Travel_Transit",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "convertible",
+        "driving",
+        "highway",
+        "sunny sky",
+        "freedom"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car",
+          "street"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "open-top car",
+          "bright daylight"
+        ]
+      },
+      "why_kept": "Signifies freedom, open roads, and carefree travel, reinforcing the adventurous aspect of youth."
+    },
+    {
+      "start_time": "00:10.890",
+      "end_time": "00:11.890",
+      "structural_tags": [
+        "Travel_Transit",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Eiffel Tower replica",
+        "Las Vegas",
+        "city",
+        "balcony view",
+        "tourism"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "architectural",
+          "destination shot"
+        ]
+      },
+      "why_kept": "Represents aspirational travel and exciting destinations, expanding the scope of teenage dreams beyond local experiences."
+    },
+    {
+      "start_time": "00:11.890",
+      "end_time": "00:12.890",
+      "structural_tags": [
+        "High_Energy",
+        "Positive_Emotion",
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "football stadium",
+        "crowd",
+        "fireworks",
+        "night",
+        "celebration",
+        "red"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "night shot",
+          "explosive visuals",
+          "crowd lights"
+        ]
+      },
+      "why_kept": "This segment is chosen as the ANCHOR due to its powerful visual representation of peak excitement, grand celebration, and large-scale social events, strongly encapsulating the collective and aspirational essence of a 'teenage dream'."
+    },
+    {
+      "start_time": "00:12.890",
+      "end_time": "00:13.890",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "house",
+        "Christmas lights",
+        "snow",
+        "festive",
+        "night"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "holiday lighting",
+          "colorful display"
+        ]
+      },
+      "why_kept": "Captures the magic and joy of holidays, adding another dimension to the multifaceted teenage dream."
+    },
+    {
+      "start_time": "00:13.890",
+      "end_time": "00:14.890",
+      "structural_tags": [
+        "High_Energy",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "crowd",
+        "smoke",
+        "hands up",
+        "party",
+        "celebration"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "smoke effect",
+          "dynamic"
+        ]
+      },
+      "why_kept": "Reinforces the energetic, fun, and celebratory aspect of youthful gatherings, similar to a previous segment but with distinct visual composition."
+    },
+    {
+      "start_time": "00:14.890",
+      "end_time": "00:16.518",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "sunset",
+        "beach",
+        "ocean",
+        "waves",
+        "people swimming",
+        "serene"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "golden hour",
+          "tranquil"
+        ]
+      },
+      "why_kept": "Represents peaceful moments, natural beauty, and leisure activities, providing a serene counterpoint to the high-energy scenes."
+    }
+  ]
+}

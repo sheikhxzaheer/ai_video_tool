@@ -1,0 +1,118 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\Bald spot\\videoplayback (6).mp4",
+  "detailed_description": "The video captures a man's emotional journey as he decides to shave his head due to balding. It begins by showing his thinning hair and his candid admission of the insecurity it caused. The core of the video showcases the actual shaving process, filled with nervous excitement, laughter, and a sense of liberation. It concludes with a satisfying reveal of his newly bald head and a confident, happy expression, signifying acceptance and freedom from a long-held insecurity.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.999",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "UGC_Talking_Head",
+        "Emotional_Climax",
+        "Key_Information",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man's balding head",
+        "man talking",
+        "hands touching head"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the problem state (balding), the emotional context (insecurity, decision to let go), and sets the stage for the action. It's crucial for understanding the 'why' behind the transformation."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:19.999",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Process_Labor",
+        "Positive_Emotion",
+        "High_Energy",
+        "Face_Reaction",
+        "Emotional_Climax"
+      ],
+      "visual_keywords": [
+        "man shaving head",
+        "hair trimmer",
+        "clump of hair",
+        "man laughing",
+        "shaving down the middle"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "action shot"
+        ]
+      },
+      "why_kept": "This segment demonstrates the core action and 'process' of shaving the head, showing direct product interaction with the hair trimmer. It also captures intense positive emotions and reactions during the act of transformation."
+    },
+    {
+      "start_time": "00:20.000",
+      "end_time": "00:24.950",
+      "structural_tags": [
+        "Result_Transformation",
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man with bald head",
+        "man smiling",
+        "man exclaiming"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This is the ultimate 'reveal' and 'result transformation' of the video, showcasing the man's completed new look and his overwhelmingly positive, confident reaction. It provides a strong emotional climax and resolution to the initial problem."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Routine\\Taking baby for a walk.mov",
+  "detailed_description": "The video captures a person engaging in an active outdoor workout, vigorously running down a residential street while pushing a baby stroller. This segment highlights an active lifestyle and the practical utility of the stroller as a piece of equipment for exercise and daily activity. The scene emphasizes movement, fitness, and integrating childcare with physical activity in a suburban environment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Product_Interaction",
+        "High_Energy",
+        "Human_Interaction",
+        "Travel_Transit",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "running",
+        "stroller",
+        "person",
+        "street",
+        "houses",
+        "exercise"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "active"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera movement",
+          "suburban setting",
+          "daylight"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it visually demonstrates the primary action of the video: a person running and actively pushing a stroller. It perfectly exemplifies the 'Process/Labor' and 'Product Interaction' hero moments, showcasing an active lifestyle and the functionality of the product in a dynamic setting. It captures the full uninterrupted motion before the subject stops and interacts off-camera."
+    }
+  ]
+}

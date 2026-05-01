@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pills\\ssstik.io_1746981077468.mp4",
+  "detailed_description": "The video captures a woman demonstrating the tactile and auditory experience of manipulating an empty orange pill bottle. She repeatedly opens, closes, and twists the child-resistant cap, producing various satisfying ASMR-like clicking, popping, and scraping sounds. The focus is on the intricate interaction with the product, highlighting the unique noises it makes when handled, turning an ordinary object into a source of sensory engagement.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:55.00",
+      "structural_tags": [
+        "Product_Interaction",
+        "Calm_Relaxation",
+        "Human_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "pill bottle",
+        "child-resistant cap",
+        "fingers",
+        "twisting",
+        "popping",
+        "scraping sounds",
+        "hands"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "ASMR",
+          "close-up hands",
+          "sound focus",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core of the video, showcasing the direct interaction with the empty pill bottle's child-resistant cap. The subject performs a repetitive action (opening and closing the cap) which generates the ASMR sounds that are the primary focus and value of the video, fulfilling the 'Product Interaction' and 'Process/Labor' criteria. The on-screen text explicitly frames this as the purpose of the video."
+    }
+  ]
+}

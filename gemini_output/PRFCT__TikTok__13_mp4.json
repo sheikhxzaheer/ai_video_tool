@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\TikTok\\13.mp4",
+  "detailed_description": "A young woman shares her experience with dehydration despite consistent water intake and introduces Perfect Morning Electrolytes (Tangerine Pulse flavor) as her solution. She highlights that unlike other electrolyte powders, it has no salty taste and is made with natural ingredients. She explains its benefits for hydration, metabolism, and replacing lost nutrients, recommending it for feeling more hydrated throughout the day, especially with warmer temperatures.",
+  "segments": [
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:47.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Key_Information",
+        "UGC_Talking_Head",
+        "Positive_Emotion",
+        "Offer_CTA",
+        "Ingredient_Highlight",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "holding product pouch",
+        "Perfect Morning Electrolytes",
+        "Tangerine Pulse"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "casual outfit"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it introduces the product, describes its features (flavor, natural ingredients, no salty taste), explains its benefits (hydration, metabolism, nutrient replacement), and concludes with a clear recommendation and call to action. The speaker continuously holds and interacts with the product while delivering this key information, fulfilling the 'Product Interaction' and 'Key Information' hero moment criteria."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury hotel\\snaptik_7396225984350932230_v2.mp4",
+  "detailed_description": "This video effectively showcases the newly renovated Gift Shop at Hotel Borobudur Jakarta. It initiates with a captivating visual of the shop's sign, followed by an inviting reveal of its modern yet traditionally elegant interior. The segment highlights the diverse range of products, including hotel merchandise, local snacks, and personal care items, and captures the celebratory atmosphere of its opening, complete with staff greetings and a ceremonial event. The video further demonstrates actual customer engagement, from browsing to purchasing, culminating in a clear brand identity reveal for Hotel Borobudur Jakarta. It successfully conveys the shop as a destination for unique gifts and memorable experiences.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:30.416",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Reveal_Result",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Gift shop sign",
+        "glass doors",
+        "smiling staff",
+        "welcoming gesture",
+        "Hydro Flask bottles",
+        "polo shirts",
+        "caps",
+        "snacks",
+        "drinks",
+        "candies",
+        "Nasi Tumpeng ceremony",
+        "cash register",
+        "vitamins",
+        "customers browsing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "inviting",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "modern design",
+          "clean",
+          "festive"
+        ]
+      },
+      "why_kept": "This segment comprehensively captures the 'Semantic Core' by showcasing the newly renovated gift shop from its external branding and inviting entry to its diverse product offerings, celebratory opening, and active customer interactions. It fully demonstrates the 'Reveal/Result' of the new space and the 'Product Interaction' within it, supported by the descriptive voiceover, making it the central and most valuable part of the video."
+    },
+    {
+      "start_time": "00:30.417",
+      "end_time": "00:37.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Hotel Borobudur Jakarta logo",
+        "animated logo",
+        "white background"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "clean"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "animated",
+          "minimalist"
+        ]
+      },
+      "why_kept": "This segment serves as the official branding outro for Hotel Borobudur Jakarta, reinforcing the hotel's identity after the presentation of its gift shop. It's a clear and professional conclusion to the video."
+    }
+  ]
+}

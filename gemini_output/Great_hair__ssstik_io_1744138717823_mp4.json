@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1744138717823.mp4",
+  "detailed_description": "The video captures a series of energetic and playful moments featuring a young man, initially alone, then joined by friends, dancing and posing in a modern indoor setting. Dressed in stylish casual wear, they exude positive emotion and high energy, engaging directly with the camera. The sequence highlights their confident demeanor and a lively social interaction, set against an upbeat soundtrack. It's a snapshot of youthful camaraderie and dynamic self-expression.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.541",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "young men",
+        "dancing",
+        "posing",
+        "smiling",
+        "puffer jackets",
+        "hoodies",
+        "casual wear",
+        "modern lobby",
+        "group interaction"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera movement",
+          "upbeat music",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it continuously showcases the core action and value of the video: a high-energy display of positive emotion, human interaction, and lifestyle through dancing and posing. There are no 'setup' or 'post-action dead air' moments, and the entire duration contributes to the intended vibrant and confident mood, culminating in a group shot that reinforces social appeal."
+    }
+  ]
+}

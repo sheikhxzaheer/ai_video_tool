@@ -1,0 +1,347 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_DeborahSufir_poductdemo.mp4",
+  "detailed_description": "This video showcases a Korean beauty routine featuring a collagen niacinamide jelly cream and a collagen night wrapping mask. It demonstrates the application of the jelly cream, followed by the clear wrapping mask using a brush. The highlight of the video is the satisfying reveal of the clear mask being peeled off, showing the smooth, hydrated skin underneath, culminating in the user's positive reaction to the skin's transformation and the products used.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.600",
+      "structural_tags": [
+        "Visual_Hook",
+        "Reveal_Transformation",
+        "Product_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "peeling mask",
+        "clear mask",
+        "face",
+        "smile"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "positive",
+          "satisfying"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment serves as an immediate visual hook, showcasing the satisfying peel-off action of the mask and the positive emotional response, setting the expectation for the routine."
+    },
+    {
+      "start_time": "00:00.600",
+      "end_time": "00:02.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "The_Process"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying cream",
+        "fingers",
+        "face",
+        "glowing skin"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "smooth application"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial application of a product (likely the jelly cream or a pre-mask step) with hands, showcasing the product's texture and ease of application."
+    },
+    {
+      "start_time": "00:02.900",
+      "end_time": "00:04.100",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "holding products",
+        "pink jar",
+        "pink tube",
+        "skincare"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "product display"
+        ]
+      },
+      "why_kept": "Introduces the two main products in the routine, allowing viewers to see them clearly before their individual applications."
+    },
+    {
+      "start_time": "00:04.100",
+      "end_time": "00:04.800",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "hand",
+        "spatula",
+        "scooping",
+        "jelly cream",
+        "pink product"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "satisfying"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed shot",
+          "product texture focus"
+        ]
+      },
+      "why_kept": "Highlights the unique jelly texture of the cream and the hygienic scooping method, adding to the product's appeal."
+    },
+    {
+      "start_time": "00:04.800",
+      "end_time": "00:05.800",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Key_Information",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "product label",
+        "QUIA Korean Beauty",
+        "Collagen Niacinamide Jelly Cream",
+        "pink jar"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear text",
+          "branding focus"
+        ]
+      },
+      "why_kept": "Provides essential information about the first product, including its brand, type, and key ingredients."
+    },
+    {
+      "start_time": "00:06.400",
+      "end_time": "00:09.100",
+      "structural_tags": [
+        "The_Process",
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying cream",
+        "face",
+        "neck",
+        "massaging",
+        "skincare"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "routine"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "gentle application",
+          "full face coverage"
+        ]
+      },
+      "why_kept": "Shows the complete application of the jelly cream to the face and neck, demonstrating proper usage as part of a skincare routine."
+    },
+    {
+      "start_time": "00:10.500",
+      "end_time": "00:11.200",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Key_Information",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "product label",
+        "QUIA Korean Beauty",
+        "Collagen Night Wrapping Mask",
+        "pink tube"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear text",
+          "branding focus"
+        ]
+      },
+      "why_kept": "Clearly introduces the second product, the collagen night wrapping mask, providing its name and type."
+    },
+    {
+      "start_time": "00:11.200",
+      "end_time": "00:13.100",
+      "structural_tags": [
+        "The_Process",
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying mask",
+        "brush",
+        "face",
+        "clear mask"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "precise"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "even application",
+          "tool usage"
+        ]
+      },
+      "why_kept": "Illustrates the precise application of the clear wrapping mask using a brush, demonstrating the texture and coverage."
+    },
+    {
+      "start_time": "00:14.700",
+      "end_time": "00:20.900",
+      "structural_tags": [
+        "Reveal_Transformation",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "peeling mask",
+        "clear mask",
+        "smooth skin",
+        "smile",
+        "satisfaction"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "satisfying",
+          "joyful",
+          "transformation"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear peel",
+          "skin texture focus",
+          "expressive reaction"
+        ]
+      },
+      "why_kept": "This is the core 'hero moment' of the video, showing the full, satisfying peel-off of the mask, highlighting the product's effectiveness and the visible transformation of the skin with a clear emotional climax."
+    },
+    {
+      "start_time": "00:22.500",
+      "end_time": "00:24.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Product_Intro",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "holding product boxes",
+        "pink boxes",
+        "skincare"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "concluding"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "branding focus",
+          "final presentation"
+        ]
+      },
+      "why_kept": "Provides a final, clear look at the packaging of both products, reinforcing the brand and the items used in the demonstrated routine."
+    }
+  ]
+}

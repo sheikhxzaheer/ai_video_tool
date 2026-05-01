@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Coffee throw out\\coffee kick.MOV",
+  "detailed_description": "A person demonstrates interaction with a reusable Starbucks cup in an outdoor setting. The video captures a hand holding the cup, then releasing it, allowing it to fall and land on a patch of grass next to a concrete path. This action highlights the cup's design and physical presence, possibly implying a test of its durability or ease of use in a casual environment. The top-down perspective provides a clear view of the product and its interaction with the ground.",
+  "segments": [
+    {
+      "start_time": "00:00.800",
+      "end_time": "00:03.300",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Starbucks cup",
+        "hand",
+        "dropping",
+        "grass",
+        "concrete path"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "neutral",
+          "demonstrative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sunny lighting",
+          "top-down perspective",
+          "clear focus"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it captures the direct interaction with the product, specifically the moment a Starbucks cup is presented, held by a hand, and then intentionally dropped onto the grass. This action is the central event demonstrating the product's use or a test of its physical attributes."
+    }
+  ]
+}

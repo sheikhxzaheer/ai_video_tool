@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Makeup_artist\\ssstik.io_@loguiso_1763654811658.mp4",
+  "detailed_description": "This video offers a candid look behind the scenes at Coperni PFW, focusing on a model engaging with a makeup artist during her preparation. The model is seen in various stages of conversation, displaying natural smiles and animated facial expressions, capturing the human interaction and positive atmosphere of a busy fashion event backstage. It highlights the collaborative process of getting ready for a show, emphasizing the model's personality and engagement.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:20.252",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "model",
+        "makeup artist",
+        "backstage",
+        "conversation",
+        "smiling",
+        "talking",
+        "makeup application",
+        "hair clip"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "candid"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "intimate shot",
+          "documentary style"
+        ]
+      },
+      "why_kept": "The entire segment serves as the semantic core, demonstrating the 'Process/Labor' of makeup application and 'Emotional Climax' through the model's genuine 'Face_Reaction' and 'Positive_Emotion' during 'Human_Interaction' with the makeup artist. It perfectly embodies a 'Behind_The_Scenes' look at a fashion event. The clip starts and ends organically without any setup or dead air, thus adhering to the 'No-Mistake' rule."
+    }
+  ]
+}

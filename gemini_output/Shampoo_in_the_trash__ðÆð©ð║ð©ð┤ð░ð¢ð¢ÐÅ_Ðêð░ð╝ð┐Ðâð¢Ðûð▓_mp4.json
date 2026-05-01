@@ -1,0 +1,79 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Shampoo in the trash\\ðÆð©ð║ð©ð┤ð░ð¢ð¢ÐÅ Ðêð░ð╝ð┐Ðâð¢Ðûð▓.mp4",
+  "detailed_description": "This video showcases the straightforward act of decluttering personal care products from a bathroom. It features a person collecting various purple-hued bottles, including shampoo and body mist, and then purposefully discarding them into a simple black trash can. The primary action focuses on the human interaction with the products and the waste bin, illustrating a common home organization task. The segment concludes by presenting the discarded items gathered neatly within the bin, signifying the completion of the cleaning process.",
+  "segments": [
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands",
+        "purple bottles",
+        "shampoo",
+        "body mist",
+        "trash can",
+        "dropping"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment is the strongest 'Hero Moment' as it clearly demonstrates the core action of the video: a person actively interacting with products by collecting and discarding them into a trash can. It captures both the 'Product Interaction' and 'Process' criteria effectively, showing the items explicitly before being thrown away."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Standalone",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "trash can",
+        "discarded bottles",
+        "purple bottles",
+        "shampoo",
+        "body mist",
+        "contents"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "clean aesthetic",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment serves as a 'Reveal/Result' moment, showing the outcome of the decluttering action. It provides a clear view of the discarded products inside the trash can, visually reinforcing the completion of the task demonstrated in the anchor segment."
+    }
+  ]
+}

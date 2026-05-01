@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\36b1f2ee955b4971a87aa076e42dde7d.mp4",
+  "detailed_description": "This video features a young man expressing visible distress and doubt about potential hair loss. He pulls back his hair to reveal a receding hairline at his temples, while an on-screen text overlay explicitly asks, 'Im not going bald right.... RIGHT?!' His facial expressions convey anxiety and uncertainty, perfectly encapsulating a 'problem state' related to hair loss, amplified by dramatic, suspenseful music.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Confusion_Doubt"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair",
+        "receding hairline",
+        "forehead",
+        "hand",
+        "red shirt",
+        "anxious expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "energetic",
+          "confusion",
+          "doubt"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "candid",
+          "natural lighting",
+          "handheld camera"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it directly and immediately establishes the core problem (potential hair loss), the subject's emotional reaction (doubt, anxiety), and the central question of the video through both visual action and text overlay. The entire duration effectively builds and delivers this 'problem state' hero moment."
+    }
+  ]
+}

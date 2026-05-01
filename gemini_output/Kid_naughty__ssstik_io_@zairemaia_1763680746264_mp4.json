@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid naughty\\ssstik.io_@zairemaia_1763680746264.mp4",
+  "detailed_description": "This video vividly captures a high-energy and playful moment between two young children in the back seat of a car. The younger boy is initially seen making animated expressions and sounds, which is soon amplified by the arrival of an older girl. She excitedly wraps her arms around him, joining in the joyful screams and interactions, creating a dynamic scene of sibling affection and enthusiasm during what appears to be a lively car ride.",
+  "segments": [
+    {
+      "start_time": "00:00.600",
+      "end_time": "00:12.450",
+      "structural_tags": [
+        "High_Energy",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "children",
+        "car",
+        "screaming",
+        "playing",
+        "sibling interaction",
+        "car ride",
+        "joyful"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "car",
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "handheld perspective"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, showcasing the continuous, high-energy, and playful interaction between the two children in the car. It begins with the boy's animated expressions and smoothly transitions into the full, engaging interaction with the girl, embodying an emotional climax and strong human interaction throughout its duration. No trimming was applied as the action is continuous and begins/ends naturally with the clip."
+    }
+  ]
+}

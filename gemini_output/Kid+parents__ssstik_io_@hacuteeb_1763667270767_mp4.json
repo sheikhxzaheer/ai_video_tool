@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid+parents\\ssstik.io_@hacuteeb_1763667270767.mp4",
+  "detailed_description": "This heartwarming video captures a tender interaction between a man and a baby. The man playfully shuffles banknotes, then offers a 100 RMB bill to the baby. The baby's face lights up with pure joy and an infectious laugh upon seeing and taking the money, highlighting a delightful moment of innocent happiness and perhaps a playful commentary on the universal appeal of money.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.518",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "baby",
+        "money",
+        "banknotes",
+        "sofa",
+        "laughing baby"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "home setting",
+          "warm tones"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core. It clearly shows the interaction (man presenting money), product interaction (baby reaching for and holding the money), and the emotional climax (the baby's genuine, infectious laughter in response, which is the primary 'wow' moment and the core value of the clip)."
+    }
+  ]
+}

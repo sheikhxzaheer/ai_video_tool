@@ -1,0 +1,75 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\ssstik.io_1744136557823.mp4",
+  "detailed_description": "This video vividly illustrates a dramatic transformation in hair density through a clear before-and-after comparison. The initial segment, labeled 'BEFORE', highlights areas of sparse, thinning hair on the scalp as a comb parts the hair. Immediately following, the 'AFTER' segment showcases significantly thicker and denser hair, effectively concealing the scalp, demonstrating a successful improvement in hair coverage.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.966",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Human_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "thinning hair",
+        "visible scalp",
+        "comb",
+        "parting hair",
+        "hair loss"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "white background"
+        ]
+      },
+      "why_kept": "This segment establishes the 'Problem_State' and the 'Before' aspect of the hair condition, making it a critical part of the overall transformation narrative. The combing action clearly demonstrates the thinning areas."
+    },
+    {
+      "start_time": "00:09.966",
+      "end_time": "00:20.100",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Human_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "dense hair",
+        "full hair",
+        "covered scalp",
+        "comb",
+        "hair growth"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "white background"
+        ]
+      },
+      "why_kept": "This segment presents the 'Result_Transformation' and the 'After' state, directly showcasing the improvement in hair density compared to the previous segment. The combing action emphasizes the improved coverage."
+    }
+  ]
+}

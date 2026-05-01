@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Traveling\\ssstik.io_@tessam26_1769068407259.mp4",
+  "detailed_description": "The video captures two individuals, presumably friends, walking on a moving walkway within a modern and brightly lit airport terminal. Both are dressed in similar stylish outfits, featuring fluffy white jackets and wide-leg pants, suggesting a coordinated fashion choice for their travel. They walk leisurely side-by-side, embodying a casual and sociable aspect of transit, while showcasing their attire against the clean, contemporary airport backdrop. The scene effectively portrays a moment of travel combined with personal style and interaction.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.433",
+      "structural_tags": [
+        "Human_Interaction",
+        "Travel_Transit",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "women",
+        "airport",
+        "moving walkway",
+        "white fluffy jackets",
+        "walking",
+        "travel",
+        "modern terminal"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "airport"
+        ],
+        "mood": [
+          "calm",
+          "sociable",
+          "stylish"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "fashion-forward"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, capturing the full action of two individuals walking together on an airport moving walkway. It represents human interaction during transit and visually showcases their coordinated style. The 'no-mistake' rule applies here, as the action begins with one person on the walkway and concludes shortly after both have moved across and exited the frame, making the entire duration relevant for the depicted scene."
+    }
+  ]
+}

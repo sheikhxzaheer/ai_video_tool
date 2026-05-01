@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\showcase6.mov",
+  "detailed_description": "This video features a young woman holding and presenting a bottle of 'MolbMD Mold Spot Remover.' She smiles directly at the camera while announcing a 50% off sale for the product. The core message includes a clear call to action, encouraging viewers to click a link to claim their discount today. The entire segment focuses on product introduction, a promotional offer, and a direct call to action, all while the product is visibly displayed.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.750",
+      "structural_tags": [
+        "Product_Intro",
+        "Offer_CTA",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "long hair",
+        "white shirt",
+        "MolbMD Mold Spot Remover bottle",
+        "spray cleaner",
+        "kitchen background",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct address",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it features direct product interaction (holding and showing the product), a clear emotional climax (the presenter's consistent smile), and key information with a call to action (announcing a 50% off sale and instructing viewers to click a link). It starts and ends precisely with the core message and visual presentation, adhering to the 'No-Mistake' rule."
+    }
+  ]
+}

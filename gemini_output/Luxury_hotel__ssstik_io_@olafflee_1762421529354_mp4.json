@@ -1,0 +1,308 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury hotel\\ssstik.io_@olafflee_1762421529354.mp4",
+  "detailed_description": "This video captures the immersive experience of checking into and enjoying a luxurious, 'boujee' hotel. It begins with the initial exciting reveal of the opulent room, showcasing the guest's delighted reaction upon entry. The journey continues through the lavish bathroom, highlighting high-end amenities and personal care routines. The video also features the playful jumping on the plush bed, conveying a sense of carefree enjoyment. Further segments display the well-appointed closet and impressive hotel common areas. The experience culminates in serene moments of relaxation, emphasizing the premium and pampered stay.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Travel_Transit",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "door",
+        "woman",
+        "suitcase",
+        "entering room",
+        "excited reaction",
+        "covered mouth"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic entry",
+          "warm lighting",
+          "text overlay"
+        ]
+      },
+      "why_kept": "This segment serves as the primary visual hook, immediately setting the scene with the 'pov' text and capturing the initial 'wow' emotional reaction of checking into the luxurious hotel."
+    },
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "robe",
+        "bathroom",
+        "selfie",
+        "peace sign",
+        "mirror",
+        "marble"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "mirror shot"
+        ]
+      },
+      "why_kept": "This segment showcases personal enjoyment and direct interaction with the hotel's amenities (robe, luxurious bathroom environment), reinforcing the pampering aspect of the stay."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:03.800",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Product_Standalone",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "lamp",
+        "bedside table",
+        "ornate headboard",
+        "luxury decor",
+        "bed"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "golden accents",
+          "classical design"
+        ]
+      },
+      "why_kept": "This close-up shot provides a detailed glimpse of the luxurious room decor, highlighting the 'boujee' aesthetic and attention to detail."
+    },
+    {
+      "start_time": "00:03.800",
+      "end_time": "00:05.900",
+      "structural_tags": [
+        "High_Energy",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "robe",
+        "jumping",
+        "bed",
+        "playful",
+        "luxurious room"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "ornate ceiling",
+          "soft bedding"
+        ]
+      },
+      "why_kept": "This segment effectively conveys excitement and a sense of carefree enjoyment, a key emotional experience associated with a luxury hotel stay."
+    },
+    {
+      "start_time": "00:05.900",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Product_Standalone",
+        "Macro_Detail",
+        "Aesthetic_Broll",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "skincare products",
+        "makeup brushes",
+        "perfume",
+        "toothbrush",
+        "shower products",
+        "marble counter",
+        "luxury brands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "marble textures",
+          "organized display"
+        ]
+      },
+      "why_kept": "This consolidated segment showcases the high-end personal care products and luxurious bathroom features, enhancing the 'boujee' theme and the implied self-care aspect of the stay."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Product_Standalone",
+        "Macro_Detail",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "closet",
+        "clothes",
+        "scarf",
+        "luxury bag",
+        "steamer",
+        "organized wardrobe"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "organized space",
+          "warm lighting",
+          "luxury fashion items"
+        ]
+      },
+      "why_kept": "This segment reveals the organized and luxurious wardrobe space within the hotel room, including personal high-end items, adding to the overall premium experience."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "hotel lobby",
+        "fountain",
+        "water feature",
+        "pool",
+        "cabanas",
+        "luxury resort"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "architectural design",
+          "soft ambient light",
+          "resort atmosphere"
+        ]
+      },
+      "why_kept": "This segment expands the narrative to showcase other luxurious amenities and impressive common areas within the hotel, providing a broader view of the 'boujee' experience beyond the room."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:17.300",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Night_Routine",
+        "Aesthetic_Broll",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "eye mask",
+        "drinking water",
+        "reading magazine",
+        "relaxation",
+        "comfortable"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft bedding",
+          "gentle lighting",
+          "peaceful scene"
+        ]
+      },
+      "why_kept": "This concluding segment portrays ultimate comfort and relaxation, a quintessential aspect of a luxury hotel stay, offering a satisfying end to the 'boujee' experience."
+    }
+  ]
+}

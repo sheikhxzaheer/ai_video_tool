@@ -1,0 +1,79 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\IMG_05755.MOV",
+  "detailed_description": "The video effectively demonstrates a dramatic hair transformation, commencing with a man showcasing significant hair loss, particularly on the top of his head, with only short stubble remaining on the sides. A quick visual transition then reveals him with a full, well-styled head of brown hair. His immediate reaction is one of overwhelming joy and satisfaction, marked by wide smiles and laughter, underscoring the positive impact of his new look. The clip concludes by identifying the hair system as 'Neo' through a text overlay, highlighting the product responsible for this remarkable change.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.400",
+      "structural_tags": [
+        "Problem_State",
+        "Before_After",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man",
+        "bald head",
+        "hair loss",
+        "serious expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct gaze",
+          "plain background"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'before' state, visually presenting the problem of hair loss, which is critical for providing context and maximizing the impact of the subsequent transformation."
+    },
+    {
+      "start_time": "00:01.400",
+      "end_time": "00:08.533",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Product_Intro",
+        "Before_After",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man",
+        "full hair",
+        "stylish hair",
+        "smiling",
+        "laughing",
+        "touching hair",
+        "text overlay 'Hair name: Neo'"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "happy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "dynamic facial expressions",
+          "product name overlay"
+        ]
+      },
+      "why_kept": "This segment captures the complete and successful hair transformation, showcasing the desired result, the subject's genuine positive emotional reaction, and introduces the product ('Neo') responsible for the change, thus forming the core value proposition of the video."
+    }
+  ]
+}

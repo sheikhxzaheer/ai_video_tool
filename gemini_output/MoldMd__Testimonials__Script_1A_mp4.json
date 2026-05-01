@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Testimonials\\Script 1A.mp4",
+  "detailed_description": "A man in a modern bathroom shares his positive experience with MoldMD Mold Spot Remover. He expresses initial skepticism but explains how the product effectively resolved his allergies within a couple of weeks, suggesting it had a significant impact on his living environment. He confidently recommends the product, giving it a perfect 10 out of 10 rating, emphasizing its efficacy in improving his well-being.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:20.627",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Product_Intro",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Key_Information",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "man",
+        "holding spray bottle",
+        "MoldMD product",
+        "bathroom",
+        "shower",
+        "tiles"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "positive",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "well-lit",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment is the core semantic moment as it features a person directly addressing the camera, holding and showcasing the product, and providing a personal testimonial about its effectiveness and a strong recommendation. It combines product interaction, key information delivery, and an emotional climax of satisfaction, making it the central message of the video. No trimming was needed as the segment starts with the core action and ends naturally without dead air or setup."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Product\\DJI_20250519202205_0791_D.mp4",
+  "detailed_description": "This video provides a close-up, steady shot of a hand holding a black bottle of 'SPARTAN Root Activator Shampoo' over a clean bathroom sink. The product's label, including its name and description, is clearly visible, showcasing the item's design and purpose. The primary focus is on the shampoo bottle, presented for detailed viewing in a bathroom setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.133",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "shampoo bottle",
+        "SPARTAN brand",
+        "Root Activator Shampoo",
+        "bathroom sink",
+        "gold faucet"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "steady shot",
+          "clean aesthetic",
+          "good lighting"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it entirely focuses on the 'Product Interaction' hero moment. A hand clearly presents and displays the 'SPARTAN Root Activator Shampoo' bottle, allowing full visibility of the product and its label. There are no extraneous frames before or after the action, making the entire duration relevant for product presentation."
+    }
+  ]
+}

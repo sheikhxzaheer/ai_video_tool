@@ -1,0 +1,85 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pills\\ssstik.io_@amaialoves1629_1766920127570.mp4",
+  "detailed_description": "The video captures a woman in a whimsical frog hat performing a personal wellness routine. It showcases her interacting with two different products: first, she pours supplements into her hand, indicating a focus on health and nutrition. Subsequently, she takes a drink from a sleek water bottle, displaying a moment of calm satisfaction through her facial expressions and gestures. The overall tone suggests a relaxed and self-care oriented routine.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "frog hat",
+        "pouring pills",
+        "white supplement bottle",
+        "hand",
+        "tablets"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "casual wear",
+          "focused"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates 'Product Interaction' as the woman pours supplements, which is a core action in a wellness routine."
+    },
+    {
+      "start_time": "00:06.400",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Calm_Relaxation",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "frog hat",
+        "drinking water",
+        "light green water bottle",
+        "facial expression",
+        "hand on chest"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "casual wear",
+          "expressive"
+        ]
+      },
+      "why_kept": "This segment is a strong 'Product Interaction' combined with a clear 'Emotional Climax' (facial reaction and hand gesture) indicating satisfaction or enjoyment from the product, making it a key 'Hero Moment'."
+    }
+  ]
+}

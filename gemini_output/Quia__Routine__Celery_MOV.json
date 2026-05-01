@@ -1,0 +1,192 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Routine\\Celery.MOV",
+  "detailed_description": "The video captures a woman's lively process of preparing fresh celery and carrot juice in her kitchen. It starts with her enthusiastically chopping celery, followed by a playful reveal of a large bag of carrots. The core of the content focuses on her using a juicer to transform the raw vegetables into vibrant green juice, showing the direct extraction into a glass jar. The video concludes with a satisfying moment as she stores her freshly made, healthy beverage in the refrigerator.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Home_Kitchen",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "Woman",
+        "cutting celery",
+        "celery",
+        "knife",
+        "smiling",
+        "wow expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment introduces the main ingredient (celery) through the action of cutting and features a strong positive emotional reaction from the subject, serving as an engaging visual hook."
+    },
+    {
+      "start_time": "00:30.000",
+      "end_time": "00:37.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Home_Kitchen",
+        "Ingredient_Highlight",
+        "Emotional_Climax",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Woman",
+        "holding carrots",
+        "bag of carrots",
+        "smiling",
+        "wow expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment introduces the second key ingredient (carrots) with a clear emotional climax and product interaction, maintaining the video's positive and energetic tone."
+    },
+    {
+      "start_time": "00:43.000",
+      "end_time": "01:00.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "Woman",
+        "juicer",
+        "celery",
+        "juicing",
+        "putting celery in"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the core 'Process/Labor' of juicing the celery, showing the woman actively operating the juicer and feeding the produce."
+    },
+    {
+      "start_time": "01:13.000",
+      "end_time": "01:20.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Macro_Detail",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "Juicer",
+        "celery",
+        "juice",
+        "mason jar",
+        "juice flowing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic angle",
+          "natural light"
+        ]
+      },
+      "why_kept": "This close-up BROLL segment effectively showcases the 'Mechanism of Action' and 'Result Transformation' as the fresh juice is visibly extracted, providing a satisfying detail of the juicing process."
+    },
+    {
+      "start_time": "01:33.000",
+      "end_time": "01:39.000",
+      "structural_tags": [
+        "Reveal_Result",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Woman",
+        "celery juice",
+        "mason jar",
+        "refrigerator",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment acts as the 'Reveal/Result' hero moment, showing the final product (fresh juice) being stored, conveying satisfaction and completing the narrative arc."
+    }
+  ]
+}

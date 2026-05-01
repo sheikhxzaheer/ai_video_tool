@@ -1,0 +1,216 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Orange juice\\ssstik.io_@touchtechhome_1766923364323.mp4",
+  "detailed_description": "This video showcases the WHALLPRO wireless hand blender, demonstrating its ease of use and powerful performance. It begins by preparing oranges for blending, highlights the blender's wireless functionality and quick assembly, and then effectively processes the fruit into a smooth juice. The video concludes by presenting the versatile five-piece set, emphasizing its suitability for diverse family kitchen needs, and reinforcing the brand's identity.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.400",
+      "structural_tags": [
+        "Human_Interaction",
+        "Home_Kitchen",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "hand",
+        "black glove",
+        "orange segments",
+        "measuring cup",
+        "wooden board"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "direct lighting"
+        ]
+      },
+      "why_kept": "This segment introduces the ingredients and initial preparation, setting the stage for the product demonstration through human interaction and process."
+    },
+    {
+      "start_time": "00:01.400",
+      "end_time": "00:03.433",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "black glove",
+        "WHALLPRO blender",
+        "blender head",
+        "assembling product",
+        "wireless usage text"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sleek design",
+          "product focus",
+          "text overlay"
+        ]
+      },
+      "why_kept": "This segment clearly showcases the product itself, its brand, and the simple, wireless mechanism of attaching the blending head, emphasizing ease of use."
+    },
+    {
+      "start_time": "00:03.433",
+      "end_time": "00:14.333",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Home_Kitchen",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "hand blender",
+        "blending oranges",
+        "orange juice",
+        "measuring cup",
+        "splatter",
+        "wireless usage text"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "effective"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic action",
+          "liquid motion",
+          "real-time transformation"
+        ]
+      },
+      "why_kept": "This is the core hero moment, demonstrating the product's primary function and power by transforming solid oranges into juice, clearly showing its effectiveness and the value it provides."
+    },
+    {
+      "start_time": "00:14.333",
+      "end_time": "00:17.533",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Interaction",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "pouring juice",
+        "orange juice",
+        "tall glass",
+        "measuring cup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "satisfying"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "smooth pour",
+          "visual appeal",
+          "golden liquid"
+        ]
+      },
+      "why_kept": "This segment provides a clear visual of the final, smooth result of the blending process, reinforcing the product's capability and presenting the delicious outcome."
+    },
+    {
+      "start_time": "00:18.000",
+      "end_time": "00:21.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Key_Information",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "WHALLPRO blender set",
+        "chopper attachment",
+        "whisk attachment",
+        "measuring cup",
+        "five piece set text"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "premium",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "product lineup",
+          "clean display",
+          "text overlay"
+        ]
+      },
+      "why_kept": "This segment effectively showcases the full five-piece set, highlighting the product's versatility and value proposition for different family needs, adding to the overall product understanding."
+    },
+    {
+      "start_time": "00:21.650",
+      "end_time": "00:23.000",
+      "structural_tags": [
+        "Offer_CTA",
+        "Product_Intro"
+      ],
+      "visual_keywords": [
+        "WHALLPRO logo",
+        "check mark",
+        "Show Now button",
+        "cursor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "other",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "informative",
+          "direct"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "brand identity",
+          "call to action",
+          "digital graphic"
+        ]
+      },
+      "why_kept": "This segment serves as the brand's call to action and final branding moment, essential for encouraging viewer engagement and reinforcing brand recall."
+    }
+  ]
+}

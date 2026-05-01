@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\ssstik.io_1745417893383.mp4",
+  "detailed_description": "This video provides a close-up view of a severe scalp condition, likely psoriasis or extreme dandruff, characterized by numerous large, yellowish, flaky scales embedded within the hair. A person wearing light blue medical gloves is seen carefully manipulating the hair and gently picking at these scales, highlighting the texture and extent of the build-up. The footage clearly illustrates the challenging nature of managing such a condition, emphasizing the physical manifestation of the scalp issue.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:24.470",
+      "structural_tags": [
+        "Problem_State",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Macro_Detail",
+        "Clinical"
+      ],
+      "visual_keywords": [
+        "scalp",
+        "hair",
+        "dandruff",
+        "flakes",
+        "yellowish scales",
+        "gloved hands",
+        "parting hair",
+        "picking flakes"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "office",
+          "clinical"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "detailed focus",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment is kept entirely as it fully captures the core meaning of the video: a detailed visual demonstration of a severe scalp condition and the professional interaction (process/labor) involved in managing or examining it. The action is continuous and begins immediately, concluding with the end of the clip, thus adhering to the 'No-Mistake' rule."
+    }
+  ]
+}

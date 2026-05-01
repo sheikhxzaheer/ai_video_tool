@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Hair on comb\\ssstik.io_1745228965290.mp4",
+  "detailed_description": "This video highlights a common and perplexing issue for hairbrush users: the accumulation of a 'weird white fuzz' intertwined with shed hair on their brushes. The creator showcases two different 'Wet Brush' brand hairbrushes, both exhibiting this phenomenon, to demonstrate its recurring nature. Through on-screen text, the user expresses confusion about the origin of this fuzz and asks viewers if they experience the same, inviting engagement and collective problem-solving for a relatable hair care dilemma.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.590",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Confusion_Doubt",
+        "Macro_Detail",
+        "Product_Standalone",
+        "Split_Screen"
+      ],
+      "visual_keywords": [
+        "hairbrush",
+        "hair",
+        "white fuzz",
+        "dirty brush",
+        "purple hairbrush",
+        "black hairbrush",
+        "Wet Brush logo",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "inquiring"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "natural lighting",
+          "steady camera"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, presenting a clear 'Problem_State' (the mysterious white fuzz on hairbrushes) and conveying the user's 'Confusion_Doubt' through text overlays. The video effectively uses 'Macro_Detail' to show the fuzz and 'Split_Screen' to compare two brushes exhibiting the same issue, directly fulfilling the criteria for demonstrating a core problem from start to finish without any trimmable setup or post-action dead air."
+    }
+  ]
+}

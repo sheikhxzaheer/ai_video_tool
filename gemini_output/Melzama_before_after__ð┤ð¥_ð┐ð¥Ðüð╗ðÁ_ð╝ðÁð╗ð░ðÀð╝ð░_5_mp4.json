@@ -1,0 +1,83 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ð╝ðÁð╗ð░ðÀð╝ð░ 5.mp4",
+  "detailed_description": "This video presents a dramatic before-and-after transformation of a woman's face. The 'before' segments clearly show her struggle with melasma, characterized by dark patches and uneven skin tone, conveying a sense of dissatisfaction. The 'after' segments reveal a significant improvement, with her skin appearing clear, radiant, and glowing, accompanied by a confident and happy smile. The core message highlights the successful reversal of melasma, leading to a visibly enhanced complexion and positive emotional shift.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "melasma",
+        "dark spots",
+        "skin discoloration",
+        "serious expression",
+        "white robe"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "raw",
+          "unedited look"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'Before' state, showing the severe melasma on the woman's face, which is the central problem the video aims to address. It serves as a strong visual hook and problem statement."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "clear skin",
+        "glowing skin",
+        "smile",
+        "happy expression",
+        "dark top",
+        "necklace"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clean",
+          "radiant look"
+        ]
+      },
+      "why_kept": "This segment is the 'After' state, showcasing the dramatic positive transformation of the woman's skin from melasma to a clear, glowing complexion. Her confident smile and radiant look represent the emotional climax and successful result, making it a critical 'Reveal/Result' hero moment."
+    }
+  ]
+}

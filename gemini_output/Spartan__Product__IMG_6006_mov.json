@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Product\\IMG_6006.mov",
+  "detailed_description": "The video provides a dynamic visual introduction to the 'Spartan Root Activator Shampoo'. It opens with a close-up of a single sleek grey bottle, showcasing its branding and product name. The camera then smoothly pans and rotates, revealing an elaborate display of multiple shampoo bottles arranged in a circular pattern on a reflective, dark-tiled surface. This continuous B-roll emphasizes the product's premium aesthetic and highlights its presence within a well-designed environment, including a brush and other metallic accents.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.033",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "Spartan Root Activator Shampoo bottle",
+        "shampoo display",
+        "reflective surface",
+        "black and grey tiles",
+        "gold lines",
+        "toothbrush",
+        "metallic accents"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "sleek",
+          "rugged"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera movement",
+          "reflections",
+          "clean aesthetic",
+          "dark tones",
+          "metallic finishes"
+        ]
+      },
+      "why_kept": "This entire segment serves as the core visual introduction and aesthetic presentation of the product. The continuous camera movement highlights both the individual product and its sophisticated display environment, acting as a cohesive visual hook and product showcase without any extraneous elements or dead air. It perfectly aligns with the 'Product_Intro' and 'Aesthetic_Broll' hero moment criteria."
+    }
+  ]
+}

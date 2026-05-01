@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated\\ssstik.io_@hannah.josephin_1774431588860.mp4",
+  "detailed_description": "The video highlights the difference between an idealized perception of a \"healthy\" body and its natural appearance, particularly in the evening. It starts with the creator posing with a sucked-in, flat stomach, labeled as the \"healthy\" look. She then visibly relaxes her abdominal muscles, revealing a naturally bloated stomach, which she labels \"how it really looks.\" Her expression shifts from tense to a relaxed and happy smile, conveying a powerful message of body positivity and self-acceptance, normalizing natural bodily fluctuations.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.398",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "posing",
+        "flat stomach",
+        "bloated stomach",
+        "smiling",
+        "gestures",
+        "bedroom",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "casual",
+          "body positivity message"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it clearly demonstrates the 'before' (sucked-in stomach) and 'after' (relaxed/bloated stomach) of the body's appearance, explicitly contrasting societal ideals with reality. The emotional shift from a strained pose to a relaxed, happy expression, combined with the explanatory text overlays, delivers the core message of body positivity and normalization."
+    }
+  ]
+}

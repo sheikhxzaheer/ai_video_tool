@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Spraying\\IMG_0182.MOV",
+  "detailed_description": "This video showcases the effective use of a mold spot remover on a dirty window sill. The footage begins by presenting the visible mold and grime around the window frame, establishing a clear problem state. A hand then applies the cleaning solution using a spray bottle directly onto the affected areas. Following the application, the hand thoroughly wipes the window sill with a cloth, demonstrating the product's ability to quickly and visibly remove the mold and dirt, resulting in a significantly cleaner surface.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:16.200",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Process_Labor",
+        "Result_Transformation",
+        "Before_After",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hand",
+        "spray bottle",
+        "mold spot remover",
+        "window sill",
+        "mold",
+        "dirt",
+        "wiping",
+        "cleaning cloth",
+        "clean surface",
+        "window frame"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "clinical",
+          "satisfying"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "practical demonstration",
+          "direct action",
+          "clear visibility"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it clearly demonstrates the problem, the product's application, the cleaning process (the 'labor'), and the immediate transformation/result. It perfectly aligns with the 'NO-MISTAKE' rule, as the action starts immediately and finishes when the result is shown, forming a cohesive and complete hero moment."
+    }
+  ]
+}

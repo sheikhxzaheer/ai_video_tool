@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1753901357660.mp4",
+  "detailed_description": "The video showcases a group of five impeccably dressed men, exuding style and camaraderie, in an outdoor setting. They are seen laughing and interacting in front of a large rustic wooden door, then confidently walking together. The men are wearing stylish winter coats, suits, and sunglasses, highlighting a sophisticated and fashion-forward urban lifestyle. The segment captures their positive dynamic and elegant attire.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:07.417",
+      "structural_tags": [
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "men",
+        "coats",
+        "suits",
+        "sunglasses",
+        "smiling",
+        "laughing",
+        "walking",
+        "wooden door",
+        "courtyard",
+        "fashion",
+        "style"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "fluid camera movement",
+          "well-dressed",
+          "confident"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it captures the main action and message of the video. It features all five stylish men, first interacting playfully in a wide shot (emotional climax) and then walking together, dynamically showcasing their fashion (lifestyle, aesthetic broll). This continuous sequence perfectly encapsulates the video's intent of presenting stylish individuals in a social context with positive energy, without any setup or dead air."
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated Before_After\\ssstik.io_@amyflamy1_1774435539178.mp4",
+  "detailed_description": "This video captures a woman's morning fitness routine aimed at reducing bloating and facial swelling. It begins by showcasing her 'before' state with morning bloating. She then applies a facial slimming mask and engages in a 24-minute treadmill run, combining both steady-state and sprint speeds. The video concludes with a reveal of her 'after' state, demonstrating a visibly flatter stomach and a more defined facial contour after completing her workout and removing the mask.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.000",
+      "structural_tags": [
+        "Problem_State",
+        "Before_After",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "gym",
+        "stomach",
+        "hands",
+        "bloating",
+        "headphones",
+        "fitness attire"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "direct view"
+        ]
+      },
+      "why_kept": "This segment explicitly establishes the 'before' state, showing morning bloating and setting the visual context for the transformation that follows."
+    },
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "gym",
+        "face mask",
+        "chin band",
+        "headphones",
+        "hands",
+        "fitness attire"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "determined"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "smooth camera movement"
+        ]
+      },
+      "why_kept": "This segment demonstrates the product being applied, illustrating its usage as part of the pre-workout routine and hinting at the dual transformation (body and face)."
+    },
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Lifestyle_Active",
+        "High_Energy",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "treadmill",
+        "running",
+        "gym",
+        "headphones",
+        "fitness attire"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic action",
+          "focus on movement"
+        ]
+      },
+      "why_kept": "This segment showcases the core physical activity, illustrating the effort and the process involved in achieving the desired post-workout results."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "gym",
+        "flat stomach",
+        "brown top",
+        "shorts",
+        "fitness attire"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear transformation",
+          "direct comparison"
+        ]
+      },
+      "why_kept": "This is a pivotal 'after' shot that directly contrasts the initial bloated state, visually confirming the immediate reduction in bloating and serving as a key result."
+    },
+    {
+      "start_time": "00:14.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "gym",
+        "face mask",
+        "hands",
+        "headphones"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean",
+          "focused"
+        ]
+      },
+      "why_kept": "This segment shows the removal of the facial slimming mask, completing the product usage cycle and setting up the reveal of the facial transformation."
+    },
+    {
+      "start_time": "00:16.000",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "woman",
+        "gym",
+        "fit body",
+        "brown top",
+        "shorts",
+        "posing",
+        "fitness attire"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "confident posing",
+          "overall aesthetic"
+        ]
+      },
+      "why_kept": "This segment reinforces the 'after' transformation by showcasing the overall body and posture from various angles, highlighting the success of the full routine."
+    },
+    {
+      "start_time": "00:18.000",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "sweat",
+        "gym",
+        "headphones",
+        "smile"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "fresh",
+          "post-workout glow"
+        ]
+      },
+      "why_kept": "This close-up shot of her face post-workout and post-mask removal provides visual evidence of reduced facial swelling and a fresh, confident look."
+    }
+  ]
+}

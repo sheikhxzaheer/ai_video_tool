@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Barman\\weird\\ssstik.io_@cactus_coffee_kr_1760264666757.mp4",
+  "detailed_description": "This video captures a barista in a unique squatting position on a cafe counter, skillfully pouring steamed milk from a metal pitcher into a paper coffee cup to create latte art. The woman is entirely focused on the intricate process, demonstrating her expertise and interaction with the coffee-making tools. The environment is a clean, modern cafe with a menu board and various coffee-related items in the background.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.898",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Process_Labor",
+        "Workspace_Office",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "barista",
+        "coffee",
+        "latte art",
+        "pitcher",
+        "cup",
+        "counter",
+        "squatting",
+        "cafe",
+        "pouring"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "serious",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "unique posture",
+          "focused action",
+          "bright lighting",
+          "creative angle"
+        ]
+      },
+      "why_kept": "This entire segment is the core semantic moment as it continuously showcases the skilled process of the barista making coffee. It demonstrates the 'Process/Labor' of creating the drink and 'Product Interaction' with the tools, all while maintaining a visually engaging and unique posture. There is no setup, calibration, or post-action dead air to trim; the action is central throughout."
+    }
+  ]
+}

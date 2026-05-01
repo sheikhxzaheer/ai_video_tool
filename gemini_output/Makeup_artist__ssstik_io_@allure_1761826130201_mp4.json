@@ -1,0 +1,127 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Makeup_artist\\ssstik.io_@allure_1761826130201.mp4",
+  "detailed_description": "This video showcases Priscilla Ono, Global Makeup Artist for Fenty Beauty, as she prepares and executes Rihanna's makeup for her Super Bowl halftime show. The semantic core emphasizes the meticulous process of her artistry, beginning with the careful organization and display of all Fenty Beauty and Fenty Skin products. It then transitions to the critical moments of applying final touch-ups to Rihanna backstage, ensuring her look is flawless before she hits the stage. The video captures the behind-the-scenes effort that contributes to an iconic performance, highlighting the essential role of the products and the artist's skill.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.400",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Behind_The_Scenes",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "Rihanna",
+        "makeup artist",
+        "makeup brush",
+        "makeup application",
+        "red outfit"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "focused work",
+          "backstage setup"
+        ]
+      },
+      "why_kept": "This segment immediately establishes the core action of the video: the makeup artist applying makeup to Rihanna, directly showcasing the 'Process/Labor' and 'Product_Interaction' relevant to the video's premise."
+    },
+    {
+      "start_time": "00:34.400",
+      "end_time": "00:51.300",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Product_Standalone",
+        "Macro_Detail",
+        "Behind_The_Scenes",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Fenty Beauty products",
+        "makeup brushes",
+        "sponges",
+        "lipsticks",
+        "Fenty Skin bottles",
+        "primers",
+        "compacts",
+        "table",
+        "makeup station"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "macro",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "detailed",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "organized setup",
+          "detailed product shots"
+        ]
+      },
+      "why_kept": "This segment provides a detailed look at the 'Product_Interaction' and 'Process_Labor' involved in setting up the professional makeup station, highlighting the Fenty Beauty products essential for Rihanna's look. It's crucial for understanding the artist's toolkit and the brand's presence."
+    },
+    {
+      "start_time": "00:51.300",
+      "end_time": "00:54.400",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "Rihanna",
+        "makeup artist",
+        "makeup application",
+        "stage",
+        "backstage",
+        "Fenty jacket"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "urgent"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic lighting",
+          "backstage atmosphere",
+          "focused work"
+        ]
+      },
+      "why_kept": "This is the climactic 'Process/Labor' moment, showing the final 'Product_Interaction' and makeup application on Rihanna right before her performance. It's the most direct fulfillment of the video's promise and serves as the primary visual anchor for the story."
+    }
+  ]
+}

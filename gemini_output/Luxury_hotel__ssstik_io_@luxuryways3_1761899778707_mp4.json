@@ -1,0 +1,65 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury hotel\\ssstik.io_@luxuryways3_1761899778707.mp4",
+  "detailed_description": "This video offers a comprehensive visual tour of a luxurious hotel or resort, meticulously showcasing its exquisite architecture, interior design, and prime location with stunning vistas. The sequence transitions smoothly from the grand, car-lined entrance to an expansive, high-ceilinged lobby, then to a sophisticated dining area with panoramic ocean views at sunset. Further scenes reveal an opulent indoor pool, a lavishly appointed bedroom, a grand ballroom, and a serene spa area, all characterized by rich materials, elegant lighting, and breathtaking waterfront or city horizons. The overall presentation embodies luxury, comfort, and premium aesthetic appeal, highlighting the property's allure as a high-end destination.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:31.996",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Lifestyle_Active",
+        "Travel_Transit",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "luxury hotel",
+        "grand entrance",
+        "luxury car",
+        "lobby",
+        "high ceilings",
+        "large windows",
+        "elegant decor",
+        "chandeliers",
+        "dining area",
+        "ocean view",
+        "sunset",
+        "indoor pool",
+        "lounge chairs",
+        "luxurious bedroom",
+        "spa",
+        "massage beds",
+        "resort",
+        "architecture",
+        "interior design"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "outdoor",
+          "ocean",
+          "city"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "elegant",
+          "luxurious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "high-end finishes",
+          "modern classic design",
+          "polished surfaces",
+          "panoramic views"
+        ]
+      },
+      "why_kept": "The entire video serves as the 'Semantic Core' by continuously showcasing the luxurious features and aesthetic appeal of the hotel/resort. Each scene is a 'reveal' of a different opulent space, collectively demonstrating the core value proposition of the property. There are no extraneous elements, setup/calibration, or post-action dead air; the video is a pure, uninterrupted display of its subject matter, making the full duration essential to conveying its message."
+    }
+  ]
+}

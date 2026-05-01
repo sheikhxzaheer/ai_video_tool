@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Celebrity\\ssstik.io_@kendalljennxr_1761836112014.mp4",
+  "detailed_description": "The video features supermodel Kendall Jenner confidently walking a runway, showcasing a stunning white gown with a deep V-neckline and a high-slit. Her poised stride and captivating smiles create an emotional climax as she interacts with the camera, presenting the ethereal dress. The background fluidly transitions from an illuminated cityscape to an ornate golden interior, enhancing the premium and aesthetic quality of the high-fashion presentation. This segment embodies elegance and confidence in a runway setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.200",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Kendall Jenner",
+        "white dress",
+        "gown",
+        "runway",
+        "modeling",
+        "smile",
+        "confident walk",
+        "deep V-neck",
+        "high slit",
+        "changing backdrop"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio",
+          "other"
+        ],
+        "mood": [
+          "premium",
+          "elegant",
+          "confident",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "fashion show",
+          "runway lighting",
+          "digital backdrop",
+          "cinematic"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the 'Product Interaction' (modeling the dress), a clear 'Emotional Climax' through Kendall Jenner's confident smiles and gaze, and the 'Reveal/Result' of the fashion look. The video starts and ends precisely with the main action, adhering to the 'No-Mistake' rule."
+    }
+  ]
+}

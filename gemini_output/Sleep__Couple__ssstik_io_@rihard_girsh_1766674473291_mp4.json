@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Couple\\ssstik.io_@rihard.girsh_1766674473291.mp4",
+  "detailed_description": "This video beautifully captures a tender moment between a couple in bed under soft, ambient lighting. It showcases the transition from a state of individual rest to a warm, intimate embrace. One partner initiates a cuddle, leading to a loving hug that conveys comfort, affection, and a strong emotional connection. The scene highlights the simple yet profound act of shared intimacy and closeness.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.200",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Night_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "couple",
+        "bed",
+        "cuddling",
+        "hugging",
+        "embrace",
+        "intimacy",
+        "blue light",
+        "ambient lighting",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "intimate",
+          "affectionate",
+          "cozy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "top-down view",
+          "warm tones",
+          "romantic atmosphere"
+        ]
+      },
+      "why_kept": "The entire segment serves as the semantic core, demonstrating the emotional climax of a couple moving from being apart to a loving embrace. The short duration and continuous flow make the complete clip a coherent 'hero moment' where the affectionate interaction and the resulting intimate connection are clearly and consistently portrayed without any extraneous elements or 'dead air'. The initial separation provides context for the subsequent act of cuddling, enhancing the emotional impact."
+    }
+  ]
+}

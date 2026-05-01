@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor talking on phone\\ssstik.io_@macarthurmedicalcenter_1769068613506.mp4",
+  "detailed_description": "The video captures a playful interaction in an office setting where someone repeatedly hands a doctor, identified as Dr. Fanous, various random objects while he is engaged in a phone call. The doctor, wearing a stethoscope, calmly accepts and briefly interacts with each item—a spray bottle, a red clip, and an orange container—without interrupting his conversation. The clip highlights a lighthearted moment of human interaction and subtle humor in a professional environment, emphasizing his patient demeanor amidst distractions.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Workspace_Office",
+        "Behind_The_Scenes",
+        "Calm_Relaxation",
+        "Playful"
+      ],
+      "visual_keywords": [
+        "doctor",
+        "man on phone",
+        "office desk",
+        "stethoscope",
+        "random objects",
+        "spray bottle",
+        "red clip",
+        "orange container",
+        "hands",
+        "computer monitor",
+        "laptop"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "steady camera",
+          "natural lighting",
+          "casual office setting"
+        ]
+      },
+      "why_kept": "This entire segment is kept because it directly demonstrates the central premise of the video: a person continuously handing random objects to a doctor who is busy on the phone. The doctor's calm, somewhat amused, and patient reactions to these distractions constitute the 'emotional climax' and 'human interaction' that define the video's core value. The continuous nature of the prank makes the entire duration a singular, cohesive 'hero moment' without any trimmable setup or dead air."
+    }
+  ]
+}

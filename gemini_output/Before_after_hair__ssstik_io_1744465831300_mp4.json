@@ -1,0 +1,122 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ssstik.io_1744465831300.mp4",
+  "detailed_description": "This video chronicles a man's 120-day journey using Minoxidil to address hair thinning. It begins by establishing his 'Day 1' appearance, showcasing noticeable hair loss in an outdoor street setting and later in a gym. The narrative culminates on 'Day 120' with a significant transformation, as he confidently runs his hand through his now visibly denser and healthier hair. His satisfied smile clearly conveys the positive outcome of the treatment, highlighting a successful and inspiring hair growth journey.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.281",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Face_Reaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "Man",
+        "thinning hair",
+        "glasses",
+        "black tank top",
+        "street",
+        "selfie"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "pensive",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "selfie perspective",
+          "bright daylight"
+        ]
+      },
+      "why_kept": "This segment serves as the crucial 'before' state, visually demonstrating the initial problem of hair thinning and setting the context for the Minoxidil treatment journey. The emoji reinforces the perceived negative emotional state at the start."
+    },
+    {
+      "start_time": "00:04.428",
+      "end_time": "00:08.064",
+      "structural_tags": [
+        "Problem_State",
+        "Before_After",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "Man",
+        "shirtless",
+        "gym",
+        "locker room",
+        "mirror",
+        "tattoo"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "serious",
+          "active"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "gym lighting",
+          "mirror shot",
+          "selfie perspective"
+        ]
+      },
+      "why_kept": "This segment provides additional 'Day 1' context, reinforcing the 'before' state of the subject's overall appearance and lifestyle before the treatment's effects become visible."
+    },
+    {
+      "start_time": "00:08.231",
+      "end_time": "00:13.250",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "Man",
+        "hair growth",
+        "glasses",
+        "black polo",
+        "hand in hair",
+        "smile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "satisfied",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "direct to camera",
+          "personal reflection"
+        ]
+      },
+      "why_kept": "This is the climax and the core value proposition of the video. It clearly demonstrates the 'after' state with significant hair growth, showcasing the successful transformation. The subject's confident interaction with his hair and positive facial expression directly convey the efficacy and satisfaction with the Minoxidil treatment."
+    }
+  ]
+}

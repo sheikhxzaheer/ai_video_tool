@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ssstik.io_1751442116429.mp4",
+  "detailed_description": "This video captures a man's hair growth journey over 10 months, starting from a very short buzz cut and progressing to significantly longer, wavy hair. Presented in a time-lapse format, it visually demonstrates the gradual transformation of his hairstyle and length. The video serves as a clear before-and-after sequence, highlighting the physical change and the results of sustained hair growth.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:20.100",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hair growth",
+        "time-lapse",
+        "short hair",
+        "long hair",
+        "male",
+        "facial hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "static camera",
+          "natural lighting",
+          "simple background"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it represents the complete 'reveal' and 'transformation' of the subject's hair over 10 months, explicitly stated and visually demonstrated. It's a continuous 'before and after' journey, with each frame contributing to the overall message of hair growth. There is no setup, calibration, or post-action dead air; the video begins directly with the initial state and concludes with the final state of hair growth."
+    }
+  ]
+}

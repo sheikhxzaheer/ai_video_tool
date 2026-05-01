@@ -1,0 +1,243 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Japan\\ssstik.io_@yourseoulmate0210_1767781959384.mp4",
+  "detailed_description": "The video beautifully captures the enchanting spectacle of cherry blossoms illuminated at night around Seokchon Lake in Seoul. The iconic Lotte World Tower majestically overlooks the scene, its lights complementing the vibrant pink and purple hues of the blossoms. The captivating reflections on the tranquil lake, combined with the bustling pathways of onlookers, create a magical and immersive atmosphere. This visual journey showcases the stunning blend of urban architecture and natural beauty during a cherished seasonal event in South Korea.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "Lotte World Tower",
+        "cherry blossoms",
+        "night lights",
+        "illuminated trees",
+        "pink flowers"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "aesthetic",
+          "romantic"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "night photography",
+          "vibrant lighting",
+          "city lights",
+          "upward angle"
+        ]
+      },
+      "why_kept": "This segment serves as a strong visual hook, immediately establishing the key elements of the video: the iconic Lotte World Tower framed by beautifully illuminated cherry blossoms at night, setting the aesthetic and context for the entire video."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:05.900",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "cherry blossom tunnel",
+        "people",
+        "night",
+        "illuminated path",
+        "purple light",
+        "walking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "aesthetic",
+          "joyful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "crowded",
+          "festive",
+          "wide angle",
+          "vibrant"
+        ]
+      },
+      "why_kept": "This segment captures the lively atmosphere of people enjoying the illuminated cherry blossom tunnel, showcasing the experiential aspect and human scale of the event."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:09.900",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Result_Transformation",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "cherry blossoms",
+        "lake",
+        "reflections",
+        "night",
+        "purple light",
+        "city lights"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "nature",
+          "street"
+        ],
+        "mood": [
+          "calm",
+          "serene",
+          "aesthetic",
+          "romantic"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "water reflections",
+          "soft lighting",
+          "tranquil"
+        ]
+      },
+      "why_kept": "This segment beautifully highlights the reflections of the illuminated cherry blossoms on the tranquil lake's surface, adding a magical and artistic dimension to the overall visual narrative."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:18.900",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "lake",
+        "illuminated cherry blossoms",
+        "city buildings",
+        "night",
+        "purple light",
+        "reflections"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "street",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "cityscape",
+          "panoramic",
+          "wide shot",
+          "vibrant"
+        ]
+      },
+      "why_kept": "This segment offers a broader perspective of the entire illuminated lake area, showcasing the extensive rows of cherry blossoms against the urban backdrop, enhancing the sense of grandeur and scale."
+    },
+    {
+      "start_time": "00:27.000",
+      "end_time": "00:30.900",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Macro_Detail",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "cherry blossoms",
+        "purple illumination",
+        "night",
+        "tree branches",
+        "lake",
+        "city lights"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "nature",
+          "street"
+        ],
+        "mood": [
+          "aesthetic",
+          "calm",
+          "vibrant"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "vivid colors",
+          "intimate view",
+          "overhead branches"
+        ]
+      },
+      "why_kept": "This segment provides a detailed and vibrant close-up of the cherry blossoms under purple illumination, emphasizing their delicate beauty and the striking color transformation at night."
+    },
+    {
+      "start_time": "00:33.000",
+      "end_time": "00:38.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "Lotte World Tower",
+        "cherry blossoms",
+        "lake",
+        "night",
+        "illuminated path",
+        "people",
+        "pink light"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "street",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "night photography",
+          "vibrant lighting",
+          "city lights",
+          "romantic",
+          "panoramic"
+        ]
+      },
+      "why_kept": "This concluding wide shot effectively reinforces the video's core theme, showcasing the entire panorama of the illuminated cherry blossoms, the lake, and the Lotte World Tower, leaving a lasting impression of the spectacular night view."
+    }
+  ]
+}

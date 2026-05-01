@@ -1,0 +1,41 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\ð░ð¢ð©ð╝ð░Ðåð©ÐÅ ð║ð╗ðÁÐéð¥ð║.mp4",
+  "detailed_description": "This video provides a captivating microscopic animation of a biological environment, likely depicting bone or tissue. It showcases the dynamic proliferation of numerous purple cells that rapidly multiply and gather around a distinct dark, root-like structure. The animation visually illustrates a complex cellular process, potentially representing a mechanism of action or a specific biological response occurring at a cellular level within the body.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.500",
+      "structural_tags": [
+        "Cellular_Deep_Dive",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "biological matrix",
+        "purple cells",
+        "cell proliferation",
+        "dark structure",
+        "microscopic view"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "scientific"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "microscopic detail",
+          "biological visualization",
+          "scientific"
+        ]
+      },
+      "why_kept": "The entire video is kept as it continuously demonstrates the core action: the dynamic process of cellular proliferation and interaction within a biological matrix. This directly aligns with 'THE PROCESS/LABOR' criteria through scientific visualization and 'THE REVEAL/RESULT' by showing the ongoing multiplication of cells. There is no 'setup' or 'post-action dead air'; the action is present from start to finish, fulfilling the 'NO-MISTAKE' rule."
+    }
+  ]
+}

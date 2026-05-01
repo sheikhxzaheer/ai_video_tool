@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@gukelis_1766922167534.mp4",
+  "detailed_description": "This video showcases the meticulous preparation of a patient's leg for surgery in an operating room. Medical professionals in green scrubs, masks, and hairnets are seen carefully positioning the patient's leg, which is prepped with an orange antiseptic solution, and strategically draping the surrounding area with sterile green sheets. An imaging device, likely a C-arm for fluoroscopy, is being adjusted into position, indicating a procedure that requires real-time X-ray guidance.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:16.890",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "surgeons",
+        "patient leg",
+        "surgical drape",
+        "operating room",
+        "C-arm X-ray",
+        "medical preparation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "sterile environment",
+          "medical procedure"
+        ]
+      },
+      "why_kept": "This entire segment demonstrates the 'process/labor' hero moment, showing medical professionals engaged in the critical and skilled task of preparing a patient for surgery, including positioning and sterile draping, which is the core action and value of the video."
+    }
+  ]
+}

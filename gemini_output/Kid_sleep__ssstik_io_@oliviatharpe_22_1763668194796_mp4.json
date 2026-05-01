@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid sleep\\ssstik.io_@oliviatharpe_22_1763668194796.mp4",
+  "detailed_description": "The video captures a baby in a crib wearing a new weighted sleep suit, introduced as an attempt to help a \"non sleeping baby who typically sleeps on his side.\" Despite wearing the suit, the baby remains wide awake, looking directly at the camera with an alert and seemingly curious expression. The accompanying text overlay concludes that the suit was \"a hard no for him,\" further emphasized by a pop-up notification from \"husband\" asking \"Can you get him back down?\" This segment showcases the product's use and its immediate, undesired effect on the baby's sleep.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:33.950",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "UGC_Talking_Head",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "baby",
+        "crib",
+        "weighted sleep suit",
+        "awake",
+        "eyes open",
+        "text overlay",
+        "phone notification"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "disappointed"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "night vision",
+          "monochromatic",
+          "baby monitor view"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully demonstrates the attempt to use the weighted sleep suit on a non-sleeping baby, the baby's clear reaction (staying awake), and the explicit conclusion that the product was unsuccessful, conveying the 'hard no' through text and visual cues. The pop-up notification further reinforces the narrative."
+    }
+  ]
+}

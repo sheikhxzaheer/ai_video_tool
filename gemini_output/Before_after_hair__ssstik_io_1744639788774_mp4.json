@@ -1,0 +1,169 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ssstik.io_1744639788774.mp4",
+  "detailed_description": "The video documents a man's journey to address hair thinning. It begins by showcasing his visibly sparse hair, both dry and wet, emphasizing the problem areas. The process involves applying a hair growth product using a syringe applicator and massaging it into the scalp. The core transformation is dramatically illustrated through a clear before-and-after split screen, revealing a significant improvement in hair density. The video concludes with the man confidently displaying his now thicker, fuller hair from various angles, expressing satisfaction with a thumbs-up.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.900",
+      "structural_tags": [
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "thinning hair",
+        "sparse scalp",
+        "wet hair",
+        "receding hairline"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'Problem State' by showing the subject's thinning hair and visible scalp from multiple angles, setting the necessary context for the transformation."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:09.900",
+      "structural_tags": [
+        "The_Process/Labor",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "applying serum",
+        "syringe applicator",
+        "scalp massage",
+        "hair treatment"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct application",
+          "focused hands"
+        ]
+      },
+      "why_kept": "This segment demonstrates the 'Mechanism_Of_Action' and 'Product_Interaction' by showing the precise application of the hair growth product to the scalp, highlighting the 'Process'."
+    },
+    {
+      "start_time": "00:10.500",
+      "end_time": "00:12.500",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "denser hair",
+        "fuller hairline",
+        "hair growth"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "showing improved density"
+        ]
+      },
+      "why_kept": "This segment provides an immediate 'Result_Transformation' after product application, visually showcasing the initial improvement in hair density and coverage."
+    },
+    {
+      "start_time": "00:18.500",
+      "end_time": "00:21.500",
+      "structural_tags": [
+        "Before_After",
+        "Result_Transformation",
+        "Split_Screen",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "hair density comparison",
+        "before and after hair",
+        "scalp coverage"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "side-by-side comparison",
+          "clear visual proof"
+        ]
+      },
+      "why_kept": "This is the most impactful 'Hero Moment' as it directly and unequivocally presents the 'Before_After' transformation using a split screen, serving as concrete 'Social_Proof' of the product's effectiveness."
+    },
+    {
+      "start_time": "00:22.000",
+      "end_time": "00:27.500",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "confident expression",
+        "fuller hair",
+        "thumbs up",
+        "satisfied look"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dynamic movement",
+          "expressive facial gestures"
+        ]
+      },
+      "why_kept": "This segment showcases the final, successful 'Result_Transformation' with the subject proudly displaying his denser hair and expressing clear 'Positive_Emotion' through a confident demeanor and a thumbs-up."
+    }
+  ]
+}

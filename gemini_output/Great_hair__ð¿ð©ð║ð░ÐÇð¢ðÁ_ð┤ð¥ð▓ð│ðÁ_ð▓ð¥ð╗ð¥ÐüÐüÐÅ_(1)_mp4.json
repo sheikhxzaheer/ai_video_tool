@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ð¿ð©ð║ð░ÐÇð¢ðÁ ð┤ð¥ð▓ð│ðÁ ð▓ð¥ð╗ð¥ÐüÐüÐÅ (1).mp4",
+  "detailed_description": "This video features a man showcasing his exceptionally long, dark hair. Starting with his hair tied up, he dramatically releases it, allowing it to cascade down his back, revealing its impressive length and volume. He then turns to the side, giving viewers a full profile view of his flowing hair, emphasizing its aesthetic appeal.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "man",
+        "long hair",
+        "untie hair",
+        "hair flow",
+        "dark hair",
+        "beard",
+        "black t-shirt",
+        "home interior"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "aesthetic",
+          "showcase"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "slow-motion effect",
+          "clean background",
+          "direct presentation"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it fully demonstrates the main subject's long hair, from its initial tied-up state to its dramatic release and a full reveal from different angles. It functions as a complete 'before and after' or 'reveal' moment without any extraneous content."
+    }
+  ]
+}

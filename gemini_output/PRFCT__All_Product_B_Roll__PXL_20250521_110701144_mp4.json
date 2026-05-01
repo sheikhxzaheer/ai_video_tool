@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250521_110701144.mp4",
+  "detailed_description": "The video captures a woman relaxing outdoors on a sunny day, overlooking the ocean from a luxurious setting. She is shown in a leopard print bikini, lounging on a cushioned chair on a wooden deck. The core action involves her retrieving a single-serving sachet of \"Perfect Morning Tangerine Pulse\" from its larger packaging. She holds up the sachet, allowing for a clear view of the product, highlighting its convenient individual packaging. The scene evokes a sense of calm and a premium lifestyle, suggesting the product is part of a relaxing morning routine.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.110",
+      "structural_tags": [
+        "Product_Interaction",
+        "Product_Intro",
+        "Macro_Detail",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bikini",
+        "leopard print",
+        "product pouch",
+        "sachet",
+        "Tangerine Pulse",
+        "Perfect Morning",
+        "ocean",
+        "sun",
+        "wooden deck",
+        "lounge chair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright sunlight",
+          "clear sky",
+          "aspirational setting"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it clearly demonstrates the primary product interaction: the retrieval of an individual serving sachet from its main packaging. It introduces the product, shows its form factor, and places it within an aspirational lifestyle context, embodying the 'Product Interaction' hero moment."
+    }
+  ]
+}

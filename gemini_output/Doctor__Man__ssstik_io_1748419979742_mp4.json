@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Man\\ssstik.io_1748419979742.mp4",
+  "detailed_description": "The video features a man dressed in medical scrubs and glasses, with a stethoscope, speaking directly to the camera about the COVID-19 vaccine. He adopts a sarcastic and provocative tone to address misinformation, specifically the myth that the government is trying to control minds with the vaccine. He argues, in a tongue-in-cheek manner, that the government is already controlling the minds of 'morons' by convincing them *not* to get vaccinated, thus ensuring more doses are available for 'smart people.' The video serves as a satirical public service announcement, employing reverse psychology to encourage vaccination.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:38.250",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Negative_Emotion",
+        "High_Energy",
+        "Clinical"
+      ],
+      "visual_keywords": [
+        "Man",
+        "Medical scrubs",
+        "Stethoscope",
+        "Glasses",
+        "Speaking",
+        "Hand gestures",
+        "COVID-19 Vaccine PSA text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "energetic",
+          "clinical",
+          "sarcastic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address",
+          "well-lit",
+          "simple background"
+        ]
+      },
+      "why_kept": "This entire segment constitutes the semantic core as it's a continuous 'Talking Head' delivering the main, albeit sarcastic, message about COVID-19 vaccine myths. The speaker's delivery of 'Key Information' is the sole purpose and value of the video, fitting the 'KEY INFORMATION' hero moment criteria. Per the 'No-Mistake Rule', no trimming is applied as the action (speaking) starts and ends precisely with the video's duration."
+    }
+  ]
+}

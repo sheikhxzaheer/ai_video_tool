@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bag\\ssstik.io_@leyakain_1759068837986.mp4",
+  "detailed_description": "The video features a stylish woman confidently modeling a casual yet chic outfit in a well-lit indoor hallway. She showcases an oversized black blazer worn over a white crop top, paired with black shorts, white socks, and black loafers. A distinctive brown suede tote bag is a central accessory, which she adjusts and poses with to highlight its design and how it complements the overall aesthetic. The segment focuses on presenting a complete fashion look, emphasizing both the clothing and the accessory through various poses and interactions.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.250",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "blazer",
+        "shorts",
+        "white tank top",
+        "brown suede bag",
+        "black loafers",
+        "white socks",
+        "hallway",
+        "checkered floor"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean aesthetic",
+          "fashion forward",
+          "dynamic poses"
+        ]
+      },
+      "why_kept": "This entire segment serves as the 'Semantic Core' because it continuously demonstrates the outfit and the featured brown suede bag through various poses and slight movements. Every moment contributes to showcasing the fashion items, their fit, and the overall style. The minor adjustments are integral to a fashion presentation, falling under 'Product Interaction' and 'Process/Labor' of displaying the look, without any noticeable 'Setup & Calibration' or 'Post-Action Dead Air' that detracts from the core message. It effectively functions as a visual 'Product Intro' and 'Reveal' of the complete ensemble."
+    }
+  ]
+}

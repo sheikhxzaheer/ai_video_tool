@@ -1,0 +1,110 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ð▓ðÁÐüð¢ÐâÐêð║ð© (1).mp4",
+  "detailed_description": "This video documents a personal journey of freckle removal. It begins with a clear 'before' shot of the woman's face, showcasing her natural freckles. The subsequent segment captures her face 2-3 days post-procedure, illustrating the immediate healing phase with visible redness and scabs. The video concludes with a '1 month post' reveal, where her skin appears significantly clearer and smoother, demonstrating the successful transformation and removal of the freckles.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.490",
+      "structural_tags": [
+        "Visual_Hook",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "freckles",
+        "blonde hair",
+        "earrings",
+        "makeup"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "warm lighting",
+          "clear skin texture"
+        ]
+      },
+      "why_kept": "This segment serves as the crucial 'before' shot, establishing the initial state of the skin with freckles before the removal process, essential for the transformation narrative."
+    },
+    {
+      "start_time": "00:03.490",
+      "end_time": "00:08.067",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "red spots",
+        "scabs",
+        "healing skin",
+        "pajama shirt"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "warm lighting",
+          "visible skin irritation",
+          "casual attire"
+        ]
+      },
+      "why_kept": "This segment captures the immediate aftermath and healing stage of the freckle removal, providing a critical intermediate step in the visual journey of skin transformation."
+    },
+    {
+      "start_time": "00:08.067",
+      "end_time": "00:15.114",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "clear face",
+        "no freckles",
+        "blonde hair",
+        "pajama shirt",
+        "necklace"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "warm lighting",
+          "clear skin",
+          "relaxed posture"
+        ]
+      },
+      "why_kept": "This segment presents the final 'after' result, showcasing the successful removal of freckles and the transformed clear skin, which is the ultimate reveal and purpose of the video."
+    }
+  ]
+}

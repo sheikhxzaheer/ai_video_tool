@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Product\\CNWM_JillianGray_04_Packaging.MOV",
+  "detailed_description": "A young woman wearing a pink spa headband introduces the QUIJA Collagen Night Wrapping Mask. She holds the product's pink packaging towards the camera, explaining that it has gone viral for its ability to deliver 'porcelain skin.' This segment serves as a direct product introduction and highlights its key benefit, embodying both product interaction and essential information delivery.",
+  "segments": [
+    {
+      "start_time": "00:00.600",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Key_Information",
+        "UGC_Talking_Head",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink headband",
+        "pink product box",
+        "QUIJA",
+        "collagen mask",
+        "smiling",
+        "speaking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "warm lighting",
+          "informal"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it perfectly captures the 'Product Interaction' and 'Key Information' hero moments. The speaker clearly introduces the product (QUIJA Collagen Night Wrapping Mask), holds it prominently, and explains its significant benefit ('porcelain skin' and 'gone viral'). This directly conveys the video's core message in a concise and engaging manner, following the Visual Priority Rule by ensuring the product is visible throughout the spoken explanation. The initial setup frames were trimmed to start precisely when the product is in clear view and the introduction begins."
+    }
+  ]
+}

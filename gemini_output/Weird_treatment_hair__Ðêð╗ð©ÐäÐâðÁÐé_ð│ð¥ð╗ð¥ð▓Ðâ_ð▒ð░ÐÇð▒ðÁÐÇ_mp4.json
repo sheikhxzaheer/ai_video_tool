@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\Ðêð╗ð©ÐäÐâðÁÐé ð│ð¥ð╗ð¥ð▓Ðâ ð▒ð░ÐÇð▒ðÁÐÇ.mp4",
+  "detailed_description": "This video captures a unique grooming service where a barber polishes a client's bald head using a specialized cream and an electric buffer. The client is visibly enjoying the process, smiling and laughing throughout, which conveys a positive and satisfying experience. The continuous application of the polishing tool showcases the precise technique and the immediate, gleaming result. The entire sequence demonstrates the 'head polish' service as a premium offering in a lively barbershop setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:59.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "barber",
+        "client",
+        "bald head",
+        "red polishing tool",
+        "white cream",
+        "barbershop",
+        "barber chair",
+        "smiling",
+        "laughing",
+        "buffing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear focus on action",
+          "dynamic camera movement"
+        ]
+      },
+      "why_kept": "The entire video constitutes the semantic core, demonstrating the complete process of 'head polishing,' the product interaction with the polishing tool and cream, and the client's continuous positive emotional response. No parts were trimmed as the action begins immediately and concludes shortly after the core demonstration, adhering to the 'no-mistake' rule."
+    }
+  ]
+}

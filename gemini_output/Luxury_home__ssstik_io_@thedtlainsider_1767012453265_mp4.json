@@ -1,0 +1,403 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury home\\ssstik.io_@thedtlainsider_1767012453265.mp4",
+  "detailed_description": "This video showcases a luxurious penthouse, #5805, at THEA in DTLA, available for $23,000. It offers a comprehensive tour of the expansive 3,487 sq ft, 4-bedroom, 4.5-bathroom unit. The tour highlights the white oak hardwood flooring, floor-to-ceiling windows with panoramic city and ocean views, a state-of-the-art kitchen with integrated appliances, lavish Thassos marble bathrooms, a custom walk-in closet, a full-size laundry room, and an office with inspiring skyline views. The presenter emphasizes the premium finishes and the unique 'home in the sky' living experience.",
+  "segments": [
+    {
+      "start_time": "00:00.288",
+      "end_time": "00:02.858",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man walking",
+        "penthouse entrance",
+        "dining room view",
+        "city skyline"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "premium",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "modern aesthetic"
+        ]
+      },
+      "why_kept": "This segment acts as the visual hook and introduction, setting the scene for the penthouse tour as the man enters and begins to present the space."
+    },
+    {
+      "start_time": "00:02.858",
+      "end_time": "00:09.118",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "dining table",
+        "living room",
+        "panoramic windows",
+        "city view",
+        "man gesturing",
+        "smiling man"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "premium",
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "modern furniture"
+        ]
+      },
+      "why_kept": "This is the strongest context-setting segment, showcasing the main living area's grandeur, the impressive city views, and the presenter's positive emotional response, establishing the core value proposition of the penthouse."
+    },
+    {
+      "start_time": "00:09.118",
+      "end_time": "00:24.488",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Home_Kitchen",
+        "Aesthetic_Broll",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "kitchen island",
+        "integrated fridge",
+        "wine cooler",
+        "gas stove",
+        "double oven",
+        "coffee machine",
+        "marble countertops",
+        "white oak flooring"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "minimalist design",
+          "sleek appliances"
+        ]
+      },
+      "why_kept": "This segment demonstrates the high-end kitchen features and integrated appliances through direct product interaction and detailed shots, highlighting the luxury and functionality."
+    },
+    {
+      "start_time": "00:24.488",
+      "end_time": "00:29.628",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "living room",
+        "city view",
+        "man gesturing",
+        "hardwood floor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "spacious interior",
+          "bright natural light"
+        ]
+      },
+      "why_kept": "This segment reinforces the expansive feeling of the living space and the overall luxurious lifestyle the penthouse offers, serving as a transitional re-establishment of the main area."
+    },
+    {
+      "start_time": "00:29.628",
+      "end_time": "00:42.588",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "primary bedroom",
+        "city view",
+        "Ritz Carlton",
+        "primary bathroom",
+        "freestanding tub",
+        "ocean view",
+        "Thassos marble",
+        "double vanity",
+        "walk-in shower"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "elegant design",
+          "stunning views",
+          "marble finishes"
+        ]
+      },
+      "why_kept": "This segment is a key reveal of the primary suite, showcasing luxurious bedroom and bathroom features, including the unique view from the bathtub, which is a significant selling point."
+    },
+    {
+      "start_time": "00:42.588",
+      "end_time": "00:47.888",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "walk-in closet",
+        "custom shelving",
+        "lighting",
+        "ottoman"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "organized storage",
+          "warm lighting"
+        ]
+      },
+      "why_kept": "The custom walk-in closet is a luxury amenity, and this segment effectively highlights its design and functionality, contributing to the penthouse's high-end appeal."
+    },
+    {
+      "start_time": "00:47.888",
+      "end_time": "00:55.798",
+      "structural_tags": [
+        "Product_Interaction",
+        "Home_Kitchen",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "laundry room",
+        "washer",
+        "dryer",
+        "marble floor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "premium",
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "practical luxury",
+          "clean design"
+        ]
+      },
+      "why_kept": "This segment highlights a unique and practical feature for a DTLA penthouse – a full-size laundry room, adding to the unit's livability and value."
+    },
+    {
+      "start_time": "00:55.798",
+      "end_time": "00:59.398",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "guest bathroom",
+        "wood paneling",
+        "geometric floor tiles"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "premium",
+          "unique"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "designer finishes",
+          "modern textures"
+        ]
+      },
+      "why_kept": "This segment showcases the unique design and high-quality finishes of one of the guest bathrooms, emphasizing the attention to detail throughout the penthouse."
+    },
+    {
+      "start_time": "00:59.398",
+      "end_time": "01:04.288",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "guest bathroom",
+        "marble floor",
+        "bathtub",
+        "shower"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "premium",
+          "clean"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "spacious",
+          "minimalist design"
+        ]
+      },
+      "why_kept": "This segment continues to highlight the quality and design of the additional bathrooms, reinforcing the 'all en-suite' convenience mentioned by the presenter."
+    },
+    {
+      "start_time": "01:04.288",
+      "end_time": "01:11.838",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "secondary bedrooms",
+        "en-suite",
+        "city view",
+        "modern decor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "comfortable living",
+          "natural light"
+        ]
+      },
+      "why_kept": "These segments showcase the additional en-suite bedrooms, demonstrating the spaciousness and consistent luxury throughout the penthouse, ideal for multiple occupants or guests."
+    },
+    {
+      "start_time": "01:11.838",
+      "end_time": "01:18.428",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "home office",
+        "desk",
+        "city view",
+        "skyscraper",
+        "man pointing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home",
+          "office"
+        ],
+        "mood": [
+          "premium",
+          "inspiring",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "productive environment",
+          "panoramic views"
+        ]
+      },
+      "why_kept": "This final segment showcases the converted office space with its impressive city views, offering a compelling vision of luxury work-from-home potential and a strong concluding visual highlight for the tour."
+    }
+  ]
+}

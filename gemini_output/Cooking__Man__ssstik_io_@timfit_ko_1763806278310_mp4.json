@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cooking\\Man\\ssstik.io_@timfit.ko_1763806278310.mp4",
+  "detailed_description": "This video provides a first-person perspective of an individual cooking a meal alone in a clean, modern kitchen. The scene highlights the routine and self-sufficient aspect of independent living, showing the person actively stirring food in a pan and managing a pot on the stove. It captures the simple, everyday process of preparing one's own food, embodying the quiet moments of living solo.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.733",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Human_Interaction",
+        "Process_Labor",
+        "Calm_Relaxation",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man cooking",
+        "stirring food",
+        "pan on stove",
+        "pot boiling",
+        "modern kitchen",
+        "microwave",
+        "cabinets",
+        "kitchen counter"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "routine",
+          "peaceful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean lighting",
+          "steady shot",
+          "modern aesthetic",
+          "POV"
+        ]
+      },
+      "why_kept": "This entire segment perfectly captures the core meaning and hero moment of the video, which is the continuous process of cooking alone, as indicated by the 'pov: you live alone' text. The action starts immediately and continues throughout, without any setup or dead air, clearly demonstrating the 'Process/Labor' aspect."
+    }
+  ]
+}

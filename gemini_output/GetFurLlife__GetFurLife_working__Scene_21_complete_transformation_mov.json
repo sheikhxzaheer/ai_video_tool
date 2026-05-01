@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLife_working\\Scene 21_complete transformation.mov",
+  "detailed_description": "This video captures a small, light-colored dog resting on a soft, pink comforter. The dog transitions from a sleepy state with partially closed eyes to becoming fully alert, opening its eyes, and eventually lifting its head to look directly into the camera. The core meaning highlights the dog's peaceful repose and its subtle, engaging reaction to the viewer, culminating in a moment of direct connection.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.394",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Face_Reaction",
+        "Human_Interaction",
+        "Home"
+      ],
+      "visual_keywords": [
+        "dog",
+        "chihuahua",
+        "resting",
+        "sleepy",
+        "waking up",
+        "pink bed",
+        "comforter",
+        "looking at camera"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "peaceful",
+          "engaging"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "cozy aesthetic",
+          "natural light",
+          "pet video"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as the Semantic Core because it perfectly captures the dog's transition from a state of calm relaxation to an alert and interactive gaze. The entire sequence, from initial sleepiness to direct eye contact with the camera, represents a complete 'hero moment' of emotional engagement and subtle interaction, making any trimming unnecessary and detrimental to the narrative."
+    }
+  ]
+}

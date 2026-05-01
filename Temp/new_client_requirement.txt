@@ -1,0 +1,112 @@
+Client:- I analyzed the latest XML exports from Premiere Pro, and the results are still too rough. We’re completely losing the editing context.
+
+For example:
+
+The script mentions “hydration,” but the AI inserts a clip of water crashing against a pier in the ocean.
+
+The script mentions “millionaires’ habits,” but the AI inserts a funny clip of a guy walking around a gym.
+
+This happens because the AI reacts to individual words, missing the overall meaning of the scene. I understand your concern that if we lock in the context too tightly, the editing will become monotonous. But right now we’re at the opposite extreme: complete visual chaos.
+
+Our goal at this stage is to get a reliable, logical basic edit
+
+1. Reorient the current microsegmentation EXCLUSIVELY toward subtitles
+ The microsegmentation logic you created is actually ideal for generating on-screen captions. Let’s reserve this logic exclusively for the subtitle generation track so we can add them to the project later. For this specific task, this is an excellent result.
+
+2. Rework the video search (scene-based vs. phrase-based search)
+ As for the video clips themselves, we need to stop matching them phrase by phrase.
+
+We should group the script into “scenes” (blocks of 2–3 sentences united by a single idea).
+
+The AI should extract clips based on the meaning of the entire scene, ensuring visual consistency for this 5–10-second block.
+
+3. Implementing the “Winners” recommendation tier
+ As we discussed in the “librarian” analogy, we must use our approved “Winners” videos as the baseline for RAG. We need to extract metadata/assets from the “Winners.” If the mood of a found clip completely contradicts the look and feel of our “Winners,” it must be filtered out.
+
+4. Balance: “Anchor + B-Roll” Logic
+ To prevent the videos from looking monotonous, we must implement the “Anchor + B-Roll” logic:
+
+The AI selects a visually strong “Anchor” clip for the main context of the scene.
+
+Then it extracts “B-Roll” clips, but we apply a negative penalty if the B-Roll’s visual tags contradict the Anchor’s context (for example, if the scene is “Health,” we penalize tags like “Ocean”).
+
+If you have technical questions about how to implement this scene grouping or “Winner” filtering, please list them here, and we’ll address them one by one.
+
+Because everything looks very rough right now, and it seems to me that the training I described to you earlier should be applied now using the winners we have.
+ I’d also like to hear your opinion or ideas because you have the experience and I don’t.
+
+
+
+Me :- 
+Just to confirm my understanding—Milestone 1 is complete, and now we are moving to Milestone 2. In this phase, instead of searching based on individual segments, we will group 2–3 sentences into a single "scene" and perform clip retrieval based on the overall context. Is that correct?
+
+From a technical perspective, I have some concerns about the approach. The overall project architecture may become quite complex, and RAG may not be the best fit for this type of task. RAG works very well for text-to-text scenarios, but for video-to-text matching especially scene-level semantic alignment it has limitations.
+
+One possible approach is to retrieve the most similar full videos rather than precise segment-by-segment clips, but achieving highly accurate scene-level matching purely through RAG may be challenging. AI can significantly speed up the workflow, but it may not fully automate editing at the level of precision we're aiming for.
+
+I'd also like to understand have you come across any existing tools or software that successfully handle this type of workflow? It would help us evaluate alternative approaches or benchmarks.
+
+Client:- 
+I understand your concerns, but we need to go beyond a simple text-based RAG. We’re not building a search engine, but a recommendation system for video editing.
+
+The goal right now is for the videos to match the winning entries by at least 80% in terms of meaning.
+
+1. Scene-based context (Phase 2)
+ Yes, we need to group segments into “scenes” (2–3 sentences). Matching individual words creates “visual chaos” (for example, showing the ocean while discussing hydration). By grouping, we identify the overall intent of the scene.
+
+2. Training on “winners” (backtesting cycle)
+ We have scripts, voiceovers, and finished video clips for all our “winners.” This is our reference data.
+
+We need to run the “winner” script through our engine and see which clips it selects.
+
+Then we compare the selection with the actual clip used in the “winner” video.
+
+If it selected clip A, but clip B was used in the “Winner,” the system must adjust its weights to give preference to clip B (and similar visual styles) for that specific context. This is how the “librarian” learns my taste.
+
+3. Feedback Loop (QA Corrections)
+ In addition to “Winners,” we must log every manual correction from the QA team: [Segment Text] + [Rejected Clip] + [Accepted Clip]. This data will serve as a continuous training set to refine our ranking logic. If we don’t implement this, the system will continue to make the same mistakes.
+
+4. “Top-down” approach
+ I agree with your idea: let’s first find the 3–5 most relevant full-length source videos for the scene. Then let the AI select segments only from these sources. This will naturally ensure consistency in lighting, actors, and style.
+
+Next step:
+ Let’s focus on configuring the logging for these corrections and the logic for comparing them to our “winners.” This is the only way to move from “random search” to “intelligent assembly.”
+
+
+
+Me:- 
+Okay, I have a couple of clarifications:
+Since we are changing the flow, we will need to re-run the segmentation logic for all files, as we are now moving to scene based matching.
+Also, points 2 (training on “winners”) and 3 (feedback loop from QA corrections) seem quite similar should they be treated as part of the same learning mechanism, or handled separately?
+
+Client:- 
+1. Regarding segmentation:
+ Yes, I agree. We need to shift from a “word-level” approach to a “scene-level” approach for both the script and the search process. It’s better to redo the segmentation now so that the database supports semantic context rather than just keyword matching. If, during this process, you need to add additional Vision AI tags (actions, emotions, environment) to the files—do it now.
+ IMPORTANT: BUT the way we’re segmenting the script now is ideal for subtitles, which we’ll also be adding to the video, so we’ll just need to repurpose this work
+
+2. On winners and QA corrections:
+ Theoretically, this is the same training mechanism (evaluation level).
+
+Winners are the “static gold standard.” They provide the system with the initial “logic” of what I consider to be a successful edit.
+
+QA corrections are “dynamic feedback.” They refine the system in real time when it makes a mistake.
+
+Logic: both inputs must feed into the same evaluation function. If a clip resembles a “winner,” it receives +points. If a similar clip was previously rejected by QA, it receives -points.
+
+Think of this as a unified recommendation mechanism that uses both historical data (winners) and real-time data (QA) to determine which clip is best suited for the current scene.
+
+Translated with DeepL.com (free version)
+
+Me :-Okay let me prepare script for phase 1.
+For your information, since we are moving to a 5–10 second scene-based approach, the segmentation length will also increase.
+
+Client:- 
+I got it.
+ If you'd like, we can break it down by sentence instead of by time, so it's easier to grasp the main point.
+We could, break it down into 10-second segments or sentence-length segments and insert 2–3 relevant videos?
+
+Me :- In second based there is chance we can get meaning less sentence.
+
+So I think we should go with sentence based breck it down.
+
+Client:- Okay, lets go with sentence-based

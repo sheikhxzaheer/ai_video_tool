@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\TikTok\\1.mp4",
+  "detailed_description": "This video demonstrates the preparation of 'PRFCT MORNING Tangerine Pulse,' a hydration supplement designed to combat morning sluggishness and dehydration. The creator showcases the entire process, from pouring water into a glass and cutting open the product packet, to mixing the vibrant orange powder and adding ice. The narration highlights the product's benefits, such as three times faster hydration due to clean glucose, and expresses how it has positively transformed her morning routine, offering a better alternative to plain water or coffee. The video concludes with a strong call to action, encouraging viewers to try the 'amazing-tasting' drink.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:23.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Problem_State",
+        "Product_Interaction",
+        "Morning_Routine",
+        "Lifestyle_Active",
+        "Home_Kitchen",
+        "Positive_Emotion",
+        "Offer_CTA",
+        "Ingredient_Highlight",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "hands",
+        "PRFCT MORNING packets",
+        "scissors",
+        "glass mason jar",
+        "water",
+        "tangerine powder",
+        "glass straw",
+        "ice cubes",
+        "kitchen countertop"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "smooth camera movement"
+        ]
+      },
+      "why_kept": "This segment comprehensively captures the semantic core by demonstrating the complete process of preparing the 'PRFCT MORNING' drink. It visually conveys product interaction, ease of use, and the appealing final result, while the accompanying voiceover articulates the problem it solves, the product's benefits, and a clear call to action. There are no redundant frames or areas where the product is not the focus, making it a continuous and impactful hero moment."
+    }
+  ]
+}

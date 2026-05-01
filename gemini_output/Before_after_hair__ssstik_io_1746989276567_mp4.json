@@ -1,0 +1,112 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ssstik.io_1746989276567.mp4",
+  "detailed_description": "The video captures a man's emotional journey dealing with hair loss. It begins by highlighting his frustration with a receding hairline, followed by a dramatic attempt to resolve the issue by shaving his head. This initial solution is met with strong defiance and rejection, signaling an unsatisfactory outcome. The narrative then pivots to introduce Minoxidil as the definitive solution. The video concludes with the man exuding confidence and high energy, implying a successful transformation and renewed self-assurance thanks to the product.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "Man showing receding hairline",
+        "distressed expression",
+        "text 'LOSING MY HAIR'"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct gaze",
+          "textured wallpaper background"
+        ]
+      },
+      "why_kept": "This segment immediately establishes the core problem of hair loss and the man's initial negative emotional response, serving as a strong visual hook for the viewer."
+    },
+    {
+      "start_time": "00:04.300",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Emotional_Climax",
+        "Negative_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "Man shaving head with electric clippers",
+        "shaved head",
+        "defiant expression",
+        "text 'FORCED TO CUT IT'",
+        "text 'NAHH SCREW THIS'"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "rugged"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "action shot",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment shows the direct, albeit unwanted, action taken to address the problem (shaving), followed by a strong emotional rejection of that solution, creating narrative tension and reinforcing the need for a better alternative."
+    },
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Face_Reaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "Man in gym",
+        "text 'ENTER MINOXIDIL'",
+        "confident expression",
+        "flexing arms",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dynamic lighting",
+          "confident pose"
+        ]
+      },
+      "why_kept": "This segment introduces the proposed solution (Minoxidil) and immediately conveys the positive emotional and lifestyle transformation it is meant to bring, concluding the story arc from problem to solution and renewed confidence."
+    }
+  ]
+}

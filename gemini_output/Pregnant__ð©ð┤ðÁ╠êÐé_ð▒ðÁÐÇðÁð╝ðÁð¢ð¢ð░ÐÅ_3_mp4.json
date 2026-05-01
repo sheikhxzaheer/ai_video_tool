@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pregnant\\ð©ð┤ðÁ╠êÐé ð▒ðÁÐÇðÁð╝ðÁð¢ð¢ð░ÐÅ 3.mp4",
+  "detailed_description": "The video captures a pregnant woman joyfully walking and dancing playfully on a residential sidewalk. Dressed in a grey t-shirt and black leggings, she moves with a lighthearted energy, occasionally striking poses and smiling at the camera. The scene is set in front of houses with a truck parked in the background, conveying a casual, everyday atmosphere. Her movements and facial expressions clearly communicate positive emotion and a vibrant, active lifestyle.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.439",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Outdoor",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "pregnant woman",
+        "dancing",
+        "walking",
+        "sidewalk",
+        "residential street",
+        "truck",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "handheld camera",
+          "natural light",
+          "casual"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating a pregnant woman engaging in a playful and energetic dance/walk. It captures both 'The Process/Labor' (the movement itself) and an 'Emotional Climax' (her joyful expressions and smile around 0:09-0:10). The action is continuous from start to finish with no discernible setup or dead air, adhering to the 'No-Mistake' rule for full retention."
+    }
+  ]
+}

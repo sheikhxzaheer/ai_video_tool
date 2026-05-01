@@ -1,0 +1,120 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid naughty\\SnapTik.Cx_1763719429.mp4",
+  "detailed_description": "This video presents a humorous and heartwarming display of a child's rapid emotional shift. It begins with a young child intensely crying, capturing a moment of genuine distress. This is followed by a comedic interlude featuring a different baby comically blowing a snot bubble, implying a cause for amusement. The video then cuts back to the first child, who is now joyfully laughing and making playful faces, showcasing a complete and dramatic transformation from sadness to happiness. The sequence effectively highlights the expressive nature of children's emotions.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.400",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "child",
+        "crying",
+        "tears",
+        "open mouth",
+        "facial expression",
+        "pigtails"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "distressed"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "portrait orientation",
+          "clear lighting",
+          "candid reaction"
+        ]
+      },
+      "why_kept": "This segment establishes the initial strong negative emotional state of the child, serving as a powerful visual hook and setting up the dramatic contrast for the subsequent emotional transformation."
+    },
+    {
+      "start_time": "00:03.400",
+      "end_time": "00:05.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Face_Reaction",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "baby",
+        "yellow hat",
+        "snot bubble",
+        "mouth open",
+        "facial expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "humorous"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "portrait orientation",
+          "clear lighting",
+          "candid reaction"
+        ]
+      },
+      "why_kept": "This serves as a comedic interlude, providing an implied trigger or reason for the first child's emotional shift from crying to laughing. It's crucial for the narrative progression and humorous effect."
+    },
+    {
+      "start_time": "00:05.500",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "child",
+        "laughing",
+        "smiling",
+        "tongue out",
+        "facial expression",
+        "pigtails"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "portrait orientation",
+          "clear lighting",
+          "candid reaction"
+        ]
+      },
+      "why_kept": "This segment completes the emotional arc, showing the child's full transformation from crying to joyful laughter, providing the resolution and comedic payoff of the video."
+    }
+  ]
+}

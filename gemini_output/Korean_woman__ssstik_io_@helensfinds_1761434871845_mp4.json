@@ -1,0 +1,90 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Korean woman\\ssstik.io_@helensfinds_1761434871845.mp4",
+  "detailed_description": "The video showcases a woman reviewing a Korean skincare line from Medicube, primarily for individuals aged 30-45. She introduces the Glutathione and Deep Vita C products, highlighting their anti-aging, brightening, and skin-renewing properties. The reviewer demonstrates the hydrating capsule cream, the purifying toner pads, and the brightening gel mask, emphasizing their high quality and effectiveness in achieving a radiant glow. She expresses her strong preference for the entire set as her 'holy grail' for comprehensive skincare.",
+  "segments": [
+    {
+      "start_time": "00:15.867",
+      "end_time": "00:26.433",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Key_Information",
+        "UGC_Talking_Head",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "Medicube products",
+        "skincare bottles",
+        "cream jar",
+        "holding products",
+        "speaking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "natural makeup",
+          "pajamas"
+        ]
+      },
+      "why_kept": "This segment introduces the Medicube skincare line, showcasing multiple products (toner, capsule cream, pads) and highlighting their overall benefits and her enthusiasm for them as her 'holy grail.' The direct product interaction while speaking makes it a key hero moment."
+    },
+    {
+      "start_time": "00:27.700",
+      "end_time": "00:47.333",
+      "structural_tags": [
+        "Product_Interaction",
+        "Product_Standalone",
+        "Ingredient_Highlight",
+        "Key_Information",
+        "UGC_Talking_Head",
+        "Positive_Emotion",
+        "Offer_CTA",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "Medicube products",
+        "skincare bottle",
+        "cream jar",
+        "toner pad",
+        "sheet mask",
+        "holding products",
+        "gesturing",
+        "speaking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "natural makeup",
+          "pajamas"
+        ]
+      },
+      "why_kept": "This segment provides detailed interaction with individual products, highlights key ingredients like Glutathione and Vita C, explains their specific benefits, and concludes with a strong recommendation and call to action. It supports and elaborates on the initial product introduction."
+    }
+  ]
+}

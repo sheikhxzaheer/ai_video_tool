@@ -1,0 +1,109 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Woman\\b1a906e149ef1006a6fe4b1b2f4b4dba┬áÔÇö ð║ð¥ð┐ð©ÐÅ.mp4",
+  "detailed_description": "The video features a dentist explaining sleep apnea, its symptoms, causes, and serious health consequences, including a decrease in life expectancy. It visually illustrates the condition through a 3D animation showing airway obstruction and how a mandibular advancement device can alleviate it. The dentist emphasizes the importance of seeking treatment and highlights her practice, Restoration Smiles, as providing effective oral appliance solutions to help patients achieve restful sleep and improved oral health. She concludes with a clear call to action for viewers to book an appointment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "dentist speaking",
+        "white lab coat",
+        "professional setting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "informative",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment introduces the topic of sleep apnea, its symptoms, causes, and the importance of treatment, setting the context for the entire video and mentioning the practice's solutions, making it a strong anchor for key information and an implicit call to action."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:41.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Aesthetic_Broll",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "3D animation",
+        "human head anatomy",
+        "airway obstruction",
+        "mandibular advancement device",
+        "airflow",
+        "tongue",
+        "jaw"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "medical animation",
+          "x-ray vision",
+          "scientific visualization"
+        ]
+      },
+      "why_kept": "This segment visually demonstrates the core problem of sleep apnea (airway obstruction) and the mechanism by which an oral appliance (mandibular advancement device) resolves it, providing a crucial visual explanation of the service being offered."
+    },
+    {
+      "start_time": "00:41.000",
+      "end_time": "01:25.000",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "dentist speaking",
+        "white lab coat",
+        "professional setting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "informative",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment elaborates on the causes and serious health consequences of untreated sleep apnea, reinforces the available treatment options, and provides a clear call to action to book an appointment with Restoration Smiles, completing the core message and guiding the viewer to the next step."
+    }
+  ]
+}

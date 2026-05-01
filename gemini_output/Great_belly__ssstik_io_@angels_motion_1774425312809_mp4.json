@@ -1,0 +1,203 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great belly\\ssstik.io_@angels.motion_1774425312809.mp4",
+  "detailed_description": "This video provides a series of five effective exercises designed to achieve a flat stomach and a slimmer waist, presented as alternatives to traditional crunches. A woman demonstrates each exercise clearly in an indoor gym setting, showing the proper form and technique. On-screen text accompanies each segment, identifying the exercise by name and suggesting repetitions (10x2), making it a practical and concise guide for a core workout.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.800",
+      "structural_tags": [
+        "Visual_Hook",
+        "Key_Information",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "posing",
+        "athletic wear",
+        "flat stomach",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "clean aesthetic",
+          "motivational"
+        ]
+      },
+      "why_kept": "This segment serves as the primary visual hook and context setter, clearly stating the video's purpose: exercises for a flat stomach and slimmer waist that can replace crunches. It's essential for understanding the value proposition of the subsequent exercise demonstrations."
+    },
+    {
+      "start_time": "00:05.800",
+      "end_time": "00:09.600",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "exercising",
+        "glute bridges",
+        "knee to chest",
+        "dumbbell",
+        "yoga mat"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear demonstration",
+          "fitness instruction"
+        ]
+      },
+      "why_kept": "This segment demonstrates the first specific exercise, 'glute bridges with knee to chest', which is a core component of the video's instructional content for achieving the stated fitness goals."
+    },
+    {
+      "start_time": "00:09.600",
+      "end_time": "00:12.700",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "exercising",
+        "plank walk",
+        "yoga mat"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear demonstration",
+          "fitness instruction"
+        ]
+      },
+      "why_kept": "This segment showcases the 'plank walk' exercise, contributing to the series of crunch alternatives and providing practical demonstration of the technique."
+    },
+    {
+      "start_time": "00:12.700",
+      "end_time": "00:15.600",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "exercising",
+        "side steps",
+        "yoga mat"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear demonstration",
+          "fitness instruction"
+        ]
+      },
+      "why_kept": "This segment illustrates the 'side steps' exercise, further building on the video's core value of demonstrating diverse and effective core workouts."
+    },
+    {
+      "start_time": "00:15.600",
+      "end_time": "00:17.300",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "exercising",
+        "knee taps",
+        "yoga mat"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear demonstration",
+          "fitness instruction"
+        ]
+      },
+      "why_kept": "The 'knee taps' exercise is demonstrated here, adding another variation to the suggested crunch alternatives and reinforcing the instructional aspect of the video."
+    },
+    {
+      "start_time": "00:17.300",
+      "end_time": "00:20.100",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "exercising",
+        "cross-body knee pull",
+        "yoga mat"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear demonstration",
+          "fitness instruction"
+        ]
+      },
+      "why_kept": "This final segment completes the series of exercise demonstrations with the 'cross-body knee pull', offering a comprehensive set of alternative core exercises as promised by the video's introduction."
+    }
+  ]
+}

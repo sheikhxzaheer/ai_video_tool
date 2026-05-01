@@ -1,0 +1,155 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bed\\ssstik.io_@lupitv336_1766736802775.mp4",
+  "detailed_description": "This video showcases a luxurious black velvet fitted sheet for a bed. It highlights the sheet's key features, including its deep pockets with a reinforced elastic band for a secure fit, and its incredibly soft, 'buttery' velvet texture. The video demonstrates the ease of unboxing and fitting the sheet onto a king-size mattress, emphasizing its comfort and aesthetic appeal. The user's final relaxed posture on the bed underscores the product's luxurious and comfortable feel.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Macro_Detail",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "velvet sheet",
+        "hand",
+        "touching fabric",
+        "bed",
+        "bedroom"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "textured surface"
+        ]
+      },
+      "why_kept": "This segment serves as an immediate visual hook, introducing the product and allowing a close-up interaction with its key feature: the velvet texture."
+    },
+    {
+      "start_time": "00:02.400",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "woman",
+        "unboxing",
+        "plastic bag",
+        "velvet sheet",
+        "deep pockets",
+        "elastic band",
+        "reinforced elastic"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "practical demonstration",
+          "clear visibility"
+        ]
+      },
+      "why_kept": "This segment demonstrates the unboxing experience and highlights functional features of the sheet, such as the deep pockets and reinforced elastic band, fulfilling the 'Product Interaction' and 'Mechanism of Action' criteria."
+    },
+    {
+      "start_time": "00:10.370",
+      "end_time": "00:19.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "fitting sheet",
+        "mattress",
+        "velvet texture",
+        "hand",
+        "smoothing",
+        "bed",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "satisfying"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear demonstration",
+          "focus on texture",
+          "luxurious aesthetic"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core, showcasing the 'Process/Labor' of putting the sheet on and the 'Reveal/Result' of the bed's transformation. It emphasizes the luxurious velvet texture through repeated hand interaction and clear visual demonstration of the sheet's fit and appearance."
+    },
+    {
+      "start_time": "00:20.500",
+      "end_time": "00:23.500",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "lying down",
+        "bed",
+        "relaxed",
+        "comfort",
+        "bedroom"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "relaxed",
+          "comfortable"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "lifestyle shot",
+          "inviting atmosphere"
+        ]
+      },
+      "why_kept": "This segment captures the 'Emotional Climax' by showing the user's positive experience and sense of comfort and relaxation after the sheet has been applied, reinforcing the product's appeal."
+    }
+  ]
+}

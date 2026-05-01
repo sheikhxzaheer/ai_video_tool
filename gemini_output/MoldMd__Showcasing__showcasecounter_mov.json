@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\showcasecounter.mov",
+  "detailed_description": "This video features a woman introducing the MoldMD Mold Spot Remover. She holds both a travel-sized bottle and a larger spray bottle of the product, emphatically stating that it is the number one mold spot removal solution for homeowners. The segment serves as a direct product introduction and highlights its primary claim.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.090",
+      "structural_tags": [
+        "Product_Intro",
+        "Key_Information",
+        "Product_Standalone",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "mold remover",
+        "spray bottle",
+        "small bottle",
+        "MoldMD",
+        "kitchen",
+        "countertop",
+        "glasses"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen",
+          "indoor"
+        ],
+        "mood": [
+          "informative",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear shot"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it constitutes the semantic core of the video. It serves as a direct product introduction where the speaker provides key information ('number one mold spot removal solution') while actively holding and presenting the products. This fulfills the 'Key Information' and 'Product Interaction' hero moment criteria, adhering to the Visual Priority Rule by showcasing the product during dialogue. No setup or post-action dead air is present."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Minoxdil\\ð£Ðûð¢ð¥ð║Ðüð©ð┤ð©ð╗4.mp4",
+  "detailed_description": "This video provides a step-by-step guide on how to correctly apply Minoxidil to the scalp to combat hair loss. The presenter first identifies areas with less hair, then demonstrates the application of the product from a bottle, followed by gentle massaging of the scalp to ensure absorption. Key instructions are given, emphasizing applying twice daily on a dry scalp. The video aims to instruct users on expert Minoxidil application.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.700",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Key_Information",
+        "Morning_Routine",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "minoxidil bottle",
+        "scalp",
+        "hair",
+        "product application",
+        "scalp massage",
+        "desk",
+        "plant"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "clinical",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "instructional tone",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it comprehensively covers the entire demonstration and instruction on how to use Minoxidil. It shows the product interaction, the detailed application process (process/labor), and delivers all the essential information (key information) for effective use, concluding the practical advice. The 'Visual Priority Rule' was applied to cut the concluding general CTA that lacked product interaction."
+    }
+  ]
+}

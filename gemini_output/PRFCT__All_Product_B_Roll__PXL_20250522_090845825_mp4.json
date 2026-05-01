@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250522_090845825.mp4",
+  "detailed_description": "The video features a 'PRECT MORNING TANGERINE PULSE' product package floating gracefully on the surface of a tranquil swimming pool. Sunlight dances on the water, creating captivating ripples and reflections around the product. This segment serves as a visually appealing, standalone presentation of the product in a calm and aspirational lifestyle setting, suggesting themes of wellness and relaxation.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:11.83",
+      "structural_tags": [
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "product package",
+        "swimming pool",
+        "water",
+        "ripples",
+        "sunlight",
+        "floating"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "pool"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "aspirational"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clear water",
+          "reflective surface"
+        ]
+      },
+      "why_kept": "The entire video constitutes the semantic core by showcasing the product in a visually appealing, serene, and aspirational context. It acts as an aesthetic product standalone shot, fulfilling the 'Product_Standalone' and 'Aesthetic_Broll' criteria without any extraneous footage or need for trimming according to the 'No-Mistake Rule'."
+    }
+  ]
+}

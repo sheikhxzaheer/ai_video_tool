@@ -1,0 +1,57 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Treatmant_skin\\ssstik.io_@mireyarios_1761907019494.mp4",
+  "detailed_description": "This video presents a multi-step luxury skincare routine performed by a woman wearing a white bathrobe and headband. It meticulously showcases the application of several high-end beauty products, including a cleanser, treatment lotion, serum, face cream, and eye cream. Each product is introduced with its brand and price, highlighting the premium nature of the routine. The video culminates in a total cost of $1,785 for the demonstrated regimen, emphasizing the aspirational and indulgent aspect of the self-care process and the resulting radiant, hydrated skin.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "woman",
+        "skincare routine",
+        "luxury products",
+        "cleanser",
+        "treatment lotion",
+        "serum",
+        "face cream",
+        "eye cream",
+        "application",
+        "glowing skin",
+        "hands",
+        "Chanel headband",
+        "bathrobe",
+        "product prices"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "aspirational"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "detailed product shots",
+          "gentle movements"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the complete luxury skincare routine. It includes the introduction and interaction with each product, the detailed process of application, the visual transformation of the skin, and crucial financial information regarding the cost of the high-end items. No trimming was necessary as the video begins directly with the action and concludes with the completion of the routine."
+    }
+  ]
+}

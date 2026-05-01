@@ -1,0 +1,123 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad electrolyte drink\\ssstik.io_@baba_adri_1770893970862.mp4",
+  "detailed_description": "This video promotes an electrolyte drink powder as an effective way to stay hydrated without the need to drink excessive amounts of plain water. The creator demonstrates preparing the drink by mixing the powder with water, highlighting its role in proper hydration and preventing frequent bathroom trips and bloating. He showcases the product's benefits, including its zero sugar and calorie content, and expresses satisfaction after consuming it, ending with a clear call to action.",
+  "segments": [
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:13.900",
+      "structural_tags": [
+        "Product_Intro",
+        "Process_Labor",
+        "Human_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "glass",
+        "sachet",
+        "powder",
+        "water",
+        "pitcher",
+        "pouring",
+        "mixing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear visuals"
+        ]
+      },
+      "why_kept": "This segment introduces the hydration product by showing the initial steps of its preparation, including pouring the powder and then the water into a glass. It clearly demonstrates the start of the 'process' hero moment."
+    },
+    {
+      "start_time": "00:14.000",
+      "end_time": "00:29.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Key_Information",
+        "Process_Labor",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "glass",
+        "liquid",
+        "fork",
+        "stirring",
+        "electrolytes"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "informative",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment visually reinforces the product's function by showing it being stirred and mixed, while the speaker provides key information about its benefits as an electrolyte-rich hydration solution. This is the 'process/labor' and 'key information' hero moment."
+    },
+    {
+      "start_time": "00:29.000",
+      "end_time": "00:51.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Product_Standalone",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Key_Information",
+        "Offer_CTA",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "product pouch",
+        "drink",
+        "glass",
+        "drinking",
+        "satisfied",
+        "checking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "enthusiastic delivery",
+          "quick cuts"
+        ]
+      },
+      "why_kept": "This segment showcases the product packaging, demonstrates the consumption experience, captures the speaker's positive emotional reaction and satisfaction, highlights key features like 'zero sugar, zero calories', and concludes with a clear call to action, encapsulating the 'product interaction' and 'emotional climax' hero moments."
+    }
+  ]
+}

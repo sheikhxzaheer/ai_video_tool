@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\Bald spot\\ssstik.io_@nakasec_1753374836191.mp4",
+  "detailed_description": "This video humorously presents two bald Korean men, Drew and Danny, who share similar physical appearances and names. The core meaning is conveyed through a POV text overlay and a catchy song that emphasizes their distinct identities despite superficial similarities. They perform synchronized, playful hand gestures, culminating in a shared laugh, reinforcing the lighthearted and self-aware nature of the comparison.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.410",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "two men",
+        "bald",
+        "black shirts",
+        "synchronized movements",
+        "hand gestures",
+        "laughing",
+        "text overlay",
+        "projector screen",
+        "speaker",
+        "table"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "playful",
+          "humorous",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "synchronized action",
+          "clean background",
+          "direct address to camera"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core. It immediately introduces the premise with the text overlay and the two subjects, performs the key action (synchronized movements while the song explains their similar but distinct identities), and concludes with a humorous reaction (the laugh), perfectly capturing the video's intended message and emotional climax without any dead air or extraneous footage."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Makeup_artist\\ssstik.io_@voici_mag_1762259737697.mp4",
+  "detailed_description": "The video offers an energetic behind-the-scenes glimpse of pop superstar Shakira getting ready for a performance. It showcases her applying makeup, having her voluminous hair styled by assistants, and making playful expressions, all while wearing a shimmering, patterned bodysuit. The segment highlights her vibrant personality and the meticulous, hands-on preparation process involved before she takes the stage.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "01:27.350",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "The_Process",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "Shakira",
+        "makeup artist",
+        "hair stylist",
+        "makeup application",
+        "hair styling",
+        "microphone",
+        "makeup brushes",
+        "lipstick",
+        "setting spray",
+        "tissue",
+        "costume",
+        "bodysuit",
+        "curly hair",
+        "smiling",
+        "laughing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "glam"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "backstage prep",
+          "vibrant colors",
+          "celebrity",
+          "up close"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the 'Behind_The_Scenes' process of Shakira getting ready. It continuously shows 'The_Process' of makeup and hair application, 'Product_Interaction' with various beauty products and accessories (microphone), and 'Human_Interaction' with her team. Her 'Positive_Emotion' and 'High_Energy' are evident through her laughter and playful expressions, making it a cohesive and engaging portrayal of her pre-show routine. The trimming removes only the 'Post-Action Dead Air' where she walks out of frame."
+    }
+  ]
+}

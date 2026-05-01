@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\Healing gut.mp4",
+  "detailed_description": "A man in a black tank top and shorts stands in a bathroom, smiling at the camera while lifting his shirt to reveal his abdomen. An augmented reality or animated effect is applied to his stomach, showcasing a glowing, intricate representation of internal organs, specifically the digestive system. The organs pulse and change color, transitioning from vibrant pink and purple tones to a bright green, creating a dynamic visual demonstration of an internal body scan or health visualization.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.743",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Micro_Nutrients_Anim",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "lifting shirt",
+        "abdomen",
+        "animated organs",
+        "glowing effect",
+        "digestive system",
+        "color change",
+        "bathroom",
+        "mirror",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "augmented reality effect",
+          "glowing animation",
+          "clean lighting",
+          "selfie perspective"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating a visually engaging augmented reality effect of internal organs on a human body. The man's action of lifting his shirt and his positive facial expression contribute to showcasing the 'product' (the visual effect) in a clear, continuous, and impactful manner, including a color transformation of the animation. According to the 'No-Mistake Rule,' as the action starts immediately and continues throughout the clip without dead air or setup, the full duration is preserved."
+    }
+  ]
+}

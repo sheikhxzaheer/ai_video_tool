@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20251211_135504041.mp4",
+  "detailed_description": "The video provides a clear introduction to 'PERFCT MORNING TANGERINE PULSE,' featuring a person holding two pouches of the product. The camera maintains a close-up focus on the packaging, allowing viewers to easily read key details such as 'Hydration Fuel,' 'Metabolic Activators,' and 'Nutrient Charge.' The subtle adjustments in the person's grip ensure both pouches are displayed effectively, highlighting the product's design and branding. This segment serves as a direct and concise product showcase, emphasizing its aesthetic appeal and functional claims.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.135",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hand",
+        "product pouches",
+        "PERFCT MORNING",
+        "TANGERINE PULSE",
+        "packaging",
+        "label text",
+        "orange color",
+        "zipper bag"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "premium",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "natural light",
+          "clear focus"
+        ]
+      },
+      "why_kept": "This entire segment serves as the product introduction and display. The hands actively hold and slightly adjust the two product pouches, ensuring the branding, product name ('Tangerine Pulse'), and key benefits ('Hydration Fuel,' 'Metabolic Activators,' 'Nutrient Charge') are clearly visible. It perfectly demonstrates 'Product Interaction' and 'The Reveal/Result' of the packaging details."
+    }
+  ]
+}

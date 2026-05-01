@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Couple\\Angry\\ssstik.io_@ririinour_1772469680212.mp4",
+  "detailed_description": "The video humorously depicts a common scenario in relationships where one partner is significantly taller. A woman, engaged in an argument with her husband, demonstrates her determination by retrieving a small folding step stool from the kitchen corner. She then purposefully carries it over, places it on the floor in front of her husband, and steps onto it, effectively raising herself to be more eye-level with him as she continues their heated discussion. The scene highlights the playful and resolute effort to overcome a physical disadvantage in a relatable, comedic way, emphasizing her refusal to back down.",
+  "segments": [
+    {
+      "start_time": "00:02.500",
+      "end_time": "00:07.100",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Emotional_Climax",
+        "Home_Kitchen",
+        "High_Energy",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "man",
+        "kitchen",
+        "step stool",
+        "arguing",
+        "bending down",
+        "picking up",
+        "carrying",
+        "placing",
+        "stepping on",
+        "standing tall"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "humorous"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "natural kitchen setting"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it captures the entire 'hero moment': the woman's proactive solution to her height disadvantage during an argument. It demonstrates the process of retrieving and utilizing the step stool, her determined interaction with the 'product' (the stool), and the emotional climax of her standing at an elevated height to confront her taller husband. It fully conveys the humor and relatability of the video's premise."
+    }
+  ]
+}

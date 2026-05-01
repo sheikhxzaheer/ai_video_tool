@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\IMG_0579.MOV",
+  "detailed_description": "This video captures the initial 'Day 1' baseline for a Minoxidil 5% treatment journey. The subject pulls back their hair to reveal their scalp and hairline, documenting the starting condition before product application. The clip serves as a crucial 'before' visual, setting the context for potential future transformations, explicitly stating the purpose with an on-screen text overlay.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Problem_State",
+        "Before_After",
+        "Human_Interaction",
+        "Face_Reaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair",
+        "scalp",
+        "hand",
+        "hairline",
+        "day 1",
+        "minoxidil 5%"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "self-shot",
+          "documentary style"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core, as it explicitly establishes the 'Day 1' starting point for using Minoxidil 5% through on-screen text and the visual act of the subject revealing their scalp. It sets the crucial 'before' state for a treatment process, which is the entire value proposition of the video's premise. There is no extraneous footage to trim in this very short, focused clip."
+    }
+  ]
+}

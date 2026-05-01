@@ -1,0 +1,84 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pills\\ssstik.io_@kaylahale1020_1769067540210.mp4",
+  "detailed_description": "The video showcases the precise process of counting and packaging medication, likely in a pharmacy setting. It begins with white, oblong pills being dispensed onto a clear counting tray, where they are meticulously sorted using a spatula. This highlights the careful and accurate nature of pharmaceutical work. Subsequently, the counted pills are transferred from a bag into an amber prescription bottle, combining them with pre-existing yellow pills. The process concludes with the bottle being sealed with a cap and lightly shaken, demonstrating the final steps of preparing medication for a patient. This footage emphasizes the detail and care involved in pharmaceutical practice.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:22.200",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "White pills",
+        "Counting tray",
+        "Spatula",
+        "Pill bottle"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "precision",
+          "detail",
+          "functional",
+          "clear lighting"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the initial process of dispensing and meticulously counting white pills using a pharmacy tray and spatula, which is a core professional action and a key part of the semantic core."
+    },
+    {
+      "start_time": "00:27.900",
+      "end_time": "00:36.700",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Result_Transformation",
+        "Macro_Detail",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "White pills",
+        "Yellow pills",
+        "Amber pill bottle",
+        "Cap",
+        "Hands"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "precision",
+          "detail",
+          "functional",
+          "clear lighting"
+        ]
+      },
+      "why_kept": "This segment shows the crucial step of transferring the counted pills into a prescription bottle, combining them with existing medication, and then capping and sealing it, representing the completion of the pharmaceutical packaging process and the transformed result."
+    }
+  ]
+}

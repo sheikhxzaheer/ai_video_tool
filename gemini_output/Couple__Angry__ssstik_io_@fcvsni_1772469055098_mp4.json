@@ -1,0 +1,90 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Couple\\Angry\\ssstik.io_@fcvsni_1772469055098.mp4",
+  "detailed_description": "The video captures a humorous domestic scene involving an elderly Italian couple (Nonni) and their grandchild, who playfully acts as their couples therapist. Initially, the Nonni are shown bickering at the kitchen table, exchanging pointed remarks in Italian about who is causing trouble. The grandchild intervenes, demanding they apologize to each other. Less than ten minutes later, the scene transitions to show the Nonni peacefully resting on a couch, their feet touching, indicating a quick reconciliation and highlighting their enduring, affectionate relationship despite their squabbles.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:18.800",
+      "structural_tags": [
+        "Problem_State",
+        "Human_Interaction",
+        "Negative_Emotion",
+        "UGC_Talking_Head",
+        "Face_Reaction",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "elderly couple",
+        "dining table",
+        "kitchen",
+        "argument",
+        "hand gestures",
+        "grandchild intervening",
+        "cups",
+        "tablecloth"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "conversational",
+          "hand-held",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the initial 'problem state' through the animated argument between the Nonni and introduces the grandchild's humorous role as a couples therapist. It captures the 'emotional climax' of their disagreement and the immediate human interaction."
+    },
+    {
+      "start_time": "00:18.800",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll",
+        "UGC_Talking_Head",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "elderly couple",
+        "couch",
+        "sleeping",
+        "resting",
+        "feet touching",
+        "living room",
+        "pillows"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "still shot",
+          "cozy lighting"
+        ]
+      },
+      "why_kept": "This segment serves as the 'reveal' and 'result transformation,' demonstrating the quick and endearing reconciliation of the Nonni after their argument. It visually conveys a 'positive emotion' and completes the humorous narrative, showing them as 'besties again'."
+    }
+  ]
+}

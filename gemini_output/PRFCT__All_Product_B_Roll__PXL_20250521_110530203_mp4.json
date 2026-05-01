@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250521_110530203.mp4",
+  "detailed_description": "The video captures a package of 'PRFCT MORNING TANGERINE PULSE' placed on a stone ledge overlooking an outdoor deck with a clear blue sky and an implied ocean view. Unexpectedly, a wave of water splashes over the ledge, knocking the product into the water below. This moment highlights the product's presence within a relaxed, sunny environment, showcasing an unplanned interaction with its surroundings as it submerges.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "product package",
+        "water splash",
+        "stone ledge",
+        "wooden deck",
+        "ocean view",
+        "blue sky",
+        "submerging"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "bright sunlight",
+          "natural light",
+          "dynamic water splash"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it clearly introduces the product, demonstrates a significant 'product interaction' where water splashes over it, causing it to fall. It acts as a visual hook and establishes the product in its environment. The segment ends precisely after the main action of the product falling and the immediate splash settling, avoiding post-action dead air."
+    }
+  ]
+}

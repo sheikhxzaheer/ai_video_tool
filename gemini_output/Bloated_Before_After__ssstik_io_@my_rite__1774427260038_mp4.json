@@ -1,0 +1,115 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated Before_After\\ssstik.io_@my_rite__1774427260038.mp4",
+  "detailed_description": "The video showcases a woman's transformation related to gut health. It begins by presenting her initial state, implying bloating or discomfort before addressing her gut health. This is followed by a 'two weeks later' segment, revealing a noticeably flatter stomach, demonstrating a positive transformation. The video concludes by introducing 'rite. GUT HEALTH' prebiotic drink mix, explicitly stating its function to support digestion and reduce bloating as the solution behind the observed change.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.200",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "woman",
+        "sports bra",
+        "leggings",
+        "bloated stomach",
+        "hand on stomach",
+        "tattoo"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "neutral"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "textured gray wall background",
+          "athletic wear"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' problem state, creating a visual hook and setting the context for the transformation that follows."
+    },
+    {
+      "start_time": "00:04.200",
+      "end_time": "00:08.700",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "sports bra",
+        "leggings",
+        "flat stomach",
+        "adjusting leggings"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "textured gray wall background",
+          "athletic wear"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the 'after' state, showcasing the positive physical transformation and implying the success of the gut health regimen."
+    },
+    {
+      "start_time": "00:08.700",
+      "end_time": "00:12.166",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Key_Information",
+        "Human_Interaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman",
+        "holding product box",
+        "rite. Gut Health",
+        "prebiotic drink mix",
+        "natural peach flavor"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "textured gray wall background",
+          "clear product presentation",
+          "athletic wear"
+        ]
+      },
+      "why_kept": "This is the core segment that introduces the specific product responsible for the transformation, providing crucial information about the solution to the problem presented earlier. It directly demonstrates the product's value proposition."
+    }
+  ]
+}

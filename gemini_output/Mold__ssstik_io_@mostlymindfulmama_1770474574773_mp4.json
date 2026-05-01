@@ -1,0 +1,132 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold\\ssstik.io_@mostlymindfulmama_1770474574773.mp4",
+  "detailed_description": "This video captures a couple's shocking discovery of hidden grime and old markings in their home using a new UV flashlight. The husband tests the flashlight, revealing glowing specks of unknown substances on kitchen walls, cabinets, and countertops, much to his wife's disgusted surprise. The light also unveils eerie children's drawings on a wall, suggesting previous occupants, adding a creepy layer to their unearthing of hidden \"filth.\" The video highlights the unsettling reality of what lurks unseen in seemingly clean spaces.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:32.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Shock_Surprise",
+        "Home_Kitchen",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "UV light",
+        "glowing spots",
+        "walls",
+        "power outlets",
+        "kitchen cabinets",
+        "countertop",
+        "spilled residue",
+        "hands",
+        "disgust",
+        "surprise"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "shock_surprise",
+          "negative_emotion",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dark lighting",
+          "blue/purple UV glow",
+          "fast cuts"
+        ]
+      },
+      "why_kept": "This segment perfectly encapsulates the main narrative: the husband's product testing, the widespread reveal of filth on various surfaces (walls, cabinets, counters, flooring implied by camera movement), and the wife's escalating emotional reactions of shock and disgust, culminating in the humorous, yet serious, suggestion to 'burn it all down.' It showcases the core function of the UV light and the immediate, powerful impact of its findings."
+    },
+    {
+      "start_time": "00:37.400",
+      "end_time": "00:41.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Shock_Surprise",
+        "Negative_Emotion",
+        "Home_Kitchen",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "UV light",
+        "carpet",
+        "glowing specks",
+        "filth",
+        "foot",
+        "disgusted reaction"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "negative_emotion",
+          "shock_surprise"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dark lighting",
+          "blue/purple UV glow"
+        ]
+      },
+      "why_kept": "This segment provides another clear instance of the UV light revealing hidden filth (on the carpet), reinforcing the video's theme of unexpected dirt in seemingly clean areas and eliciting a strong, disgusted reaction."
+    },
+    {
+      "start_time": "00:41.000",
+      "end_time": "00:48.800",
+      "structural_tags": [
+        "Result_Transformation",
+        "Shock_Surprise",
+        "Negative_Emotion",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "UV light",
+        "glowing writing",
+        "Mom + Dad",
+        "wall",
+        "previous owners",
+        "creepy"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "shock_surprise",
+          "negative_emotion",
+          "eerie"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dark lighting",
+          "blue/purple UV glow",
+          "handwritten text"
+        ]
+      },
+      "why_kept": "This segment introduces a different, more unsettling aspect of discovery, highlighting that the UV light can reveal not just dirt but also hidden historical markings, adding a unique and 'creepy' emotional climax to the video's theme of hidden truths."
+    }
+  ]
+}

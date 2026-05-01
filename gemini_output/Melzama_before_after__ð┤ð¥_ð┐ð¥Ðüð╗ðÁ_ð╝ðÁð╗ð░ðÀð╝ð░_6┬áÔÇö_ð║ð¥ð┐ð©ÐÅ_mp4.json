@@ -1,0 +1,81 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ð╝ðÁð╗ð░ðÀð╝ð░ 6┬áÔÇö ð║ð¥ð┐ð©ÐÅ.mp4",
+  "detailed_description": "This video effectively showcases a before-and-after transformation for melasma treatment. It begins by presenting a woman's face visibly affected by melasma, suggesting a common problem state. The narrative then shifts to reveal her significantly clearer skin after undergoing a treatment, accompanied by a happy and confident expression. The text overlays emphasize that melasma is not resistant and only requires the 'right treatment,' introducing the 'Melasma Peel' method as the solution. The video provides a compelling visual testament to the treatment's efficacy.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "melasma",
+        "dark spots",
+        "skin discoloration",
+        "contemplative expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "reflective"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment serves as the visual hook and effectively establishes the 'problem state' by clearly showing the woman's melasma-affected skin. It sets the crucial context for the subsequent 'after' transformation."
+    },
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Product_Intro",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "clear skin",
+        "radiant skin",
+        "smile",
+        "melasma peel logo",
+        "treatment result"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "happy",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "bright",
+          "satisfaction"
+        ]
+      },
+      "why_kept": "This is the core 'reveal' segment, demonstrating the successful transformation with significantly clearer skin. It captures the 'positive emotion' of the treated individual and explicitly introduces the 'Melasma Peel' treatment as the solution, fulfilling the 'result transformation' and 'product intro' criteria."
+    }
+  ]
+}

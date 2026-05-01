@@ -1,0 +1,55 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1750973028803.mp4",
+  "detailed_description": "This video meticulously documents the complete haircutting and styling process for a male client in a modern salon. It highlights the barber's expertise through various stages, including precise clipper work for a faded side, skilled scissor-cutting on top, and dynamic blow-drying to create volume. The application of hair products for a polished finish, culminating in the client's visible satisfaction, showcases the transformation and the quality of the service.",
+  "segments": [
+    {
+      "start_time": "00:01.400",
+      "end_time": "00:55.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "barber",
+        "client",
+        "haircut",
+        "hair styling",
+        "neck strip",
+        "barber cape",
+        "hair clippers",
+        "hair scissors",
+        "hair comb",
+        "blow dryer",
+        "hair product",
+        "fade haircut",
+        "hair spray",
+        "smile",
+        "salon"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "premium",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "modern salon aesthetic",
+          "dynamic camera work"
+        ]
+      },
+      "why_kept": "This continuous segment encapsulates the entire 'Semantic Core' of the video. It begins with the essential preparation (neck strip, cape), transitions into the core labor of cutting and fading the hair using various tools (clippers, scissors), proceeds to active product interaction and styling with a blow dryer and comb, and concludes with the final reveal of the styled hair, highlighted by the client's satisfied facial expression. It demonstrates the complete professional service and the resulting transformation."
+    }
+  ]
+}

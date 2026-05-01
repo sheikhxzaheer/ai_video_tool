@@ -1,0 +1,154 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Magazine\\Cosmopolitan\\ssstik.io_@cosmopolitanuk_1761831261634.mp4",
+  "detailed_description": "The video features two women promoting a new Cosmopolitan magazine issue, dubbed the 'great skin bible beauty issue.' They humorously highlight how the magazine provides a guide for achieving a 'demure,' 'mindful,' and 'presentable' look suitable for work. The promotional message emphasizes the magazine's essential role in professional appearance, culminating in a direct call for viewers to purchase the new issue.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.280",
+      "structural_tags": [
+        "Product_Intro",
+        "Key_Information",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman",
+        "magazine",
+        "holding",
+        "talking",
+        "office",
+        "desk"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual professional attire"
+        ]
+      },
+      "why_kept": "This segment introduces the product (the magazine issue) and its core theme ('great skin bible beauty issue') and initial benefit ('demure, mindful') through direct interaction and a clear statement."
+    },
+    {
+      "start_time": "00:04.280",
+      "end_time": "00:07.410",
+      "structural_tags": [
+        "Key_Information",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Social_Proof",
+        "High_Energy",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman",
+        "magazine",
+        "holding",
+        "talking",
+        "office desk",
+        "stack of magazines"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual professional attire"
+        ]
+      },
+      "why_kept": "This segment reinforces the product's necessity and benefit for a professional appearance ('we don't come to work without reading the new issue') with clear product interaction and an enthusiastic delivery."
+    },
+    {
+      "start_time": "00:11.970",
+      "end_time": "00:13.910",
+      "structural_tags": [
+        "Product_Interaction",
+        "Reveal_Result",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman",
+        "multiple magazines",
+        "fanning",
+        "smiling",
+        "office desk"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "positive",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual professional attire"
+        ]
+      },
+      "why_kept": "This segment visually demonstrates the product's quantity and the 'presentable' result/quality it promotes, with a clear positive emotional expression, acting as a direct visual proof."
+    },
+    {
+      "start_time": "00:13.910",
+      "end_time": "00:17.890",
+      "structural_tags": [
+        "Offer_CTA",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Key_Information",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman",
+        "magazine",
+        "holding",
+        "talking",
+        "gesturing",
+        "office desk"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual professional attire"
+        ]
+      },
+      "why_kept": "This segment delivers the explicit call to action to buy the magazine, clearly linking the product to the desired outcome mentioned throughout the video, serving as the video's conclusion."
+    }
+  ]
+}

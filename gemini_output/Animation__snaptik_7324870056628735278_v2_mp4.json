@@ -1,0 +1,60 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\snaptik_7324870056628735278_v2.mp4",
+  "detailed_description": "This video vividly illustrates the historical challenge of traveling around the world over a century ago, contrasting it with modern ease. It meticulously details the 80-day journey of Phileas Fogg and Jean Passepartout from Jules Verne's novel, showcasing their intricate route by train, ship, and even elephant across Europe, Asia, and America. The animated map tracks their progress day by day, highlighting the varied modes of transport and the significant time required to circumnavigate the globe in that era, culminating in their successful completion of the journey in 80 days.",
+  "segments": [
+    {
+      "start_time": "00:11.758",
+      "end_time": "01:10.999",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Travel_Transit",
+        "Aesthetic_Broll",
+        "Data_Metrics_Chart",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Time_Wasted"
+      ],
+      "visual_keywords": [
+        "world map",
+        "London",
+        "Phileas Fogg",
+        "Passepartout",
+        "train",
+        "ship",
+        "elephant",
+        "journey route",
+        "days counter",
+        "Brindisi",
+        "Suez",
+        "Bombay",
+        "Kolkata",
+        "Hong Kong",
+        "Yokohama",
+        "San Francisco",
+        "New York"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "ocean",
+          "nature",
+          "other"
+        ],
+        "mood": [
+          "informative",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "animated map",
+          "red route line",
+          "time counter"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core. It introduces the historical context of travel, directly demonstrates the detailed 'process/labor' of the round-the-world journey with animated routes and a day counter, and delivers the 'key information' about the characters and their travel methods. The culmination of the journey in '80 DAYS' acts as the 'reveal/result' and emotional climax, directly fulfilling multiple hero moment criteria without significant setup or dead air."
+    }
+  ]
+}

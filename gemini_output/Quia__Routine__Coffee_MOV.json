@@ -1,0 +1,112 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Routine\\Coffee.MOV",
+  "detailed_description": "A woman begins her calm morning routine by preparing coffee in her modern kitchen. The video highlights her interaction with a premium coffee machine and a Chobani creamer, showing the process of adding the creamer to her drink. The core essence focuses on the effortless preparation and the ultimate enjoyment of her personalized coffee, conveying a satisfying start to the day facilitated by these products.",
+  "segments": [
+    {
+      "start_time": "00:01.370",
+      "end_time": "00:02.130",
+      "structural_tags": [
+        "Visual_Hook",
+        "Morning_Routine",
+        "Home_Kitchen",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman",
+        "glasses",
+        "coffee machine",
+        "Chobani creamer",
+        "kitchen counter"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment establishes the morning routine and introduces the products (coffee machine and creamer) in their home context, setting up the subsequent actions and serving as a visual hook."
+    },
+    {
+      "start_time": "00:03.040",
+      "end_time": "00:04.140",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hand",
+        "pouring",
+        "Chobani creamer",
+        "coffee machine",
+        "kitchen counter"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "clean aesthetic",
+          "focused shot"
+        ]
+      },
+      "why_kept": "This is the primary demonstration of using the product (Chobani creamer) with the coffee machine, clearly showing the 'process' and direct product interaction. It's the strongest action moment in the video."
+    },
+    {
+      "start_time": "00:04.576",
+      "end_time": "00:05.150",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Result_Transformation",
+        "Home_Kitchen",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "drinking",
+        "coffee",
+        "glass",
+        "satisfaction",
+        "kitchen"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "natural expression"
+        ]
+      },
+      "why_kept": "This segment shows the enjoyable 'result' of using the products, conveying satisfaction and the lifestyle benefit after the coffee preparation."
+    }
+  ]
+}

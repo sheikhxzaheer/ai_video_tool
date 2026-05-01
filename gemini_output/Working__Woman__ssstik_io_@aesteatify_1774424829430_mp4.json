@@ -1,0 +1,312 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Woman\\ssstik.io_@aesteatify_1774424829430.mp4",
+  "detailed_description": "This video captures a full day in the life of a corporate girl navigating London's bustling work environment. It showcases her morning commute on the tube, a refreshing stop for a matcha latte, and her meticulous routine of sanitizing her workspace before clocking in. The day progresses with focused work at her desk, followed by a mid-day break featuring a peach green iced tea enjoyed with a colleague to combat the heatwave. The video effectively portrays the routine, productivity, and small moments of enjoyment in a corporate professional's daily life in the city.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.300",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "London skyline",
+        "skyscrapers",
+        "street view",
+        "red bus"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "street",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright daylight",
+          "cityscape"
+        ]
+      },
+      "why_kept": "This segment serves as the visual hook, establishing the London setting and the corporate context of the video."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:07.400",
+      "structural_tags": [
+        "Travel_Transit",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "escalator",
+        "feet",
+        "tube",
+        "London Underground"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "street",
+          "other"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "POV shot",
+          "movement"
+        ]
+      },
+      "why_kept": "This segment efficiently shows the start of her daily commute using London's public transport."
+    },
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:12.700",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "matcha drink",
+        "barista",
+        "hand holding cup",
+        "drinking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "selfie camera"
+        ]
+      },
+      "why_kept": "This segment illustrates a key part of her morning routine: acquiring and enjoying a matcha drink before work, showing product interaction and implied satisfaction."
+    },
+    {
+      "start_time": "00:18.000",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "sanitizing wipe",
+        "keyboard",
+        "wiping",
+        "glasses",
+        "putting on glasses"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment highlights her preparatory steps for work, including sanitizing her desk and putting on glasses, representing a 'setup' phase of her workday."
+    },
+    {
+      "start_time": "00:22.000",
+      "end_time": "00:27.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Workspace_Office",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "typing",
+        "computer screen",
+        "keyboard",
+        "woman working",
+        "focused expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "professional setting",
+          "clear lighting"
+        ]
+      },
+      "why_kept": "This is the core 'work' segment, demonstrating the 'corporate girl' actively engaged in her job, which is central to the video's theme. Her focused expression reinforces the 'Process/Labor' aspect."
+    },
+    {
+      "start_time": "00:28.000",
+      "end_time": "00:30.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Behind_The_Scenes",
+        "Product_Intro"
+      ],
+      "visual_keywords": [
+        "iced tea machine",
+        "cup being sealed",
+        "peach green iced tea"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "industrial",
+          "clean"
+        ]
+      },
+      "why_kept": "This segment shows the preparation of the iced tea, highlighting the 'Process/Labor' involved in getting her mid-day drink."
+    },
+    {
+      "start_time": "00:31.000",
+      "end_time": "00:34.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "drinking iced tea",
+        "work colleague",
+        "walking on street",
+        "narrow alley"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "street photography"
+        ]
+      },
+      "why_kept": "This segment shows her enjoying the iced tea with a colleague during a break, adding a social and refreshing aspect to her corporate day."
+    },
+    {
+      "start_time": "00:35.000",
+      "end_time": "00:36.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "typing",
+        "hands on keyboard",
+        "gold watch",
+        "bracelets"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "focused",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "detail-oriented"
+        ]
+      },
+      "why_kept": "This close-up shot of her hands typing reiterates the 'work' aspect, while also showcasing her accessories, adding an aesthetic dimension to her corporate style."
+    },
+    {
+      "start_time": "00:38.000",
+      "end_time": "00:40.000",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "elevator",
+        "mirror selfie",
+        "woman in blazer",
+        "bag"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "selfie camera",
+          "reflective surfaces"
+        ]
+      },
+      "why_kept": "This segment serves as the concluding visual, marking the end of her workday and maintaining the personal, lifestyle-oriented narrative."
+    }
+  ]
+}

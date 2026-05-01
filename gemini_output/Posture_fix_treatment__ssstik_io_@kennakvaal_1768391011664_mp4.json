@@ -1,0 +1,152 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Posture fix treatment\\ssstik.io_@kennakvaal_1768391011664.mp4",
+  "detailed_description": "This video features a woman demonstrating how she corrected her poor posture, specifically addressing rounded shoulders and anterior pelvic tilt, within two weeks. She first illustrates her 'before' posture, then shows the corrected 'after' stance, highlighting the visual transformation. The core of the video lies in her detailed explanations and demonstrations of exercises targeting different body parts: strengthening back muscles and stretching the chest for improved shoulder alignment, and engaging the core and glutes to correct pelvic tilt. She emphasizes that by focusing on these specific muscle groups, she was able to achieve a significant improvement in her posture, leading to positive impacts on her back health.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:27.756",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation",
+        "Before_After",
+        "Key_Information",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "poor posture demonstration",
+        "shoulders rolling forward",
+        "arched lower back",
+        "corrected posture",
+        "standing in kitchen"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "instructive",
+          "serious",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment introduces the video's main claim and visually establishes the 'Before' (poor posture with rounded shoulders and anterior pelvic tilt) and 'After' (corrected posture) states, serving as a compelling visual hook and the primary demonstration of the video's value."
+    },
+    {
+      "start_time": "00:39.927",
+      "end_time": "01:11.757",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "pulling shoulders back",
+        "squeezing shoulder blades",
+        "sliding arms down wall",
+        "rowing motion",
+        "shoulder stretch against wall"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "instructive",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear demonstration",
+          "focused movements"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the practical exercises and techniques used to correct shoulder and upper back posture, detailing the 'how-to' aspect of the solution for the upper body."
+    },
+    {
+      "start_time": "01:25.797",
+      "end_time": "01:54.007",
+      "structural_tags": [
+        "Problem_State",
+        "Mechanism_Of_Action",
+        "Process_Labor",
+        "Before_After",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "demonstrating anterior pelvic tilt",
+        "tightening core muscles",
+        "tucking glutes",
+        "pelvic correction"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "instructive",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "detailed explanation",
+          "side profile view"
+        ]
+      },
+      "why_kept": "This segment focuses on correcting the anterior pelvic tilt, demonstrating the 'before' state and showing the targeted core and glute exercises that contribute to better lower back and pelvic alignment."
+    },
+    {
+      "start_time": "01:55.337",
+      "end_time": "02:04.144",
+      "structural_tags": [
+        "Result_Transformation",
+        "Key_Information",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "hand gestures",
+        "summary"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "confident",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address",
+          "concluding statement"
+        ]
+      },
+      "why_kept": "This final segment provides a concise summary of the successful outcome, reinforcing the video's main claim of fixing posture in two weeks and concluding the instructional narrative."
+    }
+  ]
+}

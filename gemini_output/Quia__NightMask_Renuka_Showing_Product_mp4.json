@@ -1,0 +1,86 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_Renuka_Showing Product.mp4",
+  "detailed_description": "The video provides a concise visual introduction to two skincare products from Quia Korean Beauty: the Collagen Niacinamide Jelly Cream and the Collagen Night Wrapping Mask. It features close-up shots of both product containers, showcasing their elegant pink packaging. The core value lies in the explicit demonstration of the products' unique textures; a spatula is used to scoop and stir the translucent, jelly-like cream, while the mask is squeezed from its tube, revealing its clear, viscous consistency. The video emphasizes the aesthetic and tactile qualities of the skincare line.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.200",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "pink jar",
+        "jelly cream",
+        "pink tube",
+        "wrapping mask",
+        "spatula",
+        "scooping cream",
+        "squeezing gel"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "soft lighting",
+          "product-focused"
+        ]
+      },
+      "why_kept": "This segment acts as the primary anchor, introducing both products and immediately demonstrating their key feature: texture and consistency, through direct product interaction (scooping the cream, squeezing the mask). It sets the visual theme and highlights the core products."
+    },
+    {
+      "start_time": "00:04.200",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "pink jar",
+        "jelly cream",
+        "pink tube",
+        "wrapping mask",
+        "spatula",
+        "stirring cream",
+        "gel texture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "soft lighting",
+          "product-focused"
+        ]
+      },
+      "why_kept": "This segment complements the anchor by providing additional visual reinforcement of both products and their textures. It includes more product standalone shots and further close-up interactions (stirring the jelly cream), solidifying the impression of the products' quality and consistency."
+    }
+  ]
+}

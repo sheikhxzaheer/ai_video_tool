@@ -1,0 +1,63 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250520_113529214.mp4",
+  "detailed_description": "This video functions as a clear product introduction for 'PRFCT Morning Tangerine Pulse.' It features two distinct product packages—a larger resealable pouch and a smaller, single-serving stick pack—displayed prominently on a textured, rock-like surface. The natural outdoor setting, with a glimpse of the ocean and a clear blue sky, suggests an association with health and an active lifestyle. Subtle camera movements allow viewers to examine the product branding, key benefits like 'Hydration Fuel,' 'Metabolic Activators,' and 'Nutrient Charge,' as well as listed ingredients, making the packaging details clearly visible.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.589",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Macro_Detail",
+        "Ingredient_Highlight",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "product packaging",
+        "pouch",
+        "stick pack",
+        "tangerine pulse",
+        "PRFCT morning",
+        "rock",
+        "concrete surface",
+        "ocean",
+        "blue sky",
+        "hydration fuel",
+        "metabolic activators",
+        "nutrient charge",
+        "B-vitamins",
+        "electrolytes",
+        "ginger",
+        "turmeric",
+        "apple cider vinegar",
+        "black pepper"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "nature",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "rugged",
+          "bright"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean background",
+          "subtle camera movement",
+          "product-focused",
+          "sunny"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the 'Product Interaction' by clearly showcasing the product's packaging and details. The subtle camera movement enhances the 'Macro_Detail' and 'Product_Standalone' elements, allowing all key information on the packaging to be legible. There are no setup frames or post-action dead air, making the entire duration a continuous 'hero moment' for product presentation."
+    }
+  ]
+}

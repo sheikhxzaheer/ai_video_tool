@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad pillow\\ssstik.io_@callherpouty_1761832731057.mp4",
+  "detailed_description": "The video features a young woman lying in bed, looking at the camera. An overlay text states, 'me going to bed without getting bent over or my hair pulled,' humorously implying a longing for specific intimate interactions. After a male voice suggests getting sleep, she dramatically turns over, pulls a blanket, and closes her eyes, accompanied by exaggerated, almost crying sounds. This short, comedic sketch portrays a relatable 'problem state' in a playful and self-deprecating manner.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.300",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Night_Routine",
+        "Playful",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "bedroom",
+        "pillow",
+        "blanket",
+        "lying down",
+        "sleeping",
+        "braids",
+        "sad expression",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "playful",
+          "relatable",
+          "humorous"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "casual setting",
+          "selfie-style camera"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it forms a complete, cohesive comedic sketch. The initial pose and text set up the 'problem state,' while the subsequent actions, facial expressions, and exaggerated sounds deliver the humorous punchline. Trimming any part would diminish the narrative flow and the intended comedic effect, making it a singular, indivisible 'hero moment' of emotional climax and key information delivery."
+    }
+  ]
+}

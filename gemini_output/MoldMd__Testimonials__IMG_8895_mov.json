@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Testimonials\\IMG_8895.mov",
+  "detailed_description": "The video features a young woman enthusiastically sharing her positive experience with MoldMD Mold Spot Remover. Initially skeptical, she expresses satisfaction with the product after only two weeks of use, highlighting improvements in air quality, resolution of allergies, and overall home comfort. She holds the product prominently, smiling as she declares MoldMD to be the best cleaner available, embodying a genuine testimonial.",
+  "segments": [
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Social_Proof",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "holding spray bottle",
+        "MoldMD product",
+        "bathroom tiles"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "clear lighting",
+          "product label visible",
+          "authentic testimonial"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it captures the main 'hero moment' where the product is explicitly introduced and held, while the subject delivers key information about its benefits, shares social proof of her positive experience, and displays a clear emotional climax through her smile and enthusiastic tone. It perfectly aligns with the 'Product Interaction', 'Key Information', and 'Emotional Climax' criteria."
+    }
+  ]
+}

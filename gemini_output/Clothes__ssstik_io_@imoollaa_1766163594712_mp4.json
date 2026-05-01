@@ -1,0 +1,56 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Clothes\\ssstik.io_@imoollaa_1766163594712.mp4",
+  "detailed_description": "The video provides a comprehensive visual tour of a 'long Christmas haul,' presenting a vast collection of new products meticulously arranged on a bed. The camera smoothly pans across an abundance of beauty items, skincare, fragrances, electronics, and accessories, highlighting the quantity and variety of gifts. The display emphasizes branded products, creating a sense of excitement and showcasing the impressive scale of the holiday gift collection.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.183",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "High_Energy",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "Christmas haul",
+        "beauty products",
+        "skincare",
+        "makeup",
+        "headphones",
+        "shoes",
+        "clothing",
+        "accessories",
+        "bed",
+        "gifts",
+        "cosmetics",
+        "perfume",
+        "shampoo",
+        "creams",
+        "makeup bags",
+        "jewelry boxes"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "smooth pan",
+          "vibrant colors",
+          "organized chaos"
+        ]
+      },
+      "why_kept": "This entire segment constitutes the semantic core of the video, showcasing the complete 'long Christmas haul' as the main subject. It serves as a continuous 'reveal' of numerous products, directly fulfilling the core purpose of the content without any irrelevant or trimmable footage."
+    }
+  ]
+}

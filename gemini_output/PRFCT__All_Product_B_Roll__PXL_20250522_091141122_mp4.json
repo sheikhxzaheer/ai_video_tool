@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250522_091141122.mp4",
+  "detailed_description": "The video features a hand gently dipping a product package labeled 'PRFECT MORNING TANGERINE PULSE' into clear, rippling water. The interaction creates small bubbles, highlighting the product in a serene, aquatic setting. This aesthetic shot emphasizes the product's connection to hydration and a refreshing, calm lifestyle, showcasing the packaging and its brand name in a visually appealing manner.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.309",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "hand",
+        "product package",
+        "water",
+        "bubbles",
+        "ripples",
+        "PRFECT MORNING",
+        "TANGERINE PULSE"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear water",
+          "rippling light",
+          "natural light",
+          "refreshing"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it perfectly captures the primary product interaction. The hand gently dips the product into water, creating bubbles, which is the core action demonstrating the product's association with hydration and refreshment. There is no 'setup' or 'post-action dead air', adhering to the 'no-mistake' rule."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad pillow Before_after\\ÐÄð│Ðüð║ð░.mp4",
+  "detailed_description": "The video features a woman introducing and comparing two pillowcases. She first holds up an older, grey pillowcase, then removes it to reveal and highlight a new, shiny white satin pillowcase, effectively showcasing a transition or upgrade between the two items.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "UGC_Talking_Head",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "Woman",
+        "Pillows",
+        "Pillowcases",
+        "White satin pillowcase",
+        "Grey pillowcase",
+        "Bed"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "candid",
+          "home setting"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it perfectly encapsulates the 'Product Interaction' and 'Key Information' hero moments. The woman is actively holding and presenting both the 'old' grey pillowcase and the 'new' white satin pillowcase while speaking, which is a direct demonstration of the items and an implied comparison. There are no redundant frames or 'dead air' before or after the core action, adhering to the 'No-Mistake' rule."
+    }
+  ]
+}

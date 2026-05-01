@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Dog happy\\ssstik.io_@maple_the_tiny_cockapoo_1770477599140.mp4",
+  "detailed_description": "This video features an adorable, fluffy golden-brown puppy encountering a full-length mirror for the first time. The puppy is visibly confused and intrigued by its own reflection, barking, pouncing, and playfully lunging at the 'other puppy' in the mirror. Its expressions range from cautious curiosity to energetic playfulness, culminating in it standing on its hind legs to get a closer look. The continuous interaction highlights the puppy's innocent charm and exploratory nature.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:25.750",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "Puppy",
+        "Mirror",
+        "Reflection",
+        "Barking",
+        "Pouncing",
+        "Jumping",
+        "Standing puppy"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "curious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "stationary camera",
+          "warm tones"
+        ]
+      },
+      "why_kept": "This entire segment is the 'Semantic Core' as it continuously captures the puppy's complete interaction with its reflection in the mirror, showcasing its initial confusion, playful barks, pounces, and curious attempts to engage with the 'other puppy.' There are no extraneous frames before or after the main action, and every moment contributes to the charming and humorous narrative."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Dog playing\\yt1s.com - Dog Jumps Joyfully Through Field of Tall Grass  ViralHog_1080pFHR.mp4",
+  "detailed_description": "The video showcases a playful light brown dog engaging in a repetitive jumping action within a vast field of tall, vibrant green grass under a clear blue sky. The dog leaps up, momentarily revealing its head and upper body above the foliage, before submerging back into the grass. This charming and energetic display captures the dog's joy and activity, creating a visually appealing scene of an animal's interaction with nature.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.518",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Positive_Emotion",
+        "High_Energy",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "dog",
+        "jumping",
+        "tall grass",
+        "green field",
+        "nature",
+        "blue sky",
+        "countryside"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "bright natural light",
+          "idyllic scene",
+          "dynamic movement"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it constitutes the semantic core of the video, demonstrating the dog's unique and continuous playful behavior of jumping in the tall grass. The repeated action and the dog's interaction with its environment are the main visual interest and encapsulate the video's value."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Skin is peeled off\\ssstik.io_@hudabeauty_1762087003641.mp4",
+  "detailed_description": "This video provides a close-up view of a professional facial treatment. A technician's hands are meticulously peeling a transparent, film-like layer from the client's face, specifically from the cheek and under-eye region. The peeled substance visibly contains numerous dark spots, indicating the removal of impurities or damaged skin cells. The underlying skin is revealed to be significantly smoother and lighter, showcasing the immediate transformative results of the treatment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hands",
+        "face",
+        "skin peel",
+        "dark spots",
+        "smooth skin",
+        "facial treatment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "detailed shot",
+          "well-lit"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it clearly demonstrates the process of a facial peel and the immediate visual transformation of the skin. It captures the 'Process/Labor' of the technician and the 'Reveal/Result' on the client's face. The action starts immediately and continues throughout the clip, making the whole duration essential according to the 'No-Mistake Rule'."
+    }
+  ]
+}

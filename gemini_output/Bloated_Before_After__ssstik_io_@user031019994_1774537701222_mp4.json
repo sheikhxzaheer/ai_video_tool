@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated Before_After\\ssstik.io_@user031019994_1774537701222.mp4",
+  "detailed_description": "This video humorously depicts the common experience of bloating after breakfast, contrasting a 'before' and 'after' state of the stomach. The woman first showcases her flat stomach, pulling down her sweatpants slightly to emphasize its trim appearance. Following this, she displays her noticeably fuller abdomen, making expressive and playful faces to convey the feeling of post-meal fullness or 'food baby' effect, typical of a morning routine.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.680",
+      "structural_tags": [
+        "Before_After",
+        "Result_Transformation",
+        "Face_Reaction",
+        "Morning_Routine",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "woman",
+        "stomach",
+        "flat abdomen",
+        "bloated abdomen",
+        "crop top",
+        "sweatpants",
+        "breakfast",
+        "facial expressions",
+        "body language"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "casual home setting",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, directly presenting the 'before and after' transformation of the woman's stomach relating to breakfast. The text overlays explicitly define these two states, and the woman's actions and facial expressions convey the core message of post-meal fullness and a playful reaction to it. Trimming would diminish the complete narrative of the transformation."
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Treatmant_skin\\ssstik.io_@venus_ttshop_reviews_1770915353958.mp4",
+  "detailed_description": "This video showcases Peter Thomas Roth Cucumber Detox Hydrogel eye patches. The creator demonstrates the application of the patches, highlighting their excellent adherence to the skin, unlike other brands. She explains how the cucumber-infused patches detox, nourish, and hydrate, effectively reducing puffiness, dark circles, fine lines, and wrinkles. The video concludes with the removal of the patches, revealing visibly brighter, revitalized, and more youthful-looking under-eyes, followed by a clear call to action for viewers to purchase the product.",
+  "segments": [
+    {
+      "start_time": "00:03.100",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman opening jar",
+        "taking out eye patches",
+        "holding patches"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct camera angle"
+        ]
+      },
+      "why_kept": "This segment introduces the product by showing the creator opening the container and taking out the eye patches, demonstrating direct product interaction and preparing for application."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "applying eye patches",
+        "patting patches"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct camera angle"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the process of applying the eye patches, which is a core action of the product's use."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "UGC_Talking_Head",
+        "Result_Transformation",
+        "Ingredient_Highlight",
+        "Mechanism_Of_Action",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "eye patches on face",
+        "patting patches",
+        "holding product",
+        "cucumber extract"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "informative",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "text overlay",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment combines product interaction (patches on face, patting) with key information, addressing common problems with other patches (adherence) and explaining the benefits and key ingredients, adhering to the visual priority rule by keeping product present during speech."
+    },
+    {
+      "start_time": "00:22.000",
+      "end_time": "00:29.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "peeling off eye patches",
+        "patting under eye area",
+        "brighter skin",
+        "smooth skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "positive",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct camera angle"
+        ]
+      },
+      "why_kept": "This segment is the 'reveal/result' moment, showing the removal of the patches and emphasizing the positive transformation of the under-eye skin, crucial for demonstrating the product's effectiveness."
+    },
+    {
+      "start_time": "00:29.000",
+      "end_time": "00:32.100",
+      "structural_tags": [
+        "Offer_CTA",
+        "Product_Standalone",
+        "Positive_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman smiling",
+        "holding product",
+        "call to action text"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "positive",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear text overlay"
+        ]
+      },
+      "why_kept": "This segment provides a clear call to action, reinforcing the product's appeal with a positive facial expression and visible product, guiding viewers on how to purchase."
+    }
+  ]
+}

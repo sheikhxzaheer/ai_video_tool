@@ -1,0 +1,141 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\532531331_AE4425E9DF09DBCF5174C32B878E318A_video_dashinit66.mp4",
+  "detailed_description": "A man explicitly addresses his visible hair loss, pointing out the areas of thinning hair on his scalp. He then makes the decisive announcement to shave his head as a solution. The video captures the transformation as he uses an electric shaver to remove his hair, culminating in a reveal of his completely shaved head, signifying the completion of the process.",
+  "segments": [
+    {
+      "start_time": "00:09.600",
+      "end_time": "00:12.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair loss",
+        "thinning hair",
+        "scalp",
+        "speaking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "resolute"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'Problem State' by visually demonstrating hair loss and verbally expressing the decision to shave his head, setting the stage for the main action."
+    },
+    {
+      "start_time": "00:16.800",
+      "end_time": "00:20.300",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "man",
+        "shaving head",
+        "electric shaver",
+        "haircut"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "focused",
+          "active"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "action shot",
+          "close-up work"
+        ]
+      },
+      "why_kept": "This segment is crucial as it demonstrates the 'Process/Labor' of shaving and the direct 'Product Interaction' with the electric shaver, which is the core action of the video."
+    },
+    {
+      "start_time": "00:20.900",
+      "end_time": "00:21.900",
+      "structural_tags": [
+        "Result_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "shaved hair",
+        "sink",
+        "hair clippings"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "factual",
+          "transitional"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "proof of action",
+          "static shot"
+        ]
+      },
+      "why_kept": "This brief shot of the hair in the sink serves as immediate visual evidence of the shaving process, reinforcing the 'Result/Transformation' before the final reveal."
+    },
+    {
+      "start_time": "00:21.900",
+      "end_time": "00:23.100",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "shaved head",
+        "satisfied expression",
+        "speaking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "satisfied",
+          "accomplished"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "final look",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment provides the definitive 'Reveal/Result' of the shaved head and captures the 'Emotional Climax' of satisfaction with the stated 'It's all done'."
+    }
+  ]
+}

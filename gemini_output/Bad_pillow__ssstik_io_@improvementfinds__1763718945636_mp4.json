@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad pillow\\ssstik.io_@improvementfinds__1763718945636.mp4",
+  "detailed_description": "The video highlights the unsanitary nature of yellowed pillows, attributing their discoloration to absorbed bacteria, sweat, and oils, which can lead to skin issues like acne. It educates viewers on the skin being the body's largest organ, making it susceptible to absorbing these impurities from dirty pillowcases. The video then advocates for switching to silk pillowcases for better skin and hair health, comparing an expensive Amazon option to a significantly cheaper alternative found on TikTok Shop, concluding with a direct call to action to purchase the more affordable silk pillowcases.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:37.280",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Product_Intro",
+        "Low_Quality_Comparison",
+        "Offer_CTA",
+        "Human_Interaction",
+        "Financial_Stress",
+        "Urgency_Rush"
+      ],
+      "visual_keywords": [
+        "hand",
+        "yellow pillow",
+        "laptop",
+        "Google search",
+        "acne image",
+        "Amazon product page",
+        "silk pillowcase",
+        "smartphone",
+        "TikTok shop",
+        "satin pillowcase"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "urgent",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "close-up shots"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the problem of dirty yellow pillows, explaining the health implications (skin absorption, acne), introducing the solution (silk pillowcases), comparing pricing (Amazon vs. TikTok), and delivering a clear call to action to purchase the recommended product. There are no significant 'setup & calibration' or 'post-action dead air' frames; the narrative flows continuously and all visuals support the main message and call to action."
+    }
+  ]
+}

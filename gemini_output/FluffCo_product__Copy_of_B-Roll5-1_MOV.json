@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B-Roll5-1.MOV",
+  "detailed_description": "The video features a woman happily embracing and gently squeezing a white pillow, showcasing its fluffiness and comfort. Her joyful smile conveys a strong sense of satisfaction and relaxation, effectively demonstrating the positive emotional experience associated with the product. The interaction highlights the pillow's soft texture and inviting nature, set against a natural outdoor background, making the entire clip a compelling product interaction and emotional climax.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "hugging pillow",
+        "squeezing pillow",
+        "white pillow",
+        "outdoor",
+        "trees",
+        "blue sky"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "bright",
+          "clear sky",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment perfectly captures the 'Hero Moment' by showing direct product interaction (hugging and squeezing the pillow) combined with a clear emotional climax (woman smiling happily). The entire duration effectively demonstrates the product's comfort and elicits positive feelings, with no 'setup' or 'dead air' to trim. The action starts immediately and ends with the interaction still ongoing."
+    }
+  ]
+}

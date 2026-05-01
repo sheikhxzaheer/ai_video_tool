@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\ð┤ð¥_ð┐ð¥Ðüð╗ðÁ ð│ð©ð┐ðÁÐÇð┐ðÁð│ 2 (1).mp4",
+  "detailed_description": "This video concisely showcases a dramatic skin transformation. It opens with a close-up of a woman's face, clearly displaying visible pigmentation, establishing a 'problem state.' The scene then transitions, revealing the same woman with significantly clearer, more even-toned skin, indicating a successful resolution or 'result transformation.' The sequence functions as an effective visual 'before-and-after' comparison, highlighting the improvement in her complexion.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.541",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "skin pigmentation",
+        "clear skin",
+        "smile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "portrait style"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it perfectly captures a complete 'before-and-after' narrative. It clearly presents the 'Problem State' with visible skin pigmentation at the beginning and transitions directly into the 'Result Transformation' with clear skin and a positive emotional expression at the end. There are no setup frames or post-action dead air, making the entire duration a core demonstration of the transformation."
+    }
+  ]
+}

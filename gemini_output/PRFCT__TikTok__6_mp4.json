@@ -1,0 +1,103 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\TikTok\\6.mp4",
+  "detailed_description": "A woman introduces 'Perfect Morning Electrolytes' called 'Tangerine Pulse' to combat morning bloating. She explains that by incorporating the drink into her routine, she experienced a significant positive difference. She elaborates that the electrolytes aid in proper water absorption, support digestion, and balance minerals in the body. She emphasizes that it's a natural body-supportive product, not a detox, and encourages viewers to try it.",
+  "segments": [
+    {
+      "start_time": "00:04.280",
+      "end_time": "00:12.180",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "UGC_Talking_Head",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "woman holding product pouch",
+        "tangerine pulse label",
+        "glass with yellow liquid",
+        "stirring drink"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment introduces the product by showing the packaging and demonstrates the preparation (stirring the drink), while the speaker articulates the problem the product solves."
+    },
+    {
+      "start_time": "00:12.180",
+      "end_time": "00:16.890",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman sipping drink",
+        "glass with yellow liquid",
+        "straw"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment shows the direct consumption of the product while the speaker explains its functional benefits, aligning with the 'Mechanism of Action' and 'Product Interaction' criteria."
+    },
+    {
+      "start_time": "00:19.460",
+      "end_time": "00:25.790",
+      "structural_tags": [
+        "Product_Interaction",
+        "Offer_CTA",
+        "UGC_Talking_Head",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman holding product pouch",
+        "tangerine pulse label",
+        "gesturing with hands",
+        "glass with yellow liquid"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment reinforces the product's presence during the clear call to action, encouraging viewers to try the product."
+    }
+  ]
+}

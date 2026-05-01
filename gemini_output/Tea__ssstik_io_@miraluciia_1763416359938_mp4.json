@@ -1,0 +1,276 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Tea\\ssstik.io_@miraluciia_1763416359938.mp4",
+  "detailed_description": "This video guides viewers through the process of making Japanese green tea, emphasizing specific temperatures and measurements for an optimal brew. It showcases each step, from preheating water and adding tea leaves to the final pour into aesthetic glass cups. The core of the video demonstrates the careful preparation and the vibrant green color of the finished tea, inviting viewers to appreciate the nuanced flavors by refilling the water multiple times.",
+  "segments": [
+    {
+      "start_time": "00:01.400",
+      "end_time": "00:02.100",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hand",
+        "opening teapot",
+        "lid",
+        "black teapot",
+        "candle"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "granite countertop"
+        ]
+      },
+      "why_kept": "This segment initiates the tea-making process by showing the user interacting with the main brewing vessel, the teapot."
+    },
+    {
+      "start_time": "00:02.100",
+      "end_time": "00:03.200",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hand",
+        "placing lid",
+        "teapot",
+        "scale"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "overhead",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "precise movement",
+          "minimalist aesthetic"
+        ]
+      },
+      "why_kept": "This segment shows the preparation of the teapot on a digital scale, essential for precise measurements in tea brewing."
+    },
+    {
+      "start_time": "00:03.400",
+      "end_time": "00:04.200",
+      "structural_tags": [
+        "Key_Information",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "scale display",
+        "temperature",
+        "70°C"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "digital display",
+          "informational text overlay"
+        ]
+      },
+      "why_kept": "This segment provides crucial information about the required water temperature, a key detail for brewing Japanese green tea, directly relevant to the process."
+    },
+    {
+      "start_time": "00:04.200",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Ingredient_Highlight",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hand",
+        "adding tea leaves",
+        "green tea",
+        "teapot",
+        "scale"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "overhead",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused action",
+          "ingredient display"
+        ]
+      },
+      "why_kept": "This segment demonstrates adding the primary ingredient (green tea leaves) to the teapot, a fundamental step in the brewing process."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "pouring water",
+        "kettle",
+        "teapot",
+        "scale"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "smooth pour",
+          "functional aesthetic"
+        ]
+      },
+      "why_kept": "This segment shows the precise addition of hot water, completing the initial brewing setup and highlighting a critical step in the tea-making process."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:11.800",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "pouring tea",
+        "green tea",
+        "glass cups",
+        "windowsill",
+        "teapot"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clean aesthetic",
+          "vibrant green liquid"
+        ]
+      },
+      "why_kept": "This is the 'reveal' moment where the prepared green tea is poured into serving cups, showcasing the appealing color and readiness of the final product, central to the video's purpose."
+    },
+    {
+      "start_time": "00:11.800",
+      "end_time": "00:12.700",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "two glasses",
+        "green tea",
+        "windowsill"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "minimalist setting",
+          "clear glass",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment provides a clear, aesthetic shot of the finished green tea in the cups, representing the successful outcome of the demonstrated process."
+    },
+    {
+      "start_time": "00:12.700",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "hands holding cup",
+        "green tea"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "pink nails",
+          "striped shirt"
+        ]
+      },
+      "why_kept": "This segment concludes the video by showing direct human interaction with the prepared tea, conveying satisfaction and inviting the viewer to enjoy the beverage."
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad electrolyte drink\\ssstik.io_@naturallytilly_1766926035454.mp4",
+  "detailed_description": "The video demonstrates how to prepare a homemade electrolyte drink, presented as a healthier and tastier alternative to commercial Gatorade, ideal for rehydration after intense activities like hot yoga. It explains that sweating leads to the loss of vital minerals such as sodium and potassium, which are crucial for hydration and muscle function. The recipe involves natural ingredients like fresh lemon and lime juice, coconut water, honey, a pinch of sea salt, and spirulina powder. The process highlights the simple steps of mixing these ingredients. The video concludes with the creator enjoying the refreshing, naturally restorative beverage, emphasizing its effectiveness in replenishing lost electrolytes.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.375",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman drinking",
+        "green drink",
+        "glass jar",
+        "straw",
+        "satisfaction"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "natural look"
+        ]
+      },
+      "why_kept": "This segment serves as an immediate visual hook, showcasing the appealing finished product and the positive interaction with it, enticing the viewer to learn how it's made."
+    },
+    {
+      "start_time": "00:01.375",
+      "end_time": "00:18.100",
+      "structural_tags": [
+        "Process_Labor",
+        "Ingredient_Highlight",
+        "Product_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "squeezing lemon",
+        "squeezing lime",
+        "juicing",
+        "coconut water",
+        "honey",
+        "salt flakes",
+        "spirulina powder",
+        "ice cubes",
+        "mixing",
+        "glass jar"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "practical",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "close-up of hands",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This is the core 'how-to' segment, demonstrating the entire process of making the electrolyte drink. It clearly shows each ingredient being added and mixed, fulfilling the 'Process/Labor' and 'Ingredient Highlight' criteria and providing the primary value of the video."
+    },
+    {
+      "start_time": "00:18.100",
+      "end_time": "00:20.100",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman drinking",
+        "green drink",
+        "outdoors",
+        "smiling",
+        "rehydration"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "satisfied",
+          "refreshing"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright sunlight",
+          "relaxed posture"
+        ]
+      },
+      "why_kept": "This segment shows the successful outcome and enjoyment of the homemade drink, serving as the 'Reveal/Result' and 'Emotional Climax.' It reinforces the benefit and satisfaction derived from the product."
+    }
+  ]
+}

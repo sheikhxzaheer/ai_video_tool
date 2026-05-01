@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B-rollSleepinghappy3.MOV",
+  "detailed_description": "This video's semantic core focuses on a woman demonstrating the comfort and softness of a white pillow. She gently rests her head and hand on the pillow, closing her eyes in a relaxed manner. The scene conveys a sense of peaceful rest, highlighting the pillow's ability to provide a comfortable experience. Her calm facial expression serves as a testament to the product's soothing quality.",
+  "segments": [
+    {
+      "start_time": "00:01.500",
+      "end_time": "00:09.626",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pillow",
+        "bed",
+        "resting",
+        "sleeping",
+        "hand",
+        "relaxed expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "lifestyle shot"
+        ]
+      },
+      "why_kept": "This segment clearly captures the 'Product Interaction' and 'Emotional Climax'. The woman's action of resting her head and hand on the pillow directly demonstrates its use, while her closed eyes and relaxed posture effectively convey 'Calm_Relaxation' and 'Positive_Emotion', showcasing the comfort provided by the product. It's the core demonstration of the pillow's benefit."
+    }
+  ]
+}

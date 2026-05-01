@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\In phone\\Man\\ssstik.io_@voporotgelo_1770752119302.mp4",
+  "detailed_description": "A man engages in a humorous exchange with an AI assistant on his phone, initially questioning its capabilities in creative domains like composing symphonies or creating masterpieces. The AI responds with a surprising and unexpected 'Can you?' followed by a loud 'fart' sound, leaving the man visibly shocked, confused, and speechless. The video highlights a comedic twist on AI interaction and human reactions to its unconventional responses.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:17.472",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Shock_Surprise",
+        "Confusion_Doubt",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "phone",
+        "AI interaction",
+        "shocked expression",
+        "fart sound",
+        "gestures",
+        "speechless"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "humorous",
+          "surprising"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "conversational",
+          "comedic timing",
+          "expressive facial reactions"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it captures the entire narrative arc of the video: the man's challenge to the AI, the AI's unexpected and humorous response, and the man's clear emotional climax of shock and surprise. The interaction, dialogue, and facial expressions are all crucial to understanding the video's core comedic value and purpose. No trimming was necessary as the video starts precisely with the core interaction and ends immediately after the punchline and reaction."
+    }
+  ]
+}

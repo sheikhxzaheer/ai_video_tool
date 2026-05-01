@@ -1,0 +1,149 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_Sharon_ProductDemo.mp4",
+  "detailed_description": "This video provides an honest review of Quia Beauty's Collagen Night Wrapping Mask. The creator showcases the product's viscous texture as it's poured onto an applicator brush, followed by a demonstration of its application to the face. The review highlights the mask's benefits, such as reducing redness, minimizing pores, boosting collagen, and deep hydration for youthful skin. While easy to apply, the creator notes its slightly watery consistency. The video concludes with a positive reveal of her skin after use, appearing hydrated and effectively locking in other skincare products.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Macro_Detail",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "pink bottle",
+        "clear viscous liquid",
+        "applicator brush",
+        "Quia Beauty text",
+        "viscosity"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "clean aesthetic",
+          "slow motion liquid"
+        ]
+      },
+      "why_kept": "This segment serves as a visual hook, introducing the product and demonstrating its unique viscous texture, setting the stage for the review."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:11.900",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Morning_Routine",
+        "Process_Labor",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman applying mask",
+        "silicone brush",
+        "face mask",
+        "forehead band"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "natural skin",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment demonstrates the core action of applying the product, showing its ease of use and how it interacts with the skin, which is central to a product review."
+    },
+    {
+      "start_time": "00:24.800",
+      "end_time": "00:27.700",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Mechanism_Of_Action",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "clear liquid dripping",
+        "applicator brush",
+        "hand",
+        "watery texture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "neutral"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed close-up",
+          "focus on texture"
+        ]
+      },
+      "why_kept": "This segment provides a close-up visual detail supporting a specific point mentioned in the voiceover about the mask's 'watery' consistency, adding depth to the honest review."
+    },
+    {
+      "start_time": "00:31.500",
+      "end_time": "00:37.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "UGC_Talking_Head",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman's hydrated skin",
+        "glowing face",
+        "smile",
+        "touching cheek"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "calm",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "natural look",
+          "confident expression"
+        ]
+      },
+      "why_kept": "This segment is a crucial 'reveal' showing the positive transformation of the skin after using the mask, along with the creator's satisfied reaction, delivering the key outcome of the review."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan cap\\MVI_9301.MP4",
+  "detailed_description": "The video captures a man's personal moment of self-assessment in front of a mirror. He removes his cap, inspects his hair with a contemplative expression, seemingly checking for hair thinning or appearance. His initial look of concern quickly transforms into a broad smile, followed by a confident thumbs-up, signaling satisfaction and a positive self-image regarding his hair. This segment highlights an emotional journey from self-consciousness to contentment.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:09.500",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "man",
+        "mirror",
+        "cap removal",
+        "hair check",
+        "smiling",
+        "thumbs up",
+        "red shirt"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "reflection shot",
+          "natural light",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it vividly demonstrates the key actions and emotional transformation. It begins with the act of taking off the cap and checking hair (implying a 'Problem_State' or routine check), and culminates in a clear 'Face_Reaction' and 'Positive_Emotion' with a confident smile and thumbs-up, signifying satisfaction or a positive 'Result_Transformation' related to his appearance. It captures the essence of self-perception and confidence."
+    }
+  ]
+}

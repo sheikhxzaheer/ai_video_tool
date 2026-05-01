@@ -1,0 +1,170 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\ssstik.io_@dailywellnessdose360_1770737680480.mp4",
+  "detailed_description": "This video visually demonstrates the severe damage smoking inflicts on lungs over time, presenting dark and deteriorating organs. It then introduces a natural drink, showcasing its potential to help repair lung tissue and eliminate harmful toxins. The core of the video provides a concise recipe for this restorative drink, highlighting the key ingredients: turmeric, ginger, lemon juice, and honey, with a clear visual process of their preparation. The narrative concludes by illustrating the positive transformation of the lungs, suggesting deeper breathing and a lighter sensation as a benefit of consuming the drink.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.567",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Intro",
+        "Result_Transformation",
+        "Negative_Emotion",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "lungs",
+        "smoke",
+        "damage",
+        "glowing red",
+        "healing transformation",
+        "clean lungs",
+        "energy"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "hopeful"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "dark background",
+          "animated graphics",
+          "glowing effects",
+          "dynamic transition"
+        ]
+      },
+      "why_kept": "This segment establishes the core problem (smoking damage) and immediately introduces the concept of a beneficial solution (the drink), setting the essential context for the rest of the video."
+    },
+    {
+      "start_time": "00:04.767",
+      "end_time": "00:08.333",
+      "structural_tags": [
+        "Before_After",
+        "Result_Transformation",
+        "Mechanism_Of_Action",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "lungs",
+        "damaged lung",
+        "healthy lung",
+        "split screen",
+        "smoke",
+        "toxins",
+        "blood vessels",
+        "water",
+        "cleansing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "clean background",
+          "animated graphics",
+          "side-by-side comparison",
+          "abstract liquid flow"
+        ]
+      },
+      "why_kept": "This segment visually reinforces the drink's efficacy by demonstrating lung repair through a before-and-after comparison and illustrating the mechanism of toxin removal within the body."
+    },
+    {
+      "start_time": "00:09.133",
+      "end_time": "00:13.633",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Ingredient_Highlight",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "turmeric powder",
+        "ginger root",
+        "lemon",
+        "honey",
+        "glass",
+        "water",
+        "pouring",
+        "mixing",
+        "splashing",
+        "hand"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "clear",
+          "instructional",
+          "fresh"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "slow-motion effects",
+          "ingredient focus"
+        ]
+      },
+      "why_kept": "This is the primary 'Hero Moment' as it directly demonstrates the 'Process/Labor' and 'Product Interaction' of preparing the solution, which is the core expertise and actionable value offered by the video."
+    },
+    {
+      "start_time": "00:13.633",
+      "end_time": "00:16.400",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Standalone",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "steaming drink",
+        "bowl",
+        "lungs",
+        "healthy lungs",
+        "air",
+        "breathing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "kitchen",
+          "studio"
+        ],
+        "mood": [
+          "warm",
+          "refreshing",
+          "healthy"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "warm tones",
+          "steam effect",
+          "bright light",
+          "animated breath"
+        ]
+      },
+      "why_kept": "This segment showcases the final prepared drink and the ultimate positive outcome on lung health, providing a satisfying conclusion to the solution presented in the recipe."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Fashion\\ssstik.io_@gala.fr_1763653446338.mp4",
+  "detailed_description": "This video captures a high-fashion runway show set within a grand, arched architectural hall. Models walk purposefully down a central green carpet, showcasing diverse garment designs. The initial focus is on a model wearing a sheer black top and flowing black skirt, followed by others displaying vibrant yellow layered dresses and other elegant attire. The long, continuous shot highlights the flowing movement of the garments and the sophisticated atmosphere of the event, with an audience seated along the sides.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.601",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "models",
+        "runway",
+        "fashion show",
+        "clothing",
+        "sheer black dress",
+        "yellow dress",
+        "arched hall",
+        "audience"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "premium",
+          "elegant",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "runway lighting",
+          "grand architecture",
+          "natural light"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the 'process' of a fashion show and the 'reveal' of multiple distinct product designs. It perfectly captures models showcasing various outfits in a grand setting, which is the primary value and action of the video. No trimming was required as it starts and ends mid-action, capturing the continuous flow of the event."
+    }
+  ]
+}

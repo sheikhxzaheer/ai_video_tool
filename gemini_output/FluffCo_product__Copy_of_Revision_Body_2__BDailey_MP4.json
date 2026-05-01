@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of Revision Body 2. BDailey.MP4",
+  "detailed_description": "The video features a woman in bed, holding a white 'Fluff' pillow, expressing her genuine satisfaction with its quality. She joyfully recounts sleeping so soundly on the pillow that she missed her alarm on the first night. Her radiant smile and enthusiastic tone convey a strong positive emotional response, serving as a direct testimonial for the pillow's effectiveness in providing restful sleep. She emphasizes her pleasant surprise at the product's performance by stating, 'Who knew pillows could actually do their job?'",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.300",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Social_Proof",
+        "Calm_Relaxation",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pillow",
+        "bed",
+        "smiling",
+        "talking",
+        "testimonial",
+        "white pillow",
+        "satin pillow"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "playful",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "direct address",
+          "natural look"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core, demonstrating product interaction (holding the pillow), providing explicit social proof and a testimonial about the product's effectiveness, and showcasing a clear positive emotional climax (satisfaction and a radiant smile) directly related to the product's benefit of a good night's sleep."
+    }
+  ]
+}

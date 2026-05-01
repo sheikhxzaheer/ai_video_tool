@@ -1,0 +1,112 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad pillow\\ssstik.io_@tana_fart_1761898818755.mp4",
+  "detailed_description": "This video humorously captures a universally relatable experience of discomfort from a hot pillow in bed. It begins by showing a woman experiencing this problem, followed by a moment of sudden realization and a change in her facial expression. She then swiftly performs the simple act of flipping her pillow to its cooler side. The video concludes with her settling back down, visibly content and comfortable, effectively conveying the immediate relief and satisfaction derived from this everyday solution.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.300",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "lying in bed",
+        "uncomfortable expression",
+        "hot pillow"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "other"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bedroom lighting",
+          "relatable content"
+        ]
+      },
+      "why_kept": "This segment establishes the initial problem of the hot pillow and the discomfort it causes, setting the necessary context for the subsequent solution."
+    },
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:02.500",
+      "structural_tags": [
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "realization",
+        "pointing to head",
+        "aha moment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "expressive face",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This is the core 'aha!' moment, capturing the emotional climax of realization that provides the central humorous and relatable insight of the video."
+    },
+    {
+      "start_time": "00:02.500",
+      "end_time": "00:04.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "flipping pillow",
+        "lying down",
+        "comfortable",
+        "smiling",
+        "relieved"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "other"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "straightforward action",
+          "satisfying resolution"
+        ]
+      },
+      "why_kept": "This segment demonstrates the simple solution of flipping the pillow and immediately showcases the positive result of comfort and satisfaction, completing the narrative arc."
+    }
+  ]
+}

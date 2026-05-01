@@ -1,0 +1,146 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_@alim_kh0_1753368208743.mp4",
+  "detailed_description": "This video provides a men's hair styling tutorial, beginning by showcasing an undesirable 'fringe' hairstyle and explicitly advising viewers to 'Stop doing this'. It then transitions to demonstrate a preferred styling method, involving combing the hair back and creating a neat middle part. A baseball cap is briefly used as a technique to help set the hair, followed by a final reveal of the polished, structured hairstyle. The video effectively contrasts an 'before' (undesirable) look with an 'after' (desired) result.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.200",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man combing hair forward",
+        "fringe hairstyle",
+        "sad emoji",
+        "red cross icon",
+        "pointing fingers"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "instructional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "bathroom setting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment establishes the 'problem state' by showing an undesirable hairstyle and explicitly instructing the viewer to avoid it, serving as a clear visual hook and setting the context for the entire tutorial."
+    },
+    {
+      "start_time": "00:03.600",
+      "end_time": "00:15.100",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Process_Labor",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man combing hair backward",
+        "creating middle part",
+        "defining side parts",
+        "using comb"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "instructional",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "bathroom setting",
+          "clear demonstration"
+        ]
+      },
+      "why_kept": "This segment is the core 'process' or 'labor' where the alternative, recommended hair styling technique is actively demonstrated, showing step-by-step how to achieve the desired look."
+    },
+    {
+      "start_time": "00:15.800",
+      "end_time": "00:18.200",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man putting on baseball cap",
+        "man removing baseball cap",
+        "adjusting hair after cap"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "instructional",
+          "neutral"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "bathroom setting",
+          "quick transition"
+        ]
+      },
+      "why_kept": "This segment illustrates a specific technique (using a cap) that helps set the hair and refine the style, contributing to the overall 'mechanism of action' for achieving the final look, even if it's not the primary combing."
+    },
+    {
+      "start_time": "00:18.800",
+      "end_time": "00:21.600",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "final styled hair",
+        "middle part hairstyle",
+        "man posing with new hair",
+        "side profile of hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "confident",
+          "satisfied",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "bathroom setting",
+          "clean look",
+          "subtle movement"
+        ]
+      },
+      "why_kept": "This segment is the 'reveal' of the successful transformation, showcasing the final, desired hairstyle after the demonstrated process, fulfilling the tutorial's objective."
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Dog anxiety\\Scene5 Getting Ready To Leave.mp4",
+  "detailed_description": "This video captures the highly energetic and emotional reactions of a dog as its owner prepares to leave the house and opens the door. Initially, the dog displays anticipation and slight distress when the owner first steps out, whimpering and watching the closed door. Later, the dog's excitement escalates dramatically, with intense jumping and barking, as the owner picks up keys and ultimately opens the door, allowing the dog to burst out with overwhelming joy and enthusiasm.",
+  "segments": [
+    {
+      "start_time": "00:05.000",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Human_Interaction",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "woman leaving",
+        "dog barking",
+        "tail wagging",
+        "door closing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment establishes the dog's initial emotional reaction and anticipation as the owner prepares to leave, setting the stage for subsequent interactions."
+    },
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "dog watching door",
+        "whimpering",
+        "dog looking at camera"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment highlights the dog's emotional state of longing and mild distress after the owner has left, reinforcing its attachment."
+    },
+    {
+      "start_time": "00:24.000",
+      "end_time": "00:28.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Human_Interaction",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "woman picking up keys",
+        "dog jumping",
+        "tail wagging furiously",
+        "dog barking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment effectively captures the rapid build-up of the dog's excitement and anticipation as the owner takes keys, signaling an imminent departure or walk."
+    },
+    {
+      "start_time": "00:28.000",
+      "end_time": "00:33.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Human_Interaction",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "woman opening door",
+        "dog jumping",
+        "dog barking intensely",
+        "dog trying to pass through door"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment demonstrates the peak of the dog's excitement and frantic reaction as the door opens, showing its desperate desire to go outside."
+    },
+    {
+      "start_time": "00:37.000",
+      "end_time": "00:40.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Human_Interaction",
+        "High_Energy",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman opening door",
+        "dog rushing out",
+        "dog jumping",
+        "dog barking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment is the ultimate climax, showing the dog's unbridled joy and energetic release as it finally rushes through the open door, embodying the core meaning of intense dog excitement."
+    }
+  ]
+}

@@ -1,0 +1,524 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cleaning home\\ssstik.io_@grwm.and.ootd3_1765836130812.mp4",
+  "detailed_description": "This video showcases a room transformation from a highly messy state to an \"almost fully cleaned\" condition. The creator outlines her cleaning process, starting with making a \"fun drink\" as a motivational ritual. She systematically tackles different areas of her room, including organizing pillows, clothes, blankets, shoes, and decorative items. The video highlights the hands-on labor of tidying up, culminating in a satisfying reveal of her organized bedroom, with her vanity intentionally left messy for a separate video.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.333",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Messy_Unorganized",
+        "Home_Bedroom"
+      ],
+      "visual_keywords": [
+        "messy room",
+        "clothes on floor",
+        "unmade bed",
+        "disorder"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "unorganized"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "overhead light"
+        ]
+      },
+      "why_kept": "Establishes the initial problem state of the room, sets the context for the cleaning task, and serves as the visual hook."
+    },
+    {
+      "start_time": "00:09.932",
+      "end_time": "00:21.433",
+      "structural_tags": [
+        "Product_Interaction",
+        "Lifestyle_Active",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "making a drink",
+        "ice dispenser",
+        "soda can",
+        "creamer",
+        "pink mug",
+        "straw",
+        "kitchen counter"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "Shows a distinct pre-cleaning ritual involving product interaction (making a drink) which adds a personal and motivational element to the task."
+    },
+    {
+      "start_time": "00:25.766",
+      "end_time": "00:37.333",
+      "structural_tags": [
+        "Process_Labor",
+        "Messy_Unorganized",
+        "Home_Bedroom"
+      ],
+      "visual_keywords": [
+        "picking up pillows",
+        "picking up clothes",
+        "clothes piles",
+        "floor",
+        "dresser"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "laborious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "fast-paced cuts"
+        ]
+      },
+      "why_kept": "Demonstrates the physical labor of tidying, specifically gathering scattered pillows and clothes from the floor and surfaces."
+    },
+    {
+      "start_time": "00:37.833",
+      "end_time": "00:41.666",
+      "structural_tags": [
+        "Process_Labor",
+        "Behind_The_Scenes",
+        "Home_Bedroom"
+      ],
+      "visual_keywords": [
+        "carrying clothes",
+        "walking through hallway",
+        "clothes rack",
+        "sister's room",
+        "dumping clothes"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "purposeful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "movement"
+        ]
+      },
+      "why_kept": "Illustrates the process of relocating clothes to a temporary storage area, revealing a practical cleaning strategy."
+    },
+    {
+      "start_time": "00:43.366",
+      "end_time": "00:49.233",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation",
+        "Home_Bedroom"
+      ],
+      "visual_keywords": [
+        "folding pajamas",
+        "putting clothes in drawer",
+        "dresser",
+        "organized drawer"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "organized"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed action"
+        ]
+      },
+      "why_kept": "Shows the satisfying process of organizing and storing pajamas, with a clear before-and-after of the drawer."
+    },
+    {
+      "start_time": "00:50.366",
+      "end_time": "00:54.433",
+      "structural_tags": [
+        "Process_Labor",
+        "Home_Bedroom"
+      ],
+      "visual_keywords": [
+        "picking up blankets",
+        "carrying blankets",
+        "hallway"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "purposeful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "movement"
+        ]
+      },
+      "why_kept": "Demonstrates the action of removing misplaced blankets from the bedroom, reducing clutter."
+    },
+    {
+      "start_time": "00:54.633",
+      "end_time": "00:55.333",
+      "structural_tags": [
+        "Result_Transformation",
+        "Home_Bedroom"
+      ],
+      "visual_keywords": [
+        "partially cleaned room",
+        "clearer floor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "progress"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "overview shot"
+        ]
+      },
+      "why_kept": "Provides a brief visual update on the room's progress, indicating improvement from the initial messy state."
+    },
+    {
+      "start_time": "00:56.566",
+      "end_time": "01:08.533",
+      "structural_tags": [
+        "Process_Labor",
+        "Home_Bedroom"
+      ],
+      "visual_keywords": [
+        "picking up flowers",
+        "bags",
+        "hair scrunchie",
+        "placing items"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "organized"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused action"
+        ]
+      },
+      "why_kept": "Shows the specific process of organizing decorative items and small accessories around the room."
+    },
+    {
+      "start_time": "01:09.966",
+      "end_time": "01:17.800",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation",
+        "Home_Bedroom"
+      ],
+      "visual_keywords": [
+        "fixing vines",
+        "succulent",
+        "llama decor",
+        "placing flowers",
+        "side table"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed arrangement"
+        ]
+      },
+      "why_kept": "Demonstrates specific styling and organization tasks (fixing vines, arranging flowers) and shows the immediate tidy result of the side table area."
+    },
+    {
+      "start_time": "01:18.466",
+      "end_time": "01:22.066",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation",
+        "Home_Bedroom"
+      ],
+      "visual_keywords": [
+        "fixing blanket",
+        "stuffed animal",
+        "round chair",
+        "green pillow"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed arrangement"
+        ]
+      },
+      "why_kept": "Highlights the organization of a comfortable seating area, showcasing how a blanket and stuffed animal are neatly arranged."
+    },
+    {
+      "start_time": "01:23.733",
+      "end_time": "01:29.233",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation",
+        "Home_Bedroom"
+      ],
+      "visual_keywords": [
+        "picking up shoes",
+        "shoe organizer",
+        "sneakers"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "organized"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused action"
+        ]
+      },
+      "why_kept": "Shows the systematic process of collecting and storing shoes in a dedicated organizer, demonstrating efficient clutter removal."
+    },
+    {
+      "start_time": "01:31.966",
+      "end_time": "01:34.700",
+      "structural_tags": [
+        "Result_Transformation",
+        "Calm_Relaxation",
+        "Home_Bedroom"
+      ],
+      "visual_keywords": [
+        "made bed",
+        "fluffy comforter",
+        "pillows",
+        "neat bedding"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "satisfaction"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "Represents a major milestone in the room's transformation, showcasing the most prominent piece of furniture as perfectly tidy."
+    },
+    {
+      "start_time": "01:35.366",
+      "end_time": "01:37.766",
+      "structural_tags": [
+        "Product_Interaction",
+        "Calm_Relaxation",
+        "Home_Bedroom"
+      ],
+      "visual_keywords": [
+        "hand pressing remote",
+        "TV screen",
+        "music playing",
+        "Amazon Music"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "daily routine",
+          "entertainment"
+        ]
+      },
+      "why_kept": "Illustrates a moment of comfort and ambiance-setting during the cleaning process, showing interaction with entertainment technology."
+    },
+    {
+      "start_time": "01:38.800",
+      "end_time": "01:39.900",
+      "structural_tags": [
+        "Result_Transformation",
+        "Home_Bedroom"
+      ],
+      "visual_keywords": [
+        "cleaned dresser",
+        "tidied surface",
+        "organized items"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "organized"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "overview shot"
+        ]
+      },
+      "why_kept": "Highlights the transformation of the dresser, showing a cleaner and more organized surface."
+    },
+    {
+      "start_time": "01:54.000",
+      "end_time": "01:55.033",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "hand gesture",
+        "summary of progress"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "satisfaction"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "expressive gesture"
+        ]
+      },
+      "why_kept": "Provides a concise summary and indication of the cleaning effort, setting up the final reveal."
+    },
+    {
+      "start_time": "01:55.700",
+      "end_time": "01:58.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Home_Bedroom"
+      ],
+      "visual_keywords": [
+        "almost clean room",
+        "organized bedroom",
+        "natural lighting",
+        "purple LED lights"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "satisfaction"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "final reveal",
+          "aesthetic",
+          "overview shot"
+        ]
+      },
+      "why_kept": "This is the ultimate 'reveal' of the video, showcasing the significant transformation and the satisfying outcome of the cleaning effort."
+    }
+  ]
+}

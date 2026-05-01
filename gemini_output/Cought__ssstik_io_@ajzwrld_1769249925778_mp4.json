@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cought\\ssstik.io_@ajzwrld_1769249925778.mp4",
+  "detailed_description": "This video depicts a person physically embodying the struggle of 'fighting back' against an implied emotional or life 'hit.' The individual slowly raises their arms with a pained and strained expression, gradually shifting to a look of determination. The entire sequence, set in a bedroom, visually represents resilience and the internal effort required to overcome adversity, capturing the 'process' of resistance and the 'emotional climax' of this struggle.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.340",
+      "structural_tags": [
+        "Problem_State",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "person",
+        "struggling",
+        "raising arms",
+        "pained expression",
+        "determined look"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "fixed camera",
+          "steady shot",
+          "ambient lighting"
+        ]
+      },
+      "why_kept": "The entire video segment comprehensively captures the 'Emotional Climax' and 'Process/Labor' of fighting back, as indicated by the text overlay. The continuous physical struggle, pained expressions, and sustained arm-raising perfectly convey the core message without any extraneous setup or post-action dead air."
+    }
+  ]
+}

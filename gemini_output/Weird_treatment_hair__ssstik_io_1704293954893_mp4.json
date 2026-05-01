@@ -1,0 +1,145 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ssstik.io_1704293954893.mp4",
+  "detailed_description": "This video captures a man's personal hair growth journey, showcasing his routine of applying natural ingredients like aloe vera, vitamin E gel, and coconut oil to his balding scalp, followed by brushing. He demonstrates the application process clearly, highlighting the specific areas he targets. The video concludes with the man expressing genuine satisfaction with his progress, revealing the current state of his hair, and engaging with his audience, serving as social proof for his method.",
+  "segments": [
+    {
+      "start_time": "00:04.100",
+      "end_time": "00:14.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "bald spot",
+        "scalp",
+        "hand gesture",
+        "hair thinning"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' context by visually presenting the specific area of hair thinning and balding on the man's scalp, which is the problem state being addressed by his routine."
+    },
+    {
+      "start_time": "00:14.900",
+      "end_time": "00:35.700",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Process/Labor"
+      ],
+      "visual_keywords": [
+        "man",
+        "hand",
+        "scalp massage",
+        "wet hair",
+        "applying product"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear demonstration",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment is a 'Process/Labor' hero moment, clearly demonstrating the direct application and massage of the natural products (aloe vera, vitamin E, coconut oil) into the scalp with his hands, which is a core part of his hair growth regimen."
+    },
+    {
+      "start_time": "00:37.300",
+      "end_time": "00:52.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Process/Labor"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair brush",
+        "scalp brushing",
+        "stimulating hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed action",
+          "practical demonstration"
+        ]
+      },
+      "why_kept": "This segment shows another key 'Product Interaction' and 'Process/Labor' moment, where the man uses a brush to further work the products into his scalp, demonstrating a crucial step in his routine for stimulating hair growth."
+    },
+    {
+      "start_time": "00:52.500",
+      "end_time": "01:13.200",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "UGC_Talking_Head",
+        "Offer_CTA",
+        "Face_Reaction",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "man",
+        "smiling",
+        "happy expression",
+        "looking at camera",
+        "current hair growth"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "authentic expression",
+          "engaging direct address"
+        ]
+      },
+      "why_kept": "This segment acts as the 'Emotional Climax' and 'Result/Transformation' (implied) by showing the man's satisfied facial expression and verbal confirmation of feeling good about his progress. It also includes a 'Call to Action,' encouraging audience engagement, making it a strong social proof element."
+    }
+  ]
+}

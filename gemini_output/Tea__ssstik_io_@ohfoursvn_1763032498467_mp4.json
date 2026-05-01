@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Tea\\ssstik.io_@ohfoursvn_1763032498467.mp4",
+  "detailed_description": "This video beautifully captures the tranquil process of brewing and serving fresh coffee. It shows dark, steaming hot coffee being poured from a sleek glass carafe into a clear, elegant glass cup, creating a mesmerizing flow. The visible steam rising from the cup emphasizes the warmth and freshness of the beverage, while the soft, natural lighting enhances the aesthetic appeal. The scene subtly suggests a moment of calm and focus, possibly as part of a morning routine in a workspace.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.309",
+      "structural_tags": [
+        "Product_Interaction",
+        "Calm_Relaxation",
+        "Morning_Routine",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "coffee pouring",
+        "steam",
+        "glass cup",
+        "coffee carafe",
+        "hot beverage",
+        "white table"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "comforting"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "soft focus background",
+          "warm tones",
+          "detailed steam"
+        ]
+      },
+      "why_kept": "This entire segment is the core action of the video, demonstrating the pouring of hot coffee into a cup. It perfectly illustrates product interaction (the coffee maker and cup) and evokes a sense of calm and routine, which are key hero moments. No setup or post-action dead air is present, making the entire duration relevant and valuable."
+    }
+  ]
+}

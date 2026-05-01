@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Coffee throw out\\On car\\ssstik.io_@edgar_welcome_1767010969846┬áÔÇö ð║ð¥ð┐ð©ÐÅ.mp4",
+  "detailed_description": "This video captures a striking custom or concept red sports car, resembling a Lamborghini, parked on a bustling city street. The unique vehicle immediately draws the attention of passersby, who stop to admire it. The driver, acknowledging the public's interest, engages in a positive interaction by waving to the onlookers, highlighting the car's head-turning presence and the excitement it generates.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.593",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "red sports car",
+        "driver waving",
+        "onlookers",
+        "city street",
+        "EDCAR license plate",
+        "pedestrians",
+        "yellow buses"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera movement (zoom)",
+          "glossy finish",
+          "modern aesthetic",
+          "daylight"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, showcasing a unique and visually striking car ('the product') on a public street. It captures the initial attention it garners, the driver's positive interaction with onlookers (waving), and highlights the car's distinctive design, embodying both a product reveal and an emotional climax through public engagement."
+    }
+  ]
+}

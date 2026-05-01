@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\In phone\\Man\\ssstik.io_1766751265097.mp4",
+  "detailed_description": "The video humorously depicts a common relationship scenario where one partner is engrossed in their phone, ignoring the other. It begins with a man constantly scrolling on his phone while his partner tries to playfully get his attention from behind him on the bed. As her attempts are ignored, her demeanor shifts from playful annoyance to intense suspicion. The climax features the woman slowly turning to give an intense 'bombastic side-eye,' causing the man to instantly drop his phone in a startled reaction, encapsulating the comedic resolution of the relatable interaction.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Problem_State",
+        "Human_Interaction",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Emotional_Climax",
+        "Shock_Surprise",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "man on phone",
+        "woman tapping man",
+        "woman turning head",
+        "woman's side-eye",
+        "man flinching",
+        "bed",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "serious",
+          "comedic",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "domestic setting",
+          "straightforward camera work"
+        ]
+      },
+      "why_kept": "This segment establishes the entire comedic premise, starting with the problem (man on phone), escalating with the woman's ignored attempts and shift in emotion, and culminating in the 'bombastic side-eye' and the man's startled reaction. The entire duration is essential to convey the full narrative arc and the emotional climax of the skit."
+    }
+  ]
+}

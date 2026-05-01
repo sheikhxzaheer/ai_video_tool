@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Woman\\ssstik.io_@jappbeni_1761844204920.mp4",
+  "detailed_description": "This video depicts a woman at her office desk, visibly struggling with tiredness while attempting to work. Her slumped posture, closed eyes, and slow movements convey a strong sense of fatigue. The clip effectively captures the common 'problem state' of feeling exhausted during office hours, highlighted by her weary facial expressions.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.480",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Workspace_Office",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "office desk",
+        "computer",
+        "mouse",
+        "pear",
+        "tired expression",
+        "working"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "static camera",
+          "overhead office lighting"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it clearly illustrates the 'problem state' of being tired at work through the subject's visible fatigue, facial expressions, and slow, disengaged interaction with her workspace. The beginning and end of the action perfectly encapsulate the intended message, requiring no trimming."
+    }
+  ]
+}

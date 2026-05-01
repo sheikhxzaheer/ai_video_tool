@@ -1,0 +1,112 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Traveling\\ssstik.io_@silvana_gabra_1768403305764.mp4",
+  "detailed_description": "This video captures the excitement and beginning of a travel journey. It follows a young woman as she navigates an airport, first on a moving walkway with her luggage, then through a jet bridge ready to board, showcasing her palpable enthusiasm. The sequence culminates in an aerial view from an airplane window, visually confirming the start of her flight and destination.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.950",
+      "structural_tags": [
+        "Travel_Transit",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman walking",
+        "suitcase",
+        "airport moving walkway",
+        "smiling",
+        "green top",
+        "jeans"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "dynamic movement"
+        ]
+      },
+      "why_kept": "This segment establishes the main character and the initial phase of her journey, clearly depicting her excitement for travel and setting the scene for the semantic core of the video."
+    },
+    {
+      "start_time": "00:03.950",
+      "end_time": "00:08.850",
+      "structural_tags": [
+        "Travel_Transit",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman boarding",
+        "passport",
+        "jet bridge",
+        "smiling",
+        "black jacket",
+        "jeans",
+        "quilted bag"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "forward motion"
+        ]
+      },
+      "why_kept": "This segment continues the travel narrative, showing the next step of the journey – boarding the plane – and reinforces the traveler's positive emotion, providing context for the upcoming flight."
+    },
+    {
+      "start_time": "00:08.850",
+      "end_time": "00:10.717",
+      "structural_tags": [
+        "Travel_Transit",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "airplane wing",
+        "city aerial view",
+        "clouds",
+        "river",
+        "Turkish Airlines logo"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "cinematic view",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment provides the visual culmination of the travel process, showing the actual flight and the expansive view, effectively completing the story of starting a journey."
+    }
+  ]
+}

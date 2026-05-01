@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\New year tree\\ssstik.io_@ta.zozulia_1767611942874.mp4",
+  "detailed_description": "This video creatively reveals a fully decorated Christmas tree using a dynamic transition. It begins with a hand dropping a golden ornament, which rolls across the floor. A rapid camera movement and visual blur then magically transform the scene, leading to a wide shot of a festive Christmas tree adorned with lights, ornaments, and a golden bow. The camera slowly pans up the tree, showcasing its full decorative splendor and setting a joyful, holiday mood, complete with small gnomes and wrapped presents at its base.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Home_Kitchen",
+        "Positive_Emotion",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "golden ornament",
+        "floor",
+        "carpet",
+        "camera movement",
+        "Christmas tree",
+        "lights",
+        "decorations",
+        "gifts",
+        "gnomes",
+        "star"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "festive",
+          "warm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic transition",
+          "quick pan",
+          "festive lighting",
+          "holiday theme"
+        ]
+      },
+      "why_kept": "This entire segment serves as a cohesive 'hero moment' due to its creative and dynamic reveal of a decorated Christmas tree. The initial product interaction (dropping the ornament) acts as a visual hook, directly leading into a rapid, transformative camera movement that culminates in the full 'Result/Reveal' of the festive tree. Trimming any part would disrupt the intended magical effect and the continuous flow of this visual storytelling."
+    }
+  ]
+}

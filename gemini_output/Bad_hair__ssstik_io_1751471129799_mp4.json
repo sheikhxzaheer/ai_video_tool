@@ -1,0 +1,349 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\ssstik.io_1751471129799.mp4",
+  "detailed_description": "This video addresses the common problem of severe dandruff and an itchy scalp, attributing it to an overgrowth of Malassezia. It highlights the ineffectiveness of regular shampoos for this condition, using magnified visuals of the scalp to illustrate the issue. The video then introduces a specific shampoo formulated with selenium disulfide and sea salt as an effective solution. It demonstrates the product's application and showcases the clean, healthy scalp transformation after use on two different individuals, reinforcing its efficacy in combating dandruff and balancing scalp oil.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "person scratching head",
+        "dandruff flakes",
+        "itchy scalp"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This segment visually establishes the core problem of severe dandruff and an itchy scalp, serving as an immediate visual hook."
+    },
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Problem_State",
+        "Micro_Detail",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "gloved hands",
+        "scalp examination",
+        "dandruff",
+        "Malassezia text"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "clinic"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "scientific observation"
+        ]
+      },
+      "why_kept": "This segment provides a professional examination of the scalp, confirming the problem and introducing the scientific cause (Malassezia), which is critical information."
+    },
+    {
+      "start_time": "00:05.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Problem_State",
+        "Micro_Detail",
+        "Low_Quality_Comparison",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "microscope screen",
+        "magnified scalp",
+        "dandruff",
+        "gloved hand pointing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "clinic"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "digital screen",
+          "diagnostic view"
+        ]
+      },
+      "why_kept": "This segment visually explains why regular shampoos are ineffective by showing a magnified, problematic scalp, setting the stage for a specialized solution."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Ingredient_Highlight",
+        "Mechanism_Of_Action",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "Nippori shampoo bottle",
+        "gloved hand holding product",
+        "microscope screen background",
+        "selenium disulfide text"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "clinic"
+        ],
+        "mood": [
+          "clinical",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean desk",
+          "focused lighting"
+        ]
+      },
+      "why_kept": "This is the crucial introduction of the product, identifying it by brand and highlighting its key active ingredient (selenium disulfide) as the solution."
+    },
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Ingredient_Highlight",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "pouring shampoo",
+        "shampoo liquid",
+        "palm of hand",
+        "selenium disulfide text",
+        "sea salt text"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "practical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "direct product use"
+        ]
+      },
+      "why_kept": "This segment directly demonstrates product interaction, showing the shampoo's texture and emphasizing its key ingredients through on-screen text."
+    },
+    {
+      "start_time": "00:12.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Morning_Routine",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "person washing hair",
+        "lather",
+        "shampoo foam",
+        "sink"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "routine"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "reflection in mirror"
+        ]
+      },
+      "why_kept": "This segment shows the practical application of the shampoo as part of a routine, demonstrating how it is used."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "clean scalp",
+        "healthy hair",
+        "no dandruff"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "positive",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clear result"
+        ]
+      },
+      "why_kept": "This is the most impactful 'after' shot, clearly demonstrating the product's effectiveness and the desired transformation of a clean, dandruff-free scalp, making it the primary 'Hero Moment'."
+    },
+    {
+      "start_time": "00:16.000",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Morning_Routine",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "person washing long hair",
+        "shampoo foam",
+        "lather",
+        "mirror"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "routine"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "reflection in mirror"
+        ]
+      },
+      "why_kept": "This segment provides a second demonstration of product use, showing its versatility for different hair lengths and reinforcing the application process."
+    },
+    {
+      "start_time": "00:19.000",
+      "end_time": "00:21.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "clean long hair",
+        "healthy scalp",
+        "no dandruff"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "positive",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clear result"
+        ]
+      },
+      "why_kept": "This segment further reinforces the positive results and transformation, providing additional visual proof of the shampoo's effectiveness on another individual."
+    },
+    {
+      "start_time": "00:21.000",
+      "end_time": "00:24.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Offer_CTA",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "Nippori shampoo bottle",
+        "gloved hands holding product",
+        "microscope screen background",
+        "call to action text"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "clinic"
+        ],
+        "mood": [
+          "clinical",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean desk",
+          "direct address to viewer"
+        ]
+      },
+      "why_kept": "This final segment acts as a clear call to action, explicitly telling the target audience to try the product if they experience the mentioned scalp issues."
+    }
+  ]
+}

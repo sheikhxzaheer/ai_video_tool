@@ -1,0 +1,236 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\Use as is - Full usage\\IG_reel_racquetsportsgirl_2025-10-11.mp4",
+  "detailed_description": "The video features a woman introducing a hydration supplement called \"Perfect Morning,\" highlighting it as an \"amazing hydration pack.\" She briefly shows its packaging and the prepared drink in a water bottle, emphasizing her positive experience and strong recommendation. She states that it is \"definitely a perfect find\" that makes a difference in her workout routine and the way she trains.",
+  "segments": [
+    {
+      "start_time": "00:00.040",
+      "end_time": "00:00.063",
+      "structural_tags": [],
+      "visual_keywords": [],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [],
+        "mood": [],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": []
+      },
+      "why_kept": "This frame corresponds to the initial subtitle 'hello everybody.', but the speaker is looking down, suggesting a setup phase. It should be trimmed based on 'CUT \"Setup & Calibration\"' rule."
+    },
+    {
+      "start_time": "00:00.063",
+      "end_time": "00:04.090",
+      "structural_tags": [
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "black t-shirt",
+        "gym background"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "The speaker is addressing the camera, but the product isn't actively shown or interacted with yet. This segment is trimmed according to the 'Visual Priority Rule' as it is purely talking head without product interaction."
+    },
+    {
+      "start_time": "00:04.090",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman holding product pouch",
+        "product label",
+        "smiling face",
+        "fitness attire",
+        "gym background"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment clearly introduces the product, showcasing its packaging and name while the speaker expresses initial positive sentiment, making it a strong context-setting 'Hero Moment'."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:39.117",
+      "structural_tags": [
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "black t-shirt",
+        "gym background"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment is primarily a 'talking head' discussing ingredients and benefits without active product interaction. It is trimmed based on the 'Visual Priority Rule' to focus on visual demonstrations of the product."
+    },
+    {
+      "start_time": "00:39.117",
+      "end_time": "00:40.407",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman holding water bottle",
+        "mixed drink",
+        "fitness attire"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "calm",
+          "practical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "simple background"
+        ]
+      },
+      "why_kept": "This segment visually demonstrates the product in its prepared form (mixed in a bottle), fulfilling the 'Product Interaction' criteria and showing practical usage."
+    },
+    {
+      "start_time": "00:40.407",
+      "end_time": "01:07.039",
+      "structural_tags": [
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "black t-shirt",
+        "gym background"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "Similar to previous talking head segments, this portion focuses on verbal explanation and recommendation without active product interaction. It is trimmed to adhere to the 'Visual Priority Rule'."
+    },
+    {
+      "start_time": "01:07.039",
+      "end_time": "01:10.027",
+      "structural_tags": [
+        "Social_Proof",
+        "Positive_Emotion",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman holding product pouch",
+        "smiling face",
+        "product label",
+        "fitness attire"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment serves as a strong concluding endorsement, showcasing the product with a clear positive emotional response, framing it as a highly recommended and valuable item, which is a 'Hero Moment'."
+    },
+    {
+      "start_time": "01:10.027",
+      "end_time": "01:13.111",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "black t-shirt",
+        "gym background",
+        "gesturing hands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This is a direct call to action, but it's a 'talking head' without active product interaction. It is trimmed to adhere to the 'Visual Priority Rule' and focus on the visual demonstration of the product."
+    }
+  ]
+}

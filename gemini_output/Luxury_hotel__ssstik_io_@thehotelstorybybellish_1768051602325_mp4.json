@@ -1,0 +1,197 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury hotel\\ssstik.io_@thehotelstorybybellish_1768051602325.mp4",
+  "detailed_description": "This video showcases the meticulous and luxurious housekeeping services provided in a high-end Parisian hotel. It captures housekeepers performing various tasks with exceptional attention to detail, from arranging elegant floral displays to making beds with personal touches like a teddy bear. A highlight includes the preparation of a lavish bath adorned with flower petals and lit candles, creating a serene and indulgent atmosphere. The service culminates in revealing the stunning view of the Eiffel Tower, emphasizing the exclusive experience offered to guests. Each action underscores the commitment to creating a pristine, comfortable, and unforgettable stay.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.969",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Premium",
+        "Calm_Relaxation",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "housekeeper",
+        "opening door",
+        "hotel room",
+        "key",
+        "flower arrangement",
+        "coffee table"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "luxurious setting",
+          "elegant decor",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment establishes the entry into a luxurious hotel room and the initial step of enhancing its aesthetic with a grand floral display, setting the tone for premium service."
+    },
+    {
+      "start_time": "00:03.969",
+      "end_time": "00:05.979",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Premium",
+        "Calm_Relaxation",
+        "Reveal_Result"
+      ],
+      "visual_keywords": [
+        "housekeeper",
+        "adjusting cushion",
+        "sofa",
+        "Eiffel Tower",
+        "balcony view"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "luxurious setting",
+          "iconic view",
+          "attention to detail"
+        ]
+      },
+      "why_kept": "This segment highlights the meticulous attention to detail within the living space and contextualizes the luxury experience with a glimpse of the iconic Parisian landmark."
+    },
+    {
+      "start_time": "00:05.979",
+      "end_time": "00:08.069",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Premium",
+        "Calm_Relaxation",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "housekeepers",
+        "making bed",
+        "red teddy bear",
+        "bedroom",
+        "pillows"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "elegant bedroom",
+          "personal touch",
+          "crisp linens"
+        ]
+      },
+      "why_kept": "This segment showcases the personalized and comforting touches, such as placing a teddy bear, which elevate the guest experience in the bedroom."
+    },
+    {
+      "start_time": "00:09.119",
+      "end_time": "00:12.879",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Premium",
+        "Calm_Relaxation",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "housekeeper",
+        "bathtub",
+        "flower petals",
+        "lighting candle",
+        "red candles",
+        "faucet"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "spa-like atmosphere",
+          "indulgent experience",
+          "marble bathroom"
+        ]
+      },
+      "why_kept": "This is a strong hero moment demonstrating an exquisite, pampering service detail: preparing a luxurious, petal-filled bath and lighting ambient candles."
+    },
+    {
+      "start_time": "00:12.879",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Aesthetic_Broll",
+        "Premium",
+        "Calm_Relaxation",
+        "Reveal_Result"
+      ],
+      "visual_keywords": [
+        "housekeeper",
+        "opening curtains",
+        "Eiffel Tower",
+        "balcony view",
+        "hotel room"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "iconic Parisian view",
+          "natural light",
+          "final touch"
+        ]
+      },
+      "why_kept": "This segment serves as a powerful concluding reveal, showcasing the ultimate luxury of a Parisian hotel room with a direct view of the Eiffel Tower, symbolizing a perfected stay."
+    }
+  ]
+}

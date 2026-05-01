@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Happy\\Woman\\ssstik.io_@kirstinjeynes_1766160067681.mp4",
+  "detailed_description": "The video features a woman in a luxurious white bathrobe in what appears to be a 5-star hotel bathroom. Initially, she displays a sad expression, but quickly transforms her mood as upbeat music begins. She then engages in a lively and expressive dance, full of energy and smiles. An overlaid text explains this emotional shift, stating, 'When I'm sad I remember I get paid to stay at 5 star hotels,' highlighting the uplifting power of her job perks and illustrating a transition from melancholy to joy through spontaneous dance.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Positive_Emotion",
+        "High_Energy",
+        "Face_Reaction",
+        "Travel_Transit",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bathrobe",
+        "dancing",
+        "hotel bathroom",
+        "sad expression",
+        "smiling",
+        "playful movements"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hotel",
+          "bathroom"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "candid",
+          "spontaneous"
+        ]
+      },
+      "why_kept": "The entire video segment is the Semantic Core, illustrating an 'Emotional Climax' and 'Result Transformation.' It begins with a 'Problem_State' (sadness) which immediately transitions into 'Positive_Emotion' and 'High_Energy' through dance, directly explaining and demonstrating the core message conveyed by the on-screen text. There is no extraneous 'setup' or 'post-action dead air' to trim, making the full duration essential to the narrative."
+    }
+  ]
+}

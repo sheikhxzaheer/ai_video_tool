@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Woman\\ssstik.io_@subiinurr_1763912665100.mp4",
+  "detailed_description": "This video captures a focused business meeting where a group of women are engaged in a professional discussion. One woman stands at the head of a long table, actively presenting information, while her colleagues are seated, attentively listening, taking notes in notebooks, and interacting with laptops. The scene conveys a collaborative and productive atmosphere within a modern office setting, embodying the theme of 'business women's' gathering.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:16.299",
+      "structural_tags": [
+        "Workspace_Office",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "women",
+        "business meeting",
+        "presentation",
+        "laptops",
+        "notebooks",
+        "conference table",
+        "speaker",
+        "attendees",
+        "office room"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "professional",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead lighting",
+          "modern office",
+          "group dynamic",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it perfectly encapsulates the 'Semantic Core' of the video. It clearly shows 'The Process/Labor' of a business meeting with a woman presenting and others engaged in professional tasks (typing, note-taking, listening), aligning with the 'business women's' theme. There are no setup/calibration or post-action dead air frames, making it a complete hero moment as per the 'No-Mistake Rule'."
+    }
+  ]
+}

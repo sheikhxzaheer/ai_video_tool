@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Skin is peeled off\\Ðüð┤ð©ÐÇð░ÐÄÐé ð╝ð░Ðüð║Ðâ.mp4",
+  "detailed_description": "The video provides a close-up view of a facial skin treatment, specifically demonstrating the removal of a transparent, film-like peel from a person's face. As the peel is carefully lifted, dark spots and impurities are visibly extracted and adhered to the film's underside, showcasing the treatment's deep cleansing action. The skin beneath the peeled section appears significantly smoother and clearer, highlighting the immediate transformative results of the process. This segment serves as a direct demonstration of the product's mechanism and its efficacy in purifying the skin.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.200",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Macro_Detail",
+        "Human_Interaction",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "facial peel",
+        "skin treatment",
+        "peeling mask",
+        "face",
+        "hands",
+        "impurities",
+        "clear skin",
+        "skin texture"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "satisfying",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "focus on detail",
+          "clear action"
+        ]
+      },
+      "why_kept": "This entire segment is kept because it directly demonstrates the core value proposition of the video: the process of a facial peel and the clear, immediate transformation of the skin. It acts as the 'Process/Labor' and 'Reveal/Result' hero moment, showing both the product interaction and the outcome. The video begins and ends mid-action, capturing a continuous and compelling visual of the peel being removed and impurities being lifted."
+    }
+  ]
+}

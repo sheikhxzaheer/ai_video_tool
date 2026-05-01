@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ð┤ð╗ð©ð¢ð¢ÐïðÁ ð▓ð¥ð╗ð¥ÐüÐï (2).mp4",
+  "detailed_description": "This video features a man with remarkably long, straight black hair, demonstrating his hair care routine by continuously brushing it with a wooden paddle brush. He actively showcases the impressive length and smooth texture of his hair, engaging with the camera with a confident demeanor. The entire segment highlights the diligent process of maintaining such lengthy hair and its striking visual outcome.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.497",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "long hair",
+        "black hair",
+        "man brushing hair",
+        "wooden paddle brush",
+        "smooth hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "confident",
+          "showcase"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "consistent framing",
+          "focus on hair"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it continuously demonstrates the man's process of brushing and showcasing his exceptionally long hair, which is the primary subject and 'product' of the video. His facial expressions and direct gaze at the camera add to the 'Human_Interaction' and 'Face_Reaction' criteria, reinforcing the confident display of his well-maintained hair."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Man\\ssstik.io_@evie0911_1766674938239.mp4",
+  "detailed_description": "This video captures a tender and intimate moment between two individuals. One person is seen gently scratching the back of another, who appears to be comfortably asleep. The accompanying text humorously highlights the contrast between the person's perceived 'tough guy' persona and their relaxed, vulnerable state while being comforted. The scene conveys warmth, intimacy, and a sense of calm relaxation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.130",
+      "structural_tags": [
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "back scratch",
+        "sleeping",
+        "comforting hand",
+        "tender moment",
+        "bed",
+        "person's back"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "intimate"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "cozy",
+          "personal perspective"
+        ]
+      },
+      "why_kept": "This entire segment is kept because it fully encapsulates the 'Semantic Core' of the video. It visually demonstrates the gentle back-scratching action leading to relaxation and sleep, directly illustrating the narrative presented in the text overlay about the 'tough guy' becoming vulnerable. No trimming is needed as the action starts and ends precisely with the video's duration, adhering to the 'No-Mistake' rule."
+    }
+  ]
+}

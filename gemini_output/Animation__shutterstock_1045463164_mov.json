@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\shutterstock_1045463164.mov",
+  "detailed_description": "This 3D animation visually depicts the process of hair growth from follicles embedded in a skin-like surface. The sequence begins with a sparsely populated area featuring nascent or very short hair strands and empty follicles. Over time, the hair actively grows, increasing in length and density, filling the visible area with long, dark strands. The animation effectively illustrates the transformation from a state of minimal hair presence to a full, robust coverage, simulating a healthy hair growth cycle.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.136",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Cellular_Deep_Dive",
+        "Micro_Nutrients_Anim"
+      ],
+      "visual_keywords": [
+        "hair follicles",
+        "hair growth",
+        "skin surface",
+        "black hair strands",
+        "animation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "simulated growth",
+          "detailed",
+          "dark background",
+          "illuminated surface"
+        ]
+      },
+      "why_kept": "This entire segment demonstrates the core action of hair growth, starting from minimal presence and transforming into dense, long hair. It represents both the 'Process/Labor' of growth and the 'Reveal/Result' of the full transformation, making it the complete semantic core."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\New Year\\ssstik.io_@lararunarsson_1766164185874.mp4",
+  "detailed_description": "The video showcases a woman trying on and styling a festive gold mini-dress, ideal for Christmas celebrations. She starts by holding up the shimmery, bow-backed dress with excitement, then swiftly puts it on. The elegant, sleeveless dress features a striking, oversized bow detail at the back, which she proudly reveals. Her cheerful demeanor and confident poses highlight the chic design and festive appeal of the outfit, presenting it as perfect holiday inspiration.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.970",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman",
+        "gold dress",
+        "large bow",
+        "trying on",
+        "posing",
+        "smiling",
+        "fashion",
+        "Christmas outfit",
+        "wardrobe"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background",
+          "fashion styling"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it perfectly encapsulates the 'Semantic Core' of the video. It begins with the 'Visual Hook' and 'Product Intro' by presenting the dress, transitions through the 'Mechanism_Of_Action' of trying it on, and culminates in the 'Result_Transformation' of the fully styled outfit. The subject's 'Positive_Emotion' and 'Face_Reaction' throughout the process, combined with clear 'Product_Interaction' and showcasing of the dress (including the striking bow detail), make it a continuous and complete 'Hero Moment' without any discernible 'Setup & Calibration' or 'Post-Action Dead Air'. The 'No-Mistake Rule' applies here, as the action starts immediately and finishes when the demonstration is complete."
+    }
+  ]
+}

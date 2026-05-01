@@ -1,0 +1,216 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_Sevnur_ProductDemo.mp4",
+  "detailed_description": "This video showcases the unboxing and application of two Korean beauty products from QUIA: a Collagen Night Wrapping Mask and a Collagen Niacinamide Jelly Cream. The video highlights the delicate packaging, the smooth texture of the products, and demonstrates how to apply them to both the hand and face using a brush and fingers. The subject consistently displays a positive and satisfied expression, emphasizing the enjoyable user experience and the aesthetic appeal of the skincare line.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.900",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "pink box",
+        "hand unboxing",
+        "collagen night wrapping mask",
+        "product tube",
+        "silicone brush"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "soft lighting",
+          "minimalist"
+        ]
+      },
+      "why_kept": "This segment introduces the first product by showing its packaging and the unboxing process, demonstrating initial product interaction and revealing the mask tube and applicator brush."
+    },
+    {
+      "start_time": "00:01.900",
+      "end_time": "00:04.200",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "pink box",
+        "hand unboxing",
+        "collagen niacinamide jelly cream",
+        "product jar"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "soft lighting",
+          "minimalist"
+        ]
+      },
+      "why_kept": "This segment introduces the second product, showcasing its distinct packaging and the unboxing of the jelly cream jar."
+    },
+    {
+      "start_time": "00:04.200",
+      "end_time": "00:07.700",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Mechanism_Of_Action",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "pink jar",
+        "rose gold lid",
+        "cream texture",
+        "finger scooping product",
+        "product on hand",
+        "spreading cream"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed texture shot",
+          "smooth motion"
+        ]
+      },
+      "why_kept": "This segment demonstrates the product's texture and initial application, allowing viewers to see the consistency and how it spreads, which is crucial for skincare products."
+    },
+    {
+      "start_time": "00:07.700",
+      "end_time": "00:09.100",
+      "structural_tags": [
+        "Human_Interaction",
+        "Mechanism_Of_Action",
+        "Positive_Emotion",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying mask",
+        "face",
+        "brush",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "natural look"
+        ]
+      },
+      "why_kept": "This segment shows the direct facial application of the mask, illustrating its use in a routine and conveying a positive user experience through the subject's smile."
+    },
+    {
+      "start_time": "00:10.500",
+      "end_time": "00:11.800",
+      "structural_tags": [
+        "Human_Interaction",
+        "Mechanism_Of_Action",
+        "Positive_Emotion",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying cream",
+        "face",
+        "finger",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "natural look"
+        ]
+      },
+      "why_kept": "This segment demonstrates the facial application of the jelly cream, showing how it's integrated into a skincare routine and highlighting the pleasant user experience."
+    },
+    {
+      "start_time": "00:11.800",
+      "end_time": "00:13.200",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Standalone",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "holding both products",
+        "collagen night wrapping mask",
+        "collagen niacinamide jelly cream"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct gaze",
+          "happy expression",
+          "product showcase"
+        ]
+      },
+      "why_kept": "This segment serves as the main hero moment by visually encapsulating the video's purpose: presenting both key products with a satisfied user, creating a strong visual hook and reinforcing positive sentiment."
+    }
+  ]
+}

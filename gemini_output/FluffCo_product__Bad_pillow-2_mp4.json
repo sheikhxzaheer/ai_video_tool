@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Bad pillow-2.mp4",
+  "detailed_description": "The video effectively illustrates the common frustration of dealing with an uncomfortable pillow. A woman in bed attempts to adjust a pillow she labels a 'garbage pillow,' highlighting its extreme stiffness or lack of support through text overlays like 'rock hard or completely.' Her facial expressions convey clear discomfort and annoyance as she struggles with the unyielding pillow, representing a relatable problem state that many experience before finding an ideal sleep solution. This segment serves as a strong visual hook for anyone seeking a better pillow.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.958",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Interaction",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Home"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "pillow",
+        "struggling",
+        "frustration",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "uncomfortable",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "soft textures",
+          "bedroom setting"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the central problem of an uncomfortable pillow through the subject's direct interaction, emotional reaction (frustration and discomfort), and explicit textual description. It serves as a strong, relatable visual hook to highlight a common problem."
+    }
+  ]
+}

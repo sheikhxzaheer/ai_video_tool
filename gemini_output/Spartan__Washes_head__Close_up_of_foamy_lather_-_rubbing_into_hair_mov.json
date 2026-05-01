@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Washes head\\Close up of foamy lather - rubbing into hair.mov",
+  "detailed_description": "This video captures a man's shower routine, focusing on the act of lathering soap or shampoo. He demonstrates the foaming process by rubbing his hands together, building a rich, white lather. With a consistent smile, he then proceeds to apply and thoroughly massage the foam into his hair. The scene effectively highlights product interaction and the satisfying, clean feeling associated with personal hygiene.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:18.411",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Morning_Routine",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "man",
+        "shower",
+        "hands",
+        "foam",
+        "lathering",
+        "shampoo",
+        "hair",
+        "massaging",
+        "white tiles"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "white marble bathroom",
+          "close-up on action"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the 'Process/Labor' of lathering and applying shampoo. It clearly shows 'Product Interaction' (creating foam, applying to hair) and the 'Emotional Climax' through the subject's consistent positive facial expression. The video begins and ends precisely with these actions, meeting the 'No-Mistake Rule' for trimming."
+    }
+  ]
+}

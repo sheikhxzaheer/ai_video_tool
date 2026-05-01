@@ -1,0 +1,110 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\A woman is stroking a man's hair\\Ðüð╝ð¥ÐéÐÇÐÅÐé ð¢ð░ ð╝ÐâðÂð©ð║ð░ 4 (1).mp4",
+  "detailed_description": "This video captures candid street interactions, showcasing a man filming various women walking past him in a vibrant urban setting. The semantic core lies in the spontaneous and overwhelmingly positive reactions of the women to being filmed. These 'hero moments' include shy glances turning into broad smiles and even infectious laughter, highlighting a playful exchange. The compilation illustrates genuine human connection and the unexpected joy found in casual public encounters. The man's consistent presence with his camera sets the stage, but the emotional climax is squarely on the women's animated facial expressions and reactions.",
+  "segments": [
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:04.900",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "two women walking",
+        "woman in white top smiling",
+        "street background"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "street",
+          "outdoor"
+        ],
+        "mood": [
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "daytime"
+        ]
+      },
+      "why_kept": "This segment captures a clear positive face reaction and human interaction from one of the women being filmed, serving as a supporting 'hero moment' of the video's theme."
+    },
+    {
+      "start_time": "00:10.500",
+      "end_time": "00:12.500",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "two women walking",
+        "woman laughing",
+        "woman smiling",
+        "street buildings"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "street",
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "daytime"
+        ]
+      },
+      "why_kept": "This segment displays another strong positive emotional climax with one woman openly laughing and the other smiling, reinforcing the video's core theme of joyful reactions."
+    },
+    {
+      "start_time": "00:17.500",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "two women laughing",
+        "covering mouth",
+        "street background"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "street",
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "daytime"
+        ]
+      },
+      "why_kept": "This segment serves as the strongest 'emotional climax' and anchors the video's core meaning by showcasing two women laughing and covering their mouths, expressing high energy and positive interaction."
+    }
+  ]
+}

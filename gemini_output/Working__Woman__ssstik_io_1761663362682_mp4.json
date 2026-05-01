@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Woman\\ssstik.io_1761663362682.mp4",
+  "detailed_description": "This video humorously captures a common moment of absentmindedness in an office setting. A woman is shown diligently working at her desk, using a computer with dual monitors and interacting with a mouse. Despite holding the mouse in her hand and appearing focused, she suddenly expresses frustration and confusion, asking aloud, \"Where the fuck is my mouse?\". The clip highlights a relatable human experience of momentary mental block or distraction during routine tasks.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.419",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Confusion_Doubt",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman",
+        "office desk",
+        "computer",
+        "monitors",
+        "mouse",
+        "hand",
+        "typing",
+        "working",
+        "frustrated",
+        "confused"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office",
+          "indoor"
+        ],
+        "mood": [
+          "confused",
+          "humorous",
+          "relatable"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "static shot",
+          "clear visuals"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it perfectly captures an emotional climax and product interaction. The woman's facial expression and verbalized frustration, asking \"Where the fuck is my mouse?\" while actively holding and using it, creates a relatable and humorous 'Problem State' that serves as a strong visual hook and demonstrates human interaction with technology."
+    }
+  ]
+}

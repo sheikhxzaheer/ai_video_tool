@@ -1,0 +1,179 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Parasite\\ssstik.io_@microworlddiscove_1769077688360.mp4",
+  "detailed_description": "The video demonstrates an experiment showcasing the effectiveness of chilli pepper extract against human parasites. It begins by presenting a visual of numerous active parasites under a microscope, setting the problem. The subsequent steps detail the process of extracting juice from fresh chilli peppers. This prepared chilli extract is then applied to the parasites on a microscope slide. The video concludes by revealing the significant and rapid disintegration of the parasites over a period of 60 minutes, highlighting the potent antiparasitic properties of chilli pepper.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Macro_Detail",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "human parasites",
+        "microscope slide",
+        "gloves",
+        "microscope"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "scientific observation",
+          "close-up"
+        ]
+      },
+      "why_kept": "This segment serves as the visual hook and problem statement, introducing the human parasites and the context of the experiment, making it essential as an anchor."
+    },
+    {
+      "start_time": "00:08.500",
+      "end_time": "00:34.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "chilli peppers",
+        "gloves",
+        "scissors",
+        "garlic press",
+        "beaker",
+        "chilli juice",
+        "dropper"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio",
+          "other"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "preparation",
+          "extraction"
+        ]
+      },
+      "why_kept": "This segment details the 'process/labor' of preparing the chilli extract, which is the 'product' being tested. It visually demonstrates the scientific method in action."
+    },
+    {
+      "start_time": "00:34.000",
+      "end_time": "00:40.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "microscope slide",
+        "microscope",
+        "gloves",
+        "chilli juice",
+        "dropper",
+        "parasites"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio",
+          "other"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "precise application",
+          "experimental setup"
+        ]
+      },
+      "why_kept": "This is a key 'product interaction' moment, showing the direct application of the chilli juice to the parasites, initiating the experiment."
+    },
+    {
+      "start_time": "00:40.500",
+      "end_time": "00:51.000",
+      "structural_tags": [
+        "Before_After",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "parasites",
+        "movement",
+        "microscope view",
+        "countdown"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "microscopic view",
+          "baseline observation"
+        ]
+      },
+      "why_kept": "This segment captures the 'before' state of the parasites, showing their active movement, which is crucial for demonstrating the subsequent transformation."
+    },
+    {
+      "start_time": "00:51.000",
+      "end_time": "01:11.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Macro_Detail",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "parasites",
+        "disintegration",
+        "inactivity",
+        "microscope view",
+        "timer"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "shock_surprise",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "time-lapse effect",
+          "microscopic detail",
+          "clear result"
+        ]
+      },
+      "why_kept": "This is the primary 'reveal/result' segment, showcasing the dramatic transformation of the parasites from active to disintegrated after exposure to chilli juice, forming the climax of the experiment."
+    }
+  ]
+}

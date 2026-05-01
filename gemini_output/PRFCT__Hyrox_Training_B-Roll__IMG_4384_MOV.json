@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\Hyrox Training B-Roll\\IMG_4384.MOV",
+  "detailed_description": "The video captures a man engaged in an intense outdoor workout, specifically performing a sled push. He positions himself behind a heavily weighted sled, takes a moment to prepare, and then exerts significant effort to push the sled across the artificial turf of the gym. The scene emphasizes the physical demanding nature of the exercise and the functionality of the outdoor fitness equipment.",
+  "segments": [
+    {
+      "start_time": "00:28.000",
+      "end_time": "00:30.500",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Human_Interaction",
+        "High_Energy",
+        "Product_Present",
+        "Outdoor"
+      ],
+      "visual_keywords": [
+        "man",
+        "sled",
+        "weights",
+        "pushing",
+        "exercise",
+        "outdoor gym",
+        "turf",
+        "effort"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "dynamic movement"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it clearly demonstrates the main physical activity (sled push) and the active interaction with the gym equipment. It captures the 'Process/Labor' of the workout, showcasing the exertion and movement, which is the primary value being conveyed."
+    }
+  ]
+}

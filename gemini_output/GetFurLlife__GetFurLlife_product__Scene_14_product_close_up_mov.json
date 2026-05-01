@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLlife_product\\Scene 14_product close up.mov",
+  "detailed_description": "This video's core meaning is to showcase the unique flexibility and segmented design of a purple strap, possibly a pet collar. The footage highlights the product's durable and adaptable construction by demonstrating how easily it bends and stretches. The user's hands actively manipulate the strap, emphasizing the individual segments that allow for its articulation and overall elasticity.",
+  "segments": [
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands",
+        "purple band",
+        "flexible strap",
+        "segments",
+        "bending",
+        "stretching"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "informational"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "bright lighting",
+          "minimalist background"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the product's key features: its flexibility, segmented design, and overall construction through direct human interaction. It shows the 'Mechanism of Action' and serves as the primary 'Product Interaction' moment, making it the most valuable and context-setting part of the video."
+    }
+  ]
+}

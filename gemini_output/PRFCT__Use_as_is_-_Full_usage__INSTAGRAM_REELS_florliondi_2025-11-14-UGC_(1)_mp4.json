@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\Use as is - Full usage\\INSTAGRAM_REELS_florliondi_2025-11-14-UGC (1).mp4",
+  "detailed_description": "A woman discusses her minimalist approach to supplements for hybrid training, focusing on what her body truly needs. She highlights two key products: creatine and 'PRFECT MORNING TANGERINE PULSE' electrolytes. She details the benefits of the electrolytes, emphasizing their hydration fuel with optimized sodium, potassium, and glucose for rapid absorption, which is especially beneficial for those who sweat a lot. She also notes the metabolic activators (turmeric, apple cider vinegar, black pepper for digestion) and nutrient charge (B vitamins, vitamin C, zinc for peak performance). She shares her personal experience of feeling no cramps and recovering well, expressing strong satisfaction and offering a discount code for viewers.",
+  "segments": [
+    {
+      "start_time": "00:12.630",
+      "end_time": "01:36.460",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Key_Information",
+        "Social_Proof",
+        "UGC_Talking_Head",
+        "Ingredient_Highlight",
+        "Offer_CTA",
+        "Positive_Emotion",
+        "Home_Kitchen",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "supplements",
+        "creatine",
+        "electrolytes",
+        "product packaging",
+        "kitchen counter"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "informative",
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "direct address",
+          "casual"
+        ]
+      },
+      "why_kept": "This segment is the semantic core because it directly introduces the products, details their benefits by reading from the packaging (key information), provides strong social proof based on personal experience (no cramps, good recovery), and includes a clear call to action with a discount code, all while the speaker is actively holding and displaying the products. It embodies the 'Product Interaction,' 'Key Information,' 'Social Proof,' and 'Offer_CTA' hero moments."
+    }
+  ]
+}

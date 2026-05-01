@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\Gut problems.mp4",
+  "detailed_description": "This video visually represents the internal state of the human digestive system. It begins with a translucent outline of a female body, showcasing the digestive organs glowing a healthy, vibrant green. The animation then dramatically transitions, showing the internal organs, particularly the intestines and stomach, transform into a fiery, intensely glowing orange and red. This shift vividly illustrates a 'problem state,' such as inflammation or distress, within the gastrointestinal tract, serving as a powerful visual metaphor for internal discomfort or illness.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.327",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "human body outline",
+        "digestive system",
+        "intestines",
+        "stomach",
+        "green glow",
+        "fiery orange",
+        "red inflammation",
+        "internal organs",
+        "3D animation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "alarming"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "translucent body",
+          "glowing organs",
+          "medical visualization",
+          "abstract representation"
+        ]
+      },
+      "why_kept": "This entire segment constitutes the Semantic Core as it powerfully demonstrates the 'Problem_State' of the digestive system through a dramatic 'Result_Transformation' from a healthy green to an inflamed, fiery red. It is a continuous, uninterrupted animation that clearly communicates the core message of internal distress or discomfort, making it the primary 'Hero Moment' of visual explanation."
+    }
+  ]
+}

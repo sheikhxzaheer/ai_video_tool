@@ -1,0 +1,488 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Judge\\ssstik.io_@casesinquiry_1770914307025.mp4",
+  "detailed_description": "This video captures a contentious court hearing where Judge Judy presides over a custody and property dispute. The judge emphasizes the importance of co-parenting and adherence to existing court orders, ultimately dismissing the plaintiff's case due to her failure to present a valid argument and repeated interruptions. Key moments include Judge Judy directly reading from prior court findings that contradict the plaintiff's claims, her firm dismissal of the plaintiff's demands for property, and stern warnings about undermining a co-parent. The video concludes with both parties expressing their frustration in post-trial interviews.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:04.200",
+      "structural_tags": [
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "Judge Judy",
+        "speaking",
+        "courtroom"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "formal setting"
+        ]
+      },
+      "why_kept": "Sets the initial context of the legal dispute, establishing that the judge previously awarded half-custody."
+    },
+    {
+      "start_time": "00:00:23.770",
+      "end_time": "00:00:29.870",
+      "structural_tags": [
+        "Key_Information",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "man speaking",
+        "documents",
+        "courtroom"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "formal setting"
+        ]
+      },
+      "why_kept": "The defendant explains key legal actions (consolidation of cases) and visually presents documents, which is a form of 'Process/Labor'."
+    },
+    {
+      "start_time": "00:00:51.360",
+      "end_time": "00:00:56.360",
+      "structural_tags": [
+        "Reveal_Result",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "document text",
+        "court findings",
+        "written evidence"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clear text",
+          "evidence"
+        ]
+      },
+      "why_kept": "This segment visually reveals the court's prior findings, which are central to Judge Judy's eventual ruling."
+    },
+    {
+      "start_time": "00:00:59.000",
+      "end_time": "00:01:01.370",
+      "structural_tags": [
+        "Key_Information",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "Judge Judy reading",
+        "documents",
+        "court findings"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "formal setting"
+        ]
+      },
+      "why_kept": "Judge Judy reading the court's findings directly from the document is a key action demonstrating 'Process/Labor' and conveying 'Key Information'."
+    },
+    {
+      "start_time": "00:01:01.370",
+      "end_time": "00:01:06.470",
+      "structural_tags": [
+        "Reveal_Result",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "highlighted document",
+        "legal text"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "highlighted text",
+          "proof"
+        ]
+      },
+      "why_kept": "Visually confirms the judge's previous statement by highlighting the relevant text in the court document, acting as a 'Reveal/Result'."
+    },
+    {
+      "start_time": "00:01:16.480",
+      "end_time": "00:01:24.480",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "Judge Judy speaking",
+        "emphatic gesture",
+        "plaintiff listening"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "strong rhetoric",
+          "authoritative tone"
+        ]
+      },
+      "why_kept": "This is a strong 'Emotional Climax' as Judge Judy emphatically states the court's prior findings and dismisses the plaintiff's unspoken disagreement, central to her decision."
+    },
+    {
+      "start_time": "00:02:04.280",
+      "end_time": "00:02:15.380",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Key_Information",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "Judge Judy speaking",
+        "pointing",
+        "case dismissal",
+        "two parents"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "authoritative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "firm decision",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment is a definitive 'Emotional Climax' and 'Result Transformation' as Judge Judy dismisses the case, stating the plaintiff has no valid argument and underscoring the legal principle of two parents."
+    },
+    {
+      "start_time": "00:02:26.560",
+      "end_time": "00:02:42.160",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "Judge Judy warning",
+        "gesturing",
+        "plaintiff listening",
+        "custody prediction"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "warning"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct warning",
+          "consequences"
+        ]
+      },
+      "why_kept": "Judge Judy issues a strong 'Emotional Climax' warning about undermining co-parenting and explicitly predicts full custody for the father, conveying critical legal 'Key Information'."
+    },
+    {
+      "start_time": "00:03:22.030",
+      "end_time": "00:03:31.030",
+      "structural_tags": [
+        "Key_Information",
+        "Emotional_Climax"
+      ],
+      "visual_keywords": [
+        "Judge Judy speaking",
+        "property dispute",
+        "dismissing claims",
+        "toilet paper analogy"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "sarcastic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "humorous exaggeration",
+          "disregard for irrelevant evidence"
+        ]
+      },
+      "why_kept": "Judge Judy directly addresses the property dispute, forcefully dismissing the plaintiff's attempts to prove ownership with receipts, demonstrating her authoritative decision-making."
+    },
+    {
+      "start_time": "00:03:31.030",
+      "end_time": "00:03:37.490",
+      "structural_tags": [
+        "Key_Information",
+        "Emotional_Climax"
+      ],
+      "visual_keywords": [
+        "Judge Judy speaking",
+        "unemployment finding",
+        "reading court order"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "confrontational"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "revealing facts",
+          "challenging credibility"
+        ]
+      },
+      "why_kept": "Judge Judy uses a direct question to highlight a damaging 'Key Information' finding from the previous court order about the plaintiff's long-term unemployment, undermining her credibility."
+    },
+    {
+      "start_time": "00:03:45.330",
+      "end_time": "00:03:50.130",
+      "structural_tags": [
+        "Reveal_Result",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "document text",
+        "highlighted details",
+        "living arrangements"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "highlighted evidence",
+          "factual details"
+        ]
+      },
+      "why_kept": "Visually confirms the court's finding regarding the plaintiff's living arrangements, supporting Judge Judy's line of questioning and acting as a 'Reveal/Result'."
+    },
+    {
+      "start_time": "00:04:02.480",
+      "end_time": "00:04:09.110",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "Judge Judy dismissal",
+        "plaintiff removed",
+        "gavel hit"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "angry",
+          "authoritative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "final judgment",
+          "swift action"
+        ]
+      },
+      "why_kept": "This is the definitive 'Emotional Climax' and 'Result Transformation' as Judge Judy dismisses the case and has the plaintiff removed for her persistent interruptions and lack of a coherent argument."
+    },
+    {
+      "start_time": "00:04:09.110",
+      "end_time": "00:04:15.540",
+      "structural_tags": [
+        "Problem_State",
+        "Key_Information",
+        "Emotional_Climax"
+      ],
+      "visual_keywords": [
+        "Judge Judy speaking",
+        "counterclaim",
+        "ridiculous lawsuit"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "critical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "legal critique",
+          "challenging motives"
+        ]
+      },
+      "why_kept": "Judge Judy highlights the 'Problem State' by questioning the defendant's counterclaim, suggesting it was a retaliatory action against the plaintiff's 'ridiculous lawsuit', revealing legal tactics."
+    },
+    {
+      "start_time": "00:04:15.540",
+      "end_time": "00:04:26.590",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Result_Transformation",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "defendant speaking",
+        "plaintiff demanding property",
+        "Judge Judy dismissing",
+        "ordering removal"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "tense",
+          "confrontational",
+          "final"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clash of wills",
+          "ultimate authority"
+        ]
+      },
+      "why_kept": "This is a pivotal 'Emotional Climax' where the plaintiff's final property demand is met with Judge Judy's unequivocal refusal, leading to the ultimate 'Result Transformation' of her removal from the courtroom."
+    },
+    {
+      "start_time": "00:04:44.200",
+      "end_time": "00:05:08.560",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Problem_State",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "man speaking",
+        "woman speaking",
+        "post-trial interview",
+        "frustration"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "frustrated",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "interview setting",
+          "personal perspectives"
+        ]
+      },
+      "why_kept": "These 'UGC_Talking_Head' segments provide crucial post-trial commentary, revealing the emotional fallout and confirming the lingering 'Problem State' from both parties' perspectives."
+    }
+  ]
+}

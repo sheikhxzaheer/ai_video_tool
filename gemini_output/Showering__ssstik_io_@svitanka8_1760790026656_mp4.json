@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Showering\\ssstik.io_@svitanka8_1760790026656.mp4",
+  "detailed_description": "This video vividly captures a meticulous hair care process where an individual applies a creamy conditioner or mask to their exceptionally long, wet hair. Positioned over a bathtub, the person carefully squeezes the product from a white bottle, creating a consistent zigzag pattern along the scalp and down the extensive length of their hair. Following the application, the product is thoroughly worked in with both hands, showcasing a dedicated and precise approach to ensure even distribution and deep conditioning. The continuous action emphasizes the time and effort invested in maintaining healthy, long hair.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:59.630",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "applying conditioner",
+        "long wet hair",
+        "bathtub",
+        "squeezing bottle",
+        "massaging hair",
+        "hair treatment",
+        "creamy product"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "steady camera",
+          "well-lit",
+          "bathroom setting"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the complete process of applying a hair product. It highlights the product interaction, the detailed mechanism of action (how the product is squeezed and massaged into the hair), and the focused human interaction with the product and hair, all within a calm, routine setting."
+    }
+  ]
+}

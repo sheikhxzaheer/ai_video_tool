@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\okR0xcS2QDdau7fBWbkEpnHB6ICHJASbQAReXR.mp4",
+  "detailed_description": "The video features a man with a beard and short dark hair, wearing a black t-shirt, standing in front of a black brick wall. He glances at his smartwatch with a subtle smile, then looks up and directly at the camera with a confident, approachable expression. He maintains a positive demeanor, briefly adjusting his pose by placing a hand on his hip and later rubbing his hands together while smiling. The scene conveys a relaxed, everyday lifestyle moment, emphasizing a positive mood and interaction with wearable technology.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.326",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "smartwatch",
+        "smiling",
+        "black t-shirt",
+        "beard",
+        "brick wall"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "casual attire",
+          "modern watch"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as per the 'No-Mistake Rule' because it starts directly with the product interaction (checking the smartwatch) and concludes with a clear emotional climax (a confident, positive facial expression and pose). It effectively establishes a lifestyle connection and demonstrates a positive user experience with the product, encapsulating the semantic core of the video."
+    }
+  ]
+}

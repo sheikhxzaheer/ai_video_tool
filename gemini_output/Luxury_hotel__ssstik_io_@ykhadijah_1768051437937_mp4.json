@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury hotel\\ssstik.io_@ykhadijah_1768051437937.mp4",
+  "detailed_description": "This video provides a luxurious tour of a high-end bathroom, meticulously designed with opulent white marble featuring striking grey veining. The continuous camera pan showcases various sophisticated elements, including a modern freestanding bathtub filled with water, elegant double vanity with clear glass sinks, and separate frosted glass enclosures for shower and toilet. The space is adorned with golden fixtures, soft lighting, and carefully placed amenities, creating a serene and premium spa-like atmosphere.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.462",
+      "structural_tags": [
+        "Visual_Hook",
+        "Reveal_Result",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "Premium"
+      ],
+      "visual_keywords": [
+        "luxury bathroom",
+        "white marble",
+        "freestanding bathtub",
+        "double vanity",
+        "glass sinks",
+        "golden fixtures",
+        "bathrobes",
+        "bathroom amenities",
+        "frosted glass doors",
+        "ambient lighting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "luxurious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "luxurious design",
+          "white marble aesthetic",
+          "continuous pan",
+          "soft lighting",
+          "modern spa-like"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by fully encompassing the 'Reveal/Result' of a stunning, luxurious bathroom. The continuous camera pan provides a comprehensive and uninterrupted showcase of the high-end design, features, and amenities, acting as the primary visual demonstration of the space's value and aesthetic appeal without any extraneous footage or dead air, thus adhering to the 'NO-MISTAKE' rule."
+    }
+  ]
+}

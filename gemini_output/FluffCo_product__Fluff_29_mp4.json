@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_29.mp4",
+  "detailed_description": "This video clip demonstrates the plush and responsive quality of a white pillow. A hand presses into the pillow, visually emphasizing its softness and implied comfort. Text overlays highlight the use of 'ultra thin fibers' that contribute to the pillow's specific feel, providing a direct visual and textual explanation of a key product feature. The warm, natural lighting enhances the cozy and inviting aesthetic.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.827",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand pressing pillow",
+        "white pillow",
+        "bedding",
+        "sunlight",
+        "softness",
+        "fibers"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "relaxing"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "golden hour lighting",
+          "natural light",
+          "soft focus",
+          "minimalist aesthetic"
+        ]
+      },
+      "why_kept": "This segment is the core of the video as it directly showcases the product's primary feature (softness/responsiveness due to 'ultra thin fibers') through active human interaction. The visual demonstration combined with the overlaid text effectively communicates the value proposition without any superfluous frames."
+    }
+  ]
+}

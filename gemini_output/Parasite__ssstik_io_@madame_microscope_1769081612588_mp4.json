@@ -1,0 +1,317 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Parasite\\ssstik.io_@madame_microscope_1769081612588.mp4",
+  "detailed_description": "This video conducts a scientific experiment to investigate coffee's effect on human parasites. It meticulously captures the process from preparing a coffee solution and depositing living parasites onto a microscope slide to applying the coffee solution to the parasites. The core meaning is revealed through microscopic footage, showing the parasites' progressive degradation and eventual demise after 15 and 60 minutes, attributed to coffee's acidity. The video effectively demonstrates coffee's anti-parasitic potential in a laboratory setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "parasites",
+        "microscope view",
+        "text overlay",
+        "worms"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "macro",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "scientific",
+          "educational",
+          "animated text"
+        ]
+      },
+      "why_kept": "This segment serves as an engaging visual hook, immediately introducing the subject of the experiment (parasites) and setting up the premise with a clear title."
+    },
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "coffee grounds",
+        "spoon"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean",
+          "simple backdrop"
+        ]
+      },
+      "why_kept": "This segment introduces the 'product' (coffee) that will be tested against the parasites, clearly showing its form before preparation."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Behind_The_Scenes",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "coffee grounds",
+        "petri dish",
+        "spoon",
+        "gloved hand",
+        "pouring"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "scientific process",
+          "detailed action"
+        ]
+      },
+      "why_kept": "This segment shows the initial step of preparing the coffee solution, demonstrating a key 'process' moment of pouring the coffee grounds into a petri dish."
+    },
+    {
+      "start_time": "00:11.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Behind_The_Scenes",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "hot water",
+        "petri dish",
+        "coffee solution",
+        "gloved hand",
+        "pouring",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "scientific process",
+          "text instructions"
+        ]
+      },
+      "why_kept": "This continues the coffee solution preparation, showing the addition of hot water, which is essential for the experiment and a clear 'product interaction' step."
+    },
+    {
+      "start_time": "00:19.000",
+      "end_time": "00:27.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "parasites",
+        "microscope slide",
+        "pipette",
+        "gloved hand",
+        "depositing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "scientific precision",
+          "microscope focus"
+        ]
+      },
+      "why_kept": "This segment shows the direct 'process' of handling the parasites and preparing them for observation, demonstrating professional labor in the experiment setup."
+    },
+    {
+      "start_time": "00:27.000",
+      "end_time": "00:34.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "coffee solution",
+        "pipette",
+        "microscope slide",
+        "parasites",
+        "gloved hand",
+        "dropping"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "precise application",
+          "experiment setup"
+        ]
+      },
+      "why_kept": "This segment captures the critical moment of 'product interaction' where the coffee solution is applied directly to the parasites on the slide, initiating the experiment."
+    },
+    {
+      "start_time": "00:34.000",
+      "end_time": "00:43.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "parasites",
+        "microscope view",
+        "moving",
+        "text overlay",
+        "1 minute"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "macro",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "observational"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "time lapse",
+          "scientific observation"
+        ]
+      },
+      "why_kept": "This is a key 'anchor' moment, showing the baseline activity of the parasites shortly after coffee application, setting up the 'before' state for the subsequent transformations."
+    },
+    {
+      "start_time": "00:43.000",
+      "end_time": "00:50.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Mechanism_Of_Action",
+        "Before_After",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "parasites",
+        "microscope view",
+        "less active",
+        "damaged membranes",
+        "text overlay",
+        "15 minutes"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "macro",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "revelatory"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "time lapse",
+          "scientific revelation"
+        ]
+      },
+      "why_kept": "This is a crucial 'anchor' segment that reveals the first significant 'transformation' and explicitly explains the 'mechanism of action' (coffee's acidity attacking membranes), showing a clear 'after' state compared to the 1-minute mark."
+    },
+    {
+      "start_time": "00:50.000",
+      "end_time": "01:03.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "parasites",
+        "microscope view",
+        "immobile",
+        "degraded",
+        "text overlay",
+        "60 minutes"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "macro",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "conclusive"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "time lapse",
+          "final result"
+        ]
+      },
+      "why_kept": "This is the definitive 'anchor' segment, showcasing the final and most dramatic 'transformation' of the parasites, confirming the effectiveness of coffee's anti-parasitic properties over time."
+    }
+  ]
+}

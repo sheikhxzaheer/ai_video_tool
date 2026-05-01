@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Result\\CNWM_JillianGray_034_Result.MOV",
+  "detailed_description": "This video features a young woman wearing a pink bunny-ear headband and jewelry, looking directly at the camera. She makes a playful pouty face, pushing out her cheeks with her hand near her chin, then transitions into a subtle smile. The clip showcases her facial expressions and direct engagement with the viewer.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:04.07",
+      "structural_tags": [
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "young woman",
+        "pink headband",
+        "facial expressions",
+        "pouting",
+        "smiling",
+        "jewelry",
+        "direct gaze"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "personal",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it captures the core action of the video: a person displaying various, distinct facial expressions (pouting, then smiling) directly to the camera, which aligns with the 'Emotional Climax' hero moment criterion. There is no setup or post-action dead air to trim, making the whole duration the semantic core."
+    }
+  ]
+}

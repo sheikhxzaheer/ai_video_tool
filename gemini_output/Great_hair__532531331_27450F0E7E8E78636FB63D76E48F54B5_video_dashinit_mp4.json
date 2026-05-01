@@ -1,0 +1,288 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\532531331_27450F0E7E8E78636FB63D76E48F54B5_video_dashinit.mp4",
+  "detailed_description": "This video showcases the complete haircut transformation of a man, from his initial look to the final polished style. It highlights the professional process involved, starting with hair washing, followed by precise scissor and clipper cuts from various angles, and finishing with product application. The video emphasizes the skilled labor of the hairdresser and concludes with the client's visible satisfaction and confident smile, effectively demonstrating the 'before and after' of a fresh haircut.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "man",
+        "facial hair",
+        "tank top",
+        "arm tattoo",
+        "initial look"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "neutral"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state of the hair, setting the stage for the transformation. His expression and posture serve as an initial visual hook."
+    },
+    {
+      "start_time": "00:02.500",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "hair wash",
+        "hands",
+        "water",
+        "sink",
+        "shampoo"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "focus on hands and hair"
+        ]
+      },
+      "why_kept": "This segment shows the initial step of the haircut process, demonstrating the professional service of hair washing, a core part of the labor."
+    },
+    {
+      "start_time": "00:05.500",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "haircut",
+        "scissors",
+        "comb",
+        "hairdresser",
+        "wet hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed action shot",
+          "focused on cutting technique"
+        ]
+      },
+      "why_kept": "This segment highlights the precise skill involved in cutting the hair with scissors, showcasing the 'doing the work' aspect of the service."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:09.500",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "blow dryer",
+        "hair drying",
+        "hairdresser",
+        "man",
+        "smile"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "side profile",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment captures the hair drying process and includes a positive facial expression from the client, indicating a good experience."
+    },
+    {
+      "start_time": "00:11.000",
+      "end_time": "00:13.500",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hair clippers",
+        "haircut",
+        "hairdresser",
+        "comb"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up on clipper work",
+          "focused on precision"
+        ]
+      },
+      "why_kept": "This segment further details the haircutting process, specifically showing the use of clippers for shaping, emphasizing the professional action."
+    },
+    {
+      "start_time": "00:13.500",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "scissors",
+        "haircut",
+        "hairdresser",
+        "comb",
+        "top hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up on scissor work",
+          "attention to detail"
+        ]
+      },
+      "why_kept": "This segment shows the detailed scissor work on the top of the head, demonstrating another critical part of the skilled process."
+    },
+    {
+      "start_time": "00:16.000",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hair product",
+        "styling powder",
+        "hands",
+        "hairdresser"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "product application",
+          "finishing touch"
+        ]
+      },
+      "why_kept": "This segment demonstrates the final styling steps with product application, completing the professional service."
+    },
+    {
+      "start_time": "00:17.000",
+      "end_time": "00:26.500",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man",
+        "new haircut",
+        "smile",
+        "facial hair",
+        "tank top",
+        "arm tattoo"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "positive",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clean background",
+          "confident poses"
+        ]
+      },
+      "why_kept": "This segment serves as the 'after' reveal, clearly showing the transformative result of the haircut and the client's satisfaction, fulfilling the emotional climax and outcome."
+    }
+  ]
+}

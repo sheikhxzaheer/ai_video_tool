@@ -1,0 +1,55 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Fashion\\ssstik.io_@showmanpictures_1763653947028.mp4",
+  "detailed_description": "This video captures a moment from Paris Fashion Week 2025, showcasing two women arriving at a fashion event. One woman is elegantly dressed in a long, flowing yellow gown, while the other dons a striking blue dress featuring a dramatic high slit. The scene is bustling with a crowd of onlookers and photographers, all vying for a glimpse as the women pose for cameras. The footage effectively conveys the glamorous and high-energy atmosphere typical of a major fashion event, highlighting the distinct styles and the excitement surrounding such an occasion.",
+  "segments": [
+    {
+      "start_time": "00:00:01.000",
+      "end_time": "00:00:27.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "women",
+        "fashion",
+        "dresses",
+        "blue dress",
+        "yellow dress",
+        "high slit",
+        "red carpet",
+        "crowd",
+        "photographers",
+        "phones",
+        "formal wear",
+        "Paris",
+        "night",
+        "street"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "premium",
+          "glamorous"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "nighttime lighting",
+          "event atmosphere",
+          "paparazzi style"
+        ]
+      },
+      "why_kept": "This segment is the core of the video as it clearly shows the two women in their fashion attire, posing for the camera amidst the crowd at what appears to be a significant fashion event. It captures the essence of the event and the subjects' role within it, demonstrating the 'process' of a red-carpet appearance and the 'aesthetic' of the fashion itself."
+    }
+  ]
+}

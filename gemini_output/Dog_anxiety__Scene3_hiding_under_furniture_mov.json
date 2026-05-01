@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Dog anxiety\\Scene3_hiding under furniture.mov",
+  "detailed_description": "This video features a small, light-furred dog, possibly a Chihuahua, nestled comfortably beneath a piece of wooden furniture. From an overhead perspective, the dog is captured looking directly up at the camera with curious, expressive eyes. Throughout the clip, it occasionally licks its snout, maintaining eye contact, creating an endearing and engaging moment. The scene is set in an indoor home environment, with elements like a white wicker basket visible in the background, adding to the cozy atmosphere.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:19.46",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "dog",
+        "chihuahua",
+        "pet",
+        "curious",
+        "looking up",
+        "licking snout",
+        "collar",
+        "charm",
+        "under furniture",
+        "wooden floor",
+        "wicker basket",
+        "expressive eyes"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "natural lighting",
+          "pet interaction"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as per the 'NO-MISTAKE' rule, as the primary action and emotional engagement (the dog's curious gaze and interaction with the camera) begin at the start and continue until the end of the video without any setup or dead air. It represents the core visual value and interaction of the entire clip."
+    }
+  ]
+}

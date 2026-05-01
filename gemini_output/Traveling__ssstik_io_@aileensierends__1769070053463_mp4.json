@@ -1,0 +1,56 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Traveling\\ssstik.io_@aileensierends__1769070053463.mp4",
+  "detailed_description": "The video features a young woman confidently walking across a crosswalk towards what appears to be an airport or train station entrance, pulling a black suitcase. Dressed in a stylish, light-colored tracksuit and carrying a white shoulder bag, she portrays a calm and prepared traveler. The scene highlights the ease of movement with her luggage, emphasizing a smooth and hassle-free transit experience. Her interaction with the suitcase subtly showcases its portability and design, making it a key product within this travel-focused narrative.",
+  "segments": [
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:10.740",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Travel_Transit",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "walking",
+        "suitcase",
+        "luggage",
+        "crosswalk",
+        "airport entrance",
+        "station entrance",
+        "cream outfit",
+        "white shoes",
+        "black hair",
+        "earbuds"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "street",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "bright lighting",
+          "natural light",
+          "confident stride",
+          "modern architecture"
+        ]
+      },
+      "why_kept": "This segment captures the core action of the video: a woman confidently navigating a transit area with her luggage. It clearly demonstrates product interaction (pulling the suitcase), establishes a travel/lifestyle theme, and showcases positive emotion, making it the central 'hero moment' for its visual coherence and narrative. The segment begins once the initial visual distortions have cleared, ensuring a clean presentation of the main action."
+    }
+  ]
+}

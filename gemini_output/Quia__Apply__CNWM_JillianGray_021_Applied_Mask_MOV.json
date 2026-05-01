@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Apply\\CNWM_JillianGray_021_Applied Mask.MOV",
+  "detailed_description": "The video features a young woman showcasing her face with a transparent, glossy skincare product applied, humorously describing herself as 'covered in plastic.' Wearing a pink bow headband, she interacts with her face, gently touching the areas where the product has been applied. She explains that this is her nighttime routine before bed, expressing anticipation to reveal the results in the morning. Her demeanor is positive and playful, setting up a 'before' segment for a future transformation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Product_Interaction",
+        "Night_Routine",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Product_Intro",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "blonde hair",
+        "pink bow headband",
+        "skincare product",
+        "glossy face",
+        "shiny skin",
+        "hands touching face",
+        "crescent moon necklace",
+        "smile",
+        "direct address"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "casual",
+          "authentic"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it captures the subject presenting a skincare product already applied to her face (product interaction/intro), articulating its purpose as a night routine ('going to bed'), and setting the stage for a future reveal ('see the results in the morning'). Her direct address to the camera, positive emotion, and physical interaction with her face where the product is visible fulfill multiple 'Hero Moment' criteria, effectively conveying the video's core message about the product and its intended effect."
+    }
+  ]
+}

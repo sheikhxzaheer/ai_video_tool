@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Transplantation hair\\ssstik.io_@pedro.caballero2_1746779939784.mp4",
+  "detailed_description": "This video humorously showcases the widespread phenomenon of medical tourism to Turkey for hair transplants. It captures numerous individuals at a Turkish airport and on an airplane, all displaying the immediate post-operative signs of hair restoration procedures, such as shaved heads with visible donor and recipient areas, some wearing protective headbands or wraps. The footage highlights the sheer volume of people who travel to Turkey for these surgeries, playfully branding the common sight as 'Turkish Hairlines.'",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:20.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Social_Proof",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "Men",
+        "shaved heads",
+        "hair transplant",
+        "post-op",
+        "headbands",
+        "airport",
+        "airplane",
+        "passengers",
+        "escalator",
+        "queue"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "airport",
+          "car"
+        ],
+        "mood": [
+          "observational",
+          "neutral"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "candid footage",
+          "natural lighting",
+          "documentary style"
+        ]
+      },
+      "why_kept": "This entire segment consistently displays the core message: the prevalence of hair transplant recipients at a Turkish airport and on a plane, showcasing the visual 'result' of the procedure and serving as 'social proof' due to the sheer number of individuals. The text 'Turkish Hairlines' explicitly defines the phenomenon, making the entire duration essential to the video's semantic core."
+    }
+  ]
+}

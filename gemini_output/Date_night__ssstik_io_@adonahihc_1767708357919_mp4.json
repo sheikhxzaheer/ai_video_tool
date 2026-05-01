@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Date_night\\ssstik.io_@adonahihc_1767708357919.mp4",
+  "detailed_description": "The video captures a heartfelt birthday surprise. A young man approaches with a bouquet of flowers and a gift bag, which prompts a young woman to eagerly run down steps to embrace him. They share a warm hug, with the \"Happy Birthday\" message on the gift bag and flower ribbon clearly visible, signifying a joyous celebration of her special day. The entire interaction highlights a moment of affection and thoughtful gifting.",
+  "segments": [
+    {
+      "start_time": "00:00.600",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Product_Interaction",
+        "Reveal_Result",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "man",
+        "woman",
+        "flowers",
+        "gift bag",
+        "hug",
+        "stairs",
+        "night",
+        "red dress",
+        "green jacket",
+        "Happy Birthday"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "romantic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "nighttime lighting",
+          "casual attire",
+          "surprise"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it perfectly captures the emotional climax (the embrace), the product interaction (giving/receiving gifts), the reveal (the surprise and gifts), and key information (Happy Birthday message). The entire sequence, from the initial approach to the final clear shot of the gifts during the hug, forms a complete narrative of the surprise, fulfilling multiple 'Hero Moment' criteria without any dead air or setup/calibration."
+    }
+  ]
+}

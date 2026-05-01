@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold Before_After\\rachaelafter.mp4",
+  "detailed_description": "The video captures the diligent cleaning of a severely grimy window frame, showcasing a hand using a light blue cloth to remove accumulated dirt and grime from the intricate channels of the frame. The clip focuses on the repetitive wiping motion, illustrating the manual effort involved in restoring cleanliness to a neglected area. The action highlights the immediate effect of the cleaning, as dark smudges are visibly lifted, demonstrating a transformation from dirty to cleaner surfaces.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:17.917",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hand",
+        "cleaning cloth",
+        "window frame",
+        "dirt",
+        "grime",
+        "wiping action",
+        "smudges",
+        "cleaning process"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "focused shot",
+          "practical"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it fully demonstrates the 'Process/Labor' of cleaning a very dirty window frame and the 'Result/Transformation' as grime is visibly removed. There is clear 'Human Interaction' with the cleaning cloth, and the close-up shot provides 'Macro Detail' of the 'Problem State' and the 'Mechanism of Action'."
+    }
+  ]
+}

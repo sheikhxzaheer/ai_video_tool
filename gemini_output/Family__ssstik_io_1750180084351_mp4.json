@@ -1,0 +1,115 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Family\\ssstik.io_1750180084351.mp4",
+  "detailed_description": "The video captures a heartwarming and playful moment as a family progressively stacks on top of each other on a bed, forming a 'human pyramid.' It begins with the parents, then each child joins in, culminating in a scene of joyful laughter and smiles. An intermediate shot reveals a phone lock screen displaying a cherished photo of this very moment. The video then returns to the live action, showing the full family pile continuing their energetic and happy interaction.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "family",
+        "children",
+        "parents",
+        "stacking",
+        "human pyramid",
+        "smiling",
+        "bed"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "spontaneous interaction"
+        ]
+      },
+      "why_kept": "This segment establishes the core activity of the video: the family progressively stacking on top of each other, building a 'human pyramid.' It captures the initial moments of playful interaction and the growing positive emotions as each family member joins the pile."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:06.100",
+      "structural_tags": [
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "phone screen",
+        "lock screen",
+        "family photo",
+        "11:11",
+        "date"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "digital display",
+          "snapshot"
+        ]
+      },
+      "why_kept": "This segment serves as a 'reveal' or 'result,' showing a captured moment of the family stack on a phone's lock screen. It confirms the successful outcome of the playful interaction and acts as a form of social proof by displaying the cherished memory."
+    },
+    {
+      "start_time": "00:06.100",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "family",
+        "children",
+        "parents",
+        "stack",
+        "laughter",
+        "smiles",
+        "playful",
+        "bed"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "spontaneous reactions"
+        ]
+      },
+      "why_kept": "This segment extends the core theme, showcasing the sustained joy and playful interaction of the entire family once the 'human pyramid' is complete. It emphasizes the strong emotional bond and happiness shared among family members, serving as the emotional climax of the video."
+    }
+  ]
+}

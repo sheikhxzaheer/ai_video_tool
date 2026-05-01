@@ -1,0 +1,205 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_Vasylysa_poductapplication.MOV",
+  "detailed_description": "This video showcases a woman's in-flight skincare routine using a collagen wrapping mask. It captures the full process, from the initial application of the pink peel-off mask using a brush, to the resting phase, and culminating in the satisfying peeling of the mask. The transformation is highlighted by her amazed and happy facial expressions as she reveals her refreshed skin. The routine concludes with the application of an eye-care tool, emphasizing a complete and relaxing self-care experience during travel.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "woman",
+        "airplane interior",
+        "pink neck pillow",
+        "pink mask tube",
+        "smiling",
+        "holding product"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm red lighting",
+          "bright"
+        ]
+      },
+      "why_kept": "This segment serves as a visual hook, introducing the product and showing the user's initial positive interaction and excitement in a unique travel setting."
+    },
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:11.800",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Process_Labor",
+        "Travel_Transit",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "airplane interior",
+        "pink neck pillow",
+        "pink mask tube",
+        "applying mask",
+        "brush",
+        "clear mask on face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm red lighting",
+          "detailed application"
+        ]
+      },
+      "why_kept": "This segment demonstrates the core process of applying the collagen wrapping mask, showcasing the product's texture and how it's used effectively."
+    },
+    {
+      "start_time": "00:11.800",
+      "end_time": "00:16.800",
+      "structural_tags": [
+        "Product_Interaction",
+        "Emotional_Climax",
+        "Calm_Relaxation",
+        "Travel_Transit",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "airplane interior",
+        "pink neck pillow",
+        "pink mask tube",
+        "clear mask on face",
+        "smiling",
+        "resting",
+        "touching face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm red lighting",
+          "relaxed atmosphere"
+        ]
+      },
+      "why_kept": "This segment illustrates the mask on the face, implying the waiting period for the mask to set, and reinforces the positive, relaxing experience with the product."
+    },
+    {
+      "start_time": "00:16.800",
+      "end_time": "00:24.500",
+      "structural_tags": [
+        "Result_Transformation",
+        "Emotional_Climax",
+        "Face_Reaction",
+        "Process_Labor",
+        "Macro_Detail",
+        "Travel_Transit",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "airplane interior",
+        "pink neck pillow",
+        "peeling mask",
+        "clear mask",
+        "surprised expression",
+        "smiling",
+        "close-up of peeled mask"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "shock_surprise",
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm red lighting",
+          "dramatic peel",
+          "high contrast"
+        ]
+      },
+      "why_kept": "This is the primary 'hero moment' of the video, showcasing the satisfying peel-off action and the user's genuine, surprised reaction to the mask's effectiveness. The macro detail of the peeled mask piece visually confirms the result."
+    },
+    {
+      "start_time": "00:24.500",
+      "end_time": "00:29.980",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Result_Transformation",
+        "Emotional_Climax",
+        "Face_Reaction",
+        "Travel_Transit",
+        "Positive_Emotion",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "airplane interior",
+        "pink neck pillow",
+        "eye tool",
+        "glowing skin",
+        "smiling",
+        "smooth face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm red lighting",
+          "soft glow",
+          "satisfied expression"
+        ]
+      },
+      "why_kept": "This segment captures the post-mask routine and the final, radiant appearance of the user's skin, effectively demonstrating the product's benefits and the overall positive self-care experience."
+    }
+  ]
+}

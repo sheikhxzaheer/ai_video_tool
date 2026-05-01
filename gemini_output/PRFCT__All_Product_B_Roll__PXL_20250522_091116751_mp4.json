@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250522_091116751.mp4",
+  "detailed_description": "The video showcases a product packet, 'PRFCT MORNING' Hydration Fuel, being gently placed into clear, rippling water. A hand holds the packet, allowing the viewer to see its branding and then its 'Hydration Fuel' label, before releasing it to float serenely on the water's surface. The scene highlights the product's packaging and suggests its use in a refreshing, active lifestyle setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.110",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Calm_Relaxation",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "product packet",
+        "water",
+        "ripples",
+        "sunlight reflection",
+        "swimming pool"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear water",
+          "sunlight shimmer",
+          "gentle movement",
+          "top-down shot"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully captures the primary action: a hand interacting with and releasing the product into water. It serves as both a product introduction, clearly displaying the brand and purpose, and a demonstration of its implied use or resilience in a water environment. The entire sequence is a continuous, valuable 'hero moment' of product interaction and reveal."
+    }
+  ]
+}

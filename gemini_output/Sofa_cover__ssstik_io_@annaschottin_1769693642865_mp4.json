@@ -1,0 +1,160 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sofa cover\\ssstik.io_@annaschottin_1769693642865.mp4",
+  "detailed_description": "The video showcases a versatile and comfortable L-shaped couch, highlighting its practical features and cozy appeal. It demonstrates the couch's hidden storage compartments, easily washable and secure velcro-attached cushions, and its ability to quickly transform into a cozy bed. The video concludes by illustrating the ultimate comfort and relaxation the couch offers, setting a mood for unwinding and watching TV in a soft, inviting atmosphere with mood lighting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "living room",
+        "L-shaped couch",
+        "hidden storage",
+        "woman opening compartment",
+        "blankets"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "neutral colors"
+        ]
+      },
+      "why_kept": "This segment introduces the product and immediately demonstrates a key functional benefit: abundant hidden storage within the couch, which is a primary selling point."
+    },
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "couch cushion",
+        "zipper",
+        "washable cover",
+        "velcro",
+        "woman adjusting cushion"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "practical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear demonstration",
+          "functional focus"
+        ]
+      },
+      "why_kept": "This segment highlights two practical and user-friendly features: the washable covers for easy cleaning and the velcro cushions ensuring stability, addressing common concerns about couch maintenance and comfort."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Macro_Detail",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "L-shaped couch",
+        "soft material",
+        "hand touching fabric",
+        "woman converting couch",
+        "flattened couch",
+        "throw blanket"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "cozy",
+          "transformative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "tactile demonstration",
+          "seamless transition"
+        ]
+      },
+      "why_kept": "This segment showcases the inviting texture of the couch's material and, more importantly, its significant transformation into a comfortable bed, demonstrating its versatility and comfort for lounging."
+    },
+    {
+      "start_time": "00:22.000",
+      "end_time": "00:37.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Night_Routine",
+        "Lifestyle_Active",
+        "Result_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand heart gesture",
+        "purple mood lighting",
+        "woman sitting on couch",
+        "watching TV",
+        "getting cozy under blanket",
+        "sleeping on couch",
+        "large TV screen"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "cozy",
+          "relaxed",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "mood lighting",
+          "comfort focus",
+          "lifestyle integration"
+        ]
+      },
+      "why_kept": "This segment provides the emotional climax, demonstrating the ultimate comfort and relaxation the couch offers, transforming the space into a cozy haven for unwinding and sleeping, completing the product's promise."
+    }
+  ]
+}

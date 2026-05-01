@@ -1,0 +1,255 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Traveling\\ssstik.io_@fidan_faraj_1769068513449.mp4",
+  "detailed_description": "This video captures the quintessential positive feeling of embarking on a journey, showcasing various moments of a seamless and comfortable travel experience. From holding the essential travel documents at a luxurious airport lounge to being aboard an airplane and then transitioning into a high-end vehicle, the montage emphasizes the relaxed and anticipatory mood of a traveler. The recurring on-screen text 'This feeling' coupled with audio cues about 'takeoff' reinforces the emotional core: the joy and comfort associated with modern air travel and ground transit.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.350",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Travel_Transit",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "passport",
+        "boarding pass",
+        "airport lounge",
+        "person"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "airport"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetics",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment clearly initiates the travel theme by showing the essential documents (passport, boarding pass), immediately setting the context and evoking the 'feeling' mentioned in the video's overlay."
+    },
+    {
+      "start_time": "00:01.350",
+      "end_time": "00:02.350",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Travel_Transit",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "feet",
+        "white sneakers",
+        "suitcase",
+        "airport lounge",
+        "person"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "airport"
+        ],
+        "mood": [
+          "calm",
+          "relaxed",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetics",
+          "minimalist",
+          "comfortable"
+        ]
+      },
+      "why_kept": "This segment illustrates the relaxed waiting phase in a comfortable airport lounge, reinforcing the positive and calm aspect of the travel experience."
+    },
+    {
+      "start_time": "00:02.350",
+      "end_time": "00:03.417",
+      "structural_tags": [
+        "Product_Interaction",
+        "Travel_Transit",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "suitcase",
+        "person walking",
+        "airport floor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "airport"
+        ],
+        "mood": [
+          "energetic",
+          "purposeful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic shot",
+          "clean design"
+        ]
+      },
+      "why_kept": "This segment shows the active movement through the airport with luggage, representing the progression of the travel journey."
+    },
+    {
+      "start_time": "00:03.417",
+      "end_time": "00:04.283",
+      "structural_tags": [
+        "Travel_Transit",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "airplane",
+        "airport tarmac",
+        "terminal window"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "airport"
+        ],
+        "mood": [
+          "anticipatory",
+          "grand"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear view",
+          "large scale"
+        ]
+      },
+      "why_kept": "This clip offers a classic view of the airplane from the terminal, symbolizing the upcoming flight and the essence of air travel."
+    },
+    {
+      "start_time": "00:04.283",
+      "end_time": "00:05.417",
+      "structural_tags": [
+        "Product_Interaction",
+        "Travel_Transit",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "airplane seat",
+        "in-flight entertainment screen",
+        "Azerbaijan Airlines",
+        "media options"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "airplane"
+        ],
+        "mood": [
+          "calm",
+          "entertained",
+          "comfortable"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "modern interface",
+          "personal comfort"
+        ]
+      },
+      "why_kept": "This segment showcases the in-flight comfort and entertainment options, highlighting a key aspect of the enjoyable travel experience aboard the aircraft."
+    },
+    {
+      "start_time": "00:05.417",
+      "end_time": "00:07.133",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Travel_Transit",
+        "Aesthetic_Broll",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "feet",
+        "white sneakers",
+        "car interior",
+        "luxury seating",
+        "ambient lighting"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "relaxed"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "luxurious interior",
+          "ambient lighting",
+          "comfortable"
+        ]
+      },
+      "why_kept": "This segment extends the theme of luxurious and relaxed transit, now in a high-end ground vehicle, suggesting a seamless and comfortable journey beyond the flight itself."
+    },
+    {
+      "start_time": "00:07.133",
+      "end_time": "00:08.067",
+      "structural_tags": [
+        "Travel_Transit",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "car window",
+        "passing scenery",
+        "road"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car",
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "fluid"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "smooth movement",
+          "scenic view"
+        ]
+      },
+      "why_kept": "This final clip visually conveys the continuation of the journey, offering a perspective from inside the moving luxury vehicle, completing the overall travel narrative."
+    }
+  ]
+}

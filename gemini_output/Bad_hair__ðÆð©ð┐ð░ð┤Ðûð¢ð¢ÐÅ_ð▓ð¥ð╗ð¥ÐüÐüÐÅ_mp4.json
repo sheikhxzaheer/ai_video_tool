@@ -1,0 +1,85 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\ðÆð©ð┐ð░ð┤Ðûð¢ð¢ÐÅ ð▓ð¥ð╗ð¥ÐüÐüÐÅ.mp4",
+  "detailed_description": "This video documents a man's personal experience with alopecia, illustrating the progressive and impactful nature of the condition. It begins by revealing the 'early signs' of hair loss, showing initial bald spots on his scalp. The video then escalates to demonstrate 'severe and rapid fall out' with multiple, more pronounced bald patches, culminating in a striking visual of a large clump of shed hair in a bathtub. The narrative concludes with the man's direct and frustrated emotional response, explicitly stating that 'alopecia is a bitch' and expressing his desire to have his 'mop back.'",
+  "segments": [
+    {
+      "start_time": "00:02.267",
+      "end_time": "00:10.033",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation",
+        "Macro_Detail",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair",
+        "scalp",
+        "bald spot",
+        "wet hair",
+        "bathtub",
+        "hair clump"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious",
+          "revealing",
+          "documentary"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "unfiltered",
+          "raw footage"
+        ]
+      },
+      "why_kept": "This segment visually demonstrates the 'early signs' and 'severe and rapid fall out' of hair, showcasing the progression of the problem state through direct physical evidence of bald patches and a tangible collection of shed hair, making it the core visual representation of the video's message."
+    },
+    {
+      "start_time": "00:11.000",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Key_Information",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "face",
+        "mustache",
+        "text overlay",
+        "black screen"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "frustrated",
+          "resigned"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address",
+          "personal reflection",
+          "text overlay"
+        ]
+      },
+      "why_kept": "This segment provides the explicit identification of the condition (alopecia) and the emotional impact on the individual, culminating in a clear statement of frustration and desire for his hair back, which serves as the concluding emotional and informational point of the video."
+    }
+  ]
+}

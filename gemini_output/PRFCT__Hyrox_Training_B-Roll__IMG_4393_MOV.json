@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\Hyrox Training B-Roll\\IMG_4393.MOV",
+  "detailed_description": "This video captures an individual performing weighted Nordic Curls or Glute Ham Raises using a sandbag. The person picks up the sandbag, positions it on their back, and proceeds to execute multiple repetitions of the exercise, focusing on controlled eccentric and concentric movements. The exercise demonstrates core strength and hamstring development, with the sandbag providing added resistance. The video concludes as the individual completes the final repetition and removes the sandbag.",
+  "segments": [
+    {
+      "start_time": "00:00.700",
+      "end_time": "00:40.000",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Product_Interaction",
+        "The_Process_Labor",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "man",
+        "exercise",
+        "weighted sandbag",
+        "Nordic curl",
+        "outdoor gym",
+        "athletic wear",
+        "palm trees",
+        "plank position",
+        "kneeling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "dynamic angle",
+          "focused action"
+        ]
+      },
+      "why_kept": "This segment is the semantic core because it demonstrates the full process of using the weighted sandbag for exercise. It includes the user picking up the product, performing the core action (Nordic Curls/Glute Ham Raises), and completing the interaction by setting the product down. This clearly showcases both 'The Process/Labor' and 'Product Interaction' criteria."
+    }
+  ]
+}

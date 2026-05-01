@@ -1,0 +1,206 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ssstik.io_1747649004068.mp4",
+  "detailed_description": "This video showcases the Karseell Collagen hair treatment, designed for all hair types to repair dry, damaged hair and promote noticeable health after just one use. The man demonstrates the easy application process, showing how to scoop the creamy product, rub it into damp hair, and leave it on for 15 minutes before rinsing. The video emphasizes the product's ability to deliver sleek, shiny, and refreshed hair, concluding with a call to action for a special sale price, highlighting urgency before the product sells out.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.950",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "man",
+        "product jar",
+        "opening lid",
+        "scooping product",
+        "cream"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "direct presentation"
+        ]
+      },
+      "why_kept": "This segment introduces the product and initiates the demonstration of its texture and the first step of use (scooping)."
+    },
+    {
+      "start_time": "00:02.950",
+      "end_time": "00:07.900",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Problem_State",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "applying product",
+        "hair",
+        "rubbing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial application of the product to the hair, directly addressing the 'repairs dry, damaged hair' benefit."
+    },
+    {
+      "start_time": "00:08.800",
+      "end_time": "00:11.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Result_Transformation",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "man",
+        "product jar",
+        "scooping more product",
+        "rubbing hands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up on hands"
+        ]
+      },
+      "why_kept": "This segment re-emphasizes product interaction, showing more product being taken and prepared, reinforcing the message of 'healthier hair'."
+    },
+    {
+      "start_time": "00:11.900",
+      "end_time": "00:20.900",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "man",
+        "applying product",
+        "hair",
+        "rubbing",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct eye contact",
+          "expressive facial gestures"
+        ]
+      },
+      "why_kept": "This is the primary demonstration of the hair application process, including instructions and a visual cue of satisfaction, representing the core 'how-to' and 'result' aspects."
+    },
+    {
+      "start_time": "00:21.000",
+      "end_time": "00:26.500",
+      "structural_tags": [
+        "Offer_CTA",
+        "Product_Interaction",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "man",
+        "applying product",
+        "face",
+        "neck",
+        "talking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "urgent"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "facial expressions"
+        ]
+      },
+      "why_kept": "This segment delivers the call to action, promoting the sale price and creating urgency, while also subtly suggesting versatility by applying the product to the face/neck."
+    },
+    {
+      "start_time": "00:27.700",
+      "end_time": "00:30.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Visual_Hook",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "man",
+        "product jar",
+        "presenting product",
+        "thumbs up"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "high energy",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct presentation",
+          "final call"
+        ]
+      },
+      "why_kept": "This final segment provides a clear, prominent shot of the product, reinforcing its brand and leaving the viewer with a strong, positive impression and the remaining call to action implied."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ssstik.io_1746987568287.mp4",
+  "detailed_description": "This video vividly presents a personal hair transformation journey, starting with a clear 'before' state showing significant hair loss. It then transitions to an 'after' segment, revealing a dramatic improvement with full, healthy hair. The core value of the video is demonstrated by showcasing this remarkable change and providing key information about the comprehensive regimen used, including minoxidil, finasteride, biotin, rosemary oil, density shampoo, and a hair transplant. The video culminates in a direct call to action, encouraging viewers to follow for similar results.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:15.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation",
+        "Before_After",
+        "Key_Information",
+        "Offer_CTA",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair loss",
+        "hair growth",
+        "mirror selfie",
+        "smartphone",
+        "glasses",
+        "bathroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "hopeful",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "before/after comparison",
+          "text overlay",
+          "selfie perspective"
+        ]
+      },
+      "why_kept": "This entire video segment constitutes the 'Semantic Core' as it directly demonstrates the dramatic before-and-after transformation, outlines the process ('what I did') that led to the results, and includes a clear call to action. It effectively captures the 'Problem_State', 'Result_Transformation', and 'Key_Information' without any superfluous frames or dead air, adhering to the 'No-Mistake Rule' for concise content."
+    }
+  ]
+}

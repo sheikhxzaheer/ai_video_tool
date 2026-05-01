@@ -1,0 +1,68 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Drink\\Water\\ssstik.io_@melinafarahanii_1774371241825.mp4",
+  "detailed_description": "The video prominently features a woman actively drinking a substantial amount of water directly from a large clear plastic bottle, showcasing the process of rehydration with audible gulps. After quenching her thirst, she expresses clear satisfaction with a refreshing 'Ahhh' sound and a bright, content smile. She then directly conveys a simple yet effective message, encouraging viewers to 'Stay hydrated,' highlighting the positive feeling and importance associated with consuming water. This clip effectively promotes the act of hydration and the refreshing experience it provides.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman drinking",
+        "water bottle",
+        "hydrating"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "simple background"
+        ]
+      },
+      "why_kept": "This segment is the core action of the video, demonstrating the user's interaction with the product (drinking water from the bottle) and the process of hydration. It's the primary visual value."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Face_Reaction",
+        "Positive_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman smiling",
+        "expressing satisfaction",
+        "saying stay hydrated"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "expressive facial shot"
+        ]
+      },
+      "why_kept": "This segment captures the emotional climax after the primary action, showing the user's positive reaction (satisfaction, smile) and delivering a key message ('Stay hydrated'). It complements the drinking action and adds an encouraging, personal touch."
+    }
+  ]
+}

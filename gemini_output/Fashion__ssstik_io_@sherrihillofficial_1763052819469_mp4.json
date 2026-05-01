@@ -1,0 +1,201 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Fashion\\ssstik.io_@sherrihillofficial_1763052819469.mp4",
+  "detailed_description": "This video captures the vibrant energy of a Sherri Hill fashion show, showcasing a collection of dazzling and glamorous evening gowns. Models confidently strut down the runway in a variety of sparkling, flowing dresses, ranging from fringed gold to elegant blue and purple designs, each featuring intricate details and dramatic trains. The presentation highlights the elegance and diverse styles of the collection, emphasizing the premium quality and allure of the brand. The event culminates in an appearance by designer Sherri Hill, who gracefully greets the enthusiastic audience.",
+  "segments": [
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:07.400",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "High_Energy",
+        "Premium"
+      ],
+      "visual_keywords": [
+        "models",
+        "fashion show",
+        "runway",
+        "evening gowns",
+        "sparkly dresses",
+        "flowing fabric",
+        "brand logo",
+        "audience"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "glamorous",
+          "runway aesthetic"
+        ]
+      },
+      "why_kept": "This segment effectively introduces the brand and its diverse collection with multiple models, clear branding, and dynamic movement, setting the core tone of the fashion show."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:14.500",
+      "structural_tags": [
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "model",
+        "smiling",
+        "pink sparkly dress",
+        "choker",
+        "makeup",
+        "confident expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "glamorous lighting",
+          "detailed shot",
+          "confident pose"
+        ]
+      },
+      "why_kept": "This close-up shot emphasizes the beauty, confidence, and intricate details of the dress worn by a model, capturing the emotional appeal of the product."
+    },
+    {
+      "start_time": "00:17.500",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "models",
+        "runway",
+        "various dresses",
+        "flowing trains",
+        "fashion collection",
+        "audience"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "dynamic movement",
+          "diverse collection"
+        ]
+      },
+      "why_kept": "This segment provides a broader view of the collection, showcasing the variety and grandeur of the gowns as multiple models move gracefully down the runway."
+    },
+    {
+      "start_time": "00:25.500",
+      "end_time": "00:27.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Premium"
+      ],
+      "visual_keywords": [
+        "model",
+        "gold dress",
+        "long train",
+        "sparkly",
+        "runway",
+        "brand logo"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "glamorous"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "elegant lighting",
+          "focus on movement and fabric",
+          "luxurious design"
+        ]
+      },
+      "why_kept": "This shot specifically highlights one of the more elaborate and luxurious dresses with a dramatic train, emphasizing the detail and flowing fabric, with the brand name clearly visible."
+    },
+    {
+      "start_time": "00:31.900",
+      "end_time": "00:34.000",
+      "structural_tags": [
+        "Key_Information",
+        "Emotional_Climax",
+        "Social_Proof",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "Sherri Hill (designer)",
+        "waving",
+        "smiling",
+        "fashion show",
+        "runway",
+        "brand logo"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "positive",
+          "satisfaction",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "celebratory lighting",
+          "designer recognition",
+          "applause"
+        ]
+      },
+      "why_kept": "This segment is crucial as it features the designer herself, Sherri Hill, representing the culmination and success of the fashion show and providing a personal connection to the brand."
+    }
+  ]
+}

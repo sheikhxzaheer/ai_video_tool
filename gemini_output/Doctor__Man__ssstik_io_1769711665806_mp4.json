@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Man\\ssstik.io_1769711665806.mp4",
+  "detailed_description": "This video provides a behind-the-scenes glimpse into the administration of anesthesia before a medical procedure. It captures medical professionals engaging in reassuring conversation with the patient. The core focus is on the crucial moment when the anesthesia mask is gently placed over the patient's face, leading to a calm and controlled transition into an unconscious state for the upcoming procedure. The team ensures the patient's comfort and proper mask placement, highlighting the detailed process of preparing for surgery.",
+  "segments": [
+    {
+      "start_time": "00:50.000",
+      "end_time": "01:31.000",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "patient",
+        "anesthesia mask",
+        "doctors",
+        "operating room",
+        "medical equipment",
+        "sleep",
+        "IV drip",
+        "monitor"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "medical setting",
+          "professional lighting"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it clearly demonstrates the 'Process/Labor' of administering anesthesia. It shows the active placement and management of the anesthesia mask by the medical professionals, and the immediate 'Result_Transformation' as the patient transitions into an unconscious state, fulfilling the core action implied by the 'ANESTHESIA' text."
+    }
+  ]
+}

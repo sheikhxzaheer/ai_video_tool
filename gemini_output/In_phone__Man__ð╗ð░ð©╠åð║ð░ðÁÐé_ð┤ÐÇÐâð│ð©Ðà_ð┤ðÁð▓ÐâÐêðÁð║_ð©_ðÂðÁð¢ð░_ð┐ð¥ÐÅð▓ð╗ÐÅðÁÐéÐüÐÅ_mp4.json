@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\In phone\\Man\\ð╗ð░ð©╠åð║ð░ðÁÐé ð┤ÐÇÐâð│ð©Ðà ð┤ðÁð▓ÐâÐêðÁð║ ð© ðÂðÁð¢ð░ ð┐ð¥ÐÅð▓ð╗ÐÅðÁÐéÐüÐÅ.mp4",
+  "detailed_description": "A man is shown engrossed in his smartphone, scrolling through an Instagram feed late at night in a dimly lit room. He is captivated by a photo of a woman in a swimsuit on his screen. As he continues to look at his phone, another woman subtly walks into the background, creating a narrative of potential discovery or an awkward social situation. The entire sequence builds a subtle tension, highlighting digital distraction and its social implications.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.100",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "smartphone",
+        "Instagram",
+        "bikini photo",
+        "woman in background",
+        "dim lighting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "tense"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "low-key lighting",
+          "blue tint"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it fully encapsulates the core narrative and action. It establishes the man's focus on his phone, reveals the content he's viewing, and introduces the social tension with the woman's entrance into the background. There is no setup, calibration, or post-action dead air to trim, making the entire duration essential to the semantic core."
+    }
+  ]
+}

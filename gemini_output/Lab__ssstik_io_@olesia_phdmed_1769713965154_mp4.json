@@ -1,0 +1,84 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Lab\\ssstik.io_@olesia.phdmed_1769713965154.mp4",
+  "detailed_description": "This video showcases a scientist working diligently in a laboratory setting, specifically within a laminar flow hood. The core value is demonstrated through the precise handling of laboratory equipment, culminating in a creative and visually appealing outcome. The scientist uses a pipette to arrange a red liquid in a 96-well plate, forming a perfect heart shape. This fusion of scientific precision and artistic expression highlights both the technical skill and the human element in scientific research.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.300",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Workspace_Office",
+        "Human_Interaction",
+        "The_Process_Labor"
+      ],
+      "visual_keywords": [
+        "scientist",
+        "lab coat",
+        "laminar flow hood",
+        "laboratory equipment",
+        "pipetting"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment establishes the context of the laboratory environment and shows the initial phase of professional action, setting the stage for the detailed work."
+    },
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Macro_Detail",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Positive_Emotion",
+        "The_Process_Labor"
+      ],
+      "visual_keywords": [
+        "pipette",
+        "96-well plate",
+        "red liquid",
+        "heart shape",
+        "laboratory tools",
+        "precision work"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "detailed focus",
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is the semantic core, demonstrating the precise use of lab equipment to create a unique and visually engaging result – the heart shape in the well plate. It highlights both the 'process/labor' and the 'reveal/result' in a compelling way, serving as the main hero moment."
+    }
+  ]
+}

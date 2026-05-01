@@ -1,0 +1,124 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cry\\Woman\\ssstik.io_@maggiethurmon_1766163429959.mp4",
+  "detailed_description": "The video captures a young woman in an intense state of emotional distress, crying profusely while talking about watching 'Grey's Anatomy.' With tears streaming down her face, she advises viewers against starting the show, explicitly stating 'I can't not cry' and 'I can't stop,' implying she's unable to stop watching despite the emotional toll. Her raw reaction serves as a relatable warning or an expression of deep immersion in the show's narrative, showcasing the profound impact of the television series.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.750",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman crying",
+        "tears",
+        "distressed expression",
+        "speaking",
+        "red wall",
+        "light switches"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "emotional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead angle",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the core problem (emotional distress from the show) and features the initial strong facial reaction of crying, along with the first verbal warning about 'Grey's Anatomy.' It sets the emotional tone and context for the entire video."
+    },
+    {
+      "start_time": "00:12.750",
+      "end_time": "00:17.900",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman crying",
+        "tears streaming",
+        "distressed expression",
+        "speaking",
+        "shaking head",
+        "red wall",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "emotional",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead angle",
+          "text overlay 'I can't not cry.'"
+        ]
+      },
+      "why_kept": "This segment is an emotional climax, emphasizing her inability to control her crying due to the show. Her explicit statement 'I can't not cry' is a key piece of information that reinforces the video's central theme of emotional impact."
+    },
+    {
+      "start_time": "00:17.900",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "UGC_Talking_Head",
+        "Emotional_Climax"
+      ],
+      "visual_keywords": [
+        "woman crying",
+        "sitting on floor",
+        "holding tissue",
+        "distressed expression",
+        "speaking",
+        "jeans",
+        "cardigan",
+        "white door",
+        "red wall",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "emotional",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "low angle",
+          "casual attire",
+          "text overlay 'I can't stop.'"
+        ]
+      },
+      "why_kept": "This final segment provides a different visual perspective while continuing the emotional climax. Her statement 'I can't stop' (watching the show) solidifies the 'Problem_State' and 'Negative_Emotion,' serving as a concluding strong statement that underlines the depth of her emotional investment."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Couple\\Old\\ssstik.io_@chloek821_1770059289709.mp4",
+  "detailed_description": "This heartwarming video captures an elderly couple joyfully dancing together in what appears to be a backyard at night. Illuminated by string lights, they hold hands and sway gently, lost in their own world while other guests socialize in the background. The scene exudes a sense of simple happiness and enduring connection, highlighting a moment of shared enjoyment and active lifestyle in their golden years. Their smiles and coordinated movements convey a deep affection and comfort with each other.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.919",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Lifestyle_Active",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "elderly couple",
+        "dancing",
+        "backyard",
+        "night",
+        "string lights",
+        "party",
+        "celebration",
+        "holding hands"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "joyful",
+          "romantic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "warm lighting",
+          "string lights ambiance",
+          "night scene",
+          "intimate"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, showcasing the endearing and joyful interaction of an elderly couple dancing. It captures a clear emotional climax through their happy demeanor and sustained human interaction, embodying a positive and active lifestyle. No trimming was required as the action begins and ends perfectly within the video's duration, adhering to the 'No-Mistake Rule'."
+    }
+  ]
+}

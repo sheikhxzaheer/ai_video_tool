@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250520_113643042.mp4",
+  "detailed_description": "This video captures a still, aspirational shot of the PRFCT MORNING TANGERINE PULSE product. It showcases both the larger product bag and a single-serving stick pack, prominently displaying their branding. The items are strategically placed on a textured concrete surface by the water, likely an ocean or a pool with a sea view, under a clear blue sky. The scene evokes a sense of calm, active, and refreshing lifestyle, introducing the product in an appealing outdoor context.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "PRFCT MORNING product",
+        "Tangerine Pulse",
+        "drink mix",
+        "pouch",
+        "stick pack",
+        "concrete",
+        "water",
+        "ocean",
+        "blue sky",
+        "outdoor"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "refreshing",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "sunny",
+          "natural light",
+          "static shot"
+        ]
+      },
+      "why_kept": "This entire segment serves as the core value of the video, which is a clear and aesthetic presentation of the PRFCT MORNING TANGERINE PULSE product. It effectively introduces the product in a lifestyle-oriented setting, fulfilling the criteria for 'Product Intro' and 'Product Standalone'. There is no 'setup & calibration' or 'post-action dead air' to trim, making the full duration the most impactful way to showcase the product. The slight movements within the video are minor and do not detract from the primary objective of displaying the product."
+    }
+  ]
+}

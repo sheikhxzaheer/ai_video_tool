@@ -1,0 +1,233 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Makeup_artist\\ssstik.io_@leilasmakeupstudio_1762252770058.mp4",
+  "detailed_description": "This video provides a comprehensive makeup tutorial, meticulously demonstrating a step-by-step application from start to finish. It showcases techniques for eye makeup, including eyeshadow blending and precise eyeliner, followed by face contouring, highlighting, blush, and a final lip application. The video focuses on the transformation, offering viewers a detailed look at each stage of creating a polished, glamorous makeup look.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.033",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "model",
+        "finished makeup",
+        "looking around",
+        "pink blush",
+        "glossy lips"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "professional lighting",
+          "clean aesthetic",
+          "smooth transition"
+        ]
+      },
+      "why_kept": "This segment serves as an engaging visual hook, showcasing the stunning final result of the makeup application right at the beginning."
+    },
+    {
+      "start_time": "00:01.033",
+      "end_time": "00:11.767",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction",
+        "The_Process_Labor"
+      ],
+      "visual_keywords": [
+        "eyeshadow application",
+        "eyeliner",
+        "makeup brushes",
+        "tape for sharp line",
+        "eyelids",
+        "cosmetics"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed application",
+          "precise movements",
+          "well-lit"
+        ]
+      },
+      "why_kept": "This segment demonstrates the intricate process of applying eye makeup, showcasing various techniques and product interactions which is a core part of the tutorial."
+    },
+    {
+      "start_time": "00:11.767",
+      "end_time": "00:20.633",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction",
+        "The_Process_Labor"
+      ],
+      "visual_keywords": [
+        "concealer",
+        "foundation",
+        "beauty blender",
+        "setting powder",
+        "face base",
+        "makeup brush"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "smooth blending",
+          "flawless coverage",
+          "highlighting"
+        ]
+      },
+      "why_kept": "This segment highlights the foundation and concealing steps, crucial for creating a smooth and even base for the rest of the makeup."
+    },
+    {
+      "start_time": "00:20.633",
+      "end_time": "00:26.500",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction",
+        "The_Process_Labor"
+      ],
+      "visual_keywords": [
+        "blush",
+        "contour",
+        "highlighter",
+        "mascara",
+        "eyebrow brush",
+        "face shaping"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "adding dimension",
+          "enhancing features",
+          "volumizing lashes"
+        ]
+      },
+      "why_kept": "This segment demonstrates the application of blush, contour, highlighter, and mascara, which are key steps in defining the face and enhancing the eyes."
+    },
+    {
+      "start_time": "00:26.500",
+      "end_time": "00:33.933",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction",
+        "The_Process_Labor"
+      ],
+      "visual_keywords": [
+        "lip liner",
+        "lip gloss",
+        "lip color",
+        "makeup artist"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "precise lip shaping",
+          "glossy finish",
+          "natural lip color"
+        ]
+      },
+      "why_kept": "This segment focuses on the lip makeup application, completing the overall look with definition and shine."
+    },
+    {
+      "start_time": "00:33.933",
+      "end_time": "00:38.233",
+      "structural_tags": [
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "model",
+        "finished makeup",
+        "smiling",
+        "glowing skin",
+        "glamorous look"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "polished look",
+          "radiant finish",
+          "confident pose",
+          "professional lighting"
+        ]
+      },
+      "why_kept": "This final segment serves as the ultimate reveal, showcasing the complete and beautiful makeup transformation, emphasizing the desired end result and model's satisfaction."
+    }
+  ]
+}

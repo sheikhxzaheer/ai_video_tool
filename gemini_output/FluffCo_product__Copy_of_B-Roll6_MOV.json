@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B-Roll6.MOV",
+  "detailed_description": "This video showcases the meticulous process of making a bed, specifically focusing on the arrangement and fluffing of pillows. A woman is seen handling multiple white pillows, demonstrating how to properly fluff them before placing them neatly against a tufted headboard. The interaction highlights the tactile nature of the pillows and the care taken in creating a well-made bed. The overall scene conveys a sense of domesticity and attention to detail in a bedroom setting.",
+  "segments": [
+    {
+      "start_time": "00:05.960",
+      "end_time": "00:29.900",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Home_Kitchen",
+        "Morning_Routine",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "making bed",
+        "fluffing pillows",
+        "arranging pillows",
+        "white pillows",
+        "headboard",
+        "bedroom",
+        "comforter"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clean aesthetic",
+          "home decor"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the core action of the video: the process of fluffing and arranging pillows to make a bed. It captures direct product interaction and labor, fulfilling the key 'Hero Moment' criteria for showing expertise and product use. The trimming eliminates setup and post-action lingering, focusing solely on the valuable demonstration."
+    }
+  ]
+}

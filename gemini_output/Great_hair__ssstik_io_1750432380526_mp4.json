@@ -1,0 +1,122 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1750432380526.mp4",
+  "detailed_description": "The video features a stylish individual walking down a sunny street, responding to questions about their fashion choices. The core meaning lies in the explicit reveal of high-end brands worn. The person showcases a Luciano Barbera blazer by displaying its interior label, identifies Giuseppe Zanotti loafers as the camera focuses on their footwear, and names Porsche Design as the brand for their sunglasses. This content serves as a street-style interview, providing direct answers on designer apparel and accessories.",
+  "segments": [
+    {
+      "start_time": "00:04.200",
+      "end_time": "00:11.800",
+      "structural_tags": [
+        "Product_Interaction",
+        "Key_Information",
+        "Human_Interaction",
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "blazer",
+        "holding jacket",
+        "showing label",
+        "white shirt"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "street",
+          "outdoor"
+        ],
+        "mood": [
+          "premium",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "sunny",
+          "clean background",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment is kept as a 'Hero Moment' because it features direct product interaction (the man physically shows the blazer's label) and provides key information (the brand name) in response to a question about his outfit."
+    },
+    {
+      "start_time": "00:12.700",
+      "end_time": "00:15.800",
+      "structural_tags": [
+        "Product_Interaction",
+        "Key_Information",
+        "Human_Interaction",
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "shoes",
+        "white loafers",
+        "footwear",
+        "white pants"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "street",
+          "outdoor"
+        ],
+        "mood": [
+          "premium",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "sunny",
+          "focus on shoes",
+          "street paving"
+        ]
+      },
+      "why_kept": "This segment is a 'Hero Moment' as it visually highlights the product (shoes) while the brand name is stated, fulfilling the 'Product Interaction' (by wearing and the camera focusing) and 'Key Information' criteria."
+    },
+    {
+      "start_time": "00:16.500",
+      "end_time": "00:18.500",
+      "structural_tags": [
+        "Key_Information",
+        "Human_Interaction",
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "sunglasses",
+        "aviator style",
+        "face",
+        "white shirt"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "street",
+          "outdoor"
+        ],
+        "mood": [
+          "premium",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "sunny",
+          "focused on face",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment is a 'Hero Moment' because the man directly provides key information (brand name) about a visible accessory (sunglasses) that he is actively wearing. Its presence and explicit identification constitute a core reveal of his outfit."
+    }
+  ]
+}

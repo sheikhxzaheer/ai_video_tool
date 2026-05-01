@@ -1,0 +1,106 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\ssstik.io_1751292820945.mp4",
+  "detailed_description": "This video captures the satisfying process of removing flaky, sunburnt skin from a person's shaved head. Using fine-tipped tweezers, the individual carefully peels off large, translucent pieces of dead skin, revealing the smoother, pinker skin underneath. The footage focuses on the intricate detail of the peeling process, highlighting the transformation from a visibly flaky scalp to a cleaner surface. The background music adds to the calm, almost therapeutic, ambiance of the removal.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.483",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "flaky scalp",
+        "sunburnt skin",
+        "shaved head",
+        "dead skin"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "other"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "hand-held"
+        ]
+      },
+      "why_kept": "This segment establishes the initial condition of the scalp, presenting the 'problem state' with visible flaking skin, and serves as a visual hook before the main action."
+    },
+    {
+      "start_time": "00:04.483",
+      "end_time": "00:19.650",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Macro_Detail",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "tweezers",
+        "peeling skin",
+        "scalp",
+        "removing dead skin",
+        "revealing smooth skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "other"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed focus",
+          "clear action",
+          "oddly satisfying"
+        ]
+      },
+      "why_kept": "This is the core 'hero moment' of the video, showcasing the actual peeling process in detail. It demonstrates the action (Mechanism_Of_Action), the use of the tool (Product_Interaction), and the immediate visual change (Result_Transformation) as the skin is removed."
+    },
+    {
+      "start_time": "00:19.650",
+      "end_time": "00:26.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "partially peeled scalp",
+        "cleaner skin",
+        "reddened scalp",
+        "shaved head"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "other"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "in-progress result",
+          "oddly satisfying"
+        ]
+      },
+      "why_kept": "This segment provides a broader view of the scalp after some of the skin has been peeled, showcasing the ongoing transformation and the partial result of the action, complementing the detailed peeling shown previously."
+    }
+  ]
+}

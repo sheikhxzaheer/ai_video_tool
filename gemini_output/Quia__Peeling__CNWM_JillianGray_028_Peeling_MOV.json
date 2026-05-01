@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Peeling\\CNWM_JillianGray_028_Peeling.MOV",
+  "detailed_description": "This video captures a woman's satisfying self-care routine as she meticulously peels off a clear face mask. She gently removes layers of the mask from different areas of her face, revealing clean and refreshed skin underneath. Her facial expressions convey a sense of calm and subtle satisfaction with the process, making the act of peeling visually engaging. The clip highlights the product interaction and the immediate, visible transformation it provides, making it a complete 'hero moment' for a beauty or skincare product.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:20.120",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Night_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face mask",
+        "peeling",
+        "skin",
+        "headband",
+        "hands",
+        "rings",
+        "necklace",
+        "clear mask"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "satisfied",
+          "clean",
+          "personal care"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "focused on face",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it perfectly demonstrates the 'Mechanism_Of_Action' and 'Product_Interaction' of a peel-off face mask from beginning to end. It showcases the 'Process/Labor' of application and removal, culminating in a clear 'Result_Transformation' (revealing clean skin) and a 'Positive_Emotion' ('Face_Reaction') from the user. As the action starts precisely at the beginning and ends cleanly, the 'No-Mistake' rule applies, and no trimming is necessary."
+    }
+  ]
+}

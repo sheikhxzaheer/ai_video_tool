@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Testimonials\\testimonialswipe.mp4",
+  "detailed_description": "This video features a woman enthusiastically sharing the transformative results of a cleaning process on her home. She presents compelling 'Before/After' images of a moldy bathroom ceiling and shower, showcasing their restoration to a bright and sanitary condition. The speaker provides strong social proof by stating that the cleaned areas have remained mold-free for over a month. Additionally, she attributes the disappearance of various health issues to the cleaning, emphasizing that zero symptoms have reappeared since, highlighting the long-term benefits.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Social_Proof",
+        "UGC_Talking_Head",
+        "Before_After",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "car interior",
+        "glasses",
+        "smiling",
+        "talking",
+        "before/after images",
+        "moldy ceiling",
+        "clean ceiling",
+        "dirty shower tiles",
+        "clean shower tiles",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "positive",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address",
+          "bright lighting",
+          "overlaid visuals",
+          "clear narration"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it effectively combines multiple 'Hero Moments.' It immediately engages viewers with a 'Visual_Hook' and transitions into 'Result_Transformation' through explicit 'Before_After' images of a dirty bathroom becoming clean. The speaker's 'UGC_Talking_Head' provides crucial 'Key Information' and 'Social_Proof' regarding the lasting cleanliness and health benefits, delivered with 'Positive_Emotion.' There is no setup, calibration, or dead air, making the entire duration essential for conveying the message."
+    }
+  ]
+}

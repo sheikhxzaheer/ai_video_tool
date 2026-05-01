@@ -1,0 +1,80 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ssstik.io_1744142318524.mp4",
+  "detailed_description": "This video illustrates a personal transformation journey focusing on hair. It begins with the individual expressing clear concern and anxiety over their receding hairline and thinning blonde hair, actively showcasing the areas of concern. The narrative then shifts to a positive 'after' reveal, where the person confidently displays a new, shorter, and darker haircut that effectively addresses the previous hair concerns. The complete transformation culminates in a gesture of satisfaction and renewed self-assurance.",
+  "segments": [
+    {
+      "start_time": "00:00.220",
+      "end_time": "00:09.950",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Human_Interaction",
+        "Face_Reaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "person",
+        "blonde hair",
+        "receding hairline",
+        "hand gestures",
+        "concerned expression",
+        "talking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment is kept as an ANCHOR because it vividly establishes the 'Problem State' and 'Negative Emotion' central to the video's narrative, showing the individual's struggle with their hair loss through direct demonstration and emotional expression. It sets the crucial 'before' context for the subsequent transformation."
+    },
+    {
+      "start_time": "00:10.020",
+      "end_time": "00:20.550",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Face_Reaction",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "person",
+        "short hair",
+        "new haircut",
+        "hand touching head",
+        "thumbs-up gesture",
+        "confident expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "upbeat transition"
+        ]
+      },
+      "why_kept": "This segment is kept as an ANCHOR because it serves as the 'Reveal/Result' of the hair transformation, directly contrasting the initial problem. It showcases the new confident look and 'Positive Emotion,' completing the 'Before/After' narrative effectively and demonstrating a successful outcome."
+    }
+  ]
+}

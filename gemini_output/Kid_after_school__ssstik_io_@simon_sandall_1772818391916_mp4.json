@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid after school\\ssstik.io_@simon_sandall_1772818391916.mp4",
+  "detailed_description": "The video captures a comedic domestic scene where a father confronts his son about napping after school. The son expresses exhaustion and defiance, wanting to nap despite his father's disapproval. The father, in turn, argues against the nap, citing potential sleep issues, his own busy day, and asserting his parental authority through 'my house, my rules.' The exchange highlights a common parent-child power struggle over daily routines and freedom, ending with the father threatening to take away devices and the son's disgruntled acceptance of the situation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "01:03.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Key_Information",
+        "Calm_Relaxation",
+        "Time_Wasted",
+        "Emotional_Climax"
+      ],
+      "visual_keywords": [
+        "boy",
+        "dad",
+        "bed",
+        "bedroom",
+        "doorway",
+        "backpack",
+        "napping",
+        "arguing",
+        "frustration",
+        "defiance",
+        "rules"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "domestic setting",
+          "conversational style",
+          "direct address"
+        ]
+      },
+      "why_kept": "This entire segment represents the semantic core of the video, which is a comedic sketch depicting a parent-child argument about napping. The video starts with the son attempting to nap (setting the premise) and concludes with his final grumble after the father leaves, marking the end of this particular conflict. Trimming any part of the dialogue or reactions would remove essential narrative, character interaction, and comedic timing, which are the primary 'value' and 'action' of this content. The 'No-Mistake Rule' applies here as the video begins and ends precisely with the relevant action."
+    }
+  ]
+}

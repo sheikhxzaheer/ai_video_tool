@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid with disehs\\ssstik.io_@marthadiosdado3_1763672402482.mp4",
+  "detailed_description": "This heartwarming video captures a young girl's diligent efforts in the kitchen as she helps with household chores. Standing on a chair to reach the sink, she meticulously washes dishes, demonstrating responsibility and a cheerful attitude. She actively scrubs various items like a yellow container and a blue bowl with a sponge under running water, occasionally making eye contact with the camera and smiling, highlighting her engagement and positive demeanor while performing the task.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "little girl",
+        "washing dishes",
+        "kitchen sink",
+        "sponge",
+        "yellow container",
+        "running water",
+        "chair",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "home video feel",
+          "steady shot"
+        ]
+      },
+      "why_kept": "The entire video segment is kept as the 'Semantic Core' because it continuously demonstrates the primary hero moments: the process of labor (washing dishes), product interaction (using sponge, water, dishes), and emotional climax (the girl's smiles and engagement with the camera). There are no discernible 'setup & calibration' or 'post-action dead air' frames, and the action flows uninterrupted from start to finish, adhering to the 'no-mistake' rule."
+    }
+  ]
+}

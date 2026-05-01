@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B-RollTossTurn2.MOV",
+  "detailed_description": "This video captures a serene yet subtly restless scene of a woman sleeping in bed from an overhead perspective. Throughout the segment, she is seen tossing and turning gently, adjusting her pillows and blankets, indicating a natural sleep pattern or perhaps a search for maximum comfort. The focus is on her interaction with the bedding and her various movements while slumbering, highlighting the dynamic nature of sleep.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:26.233",
+      "structural_tags": [
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Night_Routine",
+        "Product_Present",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "sleeping",
+        "tossing",
+        "turning",
+        "adjusting",
+        "blankets",
+        "pillows",
+        "bed",
+        "woman"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "relaxed"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "natural light"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by clearly demonstrating the act of sleeping, which involves continuous adjustments and interaction with the bedding. The gentle tossing and turning can be interpreted as a 'problem state' (restless sleep) or simply 'the process' of finding comfort, both of which are central to illustrating sleep behavior and product interaction with bedding. There are no extraneous frames before or after the action, making the full duration relevant."
+    }
+  ]
+}

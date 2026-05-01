@@ -1,0 +1,89 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bussinesman\\ssstik.io_@carlantoniodsouza_1766735783417.mp4",
+  "detailed_description": "This video presents a premium office space located in Anantara Downtown, Business Bay, Dubai, targeted at businesses seeking a new home in a prestigious address. The presenter introduces the location and the offering, followed by a dynamic visual tour showcasing the modern and aesthetically designed workspaces, private offices, meeting rooms, reception area, and stunning city views. The video highlights the stylish interiors and amenities, concluding with a call to action via QR codes for further inquiry.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.875",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Key_Information",
+        "Offer_CTA",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "man in suit",
+        "office environment",
+        "speaking directly",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "professional",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment serves as the primary hook and delivers the core value proposition. The presenter directly addresses the audience, introduces the special offering (office space), highlights its prestigious location, and explicitly states the name, making it crucial 'Key Information' and an 'Offer_CTA'."
+    },
+    {
+      "start_time": "00:10.875",
+      "end_time": "00:55.000",
+      "structural_tags": [
+        "Reveal_Result",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Workspace_Office",
+        "Macro_Detail",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "office tour",
+        "modern furniture",
+        "glass partitions",
+        "city views",
+        "reception desk",
+        "meeting room",
+        "private office",
+        "plants",
+        "art",
+        "lighting",
+        "QR code"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "modern interior design",
+          "dynamic camera movement",
+          "slick edits",
+          "high-end visuals"
+        ]
+      },
+      "why_kept": "This segment is the comprehensive visual demonstration of the office space, directly showcasing the 'product' introduced in the previous segment. It features a detailed 'Reveal' of various areas, 'Product_Interaction' by touring the space, provides 'Aesthetic_Broll' highlighting design elements and views, and includes explicit 'Offer_CTA' via QR codes. It visually reinforces the 'Key Information' provided by the presenter."
+    }
+  ]
+}

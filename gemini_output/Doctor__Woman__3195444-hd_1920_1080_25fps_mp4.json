@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Woman\\3195444-hd_1920_1080_25fps.mp4",
+  "detailed_description": "This video depicts a professional laboratory setting where a female scientist or technician, dressed in blue scrubs, is meticulously examining samples through a microscope. A male doctor, wearing a white lab coat and a stethoscope, stands beside her, attentively observing and recording notes on a clipboard. The scene highlights a collaborative scientific process, emphasizing detailed observation and data documentation within a research or clinical environment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:16.890",
+      "structural_tags": [
+        "Human_Interaction",
+        "Workspace_Office",
+        "Product_Interaction",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman looking into microscope",
+        "doctor writing on clipboard",
+        "lab equipment",
+        "test tubes",
+        "scientific research",
+        "collaboration",
+        "medical professionals"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "professional lighting",
+          "clean aesthetic",
+          "focused work",
+          "observational"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the 'PROCESS/LABOR' and 'PRODUCT INTERACTION' criteria. It shows a scientist actively engaged in microscopy, a key professional action, while a doctor supports by documenting the observations, illustrating a collaborative scientific effort. There is no setup, dead air, or extraneous footage, making the full clip relevant."
+    }
+  ]
+}

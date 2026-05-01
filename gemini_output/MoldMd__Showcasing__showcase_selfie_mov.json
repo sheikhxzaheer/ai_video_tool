@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\showcase selfie.mov",
+  "detailed_description": "The video features a woman holding a bottle of 'MoldMD Mold Spot Remover' while speaking directly to the camera. She enthusiastically encourages viewers to purchase the product by stating, 'Just go to the link and get yours now,' concluding with a clear, satisfied smile. This segment effectively combines a product introduction, a direct call to action, and a positive emotional response, making it the core message of the video.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.250",
+      "structural_tags": [
+        "Product_Intro",
+        "Offer_CTA",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Home_Kitchen",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "blonde hair",
+        "glasses",
+        "green sweater",
+        "MoldMD bottle",
+        "spray bottle",
+        "kitchen cabinets",
+        "smile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "good lighting",
+          "clear focus on subject and product"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it perfectly embodies the 'Hero Moment' criteria: it showcases direct 'Product Interaction' (holding and presenting the MoldMD bottle), delivers 'Key Information' through a clear 'Call to Action' ('get yours now'), and concludes with an 'Emotional Climax' (a satisfied smile). There are no setup frames or post-action dead air, making the entire clip a concise and impactful presentation of the product's value and desired action."
+    }
+  ]
+}

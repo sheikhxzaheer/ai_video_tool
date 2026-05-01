@@ -1,0 +1,188 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury home\\ssstik.io_@karina__zabirova_1769004494944.mp4",
+  "detailed_description": "This video provides a real estate tour of a luxurious modern house. It begins with the presenter introducing the property's key features from its grand entrance. The tour highlights the seamless integration of indoor and outdoor living, showcasing expansive sliding glass doors that open to a sophisticated pool area. Viewers are also presented with the spacious, high-ceiling living room and a walk-through of the master bedroom, which includes a private balcony offering a panoramic view of the stunning property exterior.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "microphone",
+        "luxurious house entrance",
+        "modern architecture"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "professional presentation"
+        ]
+      },
+      "why_kept": "This segment serves as the primary visual hook and delivers key information, introducing the luxurious house and its features directly from the presenter at the entrance, establishing the video's purpose."
+    },
+    {
+      "start_time": "00:16.800",
+      "end_time": "00:19.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "sliding glass doors",
+        "pool",
+        "patio",
+        "outdoor living space"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "inviting"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "modern design"
+        ]
+      },
+      "why_kept": "This segment demonstrates a key feature of the house (large sliding doors) and effectively reveals the attractive outdoor pool area, contributing significantly to the overall luxury appeal."
+    },
+    {
+      "start_time": "00:22.900",
+      "end_time": "00:24.400",
+      "structural_tags": [
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "spacious living room",
+        "high ceilings",
+        "modern furniture",
+        "open plan"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "minimalist design",
+          "bright",
+          "spacious"
+        ]
+      },
+      "why_kept": "This shot provides a grand perspective of the main living area, showcasing the modern, open-plan design and high ceilings, which are significant selling points of the house."
+    },
+    {
+      "start_time": "00:35.300",
+      "end_time": "00:39.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "master bedroom",
+        "large bed",
+        "modern decor",
+        "spacious room"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean lines",
+          "contemporary"
+        ]
+      },
+      "why_kept": "This segment showcases the luxurious and spacious master bedroom, a crucial and appealing part of a high-end home tour."
+    },
+    {
+      "start_time": "00:40.000",
+      "end_time": "00:45.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "sliding glass doors",
+        "balcony",
+        "pool view",
+        "luxurious exterior",
+        "blue sky"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "premium",
+          "inspiring"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright sunlight",
+          "impressive view",
+          "modern"
+        ]
+      },
+      "why_kept": "This segment highlights another interactive feature (balcony access) and provides an elevated, panoramic view of the property's exterior, including the pool, reinforcing the luxurious lifestyle the house offers."
+    }
+  ]
+}

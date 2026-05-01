@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid naughty\\ssstik.io_@effieandindie_1763985662352.mp4",
+  "detailed_description": "This short video captures a toddler with an intensely angry expression, arms crossed, standing on a paved outdoor path. When prompted by an off-camera parent, the toddler vocally expresses her frustration, revealing the humorous and relatable reason behind her anger: she wants to milk a cow. The clip effectively presents a common 'problem state' in early childhood followed by an amusing and unexpected 'key information' reveal.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.200",
+      "structural_tags": [
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Human_Interaction",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "toddler",
+        "angry expression",
+        "arms crossed",
+        "speaking",
+        "outdoor path",
+        "grass",
+        "bushes"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "handheld shot",
+          "direct address"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the semantic core because it immediately establishes the 'problem state' (the angry toddler), includes the 'human interaction' of inquiry, captures the 'emotional climax' of her explanation ('Because I want to milk the cow!'), and concludes with a subtle shift in her 'face reaction'. The video's title explicitly states its purpose is to show 'The reason why my toddler is angry..', and this segment fully delivers on that promise without any unnecessary padding or dead air. It presents the complete narrative and punchline of the video."
+    }
+  ]
+}

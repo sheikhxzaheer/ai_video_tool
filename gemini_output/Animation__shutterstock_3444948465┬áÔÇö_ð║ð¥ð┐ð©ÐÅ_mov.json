@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\shutterstock_3444948465┬áÔÇö ð║ð¥ð┐ð©ÐÅ.mov",
+  "detailed_description": "This video visually demonstrates the precise application and mechanism of a hair treatment at a microscopic level. It begins with a golden droplet falling onto a single hair follicle on what appears to be a scalp model, symbolizing direct product application. The droplet then gracefully spreads around the base of the hair, illustrating absorption into the scalp or hair roots. The animation concludes by showing numerous hair follicles with tiny, luminous particles appearing along the hair shafts, suggesting deep nourishment and strengthening action.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.200",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Micro_Nutrients_Anim",
+        "Cellular_Deep_Dive",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "golden droplet",
+        "hair follicle",
+        "scalp",
+        "hair shaft",
+        "product application",
+        "absorption",
+        "nourishment",
+        "3D animation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "3D animation",
+          "microscopic view",
+          "sleek design",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it seamlessly illustrates the core mechanism of action for a hair product, from application to its deep-level effect, which is the primary value being conveyed."
+    }
+  ]
+}

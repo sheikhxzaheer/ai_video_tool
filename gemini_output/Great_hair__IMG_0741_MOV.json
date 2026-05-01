@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\IMG_0741.MOV",
+  "detailed_description": "This video captures the detailed process of styling medium-length, dark brown hair from behind. A stylist's hands are shown actively manipulating the hair, creating texture and shaping it, followed by the application of a hair product from a spray bottle. The entire sequence focuses on enhancing the hair's natural flow and volume, demonstrating professional hair care and styling techniques.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.200",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hair styling",
+        "hands",
+        "hair product spray",
+        "textured hair",
+        "men's haircut",
+        "back of head"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean background",
+          "close-up on action"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it continuously demonstrates the primary action of the video: a person styling hair. It includes the professional process of manipulating the hair and the essential product interaction (spraying), without any significant setup, calibration, or dead air, thus representing the full value and expertise."
+    }
+  ]
+}

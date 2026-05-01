@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ssstik.io_1746984259221.mp4",
+  "detailed_description": "This video showcases a traditional Dominican home remedy for hair growth, where a mother-in-law meticulously rubs garlic pieces directly onto her daughter-in-law's scalp. The daughter-in-law, nine months postpartum, is experiencing significant hair loss, and this method is being used in an attempt to stimulate new hair growth. The entire process emphasizes the application of garlic as a natural solution to combat hair thinning.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:28.100",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Problem_State",
+        "Key_Information",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "garlic",
+        "scalp",
+        "hair",
+        "hands",
+        "mother-in-law",
+        "daughter-in-law",
+        "postpartum",
+        "hair loss remedy"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "informative",
+          "hopeful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "close-up action",
+          "traditional remedy"
+        ]
+      },
+      "why_kept": "This entire segment demonstrates the core action of applying garlic to the scalp, providing both the visual 'Process/Labor' and the crucial 'Key Information' (reason for application, perceived benefits, and 'Problem_State' of hair loss) via text overlays. There is no significant setup or dead air, making the whole clip the semantic core."
+    }
+  ]
+}

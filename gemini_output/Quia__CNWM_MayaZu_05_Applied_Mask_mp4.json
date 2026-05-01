@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\CNWM_MayaZu_05_Applied Mask.mp4",
+  "detailed_description": "The video focuses on a close-up of a person applying a clear, gel-like skincare product to their face. With gentle, deliberate motions, they spread the product across their cheek and jawline, creating a visibly dewy and hydrated effect on their skin. The segment emphasizes the smooth application process and the product's texture, highlighting a calm and focused skincare routine.",
+  "segments": [
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:09.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Macro_Detail",
+        "Aesthetic_Broll",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "applying cream",
+        "skincare product",
+        "face",
+        "glowing skin",
+        "gel texture",
+        "hand",
+        "headband"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "skin focus",
+          "dewy effect"
+        ]
+      },
+      "why_kept": "This segment is the core 'Hero Moment' as it clearly demonstrates the product interaction, showing the process of applying the skincare gel to the face. It captures the texture, the application technique, and the immediate visual effect on the skin, fulfilling the 'PROCESS/LABOR' and 'PRODUCT INTERACTION' criteria."
+    }
+  ]
+}

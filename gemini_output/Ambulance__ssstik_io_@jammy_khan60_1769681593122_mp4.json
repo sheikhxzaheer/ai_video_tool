@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@jammy.khan60_1769681593122.mp4",
+  "detailed_description": "The video captures a serene moment within a clinical setting, showcasing a patient undergoing continuous medical monitoring. An IV drip administers fluids while a vital signs monitor prominently displays real-time electrocardiogram (ECG) waveforms and key physiological data such as heart rate, oxygen saturation, and blood pressure. The steady drip of the IV and the rhythmic beeping of the monitor underscore the ongoing, attentive care provided to the patient, highlighting the process of medical treatment and observation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Data_Metrics_Chart",
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "IV drip",
+        "patient's feet",
+        "vital signs monitor",
+        "ECG waveform",
+        "heart rate",
+        "blood pressure",
+        "medical equipment",
+        "hospital bed"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "steady shot",
+          "clean medical environment",
+          "real-time data display"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the continuous medical monitoring process. It clearly shows the IV drip in action, the patient connected to the equipment, and the vital signs monitor displaying real-time data, fulfilling the 'Process/Labor' and 'Product Interaction' criteria without any extraneous footage."
+    }
+  ]
+}

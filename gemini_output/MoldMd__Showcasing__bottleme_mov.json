@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\bottleme.mov",
+  "detailed_description": "A young woman presents a product, likely a home cleaning concentrate called 'Amblom', to the camera. She demonstrates an initial interaction by pressing the pump, showing a small amount of product on her finger, and then holds the bottle, smiling and engaging with the viewer. Her positive facial expressions convey satisfaction and happiness while showcasing the product.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:20.10",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman",
+        "product bottle",
+        "cleaning concentrate",
+        "long hair",
+        "smiling",
+        "pumping product",
+        "finger"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "selfie perspective",
+          "soft focus"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it fully captures the main action of the video: the subject actively presenting and interacting with the product, demonstrating its use (pumping a small amount), and conveying positive emotion through her smiles. There are no extraneous frames or dead air; the action starts immediately and continues until the video ends, making the entire duration a 'hero moment' of product introduction."
+    }
+  ]
+}

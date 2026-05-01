@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pregnant\\ð©ð┤ðÁ╠êÐé ð▒ðÁÐÇðÁð╝ðÁð¢ð¢ð░ÐÅ 2.mp4",
+  "detailed_description": "The video features a woman who is 39+2 weeks pregnant, demonstrating the practice of 'curb walking' to potentially induce labor. She explains that many people suggested this method, acknowledging that she might look 'like a complete knob' walking up and down the curb in her neighborhood. However, she expresses a determined and humorous attitude, stating she 'couldn't give a shit' as long as it works. The entire video captures her actively performing this walk, making it her 'walk today.'",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:28.980",
+      "structural_tags": [
+        "Problem_State",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "pregnant woman",
+        "curb walking",
+        "street",
+        "neighborhood",
+        "sunglasses",
+        "baby bump"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "determined"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "daylight",
+          "handheld",
+          "direct address to camera"
+        ]
+      },
+      "why_kept": "This entire segment is kept because it fully encapsulates the 'Semantic Core' of the video. It clearly demonstrates the professional action (curb walking for labor induction) while the subject simultaneously provides key information, context, and expresses her emotional state directly to the viewer. There are no redundant frames or 'dead air' at the beginning or end, and the visual (her walking) directly supports her spoken narrative."
+    }
+  ]
+}

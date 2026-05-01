@@ -1,0 +1,157 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury hotel\\ssstik.io_@yantastic_1762421776457.mp4",
+  "detailed_description": "The video provides a captivating tour of a luxurious hotel suite, starting with the grand entrance and an initial glimpse into a private office area. It then unfolds into a spacious living room, enhanced with festive 'WELCOME' decorations and balloons, offering breathtaking panoramic views of a vibrant city and bustling harbor. The tour continues to showcase an elegant bathroom equipped with double sinks and a large bathtub, culminating in a serene and stylish bedroom that also boasts impressive city vistas, highlighting a premium and personalized travel experience.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.167",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "hand opening door",
+        "hotel door lock",
+        "suite entrance",
+        "office desk",
+        "chair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera movement",
+          "warm lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the entry into the hotel suite, serving as a visual hook to begin the tour and create anticipation for the luxurious experience inside."
+    },
+    {
+      "start_time": "00:02.167",
+      "end_time": "00:09.134",
+      "structural_tags": [
+        "Reveal_Result",
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "living room",
+        "sofa",
+        "chaise lounge",
+        "coffee table",
+        "balloons",
+        "'WELCOME' banner",
+        "city skyline",
+        "mountains",
+        "harbor",
+        "boats",
+        "panoramic windows",
+        "personalized decor"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide | medium | mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "sweeping camera pan",
+          "natural light",
+          "stunning view"
+        ]
+      },
+      "why_kept": "This extended segment is the primary 'reveal' of the suite's main living area, comprehensively showcasing its spacious design, the personalized 'WELCOME' setup, and the breathtaking panoramic views, which are the core selling points of the accommodation."
+    },
+    {
+      "start_time": "00:09.967",
+      "end_time": "00:12.634",
+      "structural_tags": [
+        "Reveal_Result",
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "bathroom",
+        "double sinks",
+        "large mirror",
+        "bathtub",
+        "toiletries",
+        "person reflection"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment highlights another key luxurious amenity of the suite, presenting the elegant and well-appointed bathroom as part of the overall premium experience."
+    },
+    {
+      "start_time": "00:13.434",
+      "end_time": "00:15.100",
+      "structural_tags": [
+        "Reveal_Result",
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "bedroom",
+        "large bed",
+        "cushioned sofa",
+        "pillows",
+        "curtains",
+        "window view"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "comfort focus"
+        ]
+      },
+      "why_kept": "This final segment completes the room tour by presenting the spacious and comfortable bedroom, reinforcing the suite's luxury and panoramic views."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\ssstik.io_@alishakatwal91_1761391720975.mp4",
+  "detailed_description": "This video visually showcases a woman's skin transformation. It begins by presenting her initial skin condition, which includes visible dark spots, redness, and imperfections. The video then transitions to reveal her 'after' state, where her skin appears significantly clearer, smoother, and more radiant, suggesting a positive change or treatment result. A subtle, satisfied smile concludes the transformation, highlighting the improved appearance.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "skin imperfections",
+        "dark spots",
+        "redness",
+        "purple headband"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state, clearly demonstrating the initial skin concerns like dark spots and redness, which are crucial for showcasing a subsequent transformation."
+    },
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:14.040",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "clear skin",
+        "radiant skin",
+        "glowing skin",
+        "smooth complexion",
+        "subtle smile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "radiant"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "clean aesthetic",
+          "luminous skin"
+        ]
+      },
+      "why_kept": "This segment is the core 'reveal' moment, showing the clear and positive transformation of the skin. The improved complexion and subtle smile serve as the direct demonstration of the desired result."
+    }
+  ]
+}

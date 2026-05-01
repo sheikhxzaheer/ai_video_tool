@@ -1,0 +1,199 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad electrolyte drink\\ssstik.io_@chemistwarehousenz_1770995502366.mp4",
+  "detailed_description": "This video highlights common symptoms like fatigue, moodiness, and sugar cravings, suggesting they could be signs of dehydration rather than lack of sleep or food. It introduces 'Two Islands Electrolyte Pineapple Salt' as a simple solution. The video demonstrates the ease of mixing the electrolyte powder into water, showcases its appealing 'Raro-like' taste, and illustrates how it can be integrated into a daily routine. The creator emphasizes the product's benefits for focus, energy, and overall well-being, concluding with a call to action to purchase it from Chemist Warehouse.",
+  "segments": [
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:05.700",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman holding bag",
+        "woman revealing pink product box"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "informational",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment introduces the product by pulling it out of a shopping bag, establishing it as the solution to the problem discussed."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:09.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Reveal_Result",
+        "Product_Standalone",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman opening box",
+        "revealing individual sachets",
+        "holding up sachet"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "informational",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment visually demonstrates the product's packaging and the individual sachet format, showing the 'reveal' of the contents."
+    },
+    {
+      "start_time": "00:10.700",
+      "end_time": "00:16.800",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "getting water from dispenser",
+        "tearing open sachet",
+        "pouring powder into glass",
+        "stirring drink"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "informational",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear demonstration",
+          "focus on action"
+        ]
+      },
+      "why_kept": "This is the core 'process' segment, demonstrating the primary action of preparing the electrolyte drink, which is central to the product's use."
+    },
+    {
+      "start_time": "00:17.000",
+      "end_time": "00:21.800",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman sipping drink",
+        "woman's happy facial expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "positive",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural reaction",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment captures the immediate positive interaction with the product through sipping and an implied positive emotional response."
+    },
+    {
+      "start_time": "00:22.000",
+      "end_time": "00:25.800",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Product_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman sipping drink at desk",
+        "working on computer"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "productive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "integrated into routine",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment illustrates how the product can be easily incorporated into a daily routine, enhancing focus during work."
+    },
+    {
+      "start_time": "00:26.500",
+      "end_time": "00:32.400",
+      "structural_tags": [
+        "Macro_Detail",
+        "Product_Standalone",
+        "Key_Information",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "hand holding sachet",
+        "product ingredients visible",
+        "text overlay for purchase information"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "informational",
+          "clear"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed view",
+          "clear text overlay"
+        ]
+      },
+      "why_kept": "This segment provides crucial product details, highlights ingredients, and delivers a clear call to action (CTA) for purchasing the product."
+    }
+  ]
+}

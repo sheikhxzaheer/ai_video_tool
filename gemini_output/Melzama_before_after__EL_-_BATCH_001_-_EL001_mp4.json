@@ -1,0 +1,79 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\EL - BATCH 001 - EL001.mp4",
+  "detailed_description": "This video concisely showcases a significant skin transformation through a 'Before and After' comparison. It opens with a close-up of a woman's face exhibiting visible skin imperfections, followed by a quick visual transition. The video then reveals the same woman with noticeably clearer, glowing, and improved skin, accompanied by a subtle, satisfied smile, effectively highlighting the positive results of a skincare routine or treatment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.300",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "skin imperfections",
+        "headband",
+        "blemishes",
+        "freckles"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "neutral"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "soft focus"
+        ]
+      },
+      "why_kept": "This segment establishes the 'Before' state, clearly showing the initial skin condition and setting up the problem that the product/routine aims to solve. It serves as the visual hook for the transformation."
+    },
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "clear skin",
+        "glowing skin",
+        "smile",
+        "transformation",
+        "smooth skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "clear focus",
+          "smooth transition effect"
+        ]
+      },
+      "why_kept": "This segment is the 'After' state, showcasing the successful transformation with visibly improved, clearer skin and a positive facial expression. The quick blur transition emphasizes the change, making this the core 'reveal' of the video's value proposition."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Washes head\\Water rinsing off shampoo.mov",
+  "detailed_description": "The video captures a man in a modern, marble-tiled shower as he meticulously washes his hair. He applies shampoo, creating a rich lather that cascades down his face and chest, demonstrating a thorough cleansing process. As the water from the shower head rinses away the suds, his focused and content expressions convey a sense of refreshment and relaxation. The scene effectively highlights a personal care routine, emphasizing the invigorating experience of a shower.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.464",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Morning_Routine",
+        "Calm_Relaxation",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "shower",
+        "water",
+        "shampoo",
+        "foam",
+        "washing hair",
+        "rinsing",
+        "beard",
+        "marble tiles",
+        "shower head"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "refreshing"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "water splashes",
+          "clean aesthetic",
+          "focused action"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the complete process of washing hair in the shower. It clearly shows the product interaction (shampooing and rinsing), the human interaction with the water, and the man's positive facial expressions of contentment and relaxation during a common morning routine. There is no setup or dead air, making the whole clip the hero moment."
+    }
+  ]
+}

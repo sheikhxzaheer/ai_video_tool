@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Woman\\7.mov",
+  "detailed_description": "This video showcases a woman actively engaged in work within a bright, simple office setting. She is seen from a medium shot, typing on a silver laptop at a wooden desk. Throughout the footage, she maintains a focused expression, occasionally glancing up with a pleasant smile, conveying a sense of calm productivity and satisfaction with her task. The clip captures the essence of a diligent individual performing professional work.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:11.75",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Workspace_Office",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "typing",
+        "laptop",
+        "desk",
+        "smiling",
+        "hands"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clear focus",
+          "minimalist background"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it perfectly captures the primary action and emotional tone of the video from beginning to end. The woman is actively typing and smiling, demonstrating the core 'process/labor' and 'product interaction' with a clear 'emotional climax' of positive engagement, aligning with multiple hero moment criteria. There is no setup, dead air, or extraneous footage to trim."
+    }
+  ]
+}

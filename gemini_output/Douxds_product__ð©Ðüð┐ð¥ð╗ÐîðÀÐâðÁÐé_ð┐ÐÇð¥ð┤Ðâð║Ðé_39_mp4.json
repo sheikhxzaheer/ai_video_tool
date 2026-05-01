@@ -1,0 +1,249 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Douxds product\\ð©Ðüð┐ð¥ð╗ÐîðÀÐâðÁÐé ð┐ÐÇð¥ð┤Ðâð║Ðé 39.mp4",
+  "detailed_description": "The video showcases a men's skincare routine using Douxds products. It demonstrates the application of a facial cleanser, followed by the use of a specialized facial cleansing device for deep cleaning. The user then rinses and dries his face, revealing a refreshed and satisfied look. The routine concludes with the application of an additional Douxds product, emphasizing a complete and effective skincare regimen for men.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.800",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Morning_Routine",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "man",
+        "applying product",
+        "face",
+        "hands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment initiates the routine with product application, establishing the context of skincare."
+    },
+    {
+      "start_time": "00:01.800",
+      "end_time": "00:03.400",
+      "structural_tags": [
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "douxds products",
+        "bottles",
+        "cleansing device",
+        "counter"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "sleek design",
+          "product showcase",
+          "minimalist"
+        ]
+      },
+      "why_kept": "This segment introduces the specific products being used, providing brand and product recognition."
+    },
+    {
+      "start_time": "00:03.400",
+      "end_time": "00:04.300",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hands",
+        "dispensing product",
+        "cleansing device"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed action",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment shows the preparation phase, demonstrating how the product is loaded into the device, which is a key product interaction."
+    },
+    {
+      "start_time": "00:04.300",
+      "end_time": "00:11.200",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Process_Labor",
+        "Morning_Routine",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "facial cleansing device",
+        "cleansing face",
+        "rinsing",
+        "drying",
+        "towel",
+        "smile",
+        "reflection"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic angles",
+          "natural lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This is the core 'Hero Moment' demonstrating the main product (cleansing device) in action, the full cleansing process, and the immediate positive result/reaction, making it the most visually coherent and context-setting segment."
+    },
+    {
+      "start_time": "00:11.200",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Morning_Routine",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "man",
+        "applying product",
+        "face",
+        "hands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment shows the application of a follow-up product, completing the demonstrated skincare routine."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "douxds CRUSH",
+        "product bottle",
+        "hand"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused shot",
+          "brand visibility"
+        ]
+      },
+      "why_kept": "This close-up highlights the specific product being applied, enhancing product recognition and interaction."
+    },
+    {
+      "start_time": "00:14.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hands",
+        "dispensing product",
+        "finger",
+        "douxds CRUSH"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed action",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment clearly shows the precise dispensing of the product, which is a direct product interaction."
+    }
+  ]
+}

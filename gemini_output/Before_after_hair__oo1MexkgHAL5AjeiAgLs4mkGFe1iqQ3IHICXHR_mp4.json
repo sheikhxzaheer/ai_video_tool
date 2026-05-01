@@ -1,0 +1,86 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\oo1MexkgHAL5AjeiAgLs4mkGFe1iqQ3IHICXHR.mp4",
+  "detailed_description": "This video depicts a man's journey from experiencing significant hair loss to finding a solution. It begins by showcasing his thinning hair and his initial frustration, leading him to consider shaving his head as a last resort. After explicitly rejecting this drastic measure, the video transitions to a \"before and after\" scenario, where his hair is visibly thicker, attributed to the introduction of Minoxidil. The video concludes with the man confidently flexing in a gym, symbolizing his renewed self-assurance and the positive lifestyle impact of his hair regrowth.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.667",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Emotional_Climax"
+      ],
+      "visual_keywords": [
+        "man",
+        "thinning hair",
+        "receding hairline",
+        "hair clippers",
+        "shaving head",
+        "frustrated expression",
+        "laughing",
+        "concerned expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "frustrated",
+          "determined"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "vanity mirror shot",
+          "direct address to camera"
+        ]
+      },
+      "why_kept": "This segment immediately grabs attention by showing a relatable problem (hair loss) and the emotional struggle, including an extreme, undesirable reaction (shaving) before explicitly rejecting it. This creates a strong hook and establishes the need for a better solution, providing essential context for the 'after' state."
+    },
+    {
+      "start_time": "00:08.667",
+      "end_time": "00:14.333",
+      "structural_tags": [
+        "Product_Intro",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "gym",
+        "fuller hair",
+        "touching hair",
+        "confident expression",
+        "flexing muscles"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "confident",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "gym lighting",
+          "dynamic camera movement",
+          "triumphant pose"
+        ]
+      },
+      "why_kept": "This segment introduces the solution (Minoxidil, via text overlay) and visually demonstrates the positive outcome, both in terms of improved hair density and the resulting boost in confidence and vitality. It serves as the main 'reveal' of the transformation and the benefits derived from the implied product."
+    }
+  ]
+}

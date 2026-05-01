@@ -1,0 +1,104 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Man\\ssstik.io_@peterpandeveloper_1770895044422.mp4",
+  "detailed_description": "This video captures the essence of a dynamic and ergonomic workspace, showcasing the seamless transition between standing and sitting work positions. The user demonstrates the core functionality of an electric standing desk, effortlessly adjusting its height with a simple button press. The sequence highlights active 'process/labor' as the user engages in coding and productivity tasks, emphasizing the desk's role in enhancing flexibility and maintaining focus throughout the workday within a modern tech-savvy office setup.",
+  "segments": [
+    {
+      "start_time": "00:05.500",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Process_Labor",
+        "Workspace_Office",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "standing desk",
+        "monitors",
+        "laptop",
+        "keyboard",
+        "mouse",
+        "typing",
+        "coding",
+        "office setup",
+        "LED lights",
+        "wood paneling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "energetic",
+          "premium",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean setup",
+          "modern tech",
+          "dynamic transitions",
+          "productive atmosphere",
+          "warm lighting"
+        ]
+      },
+      "why_kept": "This segment is kept as an ANCHOR because it directly demonstrates the primary feature of the standing desk (raising mechanism) and shows the user actively engaged in professional work while standing, showcasing the 'Process/Labor' and 'Product Interaction' hero moments effectively."
+    },
+    {
+      "start_time": "00:14.500",
+      "end_time": "00:23.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Process_Labor",
+        "Workspace_Office",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "standing desk",
+        "monitors",
+        "laptop",
+        "keyboard",
+        "mouse",
+        "typing",
+        "coding",
+        "office setup",
+        "LED lights",
+        "wood paneling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "energetic",
+          "premium",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean setup",
+          "modern tech",
+          "dynamic transitions",
+          "productive atmosphere",
+          "warm lighting"
+        ]
+      },
+      "why_kept": "This segment is also kept as an ANCHOR as it complements the first, demonstrating the other core feature of the standing desk (lowering mechanism) and the user continuing their 'Process/Labor' in a sitting position, reinforcing the ergonomic flexibility and productivity benefits."
+    }
+  ]
+}

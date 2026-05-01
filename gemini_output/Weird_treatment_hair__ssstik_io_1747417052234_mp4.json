@@ -1,0 +1,155 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ssstik.io_1747417052234.mp4",
+  "detailed_description": "This video captures a man attempting to shave his head using only coconut oil as a lubricant, prompted by a user's comment. It documents the entire process, from applying the oil and its initial consistency to the actual shaving, including his reactions to the razor's glide and the oil's properties. The video concludes with his overall rating of the experience, offering a humorous take on the unconventional shaving method.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.833",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "man",
+        "razor",
+        "coconut oil jar",
+        "text overlay",
+        "comment bubble"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "eye-level shot"
+        ]
+      },
+      "why_kept": "This segment serves as the visual hook and problem statement, introducing the product and the challenge, directly referencing a user's comment, which is crucial for context."
+    },
+    {
+      "start_time": "00:02.133",
+      "end_time": "00:04.933",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "man",
+        "applying coconut oil",
+        "bald head",
+        "rubbing",
+        "white substance"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "close-up on action"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial application of the coconut oil, showing the first step of the shaving process and direct interaction with the product."
+    },
+    {
+      "start_time": "00:05.800",
+      "end_time": "00:15.300",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Emotional_Climax"
+      ],
+      "visual_keywords": [
+        "man",
+        "shaving head",
+        "razor",
+        "coconut oil",
+        "goggles",
+        "oil dripping",
+        "facial expressions",
+        "grimace"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "frustrated",
+          "observational"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "action shot",
+          "dramatic effect with dripping oil"
+        ]
+      },
+      "why_kept": "This is the primary hero moment, showcasing the actual shaving process with the coconut oil. It includes direct product interaction, a clear demonstration of labor, and a visible emotional reaction to the experience, making it the core action of the video."
+    },
+    {
+      "start_time": "00:17.033",
+      "end_time": "00:19.466",
+      "structural_tags": [
+        "Result_Transformation",
+        "Key_Information",
+        "Positive_Emotion",
+        "Offer_CTA",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "bald head",
+        "plungers on head",
+        "rating text",
+        "follow for more",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "humorous",
+          "conclusive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "final reveal",
+          "text overlay"
+        ]
+      },
+      "why_kept": "This segment provides the 'reveal' and 'result' of the experiment, delivering the key information (the rating) and a humorous conclusion, along with a call to action."
+    }
+  ]
+}

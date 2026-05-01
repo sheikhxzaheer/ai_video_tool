@@ -1,0 +1,119 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\Bald spot\\ssstik.io_1703156234505.mp4",
+  "detailed_description": "This video showcases the transformative effect of scalp micropigmentation (SMP) on a client experiencing alopecia areata, characterized by patchy baldness. The initial segments clearly present the 'before' state of the scalp, highlighting the uneven hair growth and bare patches. Subsequent footage reveals the 'after' state, demonstrating how SMP creates a consistent, dense, shaven-head appearance by replicating hair follicles. The video concludes with powerful split-screen comparisons, effectively illustrating the dramatic improvement achieved through the treatment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "baldness",
+        "patchy hair",
+        "alopecia areata",
+        "shaved head",
+        "scalp",
+        "beard"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean lighting",
+          "neutral background",
+          "close up"
+        ]
+      },
+      "why_kept": "This segment is crucial as it clearly establishes the 'Problem_State' of the client's scalp before any treatment, providing the necessary context for the subsequent transformation. It serves as the primary 'before' reference."
+    },
+    {
+      "start_time": "00:08.500",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "scalp micropigmentation",
+        "SMP dots",
+        "denser hair illusion",
+        "shaven look",
+        "beard"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "neutral background",
+          "soft shadows"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial 'After' state (post-first SMP session), showcasing the direct result of the scalp micropigmentation from various angles and creating a visual bridge to the final comparative reveal."
+    },
+    {
+      "start_time": "00:19.000",
+      "end_time": "00:28.000",
+      "structural_tags": [
+        "Before_After",
+        "Split_Screen",
+        "Result_Transformation",
+        "Social_Proof",
+        "Positive_Emotion",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "man",
+        "scalp micropigmentation",
+        "SMP",
+        "patchy baldness",
+        "shaved head look",
+        "hair density",
+        "visual comparison",
+        "alopecia areata"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "impactful",
+          "transformative",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "side-by-side comparison",
+          "clear visual contrast",
+          "dynamic presentation"
+        ]
+      },
+      "why_kept": "These split-screen segments are the ultimate 'reveal' and the core 'Hero Moment,' directly comparing the 'before' and 'after' states from multiple angles. They unequivocally demonstrate the dramatic and successful transformation achieved by the SMP treatment, making it the strongest context-setting clip for the video's message."
+    }
+  ]
+}

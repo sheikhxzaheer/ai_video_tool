@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Skin is peeled off\\snaptik_7375908642626882817.mp4",
+  "detailed_description": "This video captures a precise facial skin treatment, likely a chemical peel or deep exfoliation, as layers of treated skin are meticulously removed with tweezers. The focus is on the intricate process of peeling, revealing the smoother, refreshed skin beneath. The entire sequence highlights the mechanism of action and the immediate visual transformation achieved by the treatment.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:51.68",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Macro_Detail",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "peeling skin",
+        "tweezers",
+        "gloved hand",
+        "facial treatment",
+        "exfoliation",
+        "eye area",
+        "nose area",
+        "forehead"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "calm",
+          "transformative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "meticulous detail",
+          "skin texture focus",
+          "steady camera",
+          "clear visibility"
+        ]
+      },
+      "why_kept": "This entire segment serves as the core demonstration of the skin peeling process, showcasing the 'Process/Labor' of the treatment, the 'Product Interaction' (tweezers with skin/peel), and the 'Result/Transformation' as new skin is revealed. No setup, calibration, or dead air is present; the action is continuous and vital to understanding the procedure's value."
+    }
+  ]
+}

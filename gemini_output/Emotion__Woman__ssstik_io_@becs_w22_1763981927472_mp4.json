@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Emotion\\Woman\\ssstik.io_@becs.w22_1763981927472.mp4",
+  "detailed_description": "This video humorously depicts the 'friend that gets shocked at everything' through a series of exaggerated facial expressions. A young woman, styled with pigtails and a casual top, rapidly shifts between neutral and wide-eyed, open-mouthed looks of shock and surprise, sometimes covering her mouth with her hand. The quick succession of reactions, set to a playful beat, visually illustrates the concept of someone easily and repeatedly startled.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Face_Reaction",
+        "Shock_Surprise",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "woman",
+        "shocked expression",
+        "surprised face",
+        "wide eyes",
+        "open mouth",
+        "hand over mouth",
+        "pigtails",
+        "casual attire"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "clean background",
+          "humorous editing"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, directly fulfilling the 'POV' prompt by showcasing a continuous sequence of dramatic and varied surprised reactions. The repeated shifts in expression are crucial to demonstrating the trait of 'gets shocked at everything,' making the whole clip essential for the intended humor and message. No parts were trimmed as the entire duration contributes to the comedic timing and visual storytelling."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid sleep\\ssstik.io_@blessedbabies17_1763678778099.mp4",
+  "detailed_description": "The video presents a heartwarming scene of a young child sleeping soundly on a bed adorned with colorful, patterned pillows and a bolster. The child, dressed in comfortable casual wear, is surrounded by a peaceful and nurturing environment. An overlaid text message, \"mapapagod pero hindi susuko para sa ating mga anak\" (meaning \"tired but will not give up for our children\"), conveys a profound message of parental love, resilience, and unwavering dedication. The combination of the serene visual and the poignant text evokes a strong sense of warmth and relatability regarding the sacrifices and efforts parents make for their children.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.999",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "child sleeping",
+        "bed",
+        "pillows",
+        "bolster",
+        "rainbow design",
+        "cartoon characters",
+        "gingham sheet",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "warm colors",
+          "candid"
+        ]
+      },
+      "why_kept": "This segment constitutes the entire video and serves as the semantic core. It powerfully combines the visual of a peacefully sleeping child with the overlaid text, which delivers the key emotional message of parental dedication and resilience. No trimming is necessary as the action and message are consistent throughout, embodying the emotional climax and core information of the video."
+    }
+  ]
+}

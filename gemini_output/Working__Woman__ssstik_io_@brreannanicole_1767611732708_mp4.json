@@ -1,0 +1,150 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Woman\\ssstik.io_@brreannanicole_1767611732708.mp4",
+  "detailed_description": "This video provides a glimpse into a typical workday in an office setting, framed as a 'come to work with me' vlog. It captures the essential routine of starting the day, from arriving at the desk and setting up the workspace to engaging in various tasks such as active computer work (typing and interacting with dual monitors), moments of thoughtful contemplation, and handling physical documents and note-taking. The video effectively showcases the process and labor involved in daily office work, emphasizing productivity and focus.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.425",
+      "structural_tags": [
+        "Morning_Routine",
+        "Workspace_Office",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Woman arriving",
+        "Placing coffee cup",
+        "Sitting down",
+        "Office desk",
+        "Computer setup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "productive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "established shot"
+        ]
+      },
+      "why_kept": "This segment introduces the start of the workday, showing the subject arriving at her workstation and preparing to begin, establishing the context of the video."
+    },
+    {
+      "start_time": "00:05.475",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Workspace_Office",
+        "Human_Interaction",
+        "The_Process/Labor",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Typing on keyboard",
+        "Dual monitors",
+        "Computer work",
+        "Desk setup"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "focused",
+          "productive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "dynamic angles",
+          "close-up on hands"
+        ]
+      },
+      "why_kept": "This is the primary hero moment, demonstrating the core 'work' activity of typing and interacting with a computer, which is central to an office job. It shows the main 'labor' aspect."
+    },
+    {
+      "start_time": "00:12.000",
+      "end_time": "00:13.500",
+      "structural_tags": [
+        "Workspace_Office",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "Woman thinking",
+        "Hands clasped",
+        "Contemplation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "thoughtful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "still moment",
+          "reflective lighting"
+        ]
+      },
+      "why_kept": "This segment captures a moment of contemplation, which is an integral part of intellectual work and problem-solving, adding depth to the 'process' of working."
+    },
+    {
+      "start_time": "00:14.300",
+      "end_time": "00:18.820",
+      "structural_tags": [
+        "Workspace_Office",
+        "Human_Interaction",
+        "The_Process/Labor",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Handling papers",
+        "Writing notes",
+        "Notebook",
+        "Pen"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "focused",
+          "productive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean desk",
+          "organized workspace",
+          "practical action"
+        ]
+      },
+      "why_kept": "This segment illustrates another common office activity – managing physical documents and taking notes, showcasing a different aspect of the workday beyond digital tasks."
+    }
+  ]
+}

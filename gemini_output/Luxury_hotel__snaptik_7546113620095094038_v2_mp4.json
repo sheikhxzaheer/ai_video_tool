@@ -1,0 +1,369 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury hotel\\snaptik_7546113620095094038_v2.mp4",
+  "detailed_description": "This video showcases a luxurious stay at Hotel Motto in Vienna, highlighting the exquisite details and comprehensive amenities offered. It begins with a serene morning scene in a stylish hotel room, featuring comfortable furnishings, a well-appointed bathroom, and personalized touches like in-room tea service. The video then transitions to reveal the hotel's elegant common areas, including a vibrant lobby and a lively rooftop bar adorned with lush greenery. The experience culminates with a tempting display of diverse culinary offerings, emphasizing the hotel's commitment to a premium dining experience for its guests.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.864",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Human_Interaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "book",
+        "hotel room",
+        "warm lighting"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "cozy",
+          "warm",
+          "minimal"
+        ]
+      },
+      "why_kept": "Serves as an inviting visual hook, setting the luxurious and relaxed tone of the hotel stay with a person interacting with the room."
+    },
+    {
+      "start_time": "00:00.864",
+      "end_time": "00:01.464",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "hotel room",
+        "bed",
+        "bathroom vanity",
+        "curtains",
+        "lighting"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "spacious",
+          "modern classic"
+        ]
+      },
+      "why_kept": "Provides a wider perspective of the elegantly designed hotel room, showcasing the integrated bathroom area and overall ambiance."
+    },
+    {
+      "start_time": "00:01.464",
+      "end_time": "00:02.394",
+      "structural_tags": [
+        "Product_Interaction",
+        "Morning_Routine",
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "hand",
+        "kettle",
+        "tea",
+        "cup",
+        "macarons",
+        "vintage radio",
+        "bedside table"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "cozy",
+          "detailed",
+          "warm lighting"
+        ]
+      },
+      "why_kept": "This segment is a clear 'Hero Moment' demonstrating direct product interaction—the pouring of tea—highlighting a thoughtful in-room amenity and a relaxing morning experience."
+    },
+    {
+      "start_time": "00:02.394",
+      "end_time": "00:03.204",
+      "structural_tags": [
+        "Morning_Routine",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "curtains",
+        "window",
+        "street view",
+        "trees"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "serene"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "airy"
+        ]
+      },
+      "why_kept": "Illustrates the beginning of a day at the hotel, emphasizing the room's natural light and connection to the outside environment."
+    },
+    {
+      "start_time": "00:03.204",
+      "end_time": "00:04.294",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "sitting area",
+        "green couch",
+        "patterned rug",
+        "lamps",
+        "mirror",
+        "curtains"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "stylish"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "eclectic",
+          "art deco",
+          "designer"
+        ]
+      },
+      "why_kept": "Showcases a separate, well-designed lounge area within the room, indicating spaciousness and additional comfort zones."
+    },
+    {
+      "start_time": "00:04.294",
+      "end_time": "00:05.104",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "cocktail shaker",
+        "glasses",
+        "lemon",
+        "lime",
+        "bedside table",
+        "bed"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "inviting"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "sophisticated",
+          "detailed"
+        ]
+      },
+      "why_kept": "Highlights the availability of high-end in-room amenities, suggesting a refined evening experience."
+    },
+    {
+      "start_time": "00:05.104",
+      "end_time": "00:06.014",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "bathroom",
+        "vanity",
+        "sink",
+        "mirror",
+        "bathrobes",
+        "toiletries",
+        "hanging pendants"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "functional"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "luxurious",
+          "clean",
+          "warm lighting"
+        ]
+      },
+      "why_kept": "Displays the hotel's well-appointed bathroom and provided comforts, emphasizing attention to guest needs."
+    },
+    {
+      "start_time": "00:06.014",
+      "end_time": "00:07.134",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Visual_Hook",
+        "Product_Intro",
+        "Hotel_Lobby"
+      ],
+      "visual_keywords": [
+        "hotel lobby",
+        "lounge",
+        "pink chairs",
+        "red couch",
+        "plants",
+        "arched window",
+        "wall art"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "unique"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "boutique",
+          "colorful",
+          "artistic"
+        ]
+      },
+      "why_kept": "Introduces the hotel by name and showcases its distinct, stylish common areas, inviting guests to explore beyond their room."
+    },
+    {
+      "start_time": "00:07.134",
+      "end_time": "00:08.064",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "High_Energy",
+        "Human_Interaction",
+        "Hotel_Lobby"
+      ],
+      "visual_keywords": [
+        "rooftop bar",
+        "hanging plants",
+        "people",
+        "bar counter",
+        "modern architecture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "trendy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "vibrant",
+          "botanical",
+          "social"
+        ]
+      },
+      "why_kept": "Highlights a dynamic and popular amenity, the rooftop bar, signifying the hotel's lively social offerings and appealing atmosphere."
+    },
+    {
+      "start_time": "00:08.064",
+      "end_time": "00:09.300",
+      "structural_tags": [
+        "Product_Interaction",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Food_Service",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "hand",
+        "cocktail",
+        "food",
+        "schnitzel",
+        "burger",
+        "fries",
+        "flowers",
+        "table",
+        "restaurant",
+        "window view"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "appetizing"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "diverse cuisine",
+          "elegant presentation",
+          "culinary"
+        ]
+      },
+      "why_kept": "This is a key 'Hero Moment' showcasing the hotel's culinary excellence through the attractive presentation of multiple dishes and a direct interaction, representing the 'reveal' of a delightful dining experience."
+    }
+  ]
+}

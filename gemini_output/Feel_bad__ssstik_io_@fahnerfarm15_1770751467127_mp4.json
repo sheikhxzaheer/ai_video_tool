@@ -1,0 +1,199 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Feel bad\\ssstik.io_@fahnerfarm15_1770751467127.mp4",
+  "detailed_description": "This poignant video captures a young girl's emotional journey as she is wheeled into surgery. Visibly scared and crying, she receives comforting words and physical reassurance from her parents or caregivers. They encourage her to look for a 'fairy door' as a coping mechanism and promise treats upon waking. Despite her fear, the girl bravely gives a thumbs-up, showcasing resilience and the power of love and positive distraction during a challenging moment, symbolizing her courage amidst vulnerability.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.300",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "girl crying",
+        "hospital bed",
+        "adult hand holding child's hand"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "clinical background"
+        ]
+      },
+      "why_kept": "This segment establishes the problem state and emotional climax of the girl's fear before surgery, immediately followed by the comforting human interaction and reassurance from an adult."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:09.500",
+      "structural_tags": [
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Emotional_Climax"
+      ],
+      "visual_keywords": [
+        "girl looking up",
+        "nodding",
+        "discussing fairy door"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "gentle lighting"
+        ]
+      },
+      "why_kept": "This segment introduces a key coping mechanism ('fairy door') and shows a brief, positive emotional shift in the girl as she acknowledges the comforting idea, serving as an emotional anchor for resilience."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:19.300",
+      "structural_tags": [
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "adult stroking child's arm",
+        "girl holding toy unicorn",
+        "bed moving"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft focus",
+          "reassuring touch"
+        ]
+      },
+      "why_kept": "This segment reinforces the ongoing human interaction and physical comfort provided to the girl as she is being moved, highlighting continuous support during a stressful process."
+    },
+    {
+      "start_time": "00:36.000",
+      "end_time": "00:40.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "girl crying",
+        "adult talking",
+        "fairy door"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused on interaction"
+        ]
+      },
+      "why_kept": "This segment reiterates the comforting 'fairy door' narrative, showing the persistent effort to distract and reassure the girl, emphasizing the emotional connection during a difficult moment."
+    },
+    {
+      "start_time": "00:50.000",
+      "end_time": "00:54.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "girl gives thumbs up",
+        "hospital bed"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "positive",
+          "brave"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focus on gesture",
+          "symbol of courage"
+        ]
+      },
+      "why_kept": "This is the core emotional climax and reveal of the video, where the girl demonstrates remarkable bravery and resilience by giving a thumbs-up despite her obvious fear, symbolizing her strength."
+    },
+    {
+      "start_time": "00:54.000",
+      "end_time": "00:58.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "adult touching child's hand",
+        "girl's face",
+        "words of encouragement"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "calm",
+          "supportive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "intimate moment",
+          "reassuring"
+        ]
+      },
+      "why_kept": "This final close-up shows the last tender moment of physical and verbal encouragement, reinforcing the profound human connection and love before the girl is fully moved out of sight."
+    }
+  ]
+}

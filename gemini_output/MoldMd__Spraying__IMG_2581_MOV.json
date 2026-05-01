@@ -1,0 +1,39 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Spraying\\IMG_2581.MOV",
+  "detailed_description": "This video captures a close-up, overhead perspective of a hand actively applying a cleaning product, MoldMD Mold Spot Remover, to a visibly dirty bathtub drain. The white solution is sprayed directly onto the dark grime and mold accumulating around the drain, indicating the initiation of a cleaning task. The continuous spraying demonstrates the product's direct interaction and its intended mechanism of action for removing stains and mold in a home bathroom setting. It clearly shows the 'process' of tackling a common household cleaning problem.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:10.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "hand spraying cleaner",
+        "MoldMD bottle",
+        "dirty bathtub drain",
+        "white bathtub",
+        "cleaning solution"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it perfectly encapsulates the 'Semantic Core' by demonstrating direct product interaction and the mechanism of action. The hand is shown actively using the MoldMD cleaner on a dirty bathtub drain from the very beginning to the very end of the clip, with no setup, calibration, or post-action dead air. It clearly shows the 'doing the work' hero moment, where the product is applied to address the problem state of the dirty drain."
+    }
+  ]
+}

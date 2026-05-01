@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@vanessabnsel_1770996694226.mp4",
+  "detailed_description": "This video captures the intense first-person perspective of a patient receiving urgent medical attention in a hospital room. Two nurses rush towards the bed, quickly preparing and deploying a breathing mask. The clip culminates in a close-up shot from inside the mask, emphasizing the immediate and critical nature of the intervention. The rapid movements and direct perspective convey a sense of urgency and direct patient experience.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.417",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Urgency_Rush",
+        "Macro_Detail",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "nurses",
+        "hospital room",
+        "breathing mask",
+        "ambu bag",
+        "patient perspective",
+        "urgent care",
+        "medical equipment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "urgent",
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "POV shot",
+          "first-person perspective",
+          "rapid motion",
+          "medical setting"
+        ]
+      },
+      "why_kept": "This entire segment represents the core action and value of the video, showing the urgent medical intervention from the patient's direct point of view. It clearly demonstrates 'The Process/Labor' of the nurses and 'Product Interaction' with the breathing mask. There is no setup, calibration, or dead air; the action is continuous and purposeful from start to finish."
+    }
+  ]
+}

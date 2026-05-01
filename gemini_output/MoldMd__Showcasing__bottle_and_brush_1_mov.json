@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\bottle and brush 1.mov",
+  "detailed_description": "This video features a man in a modern bathroom enthusiastically presenting 'MoldMD Mold Spot Remover' and a cleaning brush. He smiles warmly and gives a thumbs-up gesture, confidently endorsing the product. The segment highlights the product's packaging and implies effectiveness through a positive facial expression and interaction, serving as a clear introduction and approval of the cleaning solution.",
+  "segments": [
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:12.750",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "smile",
+        "thumbs-up",
+        "spray bottle",
+        "MoldMD",
+        "cleaning brush",
+        "bathroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "positive",
+          "enthusiastic",
+          "approving"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct address",
+          "clear product view"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it perfectly captures the 'Product Interaction' and 'Emotional Climax' hero moments. The man clearly presents the product, smiles, and gives a thumbs-up, conveying a positive endorsement. It's trimmed to start exactly when his positive facial expression and interaction with the brush begin, removing the initial static pose."
+    }
+  ]
+}

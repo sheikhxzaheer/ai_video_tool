@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_19.mp4",
+  "detailed_description": "This video demonstrates the simple, satisfying process of putting a pillow into a pillowcase. It focuses on the hands-on interaction with the bedding, showcasing the ease with which a fluffy pillow from 'FLUFF CO' is enveloped. The scene highlights a common home task, emphasizing the product interaction and the resulting neatness of the pillow once fully encased.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.220",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Home"
+      ],
+      "visual_keywords": [
+        "hands",
+        "pillow",
+        "pillowcase",
+        "bedding",
+        "FLUFF CO bag",
+        "bed"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "everyday task"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully captures the main action and process of putting a pillow into a pillowcase, which is the clear demonstration of product interaction and a household mechanism. The entire duration shows continuous action without any setup or post-action dead air, adhering to the 'no-mistake' rule."
+    }
+  ]
+}

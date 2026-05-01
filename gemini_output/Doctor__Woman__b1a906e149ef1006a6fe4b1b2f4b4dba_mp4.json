@@ -1,0 +1,111 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Woman\\b1a906e149ef1006a6fe4b1b2f4b4dba.mp4",
+  "detailed_description": "This video educates viewers about sleep apnea, detailing its symptoms, causes, and the critical importance of treatment. It features a doctor explaining the condition, complemented by a 3D animated sequence that visually demonstrates how sleep apnea obstructs the airway and how a mandibular advancement device can effectively keep it open. The video highlights serious health risks associated with untreated sleep apnea and concludes by offering various treatment options, encouraging viewers to seek professional help from Restoration Smiles for personalized care.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.100",
+      "structural_tags": [
+        "Key_Information",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "doctor speaking",
+        "explaining sleep apnea",
+        "mandibular advancement devices"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "professional lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment introduces the topic of sleep apnea and mentions effective treatment options like oral appliances, setting the context for the visual explanation that follows. It delivers key information verbally."
+    },
+    {
+      "start_time": "00:15.100",
+      "end_time": "00:41.100",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Problem_State",
+        "Result_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "3D animation",
+        "human head",
+        "airway obstruction",
+        "tongue",
+        "mandible movement",
+        "airflow",
+        "oral appliance"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "educational"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "medical animation",
+          "anatomical detail",
+          "clear visual demonstration"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it visually demonstrates the mechanism of sleep apnea—the collapse of the airway—and illustrates how a mandibular advancement device works to resolve this, offering a clear and concise explanation of the problem and solution."
+    },
+    {
+      "start_time": "00:41.100",
+      "end_time": "01:25.200",
+      "structural_tags": [
+        "Key_Information",
+        "Offer_CTA",
+        "UGC_Talking_Head",
+        "Financial_Stress"
+      ],
+      "visual_keywords": [
+        "doctor speaking",
+        "health risks",
+        "treatment options",
+        "booking appointment"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical",
+          "urgent"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "professional lighting",
+          "direct address",
+          "informative"
+        ]
+      },
+      "why_kept": "This segment provides crucial information about the causes and serious health consequences of untreated sleep apnea, emphasizing the urgency of treatment, and concludes with a clear call to action for booking an appointment, thus completing the narrative framework."
+    }
+  ]
+}

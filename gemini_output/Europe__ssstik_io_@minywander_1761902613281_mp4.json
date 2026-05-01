@@ -1,0 +1,594 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Europe\\ssstik.io_@minywander_1761902613281.mp4",
+  "detailed_description": "This video serves as a visual guide showcasing '9 Fairytale Places in Europe'. The semantic core is demonstrated through a rapid montage of distinct and picturesque European travel destinations. Each segment presents a unique location, from the rolling hills and cypress-lined roads of Val d'Orcia, Tuscany, to the majestic monastery nestled in the mountains of Montserrat, Spain. It further highlights the iconic white and blue architecture of Santorini, Greece, the charming canals and half-timbered houses of Colmar, France, and the traditional windmills of Zaanse Schans, Netherlands. The compilation continues with the historic streets of Valldemossa, Mallorca, the grand Plaza de España in Seville, Spain, the idyllic bougainvillea-covered homes of Paros, Greece, and the stunning cityscape and architecture of Prague, Czech Republic. The video's value lies in visually revealing these beautiful locations, inspiring wanderlust and showcasing their unique charm.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "Val d'Orcia",
+        "Tuscany",
+        "Italy",
+        "rolling hills",
+        "cypress trees",
+        "farmhouse",
+        "person walking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "nature",
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright daylight",
+          "scenic landscape"
+        ]
+      },
+      "why_kept": "This segment introduces the first named 'fairytale place' (Val d'Orcia), visually demonstrating its beauty and setting the tone for the video's core theme."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "Val d'Orcia",
+        "Tuscany",
+        "Italy",
+        "cypress alley",
+        "dirt road",
+        "person walking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "nature",
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "sunny",
+          "symmetrical composition"
+        ]
+      },
+      "why_kept": "Continues to showcase the beauty of Val d'Orcia, adding a different perspective of the same 'fairytale place'."
+    },
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "Montserrat",
+        "Spain",
+        "monastery",
+        "mountains",
+        "funicular",
+        "valley"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "nature",
+          "outdoor",
+          "mountain"
+        ],
+        "mood": [
+          "calm",
+          "majestic"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "panoramic view",
+          "cliffside architecture"
+        ]
+      },
+      "why_kept": "Introduces Montserrat as another distinct 'fairytale place', highlighting its unique natural and architectural landscape."
+    },
+    {
+      "start_time": "00:05.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "Montserrat",
+        "Spain",
+        "monastery",
+        "rock formations",
+        "stairs",
+        "person walking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "nature",
+          "outdoor",
+          "mountain"
+        ],
+        "mood": [
+          "calm",
+          "impressive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "sunny",
+          "architectural detail"
+        ]
+      },
+      "why_kept": "Provides an additional perspective of Montserrat, focusing on the human scale within the grand setting."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "Santorini",
+        "Greece",
+        "Oia",
+        "white houses",
+        "blue doors",
+        "stairs",
+        "person walking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "calm",
+          "picturesque"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright light",
+          "traditional architecture"
+        ]
+      },
+      "why_kept": "Showcases Santorini, a renowned 'fairytale place', with its iconic architecture and vibrant colors, representing a key destination."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "Colmar",
+        "France",
+        "canal",
+        "boats",
+        "swans",
+        "half-timbered houses",
+        "Ferris wheel"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "street",
+          "water"
+        ],
+        "mood": [
+          "calm",
+          "charming"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "winter",
+          "festive decorations"
+        ]
+      },
+      "why_kept": "Introduces Colmar, France, featuring its distinctive canals and architecture, embodying a 'fairytale' European town."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "Colmar",
+        "France",
+        "half-timbered houses",
+        "canal",
+        "Christmas decorations",
+        "shops"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street",
+          "water"
+        ],
+        "mood": [
+          "calm",
+          "festive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "winter",
+          "traditional architecture"
+        ]
+      },
+      "why_kept": "Complements the previous shot of Colmar, showing more detail of its unique houses and festive ambiance."
+    },
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "Zaanse Schans",
+        "Netherlands",
+        "windmills",
+        "canal",
+        "signpost",
+        "green fields"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "nature",
+          "outdoor",
+          "village"
+        ],
+        "mood": [
+          "calm",
+          "traditional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "blue sky",
+          "iconic landscape"
+        ]
+      },
+      "why_kept": "Introduces Zaanse Schans, Netherlands, highlighting its iconic windmills which are a symbol of a 'fairytale' Dutch landscape."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "Zaanse Schans",
+        "Netherlands",
+        "windmills",
+        "green grass",
+        "fence",
+        "person looking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "nature",
+          "outdoor",
+          "village"
+        ],
+        "mood": [
+          "calm",
+          "scenic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear day",
+          "picturesque view"
+        ]
+      },
+      "why_kept": "Provides another scenic shot of Zaanse Schans, emphasizing the expanse of the landscape with the windmills."
+    },
+    {
+      "start_time": "00:11.000",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "Valldemossa",
+        "Mallorca",
+        "Spain",
+        "cobblestone street",
+        "stone houses",
+        "green shutters",
+        "person walking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street",
+          "village"
+        ],
+        "mood": [
+          "calm",
+          "historic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "sunny",
+          "quaint architecture"
+        ]
+      },
+      "why_kept": "Introduces Valldemossa as a 'fairytale place', showcasing its charming and well-preserved village atmosphere."
+    },
+    {
+      "start_time": "00:12.000",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "Valldemossa",
+        "Mallorca",
+        "Spain",
+        "village overview",
+        "mountains",
+        "bell tower",
+        "flowers"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "nature",
+          "village"
+        ],
+        "mood": [
+          "calm",
+          "serene"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "blue sky",
+          "panoramic vista"
+        ]
+      },
+      "why_kept": "Offers a broader perspective of Valldemossa, highlighting its beautiful natural surroundings."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "Seville",
+        "Spain",
+        "Plaza de España",
+        "canal",
+        "rowboats",
+        "arch bridge",
+        "historic building"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "city",
+          "water"
+        ],
+        "mood": [
+          "calm",
+          "grand"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "sunny day",
+          "majestic architecture"
+        ]
+      },
+      "why_kept": "Introduces Seville, showcasing the iconic Plaza de España, which is presented as a magnificent 'fairytale place'."
+    },
+    {
+      "start_time": "00:14.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "Seville",
+        "Spain",
+        "Plaza de España",
+        "tower",
+        "balcony",
+        "person looking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "city"
+        ],
+        "mood": [
+          "calm",
+          "awe-inspiring"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright",
+          "architectural detail"
+        ]
+      },
+      "why_kept": "Provides a closer view of the Plaza de España's architecture, adding to the grandeur of the 'fairytale place'."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "Paros",
+        "Greece",
+        "bougainvillea",
+        "white house",
+        "blue door",
+        "person sitting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "village"
+        ],
+        "mood": [
+          "calm",
+          "idyllic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "vibrant colors",
+          "Mediterranean aesthetic"
+        ]
+      },
+      "why_kept": "Introduces Paros, Greece, showcasing its quintessential Greek island charm and floral beauty as a 'fairytale place'."
+    },
+    {
+      "start_time": "00:16.000",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "Prague",
+        "Czech Republic",
+        "cityscape",
+        "Vltava river",
+        "Prague Castle",
+        "cathedral"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "city",
+          "river"
+        ],
+        "mood": [
+          "calm",
+          "historic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "blue sky",
+          "panoramic view",
+          "old city architecture"
+        ]
+      },
+      "why_kept": "Introduces Prague, showcasing its iconic skyline and historic architecture as a prominent 'fairytale place'."
+    },
+    {
+      "start_time": "00:17.000",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "Prague",
+        "Czech Republic",
+        "Old Town Square",
+        "Tyn Church",
+        "Christmas market",
+        "crowd"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "city",
+          "town square"
+        ],
+        "mood": [
+          "energetic",
+          "festive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "aerial view",
+          "winter",
+          "Christmas decorations"
+        ]
+      },
+      "why_kept": "Provides a different, bustling perspective of Prague's Old Town Square, reinforcing its status as a 'fairytale place', especially during the festive season."
+    }
+  ]
+}

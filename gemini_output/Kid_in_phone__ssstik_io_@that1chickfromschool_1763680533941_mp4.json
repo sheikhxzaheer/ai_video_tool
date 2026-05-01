@@ -1,0 +1,107 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid in phone\\ssstik.io_@that1chickfromschool_1763680533941.mp4",
+  "detailed_description": "The video captures a common scene of two children engrossed in playing handheld video games on a couch. The quiet concentration is abruptly broken by the boy's sudden, animated outburst, likely due to an intense moment in his game. His sister, sitting next to him, reacts with an amused smile, highlighting a relatable sibling dynamic. The scene concludes with the boy returning to his game, showcasing the transient nature of such gaming-induced reactions.",
+  "segments": [
+    {
+      "start_time": "00:09.100",
+      "end_time": "00:13.200",
+      "structural_tags": [
+        "High_Energy",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "boy reacting",
+        "girl smiling",
+        "handheld device",
+        "couch"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "casual setting"
+        ]
+      },
+      "why_kept": "This segment captures the core emotional climax of the video, showing the boy's sudden, energetic reaction to playing a game and the girl's amused, positive facial expression in response, which is the most dynamic and expressive part of the content."
+    },
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.100",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "children playing handheld games",
+        "Nintendo Switch",
+        "couch"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "casual setting"
+        ]
+      },
+      "why_kept": "This segment establishes the initial peaceful context, showing both children calmly engrossed in their handheld games, which sets the stage for the subsequent sudden outburst from the boy."
+    },
+    {
+      "start_time": "00:15.500",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "boy playing handheld game",
+        "Nintendo Switch",
+        "couch",
+        "living room"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "casual setting"
+        ]
+      },
+      "why_kept": "This segment provides a concluding visual, showing the boy returning to his game after his animated reaction, thereby completing the narrative arc and suggesting the temporary nature of his energetic burst."
+    }
+  ]
+}

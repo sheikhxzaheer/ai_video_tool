@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Judge\\ssstik.io_@rulani.tlou_1770985198489.mp4",
+  "detailed_description": "This video captures a pivotal moment within a formal, likely legal, setting. A woman dressed in professional attire is shown raising her hand, performing what appears to be an oath or affirmation. Following this, she leans over a wooden desk to meticulously sign an important document. The sequence concludes with an exchange of papers with another individual in judicial robes, signifying the official completion of a procedural step. The scene effectively conveys professionalism and the gravity of the legal process.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Process_Labor",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "suit",
+        "courtroom",
+        "oath",
+        "signing",
+        "document",
+        "judge",
+        "desk",
+        "formal",
+        "legal procedure"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "formal attire",
+          "wooden panels",
+          "professional lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it encapsulates the entire professional action and interaction. It begins with the initial formal gesture (raising hand), proceeds through the core 'process/labor' of signing the document, and concludes with the final interaction of exchanging papers, clearly demonstrating the completion of an official procedure. There is no significant 'setup & calibration' or 'post-action dead air' within this specific timeframe that needs trimming."
+    }
+  ]
+}

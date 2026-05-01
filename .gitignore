@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.local
+
+# Models and cache
+video_tool/models/*
+!video_tool/models/.gitkeep
+
+# Outputs
+video_tool/outputs/*
+!video_tool/outputs/.gitkeep
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Audio files (large)
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.ogg
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Milestone-2: ChromaDB vector store
+chroma_db/

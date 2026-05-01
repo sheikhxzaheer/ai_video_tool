@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Apply\\QTM - UGC 001 - Amy T - Video - V02.MOV",
+  "detailed_description": "The video showcases a serene moment of a woman performing a self-care ritual. She is seen gently applying a clear, gel-like face mask or serum to her cheek and jawline using a soft, flexible silicone brush. Her focused expression, combined with the gentle movements, conveys a sense of calm and dedication to her skincare routine. The vibrant, striped headwrap adds a touch of playful aesthetic to the intimate beauty process, highlighting the soothing and meticulous application of the product for skin nourishment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "skincare",
+        "gel mask",
+        "silicone brush",
+        "headwrap",
+        "applying",
+        "glowing skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "skincare ritual",
+          "focused gaze"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it continuously demonstrates the core action of applying a skincare product, fulfilling the 'Process/Labor' and 'Product Interaction' criteria. The entire duration showcases the expertise and direct use of the product, with a clear focus on the subject's face and the application technique. There is no setup, post-action dead air, or spoken dialogue, adhering to the 'No-Mistake Rule' and maintaining visual priority."
+    }
+  ]
+}

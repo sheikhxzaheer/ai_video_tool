@@ -1,0 +1,81 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Selfie\\Woman\\ssstik.io_@iphonephotographyschool_1763939898443.mp4",
+  "detailed_description": "This video provides a step-by-step tutorial on how to take an improved selfie using an iPhone camera. It begins by showcasing a 'before and after' transformation, then guides the viewer through adjusting camera settings like Portrait mode, Contour Light, depth (f-stop), and exposure. The final tip involves proper posing technique to achieve the desired aesthetic. The video concludes with a call to action for more iPhone camera tips.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:25.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Before_After",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "hands",
+        "iPhone",
+        "camera app",
+        "selfie",
+        "portrait mode",
+        "contour light",
+        "depth adjustment",
+        "exposure adjustment",
+        "model",
+        "posing",
+        "side-by-side comparison"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "educational",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear instructions",
+          "on-screen text",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment is the core of the video, demonstrating the entire process from the initial problem/solution hook to the detailed steps of adjusting camera settings and posing, culminating in the visual transformation of the selfie. It provides actionable expertise."
+    },
+    {
+      "start_time": "00:25.500",
+      "end_time": "00:30.000",
+      "structural_tags": [
+        "Offer_CTA",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "text overlay",
+        "link in bio",
+        "blurred background",
+        "coffee cup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "call to action",
+          "soft focus"
+        ]
+      },
+      "why_kept": "This segment serves as the direct call to action, encouraging viewers to seek more information, which supports the main tutorial content."
+    }
+  ]
+}

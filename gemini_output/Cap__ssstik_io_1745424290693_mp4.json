@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cap\\ssstik.io_1745424290693.mp4",
+  "detailed_description": "The video provides a detailed showcase of a black baseball cap. A hand holds and smoothly rotates the cap, revealing custom embroidery on the back that reads 'LOVE & HUSTLE = GAME' in white and red text. Additionally, a distinctive 'WORLD SERIES 05' patch, featuring a globe design, is highlighted on the side. The continuous rotation effectively displays the cap's design, craftsmanship, and unique features from various angles.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.626",
+      "structural_tags": [
+        "Product_Standalone",
+        "Human_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "black cap",
+        "baseball cap",
+        "embroidery",
+        "patch",
+        "LOVE & HUSTLE = GAME",
+        "WORLD SERIES",
+        "globe",
+        "rotating"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "premium",
+          "rugged"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "smooth rotation",
+          "detailed view"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by comprehensively showcasing the product (a baseball cap) from multiple angles. The continuous rotation highlights the key embroidered details ('LOVE & HUSTLE = GAME' and the 'WORLD SERIES' patch), demonstrating the product's design and features effectively. There are no identifiable setup, calibration, or dead air moments to trim; the video starts directly with and maintains focused product interaction."
+    }
+  ]
+}

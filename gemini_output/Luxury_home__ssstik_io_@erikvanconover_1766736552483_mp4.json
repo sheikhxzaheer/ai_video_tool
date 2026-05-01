@@ -1,0 +1,56 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury home\\ssstik.io_@erikvanconover_1766736552483.mp4",
+  "detailed_description": "This video showcases a luxurious high-rise apartment with panoramic city and sunset views. A man in a sharp suit walks elegantly through the expansive, modern interior, highlighting various living spaces with floor-to-ceiling windows. The journey culminates in him stepping onto a private balcony, revealing a breathtaking outdoor vista of the cityscape and setting sun, embodying an aspirational, high-end lifestyle.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:35.00",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Human_Interaction",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "man in suit",
+        "luxury apartment",
+        "city view",
+        "sunset",
+        "balcony",
+        "skyscraper",
+        "modern interior",
+        "living room",
+        "dining room",
+        "floor-to-ceiling windows",
+        "panoramic view"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "outdoor",
+          "other"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "aspirational"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "golden hour lighting",
+          "cinematic",
+          "high-rise",
+          "elegant movement"
+        ]
+      },
+      "why_kept": "The entire video effectively serves as a continuous 'hero moment' showcasing the luxury property and its breathtaking views. The man's walk through the apartment and onto the balcony is a deliberate 'process' that builds anticipation for the 'reveal' of the panoramic outdoor view, culminating in a 'positive emotion' as he takes in the scenery. Trimming any part would disrupt the flow and diminish the sense of scale and experience being conveyed."
+    }
+  ]
+}

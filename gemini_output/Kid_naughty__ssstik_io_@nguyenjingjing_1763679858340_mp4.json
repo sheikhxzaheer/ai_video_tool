@@ -1,0 +1,152 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid naughty\\ssstik.io_@nguyenjingjing_1763679858340.mp4",
+  "detailed_description": "The video captures a young girl experiencing a dramatic and intense emotional outburst, characterized by continuous loud crying and screaming. She is seen in various states of distress, from sitting on the floor with tears streaming down her face and visible saliva, to standing and moving agitatedly. She also briefly interacts with a griddle-like object while continuing her vocal protest. The footage emphasizes her raw and unfiltered negative emotions, showcasing a prolonged moment of extreme upset. Her facial expressions and body language consistently convey frustration and sadness.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.760",
+      "structural_tags": [
+        "Negative_Emotion",
+        "Face_Reaction",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "girl crying",
+        "girl screaming",
+        "tears",
+        "saliva",
+        "pigtails",
+        "blue dress",
+        "sitting on floor",
+        "marble floor"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "negative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "handheld camera"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the core emotional state of intense crying and screaming, setting the context for the entire video. It's the strongest initial visual statement."
+    },
+    {
+      "start_time": "00:01.760",
+      "end_time": "00:02.733",
+      "structural_tags": [
+        "Negative_Emotion",
+        "Face_Reaction",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "girl crying",
+        "girl screaming",
+        "standing",
+        "moving hands",
+        "black marble wall"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "negative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "handheld camera"
+        ]
+      },
+      "why_kept": "This segment provides a different perspective of the crying, showing the girl actively standing and moving in distress, adding to the visual narrative of her emotional outburst."
+    },
+    {
+      "start_time": "00:02.733",
+      "end_time": "00:05.793",
+      "structural_tags": [
+        "Negative_Emotion",
+        "Face_Reaction",
+        "High_Energy",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "girl crying",
+        "girl screaming",
+        "holding object",
+        "griddle",
+        "releasing object",
+        "running briefly"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "negative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "handheld camera"
+        ]
+      },
+      "why_kept": "This segment shows the girl interacting with a household object while crying, demonstrating her continued distress during a different action. It also captures a brief moment of her running."
+    },
+    {
+      "start_time": "00:05.793",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Negative_Emotion",
+        "Face_Reaction",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "girl crying",
+        "girl screaming",
+        "close-up face",
+        "tears",
+        "pigtails",
+        "reaching out"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "negative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "handheld camera"
+        ]
+      },
+      "why_kept": "This segment provides an impactful close-up of the girl's crying face, emphasizing her raw emotions, and then returns to a wider shot to show her sustained physical expression of distress."
+    }
+  ]
+}

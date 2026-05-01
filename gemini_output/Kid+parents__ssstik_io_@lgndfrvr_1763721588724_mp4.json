@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid+parents\\ssstik.io_@lgndfrvr_1763721588724.mp4",
+  "detailed_description": "The video showcases a charming and humorous interaction between a father and his young daughter inside a car. The daughter playfully asserts her preference for 2Pac over 'Baby Shark,' prompting an overjoyed and proud reaction from her dad. The scene culminates with the father playing a 2Pac track, and both of them are seen smiling and grooving to the music, highlighting a heartwarming moment of shared joy and the girl's surprisingly mature musical taste.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.478",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Travel_Transit",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "girl speaking",
+        "dad reacting",
+        "car interior",
+        "peace sign gesture",
+        "smiling",
+        "nodding to music",
+        "car console"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "candid",
+          "handheld camera"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the emotional climax through the daughter's declaration and the father's proud reaction, followed by their shared enjoyment of the music. It perfectly captures the unexpected twist and the resulting positive emotions, making the whole duration a single, coherent 'hero moment'."
+    }
+  ]
+}

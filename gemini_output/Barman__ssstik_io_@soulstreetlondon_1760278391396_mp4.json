@@ -1,0 +1,187 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Barman\\ssstik.io_@soulstreetlondon_1760278391396.mp4",
+  "detailed_description": "The video humorously showcases a young woman's versatility and comprehensive training in a restaurant setting. She effortlessly transitions between various roles, including a host, bartender, chef, server, and dining area preparer. Each segment demonstrates her professional action and expertise, emphasizing the central theme of being \"trained in all areas\" of the establishment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "restaurant host",
+        "reception",
+        "tablet",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "restaurant"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "professional uniform"
+        ]
+      },
+      "why_kept": "This segment introduces the character and immediately establishes her role as a professional trained in a service industry, setting the context for the entire video's theme of versatility."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bartender",
+        "cocktail shaker",
+        "bar",
+        "mixing drink"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "restaurant",
+          "bar"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "professional uniform"
+        ]
+      },
+      "why_kept": "This segment demonstrates another distinct skill (bartending), directly contributing to the video's core message about being trained in 'all areas' through showing the 'process/labor'."
+    },
+    {
+      "start_time": "00:05.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "chef",
+        "kitchen",
+        "cooking",
+        "metal bowl"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "fluorescent lighting",
+          "professional uniform"
+        ]
+      },
+      "why_kept": "This segment highlights a culinary skill in the kitchen, further reinforcing the employee's diverse capabilities within the restaurant, showcasing 'the process/labor' of cooking."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "server",
+        "carrying tray",
+        "cocktails",
+        "dining area"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "restaurant"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "professional uniform"
+        ]
+      },
+      "why_kept": "This segment demonstrates the role of a server, adding another crucial aspect of restaurant operations to her displayed skill set, acting as a clear 'process/labor' moment."
+    },
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:11.200",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "cleaning cutlery",
+        "setting up",
+        "restaurant prep"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "restaurant"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "professional uniform"
+        ]
+      },
+      "why_kept": "This final segment completes the portrayal of her comprehensive training by showing a detail-oriented task of preparing the dining area, further illustrating 'the process/labor' of restaurant work."
+    }
+  ]
+}

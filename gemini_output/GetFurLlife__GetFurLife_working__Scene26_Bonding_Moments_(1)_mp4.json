@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLife_working\\Scene26_Bonding Moments (1).mp4",
+  "detailed_description": "The video captures a tender and heartwarming moment between a woman and her dog on a couch. The dog is peacefully asleep with its head resting on the woman's shoulder, while the woman is initially dozing off. Upon being gently prompted, she slowly opens her eyes, revealing a soft, contented smile as she acknowledges her furry companion. The scene perfectly encapsulates the deep bond, comfort, and positive emotions shared between pets and their owners, highlighting a moment of calm relaxation and affection.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.463",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "dog",
+        "sleeping",
+        "waking up",
+        "smiling",
+        "couch",
+        "blanket",
+        "petting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "happy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "cozy",
+          "intimate"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the emotional climax of a relaxed and affectionate bond between the woman and her dog. The dog's peaceful sleep, combined with the woman's gentle awakening and subsequent smile, perfectly conveys comfort, happiness, and connection. There are no extraneous frames, and the interaction starts and ends naturally."
+    }
+  ]
+}

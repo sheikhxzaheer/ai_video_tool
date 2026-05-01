@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Korean woman\\ssstik.io_@koreangrandma_1761434762559.mp4",
+  "detailed_description": "This video reveals the secret to a '70-year-old grandma's' youthful appearance: consistent sun protection using a convenient sun stick. The woman, dressed in traditional Korean attire, demonstrates how to apply the Mixsoon Bean Sun Stick to her face and neck, emphasizing the importance of reapplying every 2-3 hours for effective sun safety. Her serene and happy expressions throughout the application, culminating in a radiant smile while holding the product, convey a sense of ease and satisfaction with her skincare routine. The video highlights the product's portability and ease of use, making it 'perfect for on-the-go' and a key part of her timeless beauty regimen.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Product_Intro",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hanbok",
+        "sun stick",
+        "applying sunscreen",
+        "face",
+        "neck",
+        "smiling",
+        "outdoor",
+        "trees",
+        "grass"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "serene"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "natural backdrop",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it visually demonstrates the product's use (applying the sun stick) and directly conveys the central message through on-screen text: the 'secret' of the '70-year-old grandma' is consistent sun protection with the Mixsoon Bean Sun Stick. It includes product interaction, a positive emotional reaction, and the clear identification of the product, fulfilling multiple hero moment criteria without any dead air or setup."
+    }
+  ]
+}

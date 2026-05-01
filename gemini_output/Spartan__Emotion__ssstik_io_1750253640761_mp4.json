@@ -1,0 +1,78 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Emotion\\ssstik.io_1750253640761.mp4",
+  "detailed_description": "This video challenges societal stereotypes about depression in men. It first illustrates the common misconception, showing a man appearing visibly sad and crying in black and white. This is immediately contrasted with the man, now in color, smiling and laughing genuinely. The core message reveals that depressed men often mask their internal struggles with a cheerful exterior, highlighting the invisible nature of mental health challenges and urging a deeper understanding beyond superficial appearances.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.800",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "sad expression",
+        "crying",
+        "tissue",
+        "black and white",
+        "couch"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "melancholy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "monochromatic",
+          "staged sadness"
+        ]
+      },
+      "why_kept": "This segment sets up the problem statement and the visual stereotype of how society perceives depressed men, acting as the 'before' or the initial misconception that the video then refutes."
+    },
+    {
+      "start_time": "00:07.800",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "man",
+        "smiling",
+        "laughing",
+        "arms crossed",
+        "couch",
+        "colorful"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "genuine happiness"
+        ]
+      },
+      "why_kept": "This segment serves as the main reveal, presenting the contrasting reality of how depressed men 'actually look like.' It delivers the core message of the video by showing a genuine smile and positive demeanor, directly challenging the initial stereotype."
+    }
+  ]
+}

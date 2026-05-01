@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Date_night\\ssstik.io_@juliastulac_1759310769197.mp4",
+  "detailed_description": "The video beautifully captures a couple celebrating New Year's Eve, entering 2025 with a heartfelt kiss. Surrounded by a festive crowd on a bustling street, they share an emotional moment as vibrant fireworks explode in the night sky. The accompanying text overlay explicitly states, 'GOING TO 2025 WITH THE BOY I FELL IN LOVE WITH THIS YEAR,' making this scene a poignant representation of love, celebration, and the hopeful beginning of a new year together. The entire duration showcases this complete emotional narrative.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Aesthetic_Broll",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "couple",
+        "kissing",
+        "fireworks",
+        "street",
+        "night",
+        "crowd",
+        "celebration",
+        "embracing",
+        "love"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "romantic",
+          "celebratory"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "night photography",
+          "bright lights",
+          "celebratory atmosphere",
+          "bokeh lights"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the emotional climax of a couple celebrating the New Year with a kiss amidst fireworks, perfectly aligning with the on-screen text about falling in love. It captures the complete narrative of their romantic and celebratory moment, with no extraneous setup or post-action dead air to trim."
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Douxds product\\ð©Ðüð┐ð¥ð╗ÐîðÀÐâðÁÐé ð┐ÐÇð¥ð┤Ðâð║Ðé 35.mp4",
+  "detailed_description": "This video directly addresses a user comment questioning the act of popping a pimple instead of using toothpaste or a patch. The creator demonstrates a proper skincare routine by first carefully cleaning a freshly popped pimple with a cotton swab. He then showcases a full regimen, including using a silicone face brush for cleansing and applying a dedicated 'bump eliminator' serum. The video culminates in a confident and satisfied display of his clear, healthy skin, emphasizing the effectiveness of a proper skincare approach over amateur remedies.",
+  "segments": [
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Interaction",
+        "UGC_Talking_Head",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "glasses",
+        "pimple",
+        "popping",
+        "cotton swab",
+        "cleaning",
+        "mirror"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct response",
+          "educational intent",
+          "close observation"
+        ]
+      },
+      "why_kept": "This segment is kept as an ANCHOR because it directly addresses the user's on-screen comment, establishes the 'problem state' (the pimple), and shows the immediate, proper action for a popped pimple, providing context for the entire video's message."
+    },
+    {
+      "start_time": "00:06.100",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Process_Labor",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "silicone face brush",
+        "face cleanser",
+        "water",
+        "rinsing",
+        "serum bottle",
+        "dispensing",
+        "applying cream"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "step-by-step demonstration",
+          "close-ups of product use"
+        ]
+      },
+      "why_kept": "This segment provides crucial 'process/labor' and 'product interaction' details, showing the full skincare routine that leads to healthy skin and implicitly prevents issues like the one mentioned in the comment. It supports the main message by detailing the solution."
+    },
+    {
+      "start_time": "00:17.100",
+      "end_time": "00:24.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man smiling",
+        "confident expression",
+        "touching face",
+        "kissing reflection",
+        "snapping fingers"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "energetic",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "satisfaction",
+          "clear skin",
+          "emotional climax"
+        ]
+      },
+      "why_kept": "This segment serves as the emotional climax and 'reveal/result' of the video. The man's visibly clear skin and joyful, confident reactions demonstrate the success and benefit of following a proper skincare routine, reinforcing the video's core message."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\videoplayback.mp4",
+  "detailed_description": "The video documents a man's decision to shave his head due to a receding hairline. It begins by visually presenting his current long, curly hair along with a noticeable bald spot, articulating the 'problem state' through his facial expressions and words. The core of the video then transitions into the practical demonstration, showcasing the man actively using hair clippers to shave the top of his head. The narrative concludes with a clear reveal of his fully shaved head, conveying a sense of satisfaction and transformation.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:07.400",
+      "structural_tags": [
+        "Problem_State",
+        "UGC_Talking_Head",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "long hair",
+        "beard",
+        "receding hairline",
+        "bald spot",
+        "frustrated expression",
+        "talking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "handheld camera"
+        ]
+      },
+      "why_kept": "This segment establishes the 'Problem_State' by visually showing the receding hairline and conveying the subject's initial dilemma and negative emotion, providing essential context for the subsequent action."
+    },
+    {
+      "start_time": "00:07.400",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair clipper",
+        "shaving head",
+        "long hair",
+        "curly hair",
+        "bald head appearing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic action",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This is the primary 'Hero Moment' as it directly showcases 'The Process/Labor' and 'Product Interaction,' where the subject actively shaves his head, demonstrating the core action and transformation."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:19.400",
+      "structural_tags": [
+        "Result_Transformation",
+        "UGC_Talking_Head",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "shaved head",
+        "beard",
+        "blue eyes",
+        "satisfied expression",
+        "talking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment provides the 'Reveal/Result' of the action, displaying the final transformed look and capturing the subject's positive emotional response and key information about the outcome."
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Tired\\Woman\\ssstik.io_@unwellwilla_1774368688570.mp4",
+  "detailed_description": "The video powerfully conveys the emotional and physical burden of a prolonged chronic illness flare-up. A young woman expresses deep despair, feeling like she has \"lost her life\" after six weeks of persistent symptoms. She describes battling constant sleepiness and struggling to complete even basic tasks, despite her efforts to 'claw back' her life with daily routines. The narrative culminates in her frustration and self-blame, highlighting the profound impact of her condition on her well-being and sense of self. The recurring visuals of her in states of sadness and exhaustion reinforce the pervasive nature of her struggle.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.300",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "sad",
+        "couch",
+        "holding pillow",
+        "pensive"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "calm",
+          "sad"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "natural expression"
+        ]
+      },
+      "why_kept": "This segment clearly introduces the core problem and the primary emotional state of feeling lost due to a prolonged flare-up, setting the stage for the entire video's message."
+    },
+    {
+      "start_time": "00:02.300",
+      "end_time": "00:04.280",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "curled up",
+        "window",
+        "city view",
+        "sad",
+        "despair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home",
+          "city"
+        ],
+        "mood": [
+          "serious",
+          "calm",
+          "sad"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "high-rise apartment"
+        ]
+      },
+      "why_kept": "Reinforces the initial problem statement and deepens the sense of emotional distress and isolation through a change of setting and body language."
+    },
+    {
+      "start_time": "00:04.280",
+      "end_time": "00:06.330",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "couch",
+        "pensive",
+        "sad",
+        "knees to chest"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "calm",
+          "sad"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "natural expression"
+        ]
+      },
+      "why_kept": "Provides another visual representation of the subject's ongoing sadness and introspection, supporting the narrative of feeling lost."
+    },
+    {
+      "start_time": "00:06.330",
+      "end_time": "00:08.060",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "sad",
+        "couch",
+        "holding pillow",
+        "pensive"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "calm",
+          "sad"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "natural expression"
+        ]
+      },
+      "why_kept": "Continues the narrative, expressing that even a 'tough life' was preferable to her current suffering, emphasizing the severity of her condition."
+    },
+    {
+      "start_time": "00:08.060",
+      "end_time": "00:09.910",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "curled up",
+        "window",
+        "city view",
+        "sad",
+        "despair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home",
+          "city"
+        ],
+        "mood": [
+          "serious",
+          "calm",
+          "sad"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "high-rise apartment"
+        ]
+      },
+      "why_kept": "Further highlights the deterioration of her well-being, reiterating that her current state is worse than previous difficulties."
+    },
+    {
+      "start_time": "00:09.910",
+      "end_time": "00:11.830",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Calm_Relaxation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "couch",
+        "sleeping",
+        "plush toy",
+        "tired",
+        "exhausted"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "sad",
+          "tired"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting"
+        ]
+      },
+      "why_kept": "Visually depicts her struggle to perform daily tasks like 'to-do lists' due to overwhelming sleepiness, a key aspect of her illness."
+    },
+    {
+      "start_time": "00:11.830",
+      "end_time": "00:13.680",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "sad",
+        "couch",
+        "holding pillow",
+        "pensive"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "calm",
+          "sad"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "natural expression"
+        ]
+      },
+      "why_kept": "Continues to illustrate her inability to engage in normal life activities like 'chores or goals or workouts,' emphasizing the scope of her functional impairment."
+    },
+    {
+      "start_time": "00:13.680",
+      "end_time": "00:15.540",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "curled up",
+        "window",
+        "city view",
+        "sad",
+        "despair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home",
+          "city"
+        ],
+        "mood": [
+          "serious",
+          "calm",
+          "sad"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "high-rise apartment"
+        ]
+      },
+      "why_kept": "Reinforces the difficulty in meeting personal goals due to her chronic condition, connecting her physical state to her aspirations."
+    },
+    {
+      "start_time": "00:15.540",
+      "end_time": "00:17.430",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Time_Wasted"
+      ],
+      "visual_keywords": [
+        "woman",
+        "couch",
+        "tired",
+        "pensive",
+        "sleepy"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "calm",
+          "sad",
+          "tired"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting"
+        ]
+      },
+      "why_kept": "A critical segment that states the core struggle: constantly losing to sleep and feeling unable to overcome her condition."
+    },
+    {
+      "start_time": "00:17.430",
+      "end_time": "00:19.330",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Time_Wasted"
+      ],
+      "visual_keywords": [
+        "woman",
+        "sad",
+        "couch",
+        "holding pillow",
+        "pensive"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "calm",
+          "sad"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "natural expression"
+        ]
+      },
+      "why_kept": "Visually reinforces the central theme of defeat and helplessness against persistent fatigue, echoing the previous statement."
+    },
+    {
+      "start_time": "00:19.330",
+      "end_time": "00:21.220",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Time_Wasted"
+      ],
+      "visual_keywords": [
+        "woman",
+        "curled up",
+        "window",
+        "city view",
+        "sad",
+        "despair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home",
+          "city"
+        ],
+        "mood": [
+          "serious",
+          "calm",
+          "sad"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "high-rise apartment"
+        ]
+      },
+      "why_kept": "Further emphasizes the ongoing and pervasive nature of her struggle, using the same visual to underscore the relentless nature of her condition."
+    },
+    {
+      "start_time": "00:21.220",
+      "end_time": "00:24.000",
+      "structural_tags": [
+        "Negative_Emotion",
+        "Problem_State",
+        "Face_Reaction",
+        "Financial_Stress"
+      ],
+      "visual_keywords": [
+        "woman",
+        "couch",
+        "sleeping",
+        "plush toy",
+        "sad",
+        "self-blame"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "sad",
+          "tired"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting"
+        ]
+      },
+      "why_kept": "Concludes the emotional narrative by introducing the aspect of self-blame, adding a layer of psychological burden to her physical suffering, which is crucial to the semantic core."
+    }
+  ]
+}

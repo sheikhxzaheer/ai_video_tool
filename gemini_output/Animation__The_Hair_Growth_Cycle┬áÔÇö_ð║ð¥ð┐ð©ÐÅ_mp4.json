@@ -1,0 +1,84 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\The Hair Growth Cycle┬áÔÇö ð║ð¥ð┐ð©ÐÅ.mp4",
+  "detailed_description": "This animated video provides a microscopic view into the biology of hair growth within the human skin. It clearly identifies the hair follicle and the dermal papilla, two essential structures involved in hair development. The animation meticulously illustrates the process of a hair strand emerging from its follicle, showcasing the dynamic mechanism of hair regeneration. This visual explanation offers fundamental insights into the intricate process of hair growth at a cellular level.",
+  "segments": [
+    {
+      "start_time": "00:02.100",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Key_Information",
+        "Mechanism_Of_Action",
+        "Cellular_Deep_Dive",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hair follicle",
+        "dermal papilla",
+        "labels",
+        "skin layers",
+        "animation",
+        "cellular structures"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "scientific visualization",
+          "dark background",
+          "red tissue"
+        ]
+      },
+      "why_kept": "This segment is kept as it provides key information by labeling the essential anatomical structures (follicle and dermal papilla), which is crucial for understanding the subsequent hair growth mechanism."
+    },
+    {
+      "start_time": "00:10.500",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Macro_Detail",
+        "Aesthetic_Broll",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "hair growth",
+        "hair emerging",
+        "follicle",
+        "skin layers",
+        "animation",
+        "hair strand"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "scientific visualization",
+          "dark background",
+          "red tissue"
+        ]
+      },
+      "why_kept": "This is the primary 'Hero Moment' demonstrating 'The Process/Labor' as it visually illustrates the actual growth of a hair strand from the follicle, which is the core action and value demonstrated in the video."
+    }
+  ]
+}

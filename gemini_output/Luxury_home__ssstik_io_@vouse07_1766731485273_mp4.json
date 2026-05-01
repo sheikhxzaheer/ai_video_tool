@@ -1,0 +1,173 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury home\\ssstik.io_@vouse07_1766731485273.mp4",
+  "detailed_description": "This video showcases an ultra-luxury apartment in New York City, highlighting what a multi-million dollar property offers. It features stunning panoramic views of the city, including Central Park, from both the exterior and interior. The video details the opulent design of the living spaces, private amenities like a pool and gym, and culminates in a breathtaking day-to-night transformation of the iconic NYC skyline visible from the apartment's expansive windows and private balcony.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "High_Energy",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "Man",
+        "balcony",
+        "skyscraper",
+        "New York City skyline",
+        "Central Park",
+        "drone shot",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "city"
+        ],
+        "mood": [
+          "premium",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "high-angle",
+          "drone footage",
+          "luxury showcase",
+          "bright daylight"
+        ]
+      },
+      "why_kept": "This segment establishes the core premise of the video by explicitly stating the price ($54.6 million) and immediately showcasing the grandeur of the luxury property with a man on a skyscraper balcony, followed by a dramatic zoom-out revealing the entire building and the surrounding cityscape, acting as a powerful visual hook."
+    },
+    {
+      "start_time": "00:07.433",
+      "end_time": "00:16.200",
+      "structural_tags": [
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Home_Kitchen",
+        "Workspace_Office",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "Living room",
+        "curved sofa",
+        "coffee table",
+        "Central Park view",
+        "city view",
+        "office space",
+        "dining area",
+        "kitchen",
+        "bedroom",
+        "floor-to-ceiling windows",
+        "modern furniture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "modern interior design",
+          "panoramic views",
+          "luxurious furnishing",
+          "bright and airy"
+        ]
+      },
+      "why_kept": "This sequence provides a detailed exploration of the apartment's opulent interiors, including the living room, office, dining area, and bedroom, all featuring expansive floor-to-ceiling windows that highlight the breathtaking panoramic views of Central Park and the New York City skyline, showcasing the property's immense value and luxurious design."
+    },
+    {
+      "start_time": "00:16.200",
+      "end_time": "00:18.100",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "Man",
+        "indoor pool",
+        "gym",
+        "weights",
+        "exercise equipment",
+        "stairs"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "modern amenities",
+          "fitness facility",
+          "exclusive access"
+        ]
+      },
+      "why_kept": "This segment showcases the exclusive, state-of-the-art amenities within the luxury building, specifically an indoor pool and a fully equipped gym, reinforcing the high-end lifestyle and comprehensive offerings that accompany the property."
+    },
+    {
+      "start_time": "00:18.100",
+      "end_time": "00:32.400",
+      "structural_tags": [
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "High_Energy",
+        "Calm_Relaxation",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "Man",
+        "balcony",
+        "skyscraper",
+        "New York City skyline",
+        "night lights",
+        "Empire State Building",
+        "Freedom Tower",
+        "Central Park",
+        "river",
+        "city lights"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "city"
+        ],
+        "mood": [
+          "premium",
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "drone footage",
+          "day-to-night transition",
+          "iconic cityscape",
+          "illuminated skyline"
+        ]
+      },
+      "why_kept": "This segment serves as the emotional climax, capturing the breathtaking transformation of the city view from dusk into a fully illuminated night skyline. It showcases the iconic New York City vista from the apartment's high vantage point, emphasizing the stunning visual spectacle and prime location that are a definitive part of the property's immense value."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated Before_After\\ssstik.io_@stretchberrii_1774534976868.mp4",
+  "detailed_description": "The video presents a side-by-side comparison of a person's physical appearance, specifically their stomach and waist area, before and after eating. The initial shot shows a flat stomach, labeled 'before eating,' followed by a shot of the same area appearing slightly distended or bloated, labeled 'after eating.' This demonstrates a common bodily reaction to food intake, highlighting bloating as a physical transformation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.033",
+      "structural_tags": [
+        "Before_After",
+        "Result_Transformation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "mirror selfie",
+        "stomach",
+        "waist",
+        "bloating",
+        "before eating",
+        "after eating",
+        "black long-sleeve shirt",
+        "black pants"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "mirror reflection",
+          "simple background"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it directly and explicitly shows the 'before and after' comparison of a person's stomach, illustrating the physical change (likely bloating) after eating. This is the primary message and transformation the video aims to convey."
+    }
+  ]
+}

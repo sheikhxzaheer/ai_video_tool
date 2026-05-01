@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury home\\ssstik.io_@interiorhomedesign1_1766727257368.mp4",
+  "detailed_description": "The video showcases a modern and luxurious living room at night, featuring a unique ceiling adorned with fiber optic lights that simulate a starry sky and dynamic shooting stars. A large flat-screen TV above a decorative fireplace adds to the sophisticated ambiance. The camera slowly pans across the room, revealing comfortable seating, minimalist decor, and eventually a stunning panoramic view of a vibrant city skyline illuminated at night. A cat casually roams the floor, adding a touch of domesticity to the opulent setting. The overall effect highlights a serene yet spectacular living space.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:17.380",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Home"
+      ],
+      "visual_keywords": [
+        "luxurious living room",
+        "starry ceiling",
+        "fiber optic lights",
+        "shooting stars",
+        "fireplace",
+        "large TV",
+        "modern interior design",
+        "city skyline",
+        "night view",
+        "panoramic window",
+        "cat",
+        "sofa",
+        "coffee table",
+        "ambient lighting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "ambient lighting",
+          "panoramic view",
+          "modern design",
+          "luxury interior"
+        ]
+      },
+      "why_kept": "This entire segment constitutes the primary visual demonstration of a luxurious interior design, highlighting the unique starry ceiling with dynamic lighting effects and the expansive city view. It functions as a complete 'reveal' and 'aesthetic B-roll' of the featured space, with no irrelevant 'setup' or 'dead air' moments, making the full duration the semantic core."
+    }
+  ]
+}

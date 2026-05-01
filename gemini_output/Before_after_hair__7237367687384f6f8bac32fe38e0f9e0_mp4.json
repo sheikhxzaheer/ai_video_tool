@@ -1,0 +1,149 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\7237367687384f6f8bac32fe38e0f9e0.mp4",
+  "detailed_description": "This video meticulously chronicles a man's hair transplant journey over nine months, starting from the initial state of significant hair loss. It visually presents the procedure day, marked with surgical guidelines, and then showcases a compelling month-by-month progression of hair regrowth. The transformation culminates in a noticeably fuller and more natural-looking hairline at the nine-month mark, underscored by moments of increased confidence. The video concludes with a call to action, inviting viewers to follow for the complete 12-month progress update.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair loss",
+        "receding hairline",
+        "balding crown",
+        "short hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "mirror shot",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the 'Before' state, clearly showing the initial problem of hair loss, which is crucial context for the subsequent transformation."
+    },
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man",
+        "head shaved",
+        "surgical markings",
+        "hair transplant preparation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear lighting",
+          "procedural setup"
+        ]
+      },
+      "why_kept": "This segment captures the 'Day of Procedure,' showcasing the initial steps and the physical evidence of the hair transplant process, serving as the immediate 'After' of the procedure and start of recovery."
+    },
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:27.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair growth",
+        "hair transplant results",
+        "thick hair",
+        "full hairline",
+        "confident smile",
+        "couple",
+        "performance stage",
+        "guitar"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "confident",
+          "uplifting"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "month-by-month progression",
+          "varied angles",
+          "uplifting piano music",
+          "lifestyle moments"
+        ]
+      },
+      "why_kept": "This is the primary 'Hero Moment,' demonstrating the progressive and significant transformation of hair growth over nine months. It directly shows the success of the hair transplant and culminates in visual evidence of improved confidence and lifestyle."
+    },
+    {
+      "start_time": "00:27.000",
+      "end_time": "00:39.000",
+      "structural_tags": [
+        "Offer_CTA",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "touching hair",
+        "gesturing",
+        "follow for 12 months progression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "engaging"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "persuasive tone",
+          "engaging hand gestures"
+        ]
+      },
+      "why_kept": "This segment serves as a clear Call to Action, guiding viewers to follow for the complete 12-month progression, extending the narrative and encouraging continued engagement."
+    }
+  ]
+}

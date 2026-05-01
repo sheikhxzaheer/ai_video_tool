@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Flight attendant\\ssstik.io_@cabincrewbkk_1766823862742.mp4",
+  "detailed_description": "This video captures a dynamic scene of airline cabin crew and pilots, dressed in their distinctive uniforms, briskly walking through a busy airport terminal. They are pulling their wheeled luggage, moving with purpose and coordination. The footage highlights their professional presence and the constant movement inherent in air travel operations, showcasing the 'process' of their work within a travel and transit setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Travel_Transit",
+        "High_Energy",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "airline crew",
+        "flight attendants",
+        "pilots",
+        "airport",
+        "luggage",
+        "walking",
+        "uniforms",
+        "departure board"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "airport"
+        ],
+        "mood": [
+          "energetic",
+          "professional",
+          "dynamic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "tracking shot",
+          "bright lighting",
+          "smooth motion"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it perfectly demonstrates 'The Process/Labor' of airline professionals. It shows the crew actively engaged in their duties of transiting through an airport, representing the core function and visual appeal of their work environment. There are no setup, calibration, or post-action dead air frames; the entire clip effectively captures the intended action from start to finish."
+    }
+  ]
+}

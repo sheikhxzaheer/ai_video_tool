@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Woman\\ssstik.io_@archivebykate_1766926313038.mp4",
+  "detailed_description": "This video captures the serene and focused ambiance of working from home on a rainy day. It showcases an individual diligently typing on a mechanical keyboard at a well-organized desk, surrounded by personal touches like decorative posters and plants. The soft glow of desk lamps and the natural light from a window, against which rain can be seen falling, create a calm and productive atmosphere, highlighting a common modern lifestyle scenario.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:26.790",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Workspace_Office",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "person typing",
+        "laptop",
+        "mechanical keyboard",
+        "desk setup",
+        "rainy window",
+        "desk lamp",
+        "posters",
+        "yellow tulips"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "focused",
+          "cozy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "natural light",
+          "steady shot",
+          "soft ambiance"
+        ]
+      },
+      "why_kept": "This segment comprehensively demonstrates the core theme of 'working from home on a rainy day.' It features continuous professional action (typing, interacting with computer), the calm atmosphere suggested by the rain and warm lighting, and clear interaction with work tools. There are no extraneous frames or setup/post-action dead air, making the entire clip a 'hero moment' of the described activity."
+    }
+  ]
+}

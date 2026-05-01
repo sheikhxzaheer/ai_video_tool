@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\HeroshotUpClose.mp4",
+  "detailed_description": "The video provides a clear, static display of two MoldMD mold spot remover products—a large spray bottle and a smaller concentrate—alongside a red cleaning brush. The items are neatly arranged on a clean, white tiled surface, implying a bathroom or kitchen setting. This segment serves as a direct product introduction, showcasing the brand's cleaning solutions and their accessories in a well-lit, professional manner.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:10.05",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "MoldMD",
+        "mold spot remover",
+        "spray bottle",
+        "concentrate bottle",
+        "cleaning brush",
+        "white tiles"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "clean"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background",
+          "static shot",
+          "subtle zoom"
+        ]
+      },
+      "why_kept": "This segment is the entire video and functions as the complete visual introduction and presentation of the MoldMD products. There are no setup, post-action, or non-essential frames to trim, as the video's sole purpose is the static display of the cleaning products. It fully meets the criteria for 'Product_Intro' and 'Product_Standalone' hero moments."
+    }
+  ]
+}

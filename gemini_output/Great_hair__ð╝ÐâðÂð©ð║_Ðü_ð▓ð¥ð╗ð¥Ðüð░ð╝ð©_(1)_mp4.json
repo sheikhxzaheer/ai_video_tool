@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ð╝ÐâðÂð©ð║ Ðü ð▓ð¥ð╗ð¥Ðüð░ð╝ð© (1).mp4",
+  "detailed_description": "The video features a man with curly brown hair and a beard, wearing a light blue sleeveless shirt and a necklace. After a brief moment of turning towards the camera, he maintains direct eye contact and breaks into a warm, sustained smile. He subtly bobs his head to the rhythm of the background music, conveying a relaxed and happy demeanor. This segment captures his authentic, positive facial expression and engaging interaction with the camera, highlighting an emotional climax.",
+  "segments": [
+    {
+      "start_time": "00:01.070",
+      "end_time": "00:14.350",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "man",
+        "smiling",
+        "curly hair",
+        "beard",
+        "light blue tank top",
+        "necklace",
+        "facing camera",
+        "head nodding"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "selfie perspective",
+          "bright environment"
+        ]
+      },
+      "why_kept": "This segment captures the primary emotional climax of the video, showing a sustained, genuine smile and positive facial reaction from the subject. It's the core moment where the subject's positive mood and engagement are clearly demonstrated, after initial camera setup."
+    }
+  ]
+}

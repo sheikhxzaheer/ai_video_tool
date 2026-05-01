@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Emotion\\ssstik.io_1747341795783.mp4",
+  "detailed_description": "A young man is shown in a raw, emotional state, openly crying with tears streaming down his face and his complexion flushed from distress. He is seen wiping his eyes and covering his mouth, conveying profound sadness or frustration. An overlaying text caption reads, 'People with a good heart Will never win..', which provides the contextual understanding for his emotional turmoil, suggesting a feeling of injustice or defeat. The video focuses intensely on his poignant reaction, making the emotional climax the central theme.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.026",
+      "structural_tags": [
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "crying man",
+        "tears",
+        "sad face",
+        "red face",
+        "wiping eyes",
+        "emotional distress",
+        "black t-shirt",
+        "watch",
+        "tattoos",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "sad"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "emotional lighting",
+          "raw",
+          "unscripted feel",
+          "melancholic background music"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it perfectly captures and conveys the emotional climax of the video. The man's visible crying, distressed facial expressions, and the reinforcing text overlay directly demonstrate the 'Emotional Climax' hero moment and explain the 'Problem State' that causes it. There is no setup or post-action dead air, making the whole duration relevant to the core message."
+    }
+  ]
+}

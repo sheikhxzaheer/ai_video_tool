@@ -1,0 +1,205 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Treatmant_skin\\ssstik.io_@kriziaraso_1763928955451.mp4",
+  "detailed_description": "This video showcases a 30-day 'glow up' routine to address acne and acne marks. It begins with a clear before-and-after comparison of acne-prone skin, immediately establishing the problem and the desired transformation. The routine involves specific ear and cheek lymph massages, followed by the application of a zinc-based cream twice daily, highlighting zinc's effectiveness in clearing skin. The video concludes by featuring the specific 'YUMU Zinc Cream' product used and a final shot of the subject's now clear and glowing skin, reinforcing the successful outcome of the regimen.",
+  "segments": [
+    {
+      "start_time": "00:01.375",
+      "end_time": "00:03.400",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation",
+        "Before_After",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "acne",
+        "blemishes",
+        "clear skin",
+        "before and after comparison",
+        "woman's face"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean lighting",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment is the primary visual hook, immediately presenting the problem (acne) and the promised solution (clear skin) through a compelling 'Before/After' comparison, setting the stage for the rest of the video."
+    },
+    {
+      "start_time": "00:04.291",
+      "end_time": "00:06.666",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "ear massage",
+        "lymph drainage",
+        "face yoga"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "focused action"
+        ]
+      },
+      "why_kept": "This segment demonstrates a specific, actionable step of the routine (ear lymph massage), providing practical 'how-to' information as part of the overall acne solution."
+    },
+    {
+      "start_time": "00:06.666",
+      "end_time": "00:10.500",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "cheek massage",
+        "lymph drainage",
+        "face yoga"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "focused action"
+        ]
+      },
+      "why_kept": "This segment continues the demonstration of the routine with another practical 'how-to' step (cheek lymph massage), supporting the comprehensive approach to skin improvement."
+    },
+    {
+      "start_time": "00:10.875",
+      "end_time": "00:15.125",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Ingredient_Highlight",
+        "Morning_Routine",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "zinc cream",
+        "cream application",
+        "face cream",
+        "skin care"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up application",
+          "gentle movements"
+        ]
+      },
+      "why_kept": "This is a core 'Hero Moment' demonstrating the direct application of the key product, the zinc cream, which is explicitly stated to 'ERASE Acne, Acne Marks,' showing the main solution in action."
+    },
+    {
+      "start_time": "00:15.125",
+      "end_time": "00:16.291",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "YUMU Zinc Cream",
+        "product tube",
+        "brand name"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "product showcase",
+          "clear labeling"
+        ]
+      },
+      "why_kept": "This segment explicitly reveals the specific product used, providing essential brand information and a direct 'Product_Intro' that supports the previous action of applying the cream."
+    },
+    {
+      "start_time": "00:16.291",
+      "end_time": "00:17.375",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "UGC_Talking_Head",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "clear skin",
+        "smooth skin",
+        "glowing complexion",
+        "woman's face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "confident pose",
+          "natural light"
+        ]
+      },
+      "why_kept": "This final shot reinforces the successful 'Result_Transformation' of the entire routine, visually confirming the clear skin outcome and providing a subtle 'Positive_Emotion' as the subject shows off her current complexion."
+    }
+  ]
+}

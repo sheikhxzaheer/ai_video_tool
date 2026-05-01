@@ -1,0 +1,220 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid playing\\ssstik.io_@mrs.abeleda__1763805267350.mp4",
+  "detailed_description": "This video captures a delightful toddler's energetic exploration of an indoor soft play area. The little girl is seen confidently navigating a structure built from oversized, colorful LEGO-like blocks, demonstrating her motor skills and curiosity. She climbs up block-stairs, crawls through a rotating tunnel, and joyfully slides down a small chute, exhibiting pure happiness and engagement throughout her playtime. The video highlights the interactive and stimulating environment for young children, focusing on active play and positive emotional reactions.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.300",
+      "structural_tags": [
+        "Human_Interaction",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "child",
+        "climbing",
+        "soft blocks",
+        "colorful playground",
+        "indoor play"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright colors",
+          "soft play area"
+        ]
+      },
+      "why_kept": "This segment establishes the primary action of the child actively engaging with the block-based play structure, showcasing her motor skills and setting the context for the playground environment."
+    },
+    {
+      "start_time": "00:11.700",
+      "end_time": "00:15.500",
+      "structural_tags": [
+        "Human_Interaction",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "child",
+        "crawling",
+        "tunnel",
+        "orange tunnel",
+        "indoor play"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright colors",
+          "soft play area"
+        ]
+      },
+      "why_kept": "This segment demonstrates interaction with a different and engaging play element (the rotating tunnel), adding variety to the child's exploration and maintaining the theme of active play."
+    },
+    {
+      "start_time": "00:17.000",
+      "end_time": "00:23.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "High_Energy",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "child",
+        "sliding",
+        "slide",
+        "blue and orange slide",
+        "happy face",
+        "indoor play"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright colors",
+          "soft play area"
+        ]
+      },
+      "why_kept": "This segment captures a key play activity with a clear 'result' (sliding) and a strong 'emotional climax' shown by the child's happy facial expression and outstretched arms, conveying pure enjoyment."
+    },
+    {
+      "start_time": "00:27.000",
+      "end_time": "00:30.500",
+      "structural_tags": [
+        "Human_Interaction",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "child",
+        "climbing",
+        "soft blocks",
+        "colorful playground",
+        "indoor play"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright colors",
+          "soft play area",
+          "castle structure"
+        ]
+      },
+      "why_kept": "This segment provides a wider view of the child interacting with the climbing blocks, reinforcing the 'process' of play and showing the scale of the colorful playground structure."
+    },
+    {
+      "start_time": "00:43.000",
+      "end_time": "00:46.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "child",
+        "crawling",
+        "tunnel",
+        "orange tunnel",
+        "indoor play"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright colors",
+          "soft play area"
+        ]
+      },
+      "why_kept": "This repeated action of the child entering and exiting the tunnel reinforces her engagement with all parts of the play area, showing sustained active participation."
+    },
+    {
+      "start_time": "00:48.000",
+      "end_time": "00:53.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "High_Energy",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "child",
+        "sliding",
+        "slide",
+        "blue and orange slide",
+        "happy face",
+        "indoor play"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright colors",
+          "soft play area"
+        ]
+      },
+      "why_kept": "This final segment provides another clear instance of the 'emotional climax' and joy derived from the slide, concluding the video on a high note of positive interaction and fun."
+    }
+  ]
+}

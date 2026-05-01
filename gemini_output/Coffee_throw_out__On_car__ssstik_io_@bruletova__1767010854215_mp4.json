@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Coffee throw out\\On car\\ssstik.io_@bruletova__1767010854215.mp4",
+  "detailed_description": "This video captures a woman's moment of frustration upon discovering two coffee cups left on the hood of her black Mercedes car. As she approaches, her facial expression clearly conveys annoyance. She proceeds to pick up one of the cups, throws it away, and then briefly wipes the car's hood with her hand, still visibly bothered by the situation. The scene unfolds on an urban street with luxury stores in the background, highlighting an unexpected and inconvenient interaction with her vehicle.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.400",
+      "structural_tags": [
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Messy_Unorganized",
+        "Lifestyle_Active",
+        "Travel_Transit",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman walking",
+        "black Mercedes car",
+        "coffee cups on car",
+        "woman wiping car",
+        "annoyed expression",
+        "street",
+        "Chanel store"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "serious",
+          "frustrated"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "urban setting",
+          "natural lighting",
+          "candid feel"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, showcasing the 'Problem_State' (coffee cups on the car), the 'Face_Reaction' of annoyance, and the 'Human_Interaction' as the woman takes immediate action to address the 'Messy_Unorganized' situation by removing a cup and wiping the car. No part of the action or reaction feels extraneous; it captures a complete micro-narrative without setup or dead air, adhering to the 'no-mistake' rule."
+    }
+  ]
+}

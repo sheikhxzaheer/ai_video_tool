@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Dermaroller\\ðöðÁÐÇð╝ð░ÐÇð¥ð╗ð╗ðÁÐÇ 2.mp4",
+  "detailed_description": "This video showcases a man's personal routine to combat hair loss and stimulate growth along his front hairline. It begins by visually setting the context of his current hair condition and his goal to 'get back his front hairs.' The core of the video demonstrates the detailed process of using a derma roller tool on his scalp, meticulously applying it to the receding hairline. This highlights the practical application of a hair loss prevention method, positioning the derma rolling as his chosen 'routine against hairloss.'",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.784",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair",
+        "hairline",
+        "derma roller",
+        "scalp",
+        "hand",
+        "hair care tool"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "steady shot",
+          "focused on action"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it seamlessly transitions from establishing the problem/goal (getting back front hairs) to directly demonstrating the solution/process (using a derma roller). It encapsulates the full 'Semantic Core' by showing the product interaction, the mechanism of action, and the routine itself, all without any unnecessary setup or dead air."
+    }
+  ]
+}

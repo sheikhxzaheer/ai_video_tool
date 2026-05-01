@@ -1,0 +1,79 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold\\ssstik.io_@mamajopittman_1768831858373.mp4",
+  "detailed_description": "The video chronicles the alarming discovery of widespread mold within a home's drywall. It begins with the essential safety step of powering down the house. What starts as a casual, almost playful act of breaking a wall soon reveals a severe mold infestation behind the plasterboard. The footage captures the rapid escalation from initial impact to the shocking visual confirmation of extensive black mold, underlining the unexpected scale of the issue and the immediate need for professional remediation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.800",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "woman",
+        "electrical panel",
+        "power switch",
+        "house exterior"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "safety preparation",
+          "home maintenance"
+        ]
+      },
+      "why_kept": "This segment provides essential safety context by showing the power being turned off before any demolition work begins."
+    },
+    {
+      "start_time": "00:06.800",
+      "end_time": "00:38.800",
+      "structural_tags": [
+        "Problem_State",
+        "Result_Transformation",
+        "Negative_Emotion",
+        "Shock_Surprise",
+        "Lifestyle_Active",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hammer",
+        "drywall",
+        "wall demolition",
+        "mold",
+        "exposed wooden studs",
+        "debris",
+        "child"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "shock_surprise"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "home renovation",
+          "DIY",
+          "unexpected discovery",
+          "damage reveal"
+        ]
+      },
+      "why_kept": "This segment captures the core action of breaking the wall, the surprising and alarming discovery of extensive mold, the transformation of the wall from intact to exposed, and the emotional impact conveyed through text, making it the central hero moment demonstrating the problem and its reveal."
+    }
+  ]
+}

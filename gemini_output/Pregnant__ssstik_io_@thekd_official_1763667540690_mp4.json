@@ -1,0 +1,291 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pregnant\\ssstik.io_@thekd.official_1763667540690.mp4",
+  "detailed_description": "The video highlights a busy pregnant woman's struggle with household chores, specifically vacuuming, and how the Dreame D20+ Robot Vacuum provides a solution. It showcases the robot's features like powerful suction, a detangling brush, and dual vacuuming and mopping capabilities. The product's efficiency allows her more free time, leading to peace of mind and more quality moments with her fiancé and soon-to-be baby. The video concludes with a call to action for an Amazon Prime Day deal.",
+  "segments": [
+    {
+      "start_time": "00:08.500",
+      "end_time": "00:10.500",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "pregnant woman",
+        "man",
+        "cuddling",
+        "robot vacuum",
+        "living room"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "living room"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the core problem (lack of time for vacuuming) while visually introducing the product in the environment, setting the stage for its solution."
+    },
+    {
+      "start_time": "00:10.500",
+      "end_time": "00:12.300",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "robot vacuum",
+        "charging dock",
+        "Dreame brand"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean, bright aesthetic"
+        ]
+      },
+      "why_kept": "Clearly introduces the product itself, showcasing its design and readiness for use."
+    },
+    {
+      "start_time": "00:12.300",
+      "end_time": "00:13.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "pregnant woman",
+        "washing dishes",
+        "robot vacuum cleaning",
+        "kitchen"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "everyday life, practical use"
+        ]
+      },
+      "why_kept": "Demonstrates the product's autonomous function in a real-world setting, directly addressing the user's 'busy' problem."
+    },
+    {
+      "start_time": "00:14.300",
+      "end_time": "00:16.100",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "robot vacuum",
+        "dog food",
+        "sucking up debris",
+        "clean floor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "close-up action, clear demonstration"
+        ]
+      },
+      "why_kept": "Visually proves the product's powerful suction capability by showing it cleaning a spill."
+    },
+    {
+      "start_time": "00:16.100",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "woman's hand",
+        "robot vacuum",
+        "detangling brush",
+        "underside of vacuum"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed view, feature highlight"
+        ]
+      },
+      "why_kept": "Highlights a specific, advanced feature of the product (detangling brush) with direct interaction."
+    },
+    {
+      "start_time": "00:18.000",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "robot vacuum",
+        "tiled floor",
+        "hallway"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "smooth movement, efficient cleaning"
+        ]
+      },
+      "why_kept": "Shows the vacuum's operation across different floor types, reinforcing its versatility."
+    },
+    {
+      "start_time": "00:20.000",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "robot vacuum",
+        "spilled powder",
+        "mopping action",
+        "clean trail"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "action shot, clear transformation"
+        ]
+      },
+      "why_kept": "Clearly demonstrates the product's mopping capability and its effectiveness in cleaning liquid spills."
+    },
+    {
+      "start_time": "00:23.000",
+      "end_time": "00:27.500",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "pregnant woman",
+        "man",
+        "hugging",
+        "smiling",
+        "kitchen"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "positive emotion"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "emotional connection, lifestyle benefit"
+        ]
+      },
+      "why_kept": "This is the emotional climax, showing the ultimate benefit of the product – more quality time and peace of mind for the family."
+    },
+    {
+      "start_time": "00:29.000",
+      "end_time": "00:30.500",
+      "structural_tags": [
+        "Offer_CTA",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "robot vacuum",
+        "charging dock",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clear text, product focus"
+        ]
+      },
+      "why_kept": "Provides a direct call to action with the product prominently displayed, reinforcing the offer."
+    }
+  ]
+}

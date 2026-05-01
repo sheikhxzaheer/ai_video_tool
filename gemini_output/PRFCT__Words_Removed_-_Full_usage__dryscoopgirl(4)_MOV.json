@@ -1,0 +1,296 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\Words Removed - Full usage\\dryscoopgirl(4).MOV",
+  "detailed_description": "The video captures a woman's energetic daily supplement routine from her car. She starts by happily consuming a 'Pump Sauce' shot, expressing satisfaction. Then, she navigates the common struggle of opening a supplement packet, showing a relatable mix of effort and a 'wow' reaction upon success, even joking about the recurring challenge. Finally, she pours the contents into a drink, enjoys it, and ends with a satisfied look and a call-to-action gesture, highlighting her playful and committed approach to her health regimen.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "car interior",
+        "blue supplement bottle"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car",
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright natural lighting"
+        ]
+      },
+      "why_kept": "This segment introduces the first product with a clear shot and a positive demeanor, setting the tone for the routine. It's concise and visually strong."
+    },
+    {
+      "start_time": "00:04.200",
+      "end_time": "00:11.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Emotional_Climax",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "drinking",
+        "blue supplement bottle",
+        "smile"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car",
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright natural lighting"
+        ]
+      },
+      "why_kept": "This segment shows direct product interaction as the woman consumes the first supplement, accompanied by a clear positive emotional climax (smile of enjoyment)."
+    },
+    {
+      "start_time": "00:18.400",
+      "end_time": "00:26.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Emotional_Climax"
+      ],
+      "visual_keywords": [
+        "woman",
+        "opening packet",
+        "struggle",
+        "supplement packet"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car",
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright natural lighting"
+        ]
+      },
+      "why_kept": "This segment demonstrates the process and labor of opening a product, featuring a relatable struggle that adds a touch of humor and emotional climax."
+    },
+    {
+      "start_time": "00:30.000",
+      "end_time": "00:32.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Shock_Surprise",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "wow reaction",
+        "opened packet"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car",
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "shock_surprise"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright natural lighting"
+        ]
+      },
+      "why_kept": "Captures a distinct emotional climax (surprise/satisfaction) at the moment the packet finally opens, enhancing the narrative of the product interaction."
+    },
+    {
+      "start_time": "00:32.000",
+      "end_time": "00:40.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Emotional_Climax"
+      ],
+      "visual_keywords": [
+        "woman",
+        "squeezing packet",
+        "funny face",
+        "struggle",
+        "supplement packet"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car",
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright natural lighting"
+        ]
+      },
+      "why_kept": "Highlights the ongoing product interaction and process, including a verbalized, relatable struggle ('every single time') which adds to the emotional climax and personality."
+    },
+    {
+      "start_time": "00:41.000",
+      "end_time": "00:48.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pouring",
+        "drinking",
+        "cup",
+        "straw",
+        "supplement liquid"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car",
+          "indoor"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright natural lighting"
+        ]
+      },
+      "why_kept": "Shows the complete product interaction of preparing and consuming the second supplement, a key part of her routine."
+    },
+    {
+      "start_time": "00:48.500",
+      "end_time": "00:51.500",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "satisfied expression",
+        "pointing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car",
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright natural lighting"
+        ]
+      },
+      "why_kept": "Conveys a strong positive emotional climax, indicating satisfaction with the routine/products, and includes a gesture of self-reference."
+    },
+    {
+      "start_time": "00:51.500",
+      "end_time": "00:53.000",
+      "structural_tags": [
+        "Social_Proof",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hand gesture",
+        "L-sign"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car",
+          "indoor"
+        ],
+        "mood": [
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright natural lighting"
+        ]
+      },
+      "why_kept": "Includes a distinctive hand gesture that acts as a form of social proof or subtle call to action, engaging the viewer."
+    },
+    {
+      "start_time": "00:54.000",
+      "end_time": "00:59.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "woman",
+        "drinking",
+        "cup",
+        "straw",
+        "pointing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car",
+          "indoor"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright natural lighting"
+        ]
+      },
+      "why_kept": "Reinforces product interaction through continued consumption and concludes with a clear pointing gesture, often associated with a call to action."
+    }
+  ]
+}

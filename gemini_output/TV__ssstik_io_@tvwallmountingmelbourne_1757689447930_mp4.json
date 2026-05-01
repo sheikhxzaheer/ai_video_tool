@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\TV\\ssstik.io_@tvwallmountingmelbourne_1757689447930.mp4",
+  "detailed_description": "This video showcases a large, wall-mounted television displaying dynamic scenic images. A person interacts with the TV by gently pushing its side, causing the displayed image to seamlessly change from a serene landscape with a tree by water to a majestic snowy mountain range. The interaction highlights the TV's immersive display capabilities and the user's positive experience, culminating in a satisfied smile.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:05.127",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "large TV",
+        "wall-mounted display",
+        "person interacting",
+        "changing images",
+        "mountain scenery",
+        "beach/tree scenery",
+        "soundbar",
+        "wooden console",
+        "white wall",
+        "wooden floor"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "modern home",
+          "dynamic screen",
+          "natural light"
+        ]
+      },
+      "why_kept": "This entire segment serves as the core demonstration. It begins immediately with the product interaction, showing the unique feature of the TV dynamically changing images as the person touches it. The person's positive reaction and smile at the end reinforce the product's appeal and the seamless transition of the display is the primary 'reveal/result' and 'product interaction' hero moment."
+    }
+  ]
+}

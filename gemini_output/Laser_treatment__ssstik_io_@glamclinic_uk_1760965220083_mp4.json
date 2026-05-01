@@ -1,0 +1,73 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Laser treatment\\ssstik.io_@glamclinic_uk_1760965220083.mp4",
+  "detailed_description": "The video showcases a multi-step facial treatment. It begins with a carbon laser peel, where a technician uses a laser device on a client's face, which is covered in a black carbon mask. The laser's action visibly treats the skin, causing flashes as it interacts with the carbon, aiming to rejuvenate and cleanse. This is followed by the application of a soothing golden facial mask, indicating a comprehensive approach to skincare for a glowing complexion.",
+  "segments": [
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:13.500",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "laser device",
+        "carbon mask",
+        "facial treatment",
+        "laser flashes",
+        "skin rejuvenation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "controlled environment"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the core 'Mechanism_Of_Action' of the carbon laser peel, showing the process of the laser interacting with the mask and the initial transformation of the skin. It is the primary professional action in the video."
+    },
+    {
+      "start_time": "00:14.000",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Calm_Relaxation",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "golden mask",
+        "facial mask",
+        "beauty treatment",
+        "hydrating mask"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "aesthetic shot"
+        ]
+      },
+      "why_kept": "This segment shows a subsequent step in the comprehensive facial treatment, representing 'Product_Interaction' with the golden mask, which contributes to the overall 'Result_Transformation' of the skin and provides a calming conclusion to the active laser treatment."
+    }
+  ]
+}

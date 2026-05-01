@@ -1,0 +1,127 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_Tatiana_poductdemo.mp4",
+  "detailed_description": "The video showcases a nightly Korean beauty skincare routine using two products from the brand QUIA. It begins with the application of a 'Collagen Night Wrapping Mask,' which is a clear, gel-like substance applied with a brush. The mask transforms into a transparent, peelable film that the user carefully removes from her face. Following this, she applies a 'Collagen Niacinamide Jelly Cream' with a spatula and massages it into her skin. The video emphasizes product interaction, the mask's unique peel-off mechanism, and the user's satisfied reaction after each step.",
+  "segments": [
+    {
+      "start_time": "00:02.091",
+      "end_time": "00:06.324",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Night_Routine",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying mask",
+        "silicone brush",
+        "gel mask",
+        "face",
+        "mirror reflection"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean background",
+          "focus on face and product"
+        ]
+      },
+      "why_kept": "This segment introduces the first product and clearly demonstrates its application, showing the initial step of the night routine and the texture of the mask as it's applied."
+    },
+    {
+      "start_time": "00:06.324",
+      "end_time": "00:14.116",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Night_Routine",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "woman",
+        "peeling mask",
+        "clear film",
+        "forehead",
+        "cheek",
+        "chin",
+        "satisfied expression",
+        "mirror reflection"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean background",
+          "focus on face and action"
+        ]
+      },
+      "why_kept": "This is a key 'hero moment' demonstrating the unique peel-off mechanism of the mask and the immediate visual result, concluding with a clear positive emotional reaction from the user."
+    },
+    {
+      "start_time": "00:14.850",
+      "end_time": "00:21.083",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Process",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Night_Routine",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "woman",
+        "scooping cream",
+        "jelly cream",
+        "spatula",
+        "applying cream",
+        "massaging face",
+        "smiling",
+        "mirror reflection"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean background",
+          "focus on face and product"
+        ]
+      },
+      "why_kept": "This segment completes the skincare routine by showcasing the second product, its application, and the user's final satisfied expression, reinforcing the overall positive experience."
+    }
+  ]
+}

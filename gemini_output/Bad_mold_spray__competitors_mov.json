@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad mold spray\\competitors.mov",
+  "detailed_description": "The video captures a woman in a laundry room holding a green spray bottle, which appears to be a cleaning product. She points at the product's label with a surprised and slightly frustrated expression, articulating her concern that the product is 'complicated and sometimes just ineffective.' This segment effectively sets up a problem state related to product usability and efficacy, using both verbal commentary and clear emotional cues.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.076",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Intro",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Confusion_Doubt",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "green spray bottle",
+        "product label",
+        "pointing finger",
+        "laundry room",
+        "washing machine"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "confusion",
+          "doubt"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "well-lit",
+          "clear focus"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it clearly demonstrates 'Product Interaction' (holding and pointing at the product), 'Emotional Climax' (surprised/concerned facial expressions), and 'Key Information' (verbalizing the product's perceived complexity and ineffectiveness). It immediately establishes a 'Problem State' which is crucial for the video's potential narrative. The entire duration is kept as it adheres to the 'No-Mistake Rule,' starting and ending precisely with the relevant action and dialogue, and follows the 'Visual Priority Rule' by showing product interaction while speaking."
+    }
+  ]
+}

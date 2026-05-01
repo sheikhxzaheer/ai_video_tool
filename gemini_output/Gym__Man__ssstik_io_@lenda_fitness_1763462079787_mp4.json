@@ -1,0 +1,180 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Gym\\Man\\ssstik.io_@lenda_fitness_1763462079787.mp4",
+  "detailed_description": "This video centers on an incredibly fit man, aged 62, demonstrating his strength and agility through an intense gym workout. It highlights his dedication as he performs various exercises, including dips, shoulder presses, and triceps pushdowns, showcasing his well-developed muscles. His energetic demeanor and the impressive results of his consistent training are clearly visible, culminating in a powerful flex. The core message emphasizes that age is just a number when it comes to maintaining a strong and healthy physique. It serves as an inspiring example of fitness into later life.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.200",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Process_Labor",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "man",
+        "gym",
+        "dips",
+        "exercise machine",
+        "62 anos text"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym",
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "inspiring"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dynamic camera movement",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment immediately establishes the context with the '62 anos' text and shows the man actively engaging in a demanding exercise, setting up the impressive nature of his fitness."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Process_Labor",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "dips",
+        "smiling",
+        "gym equipment"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym",
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean gym aesthetic",
+          "focused action"
+        ]
+      },
+      "why_kept": "This clip showcases the man performing dips with a visible smile, reinforcing the positive emotional aspect of his active lifestyle and the 'process' of his workout."
+    },
+    {
+      "start_time": "00:04.500",
+      "end_time": "00:07.400",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "man",
+        "shoulder press",
+        "gym machine",
+        "muscles"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "gym",
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "determined"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "varied angles",
+          "focus on exertion"
+        ]
+      },
+      "why_kept": "This sequence effectively demonstrates the man's strength and the 'process' of his upper body workout through multiple angles of a shoulder press, highlighting his muscular development."
+    },
+    {
+      "start_time": "00:08.500",
+      "end_time": "00:11.200",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Process_Labor",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "man",
+        "triceps pushdown",
+        "cable machine",
+        "arms",
+        "rope attachment"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "gym",
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "close-up on action",
+          "showing muscle contraction"
+        ]
+      },
+      "why_kept": "This segment focuses on the triceps pushdown, providing a closer look at the muscle engagement and effort, further illustrating the 'process' of his comprehensive workout."
+    },
+    {
+      "start_time": "00:12.000",
+      "end_time": "00:13.600",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "flexing",
+        "muscles",
+        "smiling",
+        "abs"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym",
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "energetic",
+          "inspiring"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct gaze",
+          "showcasing physique"
+        ]
+      },
+      "why_kept": "This is the ultimate 'reveal' and 'result' of his fitness journey, culminating in a confident flex and smile that visually validates the impressive physique achieved at 62 years old, serving as the core message of the video."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Tired\\Woman\\ssstik.io_@taylor_greenhagen_1760543007207.mp4",
+  "detailed_description": "This humorous video vividly portrays the relatable struggle of waking up utterly exhausted, despite having just slept. It cleverly sets up this 'problem state' by showing a person's disoriented morning reaction, then immediately reveals the ironic cause: the night before, when they were wide awake and highly entertained by their phone at 1 AM. The juxtaposition of morning fatigue with late-night digital engagement effectively highlights the common modern dilemma of self-inflicted sleep deprivation. Through this comedic 'result and cause' format, the video resonates with viewers who experience the consequences of poor sleep habits. It encapsulates the emotional climax of both frustration and careless joy, forming a cohesive and engaging narrative.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.950",
+      "structural_tags": [
+        "Problem_State",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Confusion_Doubt",
+        "Morning_Routine",
+        "Human_Interaction",
+        "Time_Wasted"
+      ],
+      "visual_keywords": [
+        "woman waking up",
+        "tired expression",
+        "rubbing face",
+        "sitting up in bed",
+        "bed",
+        "duvet",
+        "pillow",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "serious",
+          "confused",
+          "negative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "home video style"
+        ]
+      },
+      "why_kept": "This segment establishes the core 'problem state' of the meme, featuring the individual waking up visibly exhausted and confused. The clear facial expressions of fatigue and doubt effectively communicate the emotional climax and set the stage for the humorous explanation that follows, making it a strong anchor for the video's message."
+    },
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:09.133",
+      "structural_tags": [
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Night_Routine",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Time_Wasted"
+      ],
+      "visual_keywords": [
+        "woman in bed",
+        "laughing hysterically",
+        "holding phone",
+        "scrolling",
+        "duvet",
+        "bedroom"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "lighthearted"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "home video style",
+          "night setting"
+        ]
+      },
+      "why_kept": "This segment provides the comedic and ironic explanation for the exhaustion shown in the first segment. It features active product interaction with a phone and a strong emotional climax of exaggerated laughter, directly illustrating the 'cause' of the morning fatigue and serving as the punchline of the meme."
+    }
+  ]
+}

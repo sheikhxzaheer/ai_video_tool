@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLlife_apply\\Scene24_Social Situations.mp4",
+  "detailed_description": "This video captures a dog's innate curiosity and exploratory behavior in its natural outdoor environment. The dog, wearing a purple collar, is shown diligently sniffing and occasionally digging along the base of a house, investigating various scents in the grass and dirt. Its sustained focus on discovery demonstrates a typical canine 'process' of engaging with its surroundings.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Product_Present",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "dog",
+        "pitbull",
+        "sniffing",
+        "digging",
+        "grass",
+        "house wall",
+        "purple collar",
+        "blue ball (background)"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "curious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "steady camera"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the 'Process/Labor' of the dog actively sniffing and occasionally digging along the house's foundation. It is the longest continuous and most focused representation of the dog's primary action in the video. The subsequent frames (00:22.000-00:27.900) where the camera pans away from the dog are considered 'Post-Action Dead Air' or irrelevant to the core action and have been trimmed."
+    }
+  ]
+}

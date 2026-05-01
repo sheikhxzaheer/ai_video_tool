@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Emotion\\ssstik.io_1752137375371.mp4",
+  "detailed_description": "This video humorously captures a personal moment where a wife discovers her husband binge-watching her TikTok videos in bed. The scene opens with the husband engrossed in his phone, and the camera then zooms in to reveal her personal TikTok profile displayed on the screen. The text overlay adds a playful touch, noting it's the '100th time' she's caught him, highlighting a sweet and relatable domestic interaction.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "husband",
+        "bed",
+        "phone",
+        "TikTok",
+        "scrolling",
+        "watching",
+        "TikTok profile",
+        "videos"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "affectionate"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "domestic setting",
+          "handheld camera",
+          "zoom-in"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core, showcasing the husband's engagement with the wife's TikTok profile, which is the central 'reveal' and key action of the video. It directly supports the text overlay's narrative, conveying the humor and affectionate nature of the interaction. There is no extraneous footage; the action starts immediately and concludes after the phone screen is clearly visible."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\ssstik.io_1748359367699.mp4",
+  "detailed_description": "This video is a detailed 3D animation showcasing the formation and composition of a blood clot within a blood vessel. It visually illustrates how red blood cells, platelets (small purple discs), white blood cells (larger white spheres), and fibrin strands intertwine and accumulate to form a thrombotic mass. The animation provides a microscopic view of this vital biological process, with various blood components flowing past and becoming integrated into the growing clot. It serves as an educational representation of the 'Mechanism of Action' behind blood coagulation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Macro_Detail",
+        "Cellular_Deep_Dive",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "blood clot",
+        "red blood cells",
+        "white blood cells",
+        "platelets",
+        "fibrin",
+        "blood vessel",
+        "blood flow",
+        "microscopic view",
+        "medical animation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "medical illustration",
+          "smooth camera movement",
+          "detailed rendering",
+          "biological process"
+        ]
+      },
+      "why_kept": "The entire video is a continuous, high-quality 3D animation that fully demonstrates the formation and composition of a blood clot, acting as a clear 'Mechanism_Of_Action' and 'Cellular_Deep_Dive'. It starts exactly with the action and ends when the action stops, adhering to the 'no-mistake' rule, making the entire duration the semantic core."
+    }
+  ]
+}

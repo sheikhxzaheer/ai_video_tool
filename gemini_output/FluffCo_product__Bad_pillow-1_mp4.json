@@ -1,0 +1,38 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Bad pillow-1.mp4",
+  "detailed_description": "The video prominently displays a close-up of a pillow covered in a striped pillowcase, showing noticeable yellow stains. Text overlays appear sequentially, first stating \"Your pillow is,\" then \"causing your,\" and finally \"acne.\" This entire segment serves as a visual hook and clearly defines a common problem, linking unhygienic pillows to skin issues like acne, thereby setting up a potential need for a solution.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:02.16",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "stained pillow",
+        "pillowcase",
+        "yellow stains",
+        "hand holding pillow",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "domestic setting",
+          "informational text"
+        ]
+      },
+      "why_kept": "This entire segment functions as the semantic core by immediately presenting a visual problem (stained pillow) and explicitly stating its consequence (causing acne) through on-screen text. It's a clear 'problem state' introduction and a visual hook that fully conveys the video's initial message."
+    }
+  ]
+}

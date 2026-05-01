@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated Before_After\\ssstik.io_@aleynabarrera_1774537127656.mp4",
+  "detailed_description": "This video visually demonstrates the 'before and after' effects on a woman's abdomen following a healthy, whole food-based, high-protein meal. Initially, her stomach appears flat, representing the 'before' state. Subsequently, she reveals a slightly distended abdomen, illustrating the natural physiological response, commonly known as bloating, that can occur even after consuming nutritious food. The video aims to normalize these bodily changes.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Before_After",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Lifestyle_Active",
+        "Calm_Relaxation",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "abdomen",
+        "stomach",
+        "flat",
+        "bloated",
+        "distended",
+        "black crop top",
+        "pink sports bra",
+        "jeans",
+        "shorts"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear lighting",
+          "straightforward presentation"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, directly demonstrating the 'before and after' comparison of the woman's abdomen following a meal. It visually conveys the core message about post-meal body changes, which is explicitly stated in the on-screen text."
+    }
+  ]
+}

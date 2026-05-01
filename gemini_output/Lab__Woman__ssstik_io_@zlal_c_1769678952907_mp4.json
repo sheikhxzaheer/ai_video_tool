@@ -1,0 +1,290 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Lab\\Woman\\ssstik.io_@zlal_c_1769678952907.mp4",
+  "detailed_description": "This video provides a captivating glimpse into the intricate world of cancer research, showcasing a scientist's daily work in a laboratory setting. It highlights various meticulous procedures, including retrieving cryopreserved cell samples, culturing cells in incubators, performing microscopy to observe cellular structures, and precisely handling reagents through pipetting for assays. The footage emphasizes the precision, specialized equipment, and dedicated effort involved in scientific experimentation aimed at understanding and potentially combating cancer.",
+  "segments": [
+    {
+      "start_time": "00:02.100",
+      "end_time": "00:06.100",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Process_Labor",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "scientist",
+        "gloves",
+        "cryogenic freezer",
+        "samples",
+        "lab equipment",
+        "liquid nitrogen vapor"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "laboratory"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment establishes the core activity of handling sensitive research samples, demonstrating a critical step in laboratory work with specialized equipment."
+    },
+    {
+      "start_time": "00:06.100",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Process_Labor",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "scientist",
+        "gloves",
+        "incubator",
+        "cell culture plates",
+        "lab equipment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "laboratory"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment shows the process of maintaining cell cultures, a fundamental activity in biological and cancer research, highlighting product interaction with an incubator."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:10.100",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Process_Labor",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "scientist",
+        "gloves",
+        "microscope",
+        "cell culture plate",
+        "lab equipment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "laboratory"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment demonstrates the preparation for microscopic observation, a key step in analyzing cell behavior and morphology in cancer research."
+    },
+    {
+      "start_time": "00:10.100",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Reveal_Result",
+        "Macro_Detail",
+        "Cellular_Deep_Dive",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "microscope view",
+        "cells",
+        "cancer cells",
+        "cellular structures"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "laboratory"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "scientific visualization",
+          "detailed"
+        ]
+      },
+      "why_kept": "This is a hero moment as it visually reveals the subject of cancer research – the cells themselves – through the microscope, providing a direct connection to the scientific work."
+    },
+    {
+      "start_time": "00:12.000",
+      "end_time": "00:13.800",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Process_Labor",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "scientist",
+        "gloves",
+        "pipette",
+        "cell culture plates",
+        "laminar flow hood",
+        "lab equipment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "laboratory"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sterile environment",
+          "precise movements"
+        ]
+      },
+      "why_kept": "This segment illustrates sterile liquid handling, a critical and repetitive task in cell culture and experimental setup in a research lab."
+    },
+    {
+      "start_time": "00:13.800",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Behind_The_Scenes",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "syringes",
+        "needles",
+        "scalpel",
+        "beakers",
+        "test tubes",
+        "lab equipment",
+        "reagents"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "laboratory"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "organized",
+          "scientific tools"
+        ]
+      },
+      "why_kept": "This segment serves as supporting BROLL, showcasing the array of specialized tools and materials frequently used in cancer research, reinforcing the scientific context."
+    },
+    {
+      "start_time": "00:16.000",
+      "end_time": "00:19.500",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Process_Labor",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "scientist",
+        "gloves",
+        "pipette",
+        "test tubes",
+        "ice bath",
+        "multi-well plate",
+        "lab equipment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "laboratory"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "precise technique",
+          "temperature control"
+        ]
+      },
+      "why_kept": "This segment combines two key laboratory procedures: precise pipetting into test tubes on ice (for temperature-sensitive samples) and into a multi-well plate (for assays), demonstrating core experimental techniques."
+    },
+    {
+      "start_time": "00:19.500",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Process_Labor",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "scientist",
+        "gloves",
+        "microscope",
+        "adjusting controls",
+        "lab equipment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "laboratory"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused work",
+          "attention to detail"
+        ]
+      },
+      "why_kept": "This concluding segment reinforces the continuous and iterative nature of scientific investigation, showing the researcher actively engaged with the microscope, a central tool in cell biology."
+    }
+  ]
+}

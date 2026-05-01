@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20251211_134844409.mp4",
+  "detailed_description": "The video showcases a person holding two pouches of the 'PERFECT MORNING TANGERINE PULSE' product in a bright kitchen environment. The individual gently shakes and turns the packages, allowing a clear view of the branding and product information on the front of each pouch. The primary focus is on the physical presentation of the product, highlighting its packaging and suggesting its nature as a supplement or nutritional item.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:17.388",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Home_Kitchen",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "person holding product pouches",
+        "Tangerine Pulse packaging",
+        "kitchen counter",
+        "white cabinets"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "clean background",
+          "handheld camera"
+        ]
+      },
+      "why_kept": "This entire segment is the Semantic Core as it directly demonstrates the 'Product Interaction' hero moment. The person is actively holding and subtly presenting two packages of the product, allowing the viewer to see its branding and form. There is no significant setup, dead air, or extraneous activity to trim, thus adhering to the 'no-mistake' rule."
+    }
+  ]
+}

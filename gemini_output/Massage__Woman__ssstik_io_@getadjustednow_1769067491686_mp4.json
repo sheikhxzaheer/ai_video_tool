@@ -1,0 +1,247 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Massage\\Woman\\ssstik.io_@getadjustednow_1769067491686.mp4",
+  "detailed_description": "A dancer, who is also an MSG performer, visits a chiropractor for a stiff neck and back. The video showcases various chiropractic techniques including Theragun massage for muscle relaxation, drop table adjustments for the lower back, side-lying rotational adjustments, and neck and thoracic spine manipulations. Each adjustment elicits clear signs of relief and satisfaction from the patient, highlighting the effectiveness of the treatment for active individuals and athletes.",
+  "segments": [
+    {
+      "start_time": "00:08.000",
+      "end_time": "01:01.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Lifestyle_Active",
+        "Calm_Relaxation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "Theragun",
+        "massage",
+        "upper back",
+        "lower back",
+        "glutes",
+        "legs",
+        "dancer",
+        "chiropractor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "percussion massage",
+          "muscle relaxation"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial muscle relaxation process using a Theragun, showing a professional action and product interaction before the main adjustments."
+    },
+    {
+      "start_time": "01:25.000",
+      "end_time": "02:46.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Problem_State",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "chiropractor",
+        "drop table",
+        "lumbar adjustment",
+        "lower back",
+        "stretching",
+        "spine",
+        "dancer"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "spine manipulation",
+          "decompression",
+          "precise movement"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates a core chiropractic adjustment technique, the drop table for the lumbar spine, representing a significant 'process' in addressing back stiffness."
+    },
+    {
+      "start_time": "03:15.000",
+      "end_time": "03:22.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "chiropractor",
+        "side-lying adjustment",
+        "lumbar spine",
+        "crack",
+        "relief",
+        "dancer",
+        "table"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "audible release",
+          "spinal adjustment",
+          "quick motion",
+          "patient reaction"
+        ]
+      },
+      "why_kept": "This segment captures a distinct side-lying lumbar adjustment, featuring an audible 'crack' as a clear 'result' and the patient's immediate positive 'emotional climax' of relief."
+    },
+    {
+      "start_time": "03:31.000",
+      "end_time": "03:41.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "chiropractor",
+        "side-lying adjustment",
+        "lumbar spine",
+        "crack",
+        "relief",
+        "dancer",
+        "table"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "audible release",
+          "spinal adjustment",
+          "quick motion",
+          "patient reaction"
+        ]
+      },
+      "why_kept": "This segment serves as supporting visual 'BROLL', reinforcing the effectiveness of the side-lying adjustment with another 'result' (crack) and 'emotional climax' from the patient."
+    },
+    {
+      "start_time": "04:00.000",
+      "end_time": "04:16.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "chiropractor",
+        "neck adjustment",
+        "cervical spine",
+        "crack",
+        "relief",
+        "smile",
+        "dancer",
+        "table",
+        "head"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "positive",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "neck manipulation",
+          "audible sound",
+          "patient comfort",
+          "facial expression"
+        ]
+      },
+      "why_kept": "This segment highlights the neck adjustment, a crucial 'process' with a clear 'result' (audible crack) and a strong 'emotional climax' evident in the patient's facial expression and smile."
+    },
+    {
+      "start_time": "04:19.000",
+      "end_time": "04:30.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "chiropractor",
+        "upper back adjustment",
+        "thoracic spine",
+        "crack",
+        "relief",
+        "smile",
+        "dancer",
+        "table"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "thoracic manipulation",
+          "hugging motion",
+          "patient reaction",
+          "audible sound"
+        ]
+      },
+      "why_kept": "This segment demonstrates another significant spinal adjustment in the upper back, clearly showing the 'process' and the immediate 'result' (cracks) and 'emotional climax' of patient satisfaction."
+    }
+  ]
+}

@@ -1,0 +1,720 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ð╝ðÁð╗ð░ðÀð╝ð░ .mp4",
+  "detailed_description": "The video showcases a 40-year-old woman's successful journey in treating her melasma, transitioning from visibly inflamed and blemished skin to a clear, radiant complexion. She shares her daily skincare routine, emphasizing the use of specific gentle cleansers and a powerful night serum containing niacinamide and moringa for treating existing spots and promoting collagen. She also highlights a gold serum for morning use, underscoring the importance of a consistent regimen over quick fixes and provides a realistic timeline for achieving significant results.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.164",
+      "structural_tags": [
+        "Visual_Hook",
+        "Key_Information",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "speaking",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "Introduces the speaker and the core problem solved, acting as a strong visual hook for the video's premise."
+    },
+    {
+      "start_time": "00:02.164",
+      "end_time": "00:09.309",
+      "structural_tags": [
+        "Problem_State",
+        "Before_After",
+        "UGC_Talking_Head",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "melasma",
+        "blemishes",
+        "redness",
+        "dark spots"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "concerned"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "profile view"
+        ]
+      },
+      "why_kept": "Visually demonstrates the 'before' state of the skin, clearly showing the melasma and inflammation, establishing the problem addressed by the routine."
+    },
+    {
+      "start_time": "00:09.309",
+      "end_time": "00:14.280",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "UGC_Talking_Head",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "clear skin",
+        "radiant skin",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "happy",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "Presents the 'after' state of the skin, showing a significant improvement and the desired result, serving as the main visual proof of efficacy."
+    },
+    {
+      "start_time": "00:14.280",
+      "end_time": "00:20.909",
+      "structural_tags": [
+        "Result_Transformation",
+        "Social_Proof",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "clear skin",
+        "pointing to skin",
+        "no makeup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "confident",
+          "authentic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "profile view"
+        ]
+      },
+      "why_kept": "Further demonstrates the clear skin, with the speaker pointing to her face and stating no procedures were used, adding credibility and social proof."
+    },
+    {
+      "start_time": "00:21.213",
+      "end_time": "00:25.213",
+      "structural_tags": [
+        "Key_Information",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman speaking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "Provides crucial expertise and a warning about procedures like peeling, which is vital 'Key Information' for those with melasma."
+    },
+    {
+      "start_time": "00:25.393",
+      "end_time": "00:30.909",
+      "structural_tags": [
+        "Key_Information",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "hand gestures"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "Sets up the main action by announcing the routine that led to the skin transformation, providing context for the upcoming product demonstrations."
+    },
+    {
+      "start_time": "00:31.253",
+      "end_time": "00:34.223",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "green bottle",
+        "cleanser",
+        "woman holding product"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "product focus"
+        ]
+      },
+      "why_kept": "Introduces the first product in her routine, a cleanser for sensitive skin, showing initial product interaction."
+    },
+    {
+      "start_time": "00:34.223",
+      "end_time": "00:37.383",
+      "structural_tags": [
+        "Product_Interaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "green bottle",
+        "cleanser",
+        "pointing to face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "product demonstration"
+        ]
+      },
+      "why_kept": "Demonstrates the product's use contextually by pointing to her sensitive skin, reinforcing the product's suitability for melasma."
+    },
+    {
+      "start_time": "00:37.523",
+      "end_time": "00:39.923",
+      "structural_tags": [
+        "Product_Interaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "green bottle",
+        "cleanser"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "product shot"
+        ]
+      },
+      "why_kept": "Provides a clear visual of the facial cleanser, allowing viewers to identify the product discussed."
+    },
+    {
+      "start_time": "00:40.243",
+      "end_time": "00:47.303",
+      "structural_tags": [
+        "Product_Interaction",
+        "Ingredient_Highlight",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "green bottle",
+        "cleanser",
+        "woman speaking",
+        "pointing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "educational"
+        ]
+      },
+      "why_kept": "Highlights key ingredients (niacinamide, moringa) and their benefits, explaining the 'Mechanism_Of_Action' of the cleanser while still interacting with the product."
+    },
+    {
+      "start_time": "00:47.533",
+      "end_time": "00:50.773",
+      "structural_tags": [
+        "Key_Information",
+        "UGC_Talking_Head",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "hand gestures"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "Acts as a crucial transition, introducing the next phase of her routine (night serum) and providing key information about its timing."
+    },
+    {
+      "start_time": "00:50.893",
+      "end_time": "00:56.973",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "dark serum bottle",
+        "woman holding product",
+        "pointing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "excited",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "product highlight"
+        ]
+      },
+      "why_kept": "Introduces the 'miraculous' night serum, highlighting it as the primary solution for various skin issues, with active product interaction."
+    },
+    {
+      "start_time": "00:57.143",
+      "end_time": "01:01.273",
+      "structural_tags": [
+        "Product_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "dark serum bottle",
+        "shaking bottle"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "authentic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "demonstration"
+        ]
+      },
+      "why_kept": "Demonstrates authentic product use (shaking before use) and implied continuous usage, showing it's a staple in her routine."
+    },
+    {
+      "start_time": "01:01.373",
+      "end_time": "01:08.573",
+      "structural_tags": [
+        "Product_Standalone",
+        "Product_Intro"
+      ],
+      "visual_keywords": [
+        "new dark serum bottle",
+        "woman holding product"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "product shot"
+        ]
+      },
+      "why_kept": "Provides a clear, focused shot of the serum bottle, allowing viewers to see the product packaging clearly."
+    },
+    {
+      "start_time": "01:08.643",
+      "end_time": "01:14.653",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "applying serum",
+        "drops of serum",
+        "face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "action shot"
+        ]
+      },
+      "why_kept": "Shows the direct application of the night serum, a key 'Process/Labor' moment, demonstrating how the product is used."
+    },
+    {
+      "start_time": "01:14.733",
+      "end_time": "01:19.983",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "spreading serum",
+        "face",
+        "fingers"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "action shot"
+        ]
+      },
+      "why_kept": "Continues the demonstration of product application, showing the technique for spreading the serum on the skin."
+    },
+    {
+      "start_time": "01:20.153",
+      "end_time": "01:26.043",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "spreading serum",
+        "face",
+        "woman speaking",
+        "hand gestures"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "educational"
+        ]
+      },
+      "why_kept": "Combines product application with explanations of its broader anti-aging benefits (collagen, fine lines), showcasing the 'Mechanism_Of_Action'."
+    },
+    {
+      "start_time": "01:26.173",
+      "end_time": "01:36.783",
+      "structural_tags": [
+        "Key_Information",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "hand gestures"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "Delivers crucial 'Key Information' about managing expectations for skincare, emphasizing that it's a treatment requiring prolonged use, not a miracle."
+    },
+    {
+      "start_time": "01:36.913",
+      "end_time": "01:40.093",
+      "structural_tags": [
+        "Key_Information",
+        "UGC_Talking_Head",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman speaking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "Provides 'Key Information' regarding the morning step of her routine (rinsing off the night serum), ensuring completeness of the shared regimen."
+    },
+    {
+      "start_time": "01:40.163",
+      "end_time": "01:45.923",
+      "structural_tags": [
+        "Product_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "green bottle",
+        "cleanser",
+        "woman holding product"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "product reminder"
+        ]
+      },
+      "why_kept": "Reiterates the use of the sensitive skin cleanser for the morning routine, maintaining product presence and demonstrating consistency."
+    },
+    {
+      "start_time": "01:46.063",
+      "end_time": "01:53.073",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "gold serum bottle",
+        "woman holding product"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "product shot"
+        ]
+      },
+      "why_kept": "Introduces the 'gold serum' used in the morning, completing the full skincare kit and showing another product interaction."
+    },
+    {
+      "start_time": "01:53.193",
+      "end_time": "01:57.653",
+      "structural_tags": [
+        "Offer_CTA",
+        "Key_Information",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "hand gestures"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative",
+          "helpful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "Provides a 'Call to Action' and useful 'Key Information' about purchasing the products as a kit for better value, directing viewers for more details."
+    },
+    {
+      "start_time": "02:07.033",
+      "end_time": "02:27.400",
+      "structural_tags": [
+        "Social_Proof",
+        "Key_Information",
+        "UGC_Talking_Head",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman speaking",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "confident",
+          "happy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "Offers concrete 'Social_Proof' and 'Key_Information' by detailing the timeline for achieving results (45 days for improvement, 3 months for final), boosting credibility."
+    }
+  ]
+}

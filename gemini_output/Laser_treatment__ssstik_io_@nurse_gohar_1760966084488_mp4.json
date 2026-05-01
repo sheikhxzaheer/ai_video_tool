@@ -1,0 +1,168 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Laser treatment\\ssstik.io_@nurse.gohar_1760966084488.mp4",
+  "detailed_description": "This video showcases an aesthetic nurse demonstrating various tools and products used in cosmetic procedures. It highlights the professional preparation steps, including hand sanitization and handling of medical wipes and masks. The core of the video features the use of a laser device on the forehead and the shaking of a liquid vial, illustrating key actions in aesthetic treatments. The video concludes by revealing the brand logo, 'TETRA PRO GRAISE AESTHETICS,' providing a clear identity for the services presented.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "gloves",
+        "clapping",
+        "hand sanitization",
+        "white pad",
+        "wiping action"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "professional"
+        ]
+      },
+      "why_kept": "This segment establishes the professional and clinical setting by showing the aesthetic nurse preparing with gloves and interacting with a sterile wipe, representing initial product interaction and hygiene."
+    },
+    {
+      "start_time": "00:05.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "white mask",
+        "elastic straps",
+        "stretching"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "focused shot"
+        ]
+      },
+      "why_kept": "This segment highlights interaction with another medical product, a mask or cover, with a close-up detail shot demonstrating its features."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "laser device",
+        "forehead",
+        "white pad",
+        "treatment application"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused action",
+          "professional operation"
+        ]
+      },
+      "why_kept": "This is the primary 'Hero Moment' as it directly demonstrates the professional process of an aesthetic treatment, involving specialized equipment (laser) and patient preparation, showing the core service being offered."
+    },
+    {
+      "start_time": "00:13.900",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "vial",
+        "liquid",
+        "shaking",
+        "preparation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up detail",
+          "controlled movement"
+        ]
+      },
+      "why_kept": "This segment shows another crucial product interaction: the preparation of a liquid vial, likely a serum or solution, which is an integral part of many aesthetic procedures."
+    },
+    {
+      "start_time": "00:17.000",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Key_Information",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "logo",
+        "brand name",
+        "TETRA PRO",
+        "GRAISE AESTHETICS"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean graphic",
+          "blurred background"
+        ]
+      },
+      "why_kept": "This segment serves as the brand reveal and key information, clearly presenting the company name and logo associated with the demonstrated aesthetic services."
+    }
+  ]
+}

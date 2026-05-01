@@ -1,0 +1,157 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@cameronsocrazy_1770997331276.mp4",
+  "detailed_description": "This video humorously captures the challenge of learning to operate an ambulance stretcher, focusing on the correct technique for lifting and lowering it. Two female trainees initially struggle with the mechanism, making a comical error by almost dropping the 'patient' and using the wrong lever. Their male instructor guides them through the process, demonstrating the proper use of the levers and coordinated lifting, highlighting the importance of correct form over brute strength.",
+  "segments": [
+    {
+      "start_time": "00:05.900",
+      "end_time": "00:11.750",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Interaction",
+        "Negative_Emotion",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "stretcher",
+        "lifting",
+        "struggling",
+        "near-fall",
+        "female EMTs",
+        "male EMT",
+        "laughter",
+        "frustration"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "clinical"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "confusion"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "dynamic movement"
+        ]
+      },
+      "why_kept": "This segment is crucial as it establishes the initial 'Problem_State' and provides the 'Visual_Hook' through the trainees' comical struggle and near-failure to lift the stretcher. It clearly demonstrates the challenge before learning the correct method, capturing 'Negative_Emotion' and 'Face_Reaction' from the participants."
+    },
+    {
+      "start_time": "00:19.900",
+      "end_time": "00:23.900",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Confusion_Doubt",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "stretcher lever",
+        "foot end lift",
+        "awkward angle",
+        "instruction",
+        "female EMT"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "clinical"
+        ],
+        "mood": [
+          "serious",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear demonstration",
+          "realistic setting"
+        ]
+      },
+      "why_kept": "This segment shows the instructor guiding the trainees to use a specific lever, which turns out to be incorrect for the intended action (lifting the whole stretcher evenly). It highlights the 'Confusion_Doubt' and the learning process in identifying the 'Mechanism_Of_Action' for the stretcher."
+    },
+    {
+      "start_time": "00:28.000",
+      "end_time": "00:32.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "stretcher",
+        "correct lever",
+        "lifting technique",
+        "smooth movement",
+        "successful lift",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "clinical"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear action",
+          "focused interaction"
+        ]
+      },
+      "why_kept": "This is a key 'hero moment' as it demonstrates the first successful and correct 'Mechanism_Of_Action' of the stretcher being lifted evenly using the proper lever. It shows the 'Product_Interaction' effectively and marks a turning point from struggle to understanding, eliciting 'Positive_Emotion'."
+    },
+    {
+      "start_time": "00:48.000",
+      "end_time": "00:51.500",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "coordinated lift",
+        "stretcher",
+        "male instructor",
+        "female trainees",
+        "teamwork",
+        "successful lift"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "clinical"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "team-oriented action",
+          "instructional"
+        ]
+      },
+      "why_kept": "This segment showcases a coordinated and successful lifting of the stretcher, emphasizing 'Human_Interaction' and teamwork under instruction. It reinforces the 'Mechanism_Of_Action' and 'Product_Interaction' with clearer form and execution, leading to a satisfying 'Positive_Emotion' as the task is completed correctly."
+    }
+  ]
+}

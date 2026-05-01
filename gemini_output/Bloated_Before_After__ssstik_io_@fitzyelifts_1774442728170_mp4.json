@@ -1,0 +1,76 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated Before_After\\ssstik.io_@fitzyelifts_1774442728170.mp4",
+  "detailed_description": "This video humorously addresses the common misconception that 'calorie deficit doesn't work.' It starts by showcasing a woman with visible body fat, representing the 'problem state' or the belief that current methods are ineffective. The video then transitions to the same woman displaying a highly toned and muscular abdomen, demonstrating the clear result of successful calorie deficit. The overlaid text explicitly states that 'Thermodynamics apply to all human beings,' reinforcing the scientific principle behind weight loss, implying that consistent effort yields results.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.950",
+      "structural_tags": [
+        "Problem_State",
+        "Before_After",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "belly fat",
+        "sports bra",
+        "shorts",
+        "red door",
+        "white wall",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "simple lighting",
+          "natural look"
+        ]
+      },
+      "why_kept": "This segment establishes the 'problem state' by showing a physique often associated with the belief that calorie deficit is ineffective, setting up the contrast for the subsequent reveal."
+    },
+    {
+      "start_time": "00:03.950",
+      "end_time": "00:09.950",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "toned abs",
+        "crop top",
+        "sweatpants",
+        "brown door",
+        "white wall",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "simple lighting",
+          "natural look"
+        ]
+      },
+      "why_kept": "This segment is the 'hero moment' as it reveals the transformation, demonstrating the efficacy of calorie deficit, and explicitly states the core message that thermodynamics apply to all human beings, providing the solution to the implied problem."
+    }
+  ]
+}

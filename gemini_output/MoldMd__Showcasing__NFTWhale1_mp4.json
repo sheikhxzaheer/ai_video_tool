@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\NFTWhale1.mp4",
+  "detailed_description": "A man in a kitchen demonstrates a small, red and black cleaning brush with a unique folding mechanism. He repeatedly shows how the brush head retracts into the handle for compact storage, highlighting its design. Throughout the demonstration, he maintains a pleasant smile, gives a thumbs-up, and points to the brush, clearly conveying positive sentiment and satisfaction with the product's functionality.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:22.022",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "brush",
+        "folding",
+        "unfolding",
+        "smiling",
+        "thumbs-up",
+        "kitchen",
+        "cabinets"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "clean background"
+        ]
+      },
+      "why_kept": "This entire segment is kept because it comprehensively demonstrates the core feature of the product (the folding brush mechanism) and clearly conveys positive user sentiment through facial expressions and gestures. There is no extraneous setup, post-action dead air, or dialogue-only portions; the whole clip is a concise and effective product demonstration and endorsement, making it the entire semantic core."
+    }
+  ]
+}

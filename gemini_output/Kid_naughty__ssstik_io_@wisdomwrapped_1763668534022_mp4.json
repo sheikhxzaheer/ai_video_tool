@@ -1,0 +1,337 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid naughty\\ssstik.io_@wisdomwrapped_1763668534022.mp4",
+  "detailed_description": "This video humorously depicts the overwhelming and often illogical demands of a toddler, as narrated by a frustrated mother. Each segment features the mother explaining a bizarre, strict 'rule' her child enforces, while the constant cries of the unseen toddler serve as a chaotic backdrop. The mother uses everyday items as props to illustrate these perplexing situations, showcasing her emotional exhaustion and the relatable absurdity of parenting a young child.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.942",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "baby crying",
+        "toddler",
+        "screaming",
+        "wooden floor",
+        "stuffed animal"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment serves as the primary visual hook, immediately establishing the central 'Problem_State' of a screaming toddler, which drives the entire narrative."
+    },
+    {
+      "start_time": "00:02.942",
+      "end_time": "00:07.975",
+      "structural_tags": [
+        "Problem_State",
+        "UGC_Talking_Head",
+        "Confusion_Doubt",
+        "Negative_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman talking",
+        "hand gesture",
+        "black hair",
+        "frustration"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "The woman's narration explains the illogical demands of the toddler ('door has to be a little bit open'), which is the core comedic value. Her facial expression clearly conveys 'Negative_Emotion' and 'Confusion_Doubt' while her hand gesture illustrates the point, serving as a form of symbolic 'Product_Interaction' with the 'door'."
+    },
+    {
+      "start_time": "00:07.975",
+      "end_time": "00:12.015",
+      "structural_tags": [
+        "Problem_State",
+        "UGC_Talking_Head",
+        "Confusion_Doubt",
+        "Negative_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman talking",
+        "white cloth",
+        "floral dress",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home",
+          "bedroom"
+        ],
+        "mood": [
+          "serious",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "soft background blur"
+        ]
+      },
+      "why_kept": "This segment continues the central theme of contradictory toddler rules ('door has to stay shut'), emphasizing the 'Problem_State' and the mother's 'Negative_Emotion'. Her dialogue provides 'Key_Information' about the toddler's demands, with the cloth as an illustrative prop."
+    },
+    {
+      "start_time": "00:12.015",
+      "end_time": "00:19.896",
+      "structural_tags": [
+        "Problem_State",
+        "UGC_Talking_Head",
+        "Product_Interaction",
+        "Negative_Emotion",
+        "Confusion_Doubt"
+      ],
+      "visual_keywords": [
+        "woman talking",
+        "toy",
+        "hand gestures",
+        "floral dress",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home",
+          "bedroom"
+        ],
+        "mood": [
+          "serious",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "soft background blur"
+        ]
+      },
+      "why_kept": "This segment vividly illustrates a highly specific and absurd toddler rule ('yogurt pouch five clicks') through direct 'Product_Interaction' with a toy serving as a prop. The mother's 'Negative_Emotion' and explanation provide crucial 'Key_Information' for the semantic core."
+    },
+    {
+      "start_time": "00:19.896",
+      "end_time": "00:26.929",
+      "structural_tags": [
+        "Problem_State",
+        "UGC_Talking_Head",
+        "Negative_Emotion",
+        "Confusion_Doubt",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman talking",
+        "books",
+        "bookshelf",
+        "striped shirt",
+        "frustration"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment contributes to the pattern of toddler irrationality ('sandal strap rule') with the mother demonstrating the 'rule' using books as a prop, showing her 'Negative_Emotion' and the implied 'Human_Interaction' with the child's demands."
+    },
+    {
+      "start_time": "00:26.929",
+      "end_time": "00:32.962",
+      "structural_tags": [
+        "Problem_State",
+        "UGC_Talking_Head",
+        "Product_Interaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "woman talking",
+        "baby food pouches",
+        "kitchen",
+        "sunglasses",
+        "frustration"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "serious",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment features direct 'Product_Interaction' with baby food pouches while the mother explains another intricate toddler demand ('high chair strapping'), clearly conveying the 'Problem_State' and her 'Negative_Emotion'."
+    },
+    {
+      "start_time": "00:32.962",
+      "end_time": "00:40.996",
+      "structural_tags": [
+        "Problem_State",
+        "UGC_Talking_Head",
+        "Negative_Emotion",
+        "Confusion_Doubt",
+        "Time_Wasted"
+      ],
+      "visual_keywords": [
+        "woman talking",
+        "hand gestures",
+        "red shirt",
+        "bedroom",
+        "frustration"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home",
+          "bedroom"
+        ],
+        "mood": [
+          "serious",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "soft background blur"
+        ]
+      },
+      "why_kept": "The mother's detailed explanation of the 'plate walking' rule highlights the 'Time_Wasted' and 'Negative_Emotion' caused by toddler demands, reinforcing the core theme of the video."
+    },
+    {
+      "start_time": "00:40.996",
+      "end_time": "00:46.963",
+      "structural_tags": [
+        "Problem_State",
+        "UGC_Talking_Head",
+        "Negative_Emotion",
+        "Confusion_Doubt",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman talking",
+        "child's shirt",
+        "blue zipper hoodie",
+        "bedroom",
+        "frustration"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home",
+          "bedroom"
+        ],
+        "mood": [
+          "serious",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment features another specific, arbitrary toddler rule ('toothbrush light blinking'), with the mother using a child's shirt as a prop to convey her 'Negative_Emotion' and the child's demanding nature."
+    },
+    {
+      "start_time": "00:46.963",
+      "end_time": "00:54.663",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Emotional_Climax",
+        "UGC_Talking_Head",
+        "Confusion_Doubt"
+      ],
+      "visual_keywords": [
+        "woman talking",
+        "frustrated",
+        "crying",
+        "hand to head",
+        "laundry room"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "emotional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment represents the 'Emotional_Climax' of the video, with the mother's raw 'Negative_Emotion' (verging on tears) as she delivers the final, exasperated rule about the banana. Her facial reaction is paramount to the semantic core."
+    }
+  ]
+}

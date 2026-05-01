@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ðíÐéð░ÐÇð©ð©╠å Ðçð¥ð╗ð¥ð▓Ðûð║ ÐçÐâÐàð░Ðö Ðüð¥ð▒Ðû ð│ð¥ð╗ð¥ð▓Ðâ.mp4",
+  "detailed_description": "An older man with white hair and glasses demonstrates the use of a scalp massager. He holds the spider-like device on his head, gently moving it across his scalp. His facial expression visibly shifts from neutral to one of pleasant surprise and relaxation, clearly conveying the soothing effect of the product. The video highlights the direct product interaction and the immediate positive emotional response it elicits.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "man",
+        "head massager",
+        "scalp",
+        "glasses",
+        "plaid shirt",
+        "hand",
+        "white hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "relaxing"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "straightforward"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it perfectly encapsulates the 'Product Interaction' and 'Emotional Climax' hero moments. The man is actively using the head massager, and his facial expression changes to one of satisfaction and relaxation, directly demonstrating the product's effect. There are no setup, calibration, or post-action dead air frames, adhering to the 'No-Mistake Rule'."
+    }
+  ]
+}

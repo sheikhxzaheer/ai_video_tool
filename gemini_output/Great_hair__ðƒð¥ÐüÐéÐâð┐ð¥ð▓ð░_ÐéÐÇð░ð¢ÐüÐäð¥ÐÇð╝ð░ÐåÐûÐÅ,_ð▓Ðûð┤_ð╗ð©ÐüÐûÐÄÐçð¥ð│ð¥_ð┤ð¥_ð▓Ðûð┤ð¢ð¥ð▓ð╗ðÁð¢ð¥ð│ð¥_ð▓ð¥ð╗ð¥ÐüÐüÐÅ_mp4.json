@@ -1,0 +1,107 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ðƒð¥ÐüÐéÐâð┐ð¥ð▓ð░ ÐéÐÇð░ð¢ÐüÐäð¥ÐÇð╝ð░ÐåÐûÐÅ, ð▓Ðûð┤ ð╗ð©ÐüÐûÐÄÐçð¥ð│ð¥ ð┤ð¥ ð▓Ðûð┤ð¢ð¥ð▓ð╗ðÁð¢ð¥ð│ð¥ ð▓ð¥ð╗ð¥ÐüÐüÐÅ.mp4",
+  "detailed_description": "This video depicts a man's struggle with hair loss, starting at age 23, where he felt he was balding. He shows the progression of his hair loss and a moment where he shaves his head due to frustration. Despite being told by others that nothing could be done as it was hereditary, he eventually found a solution. The video culminates in a powerful 'before and after' transformation, showcasing him at age 34 with a full, healthy head of hair, clearly demonstrating that he successfully solved his problem.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.375",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "balding head",
+        "thinning hair",
+        "top view"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment serves as the initial visual hook, clearly establishing the 'problem state' of thinning hair from a top-down perspective, providing the 'before' context for the video's core narrative."
+    },
+    {
+      "start_time": "00:04.250",
+      "end_time": "00:05.200",
+      "structural_tags": [
+        "Problem_State",
+        "Face_Reaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "man's face",
+        "shaved head",
+        "serious expression",
+        "wet skin"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct gaze",
+          "bathroom lighting"
+        ]
+      },
+      "why_kept": "This segment provides a direct facial view of the 'problem state' after shaving, emphasizing the emotional impact and the severity of the hair loss, serving as a strong 'before' comparison to the 'after' transformation."
+    },
+    {
+      "start_time": "00:05.200",
+      "end_time": "00:12.958",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man with full hair",
+        "running hands through hair",
+        "smiling",
+        "thumbs up",
+        "dynamic movement"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "positive",
+          "triumphant"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "jump cut",
+          "dynamic movement",
+          "direct gaze",
+          "bathroom lighting"
+        ]
+      },
+      "why_kept": "This is the primary 'hero moment' demonstrating the successful 'result transformation' from hair loss to a full head of hair. It showcases the new hair through various angles and the man's clear 'positive emotion' and satisfaction, effectively conveying the problem's resolution."
+    }
+  ]
+}

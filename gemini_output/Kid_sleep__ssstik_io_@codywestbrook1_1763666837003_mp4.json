@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid sleep\\ssstik.io_@codywestbrook1_1763666837003.mp4",
+  "detailed_description": "This video humorously captures the intense 'first-time parent paranoia' that arises when a baby sleeps unusually soundly. It shows a parent gently checking on their baby in a crib via a night-vision camera. As the baby remains motionless, the parent's concern escalates to frantic shaking and turning the baby to ensure it's still alive. The tension breaks when the baby finally stirs, eliciting a clear reaction of relief from the parent, perfectly illustrating the emotional rollercoaster of new parenthood.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.520",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Emotional_Climax",
+        "Human_Interaction",
+        "Negative_Emotion",
+        "Positive_Emotion",
+        "Night_Routine",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "baby",
+        "crib",
+        "parent",
+        "hand",
+        "checking",
+        "sleeping",
+        "night vision",
+        "shaking",
+        "relief"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "anxious",
+          "tense",
+          "relieved"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "night vision",
+          "black and white",
+          "security camera style"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core, demonstrating the 'first-time parent paranoia' as described by the on-screen text. It begins with the initial gentle check, progresses to the frantic validation of life, and concludes with the baby's movement and the parent's evident relief, encapsulating the complete emotional arc and the core message of the video. No trimming was necessary as it starts and ends precisely with the relevant action."
+    }
+  ]
+}

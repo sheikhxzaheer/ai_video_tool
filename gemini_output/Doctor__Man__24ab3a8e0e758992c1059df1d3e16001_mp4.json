@@ -1,0 +1,217 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Man\\24ab3a8e0e758992c1059df1d3e16001.mp4",
+  "detailed_description": "A plastic surgeon details the significant financial and personal investments required to establish and maintain his practice. He showcases various costs, including the state-of-the-art operating room, advanced laser equipment, professional certifications, society memberships, and medical education. The video emphasizes both monetary expenditures and the substantial time commitment involved in his career.",
+  "segments": [
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:12.300",
+      "structural_tags": [
+        "Key_Information",
+        "Financial_Stress",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "operating room",
+        "surgical lights",
+        "doctor talking",
+        "cost reveal"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "clinical",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean lighting",
+          "professional setting"
+        ]
+      },
+      "why_kept": "This segment clearly introduces the video's main theme by stating the substantial cost of building and equipping the operating room, making it the central anchor for the 'cost of being a plastic surgeon' narrative."
+    },
+    {
+      "start_time": "00:13.100",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Key_Information",
+        "Financial_Stress",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "laser device",
+        "doctor holding laser",
+        "sunglasses",
+        "cost reveal"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "clinical",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "modern office",
+          "professional equipment"
+        ]
+      },
+      "why_kept": "This segment highlights a specific, high-tech piece of equipment used in plastic surgery, demonstrating product interaction and revealing another significant financial investment, supporting the overall cost theme."
+    },
+    {
+      "start_time": "00:21.000",
+      "end_time": "00:26.500",
+      "structural_tags": [
+        "Key_Information",
+        "Emotional_Climax",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "board certification",
+        "framed certificate",
+        "doctor pointing",
+        "smiling doctor",
+        "time cost"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "playful",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "framed documents",
+          "textured wall"
+        ]
+      },
+      "why_kept": "This segment provides key information about board certification and introduces a non-monetary 'cost' ('16 years of my life'), offering an emotional and personal dimension to the surgeon's investment."
+    },
+    {
+      "start_time": "00:27.000",
+      "end_time": "00:31.500",
+      "structural_tags": [
+        "Key_Information",
+        "Financial_Stress",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "professional society membership",
+        "framed certificate",
+        "doctor pointing",
+        "annual cost"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "framed documents",
+          "office decor"
+        ]
+      },
+      "why_kept": "This segment details an ongoing professional membership cost, further illustrating the continuous financial commitments associated with being a plastic surgeon."
+    },
+    {
+      "start_time": "00:32.000",
+      "end_time": "00:37.300",
+      "structural_tags": [
+        "Key_Information",
+        "Financial_Stress",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "medical school degree",
+        "framed diploma",
+        "doctor pointing",
+        "education cost"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "framed documents",
+          "office wall"
+        ]
+      },
+      "why_kept": "This segment highlights the significant cost and time investment required for medical education, which is foundational to becoming a plastic surgeon, directly contributing to the video's theme."
+    },
+    {
+      "start_time": "00:38.000",
+      "end_time": "00:45.000",
+      "structural_tags": [
+        "Key_Information",
+        "Financial_Stress",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "custom logo",
+        "wall art",
+        "doctor pointing",
+        "branding cost"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "decorative wall",
+          "modern office decor"
+        ]
+      },
+      "why_kept": "This segment showcases a branding and office aesthetic cost, providing a final example of the various investments made by a plastic surgeon for their practice."
+    }
+  ]
+}

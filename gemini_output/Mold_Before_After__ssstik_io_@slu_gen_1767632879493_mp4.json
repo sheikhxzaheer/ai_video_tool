@@ -1,0 +1,273 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold Before_After\\ssstik.io_@slu_gen_1767632879493.mp4",
+  "detailed_description": "This video effectively demonstrates a simple and fast method for eliminating mold from bathroom walls and ceilings. It begins by highlighting the common issue of mold accumulation, then introduces the essential items needed: undiluted bleach and a spray bottle. The video walks viewers through the preparation and application process, emphasizing critical safety measures like wearing a mask and glasses. It visually illustrates the bleach working, showing the mold transforming and ultimately disappearing to reveal a spotless surface within 15-20 minutes, offering a practical solution to a common household problem.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "mold",
+        "ceiling",
+        "bathroom",
+        "dirty surface"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "grungy"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the core problem of the video, hooking the viewer by showing a common and relatable issue."
+    },
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hand",
+        "bleach bottle",
+        "cleaning product",
+        "lemon scent"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "product showcase"
+        ]
+      },
+      "why_kept": "Introduces the main cleaning product (bleach) that will be used to solve the stated problem."
+    },
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hand",
+        "spray bottle",
+        "empty bottle"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "tool presentation"
+        ]
+      },
+      "why_kept": "Introduces the necessary application tool, a spray bottle, as part of the solution."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hand",
+        "pouring bleach",
+        "spray bottle",
+        "preparation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "preparation step"
+        ]
+      },
+      "why_kept": "Demonstrates the crucial step of preparing the bleach in the spray bottle, highlighting the instruction not to dilute it."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Key_Information",
+        "UGC_Talking_Head",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "person",
+        "mask",
+        "glasses",
+        "thumbs up",
+        "safety equipment"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "safety advisory",
+          "selfie video"
+        ]
+      },
+      "why_kept": "Conveys essential safety information and a visual demonstration of protection before using bleach."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hand",
+        "spraying",
+        "bleach",
+        "mold",
+        "ceiling",
+        "cleaning action"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "action shot",
+          "cleaning demonstration"
+        ]
+      },
+      "why_kept": "This is a primary 'hero moment' showing the direct application of the product to the problem, demonstrating the core cleaning process."
+    },
+    {
+      "start_time": "00:16.000",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "mold",
+        "ceiling",
+        "stains",
+        "color change",
+        "bleaching effect"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "time-lapse effect",
+          "visual progress"
+        ]
+      },
+      "why_kept": "Shows the immediate, visible effect of the bleach, illustrating the product's effectiveness as the mold begins to change color."
+    },
+    {
+      "start_time": "00:18.000",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Home_Kitchen",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "clean ceiling",
+        "spotless",
+        "bathroom",
+        "bright surface"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "clean finish",
+          "reveal shot",
+          "satisfying result"
+        ]
+      },
+      "why_kept": "This is the ultimate 'reveal' segment, showcasing the complete and successful transformation of the moldy surface to spotless, clearly demonstrating the product's effectiveness and delivering on the video's promise."
+    }
+  ]
+}

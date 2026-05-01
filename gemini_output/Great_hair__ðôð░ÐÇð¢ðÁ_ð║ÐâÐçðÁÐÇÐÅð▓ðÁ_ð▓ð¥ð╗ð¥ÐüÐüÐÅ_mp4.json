@@ -1,0 +1,191 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ðôð░ÐÇð¢ðÁ ð║ÐâÐçðÁÐÇÐÅð▓ðÁ ð▓ð¥ð╗ð¥ÐüÐüÐÅ.mp4",
+  "detailed_description": "This video presents a simple and affordable hair hydration tip using coconut oil. The creator demonstrates the process of applying extra virgin coconut oil to his curly hair, emphasizing distribution to the ends while avoiding the scalp. He then advises leaving the oil on for three hours, ideally while at home, due to its greasy appearance. After washing with shampoo, he showcases the significantly hydrated, shiny, and revitalized state of his hair, finishing with styling using pomade. The video concludes with a recommendation to repeat this process every 15 days for optimal hair hydration.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.890",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Intro",
+        "Key_Information",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "curly hair",
+        "coconut oil jar",
+        "price tag",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "informative",
+          "friendly"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "dynamic cuts"
+        ]
+      },
+      "why_kept": "This segment introduces the video's core premise (cheap hair hydration tip), identifies the main ingredient (coconut oil), and provides a key detail (its cost), setting the context for the tutorial."
+    },
+    {
+      "start_time": "00:11.890",
+      "end_time": "00:41.280",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Key_Information",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "pouring oil",
+        "applying oil to hair",
+        "combing hair",
+        "applying oil to beard",
+        "small cup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "instructive",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear demonstration",
+          "hand movements"
+        ]
+      },
+      "why_kept": "This segment demonstrates the step-by-step application of the coconut oil to the hair and beard, showing the 'labor' and 'mechanism of action' central to the tip."
+    },
+    {
+      "start_time": "00:41.280",
+      "end_time": "00:51.680",
+      "structural_tags": [
+        "Key_Information",
+        "Lifestyle_Active",
+        "Problem_State",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "explaining with hands",
+        "working on computer",
+        "oily hair",
+        "sunglasses",
+        "desk setup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "office",
+          "indoor"
+        ],
+        "mood": [
+          "informative",
+          "casual"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "relatable scenario",
+          "visual demonstration of oily hair"
+        ]
+      },
+      "why_kept": "This segment provides crucial instructions regarding the waiting period for the oil to act and highlights the practical aspect of the hair becoming oily during treatment, offering a practical tip."
+    },
+    {
+      "start_time": "00:51.680",
+      "end_time": "01:07.480",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "washing hair",
+        "drying hair with towel",
+        "hair dryer",
+        "applying pomade",
+        "styled hair",
+        "shiny hair",
+        "smile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "satisfied",
+          "confident",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "before/after implied",
+          "expressive facial reactions",
+          "dynamic hair styling"
+        ]
+      },
+      "why_kept": "This is the primary 'reveal' segment, showcasing the clear and positive transformation of the hair after the treatment. It includes the final steps of drying and styling, culminating in the demonstrated benefit and the creator's satisfied reaction."
+    },
+    {
+      "start_time": "01:07.480",
+      "end_time": "01:14.070",
+      "structural_tags": [
+        "Offer_CTA",
+        "Key_Information",
+        "Social_Proof",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "touching hair",
+        "showing coconut oil jar",
+        "smile"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "recommending",
+          "friendly"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "reinforcement"
+        ]
+      },
+      "why_kept": "This segment reinforces the effectiveness of the tip and provides a clear call to action and frequency recommendation, solidifying the value proposition for the viewer."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\ssstik.io_@smart.doctor_1769681700489.mp4",
+  "detailed_description": "This video presents a detailed 3D animation of a human heart, showcasing its external anatomy including the major arteries and veins. The heart is depicted in a continuous, rhythmic beating motion, accompanied by a realistic heartbeat sound effect. The visual emphasizes the organ's intricate structure and vital function, set against a dark, minimalistic background, highlighting its form and movement for educational or medical informational purposes.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.533",
+      "structural_tags": [
+        "Visual_Hook",
+        "Macro_Detail",
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "human heart",
+        "beating heart",
+        "3D animation",
+        "coronary arteries",
+        "coronary veins",
+        "aorta",
+        "heartbeat sound"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "3D rendering",
+          "realistic animation",
+          "dark background",
+          "medical visualization"
+        ]
+      },
+      "why_kept": "The entire video constitutes the semantic core as it continuously displays the core content: a detailed, animated human heart beating. There are no extraneous elements or breaks in the action, making the full duration essential to conveying the visual information and experience."
+    }
+  ]
+}

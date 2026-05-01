@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Celebrity\\ssstik.io_@gala.fr_1761832275277.mp4",
+  "detailed_description": "Sydney Sweeney is seen on the red carpet at the Emmys, elegantly posing for the cameras in a vibrant red strapless gown adorned with a prominent diamond necklace. An assistant briefly adjusts the train of her dress, ensuring its perfect drape. She maintains a radiant smile and engaging demeanor throughout, embodying the glamour of the event.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:29.980",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Sydney Sweeney",
+        "red dress",
+        "strapless gown",
+        "diamond necklace",
+        "red carpet",
+        "Emmys",
+        "posing",
+        "smiling",
+        "waving",
+        "assistant",
+        "dress adjustment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "premium",
+          "glamorous",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "professional lighting",
+          "red carpet event",
+          "celebrity appearance"
+        ]
+      },
+      "why_kept": "This segment comprehensively captures the 'hero moment' of a celebrity's red carpet appearance. It showcases the individual's fashion, demeanor, and interaction with the event environment, including a brief moment of professional assistance for dress adjustment, which is integral to achieving the desired look. It fully aligns with the criteria of emotional climax (smiling, confident posing) and process (the act of posing and presenting herself for the cameras at a high-profile event)."
+    }
+  ]
+}

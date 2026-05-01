@@ -1,0 +1,124 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\TikTok\\14.mp4",
+  "detailed_description": "The video highlights a common morning mistake of consuming coffee first, leading to dehydration, anxiety, and grogginess. It introduces 'Perfect Morning Electrolytes' (Tangerine Pulse) as the ideal morning drink. The speaker demonstrates consuming the electrolyte drink and showcases the product packaging, explaining how it replenishes essential minerals like sodium, potassium, and magnesium lost overnight, thereby promoting better hydration and overall well-being. She emphasizes the positive impact on her energy levels and ends with a direct call to action for viewers to adopt this hydrating routine.",
+  "segments": [
+    {
+      "start_time": "00:03.468",
+      "end_time": "00:11.135",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Interaction",
+        "Key_Information",
+        "Negative_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "glass",
+        "yellow drink",
+        "sipping",
+        "talking",
+        "hand gestures",
+        "dehydration"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment establishes the problem (feeling drained, anxious due to dehydration) that the product aims to solve, while showing initial interaction with the solution (holding and sipping the drink). It provides crucial context before the formal product introduction."
+    },
+    {
+      "start_time": "00:11.135",
+      "end_time": "00:21.801",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Key_Information",
+        "Ingredient_Highlight",
+        "Human_Interaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman",
+        "product bag",
+        "TANGERINE PULSE",
+        "talking",
+        "explaining benefits",
+        "sodium",
+        "potassium",
+        "magnesium"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear product display"
+        ]
+      },
+      "why_kept": "This segment clearly introduces the 'Perfect Morning Electrolytes' product by name and visually, and explains its core function by highlighting the essential minerals it provides to combat dehydration and aid absorption."
+    },
+    {
+      "start_time": "00:21.801",
+      "end_time": "00:33.768",
+      "structural_tags": [
+        "Product_Interaction",
+        "Key_Information",
+        "Offer_CTA",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "product bag",
+        "glass",
+        "yellow drink",
+        "talking",
+        "pointing",
+        "call to action",
+        "feeling hydrated"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "positive",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "engaging delivery"
+        ]
+      },
+      "why_kept": "This segment reinforces the practical usage of the product, highlights the tangible benefits (feeling better and more hydrated), and delivers a clear and strong call to action, concluding the video's main message."
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\ssstik.io_1751471238974.mp4",
+  "detailed_description": "This video provides two effective styling solutions for managing oily hair. It first demonstrates how to use texture styling clay to create a slick-back style, transforming greasy hair into a neat and structured look. The second option focuses on refreshing oily hair by wetting and blow-drying it, followed by applying dry shampoo to add volume and absorb excess oil, resulting in a clean and styled finish. The video offers practical, visual steps for each method to help viewers achieve their desired look.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.600",
+      "structural_tags": [
+        "Problem_State",
+        "Visual_Hook",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "oily hair",
+        "touching hair",
+        "unwanted slick back"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "tutorial intro"
+        ]
+      },
+      "why_kept": "This segment clearly introduces the problem of oily hair and demonstrates a common, ineffective attempt to style it, serving as a crucial visual hook and problem statement for the video."
+    },
+    {
+      "start_time": "00:07.700",
+      "end_time": "00:16.800",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "man",
+        "texture styling clay",
+        "applying product",
+        "combing hair",
+        "slick-back style"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "instructive",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear product view",
+          "step-by-step instruction"
+        ]
+      },
+      "why_kept": "This segment is essential as it showcases the first solution. It includes the product introduction, the detailed process of applying the styling clay, and the initial steps of creating the slick-back hairstyle."
+    },
+    {
+      "start_time": "00:16.800",
+      "end_time": "00:20.600",
+      "structural_tags": [
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "man",
+        "slick-back hair",
+        "styled hair",
+        "moustache"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "satisfied",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean finish",
+          "polished look"
+        ]
+      },
+      "why_kept": "This segment presents the visual 'reveal' or 'result' of the first styling option, demonstrating the effectiveness of the texture styling clay in transforming oily hair into a clean slick-back."
+    },
+    {
+      "start_time": "00:21.500",
+      "end_time": "00:29.100",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "man",
+        "wetting hair",
+        "blow dryer",
+        "dry shampoo",
+        "applying product"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "instructive",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera movement",
+          "action-oriented"
+        ]
+      },
+      "why_kept": "This segment provides the core instructional content for the second styling option, detailing the process of wetting, blow-drying, and applying dry shampoo to address oily hair and achieve a fresh look."
+    },
+    {
+      "start_time": "00:29.100",
+      "end_time": "00:33.000",
+      "structural_tags": [
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "man",
+        "styled hair",
+        "volumized hair",
+        "moustache"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "satisfied",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "textured look",
+          "fresh appearance"
+        ]
+      },
+      "why_kept": "This segment concludes the video by showcasing the final 'reveal' or 'result' of the second styling method, highlighting the transformation of oily hair using dry shampoo and blow-drying."
+    }
+  ]
+}

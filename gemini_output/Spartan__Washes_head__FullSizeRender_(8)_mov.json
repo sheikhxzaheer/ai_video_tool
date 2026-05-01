@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Washes head\\FullSizeRender (8).mov",
+  "detailed_description": "The video captures a man in a shower actively washing his hair with shampoo, creating a rich lather. He begins by looking at the camera with a playful smile, then focuses on the process of vigorously scrubbing his scalp. The scene highlights a common personal hygiene routine, set against the backdrop of a clean, tiled bathroom with natural lighting. The man is seen wearing a pearl necklace, adding a distinct style element to the routine.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.790",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Morning_Routine",
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "washing hair",
+        "shampoo",
+        "lather",
+        "shower",
+        "pearl necklace",
+        "showerhead"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "clean"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean bathroom",
+          "direct address to camera",
+          "personal hygiene"
+        ]
+      },
+      "why_kept": "This entire segment represents the core action of the video: a man washing his hair. It showcases the 'Process/Labor' of the routine, 'Product Interaction' (implied shampoo use with lather), and an initial 'Emotional Climax' with a smile. The action is continuous from start to finish without any setup or post-action dead air, adhering to the 'No-Mistake Rule' for trimming."
+    }
+  ]
+}

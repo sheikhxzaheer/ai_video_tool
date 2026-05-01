@@ -1,0 +1,209 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B-Rolljump.MOV",
+  "detailed_description": "The video showcases a woman in black pajamas joyfully and energetically interacting with two white pillows in a bright, cozy bedroom. She demonstrates the comfort and softness of the pillows through playful actions like jumping onto the bed and repeatedly hugging them. Her consistent broad smiles and expressions of happiness convey a strong sense of satisfaction and enjoyment, highlighting the emotional and physical benefits of using the pillows for relaxation and fun. The scene evokes a feeling of a pleasant, carefree morning or a comfortable moment at home.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.400",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Morning_Routine",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman, pajamas, pillows, smiling, standing, bed, anticipation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "bedroom setting",
+          "natural light",
+          "aesthetic"
+        ]
+      },
+      "why_kept": "This segment serves as an engaging visual hook, introducing the woman and the pillows while she displays a joyful anticipation of interaction, setting a high-energy and positive tone."
+    },
+    {
+      "start_time": "00:03.400",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman, jumping, pillows, bed, smiling, joyful expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic movement",
+          "bedroom setting",
+          "natural light",
+          "aesthetic"
+        ]
+      },
+      "why_kept": "This is a key 'hero moment' demonstrating a dynamic and uninhibited interaction with the pillows, clearly conveying comfort and extreme happiness upon landing on the bed."
+    },
+    {
+      "start_time": "00:08.500",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman, holding pillows, smiling, sitting, bed"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "gentle interaction",
+          "bedroom setting",
+          "natural light",
+          "aesthetic"
+        ]
+      },
+      "why_kept": "This segment offers a slightly calmer, yet equally positive, interaction with the pillows, showcasing contentedness and the pillow's ability to provide comfort even when not in energetic play."
+    },
+    {
+      "start_time": "00:14.000",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman, hugging pillows, wide smile, playful expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "enthusiastic embrace",
+          "bedroom setting",
+          "natural light",
+          "aesthetic"
+        ]
+      },
+      "why_kept": "This clip strongly emphasizes the emotional bond and joy derived from the product, with the woman hugging the pillows and displaying a beaming smile, indicative of great satisfaction."
+    },
+    {
+      "start_time": "00:24.000",
+      "end_time": "00:26.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman, jumping, pillows, bed, smiling, energetic"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic movement",
+          "bedroom setting",
+          "natural light",
+          "aesthetic"
+        ]
+      },
+      "why_kept": "This second jump reinforces the initial energetic 'hero moment,' emphasizing the repetitive fun and comfort provided by the pillows through continued playful interaction."
+    },
+    {
+      "start_time": "00:32.000",
+      "end_time": "00:35.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman, holding pillows, smiling, contentment, cozy"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "content",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "concluding shot",
+          "bedroom setting",
+          "natural light",
+          "aesthetic"
+        ]
+      },
+      "why_kept": "This segment provides a satisfying conclusion, showing the woman in a state of contentment and happiness while interacting with the pillows, solidifying the product's positive emotional impact."
+    }
+  ]
+}

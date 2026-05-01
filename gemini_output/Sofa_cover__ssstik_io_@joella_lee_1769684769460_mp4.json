@@ -1,0 +1,148 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sofa cover\\ssstik.io_@joella_lee_1769684769460.mp4",
+  "detailed_description": "The video showcases a highly soft and comfortable blanket, emphasizing its dual-sided texture – one fluffy and the other smooth felt. It demonstrates the tactile experience through hand interactions and highlights its ideal size for covering up. The video concludes by portraying a cozy, at-home lifestyle facilitated by the blanket, also providing key information on its dimensions and affordability. The overall presentation is calm and inviting, focusing on the sensory qualities of the product.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Problem_State",
+        "Product_Standalone",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "fluffy blanket",
+        "hand touching",
+        "soft texture",
+        "wavy pattern"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "textured focus"
+        ]
+      },
+      "why_kept": "This segment immediately introduces the product, highlights its key feature (softness) with an explicit text overlay, and shows the initial tactile interaction, effectively setting the core value proposition and grabbing attention."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "hand stroking",
+        "furry side",
+        "felt side",
+        "dual texture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed texture shot"
+        ]
+      },
+      "why_kept": "This segment elaborates on the blanket's unique dual-sided design, clearly demonstrating and labeling the 'furry' and 'soft short felt' textures through specific hand interactions, providing important product detail."
+    },
+    {
+      "start_time": "00:11.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Key_Information",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Calm_Relaxation",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "blanket spread",
+        "person covered",
+        "reading book",
+        "full coverage",
+        "size information"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "cozy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "lifestyle shot",
+          "functional demonstration"
+        ]
+      },
+      "why_kept": "This segment delivers practical information about the blanket's size and affordability, immediately followed by a clear demonstration of a person comfortably using it, showing its functional benefit and reinforcing its 'right size' for covering up."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Home_Kitchen",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "books",
+        "soft blanket texture",
+        "cozy setting",
+        "rainbow emoji"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "cozy",
+          "playful"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "flat lay aesthetic",
+          "warm tones"
+        ]
+      },
+      "why_kept": "This segment serves as an aesthetic conclusion, reinforcing the desirable 'cozy at home' lifestyle and positive emotional experience associated with the blanket, enhancing the overall appeal through evocative visuals."
+    }
+  ]
+}

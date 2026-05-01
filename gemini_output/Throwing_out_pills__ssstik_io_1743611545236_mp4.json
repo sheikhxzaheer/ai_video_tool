@@ -1,0 +1,183 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Throwing out pills\\ssstik.io_1743611545236.mp4",
+  "detailed_description": "This video demonstrates an ingenious DIY project transforming discarded pill blister packs and cardboard into a unique and elegant picture frame. The process begins with cutting individual bubbles from empty medication packaging, which are then repurposed as decorative elements. A base frame is constructed from cardboard and assembled using hot glue. These repurposed blister bubbles are meticulously glued around the frame, creating a textured, studded effect. The entire frame is then painted black, followed by a careful application of gold paint to highlight the raised bubbles. The final result is a stylish and personalized picture frame, showcasing a creative way to upcycle household waste into a beautiful decorative item. This project offers a simple and quick method for crafting a luxurious-looking piece from everyday trash.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "hand",
+        "pill blister pack",
+        "trash can",
+        "scissors",
+        "cutting",
+        "plastic bubbles",
+        "gathering"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "purposeful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This segment visually establishes the 'trash to luxury' premise by showing discarded pill packs and then immediately transitions into the first key process step: cutting the individual blister bubbles, which are central to the DIY project."
+    },
+    {
+      "start_time": "00:13.500",
+      "end_time": "00:29.800",
+      "structural_tags": [
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "cardboard",
+        "scissors",
+        "hot glue gun",
+        "gluing",
+        "assembling",
+        "frame base"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "instructive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This segment demonstrates the construction of the basic cardboard frame, a fundamental step in building the structure for the picture frame. It shows the use of tools and the assembly process."
+    },
+    {
+      "start_time": "00:30.300",
+      "end_time": "00:39.900",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "hot glue gun",
+        "cardboard frame",
+        "plastic bubbles",
+        "attaching",
+        "decorating"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "detailed"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This segment showcases the unique application of the repurposed pill blister bubbles, demonstrating how they are attached to the cardboard frame to create a textured, studded decorative effect."
+    },
+    {
+      "start_time": "00:43.100",
+      "end_time": "00:59.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "black paint",
+        "paintbrush",
+        "gold paint",
+        "painting",
+        "decorating",
+        "frame"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "artistic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This segment illustrates the painting process, a critical step in transforming the raw materials into a finished, luxurious-looking item by applying black paint to the frame and then gold paint to the individual raised bubbles."
+    },
+    {
+      "start_time": "01:06.000",
+      "end_time": "01:14.300",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Standalone",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "finished picture frame",
+        "photo",
+        "decorative item",
+        "gold accents",
+        "black frame",
+        "wooden surface"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "satisfied",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "product display shot"
+        ]
+      },
+      "why_kept": "This segment is the ultimate 'reveal,' showcasing the fully completed and decorated picture frame with a photo inserted, effectively demonstrating the successful transformation from waste to a useful and aesthetically pleasing product."
+    }
+  ]
+}

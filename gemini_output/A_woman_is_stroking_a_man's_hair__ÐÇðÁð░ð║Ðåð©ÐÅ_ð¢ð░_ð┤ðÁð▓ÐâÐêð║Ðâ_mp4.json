@@ -1,0 +1,236 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\A woman is stroking a man's hair\\ÐÇðÁð░ð║Ðåð©ÐÅ ð¢ð░ ð┤ðÁð▓ÐâÐêð║Ðâ.mp4",
+  "detailed_description": "This video captures an experiment observing public reactions to a tall supermodel walking through urban streets. It showcases various candid responses from passersby, demonstrating the impact of her striking presence. Reactions range from subtle glances and surprised expressions to direct engagement like taking a selfie and acts of chivalry such as holding a door. The compilation highlights how the supermodel's appearance commands attention and elicits diverse human interactions in an everyday setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.975",
+      "structural_tags": [
+        "Visual_Hook",
+        "Lifestyle_Active",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman walking",
+        "street",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "candid"
+        ]
+      },
+      "why_kept": "This segment introduces the core premise of the video – an experiment to observe reactions to a supermodel – and establishes the setting."
+    },
+    {
+      "start_time": "00:02.975",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Face_Reaction",
+        "Shock_Surprise",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man looking up",
+        "woman reacting",
+        "supermodel walking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "surprised",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "candid",
+          "natural"
+        ]
+      },
+      "why_kept": "Clearly demonstrates immediate facial expressions of surprise and admiration from two different passersby as the supermodel walks past."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:10.800",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "couple walking",
+        "man looking back",
+        "girlfriend pulling arm",
+        "supermodel walking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "humorous",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "candid",
+          "natural"
+        ]
+      },
+      "why_kept": "Captures a relatable and humorous interaction, showing how the supermodel's presence can cause distraction and reactions within a couple."
+    },
+    {
+      "start_time": "00:10.800",
+      "end_time": "00:12.800",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "man taking selfie",
+        "supermodel posing",
+        "smartphone"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "positive",
+          "joyful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct engagement",
+          "close-up interaction"
+        ]
+      },
+      "why_kept": "Illustrates direct and positive engagement, with a person actively seeking a photo with the supermodel, signifying admiration."
+    },
+    {
+      "start_time": "00:12.800",
+      "end_time": "00:15.500",
+      "structural_tags": [
+        "Human_Interaction",
+        "Social_Proof",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man holding door",
+        "supermodel entering building"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "polite",
+          "respectful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "candid",
+          "natural"
+        ]
+      },
+      "why_kept": "Shows an act of chivalry, indicating a perceived high status or impressiveness of the supermodel."
+    },
+    {
+      "start_time": "00:15.500",
+      "end_time": "00:17.100",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "man walking",
+        "man looking back",
+        "supermodel walking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "observant"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "candid"
+        ]
+      },
+      "why_kept": "Provides another clear example of a passerby being drawn to look back at the supermodel."
+    },
+    {
+      "start_time": "00:17.100",
+      "end_time": "00:20.900",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "man looking at phone",
+        "man looking up",
+        "supermodel leaning"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "surprised",
+          "observant"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "candid",
+          "natural"
+        ]
+      },
+      "why_kept": "Effectively illustrates how the supermodel's presence can capture attention even from individuals initially distracted by their phones."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Woman\\ssstik.io_@drhallcute_1767348804792.mp4",
+  "detailed_description": "The video features a female doctor, identified as 52 years old, dressed in scrubs and seated in a car. She recounts a humorous anecdote about a 21-year-old patient who came in for a testicular exam. The doctor describes how the patient had an unexpected reaction during the examination, leading to a surprising and amusing situation. She concludes the story lightheartedly, stating she 'dodged it like the guy in The Matrix movie' and that the patient left the clinic smiling.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:26.540",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Key_Information",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "doctor",
+        "scrubs",
+        "car interior",
+        "storytelling",
+        "smiling",
+        "gesticulating"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car",
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "humorous",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "direct address",
+          "medium framing"
+        ]
+      },
+      "why_kept": "This segment constitutes the entire semantic core of the video. It features the subject as a 'Talking Head' delivering the main narrative, which is the key information and humorous story. Her facial expressions and gesticulations are central to conveying the emotional climax and playfulness of the recounted event, fulfilling the 'Emotional Climax' and 'KEY INFORMATION' criteria without any product interaction."
+    }
+  ]
+}

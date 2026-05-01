@@ -1,0 +1,120 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Lab\\ssstik.io_@claraialcolado_1769008003295.mp4",
+  "detailed_description": "This video showcases a scientist meticulously performing various tasks within a chemistry laboratory. It highlights the precise nature of experimental work, including handling chemicals and operating sophisticated equipment like a rotary evaporator. The core visual appeal lies in the detailed demonstration of a blue chemical mixing and dissolving into a clear solvent, illustrating a fundamental chemical process with clarity and visual engagement. The overall video conveys the organized and dedicated environment of scientific research and experimentation.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:04.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "scientist",
+        "lab coat",
+        "gloves",
+        "pouring liquid",
+        "flask",
+        "lab equipment",
+        "rotary evaporator"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean lab aesthetics"
+        ]
+      },
+      "why_kept": "This segment establishes the context of the lab work, showing the scientist's initial actions of preparing liquids and setting up equipment, which are essential parts of the scientific process."
+    },
+    {
+      "start_time": "00:04.500",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Macro_Detail",
+        "Ingredient_Highlight",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "blue dye",
+        "clear liquid",
+        "flask",
+        "mixing",
+        "dissolving",
+        "chemical reaction"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "mesmerizing",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "high contrast",
+          "dynamic movement",
+          "clear focus"
+        ]
+      },
+      "why_kept": "This is the 'hero moment' where the visual impact of the chemical process is most evident, showing the blue dye transforming the clear liquid. It's a clear demonstration of a 'Mechanism_Of_Action' and 'Result_Transformation', making it the most captivating and informative segment."
+    },
+    {
+      "start_time": "00:08.500",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "scientist",
+        "lab coat",
+        "gloves",
+        "gas cylinder",
+        "lab equipment",
+        "adjusting valves"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "consistent lighting",
+          "full lab view"
+        ]
+      },
+      "why_kept": "This segment provides further context of the scientist's diverse tasks in the lab, demonstrating interaction with different types of equipment, such as gas cylinders, reinforcing the 'Process/Labor' aspect."
+    }
+  ]
+}

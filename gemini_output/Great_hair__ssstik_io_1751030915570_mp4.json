@@ -1,0 +1,588 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1751030915570.mp4",
+  "detailed_description": "This video captures the complete transformation of a client's hair and beard at a professional barbershop. The process begins with initial shaping using clippers and scissors, followed by precise scissor work on damp hair. The barber then incorporates Reuzel hair tonic for conditioning, and blow-dries the hair to achieve volume. Beard foam is applied and styled, concluding with pomade application for the final slicked-back look. The video culminates in the client's satisfied reaction and a showcase of his sharp, classic hairstyle and well-groomed beard.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.870",
+      "structural_tags": [
+        "Human_Interaction",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "barber",
+        "client",
+        "barber cape",
+        "barbershop"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "classic aesthetic"
+        ]
+      },
+      "why_kept": "This segment introduces the client and barber, setting the scene for the haircut process, including the initial preparation with the cape."
+    },
+    {
+      "start_time": "00:02.870",
+      "end_time": "00:05.900",
+      "structural_tags": [
+        "Process_Labor",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "barber",
+        "clippers",
+        "comb",
+        "haircut",
+        "client"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "focused action",
+          "classic barbershop"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial phase of the haircut, highlighting the professional use of clippers for shaping the sides."
+    },
+    {
+      "start_time": "00:05.900",
+      "end_time": "00:07.030",
+      "structural_tags": [
+        "Process_Labor",
+        "Macro_Detail",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "barber",
+        "clippers",
+        "hair",
+        "close-up"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "detailed work",
+          "precise cut"
+        ]
+      },
+      "why_kept": "Provides a close-up detail of the clipper work, emphasizing the precision and technique."
+    },
+    {
+      "start_time": "00:07.030",
+      "end_time": "00:11.830",
+      "structural_tags": [
+        "Process_Labor",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "barber",
+        "scissors",
+        "comb",
+        "haircut",
+        "wet hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "comb over technique",
+          "traditional haircut"
+        ]
+      },
+      "why_kept": "Shows the barber using scissors and a comb to shape the hair, a core part of the haircutting process."
+    },
+    {
+      "start_time": "00:11.830",
+      "end_time": "00:14.070",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "Reuzel Hair Tonic",
+        "hair product bottle"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "product branding",
+          "clean display"
+        ]
+      },
+      "why_kept": "Introduces one of the key products used in the grooming process."
+    },
+    {
+      "start_time": "00:14.070",
+      "end_time": "00:15.540",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "barber",
+        "hair tonic",
+        "spray bottle",
+        "hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "product application"
+        ]
+      },
+      "why_kept": "Demonstrates the application of the hair tonic, showing a specific step in the hair treatment."
+    },
+    {
+      "start_time": "00:15.540",
+      "end_time": "00:24.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "barber",
+        "scissors",
+        "comb",
+        "haircut",
+        "wet hair",
+        "cutting technique"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "precise cutting",
+          "traditional barbershop"
+        ]
+      },
+      "why_kept": "Continues to show the detailed scissor work, emphasizing the skill and shaping of the haircut."
+    },
+    {
+      "start_time": "00:24.000",
+      "end_time": "00:27.910",
+      "structural_tags": [
+        "Process_Labor",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "barber",
+        "blow dryer",
+        "comb",
+        "hair styling",
+        "hair volume"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "styling technique",
+          "volume creation"
+        ]
+      },
+      "why_kept": "Illustrates the blow-drying and initial styling phase, crucial for creating the desired hair shape."
+    },
+    {
+      "start_time": "00:27.910",
+      "end_time": "00:30.080",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "barber",
+        "Reuzel Refreshing foam",
+        "product bottle",
+        "dispensing foam",
+        "hand"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "product sensory",
+          "close-up dispense"
+        ]
+      },
+      "why_kept": "Highlights the introduction and dispensing of another key product, showing the texture and the barber's interaction with it."
+    },
+    {
+      "start_time": "00:30.080",
+      "end_time": "00:34.020",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "barber",
+        "beard foam",
+        "beard styling",
+        "blow dryer",
+        "client"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "beard grooming",
+          "styling technique"
+        ]
+      },
+      "why_kept": "Showcases the application and styling of the beard using the refreshing foam and blow dryer."
+    },
+    {
+      "start_time": "00:34.020",
+      "end_time": "00:36.000",
+      "structural_tags": [
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "barber",
+        "comb",
+        "beard grooming"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "beard combing detail"
+        ]
+      },
+      "why_kept": "Further detail of the beard grooming process, showing the final combing for neatness."
+    },
+    {
+      "start_time": "00:36.000",
+      "end_time": "00:38.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "client",
+        "reflection",
+        "barber mirror",
+        "haircut progress"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "mirror shot",
+          "stylistic transition"
+        ]
+      },
+      "why_kept": "Provides an interesting visual perspective of the client and the barber's work through a mirror, indicating progress."
+    },
+    {
+      "start_time": "00:38.000",
+      "end_time": "00:40.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "barber",
+        "scissors",
+        "comb",
+        "final hair trim"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "fine tuning",
+          "attention to detail"
+        ]
+      },
+      "why_kept": "Captures the final precise cuts and shaping, which are critical for the finished look."
+    },
+    {
+      "start_time": "00:40.000",
+      "end_time": "00:41.970",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "barber",
+        "scissors",
+        "smiling",
+        "barbershop"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "engaging personality"
+        ]
+      },
+      "why_kept": "Adds a human element by showing the barber's positive demeanor and confidence in his work."
+    },
+    {
+      "start_time": "00:41.970",
+      "end_time": "00:45.970",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "barber",
+        "pomade",
+        "product tin",
+        "scissors",
+        "client"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "product presentation"
+        ]
+      },
+      "why_kept": "Highlights the final styling product, pomade, and the interaction between the barber and client."
+    },
+    {
+      "start_time": "00:45.970",
+      "end_time": "00:52.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "barber",
+        "pomade",
+        "styling",
+        "comb",
+        "slicked back hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "professional",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "final styling",
+          "classic pompadour"
+        ]
+      },
+      "why_kept": "This segment is the culmination of the styling process, demonstrating the application of pomade and creating the client's signature look."
+    },
+    {
+      "start_time": "00:52.000",
+      "end_time": "00:54.000",
+      "structural_tags": [
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Result_Transformation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "client",
+        "barber",
+        "mirror",
+        "smile",
+        "satisfaction"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "happy",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "reveal moment",
+          "customer satisfaction"
+        ]
+      },
+      "why_kept": "Captures the client's genuine satisfaction and the final reveal of the completed haircut, a key 'reveal' hero moment."
+    },
+    {
+      "start_time": "00:54.000",
+      "end_time": "00:59.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Social_Proof",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "client",
+        "new haircut",
+        "beard",
+        "outside",
+        "smoking",
+        "confident"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "confident",
+          "rugged",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "before/after aesthetic",
+          "lifestyle portrayal"
+        ]
+      },
+      "why_kept": "Showcases the final, polished look of the client in a natural setting, serving as social proof and demonstrating the full transformation."
+    }
+  ]
+}

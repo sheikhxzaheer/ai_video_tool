@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\Medical Animation _ Interior Stomach.mp4",
+  "detailed_description": "This animation visually demonstrates the journey of a capsule medication from ingestion to its dissolution and action within the stomach. It begins with two capsules being dropped into a mouth and swallowed with water. The viewer then follows a capsule as it travels down the esophagus and into the stomach, where it rapidly dissolves. The video meticulously illustrates the release of the medication's active ingredients and their subsequent mixing with stomach fluids, showcasing the internal mechanism of action and the resulting transformation within the digestive system.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Micro_Nutrients_Anim",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "mouth",
+        "teeth",
+        "tongue",
+        "hand",
+        "capsules",
+        "water",
+        "esophagus",
+        "stomach",
+        "dissolving",
+        "liquid",
+        "digestion"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "3D animation",
+          "medical visualization",
+          "internal body view",
+          "fluid dynamics"
+        ]
+      },
+      "why_kept": "This entire segment is the core value proposition, demonstrating the product interaction (taking the pill), the process (pill traveling and dissolving), and the mechanism of action, culminating in the visual result of the medication working inside the body. It directly fulfills the 'Process/Labor', 'Product Interaction', and 'Reveal/Result' hero moment criteria through animated internal visualization."
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Europe\\ssstik.io_@vienna.visitas_1761902868046.mp4",
+  "detailed_description": "This video delivers a captivating visual journey through Rome, Italy, highlighting its most iconic and historically significant landmarks. The montage showcases the grandeur of ancient structures like the Colosseum and Roman Forum, the architectural marvel of the Pantheon, and the baroque splendor of the Trevi Fountain and Castel Sant'Angelo. Through a series of diverse shots, from sweeping aerial views to intimate ground-level details, the video encapsulates the timeless beauty and vibrant atmosphere of the Eternal City, making it an excellent travel presentation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.700",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "Key_Information",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "Colosseum",
+        "Rome",
+        "cityscape",
+        "sunrise",
+        "ancient architecture",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "aerial shot",
+          "golden hour lighting",
+          "clear sky",
+          "establishing shot"
+        ]
+      },
+      "why_kept": "This segment serves as the primary visual hook and establishes the video's core theme and location. The aerial view of the Colosseum at sunrise with the 'ROME ITALY' text is instantly recognizable and visually stunning, setting the tone for the entire montage."
+    },
+    {
+      "start_time": "00:03.700",
+      "end_time": "00:04.700",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "Colosseum",
+        "reflection",
+        "puddle",
+        "people",
+        "ancient architecture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "low angle",
+          "reflection shot",
+          "dynamic perspective"
+        ]
+      },
+      "why_kept": "This segment offers a creative and engaging perspective of the Colosseum, showcasing its grandeur through an interesting reflection and adding variety to the landmark's portrayal."
+    },
+    {
+      "start_time": "00:04.700",
+      "end_time": "00:06.900",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "Human_Interaction",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "Trevi Fountain",
+        "statues",
+        "water",
+        "crowd",
+        "tourists"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "daylight",
+          "bustling scene",
+          "ornate sculptures"
+        ]
+      },
+      "why_kept": "The Trevi Fountain is an iconic and highly visited Roman landmark. This segment captures its intricate details and the lively atmosphere created by the surrounding tourists, conveying its popularity and beauty."
+    },
+    {
+      "start_time": "00:09.100",
+      "end_time": "00:10.800",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "Human_Interaction",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "Pantheon",
+        "ancient temple",
+        "columns",
+        "crowd",
+        "tourists"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "classical architecture",
+          "daylight",
+          "historic facade"
+        ]
+      },
+      "why_kept": "The Pantheon is a marvel of Roman engineering and history. This exterior shot highlights its impressive scale and the bustling activity around it, making it a crucial element of Rome's semantic core."
+    },
+    {
+      "start_time": "00:10.800",
+      "end_time": "00:11.900",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "Pantheon interior",
+        "dome",
+        "oculus",
+        "coffered ceiling",
+        "light"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "architectural detail",
+          "natural light",
+          "geometric patterns"
+        ]
+      },
+      "why_kept": "This segment focuses on the Pantheon's unique and breathtaking interior, particularly its dome and oculus, showcasing a different facet of its architectural brilliance that is essential to its identity."
+    },
+    {
+      "start_time": "00:14.900",
+      "end_time": "00:16.800",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "Roman Forum",
+        "ancient ruins",
+        "columns",
+        "arches",
+        "historical site"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "aerial shot",
+          "historic landscape",
+          "daylight"
+        ]
+      },
+      "why_kept": "The Roman Forum represents the heart of ancient Rome. This high-angle shot provides an expansive view of the ruins, conveying the vastness and historical depth of the city's origins."
+    },
+    {
+      "start_time": "00:18.000",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "Colosseum interior",
+        "arena",
+        "ruins",
+        "people",
+        "ancient architecture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "interior view",
+          "historic structure",
+          "daylight"
+        ]
+      },
+      "why_kept": "This segment offers an interior perspective of the Colosseum, allowing viewers to appreciate the scale and complexity of the ancient arena, complementing the initial exterior shots."
+    },
+    {
+      "start_time": "00:19.000",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "Castel Sant'Angelo",
+        "bridge",
+        "statues",
+        "sunset",
+        "historic building"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "sunset lighting",
+          "majestic architecture",
+          "iconic landmark"
+        ]
+      },
+      "why_kept": "Castel Sant'Angelo is another significant Roman landmark. This beautifully lit shot at sunset provides a serene yet grand conclusion to the series of iconic sights."
+    }
+  ]
+}

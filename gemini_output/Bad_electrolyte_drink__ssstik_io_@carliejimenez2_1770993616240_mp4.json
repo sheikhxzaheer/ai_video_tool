@@ -1,0 +1,147 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad electrolyte drink\\ssstik.io_@carliejimenez2_1770993616240.mp4",
+  "detailed_description": "This video introduces and highly recommends the sugar-free version of Liquid I.V. hydration multiplier, specifically highlighting the white peach flavor. The creator first compares the sugar content between the original (11g) and the sugar-free (0g) options. She then demonstrates how to prepare the drink by pouring the powder into a glass with ice, emphasizing that it contains zero artificial sweeteners. The video concludes with an enthusiastic endorsement of the white peach flavor and a call to action for viewers to try it.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.400",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Key_Information",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "Liquid I.V. packets",
+        "sugar content comparison",
+        "woman",
+        "pointing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "informative",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment serves as a strong visual hook and immediately establishes the core value proposition by directly comparing the sugar content of the original versus the sugar-free Liquid I.V."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Key_Information",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "Liquid I.V. sugar-free packet",
+        "white peach flavor",
+        "woman",
+        "smiling",
+        "recommending"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "enthusiastic",
+          "approachable"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "expressive"
+        ]
+      },
+      "why_kept": "This segment captures the emotional climax and provides key information about the specific flavor being recommended, emphasizing its deliciousness."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Key_Information",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "pouring powder",
+        "Liquid I.V. stick",
+        "glass with ice",
+        "woman",
+        "speaking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "informative",
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up on action",
+          "clear instruction"
+        ]
+      },
+      "why_kept": "This segment demonstrates the process of using the product and highlights a crucial benefit: the absence of artificial sweeteners, which adds to its value proposition."
+    },
+    {
+      "start_time": "00:23.000",
+      "end_time": "00:27.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Interaction",
+        "Offer_CTA",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "finished drink",
+        "Liquid I.V. sugar-free packet",
+        "woman",
+        "smiling",
+        "straw",
+        "linking product"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "satisfied",
+          "friendly"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "final product shot",
+          "direct call to action"
+        ]
+      },
+      "why_kept": "This segment provides the 'reveal' of the prepared drink, reinforces the product recommendation with positive emotion, and includes a clear call to action, effectively closing the demonstration."
+    }
+  ]
+}

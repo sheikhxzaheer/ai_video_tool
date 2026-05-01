@@ -1,0 +1,56 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Routine\\FF00187B-2C1A-4120-8FF2-52027E16DF4F.MOV",
+  "detailed_description": "The video showcases a woman's tranquil self-care routine, beginning with the application of a facial serum using a dropper on her jawline and neck. She then skillfully utilizes a gua sha tool to massage her skin, emphasizing a calming and revitalizing process. Throughout the routine, she sports a distinctive green lip patch and a stylish red bandana, enhancing the aesthetic. The video concludes with her taking a refreshing drink from a glass bottle, tying together a sequence of mindful self-nurturing activities.",
+  "segments": [
+    {
+      "start_time": "00:00.400",
+      "end_time": "00:06.600",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Calm_Relaxation",
+        "Morning_Routine",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "green lip patch",
+        "red bandana",
+        "black fuzzy sweater",
+        "serum bottle",
+        "dropper",
+        "gua sha tool",
+        "applying serum",
+        "massaging face",
+        "drinking water",
+        "self-care routine"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "relaxed",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean background",
+          "focused action",
+          "everyday aesthetic"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it comprehensively captures the entire self-care process, including product interaction (serum application, gua sha usage, drinking) and the demonstration of a wellness routine. It begins with the active engagement with the first product and concludes with the last presented action, clearly illustrating the 'doing the work' hero moment."
+    }
+  ]
+}

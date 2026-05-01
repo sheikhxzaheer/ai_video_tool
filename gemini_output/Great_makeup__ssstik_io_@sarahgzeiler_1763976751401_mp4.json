@@ -1,0 +1,154 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great_makeup\\ssstik.io_@sarahgzeiler_1763976751401.mp4",
+  "detailed_description": "The video showcases a makeup routine focusing on eye makeup. The creator demonstrates how she uses a hydrating concealer as an eye primer before applying eyeshadow to set her lid and provide caffeine and hyaluronic benefits. She then details her unique method of applying under-eye concealer in two specific dots and blending it upwards towards the eyebrow to achieve a lifted appearance, highlighting its non-creasing and non-drying properties. The routine concludes with a light dusting of powder to set the look.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.467",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Key_Information",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "concealer tube",
+        "applicator",
+        "brush",
+        "applying concealer",
+        "eyes"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "instructional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "tutorial style"
+        ]
+      },
+      "why_kept": "This segment introduces the product and its initial use as an eye primer, explaining its benefits before the main makeup application."
+    },
+    {
+      "start_time": "00:20.000",
+      "end_time": "00:46.333",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Key_Information",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "eyeshadow palette",
+        "eyeshadow brush",
+        "applying eyeshadow",
+        "eyes"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "instructional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "tutorial style"
+        ]
+      },
+      "why_kept": "This segment demonstrates the eyeshadow application, which is part of the routine and done before the final under-eye concealer step, as explicitly stated by the presenter."
+    },
+    {
+      "start_time": "00:50.000",
+      "end_time": "01:59.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Key_Information",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "concealer applicator",
+        "concealer brush",
+        "applying concealer dots",
+        "blending upwards",
+        "lifted eye effect",
+        "eyes",
+        "talking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "instructional",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "tutorial style",
+          "clear demonstration"
+        ]
+      },
+      "why_kept": "This is the core 'hero moment' where the unique 'lifted eye' concealer technique is demonstrated step-by-step. It clearly shows the process, product interaction, and the desired transformative result, making it the most valuable and central part of the video's expertise."
+    },
+    {
+      "start_time": "02:03.000",
+      "end_time": "02:15.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "powder brush",
+        "applying powder",
+        "face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "instructional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "tutorial style"
+        ]
+      },
+      "why_kept": "This segment shows the final touch-up step with powder, which completes the makeup routine and ensures no streaking, tying into the overall application process."
+    }
+  ]
+}

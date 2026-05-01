@@ -1,0 +1,79 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ÐçÐéð¥-Ðéð¥ ÐüÐéÐÇð░ð¢ð¥ðÁ ð¢ð░ ð│ð¥ð╗ð¥ð▓ðÁ ð© ð┐ÐÇð¥ð▒ÐâðÁÐé Ðüð¥ÐüÐéÐÇð©ÐçÐî ð▓ð¥ð╗ð¥ÐüÐï.mp4",
+  "detailed_description": "This video depicts a humorous and exaggerated scenario where a 'slime hair mask' goes disastrously wrong. A man attempts to remove the green, gooey substance from his hair using electric clippers, expressing extreme shock and frustration as large chunks of his hair are inevitably cut off with the slime. The visual of his hair being progressively shorn highlights the unexpected and messy consequences. The video culminates in a dramatic reveal of him completely bald, emphasizing the complete failure of the hair mask. His wide-eyed, open-mouthed expression throughout adds to the comedic and shocking effect of the unfortunate incident.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:57.000",
+      "structural_tags": [
+        "Problem_State",
+        "Malfunction_Fail",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Shock_Surprise",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "green slime",
+        "hair clippers",
+        "cutting hair",
+        "hair chunks",
+        "surprised expression",
+        "indoor setting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "shock"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "exaggerated expressions",
+          "colorful background"
+        ]
+      },
+      "why_kept": "This segment establishes the problem (slime hair mask gone wrong), shows the action of trying to fix it (cutting hair with clippers), and captures the protagonist's strong, exaggerated emotional reactions, which are central to the video's comedic and shocking premise."
+    },
+    {
+      "start_time": "00:57.000",
+      "end_time": "01:02.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Face_Reaction",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "bald head",
+        "surprised expression",
+        "outdoor setting"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "shock",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "clear sky"
+        ]
+      },
+      "why_kept": "This segment serves as the dramatic and humorous 'reveal' of the final consequence of the failed hair mask, completing the narrative and delivering a strong emotional climax with the protagonist's shocked reaction to his bald head."
+    }
+  ]
+}

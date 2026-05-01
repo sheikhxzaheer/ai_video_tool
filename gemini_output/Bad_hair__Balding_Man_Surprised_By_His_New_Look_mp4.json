@@ -1,0 +1,148 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\Balding Man Surprised By His New Look.mp4",
+  "detailed_description": "This video captures a man's personal journey from acknowledging his significant hair loss to making the decision to shave his head. It showcases the complete process of him using electric clippers to shave his own head, highlighting his initial nervousness and the progressive transformation. The video concludes with his immediate reaction to his new look, expressing satisfaction and a feeling of surreal change.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.500",
+      "structural_tags": [
+        "Problem_State",
+        "Human_Interaction",
+        "Product_Intro",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "man showing balding hair",
+        "hair clippers",
+        "mirror reflection"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious",
+          "nervous"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "self-shot",
+          "mirror reflection"
+        ]
+      },
+      "why_kept": "This segment establishes the core problem of hair loss and the subject's decision to act, providing essential context before the main action."
+    },
+    {
+      "start_time": "00:04.500",
+      "end_time": "00:06.800",
+      "structural_tags": [
+        "Product_Interaction",
+        "Negative_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "clippers buzzing",
+        "nervous facial expression",
+        "man preparing to shave"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "nervous",
+          "anticipatory"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "self-shot",
+          "mirror reflection"
+        ]
+      },
+      "why_kept": "This segment captures the emotional build-up and the initial engagement with the product, showing the subject's nerves before the significant change."
+    },
+    {
+      "start_time": "00:06.800",
+      "end_time": "00:19.800",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Result_Transformation",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "man shaving head",
+        "hair clippers",
+        "hair falling",
+        "half-shaved head",
+        "redness on scalp"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "energetic",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "self-shot",
+          "mirror reflection",
+          "raw",
+          "unfiltered"
+        ]
+      },
+      "why_kept": "This is the core 'Process/Labor' segment, visually demonstrating the product's function and the immediate, significant transformation of the subject's appearance."
+    },
+    {
+      "start_time": "00:19.800",
+      "end_time": "00:25.900",
+      "structural_tags": [
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "shaved head",
+        "man touching head",
+        "clump of hair",
+        "satisfied expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "satisfied",
+          "shock_surprise"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "self-shot",
+          "mirror reflection",
+          "post-action glow"
+        ]
+      },
+      "why_kept": "This segment provides the crucial 'Reveal/Result' of the action, capturing the subject's genuine emotional climax and positive assessment of his transformed appearance."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\Ðåð©ÐÇð║Ðâð╗ÐÅÐåð©ÐÅ ð║ÐÇð¥ð▓ð©.mp4",
+  "detailed_description": "The video features a detailed 3D animation illustrating the dynamic flow of red blood cells and white blood cells through a branching blood vessel. It visually demonstrates the intricate biological process of blood circulation at a microscopic level. The animation effectively highlights the movement and relative sizes of different cell types within the bloodstream, set against a warm, abstract biological background. This core segment is ideal for educational purposes or to explain cellular mechanisms within the circulatory system.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Cellular_Deep_Dive",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "red blood cells",
+        "white blood cells",
+        "blood vessel",
+        "blood flow",
+        "cellular animation",
+        "branching"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "scientific"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "biological simulation",
+          "bright red",
+          "warm tones",
+          "dynamic"
+        ]
+      },
+      "why_kept": "This entire segment constitutes the semantic core as it is a continuous, uninterrupted animation depicting the biological process of blood cells flowing through vessels. It clearly demonstrates the 'Mechanism_Of_Action' at a 'Cellular_Deep_Dive' level, which is the primary informational and visual value of the video."
+    }
+  ]
+}

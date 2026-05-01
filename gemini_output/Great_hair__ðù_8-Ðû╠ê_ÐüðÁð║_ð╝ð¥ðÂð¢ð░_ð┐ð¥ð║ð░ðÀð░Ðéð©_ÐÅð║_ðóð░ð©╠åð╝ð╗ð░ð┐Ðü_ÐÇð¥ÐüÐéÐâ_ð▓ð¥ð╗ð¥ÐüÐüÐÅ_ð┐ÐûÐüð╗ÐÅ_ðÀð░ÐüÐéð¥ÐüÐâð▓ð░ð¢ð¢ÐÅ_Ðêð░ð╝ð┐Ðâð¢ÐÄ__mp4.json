@@ -1,0 +1,78 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ðù 8-Ðû╠ê ÐüðÁð║ ð╝ð¥ðÂð¢ð░ ð┐ð¥ð║ð░ðÀð░Ðéð© ÐÅð║ ðóð░ð©╠åð╝ð╗ð░ð┐Ðü ÐÇð¥ÐüÐéÐâ ð▓ð¥ð╗ð¥ÐüÐüÐÅ ð┐ÐûÐüð╗ÐÅ ðÀð░ÐüÐéð¥ÐüÐâð▓ð░ð¢ð¢ÐÅ Ðêð░ð╝ð┐Ðâð¢ÐÄ .mp4",
+  "detailed_description": "The video documents a man's hair transplant journey, showcasing the transformation of his hairline. It begins with a close-up of his forehead, revealing the immediate post-operative or early healing phase of the transplanted hair, characterized by visible grafts and some redness. His hand gently pushes back existing hair to emphasize the newly created hairline. The video then transitions to a later stage, presenting a side profile shot where the hair is fully healed and styled. The final segment reveals the man looking directly at the camera with a confident expression, highlighting the successful and natural-looking outcome of the procedure. This visual narrative effectively demonstrates the positive impact of the hair transplant.",
+  "segments": [
+    {
+      "start_time": "00:00.500",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "forehead",
+        "hairline",
+        "transplanted hair",
+        "redness",
+        "grafts",
+        "hand"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "close inspection"
+        ]
+      },
+      "why_kept": "This segment provides an intimate, detailed view of the freshly transplanted hairline, showing the early stages of the hair transplant result and emphasizing the area of transformation."
+    },
+    {
+      "start_time": "00:12.000",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "styled hair",
+        "natural hairline",
+        "confident gaze",
+        "blue eyes",
+        "beard"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "confident",
+          "satisfied",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "direct gaze",
+          "styled hair"
+        ]
+      },
+      "why_kept": "This segment presents the successful, natural-looking final result of the hair transplant, showcasing a significant transformation and a confident emotional response from the individual, acting as the ultimate reveal."
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Gym\\Woman\\ssstik.io_@racheleobuck_1767349001487.mp4",
+  "detailed_description": "This video showcases a woman actively engaged in a diverse gym workout routine, embodying the concept of a 'busy body.' It features various exercises including treadmill running, dumbbell push-ups, incline sit-ups, barbell deadlifts, and leg presses. Each segment highlights the physical exertion and dedication to fitness. The consistent on-screen text 'busy body quiet mind' reinforces the idea that physical activity contributes to mental tranquility, effectively communicating an active and balanced lifestyle.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.400",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "woman running",
+        "treadmill",
+        "gym workout"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dark lighting",
+          "dynamic movement"
+        ]
+      },
+      "why_kept": "This segment establishes the active theme with the primary subject engaging in vigorous exercise, setting the tone for the 'busy body' concept."
+    },
+    {
+      "start_time": "00:01.400",
+      "end_time": "00:03.100",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "woman doing push-ups",
+        "dumbbells",
+        "gym floor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dark lighting"
+        ]
+      },
+      "why_kept": "This segment demonstrates another 'process/labor' hero moment, showcasing varied exercise forms and reinforcing the active lifestyle."
+    },
+    {
+      "start_time": "00:03.100",
+      "end_time": "00:04.300",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "woman doing sit-ups",
+        "incline bench",
+        "gym equipment"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dark lighting"
+        ]
+      },
+      "why_kept": "This segment adds another exercise to the workout montage, contributing to the overall depiction of a comprehensive fitness routine."
+    },
+    {
+      "start_time": "00:04.300",
+      "end_time": "00:06.200",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "woman doing deadlifts",
+        "barbell",
+        "weights",
+        "UFC Gym sign"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dark lighting",
+          "brand presence"
+        ]
+      },
+      "why_kept": "This segment features strength training, further diversifying the 'busy body' activities and showing commitment to a full workout."
+    },
+    {
+      "start_time": "00:06.200",
+      "end_time": "00:07.100",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "feet walking",
+        "treadmill",
+        "workout shoes"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dark lighting",
+          "POV shot"
+        ]
+      },
+      "why_kept": "This close-up shot of the feet on the treadmill offers a different perspective of the ongoing exercise, maintaining the active theme."
+    },
+    {
+      "start_time": "00:07.100",
+      "end_time": "00:08.100",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "woman doing leg press",
+        "gym machine",
+        "weights"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dark lighting"
+        ]
+      },
+      "why_kept": "This segment adds another lower body exercise, rounding out the display of various fitness activities within the 'busy body' theme."
+    },
+    {
+      "start_time": "00:08.100",
+      "end_time": "00:09.125",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "woman running",
+        "treadmill",
+        "gym workout"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dark lighting",
+          "dynamic movement"
+        ]
+      },
+      "why_kept": "This concluding segment reiterates the high-energy, active lifestyle, bringing the workout montage full circle and reinforcing the core message."
+    }
+  ]
+}

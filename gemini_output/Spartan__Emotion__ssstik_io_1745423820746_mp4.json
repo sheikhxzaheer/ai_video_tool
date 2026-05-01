@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Emotion\\ssstik.io_1745423820746.mp4",
+  "detailed_description": "The video captures a heartfelt birthday moment where a man, surrounded by friends and a cake with '25' candles, experiences a profound, personal emotional climax. Despite the celebratory atmosphere, he closes his eyes, smiles, and appears to be making a wish or reflecting on his feelings, with the on-screen text suggesting this intimate moment went unnoticed by others. His expression shifts from a general smile to one of deep, introspective happiness, embodying a private emotional journey amidst a public celebration.",
+  "segments": [
+    {
+      "start_time": "00:08.500",
+      "end_time": "00:15.100",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man smiling",
+        "closed eyes",
+        "birthday cake",
+        "candles",
+        "emotional expression",
+        "friends in background"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "emotional",
+          "calm",
+          "joyful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "candle glow",
+          "soft focus",
+          "intimate"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the 'Emotional Climax' as the man's facial expressions transition from a broad smile to a deep, personal moment of reflection with closed eyes, fulfilling the core narrative implied by the 'No one noticed' text. It's the most poignant part of the video and the primary 'Hero Moment'."
+    }
+  ]
+}

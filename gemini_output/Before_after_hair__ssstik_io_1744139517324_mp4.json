@@ -1,0 +1,80 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ssstik.io_1744139517324.mp4",
+  "detailed_description": "The video presents a compelling before-and-after transformation of a man's hair. It begins by showcasing the severe hair loss, clearly labeled as \"how it started,\" to establish the initial problem state. This is followed by a dramatic transition to a confident shot revealing a full, healthy head of hair, labeled \"how it's going,\" demonstrating the successful result. The core of the video lies in the explicit sharing of the regimen that led to this change, detailing treatments like minoxidil, finasteride, biotin, rosemary oil, density shampoo, and a hair transplant. The video concludes with a direct call to action, inviting viewers to follow for guidance on achieving similar hair restoration results.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.200",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "balding head",
+        "hair loss",
+        "man wearing glasses",
+        "overhead shot"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "top-down view",
+          "clear focus"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'before' state, visually highlighting the severe hair loss problem and serving as a crucial visual hook that sets the stage for the dramatic transformation to follow."
+    },
+    {
+      "start_time": "00:03.200",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Human_Interaction",
+        "Key_Information",
+        "Offer_CTA",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man with full hair",
+        "mirror selfie",
+        "phone",
+        "hand styling hair",
+        "list of hair treatments",
+        "call to action text"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "positive",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "mirror shot",
+          "natural lighting",
+          "text overlay",
+          "dynamic hand gesture"
+        ]
+      },
+      "why_kept": "This comprehensive segment showcases the successful 'after' transformation, demonstrating significant hair regrowth and improved density. It also integrates crucial information about the specific treatments used and concludes with a clear call to action, effectively delivering the video's core value proposition and solution."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ð╝ðÁð╗ð░ðÀð╝ð░ 3┬áÔÇö ð║ð¥ð┐ð©ÐÅ.mp4",
+  "detailed_description": "This video showcases a woman's journey to improve her skin, specifically targeting dark spots. It begins with her expressing hopelessness about her skin condition, then transitions to her applying a skincare serum to her face. The video concludes with a reveal of her visibly improved skin, accompanied by a confident smile, conveying a message of hope and perseverance in skincare.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.200",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "dark spots",
+        "freckles",
+        "skin pigmentation",
+        "discouraged expression",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "warm tones"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state and the 'problem' the video aims to address, creating a compelling visual hook and setting the emotional context for the transformation."
+    },
+    {
+      "start_time": "00:04.200",
+      "end_time": "00:08.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying serum",
+        "dropper",
+        "rubbing face",
+        "skincare product",
+        "hand"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clear action"
+        ]
+      },
+      "why_kept": "This is the core 'how-to' segment, demonstrating the direct application and interaction with the product, which is central to the video's message of finding a solution for skin spots."
+    },
+    {
+      "start_time": "00:08.400",
+      "end_time": "00:12.100",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "clearer skin",
+        "touching face",
+        "confidence"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "natural expression"
+        ]
+      },
+      "why_kept": "This segment provides the 'after' state, showcasing the positive outcome and emotional satisfaction after using the product, reinforcing the video's message of effectiveness and hope."
+    }
+  ]
+}

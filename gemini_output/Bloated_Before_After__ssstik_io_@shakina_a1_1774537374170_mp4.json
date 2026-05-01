@@ -1,0 +1,90 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated Before_After\\ssstik.io_@shakina.a1_1774537374170.mp4",
+  "detailed_description": "The video showcases a personal transformation journey from experiencing bloating and inflammation to successfully learning how to debloat. It begins with a 'before' shot, where the woman is seen in workout attire, highlighting her visibly inflamed and bloated stomach. This initial segment establishes the problem state and emotional context. The video then transitions to an 'after' scene, set in a gym, where the woman confidently displays a flat, debloated stomach. Her satisfied expression and activewear convey the positive outcome and the achievement of her goal. The visual comparison effectively communicates the benefits of mastering debloating techniques.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.400",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Negative_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "black workout clothes",
+        "bloated stomach",
+        "hand on waist",
+        "mirror",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "problematic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "selfie perspective",
+          "candid"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'before' state, showing the woman's inflamed and bloated stomach, which is crucial for setting up the transformation narrative."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:13.200",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "blue crop top",
+        "white sweatpants",
+        "flat stomach",
+        "abs",
+        "smile",
+        "gym",
+        "phone",
+        "mirror",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "positive",
+          "calm",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "mirror shot",
+          "confident pose",
+          "fitness aesthetic"
+        ]
+      },
+      "why_kept": "This segment is the 'after' state, showcasing the successful transformation to a debloated stomach. It serves as the primary reveal and the core value proposition of the video, demonstrating the desired outcome with a positive emotional climax."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\Brain_Activity_Male.mov",
+  "detailed_description": "This video presents a conceptual visualization of brain activity within a human head silhouette. A glowing, pulsating blue brain is depicted inside the head, emitting light rays and symbolizing active cognitive processes or mental function. The silhouette rotates against a futuristic blue grid background, allowing for different perspectives of this internal neurological activity. The animation aims to represent concepts related to intelligence, mental health, or advanced scientific understanding of the human mind.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.467",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "human head silhouette",
+        "brain",
+        "glowing blue light",
+        "pulsating effect",
+        "digital grid background",
+        "mental process",
+        "cognition",
+        "neurology",
+        "head rotation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "energetic",
+          "futuristic",
+          "scientific"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "glowing effects",
+          "blue color scheme",
+          "digital visualization",
+          "x-ray like"
+        ]
+      },
+      "why_kept": "The entire video segment is kept as the semantic core because it consistently and continuously displays the central concept: the visualization of an active, glowing brain within a human silhouette. There are no setup, calibration, or post-action dead air frames; the animation begins immediately and runs throughout, directly demonstrating the intended visual representation of brain activity. This continuous action constitutes the 'process/labor' or 'reveal/result' of a conceptual nature, making it the primary hero moment."
+    }
+  ]
+}

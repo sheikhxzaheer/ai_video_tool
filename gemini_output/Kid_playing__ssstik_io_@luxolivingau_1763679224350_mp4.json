@@ -1,0 +1,81 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid playing\\ssstik.io_@luxolivingau_1763679224350.mp4",
+  "detailed_description": "This video captures the heartwarming transformation of a child's nursery into a vibrant 'big girl room.' It begins by showcasing the original room with a crib, establishing the 'before' state. The narrative then shifts to the exciting 'after' reveal, where a little girl discovers her new room, complete with a pink shell-shaped bed and colorful rainbow bedding. Her unadulterated joy is palpable as she enthusiastically jumps on the bed, concluding with a radiant smile of satisfaction, perfectly illustrating the emotional impact of her dream room.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.800",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "crib",
+        "nursery room",
+        "white dresser",
+        "wooden floor"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "simple aesthetic"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state of the room with the crib, setting the necessary context for the subsequent transformation. The woman's interaction with the crib implicitly highlights the transition from baby to 'big girl'."
+    },
+    {
+      "start_time": "00:14.600",
+      "end_time": "00:25.120",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "High_Energy",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Product_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "little girl",
+        "pink dress",
+        "new bed",
+        "rainbow bedding",
+        "shell headboard",
+        "jumping",
+        "smiling",
+        "happy"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "child-centric"
+        ]
+      },
+      "why_kept": "This segment is the core 'reveal' moment, showcasing the transformed room and, crucially, the child's ecstatic reaction. It demonstrates the 'after' state, the direct interaction with the new bed, and the clear emotional climax of joy and happiness, fulfilling multiple 'Hero Moment' criteria."
+    }
+  ]
+}

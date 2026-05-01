@@ -1,0 +1,119 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\Bald spot\\ssstik.io_1745231976136.mp4",
+  "detailed_description": "This video presents a rapid 25-second tutorial demonstrating how to perform a self-administered buzzcut or baldcut using an electric clipper. It captures the entire process, from the initial shaving strokes and interim progress checks, through the final clean-up rinse, to the reveal of the freshly shaven head. The tutorial concludes with the man getting dressed and showcasing his new, clean-shaven look with a confident and satisfied expression.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.275",
+      "structural_tags": [
+        "Visual_Hook",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "text overlay",
+        "looking at camera",
+        "short buzzcut"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment serves as the visual hook, introducing the video's theme and the subject before the main action begins, setting the context for the '25 seconds Buzzcut Tutorial'."
+    },
+    {
+      "start_time": "00:01.275",
+      "end_time": "00:19.460",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Intro",
+        "Human_Interaction",
+        "Result_Transformation",
+        "Before_After",
+        "Face_Reaction",
+        "High_Energy",
+        "Morning_Routine",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "shaving head",
+        "electric clipper",
+        "hair falling",
+        "half shaved",
+        "striped hair",
+        "blowing hair off clipper",
+        "showering",
+        "wet head",
+        "fully shaved",
+        "clean look"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera angles",
+          "close-up details",
+          "transformation focus",
+          "fast-paced"
+        ]
+      },
+      "why_kept": "This is the primary segment showcasing the core value: the full, rapid buzzcut process. It includes direct product interaction, step-by-step transformation, partial reveals, and the final rinse, fulfilling the 'tutorial' aspect of the video. It demonstrates the expertise and the actual labor involved."
+    },
+    {
+      "start_time": "00:19.460",
+      "end_time": "00:24.460",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "putting on shirt",
+        "putting on jacket",
+        "final look",
+        "posing",
+        "satisfied expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean aesthetic",
+          "confident pose"
+        ]
+      },
+      "why_kept": "This segment displays the complete 'after' transformation, showing the man fully dressed and confident with his new buzzcut. It provides the final aesthetic result and conveys a positive emotional outcome, acting as the ultimate reveal."
+    }
+  ]
+}

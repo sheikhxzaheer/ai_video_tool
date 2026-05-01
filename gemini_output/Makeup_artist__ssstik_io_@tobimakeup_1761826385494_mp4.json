@@ -1,0 +1,79 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Makeup_artist\\ssstik.io_@tobimakeup_1761826385494.mp4",
+  "detailed_description": "The video captures a professional makeup application session, focusing on the precise process of applying a lip product to a model. It highlights the skilled hand of the makeup artist as they carefully work on the model's lips. The application is followed by a clear emotional climax, as the model adjusts her lips and then reveals a radiant smile, showcasing the beautiful finished look and expressing satisfaction with the result.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "makeup application",
+        "lip gloss",
+        "makeup brush",
+        "model",
+        "lips",
+        "cosmetics"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean background",
+          "focused"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the professional application process of a lip product, showcasing the precise technique and interaction between the makeup artist and the model's lips. It is the core 'doing' of the video."
+    },
+    {
+      "start_time": "00:07.500",
+      "end_time": "00:11.233",
+      "structural_tags": [
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "model",
+        "smiling",
+        "finished look",
+        "makeup",
+        "lips"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "positive",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "direct gaze",
+          "radiant"
+        ]
+      },
+      "why_kept": "This segment captures the immediate positive reaction and the final, beautiful result of the makeup application, showcasing the model's satisfaction and the desired outcome of the process. It serves as the 'reveal' of the expertise."
+    }
+  ]
+}

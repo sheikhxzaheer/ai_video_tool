@@ -1,0 +1,274 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Product\\video-output-02CCBFC0-CE31-48D2-972E-789C46BD44EC-1.mp4",
+  "detailed_description": "This video introduces Spartan Root Activator Shampoo, designed to promote hair growth. It visually highlights the product packaging and the shampoo bottle, then demonstrates its application during a shower routine. The video also emphasizes the problem of hair loss by showing a man examining his thinning hair before and after shampooing, and by displaying fallen hair strands in a sink, reinforcing the need for such a product.",
+  "segments": [
+    {
+      "start_time": "00:13.600",
+      "end_time": "00:20.620",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "hands",
+        "product box",
+        "shampoo bottle",
+        "unboxing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "direct lighting"
+        ]
+      },
+      "why_kept": "This segment shows the unboxing of the product, providing a clear introduction and first interaction with the shampoo bottle itself."
+    },
+    {
+      "start_time": "00:23.400",
+      "end_time": "00:28.980",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "shampoo bottle",
+        "product display",
+        "hands",
+        "brand name",
+        "product description"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "premium",
+          "rugged"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "matte black bottle",
+          "gold text",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment provides a clear, static shot of the shampoo bottle, showcasing its design and key information on the label."
+    },
+    {
+      "start_time": "00:53.900",
+      "end_time": "01:03.800",
+      "structural_tags": [
+        "Problem_State",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "mirror",
+        "hairline",
+        "thinning hair",
+        "facial expression",
+        "beard"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious",
+          "concerned"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state and the problem of hair thinning, creating context and relatability for the viewer."
+    },
+    {
+      "start_time": "01:19.460",
+      "end_time": "01:22.360",
+      "structural_tags": [
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "hands",
+        "shampoo bottle",
+        "shampoo dispensing",
+        "liquid product"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "wet hands",
+          "shampoo texture"
+        ]
+      },
+      "why_kept": "This segment shows the direct interaction of dispensing the shampoo, highlighting the product's physical properties and how it is used."
+    },
+    {
+      "start_time": "01:22.840",
+      "end_time": "01:29.130",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "shampooing hair",
+        "lather",
+        "wet hair",
+        "shower"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "water droplets",
+          "white tiles"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial application of the shampoo, showcasing the 'process' of using the product to cleanse the hair."
+    },
+    {
+      "start_time": "01:29.980",
+      "end_time": "01:35.400",
+      "structural_tags": [
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "hand",
+        "hair strands",
+        "sink",
+        "hair loss"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "white sink",
+          "water"
+        ]
+      },
+      "why_kept": "This segment provides visual evidence of hair loss, further reinforcing the problem the shampoo aims to address."
+    },
+    {
+      "start_time": "01:35.800",
+      "end_time": "01:45.000",
+      "structural_tags": [
+        "Problem_State",
+        "Face_Reaction",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "man",
+        "car mirror",
+        "hairline",
+        "thinning hair",
+        "facial expression",
+        "hat"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "car"
+        ],
+        "mood": [
+          "serious",
+          "concerned"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "daylight",
+          "car interior"
+        ]
+      },
+      "why_kept": "This segment reiterates the hair thinning problem in a different, relatable, everyday setting before the man covers his head with a hat."
+    },
+    {
+      "start_time": "01:50.560",
+      "end_time": "02:29.980",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "shampooing hair",
+        "shampoo bottle",
+        "shower rack",
+        "wet hair",
+        "lather"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "water stream",
+          "white tiles",
+          "product visible on shelf"
+        ]
+      },
+      "why_kept": "This is the primary segment showcasing the 'process' of using the product in a daily routine, with the product clearly visible in its intended environment, making it the strongest demonstration of value and action."
+    }
+  ]
+}

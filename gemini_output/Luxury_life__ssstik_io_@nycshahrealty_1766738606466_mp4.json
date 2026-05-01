@@ -1,0 +1,126 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury life\\ssstik.io_@nycshahrealty_1766738606466.mp4",
+  "detailed_description": "This video offers a virtual tour of a $13.5 million luxury penthouse in New York City. The apartment spans over 3100 square feet with three bedrooms and three and a half bathrooms, boasting breathtaking panoramic views of the Hudson River and the city skyline. The tour showcases the spacious great room, a large modern kitchen, and thoughtfully designed bedrooms. The primary bedroom, with its unique and unparalleled vistas and luxurious en-suite bathroom, is highlighted as the apartment's most impressive feature. The video concludes by revealing the apartment is for sale and provides a call to action for interested viewers.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Result_Transformation",
+        "Key_Information",
+        "Calm_Relaxation",
+        "Premium",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man walking",
+        "luxury living room",
+        "NYC skyline",
+        "Hudson River",
+        "One World Trade Center",
+        "floor-to-ceiling windows",
+        "modern sofa",
+        "dining area"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "minimalist design",
+          "bright lighting",
+          "panoramic views"
+        ]
+      },
+      "why_kept": "This segment serves as the primary visual hook, immediately showcasing the luxurious scale of the penthouse and its 'breathtaking views' of the NYC skyline and Hudson River, a key selling point. It combines the initial 'wow' factor with the expansive setting."
+    },
+    {
+      "start_time": "00:49.000",
+      "end_time": "01:03.000",
+      "structural_tags": [
+        "Reveal_Result",
+        "Aesthetic_Broll",
+        "Positive_Emotion",
+        "Premium",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "primary bedroom",
+        "expansive water views",
+        "modern bed",
+        "sliding door",
+        "luxurious bathroom",
+        "double vanity",
+        "freestanding tub",
+        "glass shower"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "high-end finishes",
+          "clean design",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment highlights the apartment's 'favorite part,' the primary bedroom, emphasizing its unparalleled panoramic water views and luxurious bathroom, embodying the 'mansion in the sky' experience. It's a key emotional and visual climax."
+    },
+    {
+      "start_time": "01:10.000",
+      "end_time": "01:19.000",
+      "structural_tags": [
+        "Offer_CTA",
+        "Key_Information",
+        "Aesthetic_Broll",
+        "Premium",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "bedroom interior",
+        "water view",
+        "bathroom vanity",
+        "empty closet",
+        "modern apartment"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "real estate showcase",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment delivers the critical commercial information about the apartment's price ($13.5M) and availability for sale, culminating in a clear call to action for interested buyers. It clarifies the purpose of the tour."
+    }
+  ]
+}

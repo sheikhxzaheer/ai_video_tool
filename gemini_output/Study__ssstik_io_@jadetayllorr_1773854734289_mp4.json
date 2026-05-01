@@ -1,0 +1,265 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Study\\ssstik.io_@jadetayllorr_1773854734289.mp4",
+  "detailed_description": "A student documents her homework session from 5:40 PM to 9:00 PM, sharing her academic responsibilities and challenges. The video captures her working through math assignments, taking a strategic dinner break, and then tackling demanding AP European History notes. She openly expresses frustration with the workload but demonstrates resilience by moving on to AP Psychology, ultimately completing several lessons before concluding her study session for the night. The video provides a realistic portrayal of a student's evening routine balancing academics with personal life.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:22.500",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Night_Routine",
+        "Workspace_Office",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "student",
+        "speaking to camera",
+        "notebooks",
+        "study desk",
+        "homework"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "vlog style"
+        ]
+      },
+      "why_kept": "This segment establishes the main premise of the video, outlining the student's homework tasks and setting the tone for her evening study routine. It provides crucial contextual information."
+    },
+    {
+      "start_time": "00:33.000",
+      "end_time": "00:44.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "UGC_Talking_Head",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "student",
+        "iPad",
+        "screen display",
+        "wallpaper",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "vlog style"
+        ]
+      },
+      "why_kept": "This segment shows product interaction with her iPad, a key tool for studying, and captures a brief moment of positive emotion before she dives into her work."
+    },
+    {
+      "start_time": "00:44.500",
+      "end_time": "01:08.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "student",
+        "writing",
+        "notebooks",
+        "math homework",
+        "hair drying",
+        "highlighter"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "productive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This is a direct demonstration of the 'Process/Labor' of doing homework, showcasing her active engagement with her math assignment and the subtle 'Result/Transformation' of her hair drying during the study period."
+    },
+    {
+      "start_time": "01:08.500",
+      "end_time": "01:17.500",
+      "structural_tags": [
+        "Key_Information",
+        "Negative_Emotion",
+        "UGC_Talking_Head",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "student",
+        "speaking to camera",
+        "hunger",
+        "dinner break"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "tired"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "vlog style"
+        ]
+      },
+      "why_kept": "This segment provides key information about her study break and highlights an 'Emotional Climax' of feeling starved, adding a relatable human element to the study vlog."
+    },
+    {
+      "start_time": "01:17.500",
+      "end_time": "01:38.500",
+      "structural_tags": [
+        "Key_Information",
+        "Social_Proof",
+        "UGC_Talking_Head",
+        "Workspace_Office",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "student",
+        "speaking to camera",
+        "AP Euro notes",
+        "textbook",
+        "note-taking app"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "vlog style"
+        ]
+      },
+      "why_kept": "This segment delivers key information about her next task (AP Euro notes) and includes 'Social Proof' through a classmate's recommendation for a note-taking app, indicating strategic approaches to studying."
+    },
+    {
+      "start_time": "01:38.500",
+      "end_time": "02:05.500",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Key_Information",
+        "Negative_Emotion",
+        "UGC_Talking_Head",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "student",
+        "speaking to camera",
+        "frustration",
+        "tired",
+        "AP Euro notes",
+        "AP Psychology"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "frustrated",
+          "determined"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "vlog style"
+        ]
+      },
+      "why_kept": "This segment captures a significant 'Emotional Climax' of frustration with her AP Euro notes, followed by 'Key Information' as she decides to pivot to AP Psychology, showing adaptability in her study routine."
+    },
+    {
+      "start_time": "02:05.500",
+      "end_time": "02:22.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Key_Information",
+        "Calm_Relaxation",
+        "Night_Routine",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "student",
+        "lying in bed",
+        "speaking to camera",
+        "finished homework",
+        "AP Psychology",
+        "done studying"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "low lighting",
+          "cozy atmosphere",
+          "vlog style"
+        ]
+      },
+      "why_kept": "This final segment provides the 'Result/Transformation' of her hard work, confirming the completion of tasks and her decision to end the study session, offering closure to the homework journey."
+    }
+  ]
+}

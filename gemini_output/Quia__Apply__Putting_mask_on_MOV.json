@@ -1,0 +1,78 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Apply\\Putting mask on.MOV",
+  "detailed_description": "This video features a woman demonstrating a skincare routine using a Korean beauty product, a 'Color Glow Mask'. She applies the translucent pink gel from its tube onto a silicone brush, then smoothly spreads it across her face and neck. The video focuses on the precise application of the product, highlighting its texture and the user's positive experience, set within a self-care context.",
+  "segments": [
+    {
+      "start_time": "00:02.500",
+      "end_time": "00:14.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink product tube",
+        "silicone brush",
+        "applying face mask",
+        "face",
+        "neck"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment is the primary 'Hero Moment' as it clearly shows the core action: the direct interaction with the product (squeezing it onto the brush) and the initial application of the mask to the face and neck, demonstrating the product's use and texture."
+    },
+    {
+      "start_time": "00:18.200",
+      "end_time": "00:30.800",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink product tube",
+        "silicone brush",
+        "applying face mask",
+        "face",
+        "happy expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment reinforces the product application process, featuring a second squeeze and application, along with a brief positive facial reaction that adds an 'Emotional Climax' to the user experience. It serves as valuable BROLL to complement the initial ANCHOR action."
+    }
+  ]
+}

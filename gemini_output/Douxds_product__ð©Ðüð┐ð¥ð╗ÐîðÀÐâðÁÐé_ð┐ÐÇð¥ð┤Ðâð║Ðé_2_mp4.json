@@ -1,0 +1,158 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Douxds product\\ð©Ðüð┐ð¥ð╗ÐîðÀÐâðÁÐé ð┐ÐÇð¥ð┤Ðâð║Ðé 2.mp4",
+  "detailed_description": "This video showcases a male grooming routine using a sonic facial cleansing device. It demonstrates the product's effectiveness for deep cleansing, highlighting its ability to tackle issues like acne and ingrown hairs, especially for men's thicker skin. The device is also shown to enhance the absorption of creams and serums into the skin, culminating in a visibly improved complexion and a strong recommendation from the user.",
+  "segments": [
+    {
+      "start_time": "00:01.071",
+      "end_time": "00:07.132",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Key_Information",
+        "Human_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "facial cleansing device",
+        "cleanser bottle",
+        "hands",
+        "face",
+        "bathroom"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment introduces the facial cleansing device, demonstrates the application of cleanser, and provides initial key information about its effectiveness for men's skin compared to manual cleansing, setting the stage for the main action."
+    },
+    {
+      "start_time": "00:07.132",
+      "end_time": "00:13.905",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Calm_Relaxation",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "facial cleansing device",
+        "face",
+        "lather",
+        "circular motion",
+        "bathroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This is the core 'hero moment' demonstrating the product's primary function: actively cleansing the face with the sonic device. It visually showcases the 'doing the work' and the mechanism of action."
+    },
+    {
+      "start_time": "00:15.936",
+      "end_time": "00:22.583",
+      "structural_tags": [
+        "Result_Transformation",
+        "Emotional_Climax",
+        "Face_Reaction",
+        "Product_Interaction",
+        "Key_Information",
+        "Morning_Routine",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "clean face",
+        "serum bottle",
+        "applying serum",
+        "hands",
+        "bathroom"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment shows the immediate positive result of the cleansing process (implied clean and smooth skin) and transitions to preparing the skin for the device's secondary function of massaging in serums, while the voiceover describes product benefits."
+    },
+    {
+      "start_time": "00:25.751",
+      "end_time": "00:34.904",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "Social_Proof",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "facial cleansing device",
+        "face",
+        "serum massage",
+        "glowing skin",
+        "bathroom"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment demonstrates the product's versatility by showing its use for massaging creams and serums into the skin for better absorption. It culminates with the user's satisfied reaction and a strong verbal recommendation, serving as a 'reveal' of the overall positive outcome and social proof."
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Judge\\ssstik.io_@judgechuantaebrown_1770736356328.mp4",
+  "detailed_description": "The video captures a day in the life of a Criminal District Judge, showcasing her active role in the courtroom. She presides over Drug Court proceedings, clearly explaining the program's benefits and requirements to defendants, emphasizing the importance of showing up, being honest, and achieving drug-free status for case dismissal. This segment highlights her direct interaction and guidance. Beyond the bench, the video briefly shows her managing administrative tasks on her laptop and documents, taking a quick coffee break, and ends with a positive facial expression, illustrating the blend of direct judicial interaction and office work that comprises her day.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "01:25.700",
+      "structural_tags": [
+        "Process_Labor",
+        "Key_Information",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "Judge",
+        "courtroom",
+        "speaking",
+        "gesturing",
+        "explaining",
+        "interacting with defendants"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "energetic",
+          "instructive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "formal setting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment is the primary 'Hero Moment' as it directly showcases the judge performing her core professional duties: explaining the Drug Court program, engaging with participants, and setting expectations. It embodies 'The Process/Labor' and delivers 'Key Information' about her role and the court's function."
+    },
+    {
+      "start_time": "01:25.700",
+      "end_time": "01:29.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Behind_The_Scenes",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "Judge",
+        "drinking coffee",
+        "mug"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "informal break",
+          "personal moment"
+        ]
+      },
+      "why_kept": "This segment provides a brief, relatable 'Behind_The_Scenes' look at the judge's day, showing a moment of 'Calm_Relaxation' and 'Product_Interaction' with her coffee, complementing the main judicial tasks."
+    },
+    {
+      "start_time": "01:29.000",
+      "end_time": "01:47.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Workspace_Office",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "Judge",
+        "typing on laptop",
+        "reviewing documents",
+        "writing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "desk work",
+          "administrative tasks"
+        ]
+      },
+      "why_kept": "This segment visually represents the ongoing 'Process_Labor' and administrative side of a judge's 'Workspace_Office' duties, reinforcing the 'Day on the bench' theme after courtroom proceedings."
+    },
+    {
+      "start_time": "01:47.000",
+      "end_time": "01:50.000",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "Judge",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "positive",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "closing shot",
+          "pleasant expression"
+        ]
+      },
+      "why_kept": "This final shot captures a 'Positive_Emotion' and 'Face_Reaction', providing a pleasant conclusion to the 'Day on the bench' narrative."
+    }
+  ]
+}

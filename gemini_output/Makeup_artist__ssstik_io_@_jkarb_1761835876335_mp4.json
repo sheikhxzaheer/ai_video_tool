@@ -1,0 +1,139 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Makeup_artist\\ssstik.io_@.jkarb_1761835876335.mp4",
+  "detailed_description": "This video captures the behind-the-scenes transformation of actress Jenna Ortega into her iconic character. It meticulously showcases the intricate process of styling her hair into specific braids, including detailed close-ups of the technique used to create the elaborate bun at the back. Following the hair styling, the video highlights the precise application of makeup, meticulously detailing how each element contributes to achieving the character's distinctive appearance. The segment culminates in a reveal of the completed look, demonstrating the full character transformation.",
+  "segments": [
+    {
+      "start_time": "00:00.600",
+      "end_time": "00:17.500",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hair styling",
+        "braiding",
+        "hair clips",
+        "Jenna Ortega"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the initial phase of the character transformation, showing the hair stylist sectioning and beginning the braiding process. It sets the context for the detailed work to follow."
+    },
+    {
+      "start_time": "00:18.100",
+      "end_time": "00:21.800",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Process_Labor",
+        "Macro_Detail",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "braiding",
+        "hair stylist hands",
+        "hair bun",
+        "needle"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "detailed focus",
+          "hands-on"
+        ]
+      },
+      "why_kept": "This is the strongest 'Hero Moment' as it provides a close-up, detailed view of the intricate braiding technique and the expert labor involved in creating a specific part of the hairstyle, explicitly demonstrating the skill and process."
+    },
+    {
+      "start_time": "00:24.000",
+      "end_time": "00:31.800",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "makeup application",
+        "eyeliner",
+        "lipstick",
+        "makeup brushes"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "focused work",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment details the makeup application, which is crucial for completing the character's aesthetic. It showcases another essential part of the transformation process."
+    },
+    {
+      "start_time": "00:32.100",
+      "end_time": "00:35.780",
+      "structural_tags": [
+        "Result_Transformation",
+        "Face_Reaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "finished hairstyle",
+        "completed makeup",
+        "Jenna Ortega",
+        "Wednesday Addams look"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "confident",
+          "transformed"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "final pose",
+          "character look"
+        ]
+      },
+      "why_kept": "This segment serves as the 'Reveal/Result' of the entire transformation, showcasing the final hairstyle, makeup, and character portrayal from multiple angles, demonstrating the successful outcome of the process."
+    }
+  ]
+}

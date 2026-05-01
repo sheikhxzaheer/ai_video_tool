@@ -1,0 +1,300 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Laser treatment\\ssstik.io_@zyra_beauty_1763053025363.mp4",
+  "detailed_description": "This video thoroughly demonstrates the Wavy Chic Intense Pulsed Light device, a beauty instrument designed for wrinkle reduction and skin rejuvenation. It outlines a three-step skincare routine, starting with a 'CLEAN' mode (green light) for deep pore cleansing after micellar water, followed by an 'EMS' mode (red light) with lotion to stimulate collagen and reduce wrinkles. The routine concludes with a 'HOT' mode (blue light) used with a moisturizing mask to further collagen synthesis and refine skin pores, culminating in a visibly smoother, more radiant complexion.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:08.829",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Product_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Wavy Chic device",
+        "unboxing",
+        "product box",
+        "plastic wrap",
+        "hands",
+        "power button"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "minimalist aesthetic",
+          "close-up shots"
+        ]
+      },
+      "why_kept": "This segment introduces the product through an unboxing, showing its packaging and the device itself, which is crucial for product recognition and initial engagement."
+    },
+    {
+      "start_time": "00:09.329",
+      "end_time": "00:12.162",
+      "structural_tags": [
+        "Morning_Routine",
+        "Human_Interaction",
+        "Process"
+      ],
+      "visual_keywords": [
+        "woman",
+        "micellar water",
+        "cotton pad",
+        "face cleansing",
+        "prep"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean skin focus"
+        ]
+      },
+      "why_kept": "This segment demonstrates the essential preparatory step of cleansing the skin with micellar water before using the device, setting the context for the first treatment mode."
+    },
+    {
+      "start_time": "00:12.162",
+      "end_time": "00:16.129",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Lifestyle_Active",
+        "Key_Information",
+        "Calm_Relaxation",
+        "Process"
+      ],
+      "visual_keywords": [
+        "Wavy Chic device",
+        "green light",
+        "text overlay",
+        "woman",
+        "face massage",
+        "neck massage"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "informative text",
+          "glowing skin",
+          "smooth motion"
+        ]
+      },
+      "why_kept": "This segment is a core hero moment, showing the device in 'CLEAN' mode (green light) with clear text explaining its benefits, combined with active product interaction on the face and neck."
+    },
+    {
+      "start_time": "00:16.129",
+      "end_time": "00:19.395",
+      "structural_tags": [
+        "Morning_Routine",
+        "Human_Interaction",
+        "Process"
+      ],
+      "visual_keywords": [
+        "woman",
+        "lotion bottle",
+        "applying lotion",
+        "face",
+        "neck"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "skincare application"
+        ]
+      },
+      "why_kept": "This segment illustrates the second preparatory step, applying lotion, which is necessary for the subsequent 'EMS' treatment mode to be effective."
+    },
+    {
+      "start_time": "00:19.395",
+      "end_time": "00:23.162",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Lifestyle_Active",
+        "Key_Information",
+        "Calm_Relaxation",
+        "Process"
+      ],
+      "visual_keywords": [
+        "Wavy Chic device",
+        "red light",
+        "text overlay",
+        "woman",
+        "face massage",
+        "neck massage"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "informative text",
+          "glowing skin",
+          "smooth motion"
+        ]
+      },
+      "why_kept": "This is another core hero moment, showcasing the device in 'EMS' mode (red light) with explanatory text about its wrinkle-reducing and collagen-stimulating benefits, demonstrated through active use."
+    },
+    {
+      "start_time": "00:23.162",
+      "end_time": "00:26.029",
+      "structural_tags": [
+        "Night_Routine",
+        "Human_Interaction",
+        "Process"
+      ],
+      "visual_keywords": [
+        "woman",
+        "mask tube",
+        "applying mask",
+        "face",
+        "neck"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "skincare application"
+        ]
+      },
+      "why_kept": "This segment shows the final preparatory step of applying a moisturizing mask, essential for the concluding 'HOT' treatment mode to maximize skin rejuvenation."
+    },
+    {
+      "start_time": "00:26.029",
+      "end_time": "00:30.095",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Lifestyle_Active",
+        "Key_Information",
+        "Calm_Relaxation",
+        "Process"
+      ],
+      "visual_keywords": [
+        "Wavy Chic device",
+        "blue light",
+        "text overlay",
+        "woman",
+        "face massage",
+        "neck massage"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "informative text",
+          "glowing skin",
+          "smooth motion"
+        ]
+      },
+      "why_kept": "This segment is a final core hero moment, featuring the device in 'HOT' mode (blue light) with text detailing its role in collagen synthesis and skin refinement, depicted through practical application."
+    },
+    {
+      "start_time": "00:30.095",
+      "end_time": "00:31.062",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "glowing skin",
+        "smooth skin",
+        "satisfied expression",
+        "hands",
+        "face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "natural look",
+          "radiant complexion"
+        ]
+      },
+      "why_kept": "This concluding segment showcases the positive aesthetic result of using the device, emphasizing the transformation to smoother, more radiant skin and the user's satisfaction."
+    }
+  ]
+}

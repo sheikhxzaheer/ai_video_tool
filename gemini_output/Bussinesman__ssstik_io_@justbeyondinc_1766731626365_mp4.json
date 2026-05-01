@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bussinesman\\ssstik.io_@justbeyondinc_1766731626365.mp4",
+  "detailed_description": "The video showcases a professional boardroom meeting where several individuals are gathered around a table. A man in a suit actively speaks and gestures, engaging his colleagues who are attentively listening, some with laptops open. The scene visually reinforces the central message displayed as a text overlay: 'Great companies aren't built in offices they're forged in boardrooms,' emphasizing the critical role of strategic discussions and decisions made in such environments for business success. The setting highlights focused collaboration and leadership.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:13.00",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Workspace_Office",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "boardroom meeting",
+        "people discussing",
+        "man speaking",
+        "laptops",
+        "conference table",
+        "whiteboard",
+        "office environment",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "energetic",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dynamic camera movement",
+          "modern office setting",
+          "professional attire",
+          "clear text overlay"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core because it visually represents the core message 'Great companies aren't built in offices they're forged in boardrooms' through the active discussion in a boardroom setting, directly supported by the explicit text overlay. The entire duration captures the essence of this idea without any extraneous footage or dead air, starting and ending precisely with the relevant scene."
+    }
+  ]
+}

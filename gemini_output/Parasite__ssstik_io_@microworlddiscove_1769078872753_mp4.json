@@ -1,0 +1,182 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Parasite\\ssstik.io_@microworlddiscove_1769078872753.mp4",
+  "detailed_description": "This video vividly demonstrates the potent antiparasitic properties of garlic juice. It begins by showcasing a multitude of active human parasites under a microscope, establishing the problem. The core action involves the preparation and application of freshly extracted garlic juice to these parasites. A time-lapse then illustrates the rapid cessation of movement in the live parasites. Furthermore, at a higher magnification, a compelling two-hour time-lapse reveals the garlic juice's remarkable ability to dissolve the parasites' eggs and larvae within their bodies, highlighting its comprehensive efficacy against both active infestations and reproductive stages.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "worms",
+        "parasites",
+        "moving",
+        "microscopic view"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "high contrast",
+          "light microscopy"
+        ]
+      },
+      "why_kept": "This segment serves as the visual hook, immediately presenting the problem state with a dynamic, close-up view of active parasites, compelling the viewer to understand the subsequent solution."
+    },
+    {
+      "start_time": "00:40.000",
+      "end_time": "00:45.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "dropper",
+        "garlic juice",
+        "microscope slide",
+        "parasites",
+        "application"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "scientific setup",
+          "clear liquid"
+        ]
+      },
+      "why_kept": "This segment shows the direct application of the garlic juice to the parasites, illustrating the 'Mechanism of Action' and direct product interaction that leads to the results."
+    },
+    {
+      "start_time": "00:45.000",
+      "end_time": "01:12.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "worms",
+        "parasites",
+        "movement",
+        "stillness",
+        "microscopic",
+        "timer",
+        "time-lapse"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "time-lapse progression",
+          "quantitative display"
+        ]
+      },
+      "why_kept": "This critical 'Before/After' segment demonstrates the immediate and progressive 'Result Transformation' on the active parasites, showing them gradually ceasing movement over a 10-minute period after garlic juice application."
+    },
+    {
+      "start_time": "01:12.000",
+      "end_time": "01:18.900",
+      "structural_tags": [
+        "Macro_Detail",
+        "Cellular_Deep_Dive",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "parasite",
+        "eggs",
+        "larvae",
+        "microscopic",
+        "high magnification",
+        "red circle",
+        "red arrows"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "magnified view",
+          "annotated visual"
+        ]
+      },
+      "why_kept": "This segment serves as a crucial setup for the final, most impactful result, by providing a detailed 'Macro Detail' view of the parasite's internal structure, specifically highlighting the eggs and larvae as part of the 'Problem State'."
+    },
+    {
+      "start_time": "01:18.900",
+      "end_time": "01:45.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Cellular_Deep_Dive",
+        "Mechanism_Of_Action",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "parasite",
+        "eggs",
+        "dissolving",
+        "microscopic",
+        "time-lapse",
+        "high magnification"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical",
+          "satisfying"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "scientific observation",
+          "clear resolution"
+        ]
+      },
+      "why_kept": "This is the most compelling 'Result Transformation' and 'Cellular_Deep_Dive' segment, showing a 2-hour time-lapse of parasite eggs visibly dissolving, providing irrefutable evidence of the garlic juice's deep-acting 'Mechanism of Action'."
+    }
+  ]
+}

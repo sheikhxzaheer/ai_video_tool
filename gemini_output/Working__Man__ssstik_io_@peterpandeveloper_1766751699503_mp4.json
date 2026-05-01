@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Man\\ssstik.io_@peterpandeveloper_1766751699503.mp4",
+  "detailed_description": "This video showcases the daily routine of a developer or office worker preparing their workspace for a productive session. It highlights the organized and aesthetically pleasing desk setup, emphasizing key interactions with essential tech items like a custom mug, smartphone, and noise-canceling headphones. The sequence smoothly transitions from setting up personal items to engaging in deep work, with the individual typing code and interacting with multiple monitors. The overall theme is one of focused productivity within a well-equipped and calm work environment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.733",
+      "structural_tags": [
+        "Workspace_Office",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Morning_Routine",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "hand",
+        "mug",
+        "phone",
+        "headphones",
+        "computer",
+        "keyboard",
+        "mouse",
+        "desk",
+        "monitors",
+        "developer",
+        "working"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "focused",
+          "productive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "smooth transitions",
+          "clean aesthetic",
+          "well-lit",
+          "tech-focused"
+        ]
+      },
+      "why_kept": "This entire segment represents the core meaning of the video, showing a complete, seamless routine of setting up a workspace and engaging in work. It demonstrates 'The Process/Labor' through typing and using multiple monitors, and 'Product Interaction' with various desk items, all contributing to an 'Aesthetic_Broll' of a productive 'Workspace_Office'. There are no significant 'setup & calibration' or 'post-action dead air' moments to trim, maintaining the video's intended flow and rhythm."
+    }
+  ]
+}

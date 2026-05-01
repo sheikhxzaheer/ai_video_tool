@@ -1,0 +1,210 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ssstik.io_1746983728223.mp4",
+  "detailed_description": "This video demonstrates a personal hair treatment routine using fresh aloe vera. The creator begins by showing how to harvest and prepare raw aloe vera leaves, then applies the fresh gel directly to his scalp. He proceeds to blend the remaining aloe gel with water to create a liquid solution. This solution is then strained and transferred into both a spray bottle and a squeeze bottle for convenient application. The video concludes with the creator applying the prepared liquid treatment to his hair, explaining its benefits, and inviting viewers to follow for more content.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Intro",
+        "Home_Kitchen",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "aloe vera leaf",
+        "knife",
+        "cutting board",
+        "parrot",
+        "talking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "Introduces the main ingredient (aloe vera), the creator, and the beginning of the preparation process. The presence of the parrot adds a unique touch."
+    },
+    {
+      "start_time": "00:23.700",
+      "end_time": "00:35.800",
+      "structural_tags": [
+        "Product_Interaction",
+        "Emotional_Climax",
+        "High_Energy",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "aloe vera gel",
+        "applying to head",
+        "singing",
+        "facial expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "Directly demonstrates the application of the raw aloe gel, showcasing a primary use case. The creator's singing adds an emotional and engaging element."
+    },
+    {
+      "start_time": "00:36.700",
+      "end_time": "00:43.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "aloe vera leaf",
+        "spoon",
+        "scraping gel",
+        "plate"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "instructive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "Clearly shows the process of extracting the aloe vera gel from the leaf, which is a fundamental step in the preparation."
+    },
+    {
+      "start_time": "01:03.900",
+      "end_time": "01:16.800",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "water",
+        "blender cup",
+        "aloe gel",
+        "pouring",
+        "blending",
+        "white liquid"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "Demonstrates the transformation of the aloe gel into a liquid solution by blending with water, and reveals the final blended product."
+    },
+    {
+      "start_time": "01:23.900",
+      "end_time": "01:28.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "blended aloe",
+        "strainer",
+        "spray bottle",
+        "pouring"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "instructive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "Shows a practical step of transferring the prepared liquid into an applicator bottle (spray bottle), highlighting an application method."
+    },
+    {
+      "start_time": "01:57.000",
+      "end_time": "02:12.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Key_Information",
+        "Offer_CTA",
+        "Home_Kitchen",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "squeeze bottle",
+        "applying to hair",
+        "talking",
+        "smile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "informative",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment serves as the concluding 'Hero Moment,' demonstrating the final application of the prepared aloe, reinforcing its purpose, and includes a clear call to action for future content, tying the entire video's narrative together."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Hair lost\\ssstik.io_1744924820687.mp4",
+  "detailed_description": "The video showcases the effective cleaning of a hairbrush using a specialized golden tool. It begins by demonstrating the process of raking out a large quantity of tangled hair from a black paddle brush with teal-tipped bristles. The tool efficiently glides through the brush, collecting the accumulated hair. A distinct scraping sound accompanies the cleaning action, emphasizing its effectiveness. The video then transitions to a clear presentation of the substantial amount of hair removed, held in a hand next to the golden cleaning tool. This highlights the tool's efficiency and the satisfying outcome of maintaining brush hygiene.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.700",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hairbrush",
+        "tangled hair",
+        "cleaning tool",
+        "hand",
+        "raking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear focus on action"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the 'Mechanism_Of_Action' and 'Product_Interaction' as the specialized tool is used to actively remove a significant amount of hair from the brush, addressing a 'Problem_State' of a dirty brush."
+    },
+    {
+      "start_time": "00:07.700",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Standalone",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "clump of hair",
+        "cleaning tool",
+        "hand",
+        "clean brush"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "satisfying"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear focus on result"
+        ]
+      },
+      "why_kept": "This segment serves as the 'Reveal/Result,' showcasing the large clump of hair successfully removed from the brush, visually confirming the effectiveness of the cleaning tool demonstrated in the previous segment."
+    }
+  ]
+}

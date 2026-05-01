@@ -1,0 +1,128 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1750172165056.mp4",
+  "detailed_description": "This video showcases a professional barber's expertise through two distinct hair transformations. It captures the meticulous process of cutting, blow-drying, and styling for both clients, highlighting the use of professional tools and products. The video emphasizes the skillful application of techniques to achieve polished, modern hairstyles, including a specific hair matte paste for the second client, demonstrating its role in the final look.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:27.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "barber",
+        "client",
+        "hair cutting",
+        "hair styling",
+        "comb",
+        "scissors",
+        "hairdryer",
+        "hair spray",
+        "hair paste",
+        "salon"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "professional",
+          "smooth transitions"
+        ]
+      },
+      "why_kept": "This segment comprehensively demonstrates the full hair cutting and styling process for the first client, from initial preparation to the final styled look, showcasing the barber's skill and the transformation."
+    },
+    {
+      "start_time": "00:27.000",
+      "end_time": "00:49.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "barber",
+        "client",
+        "hair cutting",
+        "hair styling",
+        "comb",
+        "scissors",
+        "hairdryer",
+        "salon"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "professional",
+          "smooth transitions"
+        ]
+      },
+      "why_kept": "This segment captures the initial stages of the hair transformation for the second client, including cutting and initial blow-drying, complementing the overall demonstration of the barber's process."
+    },
+    {
+      "start_time": "00:49.000",
+      "end_time": "01:00.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hair matte paste",
+        "product container",
+        "product application",
+        "hair styling",
+        "client",
+        "barber",
+        "final hairstyle"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "professional",
+          "product focus"
+        ]
+      },
+      "why_kept": "This segment highlights the introduction and direct interaction with a specific hair product, demonstrating its application and the final styling to achieve the desired result for the second client, emphasizing product effectiveness."
+    }
+  ]
+}

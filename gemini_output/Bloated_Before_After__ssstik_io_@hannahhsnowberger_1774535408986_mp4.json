@@ -1,0 +1,83 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated Before_After\\ssstik.io_@hannahhsnowberger_1774535408986.mp4",
+  "detailed_description": "This video captures a woman demonstrating the significant difference in her stomach's appearance due to bloating, comparing a 'night' state to a 'morning' state. She clarifies that she is not pregnant, but rather illustrating the extent of her bloating. The core meaning lies in visually contrasting a visibly distended abdomen with a much flatter one, highlighting a common physiological experience and providing a relatable 'before and after' comparison.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.700",
+      "structural_tags": [
+        "Problem_State",
+        "Human_Interaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bloated stomach",
+        "hands touching abdomen",
+        "belly button",
+        "black crop top",
+        "camouflage pants",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "informative",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "casual setting",
+          "clear demonstration"
+        ]
+      },
+      "why_kept": "This segment is kept as the primary anchor because it establishes the 'problem state' of significant bloating, clearly showcasing the distended abdomen with direct physical interaction, and the text overlay provides crucial context about the demonstration."
+    },
+    {
+      "start_time": "00:12.700",
+      "end_time": "00:22.700",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Human_Interaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "flatter stomach",
+        "hands touching abdomen",
+        "belly button",
+        "green t-shirt",
+        "grey sweatpants",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "informative",
+          "relieved"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "casual setting",
+          "clear demonstration"
+        ]
+      },
+      "why_kept": "This segment is kept as b-roll because it provides the crucial 'after' shot, demonstrating the transformation from a bloated state to a flatter stomach, thereby completing the 'night to morning' comparison described in the video's core message."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury home\\ssstik.io_@interiorhomedesign1_1769689620365.mp4",
+  "detailed_description": "This video provides a complete walk-through of a luxurious modern home, starting from its spacious open-plan living room. It showcases the seamless flow into a contemporary dining area and a high-end kitchen featuring dark cabinetry and a large island. The tour highlights the extensive use of natural light and the elegant transition through large sliding doors to a private outdoor oasis with a sparkling pool and a manicured lawn, epitomizing sophisticated indoor-outdoor living.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:24.707",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Home_Kitchen",
+        "Lifestyle_Active",
+        "Calm_Relaxation",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "living room",
+        "dining room",
+        "kitchen",
+        "staircase",
+        "pool",
+        "patio",
+        "modern house",
+        "open plan",
+        "hardwood floors",
+        "white sofa",
+        "dark kitchen cabinets",
+        "kitchen island",
+        "large windows",
+        "outdoor seating",
+        "green lawn",
+        "trees"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "outdoor",
+          "kitchen"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "energetic"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "modern design",
+          "bright lighting",
+          "spacious",
+          "natural light",
+          "seamless indoor-outdoor transition"
+        ]
+      },
+      "why_kept": "The entire segment serves as the central 'reveal' of the house's modern design, open layout, and luxurious amenities, including the integrated indoor-outdoor living space with a pool. It consistently demonstrates the core value of the property without any significant setup, dead air, or irrelevant footage. The continuous movement provides a comprehensive overview of the home's key features and aesthetic."
+    }
+  ]
+}

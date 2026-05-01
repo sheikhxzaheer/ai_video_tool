@@ -1,0 +1,129 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury hotel\\ssstik.io_@thehotelstorybybellish_1768051735455.mp4",
+  "detailed_description": "This video showcases the meticulous and luxurious turn-down service offered by professional housekeepers in a high-end hotel room. It captures the entire process, from preparing a tranquil bath with rose petals to expertly making the bed and adding thoughtful touches like a warm cup of tea and a teddy bear. The housekeepers work efficiently and with a visible sense of pride, transforming the room into a perfectly prepared and inviting space for the guest.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.200",
+      "structural_tags": [
+        "Visual_Hook",
+        "Process_Labor",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "housekeepers",
+        "hallway",
+        "teddy bear",
+        "white towel",
+        "bathroom",
+        "bathtub",
+        "water",
+        "bath bomb",
+        "rose petals",
+        "candles"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "elegant decor",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This segment introduces the professional service and demonstrates the initial steps of preparing a luxurious and relaxing bath, showcasing attention to detail and a personalized touch with rose petals."
+    },
+    {
+      "start_time": "00:04.200",
+      "end_time": "00:10.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Premium"
+      ],
+      "visual_keywords": [
+        "housekeepers",
+        "bedroom",
+        "curtains",
+        "bed making",
+        "pillows",
+        "sheets",
+        "headboard"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "meticulous process",
+          "coordinated effort",
+          "luxurious bedding"
+        ]
+      },
+      "why_kept": "This is the core 'hero moment' demonstrating the professional labor and expertise involved in meticulously making the bed, which is a central part of turn-down service, highlighting precision and teamwork."
+    },
+    {
+      "start_time": "00:10.500",
+      "end_time": "00:14.300",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "housekeeper",
+        "pouring tea",
+        "tea cup",
+        "bedside table",
+        "teddy bear",
+        "made bed",
+        "finished room",
+        "housekeepers departing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "thoughtful details",
+          "elegant tea set",
+          "satisfied expressions"
+        ]
+      },
+      "why_kept": "This segment completes the turn-down service narrative by showing the final, personalized touches like tea preparation and placing the teddy bear, culminating in the housekeepers' satisfaction and the revealed, perfectly prepared room."
+    }
+  ]
+}

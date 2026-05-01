@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\With friend\\ssstik.io_@marktakeoverr_1752775101120.mp4",
+  "detailed_description": "This video captures two young men energetically performing a synchronized dance routine in a casual kitchen setting. Dressed in all black, they exhibit coordinated movements and positive facial expressions, creating a high-energy and playful atmosphere. The segment highlights their dynamic interaction and the fun they have while dancing.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.540",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "two men dancing",
+        "kitchen",
+        "coordinated movements",
+        "smiles",
+        "black outfits",
+        "music"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "casual attire",
+          "simple background",
+          "good lighting"
+        ]
+      },
+      "why_kept": "The entire duration of the video captures the core action: two individuals performing a coordinated and energetic dance. There are no setup frames, dead air, or elements that do not contribute to the central theme of the dance performance. Both individuals display clear positive emotions throughout."
+    }
+  ]
+}

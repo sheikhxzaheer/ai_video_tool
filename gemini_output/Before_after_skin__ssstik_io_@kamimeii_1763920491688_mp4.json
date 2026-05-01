@@ -1,0 +1,117 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after skin\\ssstik.io_@kamimeii_1763920491688.mp4",
+  "detailed_description": "This video showcases a skincare transformation journey over 10 days using a specific serum. It begins by showing the user's initial skin condition with noticeable acne and redness, then progresses through daily applications of the serum, highlighting the gradual improvement of her complexion. The core meaning is the visual demonstration of the serum's efficacy, culminating in clear, radiant skin and a clear product reveal. The video effectively uses a time-lapse approach to illustrate the 'before and after' impact.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Interaction",
+        "Before_After",
+        "Result_Transformation",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "serum",
+        "dropper",
+        "applying",
+        "acne",
+        "redness",
+        "skin improvement",
+        "daily progression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clean aesthetic",
+          "time lapse"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it visually establishes the initial problem state, demonstrates the consistent product application process over multiple days, and shows the gradual transformation of the skin, leading up to the initial 'result' reveal with text overlay."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "clear skin",
+        "glowing skin",
+        "smile",
+        "satisfaction"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "natural glow"
+        ]
+      },
+      "why_kept": "This segment serves as the definitive 'after' shot, showcasing the successful transformation of the skin and the user's positive emotional response, reinforcing the product's effectiveness."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hand",
+        "serum bottle",
+        "Anua",
+        "Azelaic Acid",
+        "product label"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "focus on product"
+        ]
+      },
+      "why_kept": "This segment is crucial for identifying the specific product used to achieve the results shown, linking the transformation directly to the brand and serum name."
+    }
+  ]
+}

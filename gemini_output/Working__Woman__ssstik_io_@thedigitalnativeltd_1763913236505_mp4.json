@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Woman\\ssstik.io_@thedigitalnativeltd_1763913236505.mp4",
+  "detailed_description": "The video presents a relatable scenario through a 'POV' text overlay, humorously stating the consequence of 'girl bossing a little too hard' is now dealing with profit and loss statements. A woman is shown diligently working at a modern, minimalist desk, typing on a laptop with focused intensity. Surrounding her are other business tools like a tablet and documents, emphasizing the administrative tasks at hand. Her serious and concentrated expression perfectly captures the essence of managing financial responsibilities for a business. This segment highlights the often-unseen labor involved in entrepreneurship beyond the glamorous facade.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:09.30",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Workspace_Office",
+        "Financial_Stress",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "typing",
+        "laptop",
+        "desk",
+        "documents",
+        "tablet",
+        "phone",
+        "focused",
+        "working"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "focused",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "minimalist background",
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it perfectly encapsulates the 'Process/Labor' of dealing with business finances as depicted by the on-screen text. The subject is actively engaged in typing on a laptop, symbolizing the work involved in managing profit and loss statements. Her focused expression, the office setting, and the accompanying text create a coherent and relatable 'Problem_State' and 'Visual_Hook', making it the most valuable part of the video without any setup or post-action dead air."
+    }
+  ]
+}

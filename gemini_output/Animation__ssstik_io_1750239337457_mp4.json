@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\ssstik.io_1750239337457.mp4",
+  "detailed_description": "The video visually depicts the human circulatory system through a transparent 3D model of the upper torso. It prominently features the heart, highlighted in red, beating rhythmically, surrounded by a network of red arteries and blue veins. This animated representation clearly illustrates the path of blood circulation and the continuous function of the cardiovascular system. The entire duration showcases this educational and scientific visualization, providing a direct view of how blood is pumped throughout the body.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.570",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "human circulatory system",
+        "heart",
+        "beating heart",
+        "arteries",
+        "veins",
+        "blood vessels",
+        "anatomical model",
+        "3D animation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "medical visualization",
+          "transparent body",
+          "blue background",
+          "anatomical accuracy"
+        ]
+      },
+      "why_kept": "This segment encompasses the entire video, which is a continuous, detailed animation of the human circulatory system with a beating heart. It effectively demonstrates the 'Mechanism of Action' of the cardiovascular system, making it the sole and primary hero moment of the content."
+    }
+  ]
+}

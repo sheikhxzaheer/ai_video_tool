@@ -1,0 +1,166 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Study\\ssstik.io_@ashtonjjb_1773851578759.mp4",
+  "detailed_description": "A Christian teen demonstrates his personal Bible study routine, showcasing how he engages with scripture using both a standard Bible and a specialized study Bible. The routine is structured into four distinct steps: beginning with prayer, actively reading and highlighting verses, utilizing the study Bible's detailed notes for deeper understanding and reflection, and concluding the session with a final prayer. The video emphasizes the practical application of a study Bible for enhanced spiritual insight.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:02.00",
+      "structural_tags": [
+        "Visual_Hook",
+        "Morning_Routine",
+        "Workspace_Office",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "sitting",
+        "desk",
+        "computer",
+        "room",
+        "purple light",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "brightly lit",
+          "clean setup"
+        ]
+      },
+      "why_kept": "This segment serves as the visual hook, introducing the subject and the concept of his Bible study routine with on-screen text."
+    },
+    {
+      "start_time": "00:02.00",
+      "end_time": "00:10.00",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "man",
+        "desk",
+        "study bible",
+        "normal bible",
+        "opening books",
+        "hands",
+        "computer",
+        "headphones"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "practical",
+          "informative"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial setup phase of the Bible study, showing the teen retrieving and preparing both his study Bible and normal Bible."
+    },
+    {
+      "start_time": "00:10.00",
+      "end_time": "00:15.00",
+      "structural_tags": [
+        "Product_Intro",
+        "Macro_Detail",
+        "Key_Information",
+        "Aesthetic_Broll",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "study bible",
+        "open book",
+        "highlighted text",
+        "detailed notes",
+        "explanations",
+        "pages",
+        "color-coded tabs"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "informative",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "detailed view",
+          "clear text"
+        ]
+      },
+      "why_kept": "This segment provides a clear 'Product Interaction' and 'Key Information' moment, highlighting the detailed features of the study Bible which are central to his method."
+    },
+    {
+      "start_time": "00:15.00",
+      "end_time": "00:34.00",
+      "structural_tags": [
+        "Process_Labor",
+        "Key_Information",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Workspace_Office",
+        "Product_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "praying",
+        "reading bible",
+        "highlighting",
+        "bible notes",
+        "looking at book",
+        "prayer",
+        "desk",
+        "computer",
+        "text overlays (1. PRAY, 2. DIVE, 3. CHAT, 4. CLOSE)"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "serious",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "instructional",
+          "demonstrative"
+        ]
+      },
+      "why_kept": "This is the primary 'Hero Moment' as it directly demonstrates the core value of the video – the step-by-step Bible study routine, including prayer, scripture reading, highlighting, and reflective prayer, with clear on-screen instructions."
+    }
+  ]
+}

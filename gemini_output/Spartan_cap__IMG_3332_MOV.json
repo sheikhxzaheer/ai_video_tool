@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan cap\\IMG_3332.MOV",
+  "detailed_description": "The video prominently features a 'Spartan Red Light Growth Cap' with its red LED lights fully illuminated. The camera slowly pans around the glowing cap, providing various angles that highlight the array of individual red lights and their intensity. This segment serves as a clear demonstration of the product's active state and its mechanism of action for hair growth therapy, emphasizing its visual appeal and functional design.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:33.400",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Standalone",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Red Light Growth Cap",
+        "LED lights",
+        "red glow",
+        "baseball cap",
+        "Spartan branding"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "red light glow",
+          "dark background",
+          "textured wall",
+          "focused lighting",
+          "camera pan"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it continuously demonstrates the core functionality and visual aesthetic of the Red Light Growth Cap in its active, illuminated state. The camera movement provides a comprehensive view of the product, making it the central hero moment of the video, showing product interaction and its mechanism of action."
+    }
+  ]
+}

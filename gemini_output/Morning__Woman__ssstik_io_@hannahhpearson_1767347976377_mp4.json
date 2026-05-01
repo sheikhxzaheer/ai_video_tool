@@ -1,0 +1,166 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Morning\\Woman\\ssstik.io_@hannahhpearson_1767347976377.mp4",
+  "detailed_description": "This video showcases a comprehensive gym morning routine, starting with a refreshing skincare regimen including cleansing, toning, and moisturizing. It then transitions to the preparation of a delightful morning coffee, complete with skilled latte art, followed by making a quick breakfast of eggs (with a humorous minor cooking mishap). The routine concludes with the subject getting dressed in their gym attire, highlighting their readiness for an active day. The video emphasizes daily rituals leading to a productive and healthy lifestyle.",
+  "segments": [
+    {
+      "start_time": "00:04.053",
+      "end_time": "00:13.973",
+      "structural_tags": [
+        "Morning_Routine",
+        "Product_Interaction",
+        "Process_Labor",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "face washing",
+        "applying cleanser",
+        "applying toner",
+        "applying serum",
+        "applying moisturizer",
+        "pink wristbands"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the detailed morning skincare routine, involving multiple product interactions and the process of application, concluding with a positive facial expression."
+    },
+    {
+      "start_time": "00:16.483",
+      "end_time": "00:23.013",
+      "structural_tags": [
+        "Morning_Routine",
+        "Home_Kitchen",
+        "Process_Labor",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "espresso machine",
+        "pouring honey",
+        "stirring coffee",
+        "pouring milk",
+        "latte art",
+        "coffee cup"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean kitchen",
+          "detailed shots"
+        ]
+      },
+      "why_kept": "This segment is a hero moment as it showcases the precise process of making coffee, including intricate latte art, which is a skilled action and a visually appealing result."
+    },
+    {
+      "start_time": "00:24.083",
+      "end_time": "00:37.043",
+      "structural_tags": [
+        "Morning_Routine",
+        "Home_Kitchen",
+        "Process_Labor",
+        "Malfunction_Fail",
+        "Product_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "cracking eggs",
+        "seasoning eggs",
+        "whisking eggs",
+        "spraying oil",
+        "cooking pan",
+        "green onions",
+        "cheese",
+        "mayonnaise",
+        "hot sauce",
+        "spatula",
+        "burnt omelette",
+        "plate"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "dynamic camera movement"
+        ]
+      },
+      "why_kept": "This segment demonstrates the breakfast preparation process from start to finish, including ingredient interaction and cooking. The 'Woopsie' moment with the slightly burnt omelette adds a relatable human element (Malfunction_Fail)."
+    },
+    {
+      "start_time": "00:38.073",
+      "end_time": "00:44.203",
+      "structural_tags": [
+        "Morning_Routine",
+        "Lifestyle_Active",
+        "Result_Transformation",
+        "Product_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "putting on socks",
+        "tying shoes",
+        "gym shorts",
+        "sports bra",
+        "posing",
+        "gym outfit"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "full body shots"
+        ]
+      },
+      "why_kept": "This segment signifies the culmination of the morning routine, showing the subject getting ready for the gym. It highlights the lifestyle aspect and the final outfit, conveying a sense of readiness and positive energy."
+    }
+  ]
+}

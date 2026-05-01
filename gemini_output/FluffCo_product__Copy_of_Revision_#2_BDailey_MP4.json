@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of Revision #2 BDailey.MP4",
+  "detailed_description": "The video features a woman lying comfortably in bed, dressed in satin pajamas, hugging a Fluff Co. pillow. She humorously complains that the exceptional comfort of the pillows is 'ruining her excuses' for being late to work. She states that she is now sleeping better than she did at a $500 per night hotel, expressing both mock-frustration and genuine satisfaction. Her direct address highlights the superior quality and comfort of the Fluff Co. product.",
+  "segments": [
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:20.100",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "pillow",
+        "pajamas",
+        "smiling",
+        "speaking",
+        "holding pillow",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "comfortable setting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment captures the main message of the video, which is a testimonial about the product's effectiveness. The speaker directly addresses the camera, expressing both mock-frustration about needing new excuses for being late and genuine satisfaction about the superior sleep provided by the Fluff Co. pillow, which she is actively holding and hugging. Her facial expressions clearly convey the 'Emotional Climax' of satisfaction, and her dialogue provides 'Key Information' and 'Social Proof' for the product. The segment also demonstrates 'Product Interaction' as she holds the pillow throughout her speech."
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\Bald spot\\Unleashed your Baldness #hair #hairfiber #thickfiber.mp4",
+  "detailed_description": "This video captures a complete hair makeover for a client with thinning hair. It showcases the barber's skillful use of clippers for a fresh haircut and then introduces a hair thickening fiber product. The product is applied directly to the scalp, instantly filling in sparse areas to create the appearance of denser hair. The transformation is completed with a fixing spray and blending, culminating in a dramatic reveal of a much fuller and neatly styled head of hair from both frontal and rear perspectives.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.200",
+      "structural_tags": [
+        "Problem_State",
+        "The Process/Labor",
+        "Human_Interaction",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "barber hands",
+        "client",
+        "thinning hair",
+        "haircut",
+        "clippers",
+        "fade",
+        "hairline trim",
+        "makeover text"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear lighting",
+          "focused action"
+        ]
+      },
+      "why_kept": "This segment establishes the initial 'Problem_State' of thinning hair and initiates the 'Process' of the haircut, which is foundational to the overall makeover. It visually sets the scene for the subsequent product application and transformation."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:26.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "Thick Fiber product",
+        "dark brown color",
+        "hair fibers",
+        "applying product",
+        "barber hands",
+        "filling hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed view",
+          "product focus"
+        ]
+      },
+      "why_kept": "This segment specifically highlights the 'Product_Intro' and demonstrates the 'Mechanism_Of_Action' of the hair fibers. It shows the key product being used and the immediate visual impact of the hair thickening process, directly addressing the thinning hair problem."
+    },
+    {
+      "start_time": "00:27.000",
+      "end_time": "00:39.260",
+      "structural_tags": [
+        "The Process/Labor",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "fixing spray",
+        "blending hair",
+        "fuller hair",
+        "neat fade",
+        "client reaction",
+        "darker hair",
+        "groomed look"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean finish",
+          "satisfying result"
+        ]
+      },
+      "why_kept": "This segment showcases the final touches of the makeover, including the use of a fixing spray and blending, and most importantly, the 'Result_Transformation'. It provides clear 'Before_After' context by revealing the client's significantly improved and fuller head of hair from both front and rear angles, ending the video with a strong visual payoff and 'Positive_Emotion'."
+    }
+  ]
+}

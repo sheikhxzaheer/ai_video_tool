@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Emotion\\ð╝ÐâðÂ ð¢ðÁ ð┤ð¥ð▓ð¥ð╗Ðîð¢Ðïð©╠å ðÁð┤ð¥ð©╠å ðÂðÁð¢Ðï.mp4",
+  "detailed_description": "This video humorously captures a common domestic scene where a partner expresses strong dislike for vegetables being served on their plate. The woman, wearing an apron, is shown serving roasted Brussels sprouts to the man, who immediately reacts with a visibly frustrated and dismissive demeanor, verbally stating his aversion to the vegetables. The entire sequence focuses on this relatable interaction, highlighting the man's exaggerated negative response.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.777",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Home_Kitchen",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "man",
+        "apron",
+        "plate",
+        "rice",
+        "vegetables",
+        "Brussels sprouts",
+        "serving food",
+        "tongs",
+        "kitchen counter",
+        "negative reaction",
+        "shrugging",
+        "talking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen",
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "relatable"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "casual setting",
+          "bright lighting",
+          "everyday life"
+        ]
+      },
+      "why_kept": "This segment is the entire semantic core as it perfectly encapsulates the video's premise: the woman serving vegetables and the man's immediate, humorous, and clear negative reaction, including his verbal statements. There is no setup, post-action dead air, or irrelevant footage, making the entire duration essential for the story being told."
+    }
+  ]
+}

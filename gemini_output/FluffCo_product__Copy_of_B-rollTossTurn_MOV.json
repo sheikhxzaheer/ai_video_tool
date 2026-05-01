@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B-rollTossTurn.MOV",
+  "detailed_description": "This video provides an overhead perspective of a woman sleeping peacefully in a well-appointed bed. She is shown in various states of rest, occasionally stirring and making minor adjustments to her position and the duvet, indicating a natural sleep pattern. The overall ambiance, enhanced by soft natural light from a nearby window, conveys a strong sense of comfort and deep relaxation within a serene bedroom environment. The continuous nature of her sleep and adjustments reinforces the theme of peaceful slumber.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:26.960",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Human_Interaction",
+        "Morning_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "sleeping",
+        "bed",
+        "duvet",
+        "pillows",
+        "adjusting",
+        "resting",
+        "bedroom",
+        "natural light",
+        "window"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "relaxed",
+          "peaceful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "natural lighting",
+          "soft colors",
+          "static camera"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, effectively demonstrating the state of calm relaxation and human interaction with a comfortable sleep environment. The woman's continuous actions of sleeping, stirring, and re-settling naturally illustrate the intended mood without any significant dead air or irrelevant content. The 'No-Mistake Rule' applies as the entire video consistently portrays the core theme."
+    }
+  ]
+}

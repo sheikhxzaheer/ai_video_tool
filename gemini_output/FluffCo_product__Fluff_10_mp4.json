@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_10.mp4",
+  "detailed_description": "This video clip effectively showcases a key feature of a pillow by demonstrating its supportive firmness. A hand presses down on the pillow's surface, visually illustrating that it provides resistance, preventing excessive sinking. The on-screen text directly reinforces this message, explaining that the pillow ensures the head doesn't sink in. This concise interaction highlights the product's ability to maintain its shape and offer comfort and support, which is a desirable quality for a good night's sleep.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.111",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Key_Information",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "hand",
+        "pillow",
+        "pressing",
+        "white fabric",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "simple framing"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it directly demonstrates a primary functional attribute of the product (the pillow's firmness and support) through clear product interaction, reinforced by an explanatory on-screen text. The entire clip serves as a concise 'hero moment' for the product's quality."
+    }
+  ]
+}

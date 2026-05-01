@@ -1,0 +1,83 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad makeup\\ssstik.io_@emblawigum_1763938542332.mp4",
+  "detailed_description": "This video showcases a vibrant makeup look enhanced by a unique peel-off face mask. The core meaning revolves around demonstrating the mask's texture, flexibility, and the satisfying process of its removal. The creator displays various expressions as the mask stretches and peels, culminating in a reveal of smooth skin and a satisfied smile. The video highlights both the product's interactive nature and the immediate, visible transformation it provides.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:05.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "High_Energy",
+        "Shock_Surprise",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "face mask",
+        "peel-off mask",
+        "stretching mask",
+        "facial expressions",
+        "woman reacting",
+        "vibrant makeup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear skin",
+          "glossy finish"
+        ]
+      },
+      "why_kept": "This segment acts as a visual hook, immediately grabbing attention with the subject's exaggerated expressions and the unique, stretchy texture of the mask. It demonstrates the mask's flexibility and adhesion through dynamic facial movements and vocalizations, setting the stage for the main peeling action."
+    },
+    {
+      "start_time": "00:07.450",
+      "end_time": "00:16.800",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "peeling mask",
+        "face mask removal",
+        "smooth skin",
+        "revealed skin",
+        "woman smiling",
+        "makeup details"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear skin",
+          "glossy finish",
+          "crisp visual"
+        ]
+      },
+      "why_kept": "This is the primary 'Hero Moment' of the video, demonstrating the core functionality of the peel-off mask. It clearly shows the detailed process of peeling the mask from the face, the transformation of the skin underneath, and concludes with a clear 'after' shot and a satisfied facial expression, confirming the product's effectiveness and the positive user experience."
+    }
+  ]
+}

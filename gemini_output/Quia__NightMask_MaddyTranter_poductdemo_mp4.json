@@ -1,0 +1,276 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_MaddyTranter_poductdemo.mp4",
+  "detailed_description": "This video demonstrates a Korean beauty nighttime skincare routine featuring a collagen night wrapping mask and a collagen niacinamide cream. It showcases the precise application of the peel-off mask using both fingers and a spatula, followed by the satisfying removal of the mask, revealing refreshed skin. The routine concludes with the gentle application of a nourishing cream, emphasizing skin hydration and a smooth finish.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.992",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "peeling mask",
+        "clear mask",
+        "face",
+        "hands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "natural look"
+        ]
+      },
+      "why_kept": "This segment serves as an immediate visual hook, showcasing the satisfying peel-off action of the mask right at the beginning of the routine."
+    },
+    {
+      "start_time": "00:01.071",
+      "end_time": "00:02.138",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink tube",
+        "Quia Korean Beauty",
+        "collagen mask"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus on product",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This segment clearly introduces the first product, the collagen night wrapping mask, establishing the context for the subsequent application."
+    },
+    {
+      "start_time": "00:03.409",
+      "end_time": "00:04.649",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process_Labor",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying mask",
+        "finger",
+        "face",
+        "pink mask"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused action",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial application of the mask with a finger, showing the practical use of the product."
+    },
+    {
+      "start_time": "00:05.485",
+      "end_time": "00:07.035",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process_Labor",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying mask",
+        "spatula",
+        "face",
+        "pink mask"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "precise application",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This segment showcases an alternative, perhaps more precise, method of applying the mask using a spatula, emphasizing thoroughness in the routine."
+    },
+    {
+      "start_time": "00:09.680",
+      "end_time": "00:13.920",
+      "structural_tags": [
+        "Product_Interaction",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "peeling off mask",
+        "clear film",
+        "face",
+        "smooth skin",
+        "smile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "satisfaction",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear skin focus",
+          "gentle removal",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This is the primary 'reveal' moment, demonstrating the core functionality and satisfying result of the peel-off mask. It clearly shows the product's effect and the user's positive reaction."
+    },
+    {
+      "start_time": "00:15.158",
+      "end_time": "00:16.158",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink jar",
+        "Quia Korean Beauty",
+        "collagen cream"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus on product",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This segment introduces the second product, the collagen niacinamide cream, showing the next step in the complete skincare routine."
+    },
+    {
+      "start_time": "00:16.638",
+      "end_time": "00:19.498",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process_Labor",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying cream",
+        "face",
+        "neck",
+        "hands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "gentle application",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This segment illustrates the application of the cream, completing the skincare regimen and demonstrating the full use of the products."
+    },
+    {
+      "start_time": "00:19.498",
+      "end_time": "00:20.308",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "smooth skin",
+        "happy"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "satisfaction"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "radiant skin",
+          "positive facial expression",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This concluding segment highlights the positive outcome and user satisfaction with the skincare routine, serving as an emotional climax and implied result."
+    }
+  ]
+}

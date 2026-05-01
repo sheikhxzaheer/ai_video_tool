@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pills\\ssstik.io_@pharmahands_1767349091450.mp4",
+  "detailed_description": "This video offers an educational overview of Adderall XR, a long-acting stimulant, by visually demonstrating the process of a pharmacist counting and dispensing the capsules onto a pill counting tray and into a dispenser. Throughout the process, on-screen text overlays provide crucial information about the medication's mechanism of action, its uses for ADHD and narcolepsy, a pharmacist's tip on dosage timing, and unique administration facts. The video highlights both the practical handling of the medication and key pharmacological details, concluding with a disclaimer emphasizing its educational purpose.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:58.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Key_Information",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "Adderall XR",
+        "capsules",
+        "pill bottle",
+        "counting tray",
+        "spatula",
+        "pill dispenser",
+        "pharmacist hands",
+        "desk"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "clinical",
+          "educational",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "white desk",
+          "clean aesthetic",
+          "informational text overlays"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core. It continuously demonstrates product interaction (counting and dispensing Adderall XR capsules) by a person's hands, which represents the 'process/labor' aspect. Simultaneously, the video provides 'key information' through text overlays that explain the drug's properties, uses, tips, and side effects. This continuous visual demonstration combined with the educational text fulfills all the 'Hero Moment' criteria for product interaction and key information in a visually prioritized manner without any dead air or setup adjustments."
+    }
+  ]
+}

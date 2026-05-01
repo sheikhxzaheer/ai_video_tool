@@ -1,0 +1,144 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Makeup_artist\\ssstik.io_@ashleyswagnerxo_1761221247152.mp4",
+  "detailed_description": "This video offers a comprehensive look into the busy schedule of a professional makeup artist working at a wedding. It documents the meticulous process of setting up a detailed cosmetic station and preparing essential tools. Viewers witness the skilled application of both hair styling, including brushing and curling, and intricate makeup techniques, from eyeshadow to lip color. The artist's focus on detail and client comfort is evident throughout the process. The video culminates in a stunning reveal of the bride's final transformed appearance, showcasing the artistry and successful execution of the beauty services for her special day, before concluding with the efficient packing of the station.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Behind_The_Scenes",
+        "Product_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "opening makeup case",
+        "laying out tools",
+        "makeup palettes"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean setup"
+        ]
+      },
+      "why_kept": "This segment establishes the setting and the meticulous preparation involved in a makeup artist's work, showing the initial setup of tools and products."
+    },
+    {
+      "start_time": "00:26.500",
+      "end_time": "00:44.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "brushing hair",
+        "curling hair",
+        "hairspray application",
+        "hair clips"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment demonstrates the professional hair styling process, showcasing the artist's skill and direct interaction with the client to achieve the desired hairstyle."
+    },
+    {
+      "start_time": "00:49.000",
+      "end_time": "01:00.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "applying eyeshadow",
+        "applying blush",
+        "nose contour",
+        "applying eyeliner",
+        "applying lipstick",
+        "makeup brushes"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "focused",
+          "glamorous"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed work",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This is a core 'hero moment' demonstrating the intricate makeup application process, highlighting the artist's expertise and the transformation occurring on the client's face."
+    },
+    {
+      "start_time": "01:05.000",
+      "end_time": "01:09.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "bride",
+        "wedding dress",
+        "veil",
+        "earrings",
+        "smiling",
+        "posing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "joyful",
+          "elegant",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "wedding aesthetic"
+        ]
+      },
+      "why_kept": "This segment is the ultimate 'reveal' and 'emotional climax', showcasing the beautiful final result of the artist's work with the bride in her full wedding attire, embodying success and satisfaction."
+    }
+  ]
+}

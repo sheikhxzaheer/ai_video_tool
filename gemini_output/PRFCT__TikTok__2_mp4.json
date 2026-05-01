@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\TikTok\\2.mp4",
+  "detailed_description": "The video features a young woman enthusiastically promoting a morning electrolyte drink. She holds a glass filled with an orange beverage and ice, explaining how it has been a \"game-changer\" for her. She highlights its benefits, such as reducing bloating, increasing energy levels without needing coffee, and containing natural ingredients. The woman passionately encourages viewers to try the drink, emphasizing the positive physical changes she has experienced and urging them to prioritize their well-being.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:35.405",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "UGC_Talking_Head",
+        "Positive_Emotion",
+        "High_Energy",
+        "Morning_Routine",
+        "Home_Kitchen",
+        "Offer_CTA",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "drink",
+        "orange juice",
+        "ice",
+        "glass",
+        "kitchen",
+        "talking",
+        "gesturing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen",
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "natural lighting",
+          "casual"
+        ]
+      },
+      "why_kept": "This entire segment represents the core value proposition and call to action of the video. The speaker introduces the product, demonstrates interaction by holding it, explains its benefits (results and emotional impact), and provides a clear call to action, all while directly addressing the viewer. The 'Visual Priority Rule' dictates keeping this as the product is actively present throughout the explanation."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bussinesman\\ssstik.io_@hbjhfgbnhcg.gvbcd_1766743576607.mp4",
+  "detailed_description": "This video captures a candid moment during a professional meeting or conference. The scene features multiple individuals seated around a large table, engaged in discussions, and interacting with laptops and various documents. The atmosphere suggests focused work and collaborative effort within an office or corporate workspace. It highlights human interaction and the typical setup of a business gathering, with papers, water bottles, and personal items scattered across the table.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.126",
+      "structural_tags": [
+        "Human_Interaction",
+        "Workspace_Office",
+        "Aesthetic_Broll",
+        "Data_Metrics_Chart"
+      ],
+      "visual_keywords": [
+        "people",
+        "meeting",
+        "conference table",
+        "laptops",
+        "documents",
+        "water bottles",
+        "pens",
+        "drinks"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "professional",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "candid",
+          "meeting perspective"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by showcasing the 'Process/Labor' of a professional meeting, including human interaction and engagement with work-related 'products' such as laptops and documents. There are no distinct 'setup & calibration' or 'post-action dead air' moments, and the continuous shot effectively captures the desired scene without requiring trims based on the specified 'Hero Moment' criteria for this type of content."
+    }
+  ]
+}

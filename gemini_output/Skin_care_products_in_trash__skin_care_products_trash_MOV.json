@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Skin care products in trash\\skin care products trash.MOV",
+  "detailed_description": "The video captures a woman in a modern bathroom performing a decluttering action. She holds a collection of various cosmetic and personal care products before deliberately dropping them into a sleek silver trash bin. The act is accompanied by the sound of items clattering, followed by her closing the bin with a lid. Her subsequent facial expression conveys a subtle mix of frustration and resignation, suggesting a common 'problem state' of dealing with product overload or the effort involved in tidying up. This moment encapsulates a relatable chore and the emotional response to it.",
+  "segments": [
+    {
+      "start_time": "00:00.600",
+      "end_time": "00:03.500",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Home_Kitchen",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bathroom",
+        "cosmetic products",
+        "skincare bottles",
+        "trash bin",
+        "decluttering",
+        "dropping products",
+        "frustrated expression",
+        "annoyed look"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "playful",
+          "other"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "modern bathroom",
+          "clean aesthetic",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it captures the primary action of the video: the woman discarding multiple products into a bin. It clearly demonstrates 'Product Interaction' (handling and disposing of items) and a distinct 'Emotional Climax' through her facial expression and body language, conveying frustration or resignation, which implies a 'Problem_State' related to product management or decluttering. This action is the central message of the video."
+    }
+  ]
+}

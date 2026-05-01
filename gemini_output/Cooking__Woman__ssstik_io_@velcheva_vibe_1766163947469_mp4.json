@@ -1,0 +1,366 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cooking\\Woman\\ssstik.io_@velcheva.vibe_1766163947469.mp4",
+  "detailed_description": "This video showcases the luxurious process of preparing a lavish seafood feast. It begins with the meticulous cleaning and preparation of fresh clams, lobsters, and squid, followed by the creation of flavorful paprika butter and aromatic herb oil. The seafood is then expertly grilled outdoors, with careful basting and topping, before being arranged on a stunning platter. The culinary journey culminates in the delightful enjoyment of the meal, shared with a beloved pet, highlighting the joy and satisfaction of a perfectly executed seafood barbecue.",
+  "segments": [
+    {
+      "start_time": "00:01.375",
+      "end_time": "00:04.426",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Ingredient_Highlight",
+        "The_Process/Labor"
+      ],
+      "visual_keywords": [
+        "clams",
+        "net",
+        "water",
+        "salt",
+        "cleaning"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean kitchen, bright lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the initial meticulous preparation of fresh seafood, demonstrating the care taken with the raw ingredients."
+    },
+    {
+      "start_time": "00:11.232",
+      "end_time": "00:12.783",
+      "structural_tags": [
+        "Home_Kitchen",
+        "The_Process/Labor"
+      ],
+      "visual_keywords": [
+        "lobster",
+        "knife",
+        "cutting board",
+        "cutting"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "precise knife work, detailed view"
+        ]
+      },
+      "why_kept": "Showcases the preparation of the main, high-value seafood item, indicating careful handling and culinary skill."
+    },
+    {
+      "start_time": "00:15.541",
+      "end_time": "00:16.891",
+      "structural_tags": [
+        "Home_Kitchen",
+        "The_Process/Labor"
+      ],
+      "visual_keywords": [
+        "squid",
+        "cleaning",
+        "hands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed action, clean aesthetic"
+        ]
+      },
+      "why_kept": "Highlights the cleaning process for another distinct type of seafood, adding variety to the preparation steps."
+    },
+    {
+      "start_time": "00:23.630",
+      "end_time": "00:24.390",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "clams",
+        "open shells",
+        "water"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "satisfying"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "natural light, vibrant colors"
+        ]
+      },
+      "why_kept": "Provides a satisfying visual 'reveal' of the clams opening, signifying successful cleaning and readiness for cooking."
+    },
+    {
+      "start_time": "00:31.789",
+      "end_time": "00:36.689",
+      "structural_tags": [
+        "Home_Kitchen",
+        "The_Process/Labor",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "paprika",
+        "butter",
+        "chorizo",
+        "mixing",
+        "spice drawer"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "ingredient focus, warm colors"
+        ]
+      },
+      "why_kept": "Illustrates the creation of a key flavorful butter, showcasing a specific culinary step beyond simple cutting."
+    },
+    {
+      "start_time": "00:50.043",
+      "end_time": "00:52.543",
+      "structural_tags": [
+        "Home_Kitchen",
+        "The_Process/Labor",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "garlic",
+        "parsley",
+        "chili",
+        "olive oil",
+        "mixing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "fresh ingredients, vibrant green"
+        ]
+      },
+      "why_kept": "Demonstrates the preparation of another important aromatic sauce, adding complexity to the meal's flavor profile."
+    },
+    {
+      "start_time": "00:59.083",
+      "end_time": "01:02.043",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "The_Process/Labor"
+      ],
+      "visual_keywords": [
+        "grill",
+        "oysters",
+        "lobster",
+        "clams",
+        "outdoor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "anticipation"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "golden hour, grilling setup"
+        ]
+      },
+      "why_kept": "Marks the transition to the outdoor cooking, showing the variety of seafood being placed on the grill."
+    },
+    {
+      "start_time": "01:19.497",
+      "end_time": "01:21.827",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "The_Process/Labor"
+      ],
+      "visual_keywords": [
+        "lobster",
+        "clams",
+        "oysters",
+        "basting",
+        "cheese",
+        "grill"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "focused",
+          "satisfying"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "cooking action, rich colors"
+        ]
+      },
+      "why_kept": "Highlights the flavor infusion during grilling, demonstrating attention to detail and enhancing the visual appeal of the cooking process."
+    },
+    {
+      "start_time": "01:22.957",
+      "end_time": "01:23.777",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "clams",
+        "open shells",
+        "grill",
+        "cooking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "satisfying",
+          "anticipation"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "steam, cooked seafood"
+        ]
+      },
+      "why_kept": "Serves as a quick 'reveal' moment, showing the clams opening on the grill, a sign of perfect doneness."
+    },
+    {
+      "start_time": "01:40.400",
+      "end_time": "01:41.870",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "seafood platter",
+        "lobster",
+        "shrimp",
+        "oysters",
+        "scallops",
+        "squid",
+        "grilled",
+        "dinner table"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "premium",
+          "satisfying"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "night dining, warm lighting, abundance"
+        ]
+      },
+      "why_kept": "This is the ultimate 'reveal' of the final, beautifully cooked and arranged seafood platter, representing the culmination of all the effort."
+    },
+    {
+      "start_time": "01:45.029",
+      "end_time": "01:46.889",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Emotional_Climax"
+      ],
+      "visual_keywords": [
+        "woman",
+        "dog",
+        "eating",
+        "lobster",
+        "dinner table"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "playful",
+          "happy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "intimate moment, soft lighting"
+        ]
+      },
+      "why_kept": "Captures the emotional climax and enjoyment of the meal, emphasizing human connection and satisfaction with the delicious outcome."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1744138394621.mp4",
+  "detailed_description": "This video showcases a stylish man confidently walking on a city street, modeling a brown faux leather jacket with a cozy, light-brown fur lining and hood. He subtly adjusts the jacket, highlighting its comfortable fit and design. The video emphasizes the jacket's aesthetic appeal and how it contributes to a chic, rugged yet refined urban look, suitable for cool weather. The model's confident demeanor reinforces the jacket's stylish impression.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.590",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "Man",
+        "brown jacket",
+        "faux leather",
+        "fur lining",
+        "hood",
+        "black t-shirt",
+        "black jeans",
+        "street",
+        "walking",
+        "adjusting jacket",
+        "confident expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "premium",
+          "confident",
+          "stylish",
+          "rugged"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "urban setting",
+          "cinematic walk",
+          "model showcase"
+        ]
+      },
+      "why_kept": "This entire segment serves as the core demonstration of the product. The model walks, turns, and adjusts the jacket, effectively showcasing its fit, material, and style in a dynamic, lifestyle context. There is no clear 'setup' or 'dead air' that falls outside the defined 'Hero Moment' or 'Trimming & Cleaning' rules; the action starts and ends with the product being actively displayed and interacted with, fulfilling the 'Product Interaction' and 'Aesthetic_Broll' criteria from start to finish."
+    }
+  ]
+}

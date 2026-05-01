@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Spraying\\IMG_0179.MOV",
+  "detailed_description": "This video captures the direct action of a person spraying a cleaning or treatment solution from a white bottle onto a surface inside a cabinet. The surface, likely the back corner of an under-sink cabinet, is speckled with numerous small black spots, indicating dirt, mold, or mildew. The spraying action demonstrates the product's application and its mechanism for addressing the visible contamination. The focus is entirely on the hand, the product, and the problematic area, highlighting a common household maintenance task.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.220",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Home_Kitchen",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "hand",
+        "spray bottle",
+        "liquid",
+        "cabinet",
+        "black spots",
+        "wires",
+        "pipes",
+        "cleaning"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct lighting",
+          "handheld",
+          "practical application"
+        ]
+      },
+      "why_kept": "This segment is kept as the semantic core because it directly demonstrates the 'Process/Labor' of cleaning or treating a problematic area (black spots) using a product. It also clearly shows 'Product Interaction' as a hand operates the spray bottle. The entire clip is focused on the core action without any setup or post-action dead air, fulfilling the 'no-mistake' rule for trimming."
+    }
+  ]
+}

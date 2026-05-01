@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLlife_product\\Scene 15_natural ingredients.mov",
+  "detailed_description": "The video showcases a circular tin of 'FURLIFE' dog anxiety and thunder relief patches. A pair of hands gently holds and slightly rotates the product, allowing the viewer to clearly see its label. The label highlights key features such as '30 DAYS EFFECTIVENESS,' 'NATURAL INGREDIENTS,' 'WATER RESISTANT,' and 'NON-TOXIC,' alongside illustrations of a Dalmatian puppy and a Weimaraner wearing purple collars.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands",
+        "FURLIFE product",
+        "dog anxiety patches",
+        "round tin",
+        "Dalmatian puppy",
+        "Weimaraner dog",
+        "purple collars",
+        "product label"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "bright lighting",
+          "clean background",
+          "steady shot",
+          "product presentation"
+        ]
+      },
+      "why_kept": "This entire segment serves as the product introduction and demonstration of 'Product Interaction.' The hands holding and subtly adjusting the product directly showcase the item and its packaging, making it the semantic core where the product's visual identity and key claims are presented without any extraneous movements or dead air. The full duration effectively presents the product."
+    }
+  ]
+}

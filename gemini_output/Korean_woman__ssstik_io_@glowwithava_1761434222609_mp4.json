@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Korean woman\\ssstik.io_@glowwithava_1761434222609.mp4",
+  "detailed_description": "This video features a granddaughter asking her grandma, who possesses \"glass skin,\" to share her morning skincare routine. The grandma demonstrates her step-by-step regimen, beginning with a serum she uses to combat age spots. She then applies a moisturizer to hydrate her skin, which the granddaughter notes is becoming visibly brighter. The routine concludes with the application of sunscreen, a daily essential for the grandma, who also shares her preference for a particular sunscreen that provides a noticeable tightening effect on her skin. The video effectively showcases the entire skincare process with product interactions and personal testimonials.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:37.890",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Morning_Routine",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "grandma",
+        "granddaughter",
+        "skincare products",
+        "serum",
+        "moisturizer",
+        "sunscreen",
+        "applying cream",
+        "face",
+        "hands",
+        "eye patches"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clear product shots",
+          "authentic interaction"
+        ]
+      },
+      "why_kept": "This entire segment constitutes the \"Semantic Core\" by demonstrating the grandmother's full morning skincare routine, including the application of multiple products, explanations of their benefits, and direct interaction between the grandmother and granddaughter. It fulfills several 'hero moment' criteria such as The Process/Labor, Product Interaction, Key Information, and Emotional Climax, without any extraneous or trimmable footage, adhering to the 'NO-MISTAKE' rule."
+    }
+  ]
+}

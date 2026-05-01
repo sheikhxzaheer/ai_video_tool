@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Traveling\\ssstik.io_@nazsmatova_1769069928846.mp4",
+  "detailed_description": "The video humorously redefines a 'mental health walk' as an international trip, beginning with a close-up shot of a passport and flight tickets. It then transitions to a first-person perspective, showcasing a walk through a modern airport jet bridge towards a large passenger airplane. The text overlay explicitly sets up this playful interpretation of self-care through travel, while an upbeat song underscores the theme of seeking peace of mind by flying out of town.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.125",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Travel_Transit",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "passport",
+        "flight tickets",
+        "airport",
+        "jet bridge",
+        "airplane",
+        "walking",
+        "travelers"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "airport"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "anticipatory"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "first-person perspective",
+          "smooth camera movement",
+          "modern design",
+          "natural light through windows"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core because it perfectly illustrates the central humorous concept presented by the text overlay: a 'mental health walk' being a flight. It starts with the key 'product' (passport/tickets), shows the 'process' of boarding the plane (the 'walk'), and 'reveals' the 'result' (the airplane waiting). Every frame directly contributes to conveying this core message without any dead air or extraneous content."
+    }
+  ]
+}

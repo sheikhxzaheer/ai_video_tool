@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLlife_product\\Scene12_Product Hero Shot.mp4",
+  "detailed_description": "The video showcases the unboxing and initial presentation of a FURLIFE pet collar. It begins with a person holding the product's circular tin packaging, highlighting the branding and key benefits. The tin is then opened, revealing a purple, spiral-shaped pet collar sealed within clear plastic packaging. The segment focuses on the careful unwrapping of the product from its container, demonstrating the complete unboxing process.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:30.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hands",
+        "pet collar",
+        "tin packaging",
+        "purple collar",
+        "dog",
+        "grass background"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clear focus",
+          "bright and sunny"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it constitutes a continuous 'Product Interaction' and 'Product Intro'. It demonstrates the complete unboxing process of the pet collar, from holding the packaged tin to revealing the collar inside its final sealed plastic bag. There is no 'Setup & Calibration' or 'Post-Action Dead Air', fitting the 'No-Mistake Rule' criteria for retaining the full duration as the semantic core."
+    }
+  ]
+}

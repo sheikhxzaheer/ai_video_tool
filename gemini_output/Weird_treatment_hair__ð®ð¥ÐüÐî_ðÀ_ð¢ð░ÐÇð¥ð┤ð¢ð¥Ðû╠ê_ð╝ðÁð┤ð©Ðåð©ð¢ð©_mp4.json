@@ -1,0 +1,198 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ð®ð¥ÐüÐî ðÀ ð¢ð░ÐÇð¥ð┤ð¢ð¥Ðû╠ê ð╝ðÁð┤ð©Ðåð©ð¢ð©.mp4",
+  "detailed_description": "This video showcases a relaxing head spa experience featuring various ASMR-inducing treatments. It begins with gentle facial stimulation using natural seed rattles, followed by soothing sound therapy with a golden bell. The treatment continues with warm herbal compresses applied to the face and ears, a refreshing cooling eye mask, and concludes with an invigorating scalp massage using a specialized brush. The overall experience is designed to provide deep relaxation and sensory pleasure for the client.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.960",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Calm_Relaxation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "arm",
+        "goosebumps",
+        "hands",
+        "seed rattle",
+        "forehead",
+        "massage"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "spa"
+        ],
+        "mood": [
+          "calm",
+          "relaxing",
+          "sensory"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "ASMR focus",
+          "close-up details"
+        ]
+      },
+      "why_kept": "This segment acts as a strong visual and auditory hook, immediately setting a relaxing ASMR tone with goosebumps and demonstrating the first unique treatment with the seed rattle, establishing the core experience."
+    },
+    {
+      "start_time": "00:10.100",
+      "end_time": "00:21.800",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Calm_Relaxation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "golden bell",
+        "forehead",
+        "ear",
+        "sound therapy",
+        "massage"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "spa"
+        ],
+        "mood": [
+          "calm",
+          "relaxing",
+          "sensory"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "ASMR focus",
+          "close-up details"
+        ]
+      },
+      "why_kept": "This segment demonstrates another distinct step in the head spa process, showcasing a unique golden bell tool for relaxation and sound therapy, complementing the overall sensory experience."
+    },
+    {
+      "start_time": "00:22.000",
+      "end_time": "00:37.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Calm_Relaxation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "herbal compresses",
+        "face",
+        "eyes",
+        "ears",
+        "temples",
+        "massage",
+        "steaming"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "spa"
+        ],
+        "mood": [
+          "calm",
+          "relaxing",
+          "sensory"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "ASMR focus",
+          "warmth"
+        ]
+      },
+      "why_kept": "This segment introduces and demonstrates the application of warm herbal compresses, adding another layer to the relaxing head spa treatment and highlighting another key product interaction."
+    },
+    {
+      "start_time": "00:37.200",
+      "end_time": "00:46.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "scissors",
+        "green packet",
+        "eye mask",
+        "application",
+        "face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "spa"
+        ],
+        "mood": [
+          "calm",
+          "refreshing"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "unboxing",
+          "gentle application"
+        ]
+      },
+      "why_kept": "This segment shows the preparation and application of a cooling eye mask, representing a common and relaxing element of a head spa, adding to the product interaction and overall pampered experience."
+    },
+    {
+      "start_time": "00:46.700",
+      "end_time": "00:52.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "pink brush",
+        "scalp massage",
+        "hair wash",
+        "water"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "spa"
+        ],
+        "mood": [
+          "calm",
+          "invigorating"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "scalp care",
+          "ASMR focus"
+        ]
+      },
+      "why_kept": "This final segment introduces a specialized scalp brush and demonstrates its use during a scalp massage, completing the head spa experience and showcasing a common, satisfying treatment."
+    }
+  ]
+}

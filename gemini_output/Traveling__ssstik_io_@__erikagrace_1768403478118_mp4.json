@@ -1,0 +1,445 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Traveling\\ssstik.io_@__erikagrace_1768403478118.mp4",
+  "detailed_description": "This video captures the quintessential 'life of a travel girl' through a dynamic montage of diverse travel experiences. It showcases various aspects of globetrotting, from in-flight routines and practical logistics like boarding passes to adventurous activities such as scootering in Paris, snorkeling, and riding camels in the desert. The compilation also highlights breathtaking natural wonders and iconic landmarks, emphasizing the beauty and excitement of exploring different cultures and landscapes. The overall essence is a vibrant, active, and aesthetically pleasing portrayal of a travel enthusiast's journey.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.675",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Travel_Transit",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "girl",
+        "airplane",
+        "applying lip balm",
+        "self-care"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "steady shot"
+        ]
+      },
+      "why_kept": "This segment introduces the 'travel girl' persona engaged in a personal routine during travel, establishing the core theme of the video in a human and relatable way."
+    },
+    {
+      "start_time": "00:00.675",
+      "end_time": "00:01.835",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "airplane wing",
+        "sunset",
+        "clouds",
+        "aerial view"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "golden hour",
+          "scenic view"
+        ]
+      },
+      "why_kept": "Provides an iconic and visually appealing shot reinforcing the travel theme and the journey itself."
+    },
+    {
+      "start_time": "00:01.835",
+      "end_time": "00:03.175",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Travel_Transit",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "girl",
+        "scooter",
+        "Eiffel Tower",
+        "Paris",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright",
+          "sunny",
+          "iconic landmark"
+        ]
+      },
+      "why_kept": "Showcases an active travel experience at a famous landmark, conveying joy and adventure."
+    },
+    {
+      "start_time": "00:03.175",
+      "end_time": "00:04.165",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Travel_Transit",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "girl",
+        "car",
+        "desert",
+        "Uluru",
+        "red landscape"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "sense of freedom"
+        ]
+      },
+      "why_kept": "Captures a moment of freedom and exploration in a unique natural environment, indicative of diverse travel."
+    },
+    {
+      "start_time": "00:04.165",
+      "end_time": "00:05.275",
+      "structural_tags": [
+        "Product_Interaction",
+        "Travel_Transit",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "boarding pass",
+        "travel bag",
+        "airport"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "neutral lighting"
+        ]
+      },
+      "why_kept": "Highlights the practical logistics and product interaction associated with air travel."
+    },
+    {
+      "start_time": "00:05.275",
+      "end_time": "00:06.195",
+      "structural_tags": [
+        "Product_Interaction",
+        "Travel_Transit",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "finger",
+        "in-flight map",
+        "airplane screen",
+        "destination tracking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "screen glow"
+        ]
+      },
+      "why_kept": "Shows engagement with in-flight entertainment and the journey progression, a common travel experience."
+    },
+    {
+      "start_time": "00:06.195",
+      "end_time": "00:07.035",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "snorkeling",
+        "underwater",
+        "bubbles",
+        "ocean"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear water",
+          "dynamic"
+        ]
+      },
+      "why_kept": "Illustrates adventurous water activities, showcasing diverse types of travel experiences."
+    },
+    {
+      "start_time": "00:07.035",
+      "end_time": "00:07.975",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "girl",
+        "Eiffel Tower",
+        "Paris at night",
+        "river"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "night lights",
+          "iconic landmark"
+        ]
+      },
+      "why_kept": "Presents an iconic travel destination under different conditions (night), adding aesthetic variety."
+    },
+    {
+      "start_time": "00:07.975",
+      "end_time": "00:09.115",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "girl",
+        "white sand beach",
+        "ocean",
+        "waves",
+        "walking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright",
+          "sunny",
+          "tropical"
+        ]
+      },
+      "why_kept": "Showcases a relaxing beach destination, a common and desirable travel experience."
+    },
+    {
+      "start_time": "00:09.115",
+      "end_time": "00:10.035",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "Twelve Apostles",
+        "rock formations",
+        "ocean",
+        "sunset",
+        "waves"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "golden hour",
+          "scenic view",
+          "natural wonder"
+        ]
+      },
+      "why_kept": "Features another iconic natural landmark, emphasizing stunning landscapes visited by a 'travel girl'."
+    },
+    {
+      "start_time": "00:10.035",
+      "end_time": "00:11.165",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "Heart Reef",
+        "Great Barrier Reef",
+        "coral",
+        "turquoise water",
+        "aerial view"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "clear water",
+          "unique formation",
+          "drone shot"
+        ]
+      },
+      "why_kept": "Presents a unique and beautiful natural wonder, highlighting the breadth of travel destinations."
+    },
+    {
+      "start_time": "00:11.165",
+      "end_time": "00:12.015",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands",
+        "phone",
+        "taking photo",
+        "Twelve Apostles",
+        "photography"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "capturing memories",
+          "user perspective"
+        ]
+      },
+      "why_kept": "Demonstrates the act of documenting travel experiences through photography, a key aspect of modern travel."
+    },
+    {
+      "start_time": "00:12.015",
+      "end_time": "00:13.395",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Travel_Transit",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "girl",
+        "camel",
+        "desert",
+        "red sand",
+        "riding"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "sunny",
+          "adventure travel"
+        ]
+      },
+      "why_kept": "Concludes the montage by showcasing an exotic and adventurous mode of transport in a unique landscape."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20251211_135215523.mp4",
+  "detailed_description": "The video showcases the unboxing or dispensing of a dietary supplement. A person's hands are seen pulling a single-serving sachet, labeled 'PERFECT MORNING TANGERINE PULSE', from a larger, branded pouch onto a clean, white countertop. The action emphasizes the product's individual packaging and ease of access for daily use.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.100",
+      "structural_tags": [
+        "Product_Interaction",
+        "Home_Kitchen",
+        "Aesthetic_Broll",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hands",
+        "pouch",
+        "sachet",
+        "white countertop",
+        "Tangerine Pulse"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "top-down perspective",
+          "focus on product"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it demonstrates direct product interaction: a person dispensing a single portion sachet from a larger package. This highlights the product's packaging and prepares it for use, fulfilling the 'Product Interaction' hero moment."
+    }
+  ]
+}

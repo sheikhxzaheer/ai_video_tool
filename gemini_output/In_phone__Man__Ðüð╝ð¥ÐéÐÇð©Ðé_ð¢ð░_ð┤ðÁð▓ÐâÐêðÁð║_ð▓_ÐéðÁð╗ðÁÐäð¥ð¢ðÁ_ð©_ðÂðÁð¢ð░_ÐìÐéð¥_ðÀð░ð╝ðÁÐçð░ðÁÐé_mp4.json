@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\In phone\\Man\\Ðüð╝ð¥ÐéÐÇð©Ðé ð¢ð░ ð┤ðÁð▓ÐâÐêðÁð║ ð▓ ÐéðÁð╗ðÁÐäð¥ð¢ðÁ ð© ðÂðÁð¢ð░ ÐìÐéð¥ ðÀð░ð╝ðÁÐçð░ðÁÐé.mp4",
+  "detailed_description": "This video captures a man intently engrossed in his smartphone, displaying a range of subtle but clear emotional reactions. Initially focused, his expression shifts to one of confusion or contemplation, followed by a visible exhale of disbelief or frustration. The core meaning is his sustained negative reaction to content he is viewing on the phone, conveying a 'problem state' or a sense of dissatisfaction with what he's encountering.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Confusion_Doubt",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "man",
+        "phone",
+        "holding phone",
+        "looking at phone",
+        "facial expression",
+        "beard",
+        "long hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "contemplative",
+          "frustrated"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct lighting",
+          "clear shot",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it continuously demonstrates the emotional climax of the subject reacting to content on his phone. His shifting facial expressions, culminating in a visible 'pffft' and an expression of frustration/disbelief, constitute the primary 'Hero Moment' of emotional climax and direct product interaction, without any setup, dead air, or speaking that would violate the visual priority rule. The entire duration showcases this core interaction and reaction."
+    }
+  ]
+}

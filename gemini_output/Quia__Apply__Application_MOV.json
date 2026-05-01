@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Apply\\Application.MOV",
+  "detailed_description": "The core meaning of this video showcases a meticulous skincare routine involving the application of a translucent, gel-like face mask. A woman uses a specialized silicone brush to evenly spread the product across her cheek and jawline, demonstrating a precise and gentle technique. The close-up shot highlights the texture of the mask and the smooth motion of the brush, emphasizing the product's feel and ease of application. This segment focuses on the practical 'how-to' of using the product, making it valuable for viewers interested in skincare routines and product demonstrations. The calm and focused execution conveys a sense of self-care and attention to detail.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.080",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Macro_Detail",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying",
+        "face mask",
+        "gel product",
+        "silicone brush",
+        "skincare routine"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "focused action",
+          "clear product texture"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it perfectly demonstrates the 'Product Interaction' and 'Mechanism_Of_Action' of the skincare product. The user actively applies the mask with a tool, showcasing 'The Process/Labor' of a skincare routine. It begins precisely with the action and ends immediately after the application is complete, adhering to the trimming rules."
+    }
+  ]
+}

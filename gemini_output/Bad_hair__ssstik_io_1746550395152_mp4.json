@@ -1,0 +1,276 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\ssstik.io_1746550395152.mp4",
+  "detailed_description": "This video documents a man's journey from experiencing rapid hair loss to achieving a full head of hair. He reveals his 'before' state with visible bald spots and excessive shedding, then showcases his transformed hair in the 'today' segment. The video outlines his multi-faceted approach to hair regrowth, which includes applying rosemary oil to reduce shedding, utilizing laser therapy to stimulate new hair growth, performing scalp massages for thickness, and incorporating foods high in zinc and iron into his diet. He concludes with an encouraging message about catching hair loss early and maintaining consistency in treatment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man",
+        "top of head",
+        "sparse hair",
+        "bald spot",
+        "scalp"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "overhead shot",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'before' problem state with a direct view of the bald spot, serving as a visual hook for viewers experiencing similar issues."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Problem_State",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hair strands",
+        "shedding",
+        "white surface",
+        "water drops"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "flat lay",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment visually reinforces the 'problem state' by showing excessive hair shedding, a common symptom of hair loss."
+    },
+    {
+      "start_time": "00:04.150",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Visual_Hook",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man",
+        "full hair",
+        "dark hair",
+        "top of head",
+        "bathroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment serves as the main 'after' reveal, clearly demonstrating the successful transformation with a full head of hair, contrasting sharply with the initial 'before' shots. It sets the context for the subsequent 'how-to' steps."
+    },
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:09.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "man",
+        "hand",
+        "rosemary oil",
+        "dropper",
+        "scalp",
+        "hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct application"
+        ]
+      },
+      "why_kept": "This segment shows the direct application of rosemary oil to the scalp, demonstrating a key step in the hair growth process and product interaction."
+    },
+    {
+      "start_time": "00:11.000",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "man",
+        "laser therapy cap",
+        "red lights",
+        "head",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "positive",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "upbeat"
+        ]
+      },
+      "why_kept": "This segment demonstrates the interaction with the laser therapy device, highlighting another method used for hair regrowth, and includes a clear product visual."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "hands",
+        "scalp massage",
+        "hair",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dynamic movement",
+          "eye contact"
+        ]
+      },
+      "why_kept": "This segment shows the action of a scalp massage, illustrating a method claimed to make hair thicker and adding a positive emotional climax with the man's smile."
+    },
+    {
+      "start_time": "00:17.000",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "hand",
+        "knife",
+        "steak",
+        "cutting board",
+        "pan",
+        "eggs",
+        "cooking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "food preparation",
+          "warm lighting"
+        ]
+      },
+      "why_kept": "This segment demonstrates the preparation of foods high in zinc and iron, visually supporting the dietary aspect of his hair regrowth strategy."
+    },
+    {
+      "start_time": "00:21.000",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Key_Information",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man",
+        "smiling",
+        "thumbs up",
+        "long hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "friendly",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment provides an emotional climax and a key piece of information/advice ('catch hair loss early and stick to it') delivered with positive reinforcement."
+    }
+  ]
+}

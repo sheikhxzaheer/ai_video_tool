@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Ingridients\\Panax Ginsen 4.mp4",
+  "detailed_description": "The video provides a close-up, low-angle shot of a plant that has been uprooted, revealing its extensive and intricate root system. The roots are spread across dark soil, with the plant's stem and delicate white flowers reaching towards an overcast sky. In the background, a dirt path winds through green fields dotted with yellow wildflowers, suggesting a rural or agricultural setting. The segment highlights the natural structure and depth of the plant's underground foundation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.975",
+      "structural_tags": [
+        "Visual_Hook",
+        "Macro_Detail",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Nature"
+      ],
+      "visual_keywords": [
+        "plant roots",
+        "soil",
+        "dirt path",
+        "green fields",
+        "yellow flowers",
+        "overcast sky",
+        "uprooted plant"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "natural",
+          "earthy"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "low-angle shot",
+          "detailed roots",
+          "natural light",
+          "overcast lighting"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core, showcasing the detailed and extensive root system of a plant, which serves as the primary visual focus and 'reveal' of its natural structure and connection to the soil."
+    }
+  ]
+}

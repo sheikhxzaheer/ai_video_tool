@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Testimonials\\Script 2B.mp4",
+  "detailed_description": "The video features a man enthusiastically presenting a bottle of MoldMD Mold Spot Remover. He praises the product's effectiveness on tough mold spots, specifically mentioning window sills, and expresses his satisfaction, stating that his home and health have improved. The segment serves as a testimonial, highlighting the product's benefits and the positive emotional response of the user while clearly showcasing the product itself.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Product_Intro",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "holding spray bottle",
+        "MoldMD product",
+        "kitchen background",
+        "window",
+        "curtains",
+        "smiling",
+        "gesturing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "natural light"
+        ]
+      },
+      "why_kept": "This entire segment serves as the core message, featuring the speaker introducing the product, explaining its benefits, and expressing clear satisfaction. The product is consistently held and clearly visible, satisfying the product interaction and talking head criteria without any trimming necessary as per the 'No-Mistake' rule, as the action starts immediately and ends with the product still central."
+    }
+  ]
+}

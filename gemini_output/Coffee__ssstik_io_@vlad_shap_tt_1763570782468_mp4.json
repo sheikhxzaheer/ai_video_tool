@@ -1,0 +1,184 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Coffee\\ssstik.io_@vlad_shap.tt_1763570782468.mp4",
+  "detailed_description": "This video demonstrates the step-by-step process of making Dalgona coffee, a popular whipped coffee drink. It begins with both individuals opening their instant coffee jars, followed by carefully measuring and mixing instant coffee, sugar, and water on a plate. The mixture is then vigorously whipped using a small sieve until it transforms into a light, airy, and creamy foam. Subsequently, ice is added to glasses, followed by generous scoops of the whipped coffee foam and finally, milk. The individuals then mix their layered drinks with straws and enjoy the refreshing iced coffee, visibly expressing satisfaction with the taste and ease of preparation.",
+  "segments": [
+    {
+      "start_time": "00:07.410",
+      "end_time": "00:10.050",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "Nescafe Classic jar",
+        "red lid",
+        "foil seal",
+        "hands",
+        "white plate"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "purposeful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "kitchen counter"
+        ]
+      },
+      "why_kept": "This segment introduces the main product (Nescafe coffee) and shows the initial interaction of opening the jar, which is a necessary step in the recipe."
+    },
+    {
+      "start_time": "00:12.010",
+      "end_time": "00:22.580",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "coffee powder",
+        "spoon",
+        "sugar",
+        "water",
+        "plate",
+        "measuring cup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "instructive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused action",
+          "ingredients being added"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the 'labor' aspect by showing the precise addition of coffee, sugar, and water, which are the core ingredients for Dalgona coffee."
+    },
+    {
+      "start_time": "00:24.430",
+      "end_time": "00:31.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "coffee mixture",
+        "sieve",
+        "whipping",
+        "froth",
+        "foam",
+        "plate"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "transformative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic mixing",
+          "visual change of texture"
+        ]
+      },
+      "why_kept": "This is the core 'mechanism of action' and 'result transformation' of Dalgona coffee, showing the ingredients being whipped into a thick, creamy foam. It's the most distinctive and visually impactful step."
+    },
+    {
+      "start_time": "00:35.080",
+      "end_time": "00:54.490",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "ice cubes",
+        "glass",
+        "whipped coffee foam",
+        "milk",
+        "layered drink"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "assembling"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear layering",
+          "focus on assembly"
+        ]
+      },
+      "why_kept": "This segment showcases the assembly of the final drink, layering the ice, whipped coffee, and milk, which is crucial for the Dalgona coffee aesthetic and structure."
+    },
+    {
+      "start_time": "00:55.370",
+      "end_time": "01:05.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "straw",
+        "mixing",
+        "drinking",
+        "iced coffee",
+        "smile",
+        "thumbs up"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "satisfied",
+          "enjoyable"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "final product shot",
+          "clear facial expressions"
+        ]
+      },
+      "why_kept": "This segment is a crucial 'reveal' and 'emotional climax,' demonstrating the final product being enjoyed and showcasing positive reactions, validating the effort."
+    }
+  ]
+}

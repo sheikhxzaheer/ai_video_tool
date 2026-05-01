@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pills\\ssstik.io_@medmouse4_1769679722826.mp4",
+  "detailed_description": "The video captures a 'Point of View' (POV) moment showcasing a young woman's perceived experience of taking an ADHD pill for the first time. The sequence begins with her appearing somewhat dazed and then shows her consuming a liquid, presumably the medication. As the video progresses, her facial expression visibly transforms from a neutral state to one of intense focus, wide-eyed surprise, and dilated pupils, illustrating the immediate and noticeable onset of the medication's effects. The entire segment serves as the core narrative, demonstrating the 'before' and 'after' through her facial reaction.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.233",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Result_Transformation",
+        "Shock_Surprise",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "young woman",
+        "drinking glass",
+        "orange liquid",
+        "dark liquid",
+        "facial expression change",
+        "wide eyes",
+        "dilated pupils",
+        "focused gaze",
+        "surprise"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "transforming",
+          "surprising",
+          "focused",
+          "anticipatory"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "personal POV",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it visually and emotionally conveys the 'first time taking an ADHD pill' experience. It includes the initial state, the product interaction (drinking the liquid), and the powerful emotional climax shown through the subject's transforming facial expression—from dazed to intensely focused and surprised. Trimming any part would diminish the narrative impact of this complete 'before, during, and after' representation."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Coffee throw out\\On car\\ssstik.io_@crispycoffeeco_1767011140429.mp4",
+  "detailed_description": "This video features an unconventional advertisement for 'Crispy Coffee.' It starts with a prank where a pedestrian appears to throw coffee onto a car's windshield, creating a messy situation and a moment of surprise. However, this 'problem state' quickly transitions into a reveal. The pedestrian, now friendly and smiling, rolls down the window and presents a delicious-looking matcha drink, then proceeds to deliver a clear call to action, inviting viewers to 'Crispy Coffee' for their range of matchas and iced coffees.",
+  "segments": [
+    {
+      "start_time": "00:09.110",
+      "end_time": "00:12.750",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Offer_CTA",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man speaking",
+        "matcha drink",
+        "thumbs up",
+        "street scene",
+        "sunny day"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright sunlight",
+          "direct address",
+          "clear sky"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core because it clearly introduces the product (matcha drink), identifies the brand ('Crispy Coffee'), showcases positive emotional engagement (smiling, thumbs up), and delivers the main call to action. It's the point where the actual value and purpose of the video are revealed after the initial visual hook."
+    }
+  ]
+}

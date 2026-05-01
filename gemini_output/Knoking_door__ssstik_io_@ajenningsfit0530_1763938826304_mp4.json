@@ -1,0 +1,83 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Knoking door\\ssstik.io_@ajenningsfit0530_1763938826304.mp4",
+  "detailed_description": "This video humorously contrasts two ways of opening a bathroom door at work. It first demonstrates the typical, gentle approach that 'most people' would take. This is immediately followed by an exaggerated, high-energy, and playful method, humorously captioned as 'VS me,' complete with an 'FBI open up!' audio clip, showcasing a more boisterous and less conventional interaction with the door, highlighting a personal, comedic difference in daily behavior.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.450",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman in scrubs",
+        "opening door",
+        "door handle",
+        "restroom sign",
+        "cardboard box"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "clinic setting"
+        ]
+      },
+      "why_kept": "This segment establishes the baseline behavior, showing the 'normal' way of opening a door, which is crucial for the subsequent humorous contrast. It introduces the setting and the action."
+    },
+    {
+      "start_time": "00:03.450",
+      "end_time": "00:06.150",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman in scrubs",
+        "aggressively opening door",
+        "hitting door",
+        "door handle",
+        "restroom sign",
+        "cardboard box"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "humorous"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "dynamic movement",
+          "text overlay"
+        ]
+      },
+      "why_kept": "This segment is the 'hero moment' where the humorous contrast is delivered. The exaggerated action, the 'VS me' caption, and the 'FBI open up!' audio create the primary comedic value and the core message of the video, making it the central point of engagement."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of Revision Hook #3 BDailey.MP4",
+  "detailed_description": "The video features a woman directly addressing the camera, introducing a topic about a product she dislikes. She holds a clear glass while speaking, but the focus is on her verbal statement. Her expression is engaging and conversational as she sets the stage for discussing \"three reasons why I hate this new pillow I bought.\" The background shows home kitchen or living room cabinetry with a plant.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:06.700",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Problem_State",
+        "Face_Reaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "speaking",
+        "smiling",
+        "holding glass",
+        "wooden cabinets",
+        "plant"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "engaging",
+          "conversational"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "good lighting",
+          "direct address",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it contains the 'Key Information' where the speaker directly states the main subject of the video – her negative experience with a new pillow. Her engaging facial expression and direct address to the camera make it a strong hook and an 'Emotional Climax' for setting up the 'Problem State'."
+    }
+  ]
+}

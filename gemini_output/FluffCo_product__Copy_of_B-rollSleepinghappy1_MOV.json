@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B-rollSleepinghappy1.MOV",
+  "detailed_description": "This video effectively demonstrates the ultimate comfort and plushness of a 'FLUFF' brand pillow. It captures a person's head gently landing and settling onto the soft, white pillow, immediately conveying a sense of deep relaxation and ease through closed eyes and a serene expression. The prominent 'FLUFF' tag on the pillow ensures brand recognition while the visual focus on the interaction highlights the product's primary benefit: a comforting and restful experience.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Human_Interaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pillow",
+        "bed",
+        "relaxing",
+        "sleeping",
+        "fluff tag"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "focus on product and user reaction"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the product's primary benefit. It shows clear product interaction as the person's head lands on the pillow, followed by a visible facial reaction of calm and relaxation, directly illustrating the comfort provided by the 'FLUFF' pillow. The 'FLUFF' brand tag is prominently displayed, reinforcing the product's identity. No trimming was necessary as the action starts immediately and the desired result (relaxation) is maintained until the end of the clip."
+    }
+  ]
+}

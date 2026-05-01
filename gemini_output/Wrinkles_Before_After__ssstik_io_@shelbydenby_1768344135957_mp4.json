@@ -1,0 +1,231 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Wrinkles Before_After\\ssstik.io_@shelbydenby_1768344135957.mp4",
+  "detailed_description": "This video documents the progressive effects of Botox on a woman's forehead over a span of seven days. It begins by showcasing her ability to frown and create wrinkles 'Before Botox,' followed by an immediate 'Right After' shot. Subsequent segments track the gradual paralysis of her forehead muscles, with shots at '24 hours after,' 'Day 3,' and 'Day 5,' demonstrating decreasing movement and smoother skin. The video culminates in a 'Day 7' reveal, where her forehead is visibly smooth and immobile when attempting to frown, highlighting the full transformation and the efficacy of the treatment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "car interior",
+        "frowning",
+        "forehead wrinkles",
+        "finger pointing",
+        "makeup"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state, clearly demonstrating the forehead wrinkles and muscle movement that the Botox treatment aims to address, serving as a critical starting point for the visual comparison."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:07.300",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "car interior",
+        "attempting to frown",
+        "forehead",
+        "finger pointing",
+        "makeup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "Shows the immediate aftermath of the Botox injection, providing an initial update on the forehead's appearance and muscle activity shortly after the procedure."
+    },
+    {
+      "start_time": "00:07.300",
+      "end_time": "00:13.600",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "woman",
+        "indoor",
+        "kitchen background",
+        "attempting to frown",
+        "wide eyes",
+        "smooth forehead starting",
+        "makeup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "surprised"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "straight on angle"
+        ]
+      },
+      "why_kept": "This segment captures the significant early effects of Botox, demonstrating the initial freezing of forehead muscles and the woman's surprised reaction to the reduced ability to frown."
+    },
+    {
+      "start_time": "00:13.600",
+      "end_time": "00:18.800",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "car interior",
+        "attempting to frown",
+        "smoother forehead",
+        "slight smile",
+        "makeup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "calm",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "Continues to illustrate the progressive effects of Botox, showing further reduction in forehead movement and the emerging smoothness on Day 3, building towards the full result."
+    },
+    {
+      "start_time": "00:18.800",
+      "end_time": "00:24.700",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "indoor",
+        "kitchen background",
+        "smooth forehead",
+        "no wrinkles",
+        "trying to frown",
+        "smiling",
+        "makeup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "straight on angle"
+        ]
+      },
+      "why_kept": "Highlights a near-complete transformation on Day 5, with very minimal forehead movement and significantly smoother skin, emphasizing the treatment's effectiveness."
+    },
+    {
+      "start_time": "00:24.700",
+      "end_time": "00:32.400",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "indoor",
+        "kitchen background",
+        "smooth forehead",
+        "no wrinkles",
+        "pointing",
+        "smiling",
+        "makeup"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "satisfied",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "straight on angle"
+        ]
+      },
+      "why_kept": "This segment serves as the ultimate 'after' reveal, showcasing the full and desired effect of Botox after seven days, with a completely smooth forehead and the woman's clear satisfaction. It effectively closes the transformation narrative."
+    }
+  ]
+}

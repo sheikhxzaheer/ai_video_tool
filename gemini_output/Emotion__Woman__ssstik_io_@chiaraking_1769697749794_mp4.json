@@ -1,0 +1,83 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Emotion\\Woman\\ssstik.io_@chiaraking_1769697749794.mp4",
+  "detailed_description": "This video humorously depicts the internal struggle of a woman trying to formulate an excuse to end a relationship. She is shown in a kitchen setting, initially displaying exaggerated expressions of frustration and deliberation through intense facial movements and hand gestures, embodying the difficult thought process. The scene then transitions to a composed and somewhat melancholic expression, as she delivers the classic, clichéd breakup line, 'It's not you it's me,' signaling the resolution of her mental quest.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.700",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "High_Energy",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "furrowed brow",
+        "distressed facial expression",
+        "hands gesturing",
+        "thinking",
+        "frustrated"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dramatic music",
+          "clear focus",
+          "dynamic acting"
+        ]
+      },
+      "why_kept": "This segment establishes the core problem and action of the video: the internal, often difficult, process of thinking of an excuse to break up, conveyed through strong facial expressions and body language."
+    },
+    {
+      "start_time": "00:05.700",
+      "end_time": "00:08.733",
+      "structural_tags": [
+        "Result_Transformation",
+        "Face_Reaction",
+        "Calm_Relaxation",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "composed expression",
+        "subtle smile",
+        "direct gaze",
+        "resolved",
+        "delivering line"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft music transition",
+          "direct address",
+          "focused expression"
+        ]
+      },
+      "why_kept": "This segment provides the resolution and punchline to the previous segment, showing the outcome of the internal struggle with the delivery of the classic breakup line, completing the narrative."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\234416.mp4",
+  "detailed_description": "The video presents a visually appealing 3D animation of various translucent blue molecules floating and interacting in a dynamic blue environment with a bright central light source. The molecules, resembling simple chemical structures like hydrogen or water, move fluidly and occasionally bond or separate, illustrating fundamental molecular motion. This scientific visualization creates a calming yet engaging backdrop, suitable for educational content or as an aesthetic B-roll for topics related to chemistry, biology, or abstract scientific concepts.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Formula_Graphic",
+        "Micro_Nutrients_Anim"
+      ],
+      "visual_keywords": [
+        "blue molecules",
+        "atoms",
+        "chemical bonds",
+        "molecular motion",
+        "3D animation",
+        "scientific visualization",
+        "liquid effect"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "clinical",
+          "scientific"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "translucent",
+          "blue gradient lighting",
+          "molecular simulation"
+        ]
+      },
+      "why_kept": "The entire video duration consistently showcases the core visual content: a continuous, high-quality 3D animation of molecules. This segment serves as the complete demonstration of the intended scientific visualization or aesthetic background, without any setup, dead air, or distinct internal changes that would warrant trimming."
+    }
+  ]
+}

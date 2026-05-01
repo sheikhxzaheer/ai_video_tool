@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated\\ssstik.io_@didonatoemily_1774536181251.mp4",
+  "detailed_description": "The video humorously depicts the relatable experience of being in the second trimester of pregnancy, where the baby bump is not yet distinctly defined, often appearing more 'bloated,' and making regular clothes ill-fitting. The woman in the video visually embodies this state in form-fitting loungewear, holding her belly as the overlaid text explains the feeling. The clip concludes with a lighthearted smile and a thumbs-up, conveying a sense of acceptance or humor about the situation, underscored by a self-deprecating audio snippet.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.176",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Problem_State",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "pregnant woman",
+        "baby bump",
+        "grey loungewear",
+        "bathroom",
+        "bathtub",
+        "thumbs up",
+        "smile",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "relatable"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "modern decor",
+          "natural light",
+          "minimalist"
+        ]
+      },
+      "why_kept": "This segment comprehensively captures the core message and emotional arc of the video. It begins by establishing the 'problem state' through the text overlay and the visual of the pregnant woman's 'bloated' bump. It then transitions to a moment of positive emotion and acceptance, indicated by her smile and thumbs-up, making the entire duration the semantic core that conveys the creator's relatable experience."
+    }
+  ]
+}

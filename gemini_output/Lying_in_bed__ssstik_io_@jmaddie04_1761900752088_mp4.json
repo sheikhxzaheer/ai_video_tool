@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Lying in bed\\ssstik.io_@jmaddie04_1761900752088.mp4",
+  "detailed_description": "The video portrays a woman settling into bed as part of her night routine. She expresses profound self-love through on-screen text overlays, stating she means the world to herself, culminating in a gentle air kiss and a satisfied smile. This short clip emphasizes self-care, positive affirmation, and a moment of calm relaxation before sleep.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.772",
+      "structural_tags": [
+        "Night_Routine",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Calm_Relaxation",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "duvet",
+        "pulling covers",
+        "lying down",
+        "smile",
+        "air kiss"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "soft colors"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it clearly demonstrates the woman's night routine, her explicit expression of self-love through text overlays and a gesture, and her visible positive emotional reaction. The video starts and ends precisely with the action and its emotional climax."
+    }
+  ]
+}

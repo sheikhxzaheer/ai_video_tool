@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Coffee\\ssstik.io_@aleksiss5_1766925260569.mp4",
+  "detailed_description": "The video opens with a woman in a white bathrobe, standing in what appears to be a hotel bathroom or vanity area. She is shown repeatedly sipping from a plain white coffee mug. A textual overlay states, 'Drinking coffee to be energetic:'. The scene captures a quiet, contemplative moment of a morning routine, implying the common act of consuming coffee to boost energy, as suggested by the text and her calm demeanor before an implied 'kick' suggested by the sound effect at the end.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Morning_Routine",
+        "Face_Reaction",
+        "Calm_Relaxation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bathrobe",
+        "coffee mug",
+        "drinking",
+        "hotel room",
+        "mirror"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it perfectly illustrates the core message conveyed by the text overlay: the act of drinking coffee as part of a morning routine to achieve energy. It directly shows product interaction (drinking from the mug), human interaction, and the implied emotional goal (becoming energetic). The action starts immediately and ends cleanly, adhering to the 'No-Mistake Rule'."
+    }
+  ]
+}

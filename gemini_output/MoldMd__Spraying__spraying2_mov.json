@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Spraying\\spraying2.mov",
+  "detailed_description": "This video clip demonstrates the application of MoldN MD, a professional-grade mold spot remover, to a dirty bathtub. A hand is shown actively spraying the cleaning solution onto a grimy caulk line and around a metal drain cover, where visible discoloration and potential mold spots are present. The product's foaming action is evident upon contact with the surface, highlighting its immediate work.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.421",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hand",
+        "spraying",
+        "cleaning product",
+        "bathtub",
+        "caulk line",
+        "drain cover",
+        "mold spots",
+        "bubbles",
+        "product bottle"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "clinical",
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "focus on action"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the direct application and initial action of the cleaning product on a visibly dirty surface. The product interaction, the problem state, and the introduction of the product via voiceover all occur simultaneously within this continuous shot, making it a complete 'hero moment' for the product's function."
+    }
+  ]
+}

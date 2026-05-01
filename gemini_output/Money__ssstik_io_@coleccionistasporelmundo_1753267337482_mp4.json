@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Money\\ssstik.io_@coleccionistasporelmundo_1753267337482.mp4",
+  "detailed_description": "The video highlights a specific type of one-dollar bill from 2013 that is highly sought after by collectors: the 'star note' with duplicated serial numbers. The presenter, wearing white gloves to handle the bills, explains that a printing error resulted in over 6 million bills sharing the same serial number. He demonstrates their potential value by showing an eBay listing where a matching pair sold for nearly $2,500. The video further details how to identify these valuable notes by their year, the star in their serial number, and specific serial number ranges, noting that even a single star note can be worth $20 to $35.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "01:03.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Key_Information",
+        "Product_Intro",
+        "Product_Interaction",
+        "Problem_State",
+        "Social_Proof",
+        "Result_Transformation",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "dollar bill",
+        "star note",
+        "serial numbers",
+        "hand with white glove",
+        "eBay listing",
+        "text overlay",
+        "animated money character"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "informative",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear narration",
+          "focused shots",
+          "graphical overlays"
+        ]
+      },
+      "why_kept": "The entire video constitutes the semantic core as it consistently demonstrates the identification and valuation of the collectible dollar bill. It introduces the product, explains the unique error that makes it valuable, provides social proof of its worth through an auction result, and details the specific criteria (serial numbers, year) for collectors to find these rare items. The continuous product interaction, combined with key informational overlays and verbal explanations, makes every part essential to conveying the main message."
+    }
+  ]
+}

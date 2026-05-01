@@ -1,0 +1,156 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Washes head\\10629c-billo-169884-orig.mp4",
+  "detailed_description": "This video showcases a man using SPARTAN Root Activator Shampoo and Conditioner to promote hair growth. It features clear product interaction, demonstrating the dispensing of both products and their application with a scalp massager. The process highlights the thorough scrubbing and massaging action, concluding with a visibly satisfied facial expression from the user, emphasizing the ease and effectiveness of the routine.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "shampoo bottle",
+        "conditioner bottle",
+        "foam",
+        "white background",
+        "hand placing bottle"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "minimalist background"
+        ]
+      },
+      "why_kept": "This segment serves as an excellent visual hook and product introduction, clearly showcasing both products in a clean setting, immediately establishing the video's focus."
+    },
+    {
+      "start_time": "00:04.800",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "shampoo bottle",
+        "pumping action",
+        "shampoo dispensing",
+        "hand",
+        "applying shampoo",
+        "scalp massager"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear product view",
+          "direct action"
+        ]
+      },
+      "why_kept": "This segment directly demonstrates the product interaction, showing the shampoo being dispensed and the initial application, which is crucial for understanding how the product is used."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:39.800",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Human_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "wet hair",
+        "lather",
+        "scalp massager",
+        "scrubbing hair",
+        "shampoo",
+        "back of head",
+        "front view",
+        "side view"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera angles",
+          "focus on action"
+        ]
+      },
+      "why_kept": "This is a core 'process' segment, showing the detailed and thorough application of the shampoo using a scalp massager from multiple angles, highlighting the product's function and the user's routine."
+    },
+    {
+      "start_time": "00:49.000",
+      "end_time": "01:15.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Morning_Routine",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "conditioner bottle",
+        "pumping action",
+        "conditioner dispensing",
+        "hand",
+        "applying conditioner",
+        "massaging hair",
+        "scalp massager",
+        "man",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear product view",
+          "satisfied expression",
+          "direct application"
+        ]
+      },
+      "why_kept": "This segment completes the routine by showcasing the conditioner's dispense and application, reinforcing the full hair care process. The ending shot with a smile provides an emotional climax and 'result' aspect, implying satisfaction."
+    }
+  ]
+}

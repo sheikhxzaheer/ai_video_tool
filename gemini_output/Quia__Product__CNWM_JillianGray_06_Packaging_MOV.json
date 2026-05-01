@@ -1,0 +1,57 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Product\\CNWM_JillianGray_06_Packaging.MOV",
+  "detailed_description": "A young woman with a pink bunny ear headband enthusiastically presents a 'OUIA Korean Beauty Collagen Night Wrapping Mask'. She holds the product towards the camera, smiling, and explicitly states that the mask feels great, even for people with sensitive skin like herself, while gesturing to emphasize her point. The segment highlights the product's suitability for sensitive skin and its positive user experience.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.770",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Face_Reaction",
+        "UGC_Talking_Head",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink headband",
+        "blonde hair",
+        "black top",
+        "necklace",
+        "moon pendant",
+        "nose ring",
+        "pink tube",
+        "skincare mask",
+        "collagen mask",
+        "hand",
+        "pointing",
+        "smiling",
+        "talking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "warm lighting",
+          "natural look",
+          "soft focus"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it combines multiple 'Hero Moments': the presenter introduces and displays the product (Product Interaction), provides key information about its suitability for sensitive skin (Key Information/UGC_Talking_Head), and shows a positive emotional reaction (Emotional Climax). The entire duration efficiently conveys the core message with continuous product presence and interaction, adhering to the visual priority rule."
+    }
+  ]
+}

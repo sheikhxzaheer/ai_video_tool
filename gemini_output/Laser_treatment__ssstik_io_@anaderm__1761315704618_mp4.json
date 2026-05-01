@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Laser treatment\\ssstik.io_@anaderm__1761315704618.mp4",
+  "detailed_description": "This video captures a close-up of a facial skin treatment being performed on a person's face. A gloved hand operates a specialized metallic device, systematically moving it across the forehead and cheek area. The device leaves a distinctive, precise grid pattern of tiny dots on the skin, indicating a fractional laser or micro-needling procedure aimed at skin resurfacing or rejuvenation. The footage highlights the detailed process and direct product interaction involved in advanced skincare.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Macro_Detail",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "facial treatment",
+        "skin",
+        "device",
+        "laser",
+        "micro-needling",
+        "grid pattern",
+        "forehead",
+        "cheek",
+        "blue glove",
+        "technician",
+        "skincare"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "focused shot",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it visually demonstrates the professional process and 'Mechanism_Of_Action' of a specialized facial treatment device. It showcases the 'Product_Interaction' and the immediate visual result (grid pattern on skin) without any setup, calibration, or dead air, perfectly fulfilling the 'Process/Labor' and 'Product Interaction' hero moment criteria."
+    }
+  ]
+}

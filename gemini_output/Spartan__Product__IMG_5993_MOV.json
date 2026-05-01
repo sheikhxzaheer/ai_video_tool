@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Product\\IMG_5993.MOV",
+  "detailed_description": "This video features 'Spartan Root Activator Shampoo' bottles, starting with a close-up that highlights the product's branding and key benefits like 'Promotes Hair Growth' and its promise for 'mighty, voluminous, and vigorous' hair. The camera then slowly zooms out, revealing a large, neatly arranged stack of these black bottles, emphasizing the product's availability and sleek aesthetic. The entire segment functions as a direct product introduction and visual presentation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.999",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Macro_Detail",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "black shampoo bottles",
+        "Spartan Root Activator Shampoo",
+        "product display",
+        "stacked bottles",
+        "product label",
+        "hair growth shampoo"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "clinical",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean shot",
+          "product focus",
+          "slow zoom-out",
+          "good lighting",
+          "minimalist setup"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it continuously displays the product from a detailed close-up to a wider shot revealing its quantity. It effectively introduces the product, showcases its branding and key information printed on the label, and presents it in an aesthetically pleasing manner, fulfilling the 'Product Intro,' 'Reveal/Result' (of the stacked product), and 'Key Information' criteria."
+    }
+  ]
+}

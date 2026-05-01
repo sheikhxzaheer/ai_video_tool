@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Handsome man\\ssstik.io_@blackboyscute_1766074907048.mp4",
+  "detailed_description": "This video captures a confident, muscular man in a gym setting, showcasing his impressive physique. Wearing a black cap and a gold chain, he flexes his biceps and chest muscles, highlighting the results of his dedication to fitness. The visual demonstration of his strength and well-defined body is complemented by an audio narration that emphasizes his powerful presence, calling him 'The man, the myth, the menace.'",
+  "segments": [
+    {
+      "start_time": "00:03.500",
+      "end_time": "00:07.200",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "muscular man",
+        "flexing",
+        "biceps",
+        "chest",
+        "abs",
+        "tattoos",
+        "gym",
+        "mirror",
+        "black cap",
+        "gold chain"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "confident",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "good lighting",
+          "clear focus",
+          "bodybuilder aesthetic"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the 'Result/Reveal' of the subject's physical training as he flexes his muscles. His confident expression and the powerful physique align with the audio's emphasis on a 'man, myth, menace' persona, making it the semantic core where the value and strength are showcased. Initial setup and post-action lingering moments were trimmed to focus on the core action."
+    }
+  ]
+}

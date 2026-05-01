@@ -1,0 +1,121 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Korean woman\\ssstik.io_@koreangrandma_1762002354789.mp4",
+  "detailed_description": "This video introduces a vibrant 70-year-old Korean woman, dubbed a 'princess grandma,' who defies age stereotypes. It showcases her meticulous preparation for a broadcast, highlighting her elegant appearance and positive demeanor. Through on-screen text and her confident presence, she shares her philosophy that 'age is just a number' and encourages everyone to live fabulously together, demonstrating that grace and vitality can transcend age.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.600",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Positive_Emotion",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "reading papers",
+        "name tag",
+        "text overlay",
+        "70 years old"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean lighting",
+          "professional setting"
+        ]
+      },
+      "why_kept": "This segment immediately introduces the subject's age and positive, confident persona, setting the core theme of defying age stereotypes with a warm smile."
+    },
+    {
+      "start_time": "00:00.600",
+      "end_time": "00:02.067",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Aesthetic_Broll",
+        "Human_Interaction",
+        "The_Process/Labor"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hair styling",
+        "makeup brush",
+        "hair spray",
+        "text overlay",
+        "princess grandma"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "preparatory"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "makeup area"
+        ]
+      },
+      "why_kept": "This segment visually demonstrates the preparation process, supporting her 'fabulous' persona and self-description as a 'princess grandma' through the care taken in her appearance."
+    },
+    {
+      "start_time": "00:02.967",
+      "end_time": "00:07.033",
+      "structural_tags": [
+        "Key_Information",
+        "Positive_Emotion",
+        "Call_To_Action",
+        "Behind_The_Scenes",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "holding cup",
+        "on air sign",
+        "studio set",
+        "other people",
+        "cameras",
+        "multi-screen view",
+        "text overlay",
+        "age is just a number",
+        "live fabulously"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "positive",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "broadcast lighting",
+          "dynamic camera work",
+          "modern set design"
+        ]
+      },
+      "why_kept": "This segment captures the full arc of her core message delivery, from the personal philosophical statement ('Age is just a number') to the inclusive call to action ('Let's all live fabulously together!'), all within the context of her professional broadcast environment. It embodies the 'Emotional Climax' and 'Key Information' of the video."
+    }
+  ]
+}

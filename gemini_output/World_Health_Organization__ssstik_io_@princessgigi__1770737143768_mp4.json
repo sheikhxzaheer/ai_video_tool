@@ -1,0 +1,522 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\World Health Organization\\ssstik.io_@princessgigi__1770737143768.mp4",
+  "detailed_description": "This video offers a behind-the-scenes tour of the World Health Organization (WHO) headquarters, showcasing its impressive facilities and operational environment. It captures various aspects of the building, from the grand exterior adorned with flags to the functional meeting rooms, digital information screens, and a spacious cafeteria. The tour highlights the formal yet engaging atmosphere, providing a glimpse into the spaces where international health discussions and events take place, including a look at the main assembly hall during a plenary session.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "UN flags",
+        "UN building",
+        "sky",
+        "green grass"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "office"
+        ],
+        "mood": [
+          "formal",
+          "impressive"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "establishing shot",
+          "government architecture"
+        ]
+      },
+      "why_kept": "This segment serves as a strong visual hook, immediately establishing the location and the subject of the video (UN/WHO headquarters)."
+    },
+    {
+      "start_time": "00:04.700",
+      "end_time": "00:06.600",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "WHO building exterior",
+        "WHO logo",
+        "flags",
+        "street"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "office",
+          "street"
+        ],
+        "mood": [
+          "formal",
+          "institutional"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "establishing shot",
+          "modern architecture"
+        ]
+      },
+      "why_kept": "This is the primary establishing shot of the actual World Health Organization building, serving as the main anchor for the entire tour."
+    },
+    {
+      "start_time": "00:07.800",
+      "end_time": "00:08.800",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "security gate",
+        "turnstile",
+        "red/green light"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "functional",
+          "secure"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "entry process"
+        ]
+      },
+      "why_kept": "Shows the entry process into the WHO building, adding to the 'behind-the-scenes' aspect of the tour."
+    },
+    {
+      "start_time": "00:08.800",
+      "end_time": "00:11.900",
+      "structural_tags": [
+        "Key_Information",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "digital screen",
+        "meeting schedule",
+        "WHO logo",
+        "room numbers"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "informative",
+          "organized"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "digital display",
+          "event scheduling"
+        ]
+      },
+      "why_kept": "Provides key information about the organization's internal workings, showing how meetings are scheduled and displayed."
+    },
+    {
+      "start_time": "00:11.900",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Workspace_Office",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "meeting room",
+        "tables",
+        "chairs",
+        "laptops",
+        "microphones",
+        "WHO banners"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "formal",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "conference setup",
+          "meeting preparation"
+        ]
+      },
+      "why_kept": "Illustrates one of the meeting rooms, showcasing the typical setup for discussions and work within the WHO."
+    },
+    {
+      "start_time": "00:16.000",
+      "end_time": "00:18.200",
+      "structural_tags": [
+        "Macro_Detail",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "country placards",
+        "meeting table",
+        "window",
+        "greenery"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "formal",
+          "detailed"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "international representation",
+          "conference detail"
+        ]
+      },
+      "why_kept": "Highlights the detail of country representation in meetings, a crucial aspect of international organizations."
+    },
+    {
+      "start_time": "00:18.200",
+      "end_time": "00:20.900",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "hallway",
+        "statue",
+        "seating area",
+        "marble floor",
+        "concrete wall"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "modern",
+          "aesthetic"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "interior design",
+          "art installation"
+        ]
+      },
+      "why_kept": "Showcases the aesthetic and modern interior design of the building's common areas."
+    },
+    {
+      "start_time": "00:20.900",
+      "end_time": "00:27.700",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "large lobby",
+        "hallway",
+        "seating",
+        "indoor trees",
+        "clock",
+        "marble floor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "spacious",
+          "formal"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "grand architecture",
+          "open space",
+          "modern lobby"
+        ]
+      },
+      "why_kept": "Emphasizes the impressive scale and formal design of the main hallway/lobby area, a central part of the building."
+    },
+    {
+      "start_time": "00:27.700",
+      "end_time": "00:31.900",
+      "structural_tags": [
+        "Workspace_Office",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "cafeteria",
+        "dining tables",
+        "chairs",
+        "large windows",
+        "posters on walls"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "casual",
+          "busy"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "dining area",
+          "institutional kitchen"
+        ]
+      },
+      "why_kept": "Provides an overview of the cafeteria, showing where staff and visitors dine and socialize."
+    },
+    {
+      "start_time": "00:31.900",
+      "end_time": "00:33.300",
+      "structural_tags": [
+        "Human_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "pizza",
+        "tray",
+        "table",
+        "food"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "casual",
+          "appetizing"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "mealtime",
+          "food presentation"
+        ]
+      },
+      "why_kept": "Highlights the food options available in the cafeteria, adding a personal touch to the daily experience."
+    },
+    {
+      "start_time": "00:33.300",
+      "end_time": "00:37.700",
+      "structural_tags": [
+        "Human_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "cafeteria",
+        "people",
+        "food counters",
+        "dining tables"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "casual",
+          "busy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "food service",
+          "bustling environment"
+        ]
+      },
+      "why_kept": "Further demonstrates the cafeteria's atmosphere and the variety of food choices, showing real human interaction."
+    },
+    {
+      "start_time": "00:37.700",
+      "end_time": "00:43.000",
+      "structural_tags": [
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "large meeting room",
+        "white tables",
+        "black chairs",
+        "projector screens",
+        "microphones"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "formal",
+          "prepared"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "conference room",
+          "modern setup"
+        ]
+      },
+      "why_kept": "Showcases another large, well-equipped meeting room, indicating the extensive facilities available."
+    },
+    {
+      "start_time": "00:43.000",
+      "end_time": "00:46.000",
+      "structural_tags": [
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "meeting room",
+        "U-shaped table",
+        "water pitchers",
+        "cups",
+        "projector screens"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "formal",
+          "prepared"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "executive meeting room",
+          "conference setting"
+        ]
+      },
+      "why_kept": "Presents a slightly different style of meeting room, showing the variety of spaces within the WHO."
+    },
+    {
+      "start_time": "00:46.000",
+      "end_time": "00:55.700",
+      "structural_tags": [
+        "Process_Labor",
+        "Workspace_Office",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "assembly hall",
+        "large screen",
+        "speaker",
+        "audience",
+        "country names on desks",
+        "WHO logo"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "formal",
+          "important",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "international conference",
+          "plenary session",
+          "broadcast event"
+        ]
+      },
+      "why_kept": "This segment highlights the main assembly hall, a key venue for significant international events and discussions at the WHO."
+    },
+    {
+      "start_time": "00:55.700",
+      "end_time": "00:58.500",
+      "structural_tags": [
+        "Macro_Detail",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "Brazil seat",
+        "microphone",
+        "QR code",
+        "WHO logo",
+        "table",
+        "attendees"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "formal",
+          "personal"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "delegate desk",
+          "interactive technology"
+        ]
+      },
+      "why_kept": "Offers a detailed, personal perspective of a delegate's seat, showing the technology and national representation."
+    }
+  ]
+}

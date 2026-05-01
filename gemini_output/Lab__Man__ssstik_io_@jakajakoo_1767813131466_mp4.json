@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Lab\\Man\\ssstik.io_@jakajakoo_1767813131466.mp4",
+  "detailed_description": "The video showcases a male laboratory technician, wearing protective gloves, operating an automated laboratory machine. He is meticulously feeding documents or samples into the device while simultaneously monitoring the process on an integrated digital screen. The task appears routine and requires focused attention. Briefly, a colleague in a lab coat observes the procedure, highlighting the collaborative and professional environment of a clinical laboratory or workspace.",
+  "segments": [
+    {
+      "start_time": "00:02.165",
+      "end_time": "00:27.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "gloves",
+        "laboratory technician",
+        "automated machine",
+        "computer screen",
+        "papers",
+        "document feeding",
+        "colleague",
+        "lab coat",
+        "medical equipment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office",
+          "clinical"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "brightly lit",
+          "clean aesthetic",
+          "professional setting"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it vividly demonstrates the primary 'Process/Labor' of operating a specialized machine. It includes clear 'Product_Interaction' as the technician feeds documents and interacts with the screen, and also shows 'Human_Interaction' with a colleague, which is part of the work environment. The initial 'setup' of putting on gloves was trimmed to focus directly on the active work, following the trimming rules."
+    }
+  ]
+}

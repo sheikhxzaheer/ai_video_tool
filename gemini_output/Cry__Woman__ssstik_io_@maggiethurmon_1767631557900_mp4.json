@@ -1,0 +1,143 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cry\\Woman\\ssstik.io_@maggiethurmon_1767631557900.mp4",
+  "detailed_description": "A young woman is shown in extreme emotional distress, crying profusely while reacting to a television show. With tears streaming down her face, she directly addresses the camera, earnestly warning viewers against starting Grey's Anatomy due to its intense emotional impact. She repeatedly expresses her inability to stop crying, reinforcing the profound effect the series has had on her. The video captures her raw, relatable reaction, serving as a humorous yet sincere caution to potential viewers.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.750",
+      "structural_tags": [
+        "Negative_Emotion",
+        "Face_Reaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "crying",
+        "tears",
+        "distress",
+        "woman",
+        "close-up"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "raw",
+          "authentic",
+          "emotional"
+        ]
+      },
+      "why_kept": "This segment establishes the core emotional climax, showing the woman's tearful face and distress, setting the stage for her subsequent warning."
+    },
+    {
+      "start_time": "00:08.750",
+      "end_time": "00:13.100",
+      "structural_tags": [
+        "Key_Information",
+        "UGC_Talking_Head",
+        "Negative_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "talking",
+        "crying",
+        "warning",
+        "Grey's Anatomy",
+        "woman",
+        "close-up"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address",
+          "emotional"
+        ]
+      },
+      "why_kept": "This is the primary 'key information' segment where the woman delivers her explicit warning and explains the reason for her emotional state (watching Grey's Anatomy). Her direct address makes it the anchor."
+    },
+    {
+      "start_time": "00:13.100",
+      "end_time": "00:17.500",
+      "structural_tags": [
+        "Negative_Emotion",
+        "Face_Reaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "crying",
+        "tears",
+        "distressed",
+        "woman",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "emotional",
+          "text on screen"
+        ]
+      },
+      "why_kept": "This segment reinforces the emotional climax and her struggle to stop crying, visually supporting her earlier statement with a text overlay."
+    },
+    {
+      "start_time": "00:17.500",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Negative_Emotion",
+        "Face_Reaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "crying",
+        "tissue",
+        "distressed",
+        "woman",
+        "wide shot",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "emotional",
+          "text on screen",
+          "sitting"
+        ]
+      },
+      "why_kept": "This wider shot provides context for her situation, showing her holding a tissue and confirming her inability to stop crying, reinforcing the 'emotional climax'."
+    }
+  ]
+}

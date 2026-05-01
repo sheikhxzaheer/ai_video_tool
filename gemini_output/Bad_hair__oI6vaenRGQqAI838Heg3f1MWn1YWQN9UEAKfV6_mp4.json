@@ -1,0 +1,80 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\oI6vaenRGQqAI838Heg3f1MWn1YWQN9UEAKfV6.mp4",
+  "detailed_description": "The video effectively conveys a narrative of transformation and increased confidence related to hair appearance. It begins with a man self-consciously touching his visibly thinning hair, accompanied by text downplaying the importance of hair, hinting at a common insecurity. The scene then dramatically transitions, showing the same man with a full, stylish head of hair, confidently putting on sunglasses and walking outdoors. This visual contrast highlights how a change in hair can significantly impact self-perception and boost confidence, directly contradicting the initial textual message about hair not mattering.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.900",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Human_Interaction",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "man",
+        "touching hair",
+        "receding hairline",
+        "looking down",
+        "pensive expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "minimalist background"
+        ]
+      },
+      "why_kept": "This segment establishes the initial problem, showing the man's self-consciousness about his hair, which sets up the dramatic transformation that follows."
+    },
+    {
+      "start_time": "00:04.900",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "man",
+        "putting on sunglasses",
+        "full hair",
+        "styled hair",
+        "walking confidently",
+        "urban background"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "dynamic movement"
+        ]
+      },
+      "why_kept": "This segment completes the narrative by revealing the successful transformation, showing the man with stylish, full hair and an apparent boost in confidence, serving as the 'after' moment."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Tired\\Man\\ssstik.io_@skill.any_1763680403592.mp4",
+  "detailed_description": "The video captures a common modern dilemma: the disruption of sleep by digital devices. It illustrates a night routine where a young man settles into bed with his phone, then later stirs awake at 4:46 AM, instinctively reaching for his device. He engages with the phone briefly before attempting to resume sleep, showcasing the intrusive nature of mobile phone usage on rest and highlighting a pervasive problem state related to screen time.",
+  "segments": [
+    {
+      "start_time": "00:21.000",
+      "end_time": "00:28.000",
+      "structural_tags": [
+        "Night_Routine",
+        "Product_Interaction",
+        "Problem_State",
+        "Time_Wasted",
+        "Negative_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "bed",
+        "phone",
+        "waking up",
+        "scrolling",
+        "sleep disruption",
+        "blanket",
+        "dark room",
+        "purple lights",
+        "digital timer"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "disrupted",
+          "sleepy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "low light",
+          "purple ambient lighting",
+          "cozy aesthetic",
+          "timestamp overlay"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it clearly demonstrates the 'Problem_State' and 'Product_Interaction' by showing the subject waking up at an unusual hour (04:46 AM, indicated by the on-screen timer), retrieving his phone, engaging with it, and then returning to sleep. This action illustrates the disruption of a 'Night_Routine' due to digital device use, conveying the core message effectively."
+    }
+  ]
+}

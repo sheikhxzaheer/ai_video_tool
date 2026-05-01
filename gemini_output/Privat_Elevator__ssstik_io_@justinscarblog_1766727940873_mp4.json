@@ -1,0 +1,148 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Privat Elevator\\ssstik.io_@justinscarblog_1766727940873.mp4",
+  "detailed_description": "This video showcases a luxurious and innovative car elevator system that allows an Audi R8 GT to be parked directly on a hotel room's private balcony. The process involves driving the supercar into a specialized elevator, scanning an access card, ascending to the room level, and then parking on the balcony, merging automotive luxury with exclusive hospitality.",
+  "segments": [
+    {
+      "start_time": "00:04.010",
+      "end_time": "00:36.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Reveal_Result",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Audi R8 GT",
+        "car elevator",
+        "balcony",
+        "driver scanning card",
+        "dashboard",
+        "steering wheel",
+        "hotel room view"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "car",
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera movement",
+          "modern architecture",
+          "ambient lighting",
+          "engine sounds"
+        ]
+      },
+      "why_kept": "This segment comprehensively captures the entire process of the Audi R8 GT approaching, entering, ascending in the car elevator, and finally arriving and being parked on the hotel room balcony. It includes critical product interaction (card scan, starting car) and the progressive reveal of the unique parking solution, making it the core narrative."
+    },
+    {
+      "start_time": "00:40.000",
+      "end_time": "00:42.000",
+      "structural_tags": [
+        "Reveal_Result",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Audi R8 GT",
+        "hotel room",
+        "bed",
+        "balcony view"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "outdoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "ambient light",
+          "luxury interior",
+          "panoramic view"
+        ]
+      },
+      "why_kept": "This shot from inside the hotel room provides a clear 'result' of the car elevator system, showing the car aesthetically positioned on the private balcony right next to the living space, reinforcing the luxury experience."
+    },
+    {
+      "start_time": "00:48.000",
+      "end_time": "00:50.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Audi R8 GT",
+        "headlights",
+        "front grille"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "car"
+        ],
+        "mood": [
+          "premium",
+          "sleek"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "bright headlights",
+          "detailed shot"
+        ]
+      },
+      "why_kept": "This segment provides an aesthetic close-up of the Audi R8 GT, highlighting the product's design and reinforcing its premium nature in the context of the luxurious parking solution."
+    },
+    {
+      "start_time": "00:50.810",
+      "end_time": "00:54.400",
+      "structural_tags": [
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "driver",
+        "Audi R8 GT",
+        "car door",
+        "balcony",
+        "hotel room entrance"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "car"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "smooth movement",
+          "user experience"
+        ]
+      },
+      "why_kept": "This segment shows the human interaction with the system, as the driver exits the car directly onto the balcony and enters the adjacent room, completing the integrated luxury experience."
+    }
+  ]
+}

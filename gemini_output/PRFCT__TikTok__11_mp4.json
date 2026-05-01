@@ -1,0 +1,153 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\TikTok\\11.mp4",
+  "detailed_description": "The video features a woman introducing a hydration product called \"Perfect Morning Electrolytes.\" She explains that these packets hydrate better than water, help with brain fog, and provide clean energy without the typical coffee crash. She demonstrates mixing and drinking the tangerine-flavored supplement, emphasizing its pleasant taste compared to other salty electrolyte drinks. The video highlights the product as a game-changer for starting the day feeling energized and hydrated.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Intro",
+        "Human_Interaction",
+        "UGC_Talking_Head",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "electrolyte packet",
+        "orange drink",
+        "glass",
+        "kitchen counter"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "personal vlog style"
+        ]
+      },
+      "why_kept": "This segment establishes the problem (dehydration) and introduces the product with a clear visual of the packet and the mixed drink, serving as a strong visual hook and product introduction."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:12.900",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "UGC_Talking_Head",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "large product pouch",
+        "text on pouch",
+        "pointing gesture",
+        "orange drink"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "informative",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "close-up product view"
+        ]
+      },
+      "why_kept": "This segment introduces the larger product packaging and details the key benefits and advantages of the product, such as better hydration, brain fog relief, and clean energy, with active product display."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:21.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "UGC_Talking_Head",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "drinking",
+        "straw",
+        "orange drink",
+        "satisfied expression",
+        "glass"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "satisfied",
+          "positive",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "direct address to camera"
+        ]
+      },
+      "why_kept": "This is the core 'hero moment' as it directly demonstrates the product in use (drinking), captures the user's positive emotional response, and provides key information about its taste, making it highly engaging and informative. It embodies the 'product interaction' and 'emotional climax' criteria."
+    },
+    {
+      "start_time": "00:25.000",
+      "end_time": "00:28.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Offer_CTA",
+        "Positive_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "large product pouch",
+        "smiling",
+        "kitchen counter"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "positive",
+          "encouraging"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "final product shot"
+        ]
+      },
+      "why_kept": "This segment serves as a concluding visual, re-displaying the product with a positive facial expression and implying a call to action, reinforcing the product's appeal after the main demonstration. The verbal CTA was removed due to the visual priority rule."
+    }
+  ]
+}

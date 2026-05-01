@@ -1,0 +1,173 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\IMG_0581┬áÔÇö ð║ð¥ð┐ð©ÐÅ.MOV",
+  "detailed_description": "This video captures a man's journey of embracing baldness. It starts by revealing his messy hair and receding hairline, which he previously concealed with a hairpiece, highlighting a common problem state. The video then transitions into the practical solution, showing the entire process of him confidently shaving his head with an electric clipper. The transformation concludes with explicit 'Before' and 'After' title cards, showcasing a remarkable change from self-conscious concealment to a clean-shaven, smiling, and confident new look.",
+  "segments": [
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:04.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "man",
+        "messy hair",
+        "receding hairline",
+        "bald spot",
+        "hairpiece",
+        "surprised expression",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct lighting",
+          "natural look"
+        ]
+      },
+      "why_kept": "This segment vividly establishes the 'Problem_State' by revealing the subject's receding hairline and the use of a hairpiece, setting the stage for the subsequent transformation."
+    },
+    {
+      "start_time": "00:04.900",
+      "end_time": "00:05.400",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "man",
+        "electric clipper"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "neutral"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear product presentation"
+        ]
+      },
+      "why_kept": "Introduces the main tool (the electric clipper) that will be used for the hair transformation."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:21.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Process_Labor",
+        "Human_Interaction",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "man",
+        "shaving head",
+        "electric clipper",
+        "hair falling",
+        "bald head"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera",
+          "close-up action shots"
+        ]
+      },
+      "why_kept": "This is the core 'Process/Labor' segment, showing the complete transformation as the man shaves his head, demonstrating the 'Mechanism_Of_Action' of the clipper."
+    },
+    {
+      "start_time": "00:22.000",
+      "end_time": "00:24.000",
+      "structural_tags": [
+        "Before_After",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "man",
+        "messy hair",
+        "receding hairline",
+        "BEFORE text"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "neutral"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "static shot",
+          "clear text overlay"
+        ]
+      },
+      "why_kept": "Serves as an explicit 'Before' state summary, crucial for the 'Reveal/Result' comparison."
+    },
+    {
+      "start_time": "00:25.000",
+      "end_time": "00:27.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "bald head",
+        "smiling",
+        "AFTER text"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "static shot",
+          "clear text overlay",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This is the definitive 'After' state, clearly showing the 'Result_Transformation' and the subject's positive emotional response, fulfilling the 'Reveal/Result' criteria."
+    }
+  ]
+}

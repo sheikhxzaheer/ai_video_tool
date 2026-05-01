@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated Before_After\\ssstik.io_@skyabovemecloud_1774451205308.mp4",
+  "detailed_description": "This video features a woman initially presenting her belly in a way that might suggest pregnancy, clarified by a text overlay. She then confidently moves and flexes her abdomen, demonstrating that she simply has a natural belly as an adult woman. Through successive text overlays, she promotes body positivity and self-acceptance, emphasizing that she eats what she wants and embraces her body as beautiful, challenging societal assumptions about women's body shapes.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:11.750",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "belly",
+        "belly dancing",
+        "smiling",
+        "shocked expression",
+        "text overlay",
+        "body movement"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "well-lit",
+          "clean background",
+          "natural light",
+          "expressive facial gestures"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it presents the initial hook, the demonstration of the belly's movement, and the explicit message of body positivity through synchronized visuals and text overlays. It's a continuous, cohesive performance that delivers the core value and statement of the video."
+    }
+  ]
+}

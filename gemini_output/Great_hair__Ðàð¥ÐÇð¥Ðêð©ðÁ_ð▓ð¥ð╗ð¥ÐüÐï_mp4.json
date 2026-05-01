@@ -1,0 +1,374 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\Ðàð¥ÐÇð¥Ðêð©ðÁ ð▓ð¥ð╗ð¥ÐüÐï.mp4",
+  "detailed_description": "This video captures a man's step-by-step morning hair grooming routine, transitioning his messy hair into a voluminous, styled look. It demonstrates the application of various hair products, including thickening spray, styling cream, argan oil, and freeze spray, combined with blow-drying and brushing techniques to achieve significant volume and hold. The routine concludes with a final comb-through and beard brushing, culminating in a confident and polished appearance, emphasizing the transformative power of the products and styling process.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.300",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "messy hair",
+        "bathroom",
+        "mirror"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state, showing the initial messy hair and setting the context for the GRWM (Get Ready With Me) routine."
+    },
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:05.800",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "thickening spray",
+        "applying product",
+        "hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear product visibility"
+        ]
+      },
+      "why_kept": "This segment shows the first step of the grooming process, introducing and demonstrating the application of thickening spray, which is crucial for volume."
+    },
+    {
+      "start_time": "00:05.800",
+      "end_time": "00:09.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "styling cream",
+        "applying product",
+        "hands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear product visibility"
+        ]
+      },
+      "why_kept": "This segment continues the grooming process, showcasing the application of styling cream, an essential product for hair manageability and hold."
+    },
+    {
+      "start_time": "00:09.900",
+      "end_time": "00:12.700",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "argan oil",
+        "applying product",
+        "hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear product visibility"
+        ]
+      },
+      "why_kept": "This segment highlights another key product, argan oil, demonstrating its application for added shine and nourishment, contributing to the overall hair health and style."
+    },
+    {
+      "start_time": "00:12.700",
+      "end_time": "00:24.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair dryer",
+        "round brush",
+        "drying hair",
+        "styling",
+        "volume"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "dynamic action"
+        ]
+      },
+      "why_kept": "This is a core 'process/labor' segment, showing the technique of blow-drying and brushing to build significant volume, which is central to the desired hairstyle."
+    },
+    {
+      "start_time": "00:24.000",
+      "end_time": "00:28.100",
+      "structural_tags": [
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "voluminous hair",
+        "shocked expression",
+        "happy expression",
+        "text overlay 'LOOK AT THAT VOLUME'"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "shock",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "expressive facial capture"
+        ]
+      },
+      "why_kept": "This is a strong 'reveal/result' and 'emotional climax' moment, clearly showcasing the dramatic volume achieved and the subject's surprised and happy reaction, acting as a key turning point in the transformation."
+    },
+    {
+      "start_time": "00:28.100",
+      "end_time": "00:39.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Morning_Routine",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair product",
+        "applying with hands",
+        "styling hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "focused action"
+        ]
+      },
+      "why_kept": "This segment continues the styling process with another product, showcasing refined manual techniques to perfect the hairstyle and enhance its texture and hold."
+    },
+    {
+      "start_time": "00:39.500",
+      "end_time": "00:43.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "freeze spray",
+        "applying product",
+        "hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear product visibility"
+        ]
+      },
+      "why_kept": "This segment demonstrates the final product application—freeze spray—essential for setting the voluminous hairstyle and ensuring long-lasting hold."
+    },
+    {
+      "start_time": "00:43.900",
+      "end_time": "00:47.300",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "comb",
+        "combing hair",
+        "refining style"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "precise movements"
+        ]
+      },
+      "why_kept": "This segment shows the detailed refinement of the hairstyle using a comb, emphasizing precision in achieving the desired final look."
+    },
+    {
+      "start_time": "00:47.300",
+      "end_time": "00:50.000",
+      "structural_tags": [
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "beard brush",
+        "brushing beard",
+        "beard grooming",
+        "text overlay 'DON'T FORGET THE BEARD!'"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "attention to detail"
+        ]
+      },
+      "why_kept": "This segment includes an important complementary grooming step, brushing the beard, completing the overall well-groomed look and reinforcing the 'get ready' theme."
+    },
+    {
+      "start_time": "00:50.000",
+      "end_time": "00:52.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "man",
+        "styled hair",
+        "beard",
+        "smiling",
+        "confident expression",
+        "text overlay 'GO CRUSH THE DAY!👍'"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "positive",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "engaging facial expression"
+        ]
+      },
+      "why_kept": "This final segment is the ultimate 'reveal/result' and 'emotional climax', presenting the subject's confident and complete look, along with an encouraging call to action, effectively closing the grooming transformation."
+    }
+  ]
+}

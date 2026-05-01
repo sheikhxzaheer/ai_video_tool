@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_3.mp4",
+  "detailed_description": "The video captures a woman lying in bed, visibly uncomfortable and expressing her frustration. She verbalizes that she believes her pillow is causing her issues, highlighting a 'Problem State' related to bedding discomfort. Her pained facial expression and posture serve as an 'Emotional Climax,' conveying a clear 'Negative Emotion' about her current sleep situation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.243",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "UGC_Talking_Head",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "pillow",
+        "discomfort",
+        "speaking",
+        "laying down",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "uncomfortable"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "simple bedroom decor"
+        ]
+      },
+      "why_kept": "This entire segment serves as the 'Semantic Core' by directly establishing a 'Problem_State' through the subject's verbal statement ('I think the issue pillow is causing') and her clear 'Negative_Emotion' conveyed by her facial expression and body language. It's an 'Emotional_Climax' demonstrating discomfort, which is crucial for setting up a potential solution in a longer narrative. No trimming was applied as the segment starts and ends directly with the demonstration of the problem without any setup or post-action dead air."
+    }
+  ]
+}

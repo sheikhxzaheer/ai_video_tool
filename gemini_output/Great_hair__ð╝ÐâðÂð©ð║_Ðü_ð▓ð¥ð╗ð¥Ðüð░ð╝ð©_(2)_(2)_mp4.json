@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ð╝ÐâðÂð©ð║ Ðü ð▓ð¥ð╗ð¥Ðüð░ð╝ð© (2) (2).mp4",
+  "detailed_description": "This video's semantic core focuses on demonstrating the natural texture and dynamic movement of dark, curly hair. It showcases a person manipulating their hair, first presenting it in its natural bouncy curly state, then pulling it down to reveal a longer, wavier form, and finally releasing it to highlight its elasticity as it springs back into tight curls. The core action highlights the hair's versatility and health, emphasizing the transformation between its distinct curly and stretched states.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "curly hair",
+        "wavy hair",
+        "hair manipulation",
+        "hands",
+        "dark hair",
+        "hair movement",
+        "concrete ceiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "simple background",
+          "dynamic hair movement"
+        ]
+      },
+      "why_kept": "This segment captures the complete and clearest cycle of the hair transformation, from its initial curly state, through the process of being pulled down to reveal its length and wavy texture, and then returning to its natural curls. It effectively demonstrates the core subject of the video, which is the hair's dynamic movement and textural change."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Alergies\\ssstik.io_@loviselohne_1770737565668.mp4",
+  "detailed_description": "A woman displays a severe, widespread allergic rash covering her face, neck, and upper body, visibly expressing extreme distress and frustration. She holds a blister pack of pills, implied to be the medication causing this adverse reaction, which is highlighted by an overlay stating she is among the 2% who experience such a severe side effect. The video captures her emotional climax, questioning her suffering and the unexpected negative consequences of the medication.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.417",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Intro",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "allergic reaction",
+        "severe rash",
+        "redness",
+        "pills",
+        "blister pack",
+        "frustration",
+        "distress",
+        "speaking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "negative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "direct address",
+          "raw emotion"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it fully presents the 'Problem_State' (severe allergic reaction), features the 'Product_Intro' and 'Human_Interaction' with the implicated medication, and prominently displays the 'Emotional Climax' through the subject's 'Face_Reaction' and 'Negative_Emotion'. There is no setup, dead air, or extraneous footage; the core message is conveyed continuously from start to finish, with both visual and auditory elements contributing to its impact."
+    }
+  ]
+}

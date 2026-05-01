@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Empty wallet\\ssstik.io_1749044922188.mp4",
+  "detailed_description": "This video humorously captures the relatable struggle of managing finances mid-month. It shows a person opening an empty wallet, emphasizing the lack of funds, while text overlay highlights that it's only the 15th of the month, conveying a sense of financial stress and playful resignation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.951",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Negative_Emotion",
+        "Financial_Stress"
+      ],
+      "visual_keywords": [
+        "empty wallet",
+        "hands",
+        "person opening wallet",
+        "worn wallet",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "relatable"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear framing",
+          "direct message"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it directly illustrates the core message: the relatable financial struggle of having an empty wallet by the middle of the month. It presents the 'problem state' through visual interaction with the product (the empty wallet) and clarifies the context and emotion via the overlay text, making it a complete and self-contained narrative."
+    }
+  ]
+}

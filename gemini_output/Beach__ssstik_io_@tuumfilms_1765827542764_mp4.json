@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Beach\\ssstik.io_@tuumfilms_1765827542764.mp4",
+  "detailed_description": "This video captures a serene and picturesque beach scene during either sunrise or sunset, bathed in warm, soft light. Gentle waves rhythmically wash upon a sandy shore, creating a tranquil soundscape. A dramatic, green-clad cliff rises prominently on the left, grounding the vast expanse of the ocean that stretches towards the horizon under a clear, transitioning sky. The imagery evokes a sense of calm, natural beauty, and peaceful escape, making it an ideal visual for travel or relaxation content.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:10.58",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Positive_Emotion",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "beach",
+        "ocean",
+        "waves",
+        "sand",
+        "cliff",
+        "sunrise",
+        "sunset",
+        "sky"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "ocean",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "relaxed",
+          "serene",
+          "beautiful"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "warm light",
+          "natural lighting",
+          "scenic",
+          "tranquil",
+          "ambient sound"
+        ]
+      },
+      "why_kept": "The entire video serves as the semantic core, showcasing a continuous, aesthetically pleasing, and calming natural landscape. It presents the full 'action' of the waves and the scenic view without any setup, dead air, or post-action content, perfectly adhering to the 'No-Mistake Rule' for a complete and valuable visual experience."
+    }
+  ]
+}

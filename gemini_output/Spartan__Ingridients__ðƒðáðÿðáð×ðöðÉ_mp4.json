@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Ingridients\\ðƒðáðÿðáð×ðöðÉ.mp4",
+  "detailed_description": "This video captures the serene and untouched beauty of a forest river. It showcases a lush, green natural environment where a clear river flows gently over rocks and cascades, creating a calming visual. Mist rises softly from the water, illuminated by a gentle, ethereal light filtering through the dense tree canopy in the distance, evoking a sense of peace and natural wonder. The scene emphasizes tranquility and the raw, pristine beauty of nature.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "river",
+        "stream",
+        "forest",
+        "green trees",
+        "mist",
+        "fog",
+        "water flow",
+        "rocks",
+        "sunlight through trees"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "serene",
+          "mystical"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "ethereal glow",
+          "lush greenery",
+          "tranquil atmosphere"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, presenting a continuous, uninterrupted aesthetic shot of a natural, misty forest river. There are no specific actions, products, or human interactions; the inherent value is the visual experience of the tranquil natural environment, which is fully captured from start to end without needing any trimming."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Celebrity\\ssstik.io_@vogueitalia_1762258846460.mp4",
+  "detailed_description": "The video showcases a woman with long blonde hair, dressed in a striking maroon blazer-bodysuit with a trailing back and high platform heels, posing and walking confidently on a red carpet-style event. She interacts with the cameras by smiling and making eye contact, presenting her unique and glamorous outfit from various angles. The scene is set against a backdrop of white flowers and a crowd, emphasizing the high-profile nature of the event.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:16.800",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Aesthetic_Broll",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman",
+        "blonde hair",
+        "maroon outfit",
+        "blazer-bodysuit",
+        "high heels",
+        "red carpet",
+        "posing",
+        "walking",
+        "flowers",
+        "crowd",
+        "glamour"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "premium",
+          "glamorous"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "glamorous lighting",
+          "fashion event",
+          "red carpet look"
+        ]
+      },
+      "why_kept": "This entire segment is the Semantic Core, as it continuously showcases the central subject (the woman) and her unique outfit in a high-fashion, event setting. It captures the full 'Hero Moment' of her presentation, from initial poses to walking, without any identifiable 'setup' or 'dead air' frames that need trimming."
+    }
+  ]
+}

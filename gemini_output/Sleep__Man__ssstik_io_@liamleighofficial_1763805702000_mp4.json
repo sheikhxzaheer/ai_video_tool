@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Man\\ssstik.io_@liamleighofficial_1763805702000.mp4",
+  "detailed_description": "The video presents a humorous 'point of view' scenario where a partner expresses frustration when their boyfriend falls asleep without saying goodnight. It opens with the boyfriend sleeping soundly in bed, followed by the partner entering the room with a visibly annoyed expression. The partner then wakes the sleeping boyfriend, who asks 'What's up?', to which the partner responds with an emotionally charged question, 'Like, do you even care about me?'. The clip humorously captures a relatable moment of perceived neglect and emotional response within a relationship.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.110",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "boyfriend sleeping",
+        "partner annoyed",
+        "waking up",
+        "dialogue",
+        "bedroom",
+        "bathroom doorway"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "POV",
+          "casual lighting",
+          "split screen effect"
+        ]
+      },
+      "why_kept": "This entire segment forms the semantic core, demonstrating a relatable relationship problem (boyfriend falling asleep without goodnight), the emotional reaction of the partner, and the ensuing playful interaction/confrontation. It clearly establishes the 'POV' and captures the 'Problem State', 'Negative Emotion', and 'Human Interaction' as per the hero moment criteria without any trimmable dead air or setup/calibration."
+    }
+  ]
+}

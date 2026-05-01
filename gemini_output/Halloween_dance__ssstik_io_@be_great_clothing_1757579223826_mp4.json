@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Halloween_dance\\ssstik.io_@be.great.clothing_1757579223826.mp4",
+  "detailed_description": "This video showcases a group of individuals dressed as iconic horror movie characters, including Pennywise, Scream, Freddy Krueger, Jason Voorhees, Michael Myers (two), and Samara from The Ring. Each character or pair takes a turn performing a short, energetic dance or posing for the camera, often with dramatic lighting changes between static shots and dynamic, darker-lit sequences. The core value lies in the creative display of the costumes and the playful, high-energy performance by the ensemble of characters, capturing the essence of a horror-themed gathering or dance-off.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.780",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "High_Energy",
+        "Aesthetic_Broll",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "horror characters",
+        "costumes",
+        "dancing",
+        "posing",
+        "Pennywise",
+        "Scream",
+        "Freddy Krueger",
+        "Jason Voorhees",
+        "Michael Myers",
+        "Samara (The Ring)"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "spooky"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dynamic lighting",
+          "quick cuts",
+          "performance-based",
+          "cosplay"
+        ]
+      },
+      "why_kept": "The entire video constitutes the semantic core, as it consistently displays the main action of various horror movie characters performing energetic dances and poses. Each segment contributes to the overall theme of showcasing the costumes and the group's dynamic performance, with rapid cuts and alternating lighting effects enhancing the visual appeal. There are no extraneous or 'dead' frames to trim, as the action begins immediately and concludes with the final pose."
+    }
+  ]
+}

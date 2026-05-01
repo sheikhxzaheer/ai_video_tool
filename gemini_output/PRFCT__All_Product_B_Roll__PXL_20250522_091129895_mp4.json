@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250522_091129895.mp4",
+  "detailed_description": "The video features a close-up, overhead shot of a hand holding a white and orange product package labeled 'PERFECT MORNING' submerged in clear, rippling water. Sunlight patterns dance across the package and the water's surface, creating a serene and aesthetically pleasing visual. The hand gently releases the package, allowing it to float freely, highlighting the product's presence within a tranquil aquatic environment. The entire sequence serves as a calm and natural visual introduction to the product.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.790",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "product package",
+        "water",
+        "ripples",
+        "sunlight",
+        "underwater",
+        "floating"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear water",
+          "rippling light",
+          "serene",
+          "natural light",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it constitutes the sole 'hero moment' of the video, demonstrating clear product interaction (holding and releasing the package) within an aesthetically pleasing and calming aquatic environment. It effectively introduces the product in a visually engaging manner without any unnecessary frames or dead air."
+    }
+  ]
+}

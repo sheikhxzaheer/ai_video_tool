@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\showcasing.mov",
+  "detailed_description": "This video introduces the 'MoldMD Mold Spot Remover,' a multi-purpose home cleaner designed for mold and mildew stains. The presenter showcases the product's white spray bottle, highlighting its label which emphasizes its eco-friendly nature, safety for all surfaces, and child and pet-safe formulation. The segment visually presents the product and its key benefits through close-ups and human interaction, delivering core information about its features.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.200",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Key_Information",
+        "Macro_Detail",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "white spray bottle",
+        "MoldMD label",
+        "green icons",
+        "hands holding product",
+        "woman",
+        "plant background"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "informative",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "bright lighting",
+          "product-focused"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core. It introduces the product, demonstrates product interaction (holding, presenting, pointing at features), includes a 'talking head' element (woman presenting with positive emotion), and conveys key information from the product label and implied voiceover. Given its short duration and continuous relevant action, the 'no-mistake' rule dictates keeping 100% of the video as it contains no setup, calibration, or post-action dead air."
+    }
+  ]
+}

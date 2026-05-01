@@ -1,0 +1,531 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\ssstik.io_@drelion1712_1770737598975.mp4",
+  "detailed_description": "The video presents a simple, fast, and natural home remedy for intense migraines, addressing symptoms like extreme head pain, dizziness, and nausea. It details the preparation process using two potatoes, VapoRub, and salt, explaining how each ingredient contributes to pain relief by absorbing heat, reducing inflammation, easing tension, clearing airways, and boosting circulation. The video concludes by demonstrating the application of this remedy to the forehead, showcasing the effective and comforting relief it provides from migraine pain.",
+  "segments": [
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:11.750",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Emotional_Climax",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "headache",
+        "pain",
+        "brain throbbing",
+        "light sensitivity",
+        "noise sensitivity",
+        "dizzy",
+        "nauseous",
+        "migraine"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "distressed"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dramatic lighting",
+          "clinical setting",
+          "animation overlay"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'Problem_State' and 'Emotional_Climax' by showing a person suffering from a severe migraine, creating empathy and context for the remedy."
+    },
+    {
+      "start_time": "00:12.000",
+      "end_time": "00:15.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Key_Information",
+        "Workspace_Office",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "doctor",
+        "scientist",
+        "microscope",
+        "brain animation",
+        "home remedy"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright",
+          "modern lab",
+          "graphic overlays"
+        ]
+      },
+      "why_kept": "This segment introduces the promise of a powerful home remedy, setting the stage for the solution without being a mere 'talking head' due to the visual context of the microscope and brain animation."
+    },
+    {
+      "start_time": "00:27.700",
+      "end_time": "00:31.500",
+      "structural_tags": [
+        "Ingredient_Highlight",
+        "Mechanism_Of_Action",
+        "Micro_Nutrients_Anim"
+      ],
+      "visual_keywords": [
+        "hand",
+        "potatoes",
+        "brain animation",
+        "pain absorption",
+        "inflammation reduction"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright",
+          "clean background",
+          "graphic overlays",
+          "transparent anatomy"
+        ]
+      },
+      "why_kept": "This segment highlights a key ingredient (potatoes) and explains its 'Mechanism_Of_Action' through clear visual animation, providing essential information about the remedy's efficacy."
+    },
+    {
+      "start_time": "00:31.900",
+      "end_time": "00:35.700",
+      "structural_tags": [
+        "Ingredient_Highlight",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "animated face",
+        "VapoRub jar",
+        "tension relief",
+        "airway clearance"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright",
+          "clean background",
+          "graphic overlays",
+          "transparent anatomy"
+        ]
+      },
+      "why_kept": "This segment highlights another key ingredient (VapoRub) and its 'Mechanism_Of_Action', visually explaining how it helps with migraine symptoms."
+    },
+    {
+      "start_time": "00:35.800",
+      "end_time": "00:39.500",
+      "structural_tags": [
+        "Ingredient_Highlight",
+        "Mechanism_Of_Action",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "salt",
+        "human body animation",
+        "circulation boost"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright",
+          "kitchen setting",
+          "graphic overlays",
+          "transparent anatomy"
+        ]
+      },
+      "why_kept": "This segment completes the ingredient list with salt and explains its role in boosting circulation, providing a full understanding of the remedy's components."
+    },
+    {
+      "start_time": "00:39.900",
+      "end_time": "00:42.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Home_Kitchen",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "knife",
+        "potato",
+        "cutting board",
+        "cutting"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "practical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "natural wood surface"
+        ]
+      },
+      "why_kept": "This segment initiates the 'Process_Labor' by showing the first step of preparing the remedy, which is cutting the potatoes, clearly demonstrating the action."
+    },
+    {
+      "start_time": "00:42.900",
+      "end_time": "00:46.900",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hand",
+        "VapoRub",
+        "potato halves",
+        "applying",
+        "rubbing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "practical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "natural wood surface"
+        ]
+      },
+      "why_kept": "This segment continues the 'Process_Labor' by showing the application of VapoRub to the potato, highlighting the 'Product_Interaction' and practical steps."
+    },
+    {
+      "start_time": "00:47.000",
+      "end_time": "00:50.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hand",
+        "salt",
+        "potato halves",
+        "sprinkling",
+        "rubbing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "practical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright",
+          "kitchen setting",
+          "natural wood surface"
+        ]
+      },
+      "why_kept": "This segment completes the preparation 'Process_Labor' by showing the addition of salt and rubbing the potato halves, demonstrating the final steps before application."
+    },
+    {
+      "start_time": "00:50.900",
+      "end_time": "00:54.100",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "potatoes",
+        "forehead",
+        "headache",
+        "brain animation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "suffering"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dramatic lighting",
+          "clinical setting",
+          "animation overlay"
+        ]
+      },
+      "why_kept": "This segment shows the direct 'Product_Interaction' of applying the prepared potatoes to the forehead, which is a critical step in the remedy."
+    },
+    {
+      "start_time": "00:54.200",
+      "end_time": "00:57.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Key_Information",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "potatoes",
+        "band",
+        "securing",
+        "15 minutes",
+        "hourglass"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "waiting"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clinical setting",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This segment provides key instructions on securing the potatoes and the duration of application, completing the practical demonstration of the remedy's use."
+    },
+    {
+      "start_time": "00:57.600",
+      "end_time": "01:00.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "brain animation",
+        "potato",
+        "heat",
+        "inflammation",
+        "drawing out"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "scientific",
+          "transparent anatomy",
+          "graphic animation"
+        ]
+      },
+      "why_kept": "This segment uses animation to visually explain the 'Mechanism_Of_Action' of the potatoes in drawing out heat and inflammation, reinforcing their benefit."
+    },
+    {
+      "start_time": "01:00.600",
+      "end_time": "01:03.200",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "brain animation",
+        "VapoRub",
+        "vapor",
+        "breathing",
+        "relaxation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "scientific",
+          "transparent anatomy",
+          "graphic animation"
+        ]
+      },
+      "why_kept": "This segment explains the 'Mechanism_Of_Action' of VapoRub through animation, showing its effect on breathing and relaxation for migraine relief."
+    },
+    {
+      "start_time": "01:03.400",
+      "end_time": "01:06.100",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "brain animation",
+        "salt",
+        "circulation",
+        "relief"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "scientific",
+          "transparent anatomy",
+          "graphic animation"
+        ]
+      },
+      "why_kept": "This segment completes the 'Mechanism_Of_Action' explanations, detailing how salt improves circulation for faster relief, providing a comprehensive understanding."
+    },
+    {
+      "start_time": "01:06.600",
+      "end_time": "01:10.500",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pain dissolving",
+        "comfort",
+        "relief",
+        "facial expression change"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "satisfied",
+          "relieved"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clinical setting",
+          "transformative visual effects"
+        ]
+      },
+      "why_kept": "This is the 'Reveal/Result' segment, showing the 'Result_Transformation' from pain to comfort, making it the most impactful 'Hero Moment' and validating the entire remedy demonstration."
+    },
+    {
+      "start_time": "01:10.800",
+      "end_time": "01:18.400",
+      "structural_tags": [
+        "Offer_CTA",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "brain animation",
+        "comment",
+        "yes",
+        "subscribe",
+        "health remedies"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "informative",
+          "encouraging"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "graphic overlays",
+          "bright blue background"
+        ]
+      },
+      "why_kept": "This segment serves as a clear 'Call to Action', inviting viewer engagement and encouraging continued interaction with the content creator, which is a crucial element for video objectives."
+    }
+  ]
+}

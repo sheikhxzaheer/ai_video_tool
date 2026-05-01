@@ -1,0 +1,149 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_Kiah_poductdemo.mp4",
+  "detailed_description": "This video showcases the QUIA Korean Beauty Collagen Niacinamide Jelly Cream and the Collagen Night Wrapping Mask. It begins with a close-up revealing the vibrant red texture of the jelly cream. The video then transitions to a woman introducing the night mask, demonstrating how to dispense the clear gel product onto an applicator, and concluding with a shot of her wearing the mask, highlighting its application and the serene experience.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.967",
+      "structural_tags": [
+        "Product_Standalone",
+        "Macro_Detail",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "pink jar",
+        "jelly cream",
+        "red cream",
+        "open lid",
+        "Quia Korean Beauty"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean background",
+          "detailed texture"
+        ]
+      },
+      "why_kept": "This segment introduces the brand's product line, showcasing the texture and packaging of a related item, which serves as a visual hook and context builder."
+    },
+    {
+      "start_time": "00:07.033",
+      "end_time": "00:13.433",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink tube",
+        "Quia mask",
+        "smiling",
+        "Collagen Night Wrapping Mask"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clear focus on product and face"
+        ]
+      },
+      "why_kept": "This is the primary product introduction, directly presenting the Collagen Night Wrapping Mask and the person who will demonstrate its use, establishing an emotional connection."
+    },
+    {
+      "start_time": "00:13.633",
+      "end_time": "00:17.333",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "squeezing tube",
+        "clear gel",
+        "applicator brush",
+        "product dispensing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "clinical",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused shot",
+          "detail-oriented",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment vividly demonstrates the process of dispensing the product, highlighting its texture and ease of use, which is a key 'Process/Labor' hero moment."
+    },
+    {
+      "start_time": "00:17.433",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "gel on face",
+        "pink tube",
+        "smiling",
+        "applied mask"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "natural look",
+          "satisfied expression"
+        ]
+      },
+      "why_kept": "This segment serves as the 'Reveal/Result,' showing the product applied to the face and the user's positive emotional reaction, completing the product demonstration cycle."
+    }
+  ]
+}

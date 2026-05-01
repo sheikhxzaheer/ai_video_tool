@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Tired\\Woman\\ssstik.io_@theexecmenopausecoach_1774373581958.mp4",
+  "detailed_description": "This video humorously illustrates the fluctuating and often debilitating energy levels experienced during menopause. A woman initially performs a short, energetic dance, only to suddenly collapse onto a sofa, demonstrating a sudden and profound drop in energy, typical of the fatigue associated with menopause, presented as a relatable meme.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.950",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "dancing",
+        "collapsing",
+        "sofa",
+        "living room",
+        "fatigue",
+        "menopause"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "tired",
+          "humorous"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "simple home setting"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, visually representing the meme 'Energy levels during Menopause be like'. It effectively captures the initial burst of energy followed by a sudden, exaggerated collapse, clearly conveying the message of unpredictable and draining fatigue, which is the core value proposition of the video."
+    }
+  ]
+}

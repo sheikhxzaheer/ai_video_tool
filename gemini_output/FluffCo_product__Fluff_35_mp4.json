@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_35.mp4",
+  "detailed_description": "This video features a person demonstrating the key characteristics of a white pillow within a clean bedroom setting. The individual's hands are shown actively interacting with the pillow, compressing, fluffing, and adjusting it on a bed. The demonstration aims to highlight the pillow's 'ultra-thin' profile while simultaneously emphasizing its continued 'fluffiness' and resilience throughout the night. The visual interaction serves to convey the product's comfort and quality.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.978",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands",
+        "pillow",
+        "bed",
+        "headboard",
+        "duvet",
+        "fluffing",
+        "adjusting",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean aesthetic",
+          "product focus"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it constitutes the complete 'Semantic Core' of the video. It continuously demonstrates the product (a pillow) through direct human interaction, highlighting its key features such as being 'ultra-thin' yet 'fluffy' and flexible, which is the core value proposition of the clip. There are no extraneous frames or dead air."
+    }
+  ]
+}

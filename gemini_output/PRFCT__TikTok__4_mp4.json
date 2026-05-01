@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\TikTok\\4.mp4",
+  "detailed_description": "A woman shares her secret to a perfect morning routine: an electrolyte drink she consumes daily. She highlights how this natural ingredient-based drink has eliminated her bloating, boosted her energy, and reduced her need for coffee. She confidently recommends the product, stating it has changed her life and will do miracles for others.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:44.200",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Product_Intro",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Morning_Routine",
+        "Social_Proof",
+        "Ingredient_Highlight",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "woman",
+        "drink",
+        "glass",
+        "orange beverage",
+        "ice",
+        "product packaging",
+        "kitchen counter"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "positive",
+          "authentic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "casual",
+          "direct address",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as the speaker introduces the product, demonstrates interaction by holding and occasionally sipping the drink, explains its benefits (zero bloating, energy, changed routine), and provides a clear call to action. The product is consistently visible and actively handled, satisfying the 'Visual Priority Rule' and eliminating the need for further trimming."
+    }
+  ]
+}

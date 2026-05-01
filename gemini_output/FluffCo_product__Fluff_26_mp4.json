@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_26.mp4",
+  "detailed_description": "The video showcases a woman experiencing ultimate comfort and relaxation in bed with a white body pillow. Her serene smile and peaceful interaction with the pillow convey a 'five-star escape' feeling, highlighting the product's ability to provide a premium and calming rest experience. The short clip effectively communicates the emotional benefit of enhanced well-being and comfort through product use.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "white bedding",
+        "body pillow",
+        "sleeping",
+        "hugging pillow",
+        "smiling",
+        "relaxation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it perfectly captures the core value proposition of the product: comfort and relaxation. The woman's direct interaction with the body pillow, her positive facial expression (smile), and the overall calm mood visually demonstrate the 'five-star escape' suggested by the text, making it a complete 'Emotional Climax' and 'Product Interaction' hero moment without any setup or dead air."
+    }
+  ]
+}

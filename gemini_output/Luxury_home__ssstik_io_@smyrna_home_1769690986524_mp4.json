@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury home\\ssstik.io_@smyrna_home_1769690986524.mp4",
+  "detailed_description": "This video showcases a modern, minimalist living room with a serene and inviting ambiance. The camera slowly pans across the meticulously designed space, highlighting a large, neutral-toned sectional sofa, two unique coffee tables adorned with candles, and elegant decorative elements. Soft, warm lighting from pendant fixtures and candles enhances the cozy atmosphere, while sheer curtains diffuse natural light from a large window. The overall aesthetic emphasizes calm relaxation and premium interior design.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.680",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Home"
+      ],
+      "visual_keywords": [
+        "living room",
+        "sectional sofa",
+        "coffee tables",
+        "candles",
+        "rug",
+        "window",
+        "sheer curtains",
+        "TV",
+        "shelves",
+        "decorative items",
+        "cat",
+        "pendant lights",
+        "wooden floor"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "relaxing"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "neutral tones",
+          "modern design",
+          "slow pan",
+          "minimalist decor"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core, acting as a continuous 'Reveal/Result' of a beautifully designed living room. The slow, deliberate camera pan effectively showcases the aesthetic, furniture arrangement, and lighting, contributing to a calm and premium mood. There are no discernible setup or post-action dead air frames that would require trimming, as the continuous movement is integral to presenting the full scope of the space."
+    }
+  ]
+}

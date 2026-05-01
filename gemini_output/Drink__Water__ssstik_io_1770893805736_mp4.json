@@ -1,0 +1,79 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Drink\\Water\\ssstik.io_1770893805736.mp4",
+  "detailed_description": "This video humorously depicts a common meme: being told to 'drink some water & calm down.' The woman initially complies by drinking water from a glass, but her expression quickly shifts to one of determination and defiance. She then puts on a light blue boxing glove, signaling her refusal to calm down and her readiness for action or a challenge. The video effectively conveys a playful, energetic response to a suggestion for calmness.",
+  "segments": [
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:04.100",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman drinking water",
+        "glass of water",
+        "blonde hair",
+        "white top"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "neutral"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment shows the initial compliance with the implied instruction to 'drink some water,' setting up the contrast for the subsequent defiant reaction."
+    },
+    {
+      "start_time": "00:04.100",
+      "end_time": "00:09.130",
+      "structural_tags": [
+        "Emotional_Climax",
+        "High_Energy",
+        "Face_Reaction",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "determined expression",
+        "boxing glove",
+        "putting on glove",
+        "blonde hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "defiant"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic movement",
+          "direct gaze",
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This is the core 'punchline' of the meme, demonstrating the woman's defiant and energetic response to the idea of 'calming down' by putting on a boxing glove. It's the climax of the video's narrative."
+    }
+  ]
+}

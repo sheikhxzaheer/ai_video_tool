@@ -1,0 +1,210 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Talking with friend\\ssstik.io_@bookedfortwo_1760039494478.mp4",
+  "detailed_description": "This video captures a vibrant book club meeting, showcasing friends who connected through \"booktok.\" The group is seen enthusiastically debating their current \"problematic summer romance\" read, followed by a fun segment where they each open folded papers to reveal their choice for the next book. The atmosphere is lively, filled with laughter and animated discussions in a cozy bookstore cafe, highlighting the social and engaging aspects of shared reading.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.600",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "women",
+        "book club",
+        "cafe",
+        "talking",
+        "laughing",
+        "bookshelves"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "cozy atmosphere"
+        ]
+      },
+      "why_kept": "Establishes the setting, introduces the group, and sets the positive mood of the book club meeting, with text overlays providing essential context."
+    },
+    {
+      "start_time": "00:09.600",
+      "end_time": "00:11.700",
+      "structural_tags": [
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "book",
+        "table",
+        "drinks",
+        "stickers",
+        "bookmarks"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "warm tones"
+        ]
+      },
+      "why_kept": "Highlights the specific book being discussed, serving as a visual interlude that supports the central theme of the book club."
+    },
+    {
+      "start_time": "00:11.700",
+      "end_time": "00:13.200",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "women",
+        "laughing",
+        "cafe"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "Briefly reinforces the social and joyful aspect of the book club before transitioning into the detailed discussion."
+    },
+    {
+      "start_time": "00:13.200",
+      "end_time": "00:27.700",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active",
+        "The_Process_Labor"
+      ],
+      "visual_keywords": [
+        "women",
+        "talking",
+        "gesturing",
+        "debating",
+        "books",
+        "drinks",
+        "cafe"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera movement",
+          "animated discussion"
+        ]
+      },
+      "why_kept": "This segment is a core 'hero moment' demonstrating the primary activity of a book club: members actively discussing and debating the chosen book, showcasing their engagement and diverse opinions."
+    },
+    {
+      "start_time": "00:27.700",
+      "end_time": "00:30.900",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "women",
+        "taking photos",
+        "laughing",
+        "cafe"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "casual interaction"
+        ]
+      },
+      "why_kept": "Highlights the spontaneous social bonding and fun aspects of the book club, complementing the more formal discussion."
+    },
+    {
+      "start_time": "00:30.900",
+      "end_time": "00:54.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "The_Process_Labor"
+      ],
+      "visual_keywords": [
+        "women",
+        "opening paper",
+        "reading",
+        "reacting",
+        "smiling",
+        "books",
+        "cafe"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "individual reactions",
+          "anticipation"
+        ]
+      },
+      "why_kept": "Captures another essential 'hero moment' of a book club: the democratic and fun process of selecting the next book, showing individual engagement and excitement as they reveal their choices."
+    }
+  ]
+}

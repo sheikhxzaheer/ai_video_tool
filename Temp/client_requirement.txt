@@ -1,0 +1,46 @@
+I am looking for an experienced Python Developer to build a specialized tool for automating video editing workflows. The goal is to create a desktop application (macOS) that segments voiceovers, generates semantic tags for footage, and exports a ready-to-use Adobe Premiere Pro XML project.
+
+The Workflow:
+Audio Alignment:  a texTake a pre-recorded voiceover andt script, then perform forced alignment (word-level timestamps) using stable-ts or OpenAI Whisper.
+
+AI Semantic Tagging: Use Gemini 1.5 Flash API to analyze text segments and generate visual tags based on a "Golden Standard" (a reference database of 50 successful video hooks).
+
+Vector Search (The "Spotify" Method): Match the generated tags with a local library of video footage using Vector Embeddings and Cosine Similarity (ChromaDB or similar).
+
+Logic & Penalties: Implement a system to avoid footage repetition and ensure high-paced visual variety.
+
+Premiere Pro Export: Generate a Final Cut Pro XML (compatible with Premiere) that includes the voiceover and all matched footage cut to the correct timestamps.
+
+GUI: A clean, minimalist desktop interface (CustomTkinter or Streamlit).
+
+Ky Requirements:
+Expertise in Python (Asyncio is a must for performance).
+Deep experience with FFmpeg and audio/video processing.
+Experience with LLMs (Gemini/OpenAI) and Prompt Engineering (RAG / Few-shot prompting).
+Knowledge of Vector Databases (ChromaDB, Pinecone, or FAISS).
+Experience generating XML/EDL for video editors.
+Ability to optimize for speed (Goal: 2 mins processing for a 1.5-min video).e
+
+Timeline: 2 weeks (Sprint).
+
+Hello Arpit, Thanks for the detailed breakdown. After discussing this with my team, we’ve decided to move forward with you. We are ready to trust your expertise to bring this tool to life. 
+
+I will prepare the "Winners" dataset (scripts + example footage) and our general library for you by Monday. However, before I send the offer, I’d like to confirm three final points to ensure we are perfectly aligned: 
+    The 3-Minute Goal: 
+        Our core requirement is speed. For a 1.5-minute video, the local workflow (Audio Alignment -> Semantic Tagging -> Vector Search -> XML Export) must take less than 3 minutes. I understand social media searching will take longer, but the local matching must be optimized for this speed. Can you confirm this is achievable with your architecture? 
+
+    Standalone macOS App: 
+        I want to ensure this will be a standalone Python application with a GUI that runs locally on my Mac. I am not looking for an n8n web-service or a tool that requires monthly subscriptions to third-party automation platforms. Is that correct? 
+    
+    Data Privacy & IP: 
+        The "winners" and the footage I provide are part of our company's unique strategy. I need your word that all data and the final source code will remain strictly confidential and will not be shared or reused for other clients. Regarding the Social Media Search: Let’s prioritize the Local Library Matching first as 
+
+Phase 1. Once the core engine is working perfectly, we can refine the social media retrieval. Proposed Milestones: To keep things structured, I’d like to set up the project with 3 milestones: 
+
+Milestone 1: Script analysis and Audio-to-Text alignment (JSON output) - (150$) 
+
+Milestone 2: Vector Search engine & Semantic matching logic. - (200$) 
+
+Milestone 3: XML Export for Premiere Pro and final GUI. - (150$) 
+
+Let me know if this works for you, and I’ll send the offer so we can start on Monday! Best regards, Roman

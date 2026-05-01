@@ -1,0 +1,180 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great belly\\ssstik.io_@bendwithsofia_1774537589777.mp4",
+  "detailed_description": "This video demonstrates four specific stretches designed to alleviate bloating. The creator introduces the topic by holding her phone in front of her midsection, then proceeds to expertly perform each stretch: Cat Cow, Puppy Pose, Spinal Twist, and Plow. Each exercise is clearly identified with an on-screen text overlay and an accompanying icon, guiding the viewer through a simple and effective routine for digestive comfort.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:02:450",
+      "structural_tags": [
+        "Visual_Hook",
+        "Key_Information",
+        "Calm_Relaxation",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "phone",
+        "mirror selfie",
+        "text overlay",
+        "abs",
+        "sweatpants",
+        "white tank top"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "minimalist decor",
+          "mirror shot"
+        ]
+      },
+      "why_kept": "This segment serves as the visual hook and clearly states the video's purpose, setting the context for the stretches that follow. It's the primary introduction to the content."
+    },
+    {
+      "start_time": "00:02:450",
+      "end_time": "00:05:950",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Lifestyle_Active",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "cat cow pose",
+        "stretching",
+        "yoga",
+        "carpet"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "demonstration",
+          "clear movement"
+        ]
+      },
+      "why_kept": "This segment demonstrates the first key stretch ('Cat Cow') against bloating, which is a core action of the video's educational content."
+    },
+    {
+      "start_time": "00:05:950",
+      "end_time": "00:09:900",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Lifestyle_Active",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "puppy pose",
+        "stretching",
+        "yoga",
+        "carpet"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "demonstration",
+          "clear movement"
+        ]
+      },
+      "why_kept": "This segment demonstrates the second key stretch ('Puppy Pose'), directly contributing to the video's central theme of anti-bloating exercises."
+    },
+    {
+      "start_time": "00:09:900",
+      "end_time": "00:12:400",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Lifestyle_Active",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "spinal twist",
+        "stretching",
+        "yoga",
+        "carpet"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "demonstration",
+          "clear movement"
+        ]
+      },
+      "why_kept": "This segment shows the third stretch ('Spinal Twist'), essential for illustrating the complete set of exercises presented in the video."
+    },
+    {
+      "start_time": "00:12:400",
+      "end_time": "00:16:000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Lifestyle_Active",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "plow pose",
+        "stretching",
+        "yoga",
+        "carpet"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "demonstration",
+          "clear movement"
+        ]
+      },
+      "why_kept": "This segment concludes the demonstration of the four anti-bloating stretches, showing the 'Plow' pose and completing the core educational content."
+    }
+  ]
+}

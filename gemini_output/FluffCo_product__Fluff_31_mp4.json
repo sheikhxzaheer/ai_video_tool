@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_31.mp4",
+  "detailed_description": "The video captures a serene moment of a woman waking up, transitioning from sleep to a gentle, happy smile while still in bed. It focuses on her peaceful facial expression as she slowly opens her eyes, conveying a sense of calm and positive emotion. The scene depicts a quiet morning routine.",
+  "segments": [
+    {
+      "start_time": "00:00.650",
+      "end_time": "00:01.500",
+      "structural_tags": [
+        "Morning_Routine",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "waking up",
+        "smiling",
+        "bed",
+        "pillow",
+        "eyes opening"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "soft focus"
+        ]
+      },
+      "why_kept": "This segment is the emotional climax of the video, showcasing a clear facial expression of satisfaction and positive emotion as the woman gently wakes up and smiles. It perfectly fits the criteria for a 'Morning_Routine' and 'Positive_Emotion' hero moment."
+    }
+  ]
+}

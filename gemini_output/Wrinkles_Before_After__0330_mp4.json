@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Wrinkles Before_After\\0330.mp4",
+  "detailed_description": "The video presents a concise 'before and after' demonstration focusing on a woman's forehead. It opens with her highlighting visible wrinkles, verbalizing a 'problem state' with her forehead. This quickly transitions into a 'result transformation' where her forehead appears smooth and unlined, prompting a visibly positive emotional reaction and satisfaction expressed through a smile.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.400",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation",
+        "Before_After",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "blonde hair",
+        "blue eyes",
+        "forehead wrinkles",
+        "smooth forehead",
+        "smiling",
+        "car interior",
+        "talking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "serious",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "direct address",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it seamlessly showcases a complete 'before and after' transformation of forehead wrinkles. It effectively establishes the 'problem state' with the initial visual and spoken word, followed by a clear 'result transformation' and a strong 'positive emotional reaction' from the subject, fulfilling the criteria for a compelling reveal without any extraneous footage."
+    }
+  ]
+}

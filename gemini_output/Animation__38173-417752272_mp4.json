@@ -1,0 +1,41 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\38173-417752272.mp4",
+  "detailed_description": "The video provides a detailed 3D animation illustrating the intricate flow of various blood components, including red blood cells, white blood cells, and smaller particles, within a blood vessel. It offers a continuous microscopic perspective of the circulatory system's dynamic environment. The visualization emphasizes the movement and interaction of these cells as they navigate through the vessel, highlighting the fundamental biological processes occurring within the bloodstream.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.750",
+      "structural_tags": [
+        "Micro_Nutrients_Anim",
+        "Cellular_Deep_Dive",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "blood cells",
+        "red blood cells",
+        "white blood cells",
+        "blood vessel",
+        "cellular movement",
+        "animation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "microscopic view",
+          "dynamic camera movement"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it continuously demonstrates the core action and visual information: the animated flow of blood cells through a vessel. It represents a continuous 'Process/Labor' hero moment, showcasing complex biological movement without any 'setup' or 'post-action' dead air."
+    }
+  ]
+}

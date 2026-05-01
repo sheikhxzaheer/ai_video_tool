@@ -1,0 +1,108 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Gym\\Weird\\ssstik.io_@needtoknow_ntk_1763103992704.mp4",
+  "detailed_description": "This video showcases a muscular man performing a series of challenging and unconventional strength and calisthenics exercises in a gym. It features him doing inverted pull-ups while hanging from a large tire, performing assisted dips on a machine with added weight, and engaging in an intense upper body workout on a modified stationary bike. The video emphasizes dedication to rigorous physical training and pushing boundaries with varied gym routines, highlighting the process of intense labor.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.109",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "High_Energy",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "gym",
+        "large tire",
+        "inverted pull-up",
+        "strength training",
+        "calisthenics",
+        "green mat"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "rugged",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": "dynamic camera, bright lighting, strong visual hook"
+      },
+      "why_kept": "This segment is visually striking and immediately grabs attention with a unique and difficult exercise, clearly demonstrating 'The Process/Labor' and setting the tone for intense training. It is the most impactful 'hero moment'."
+    },
+    {
+      "start_time": "00:05.109",
+      "end_time": "00:10.989",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "High_Energy",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "gym",
+        "dip machine",
+        "weighted dips",
+        "strength training",
+        "black walls"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": "stable shot, good lighting, focused action"
+      },
+      "why_kept": "This segment reinforces the theme of intense strength training and 'The Process/Labor' with another challenging bodyweight exercise, complementing the anchor segment's focus on rigorous training."
+    },
+    {
+      "start_time": "00:10.989",
+      "end_time": "00:16.489",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "High_Energy",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "gym",
+        "stationary bike",
+        "modified exercise",
+        "upper body workout",
+        "strength training",
+        "GRIND 365 sign"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": "stable shot, bright lighting, full body view"
+      },
+      "why_kept": "This segment further demonstrates the variety and intensity of the man's workout, showcasing 'The Process/Labor' with another demanding and unconventional exercise, supporting the overall narrative of dedicated training."
+    }
+  ]
+}

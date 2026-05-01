@@ -1,0 +1,134 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Makeup_artist\\ssstik.io_@alexisoakleyy_1761835389090.mp4",
+  "detailed_description": "This video captures the intricate process of creating the 'classic Alexis Oakley beat' makeup look on Tana Mongeau. It strategically opens with a quick visual hook showcasing the glamorous final result, immediately setting the tone. The core of the video then unfolds, illustrating the detailed application of makeup, including eye shadow, contouring, and lip products, alongside professional hair styling. Tana's authentic reactions and engagement are highlighted throughout the transformation, concluding with a full reveal of her stunning, completed look.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.365",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "full makeup",
+        "blonde hair",
+        "exaggerated expression",
+        "lip gloss"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "glamorous",
+          "dynamic"
+        ]
+      },
+      "why_kept": "This segment serves as an immediate visual hook, showcasing the captivating final result and setting the context for the transformation that will follow. It captures an 'after' state effectively."
+    },
+    {
+      "start_time": "00:01.365",
+      "end_time": "00:25.999",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "The_Process/Labor",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Home_Kitchen",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "makeup application",
+        "hair styling",
+        "eyeshadow",
+        "eyeliner",
+        "contouring",
+        "lip liner",
+        "lashes",
+        "brushes",
+        "curling iron",
+        "makeup artist",
+        "hair stylist",
+        "woman in chair",
+        "eye patches",
+        "phone"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "vlog style",
+          "detailed process"
+        ]
+      },
+      "why_kept": "This is the primary segment demonstrating the 'Process/Labor' and expertise of the makeup and hair artists. It showcases the detailed application of various products and tools, making it the core 'doing the work' part of the video and central to the semantic core."
+    },
+    {
+      "start_time": "00:26.000",
+      "end_time": "00:29.070",
+      "structural_tags": [
+        "Result_Transformation",
+        "Reveal_Result",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman with full makeup",
+        "styled hair",
+        "smiling",
+        "posing",
+        "white tank top"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "glamorous",
+          "confident",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "polished look",
+          "final product"
+        ]
+      },
+      "why_kept": "This segment provides a clear and compelling 'Reveal/Result' of the complete makeup and hair transformation, serving as the payoff for the preceding process. It shows the successful outcome of the demonstrated expertise."
+    }
+  ]
+}

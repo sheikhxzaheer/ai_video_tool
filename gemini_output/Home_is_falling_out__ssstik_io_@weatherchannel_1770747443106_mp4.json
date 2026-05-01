@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Home is falling out\\ssstik.io_@weatherchannel_1770747443106.mp4",
+  "detailed_description": "This video captures the dramatic moment a house, already teetering precariously on a slope due to heavy rain, collapses entirely into a ravine below. The incident, caused by a landslide in a northern province of the Philippines, also shows a cracked road nearby, indicative of widespread ground instability. The house had been evacuated, ensuring no injuries, while nearby families were also moved to safety. The footage provides a stark visual of the destructive power of monsoon rains and thunderstorms on infrastructure and homes.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:23.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation",
+        "Shock_Surprise",
+        "Human_Interaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "house",
+        "landslide",
+        "collapsing",
+        "rain",
+        "cracked road",
+        "debris",
+        "dust",
+        "trees",
+        "person",
+        "umbrella",
+        "phone",
+        "filming"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "street",
+          "nature"
+        ],
+        "mood": [
+          "serious",
+          "shocking"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "rainy",
+          "shaky cam",
+          "natural light",
+          "real-time event"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, showcasing the complete narrative of the house collapse. It effectively captures the 'Visual_Hook' of the teetering house, the 'Problem_State' caused by the landslide and cracked road, the dramatic 'Result_Transformation' as the house crumbles, and the 'Shock_Surprise' of the event. The inclusion of a person filming adds 'Human_Interaction' and grounds the event in a real-world context, while the overall scene conveys 'Negative_Emotion' of destruction. The voiceover provides essential context, describing the visual actions without being a 'talking head' that distracts from the main event, thus adhering to the visual priority rule."
+    }
+  ]
+}

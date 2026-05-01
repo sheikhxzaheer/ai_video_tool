@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250522_091107069.mp4",
+  "detailed_description": "The video opens with a hand gently placing a white and orange product package into crystal-clear, rippling water. The package is briefly submerged before the hand releases it, allowing it to float freely on the water's surface. The scene highlights the product's interaction with its environment, showcasing its buoyancy and distinct appearance as it drifts in the serene aquatic setting. The clarity of the water emphasizes the natural backdrop.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:04.03",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "hand",
+        "package",
+        "water",
+        "ripples",
+        "floating",
+        "clear water"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "nature",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "serene"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "rippling water effect",
+          "clear water"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it demonstrates the product being introduced to water by a hand, its release, and its subsequent floating, clearly showcasing product interaction and its physical properties in a natural environment. It serves as the complete 'Process/Labor' and 'Product Interaction' hero moment for this video."
+    }
+  ]
+}

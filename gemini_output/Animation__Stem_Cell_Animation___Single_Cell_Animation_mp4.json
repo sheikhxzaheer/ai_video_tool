@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\Stem Cell Animation _ Single Cell Animation.mp4",
+  "detailed_description": "This video, created by SingleCell Medical Animation, provides a detailed 3D animated microscopic view of cellular activity. It showcases several blue, spherical cells interacting with a background of larger, more rectangular green and brown cells. The blue cells are depicted undergoing various transformations, including budding, dividing, and changing shape as they move and interact with their environment. The animation visually explains complex biological processes, focusing on the dynamic nature of cellular functions at a microscopic level, suitable for medical and scientific educational contexts.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:18.069",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Micro_Nutrients_Anim",
+        "Cellular_Deep_Dive",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "cell division",
+        "cellular interaction",
+        "microscopic view",
+        "blue cells",
+        "green cells",
+        "brown cells",
+        "3D animation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "medical visualization",
+          "biological process"
+        ]
+      },
+      "why_kept": "This entire segment represents the core value and action of the video, which is to visually demonstrate cellular processes through medical animation. There are no setup frames, dead air, or irrelevant sections that need trimming according to the rules."
+    }
+  ]
+}

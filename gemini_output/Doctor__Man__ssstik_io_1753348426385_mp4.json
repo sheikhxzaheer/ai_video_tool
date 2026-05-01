@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Man\\ssstik.io_1753348426385.mp4",
+  "detailed_description": "The video features Professor Dr. Derk Krieger, a Consultant Neurologist, introducing himself and his extensive experience in the field. He highlights his 30 years of expertise and 7 years practicing in Dubai, working across various clinics and hospitals. Dr. Krieger outlines his primary interests, including stroke, cerebrovascular disease, and degenerative conditions such as Alzheimer's and Parkinson's. He also mentions treating headaches and neuro-immunological diseases like multiple sclerosis, inviting both inpatients and outpatients to consult his profile for further details.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:01:03.492",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "man",
+        "doctor",
+        "neurologist",
+        "white lab coat",
+        "NMC logo",
+        "office chair",
+        "white wall",
+        "microphone"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "professional",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "static camera",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment is the entirety of the video and serves as the primary 'Key Information' moment. The speaker, a consultant neurologist, directly addresses the audience, introducing himself, detailing his vast experience, outlining his areas of specialization, and offering a clear call to action. Despite being a 'talking head' without overt product interaction, the information conveyed constitutes the core value and expertise being presented, which is the semantic core of this particular video."
+    }
+  ]
+}

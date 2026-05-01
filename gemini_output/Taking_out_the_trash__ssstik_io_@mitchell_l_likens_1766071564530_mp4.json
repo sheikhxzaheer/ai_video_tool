@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Taking out the trash\\ssstik.io_@mitchell_l_likens_1766071564530.mp4",
+  "detailed_description": "This video captures a relatable 'hero moment' for many parents: the brief, peaceful minute experienced while taking out the trash. A woman steps outside, leaving behind the sounds of her children and a cartoon on TV, to enjoy a moment of quiet solitude as she walks to the trash bins. She smiles, savoring the calm, only for the sounds of her busy household to return immediately as she re-enters the house. The video effectively highlights the small, cherished breaks in a chaotic day.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.333",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Home_Kitchen",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "Woman",
+        "trash bag",
+        "door",
+        "pathway",
+        "garage",
+        "trash cans",
+        "smile",
+        "kids' voices",
+        "cartoon on TV"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "outdoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "relatable",
+          "slice of life"
+        ]
+      },
+      "why_kept": "This entire segment forms the semantic core of the video, illustrating the 'most peaceful minute' as described. It begins with the woman escaping the noise, shows her enjoying the quiet while performing a chore, and concludes with the immediate return to the noisy environment, creating a complete and highly relatable narrative."
+    }
+  ]
+}

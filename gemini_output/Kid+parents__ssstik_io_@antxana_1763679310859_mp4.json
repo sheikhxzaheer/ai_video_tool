@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid+parents\\ssstik.io_@antxana_1763679310859.mp4",
+  "detailed_description": "This video humorously captures a 'point of view' of what it's like to be boy parents. A couple, dressed in bathrobes, attempts to have a moment in their bright bedroom, but their two energetic young sons, dressed in matching pajamas, quickly turn it into a playful, chaotic scene. The boys climb, pull at their father's hair and clothes, eventually leading to him gently falling to the floor, all while the mother watches with an amused, loving smile. The entire segment showcases the lively and demanding, yet joyful, reality of parenting young boys, acting as a complete emotional climax and process demonstration.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Morning_Routine",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "parents",
+        "toddlers",
+        "dancing",
+        "playing",
+        "bathrobes",
+        "pajamas",
+        "bedroom",
+        "ocean view",
+        "ceiling fan"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "ocean"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright natural light",
+          "home video style"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core of the video, effectively demonstrating the 'pov: you're boy parents' concept through continuous, authentic human interaction, playful chaos, and the parents' amused emotional reactions. It requires no trimming as the action starts immediately and concludes naturally, fulfilling the 'no-mistake' rule."
+    }
+  ]
+}

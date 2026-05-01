@@ -1,0 +1,71 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Result\\CNWM_Kristina Klimenova_03_CrustyOfficeAir.MOV",
+  "detailed_description": "This video captures a woman excitedly sharing her discovery of a Korean beauty product that transformed her skin. She introduces the 'AUIA Collagen Night Wrapping Mask,' which has significantly improved her skin's appearance, making it glow and feel plump. The woman showcases her healthy, radiant skin, expressing increased confidence at work, and encourages viewers to try the product for themselves to achieve similar results.",
+  "segments": [
+    {
+      "start_time": "01:23.000",
+      "end_time": "01:27.700",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman, holding pink tube, beauty product, collagen mask"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "influencer style"
+        ]
+      },
+      "why_kept": "This segment introduces the core product of the video, showing it clearly to the viewer. This is a crucial 'Product Interaction' and 'Product Intro' hero moment, directly presenting the solution to the problem discussed previously."
+    },
+    {
+      "start_time": "01:42.800",
+      "end_time": "01:59.800",
+      "structural_tags": [
+        "Result_Transformation",
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "UGC_Talking_Head",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman, touching face, glowing skin, confident smile"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "confident",
+          "happy",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "influencer style"
+        ]
+      },
+      "why_kept": "This segment is a 'Reveal/Result' hero moment, showcasing the direct positive impact of the product on her skin. Her facial expressions convey the 'Emotional Climax' of feeling confident and glowing, reinforcing the product's effectiveness."
+    }
+  ]
+}

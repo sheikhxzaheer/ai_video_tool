@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Yoga\\ssstik.io_@christieknightyoga_1768401708926.mp4",
+  "detailed_description": "This video showcases a tranquil yoga flow performed by a woman on a sandy beach during a picturesque sunrise or sunset. Silhouetted against the warm hues of the sky and the vast ocean, she moves gracefully through a series of dynamic and restorative yoga poses. The gentle ebb and flow of the waves provide a natural backdrop, enhancing the overall sense of peace and mindfulness. The entire sequence emphasizes the practice of yoga as a form of active meditation and a way to connect with nature.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:37.020",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "yoga",
+        "yoga poses",
+        "beach",
+        "ocean",
+        "sunrise",
+        "sunset",
+        "silhouette",
+        "sand",
+        "yoga mat"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "ocean",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "serene"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "silhouette",
+          "golden hour",
+          "serene",
+          "ambient"
+        ]
+      },
+      "why_kept": "The entire video is a continuous, professionally edited demonstration of a yoga flow, fulfilling the 'Process/Labor' hero moment criterion. The video starts and ends with the core action without any setup or post-action dead air, making its full duration the semantic core as per the 'No-Mistake Rule'."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Woman\\5752729-uhd_3840_2160_30fps.mp4",
+  "detailed_description": "This video captures a focused female scientist in a laboratory setting, dressed in a protective lab coat, yellow safety glasses, and gloves. She is intently observing specimens through a microscope, demonstrating a key process of scientific research and analysis. The lighting creates a clinical yet dynamic atmosphere, highlighting the serious and dedicated nature of her work.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.117",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "woman",
+        "scientist",
+        "lab coat",
+        "yellow safety glasses",
+        "yellow gloves",
+        "microscope",
+        "laboratory",
+        "research",
+        "focus",
+        "scientific work"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "blue lighting",
+          "backlit",
+          "focused aesthetic",
+          "scientific"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it perfectly encapsulates the 'PROCESS/LABOR' hero moment, showing a scientist actively engaged in research with a microscope, which is the core action and value being demonstrated. There are no extraneous frames before or after the main action."
+    }
+  ]
+}

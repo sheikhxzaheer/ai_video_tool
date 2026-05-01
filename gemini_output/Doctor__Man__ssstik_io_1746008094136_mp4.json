@@ -1,0 +1,168 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Man\\ssstik.io_1746008094136.mp4",
+  "detailed_description": "This comedic sketch portrays a plastic surgeon with severe anger management issues. The video highlights his volatile temper through various exaggerated interactions, from shouting at a patient for indecisiveness about breast implant sizes to violently throwing medical implants in frustration. The climax of his uncontrolled rage is shown when he mocks a patient's pain during an injection, then demonstrates by repeatedly jabbing himself in the forehead with the needle, causing blood and screaming in a shocking display of self-harm. The video humorously exaggerates the potential nightmare scenario of a short-tempered medical professional, emphasizing the 'anger management problem' with each over-the-top reaction.",
+  "segments": [
+    {
+      "start_time": "00:04.225",
+      "end_time": "00:05.150",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "High_Energy",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "doctor yelling",
+        "angry expression",
+        "grimacing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "office",
+          "clinical"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "quick cut",
+          "comedic timing",
+          "exaggerated reaction"
+        ]
+      },
+      "why_kept": "This segment immediately establishes the central premise of the surgeon's anger management problem with a clear facial expression and verbal outburst, serving as the initial 'Problem State'."
+    },
+    {
+      "start_time": "00:09.683",
+      "end_time": "00:12.720",
+      "structural_tags": [
+        "Product_Interaction",
+        "Problem_State",
+        "Negative_Emotion",
+        "High_Energy",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "patient holding breast implants",
+        "doctor yelling",
+        "angry face",
+        "consultation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office",
+          "clinical"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "comedic interaction",
+          "exaggerated reaction"
+        ]
+      },
+      "why_kept": "This segment demonstrates the surgeon's anger and lack of patience directly related to a patient's decision on a medical product (breast implants), highlighting the 'anger management problem' in a professional context."
+    },
+    {
+      "start_time": "00:13.633",
+      "end_time": "00:16.883",
+      "structural_tags": [
+        "Process_Labor",
+        "Malfunction_Fail",
+        "Negative_Emotion",
+        "High_Energy",
+        "Product_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "doctor wearing gloves",
+        "struggling with implant",
+        "throwing implant",
+        "yelling",
+        "door impact"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office",
+          "clinical"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "comedic violence",
+          "exaggerated frustration"
+        ]
+      },
+      "why_kept": "This segment illustrates the surgeon's extreme frustration and physical outburst when encountering a simple procedural difficulty with a medical product, showcasing his inability to manage anger during a task ('Process/Labor')."
+    },
+    {
+      "start_time": "00:17.900",
+      "end_time": "00:22.750",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Problem_State",
+        "Negative_Emotion",
+        "Shock_Surprise",
+        "Human_Interaction",
+        "Process_Labor",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "doctor injecting patient",
+        "patient wincing",
+        "doctor self-injecting",
+        "blood",
+        "doctor yelling",
+        "patient reaction",
+        "syringe"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office",
+          "clinical"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "playful",
+          "shocking"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "graphic detail",
+          "comedic shock",
+          "exaggerated self-harm"
+        ]
+      },
+      "why_kept": "This is the definitive 'hero moment' of the video, showcasing the peak of the surgeon's anger management issue through a shocking and comically violent self-demonstration using a medical instrument, leading to a clear emotional climax and significant visual impact."
+    }
+  ]
+}

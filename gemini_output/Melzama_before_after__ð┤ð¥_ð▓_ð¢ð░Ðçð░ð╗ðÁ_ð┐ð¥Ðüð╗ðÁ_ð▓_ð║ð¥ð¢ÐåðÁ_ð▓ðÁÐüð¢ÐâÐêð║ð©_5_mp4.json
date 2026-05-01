@@ -1,0 +1,118 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\ð┤ð¥ ð▓ ð¢ð░Ðçð░ð╗ðÁ ð┐ð¥Ðüð╗ðÁ ð▓ ð║ð¥ð¢ÐåðÁ ð▓ðÁÐüð¢ÐâÐêð║ð© 5.mp4",
+  "detailed_description": "This video effectively demonstrates the skin transformation achieved through an IPL (Intense Pulsed Light) treatment. It begins by showcasing the subject's skin with visible dark spots and redness, establishing the 'before' state. The video then transitions to an intermediate stage on 'Day 5,' where the dark spots have risen to the surface, illustrating the treatment's active process. Finally, it culminates in a 'Day 7' reveal, presenting significantly clearer and smoother skin, highlighting the successful outcome and the subject's positive emotional response to the results.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "redness",
+        "dark spots",
+        "freckles",
+        "glasses",
+        "car interior",
+        "skin condition"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment establishes the critical 'before' state of the skin, clearly showing the problem (dark spots, redness) that the IPL treatment aims to resolve. It sets the baseline for the subsequent transformation."
+    },
+    {
+      "start_time": "00:05.500",
+      "end_time": "00:08.800",
+      "structural_tags": [
+        "Result_Transformation",
+        "Mechanism_Of_Action",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "darkened spots",
+        "skin healing",
+        "freckles",
+        "indoor setting",
+        "hair adjustment"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "observational"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "soft focus background"
+        ]
+      },
+      "why_kept": "This segment illustrates the intermediate healing process on 'Day 5,' where the dark spots have risen to the skin's surface. It's crucial for showing the unique mechanism of action of IPL treatment before the final flaking off."
+    },
+    {
+      "start_time": "00:08.800",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Before_After",
+        "Face_Reaction",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "woman",
+        "clear skin",
+        "smooth skin",
+        "smiling",
+        "bright makeup",
+        "hair styling",
+        "indoor setting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "positive",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "vibrant colors",
+          "natural lighting",
+          "confident pose"
+        ]
+      },
+      "why_kept": "This is the ultimate 'reveal' segment, showcasing the final, significant improvement in the subject's skin after the IPL treatment. Her positive facial expression and clear skin effectively communicate the success and value of the treatment, serving as the primary 'after' visual."
+    }
+  ]
+}

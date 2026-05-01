@@ -1,0 +1,118 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melazma\\ssstik.io_@drwasimmarwat156_1761084309947.mp4",
+  "detailed_description": "This video vividly demonstrates a dramatic skin transformation. It begins with a 'before' shot showcasing a man's face with noticeable pigmentation and acne. This is followed by an 'after' segment where the same man exhibits significantly clearer and smoother skin, with a professional making a final assessment. The video culminates with the man providing a personal testimonial, expressing his profound satisfaction with the treatment, highlighting his now blemish-free complexion, and advocating for seeking professional care for similar issues.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man",
+        "face",
+        "acne",
+        "pigmentation",
+        "skin issues",
+        "before shot"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "well-lit",
+          "clean background",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state, visually illustrating the skin problems and setting up the transformation, which is crucial for the semantic core of a 'before/after' narrative."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:07.900",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "clear skin",
+        "doctor",
+        "face check",
+        "after shot"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "satisfied",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "professional setting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This is the 'after' segment, directly showcasing the successful outcome of the skin treatment. It's the primary visual evidence of the transformation, making it the anchor of the video's core message."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:33.900",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Social_Proof",
+        "Key_Information",
+        "Positive_Emotion",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "man",
+        "speaking",
+        "testimonial",
+        "satisfied expression",
+        "clear skin",
+        "clinic background"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "confident",
+          "happy",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clean background",
+          "direct address to camera"
+        ]
+      },
+      "why_kept": "This segment provides verbal social proof and key information directly from the treated individual. He explains the positive results, expresses satisfaction, and implicitly gives a call to action, strongly reinforcing the visual transformation shown earlier."
+    }
+  ]
+}

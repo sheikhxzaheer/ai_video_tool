@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury home\\ssstik.io_1766738794804.mp4",
+  "detailed_description": "This video presents a captivating visual tour of a luxurious, modern apartment or penthouse. Each scene showcases different rooms, including a spacious living area, a cozy lounge, a sophisticated home office, an elegant bedroom, and a spa-like bathroom. The interiors are characterized by sleek, contemporary design, often featuring dark wood accents, gleaming marble floors with intricate patterns, ambient strip lighting, and large floor-to-ceiling windows offering stunning panoramic city views. The overall aesthetic is one of high-end sophistication and comfort, designed to impress and relax.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.450",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Result_Transformation",
+        "Calm_Relaxation",
+        "Premium"
+      ],
+      "visual_keywords": [
+        "luxury interiors",
+        "city skyline",
+        "marble floors",
+        "modern furniture",
+        "ambient lighting",
+        "large windows",
+        "contemporary design",
+        "penthouse"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "contemporary design",
+          "dark tones",
+          "reflective surfaces",
+          "strip lighting",
+          "city view"
+        ]
+      },
+      "why_kept": "The entire video serves as a continuous showcase of luxurious, well-designed interiors with stunning city views, directly aligning with the 'Reveal/Result' and 'Aesthetic_Broll' hero moment criteria. Each segment reveals a different beautifully styled room. There are no extraneous frames or non-core content to trim, adhering to the 'No-Mistake Rule' as the entire video is the 'action' of displaying these spaces."
+    }
+  ]
+}

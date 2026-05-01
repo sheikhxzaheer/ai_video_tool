@@ -1,0 +1,223 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Gym\\Woman\\ssstik.io_@madimilne__1770894058733.mp4",
+  "detailed_description": "The video showcases a comprehensive leg and glute workout routine designed for individuals new to the gym. It features a woman demonstrating five key exercises: goblet squats, bodyweight squats, dumbbell hip thrusts, kettlebell Romanain Deadlifts (RDLs), and leg extensions. Each exercise is presented with clear on-screen text indicating the name and recommended repetitions/sets. The video emphasizes proper form and provides a practical guide for beginners to effectively train lower body muscles with basic gym equipment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Key_Information",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "gym",
+        "kettlebell",
+        "text overlay",
+        "workout introduction"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean gym",
+          "good lighting",
+          "fitness focus"
+        ]
+      },
+      "why_kept": "This segment serves as the visual hook and introduction, setting the context for the workout routine aimed at gym newcomers."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:07.100",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Lifestyle_Active",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "gym",
+        "kettlebell",
+        "goblet squats",
+        "exercise demonstration"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear form",
+          "dynamic movement"
+        ]
+      },
+      "why_kept": "Demonstrates the first specific exercise (goblet squats) with proper form, crucial for the workout tutorial."
+    },
+    {
+      "start_time": "00:07.200",
+      "end_time": "00:12.100",
+      "structural_tags": [
+        "Process_Labor",
+        "Lifestyle_Active",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "gym",
+        "bodyweight squats",
+        "exercise demonstration"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear form",
+          "dynamic movement"
+        ]
+      },
+      "why_kept": "Shows another fundamental exercise (bodyweight squats), offering a progression or alternative within the routine."
+    },
+    {
+      "start_time": "00:12.300",
+      "end_time": "00:21.800",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Lifestyle_Active",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "gym",
+        "dumbbell",
+        "hip thrust",
+        "exercise demonstration",
+        "bench"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear form",
+          "controlled movement"
+        ]
+      },
+      "why_kept": "Highlights a key glute-building exercise (dumbbell hip thrust) with clear demonstration of equipment use."
+    },
+    {
+      "start_time": "00:22.000",
+      "end_time": "00:29.800",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Lifestyle_Active",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "gym",
+        "kettlebell",
+        "RDL",
+        "exercise demonstration"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear form",
+          "controlled movement"
+        ]
+      },
+      "why_kept": "Illustrates another important exercise for hamstrings and glutes (kettlebell RDL), showcasing proper technique."
+    },
+    {
+      "start_time": "00:31.000",
+      "end_time": "00:37.800",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Lifestyle_Active",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "gym",
+        "leg extension machine",
+        "exercise demonstration",
+        "effort"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "machine exercise",
+          "facial expression of effort"
+        ]
+      },
+      "why_kept": "Concludes the exercise demonstrations with a machine-based exercise (leg extension) and captures the emotional climax of effort."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Halloween_dance\\ssstik.io_@matt.spencer00_1757579758950.mp4",
+  "detailed_description": "This video features a creator unboxing and trying on an 'Art the Clown' costume from Spirit Halloween. The sequence meticulously showcases each component of the costume, including the black and white jumpsuit, hood, miniature top hat, gloves, and the iconic terrifying mask. The creator provides a brief review, highlighting the costume's comprehensive nature and its $60 price point, encouraging viewers to purchase it for Halloween. The entire video acts as a direct product demonstration and review.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.957",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Key_Information",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "clown costume",
+        "black and white outfit",
+        "mask",
+        "hood",
+        "top hat",
+        "gloves",
+        "man trying on costume"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct demonstration",
+          "casual setting",
+          "quick cuts"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it forms a continuous, coherent demonstration of the 'Art the Clown' costume. It starts with the introduction of the costume, progresses through the detailed process of putting on each piece (Product Interaction and Process/Labor), and culminates in the full reveal of the terrifying clown look (Result/Reveal). The overlaid narration provides essential context and a call to action, making the whole duration the semantic core without any discernible setup, dead air, or non-essential talking head footage."
+    }
+  ]
+}

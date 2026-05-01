@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Testimonials\\Script 2A.mp4",
+  "detailed_description": "A man stands in a brightly lit bathroom, holding a bottle of MoldMD Mold Spot Remover. He directly addresses the camera, sharing his positive experience with the product. He highlights its effectiveness in tackling persistent mold and tough spots in his shower, expressing how it has significantly improved the cleanliness of his home and contributed to his well-being. He concludes by thanking MoldMD for its powerful cleaning capabilities.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:16.900",
+      "structural_tags": [
+        "Product_Intro",
+        "UGC_Talking_Head",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Key_Information",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "man",
+        "MoldMD bottle",
+        "spray bottle",
+        "bathroom",
+        "shower tiles",
+        "testimonial"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "frontal shot",
+          "clean background",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully encompasses the product introduction, a personal testimonial (social proof), and the key information about the product's effectiveness. The speaker continuously holds and presents the product while delivering his message, satisfying the 'Product Interaction' and 'Key Information' hero moment criteria without any extraneous setup or dead air, and adhering to the visual priority rule."
+    }
+  ]
+}

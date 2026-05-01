@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Couple\\ssstik.io_@noracarolinacab_1767008125578.mp4",
+  "detailed_description": "The video captures an intimate and heartwarming moment of a couple in bed during what appears to be a morning routine. The woman initially pulls the blanket towards herself, and the man then reaches over, gently pulls her closer, and spoons her under the blanket, creating a shared moment of warmth and affection. Both individuals appear content and relaxed, enjoying each other's presence in a cozy bedroom with a scenic ocean view in the background. The scene effectively conveys comfort, connection, and a peaceful start to the day.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.125",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "couple",
+        "bed",
+        "blanket",
+        "cuddle",
+        "bedroom",
+        "ocean view",
+        "beach",
+        "palm trees",
+        "snuggling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "intimate",
+          "romantic",
+          "cozy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "bright",
+          "warm tones"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it seamlessly captures the core meaning and emotional climax of the video. It demonstrates the intimate interaction between the couple, from the initial movement to the man pulling the woman closer and spooning her, concluding with their relaxed and contented expressions. There is no setup, post-action dead air, or extraneous content, fulfilling the 'No-Mistake Rule'."
+    }
+  ]
+}

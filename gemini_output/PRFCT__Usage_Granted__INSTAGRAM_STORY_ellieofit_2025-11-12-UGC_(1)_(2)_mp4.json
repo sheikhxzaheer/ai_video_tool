@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\Usage Granted\\INSTAGRAM_STORY_ellieofit_2025-11-12-UGC (1) (2).mp4",
+  "detailed_description": "A young woman provides an enthusiastic review of 'Perfect Morning Hydration Fuel' in a green, chia-seed-infused drink. She compares its taste to LMT electrolytes, noting its sweeter profile, and to Crystal Light Orange, highlighting its less artificial and slightly less sweet quality. Throughout the review, she sips the beverage, expresses her enjoyment, and gives it an 8.5 out of 10 rating, emphasizing the honesty of her unsponsored opinion.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:45.305",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Key_Information",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "green drink",
+        "chia seeds",
+        "glass",
+        "product packaging",
+        "spoon",
+        "kitchen countertop",
+        "drinking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "informal",
+          "vlog-style"
+        ]
+      },
+      "why_kept": "This entire segment serves as a complete product review, showcasing direct product interaction (holding the glass, drinking, revealing packaging), detailed verbal comparisons, an explicit rating, and clear positive emotional responses, all central to the video's core message. No trimming was necessary as there were no setup/calibration frames or post-action dead air, and the product or discussion about it was consistently present."
+    }
+  ]
+}

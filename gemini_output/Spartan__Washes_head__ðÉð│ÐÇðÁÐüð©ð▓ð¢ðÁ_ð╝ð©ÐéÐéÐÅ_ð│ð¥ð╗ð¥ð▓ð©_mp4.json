@@ -1,0 +1,83 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Washes head\\ðÉð│ÐÇðÁÐüð©ð▓ð¢ðÁ ð╝ð©ÐéÐéÐÅ ð│ð¥ð╗ð¥ð▓ð©.mp4",
+  "detailed_description": "This video humorously contrasts two distinct hair washing styles, showcasing the difference between how 'girls' and 'boys' might perform the task. The first segment features a gentle, meticulous wash with minimal foam, eliciting a relaxed smile from the recipient. The second segment demonstrates a much more vigorous, foam-filled, and aggressive hair wash, emphasizing the contrast in approach and intensity. The core meaning lies in this lighthearted comparison of personal care routines.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "man",
+        "smiling",
+        "hands",
+        "hair wash",
+        "sink",
+        "shampoo",
+        "gentle massage"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "point of view shot"
+        ]
+      },
+      "why_kept": "This segment is kept as it establishes the first side of the humorous comparison, demonstrating a gentle and relaxing hair washing process labeled 'Hairwash by Girls,' complete with the subject's positive emotional reaction."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:17.650",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair wash",
+        "sink",
+        "shampoo",
+        "vigorous scrubbing",
+        "lots of foam",
+        "messy"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "dynamic action",
+          "close up on hair"
+        ]
+      },
+      "why_kept": "This segment is kept as it presents the contrasting style of hair washing, labeled 'Hairwasch by Boys,' characterized by vigorous scrubbing and abundant foam, completing the central comparative theme of the video."
+    }
+  ]
+}

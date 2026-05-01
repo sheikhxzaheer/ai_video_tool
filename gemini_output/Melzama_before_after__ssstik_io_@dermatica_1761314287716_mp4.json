@@ -1,0 +1,82 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\ssstik.io_@dermatica_1761314287716.mp4",
+  "detailed_description": "This video showcases a woman's skin transformation over 10 months, attributed to the use of tretinoin. It presents a clear 'Before and After' comparison, starting with close-up shots of her face showing visible freckles and sun damage. The video then transitions to 'After 10 months' footage, displaying an improvement in skin tone and texture, indicating reduced hyperpigmentation and a more even complexion. The visual evidence aims to highlight the long-term effectiveness of the skincare treatment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.400",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "skin texture",
+        "freckles",
+        "hyperpigmentation",
+        "neutral expression",
+        "nose ring",
+        "earring"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "static shot",
+          "clear skin details"
+        ]
+      },
+      "why_kept": "This segment establishes the 'Before' state, showing the initial skin condition (freckles, sun damage, uneven tone) against which the 'After' results will be measured. It sets the context for the transformation."
+    },
+    {
+      "start_time": "00:03.400",
+      "end_time": "00:13.200",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "clearer skin",
+        "reduced freckles",
+        "even skin tone",
+        "neutral expression",
+        "nose ring",
+        "earring"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "static shot",
+          "clear skin details"
+        ]
+      },
+      "why_kept": "This segment is the core 'After' reveal, demonstrating the significant skin transformation over 10 months. It visually confirms the positive results (reduced hyperpigmentation, improved texture) and provides the main value proposition of the video."
+    }
+  ]
+}

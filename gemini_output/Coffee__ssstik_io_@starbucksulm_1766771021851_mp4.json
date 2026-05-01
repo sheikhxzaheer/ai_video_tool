@@ -1,0 +1,214 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Coffee\\ssstik.io_@starbucksulm_1766771021851.mp4",
+  "detailed_description": "This video showcases the swift and precise preparation of a customized iced coffee at a Starbucks-like station. A barista, wearing black gloves, begins by pumping a generous amount of light syrup into a clear branded cup. Expertly, two shots of rich espresso are then poured, creating a beautiful layering effect over the syrup. Milk is added, followed by a scoop of ice, building the cold beverage. The drink is then crowned with a swirl of whipped cream, beautifully drizzled with chocolate sauce, and sealed with a dome lid, highlighting the creation of a refreshing and visually appealing iced coffee.",
+  "segments": [
+    {
+      "start_time": "00:01.600",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "barista hands",
+        "black gloves",
+        "syrup pump",
+        "light syrup",
+        "Starbucks cup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean counter",
+          "professional setup"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial step of adding the flavor base to the drink, crucial for context and showing the 'Process/Labor'."
+    },
+    {
+      "start_time": "00:06.100",
+      "end_time": "00:18.900",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "espresso machine",
+        "espresso shots",
+        "coffee pouring",
+        "Starbucks cup",
+        "syrup layer"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic pour",
+          "liquid layering",
+          "crisp focus"
+        ]
+      },
+      "why_kept": "This is a central 'Hero Moment' showcasing the core coffee component being added with a visually appealing macro shot of the espresso creating distinct layers, making it a strong anchor for the video's theme."
+    },
+    {
+      "start_time": "00:22.900",
+      "end_time": "00:26.700",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "milk carton",
+        "milk pouring",
+        "Starbucks cup",
+        "coffee mixture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "smooth pour",
+          "filling cup"
+        ]
+      },
+      "why_kept": "This segment clearly shows the addition of milk, completing the liquid base of the iced latte, demonstrating a key step in the preparation process."
+    },
+    {
+      "start_time": "00:28.000",
+      "end_time": "00:34.500",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "barista hand",
+        "black gloves",
+        "ice scoop",
+        "ice cubes",
+        "Starbucks cup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "crisp ice sound",
+          "quick action"
+        ]
+      },
+      "why_kept": "This segment highlights the essential step of adding ice, signifying the preparation of an 'iced' beverage and showing the 'Process/Labor'."
+    },
+    {
+      "start_time": "00:35.400",
+      "end_time": "00:43.200",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "whipped cream",
+        "chocolate drizzle",
+        "topping application",
+        "Starbucks cup",
+        "finished drink"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "premium",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "decorative toppings",
+          "smooth application"
+        ]
+      },
+      "why_kept": "This segment shows the final, decorative touches of whipped cream and chocolate drizzle, which are significant 'Result_Transformation' and 'Process/Labor' moments that enhance the drink's appeal."
+    },
+    {
+      "start_time": "00:43.900",
+      "end_time": "00:49.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Reveal_Result",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "barista hands",
+        "black gloves",
+        "dome lid",
+        "Starbucks cup",
+        "finished iced coffee",
+        "countertop"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "premium",
+          "satisfaction"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "final presentation",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment marks the completion of the drink's preparation by adding the lid and concludes with a clear shot of the final product, serving as a 'Reveal/Result' for the viewer."
+    }
+  ]
+}

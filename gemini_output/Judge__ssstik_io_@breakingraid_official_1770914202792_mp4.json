@@ -1,0 +1,125 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Judge\\ssstik.io_@breakingraid_official_1770914202792.mp4",
+  "detailed_description": "This video captures a dramatic courtroom exchange where a bus driver recounts being fired for stopping his route to help an elderly woman who had fallen. The company's lawyer defends the termination by citing strict route schedules, safety, and liability risks. However, the judge vehemently condemns the company's decision, asserting that helping someone in distress is a basic human responsibility, not misconduct, and that punishing such an act is unacceptable. The semantic core of the video highlights the clash between rigid corporate policy and fundamental human compassion, culminating in the judge's powerful moral judgment.",
+  "segments": [
+    {
+      "start_time": "00:15.111",
+      "end_time": "00:29.611",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Problem_State",
+        "Negative_Emotion",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "bus driver",
+        "podium",
+        "courtroom",
+        "elderly woman",
+        "sidewalk",
+        "fallen",
+        "bus",
+        "helping"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "outdoor",
+          "street",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "negative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "court footage",
+          "documentary style"
+        ]
+      },
+      "why_kept": "This segment is crucial as it establishes the bus driver's perspective, detailing the incident where he helped the fallen elderly woman and subsequently describes his firing. It provides the initial problem state and human action that drives the entire narrative."
+    },
+    {
+      "start_time": "00:29.911",
+      "end_time": "00:44.811",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "lawyer",
+        "podium",
+        "courtroom",
+        "bus",
+        "elderly woman",
+        "sidewalk",
+        "helping"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "outdoor",
+          "street",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "formal"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "court footage",
+          "legal argument"
+        ]
+      },
+      "why_kept": "This segment presents the company's legal justification for firing the driver, citing policy violations, safety, and liability risks. It is essential for understanding the conflict and the opposing viewpoint against which the judge's final statement is made."
+    },
+    {
+      "start_time": "00:44.811",
+      "end_time": "01:00.678",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Emotional_Climax",
+        "Key_Information",
+        "Negative_Emotion",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "judge",
+        "podium",
+        "courtroom",
+        "American flag"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "shock"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dramatic lighting",
+          "direct address",
+          "court footage"
+        ]
+      },
+      "why_kept": "This is the emotional and intellectual climax of the video. The judge's strong and impassioned rebuke of the company's decision delivers the core message: basic human responsibility should not be punished. This segment encapsulates the ethical judgment and resolution of the conflict presented in the preceding parts."
+    }
+  ]
+}

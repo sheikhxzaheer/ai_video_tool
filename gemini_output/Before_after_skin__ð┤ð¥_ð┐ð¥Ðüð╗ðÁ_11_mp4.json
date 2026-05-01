@@ -1,0 +1,79 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after skin\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ 11.mp4",
+  "detailed_description": "This video vividly documents a remarkable skin transformation. It begins by showcasing a young man's face severely affected by acne, highlighting the raw and challenging 'before' state. The footage then transitions sharply to reveal the same individual with significantly clearer, healthier skin, emphasizing the dramatic and positive 'after' result. The core meaning is the journey from a visible skin issue to a clear and improved complexion.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man",
+        "severe acne",
+        "blemishes",
+        "redness",
+        "skin condition",
+        "face",
+        "neck",
+        "shirtless"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "harsh lighting",
+          "direct camera gaze"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the severe skin problem (acne) the individual is facing, serving as the 'Before' state and creating a strong visual hook for the subsequent transformation."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:08.100",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "clear skin",
+        "smooth skin",
+        "face",
+        "towel",
+        "blue shirt"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "clean appearance",
+          "relaxed pose"
+        ]
+      },
+      "why_kept": "This segment showcases the dramatic improvement in the individual's skin, presenting the 'After' state with clear skin, directly contrasting the previous segment and highlighting the successful outcome."
+    }
+  ]
+}

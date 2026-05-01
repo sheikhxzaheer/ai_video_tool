@@ -1,0 +1,113 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pills\\ssstik.io_1746978123986.mp4",
+  "detailed_description": "The video, featuring a board-certified ER doctor and mom, exposes a critical flaw in \"child-resistant\" medication packaging. She reveals that up to 20% of children aged 3.5 to 4 years can open these bottles within 10 minutes, yet they still meet safety standards. Highlighting the dangers of child poisonings from medications, she advises against relying solely on these labels. Instead, she emphasizes the importance of always keeping medications out of sight and out of reach, especially for curious children, recommending parents employ additional safety measures beyond mere child-resistant packaging.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.800",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Key_Information",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "doctor",
+        "medicine bottle",
+        "child-resistant",
+        "speaking",
+        "concerned expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "clinical"
+        ],
+        "mood": [
+          "serious",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "good lighting"
+        ]
+      },
+      "why_kept": "This segment introduces the core problem and serves as a strong visual hook. The speaker immediately presents the surprising fact about child-resistant packaging while actively holding and referencing the product, making it a clear 'Key Information' and 'Problem State' moment with product interaction and a concerned facial expression."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:28.900",
+      "structural_tags": [
+        "Key_Information",
+        "Mechanism_Of_Action",
+        "Problem_State",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "doctor",
+        "medicine bottle",
+        "explaining",
+        "gesturing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "clinical"
+        ],
+        "mood": [
+          "informative",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "natural gestures"
+        ]
+      },
+      "why_kept": "This segment details the flawed testing method for 'child-resistant' bottles and explicitly states the concerning implication (19% of toddlers can open it). It's a 'Mechanism of Action' segment that explains the problem introduced in the anchor, with consistent product interaction, reinforcing the main point."
+    },
+    {
+      "start_time": "00:43.000",
+      "end_time": "00:51.900",
+      "structural_tags": [
+        "Offer_CTA",
+        "Key_Information",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "doctor",
+        "medicine bottle",
+        "giving advice",
+        "gesturing",
+        "safety recommendations"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "clinical"
+        ],
+        "mood": [
+          "informative",
+          "caring"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "emphatic gestures"
+        ]
+      },
+      "why_kept": "This segment provides the crucial guidance and call to action for parents, emphasizing that while child-resistant packaging should be used, it's not foolproof. The speaker offers practical safety advice ('out of sight and out of reach') while holding the product, making it a key 'Offer_CTA' and 'Key_Information' moment."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Under-Eye Bag Before_After\\ssstik.io_@olesyaromano_1774435408782.mp4",
+  "detailed_description": "A woman expresses her confusion about why her face always looked puffy, showcasing her 'before' state with a slightly concerned expression. She then transitions to reveal a noticeable transformation, presenting a more defined and radiant facial appearance. With a confident smile, she demonstrates the positive outcome of the changes she implemented, highlighting the 'after' result. The video effectively uses a before-and-after narrative to illustrate a personal aesthetic improvement, emphasizing her newfound confidence.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.300",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "puffy face",
+        "neutral expression",
+        "confused look",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bedroom",
+          "bathroom"
+        ],
+        "mood": [
+          "serious",
+          "confused"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "simple background"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the initial problem state, showing the woman's perceived 'puffy' facial appearance and her expressed confusion, which sets the foundation for the subsequent transformation. It serves as the 'Before' part of the narrative and hooks the viewer."
+    },
+    {
+      "start_time": "00:03.500",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Before_After",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "defined jawline",
+        "clear skin",
+        "hand gesture",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium | closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "positive",
+          "confident",
+          "happy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "glowing skin",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment presents the 'After' state, showcasing the woman's transformed, more defined facial features and a confident, happy expression. It visually demonstrates the positive outcome and the resolution of the initial problem, fulfilling the promise of change indicated by the text."
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\ð╝ðÁð╗ð░ðÀð╝ð░ ð┤ð¥ ð┐ð¥Ðüð╗ðÁ.mp4",
+  "detailed_description": "This video presents a compelling before-and-after comparison showcasing a significant skin transformation. It features a woman whose skin, initially marked with hyperpigmentation and freckles, appears visibly clearer, more even-toned, and radiant in the 'after' shots. The change is demonstrated through three different angles – frontal, left profile, and right profile – emphasizing the comprehensive improvement in her complexion. The 'after' segments also subtly convey a sense of calm satisfaction, with her eyes closed and a hint of a gentle smile. The video effectively highlights the visual results of what appears to be a successful skincare treatment or product application.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.300",
+      "structural_tags": [
+        "Visual_Hook",
+        "Before_After",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "front view",
+        "skin",
+        "freckles",
+        "hyperpigmentation",
+        "before"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct lighting",
+          "neutral expression"
+        ]
+      },
+      "why_kept": "This segment establishes the initial 'before' state from a frontal view, clearly showing the skin concerns that the transformation aims to address, making it a strong anchor for the problem state."
+    },
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:03.200",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Calm_Relaxation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "front view",
+        "skin",
+        "clear skin",
+        "glowing",
+        "after",
+        "eyes closed",
+        "calm"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct lighting",
+          "dewy skin",
+          "satisfied expression"
+        ]
+      },
+      "why_kept": "This segment immediately follows the 'before' shot, showcasing the transformed skin from the frontal view. It's the primary visual evidence of the product's or treatment's effectiveness, making it an anchor for the result."
+    },
+    {
+      "start_time": "00:03.700",
+      "end_time": "00:04.900",
+      "structural_tags": [
+        "Before_After",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "left profile",
+        "skin",
+        "freckles",
+        "hyperpigmentation",
+        "before"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct lighting",
+          "neutral expression"
+        ]
+      },
+      "why_kept": "This segment provides an additional 'before' perspective from the left profile, reinforcing the initial skin condition and supporting the overall transformation narrative."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:07.100",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Calm_Relaxation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "left profile",
+        "skin",
+        "clear skin",
+        "glowing",
+        "after",
+        "eyes closed",
+        "calm"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct lighting",
+          "dewy skin",
+          "satisfied expression"
+        ]
+      },
+      "why_kept": "This 'after' segment from the left profile provides further visual evidence of the improved skin, supporting the primary frontal transformation and showcasing the consistency of the results."
+    },
+    {
+      "start_time": "00:07.600",
+      "end_time": "00:08.800",
+      "structural_tags": [
+        "Before_After",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "right profile",
+        "skin",
+        "freckles",
+        "hyperpigmentation",
+        "before"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct lighting",
+          "neutral expression"
+        ]
+      },
+      "why_kept": "This final 'before' segment from the right profile completes the multi-angle demonstration of the initial skin concerns, enhancing the credibility of the before-and-after comparison."
+    },
+    {
+      "start_time": "00:09.100",
+      "end_time": "00:11.100",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Calm_Relaxation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "right profile",
+        "skin",
+        "clear skin",
+        "glowing",
+        "after",
+        "eyes closed",
+        "calm"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct lighting",
+          "dewy skin",
+          "satisfied expression"
+        ]
+      },
+      "why_kept": "This concluding 'after' segment from the right profile reinforces the dramatic and consistent improvement across all facial angles, solidifying the video's core message of effective skin transformation."
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cooking\\Woman\\ssstik.io_@mialaurengreen_1774432289471.mp4",
+  "detailed_description": "This video showcases a highly disciplined and aesthetic morning routine, emphasizing the importance of consistency and pushing through discomfort. It follows a woman from waking up at 6 AM through her rigorous gym workout, self-care, and breakfast preparation, culminating in a well-deserved coffee with a panoramic city view. The narrative is powerfully reinforced by a motivational voiceover encouraging action and perseverance, regardless of desire.",
+  "segments": [
+    {
+      "start_time": "00:00.330",
+      "end_time": "00:02.040",
+      "structural_tags": [
+        "Morning_Routine",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman waking up",
+        "reaching for mug"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "cozy bed"
+        ]
+      },
+      "why_kept": "Shows the immediate action of getting up and engaging with the first task of the day, aligning with the audio's 'get up' message."
+    },
+    {
+      "start_time": "00:03.110",
+      "end_time": "00:06.660",
+      "structural_tags": [
+        "Morning_Routine",
+        "Process_Labor",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "opening blinds",
+        "city view",
+        "making bed"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "Highlights initial steps of a disciplined morning, opening up to the day and tidying, reflecting the 'make your bed' and 'get up' themes."
+    },
+    {
+      "start_time": "00:09.110",
+      "end_time": "00:14.510",
+      "structural_tags": [
+        "Morning_Routine",
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "applying contacts",
+        "brushing teeth"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "mirror shot",
+          "self-care products"
+        ]
+      },
+      "why_kept": "Demonstrates self-care as part of the routine, showing attention to personal well-being early in the day."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:17.370",
+      "structural_tags": [
+        "Morning_Routine",
+        "Lifestyle_Active",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "putting on workout clothes",
+        "zipping jacket"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "closet"
+        ],
+        "mood": [
+          "energetic",
+          "prepared"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "organized closet",
+          "athleisure wear"
+        ]
+      },
+      "why_kept": "Shows preparation for the active part of the day, aligning with the motivational call to 'go run' or 'go swim'."
+    },
+    {
+      "start_time": "00:20.300",
+      "end_time": "00:23.630",
+      "structural_tags": [
+        "Product_Interaction",
+        "Micro_Nutrients_Anim",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "preparing supplements",
+        "creatine",
+        "debloat powder"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "modern kitchen",
+          "supplement packaging"
+        ]
+      },
+      "why_kept": "Explicitly demonstrates product interaction with health supplements, highlighting a conscious choice for well-being."
+    },
+    {
+      "start_time": "00:26.540",
+      "end_time": "00:29.470",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Process_Labor",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "cooking eggs",
+        "toasting bread",
+        "seasoning"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "focused",
+          "productive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "sleek kitchen appliances",
+          "food preparation"
+        ]
+      },
+      "why_kept": "Illustrates another productive morning task, preparing a healthy meal to fuel the day."
+    },
+    {
+      "start_time": "00:30.220",
+      "end_time": "00:30.980",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "tying shoelaces",
+        "sneakers"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "focused",
+          "prepared"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "athletic footwear"
+        ]
+      },
+      "why_kept": "Symbolizes readiness for physical activity, a transition to the gym segment."
+    },
+    {
+      "start_time": "00:32.180",
+      "end_time": "00:33.200",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "elevator selfie",
+        "gym attire",
+        "headphones"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "travel"
+        ],
+        "mood": [
+          "confident",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "modern elevator",
+          "mirror reflection"
+        ]
+      },
+      "why_kept": "Provides a quick glimpse of the prepared gym look, reinforcing the active lifestyle theme."
+    },
+    {
+      "start_time": "00:36.000",
+      "end_time": "00:37.380",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "leg swings",
+        "warm-up",
+        "gym"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "gym wall",
+          "athletic movement"
+        ]
+      },
+      "why_kept": "Shows the beginning of the workout, a crucial part of the disciplined routine, preparing the body for more intense exercises."
+    },
+    {
+      "start_time": "00:43.760",
+      "end_time": "00:48.060",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Process_Labor",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "Romanian deadlifts",
+        "barbell",
+        "gym",
+        "heavy lifting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "strong"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "weight rack",
+          "focused effort",
+          "modern gym"
+        ]
+      },
+      "why_kept": "This is the strongest demonstration of 'doing the work' and 'working harder' as per the motivational audio, showing intense physical exertion. It's a clear 'Process/Labor' and 'Lifestyle_Active' moment."
+    },
+    {
+      "start_time": "00:52.610",
+      "end_time": "00:54.670",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "cable kickbacks",
+        "gym machine",
+        "glute exercise"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "gym equipment",
+          "controlled movement"
+        ]
+      },
+      "why_kept": "Further illustrates the variety and intensity of her workout, complementing the anchor gym segment and the 'work harder' message."
+    },
+    {
+      "start_time": "00:59.600",
+      "end_time": "01:02.970",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Product_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "making coffee",
+        "espresso machine",
+        "steaming milk",
+        "syrups"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "satisfying"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "coffee station",
+          "city view",
+          "warm light"
+        ]
+      },
+      "why_kept": "Shows a rewarding part of the routine after hard work, demonstrating product interaction with a coffee machine and the process of making a beverage."
+    },
+    {
+      "start_time": "01:03.490",
+      "end_time": "01:05.100",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "drinking coffee",
+        "city skyline",
+        "relaxing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "living room"
+        ],
+        "mood": [
+          "calm",
+          "satisfied",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "minimalist decor",
+          "bright natural light",
+          "high-rise view"
+        ]
+      },
+      "why_kept": "Concludes the morning routine with a moment of peace and satisfaction, showcasing the positive outcome of her discipline."
+    }
+  ]
+}

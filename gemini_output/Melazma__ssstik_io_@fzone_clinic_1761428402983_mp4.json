@@ -1,0 +1,143 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melazma\\ssstik.io_@fzone.clinic_1761428402983.mp4",
+  "detailed_description": "The video highlights the critical importance of professional dermatological examination for skin pigmentation. It visually demonstrates how a seemingly ordinary brown spot on the face could conceal dangerous conditions like melanoma, which are undetectable to the naked eye. The content emphasizes that attempting to remove such spots without a prior dermoscopic diagnosis by a qualified surgeon-dermatologist is unsafe and could lead to severe, even fatal, consequences if a hidden melanoma is only superficially treated. The video strongly advises viewers to seek expert medical consultation for any skin lesion removal.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.750",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "brown spot",
+        "pigmentation",
+        "gloved finger pointing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear lighting",
+          "medical context"
+        ]
+      },
+      "why_kept": "This segment establishes the problem (unidentified skin spot) and hooks the viewer with a direct question, setting the stage for the crucial information that follows."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:12.500",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "dermatoscope",
+        "smartphone",
+        "mole",
+        "skin examination",
+        "arm"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "magnified view",
+          "diagnostic equipment"
+        ]
+      },
+      "why_kept": "This is the core 'Hero Moment' as it visually demonstrates the professional, correct method of diagnosing skin spots using a dermatoscope, which is the central solution and expertise conveyed in the video."
+    },
+    {
+      "start_time": "00:12.500",
+      "end_time": "00:24.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Negative_Emotion",
+        "Key_Information",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "treated skin spot",
+        "reddened area",
+        "woman's face",
+        "gloved hand"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "alarming",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "post-treatment appearance",
+          "warning text overlay"
+        ]
+      },
+      "why_kept": "This segment visually shows the state of a treated spot, which then serves as a powerful visual cue for the accompanying verbal warning about the dangers of incomplete removal and hidden melanoma, leading to potential fatal consequences."
+    },
+    {
+      "start_time": "00:24.000",
+      "end_time": "00:35.000",
+      "structural_tags": [
+        "Offer_CTA",
+        "Human_Interaction",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "treated skin spot",
+        "woman's face",
+        "gloved hand",
+        "laser safety goggles"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical",
+          "advisory"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "medical procedure context",
+          "direct advice text"
+        ]
+      },
+      "why_kept": "This segment provides the crucial call to action, advising viewers to consult a qualified surgeon-dermatologist for diagnosis and safe removal, reinforcing the expertise and solution offered."
+    }
+  ]
+}

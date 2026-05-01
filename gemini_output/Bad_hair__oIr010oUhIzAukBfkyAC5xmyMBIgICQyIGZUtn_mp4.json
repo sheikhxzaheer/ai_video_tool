@@ -1,0 +1,109 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\oIr010oUhIzAukBfkyAC5xmyMBIgICQyIGZUtn.mp4",
+  "detailed_description": "The video highlights a personal journey of addressing hair thinning. Initially considering a hair transplant, the individual instead tried 'Eleganza Skin Growth Hair Oil' after a friend's recommendation. The video showcases a dramatic before-and-after transformation, revealing significantly denser and healthier hair on the crown after six months of consistent use, effectively demonstrating the product's efficacy.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.053",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "thinning hair",
+        "crown of head",
+        "wet hair",
+        "male head"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "top-down view",
+          "natural lighting",
+          "wet look hair"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state, clearly showing the problem of hair thinning, which is essential context for the product's solution."
+    },
+    {
+      "start_time": "00:04.053",
+      "end_time": "00:07.413",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hair growth oil bottle",
+        "Eleganza Skin",
+        "product label",
+        "hand holding bottle"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "soft lighting",
+          "product focus"
+        ]
+      },
+      "why_kept": "This segment introduces the specific product (Eleganza Skin Growth Hair Oil) that led to the transformation, providing crucial information about the solution."
+    },
+    {
+      "start_time": "00:07.413",
+      "end_time": "00:12.783",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "dense hair",
+        "full hair",
+        "hair growth",
+        "clean haircut",
+        "male head"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "top-down view",
+          "natural lighting",
+          "styled hair"
+        ]
+      },
+      "why_kept": "This is the 'after' state, showcasing the dramatic positive results of using the product, which is the core value proposition and the ultimate demonstration of its effectiveness. It serves as the primary 'reveal' of the video."
+    }
+  ]
+}

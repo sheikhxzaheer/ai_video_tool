@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Couple\\ssstik.io_@gabrielhjortland_1766674435286.mp4",
+  "detailed_description": "This video beautifully captures a tender and intimate moment between a couple as they lie in bed, closely embraced. The scene exudes warmth, comfort, and profound affection, highlighted by a pillow subtly displaying the message 'All you need is love!'. The soft, dim lighting enhances the cozy and personal atmosphere, emphasizing the deep connection shared by the individuals. It perfectly portrays a peaceful, loving interaction within a private space.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.671",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Night_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "couple",
+        "cuddling",
+        "embracing",
+        "bed",
+        "pillows",
+        "blanket",
+        "bedroom",
+        "intimate",
+        "love quote"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "romantic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "cozy",
+          "intimate atmosphere"
+        ]
+      },
+      "why_kept": "This entire segment serves as the core semantic content, directly showcasing the intimate human interaction, conveying strong positive emotions of love and comfort, and reinforcing a key message ('All you need is love!') present on the pillow. As there are no setup/calibration or post-action dead air frames, and the action is continuous and consistent throughout, the 'No-Mistake Rule' dictates keeping the full duration as the 'Hero Moment'."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Traveling\\ssstik.io_@mira_1769068026740.mp4",
+  "detailed_description": "This video captures two highly energetic women at an airport, expressing extreme excitement and joy for an upcoming trip. They are seen holding their passports and boarding passes, dancing and smiling broadly. The on-screen text 'Thailand is calling' explicitly states their travel destination, reinforcing the overall theme of anticipatory happiness for a vacation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.790",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "women",
+        "airport",
+        "dancing",
+        "passports",
+        "boarding passes",
+        "smiling",
+        "excitement",
+        "travel"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera",
+          "bright lighting",
+          "upbeat"
+        ]
+      },
+      "why_kept": "This entire segment serves as the core 'Hero Moment' by vividly demonstrating the emotional climax of excitement and anticipation for travel. Both subjects exhibit clear, high-energy positive facial reactions and body language, actively interacting with their travel documents (passports/boarding passes) within the context of an airport, reinforced by the 'Thailand is calling' text."
+    }
+  ]
+}

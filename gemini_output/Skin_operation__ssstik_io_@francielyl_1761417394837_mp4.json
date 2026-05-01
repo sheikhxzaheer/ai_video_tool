@@ -1,0 +1,59 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Skin operation\\ssstik.io_@francielyl_1761417394837.mp4",
+  "detailed_description": "This video meticulously demonstrates the marking process for a botulinum toxin application on the upper third of a patient's face. The procedure is designed for a young patient aiming to arch her eyebrows and prevent/treat wrinkles. The expert outlines the marking points on the frontal muscle, glabella, and around the orbicularis oculi, explaining the strategic use of the 'C line of convergence' technique. The goal is to reduce muscle force in specific areas and subtly lift the gaze, emphasizing a preventive and individualized approach to wrinkle treatment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:38.250",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Key_Information",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "forehead",
+        "eyebrows",
+        "glabella",
+        "eyes",
+        "face marking",
+        "marking pens",
+        "red dots",
+        "blue dots",
+        "arrows",
+        "hairnet",
+        "gloves",
+        "patient",
+        "clinician",
+        "facial muscles"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio",
+          "indoor",
+          "clinical"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "bright lighting",
+          "instructional",
+          "procedural",
+          "aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it continuously demonstrates the core professional action of marking a patient's face for botulinum toxin application. It shows the detailed 'Process/Labor' of a cosmetic procedure, involves 'Product_Interaction' with the marking tools, and provides crucial 'Key_Information' via text overlays explaining the technique, objectives (eyebrow arching, wrinkle prevention/treatment), and specific muscle areas. There's no dead air or setup to trim, making the whole duration essential for understanding the procedure's preparatory phase."
+    }
+  ]
+}

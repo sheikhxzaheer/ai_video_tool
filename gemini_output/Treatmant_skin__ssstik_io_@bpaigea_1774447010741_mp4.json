@@ -1,0 +1,98 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Treatmant_skin\\ssstik.io_@bpaigea_1774447010741.mp4",
+  "detailed_description": "This video focuses on a woman's skincare routine, specifically highlighting the integration of the Rodan+Fields Contour Neck Treatment. She demonstrates the process of using the product, from dispensing it onto her hands to applying it to her neck and décolletage. The woman explains how this product helps to boost collagen and restore elasticity, making it a valuable addition to her regimen for addressing concerns like platysmal banding.",
+  "segments": [
+    {
+      "start_time": "00:09.100",
+      "end_time": "00:10.100",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman holding product",
+        "Rodan+Fields Contour Neck Treatment tube"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "direct camera address",
+          "product focus"
+        ]
+      },
+      "why_kept": "This segment clearly introduces the Rodan+Fields Contour Neck Treatment, identifying the specific product that is the semantic core of the video."
+    },
+    {
+      "start_time": "00:10.800",
+      "end_time": "00:12.600",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "dispensing cream",
+        "cream in hand",
+        "rubbing hands together"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "focus on hands and product"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial step of using the product, showing the user dispensing the cream and preparing it for application, which is crucial product interaction."
+    },
+    {
+      "start_time": "00:14.000",
+      "end_time": "00:18.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "applying cream to neck",
+        "rubbing chest",
+        "woman looking up",
+        "neck treatment application"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "focus on application technique"
+        ]
+      },
+      "why_kept": "This segment captures the core action of applying the neck treatment, visually demonstrating its use on the intended area while the speaker highlights its benefits, adhering to the visual priority rule."
+    }
+  ]
+}

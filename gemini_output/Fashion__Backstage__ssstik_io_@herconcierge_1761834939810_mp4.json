@@ -1,0 +1,331 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Fashion\\Backstage\\ssstik.io_@herconcierge_1761834939810.mp4",
+  "detailed_description": "The video captures supermodel Candice Swanepoel backstage at the Victoria's Secret show, showcasing the meticulous makeup process. It highlights the transformation from a casual robe and hair curlers to a glamorous, fully adorned \"Angel\" look, featuring the application of various makeup products including lip gloss, powder, and eyeshadow. The video culminates in a reveal of her stunning final ensemble, complete with elaborate wings and intricate jewelry, emphasizing her angelic beauty and readiness for the show.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.800",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Candice Swanepoel",
+        "lip gloss",
+        "makeup artist",
+        "blonde hair",
+        "pink lips"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "glamorous",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "professional setup"
+        ]
+      },
+      "why_kept": "This segment shows the initial application of lip gloss, highlighting product interaction and the start of the makeup process backstage."
+    },
+    {
+      "start_time": "00:02.800",
+      "end_time": "00:03.500",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Face_Reaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Candice Swanepoel",
+        "mirror",
+        "reflection",
+        "Victoria's Secret text"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "glamorous",
+          "anticipation"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "vanity mirror",
+          "soft pink curtains"
+        ]
+      },
+      "why_kept": "This brief shot provides context of being backstage at Victoria's Secret and shows Candice's self-reflection, adding to the behind-the-scenes narrative."
+    },
+    {
+      "start_time": "00:03.500",
+      "end_time": "00:13.900",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "Candice Swanepoel",
+        "makeup artist",
+        "powder brush",
+        "face powder",
+        "hair curlers",
+        "pink robe",
+        "smile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "glamorous"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "pink drapes",
+          "professional makeup"
+        ]
+      },
+      "why_kept": "This is a primary 'process' segment, showing continuous application of face powder and Candice's positive reaction, serving as a strong anchor for the core makeup transformation."
+    },
+    {
+      "start_time": "00:15.500",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "eyeshadow palette",
+        "makeup brush",
+        "eyeshadow application",
+        "Candice Swanepoel"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "glamorous",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed application",
+          "bright colors in palette"
+        ]
+      },
+      "why_kept": "This segment showcases the application of eyeshadow and a close-up of the colorful palette, emphasizing product variety and meticulous detail."
+    },
+    {
+      "start_time": "00:19.000",
+      "end_time": "00:24.000",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "Candice Swanepoel",
+        "makeup artist",
+        "blush brush",
+        "cheek application",
+        "hair curlers"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "glamorous"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft blush tones",
+          "smooth skin"
+        ]
+      },
+      "why_kept": "Continues the makeup process, demonstrating the application of blush/contour, a crucial step in sculpting the face."
+    },
+    {
+      "start_time": "00:24.000",
+      "end_time": "00:30.300",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "Candice Swanepoel",
+        "lip gloss",
+        "makeup artist",
+        "pink lips",
+        "smile",
+        "hair curlers"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "glamorous",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "glossy finish",
+          "expressive gaze"
+        ]
+      },
+      "why_kept": "This segment shows the final touch of lip gloss application, leading to a satisfied smile, highlighting product interaction and an emotional climax."
+    },
+    {
+      "start_time": "00:30.800",
+      "end_time": "00:33.400",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Reveal_Transformation",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "Candice Swanepoel",
+        "angel wings",
+        "embellished costume",
+        "long blonde hair",
+        "jewelry"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "glamorous",
+          "powerful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dark background",
+          "spotlight",
+          "ornate costume"
+        ]
+      },
+      "why_kept": "Shows the initial reveal of Candice in her full Victoria's Secret Angel costume, with wings and intricate details, marking a significant transformation from the getting-ready phase."
+    },
+    {
+      "start_time": "00:33.400",
+      "end_time": "00:36.000",
+      "structural_tags": [
+        "Reveal_Transformation",
+        "Aesthetic_Broll",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "Candice Swanepoel",
+        "full costume",
+        "angel wings",
+        "garter belt",
+        "stockings",
+        "jewelry"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "glamorous",
+          "luxurious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera pan",
+          "sparkling details"
+        ]
+      },
+      "why_kept": "This segment provides a full-body view of the elaborate outfit, emphasizing the 'reveal' and the detailed craftsmanship of the costume."
+    },
+    {
+      "start_time": "00:36.000",
+      "end_time": "00:37.900",
+      "structural_tags": [
+        "Reveal_Transformation",
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Candice Swanepoel",
+        "angel wings",
+        "embellished costume",
+        "confident expression",
+        "blue eyes"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "powerful",
+          "confident",
+          "glamorous"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct gaze",
+          "dramatic lighting",
+          "flawless makeup"
+        ]
+      },
+      "why_kept": "This is the ultimate 'hero moment,' showcasing Candice's fully transformed, confident look as a Victoria's Secret Angel, serving as a powerful emotional climax and final reveal."
+    }
+  ]
+}

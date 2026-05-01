@@ -1,0 +1,154 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ssstik.io_1744133462318.mp4",
+  "detailed_description": "This video documents a significant personal transformation focusing on hair regrowth over three years. It begins by showing the subject at 18 years old with noticeable hair thinning and a receding hairline, highlighting a 'problem state'. The narrative then transitions to 'after' footage at 20 and 21 years old, where the subject displays a full head of healthy, curly hair and an overall more confident and athletic appearance, emphasizing the successful result of his hair restoration journey.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.800",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "young man",
+        "looking down",
+        "looking up",
+        "pouting",
+        "dark blue t-shirt",
+        "home setting"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "simple background"
+        ]
+      },
+      "why_kept": "This segment introduces the subject at 18 years old, subtly hinting at a problem by showing him looking down and then up with a serious expression, setting the stage for the upcoming reveal of his hair loss. It acts as a visual hook and initial problem state indicator."
+    },
+    {
+      "start_time": "00:05.800",
+      "end_time": "00:09.600",
+      "structural_tags": [
+        "Problem_State",
+        "Before_After",
+        "Macro_Detail",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "mirror selfie",
+        "receding hairline",
+        "balding",
+        "scalp",
+        "thinning hair",
+        "hand on head"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear detail",
+          "direct lighting"
+        ]
+      },
+      "why_kept": "This is a critical 'Hero Moment' as it explicitly reveals the severe hair loss at 18 years old through clear mirror selfies and close-up shots of the scalp. It serves as the undeniable 'Before' evidence for the transformation."
+    },
+    {
+      "start_time": "00:09.600",
+      "end_time": "00:12.700",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Lifestyle_Active",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "gym",
+        "dumbbells",
+        "mirror",
+        "full hair",
+        "curly hair",
+        "blue t-shirt",
+        "muscular physique"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "dynamic pose"
+        ]
+      },
+      "why_kept": "This segment is a key 'Hero Moment' showing the initial 'After' state at 20 years old. It clearly demonstrates the significant improvement in hair density and overall physical health, presenting a stark contrast to the previous 'Before' shots."
+    },
+    {
+      "start_time": "00:19.900",
+      "end_time": "00:26.300",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "man",
+        "close-up",
+        "comb",
+        "healthy hair",
+        "styled hair",
+        "confident expression",
+        "brown curly hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "confident",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "clean background",
+          "focused shot"
+        ]
+      },
+      "why_kept": "This segment further reinforces the 'Result_Transformation' at 21 years old. The close-up of his face and the act of combing his healthy, styled hair vividly demonstrate the success of the transformation and the ability to now confidently style his hair, solidifying the 'After' narrative."
+    }
+  ]
+}

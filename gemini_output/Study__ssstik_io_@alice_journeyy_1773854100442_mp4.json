@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Study\\ssstik.io_@alice.journeyy_1773854100442.mp4",
+  "detailed_description": "The video captures a tranquil early morning study session. A person is seen diligently working at a well-organized desk, utilizing both a laptop and an iPad with an Apple Pencil, alongside traditional notebooks. The setting is an indoor workspace with a panoramic view of a city skyline at dawn, illuminated by soft natural light. The continuous action emphasizes the routine and dedicated effort of studying at 5:30 AM, conveying a sense of calm productivity.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:07.41",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Morning_Routine",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "person studying",
+        "laptop",
+        "iPad",
+        "Apple Pencil",
+        "notebook",
+        "hands writing",
+        "typing",
+        "city skyline",
+        "desk setup",
+        "coffee",
+        "lamp"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "focused",
+          "productive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "soft morning glow",
+          "city view",
+          "minimalist aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, directly demonstrating the stated activity of 'Study at 5:30 am' through continuous, focused action. It showcases the complete process of the individual engaging with their study materials across multiple devices and notebooks, without any setup, dead air, or irrelevant footage. The visual elements like the morning skyline and organized desk enhance the theme of a dedicated morning routine."
+    }
+  ]
+}

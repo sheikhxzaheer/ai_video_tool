@@ -1,0 +1,127 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Date\\ssstik.io_@blackgentry_1766766169694.mp4",
+  "detailed_description": "This video captures the aspirational experience of dating a 'BlackGentry Man,' opening with a well-dressed, confident individual exiting a luxury car with a bouquet of red roses. He then walks with purpose, showcasing his impeccable style and a confident demeanor while checking his watch. The visual narrative effectively establishes a premium and intentional lifestyle. The video concludes with a direct call to action, introducing the 'BlackGentry' app as the platform to meet ambitious and intentional singles like the man portrayed.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Key_Information",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man in suit",
+        "car",
+        "roses",
+        "walking",
+        "city street",
+        "glasses",
+        "confident expression",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "street",
+          "car"
+        ],
+        "mood": [
+          "premium",
+          "confident",
+          "aspirational"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "pinstripe suit",
+          "luxury car",
+          "city backdrop",
+          "stylish attire"
+        ]
+      },
+      "why_kept": "This segment serves as the primary visual hook, immediately establishing the desirable persona of a 'BlackGentry Man' through his appearance, actions, and the explicit text overlay. It sets the core context and aspirational tone for the entire video."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Macro_Detail",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "pinstripe suit",
+        "gold watch",
+        "checking time",
+        "confident gaze",
+        "roses",
+        "glasses",
+        "hand in pocket"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "premium",
+          "confident",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "gold watch detail",
+          "pinstripe suit texture",
+          "direct eye contact",
+          "stylish accessories"
+        ]
+      },
+      "why_kept": "This segment reinforces the 'BlackGentry Man' persona with close-up details, highlighting his sophistication, attention to detail (watch), and confident demeanor, which are key attributes of the intended brand image. The confident gaze acts as a 'Face_Reaction' of assurance."
+    },
+    {
+      "start_time": "00:11.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Offer_CTA",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "BlackGentry logo",
+        "text call to action",
+        "App Store button",
+        "Google Play button"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clean",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "minimalist white background",
+          "digital graphic",
+          "clear typography"
+        ]
+      },
+      "why_kept": "This final segment is crucial as it explicitly introduces the 'BlackGentry' brand and provides a clear call to action, connecting the aspirational lifestyle showcased in the preceding segments directly to the dating app solution."
+    }
+  ]
+}

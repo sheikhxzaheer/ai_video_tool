@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid+parents\\ssstik.io_@a_mothers_tale_1763669113291.mp4",
+  "detailed_description": "The video captures an intimate and peaceful moment between a mother and her baby. The mother is shown lying on a couch, gently caressing her sleeping baby who is resting comfortably on her chest. Her expressions convey deep contentment and love, sometimes smiling softly and at other times closing her eyes in serene enjoyment. A text overlay highlights the sentiment of prioritizing cuddling the baby over household chores, underscoring the emotional value of the moment. Calming music enhances the tranquil and heartwarming atmosphere.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.833",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "mother",
+        "baby",
+        "cuddling",
+        "sleeping",
+        "couch",
+        "smiling",
+        "gentle touch"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "loving",
+          "peaceful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "intimate",
+          "selfie-style perspective"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core. It perfectly captures the 'emotional climax' and the 'key information' (delivered via text overlay) about the joy and contentment of cuddling a baby, illustrating a moment of calm and positive emotion. No part of the video could be trimmed without losing context or diminishing the intended emotional impact."
+    }
+  ]
+}

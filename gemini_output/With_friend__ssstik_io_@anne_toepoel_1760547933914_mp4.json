@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\With friend\\ssstik.io_@anne_toepoel_1760547933914.mp4",
+  "detailed_description": "The video captures two friends in a well-lit hotel room, dressed in white bathrobes and hair towels, joyfully dancing and jumping on their respective beds in a synchronized and energetic manner. The scene exudes a carefree and playful atmosphere, perfectly illustrating the fun and memorable moments shared during a vacation with a best friend. Text overlays reinforce the theme of friendship and holiday enjoyment, culminating in a clear call to action to tag a bestie.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.784",
+      "structural_tags": [
+        "Visual_Hook",
+        "Positive_Emotion",
+        "High_Energy",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "women",
+        "friends",
+        "bathrobes",
+        "hair towels",
+        "jumping",
+        "dancing",
+        "beds",
+        "hotel room",
+        "synchronized moves",
+        "fun",
+        "vacation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean hotel aesthetic",
+          "youthful energy",
+          "buddy comedy feel"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it continuously demonstrates the core message of the video: the joyful and energetic experience of being on vacation with a best friend. The synchronized dancing and jumping on beds, along with the text overlays, directly convey the emotional climax and key information. The segment starts precisely with the action and ends after the action concludes, requiring no trimming."
+    }
+  ]
+}

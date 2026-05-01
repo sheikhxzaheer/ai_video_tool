@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Gym\\Weird\\ssstik.io_@pelao.khe_1763103096498.mp4",
+  "detailed_description": "This video humorously showcases a man at a gym who is intensely role-playing as a Navy SEAL. He uses various gym equipment, such as a trap bar and weight plates, as props in his imaginary tactical exercises, mimicking movements and stances of military training. Other gym-goers are visible in the background, seemingly oblivious to his unique workout, which adds to the comedic effect. The video culminates with him pausing his 'mission' to glance at the camera, acknowledging the viewer.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:28.160",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Lifestyle_Active",
+        "Playful"
+      ],
+      "visual_keywords": [
+        "man",
+        "gym",
+        "trap bar",
+        "weight plates",
+        "wooden box",
+        "dumbbell rack",
+        "mock training",
+        "SEAL",
+        "focused expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "gym"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera movement",
+          "well-lit"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it perfectly encapsulates the core meaning and humor of the video: a man enthusiastically performing mock military drills in a gym setting, creating a unique and entertaining 'hero moment' that directly correlates with the on-screen text about wanting to be a SEAL. His consistent actions, the use of equipment, and his expressions throughout are essential to conveying the comedic premise."
+    }
+  ]
+}

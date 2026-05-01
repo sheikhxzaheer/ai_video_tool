@@ -1,0 +1,57 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Spraying\\IMG_0181.MOV",
+  "detailed_description": "This video showcases the effectiveness of MoldMD Mold Spot Remover. It begins by presenting a noticeable mold issue in a bathroom corner, then demonstrates the direct application of the product via spraying. The subsequent wiping action reveals a rapid transformation, as the mold is thoroughly removed, leaving behind a visibly clean and spotless surface. The entire sequence effectively highlights the product's quick and efficient cleaning capabilities for mold and mildew stains.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.200",
+      "structural_tags": [
+        "Product_Intro",
+        "Problem_State",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Before_After",
+        "Human_Interaction",
+        "Macro_Detail",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hand",
+        "spray bottle",
+        "MoldMD",
+        "mold",
+        "wall corner",
+        "bathroom",
+        "tiles",
+        "spraying",
+        "wiping",
+        "cleaning cloth",
+        "clean surface",
+        "before and after"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "energetic",
+          "satisfying"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct demonstration",
+          "clear action",
+          "quick result",
+          "solution-oriented"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully demonstrates the product's value proposition. It effectively shows the 'Problem State' (mold), the 'Product Interaction' (spraying the cleaner), the 'Mechanism of Action' (wiping away the mold), and the 'Result Transformation' (a clean wall), all in one continuous and clear sequence. There is no 'Setup & Calibration' or 'Post-Action Dead Air', making the entire clip a 'Hero Moment' of product efficacy."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Magazine\\Cosmopolitan\\ssstik.io_@gracefoley_1761831354577.mp4",
+  "detailed_description": "This video features a stylish woman in an elegant setting, embodying a desired 'it-girl' aesthetic. She is shown reading a Vogue magazine, explicitly stating her intention to manifest her dream lifestyle through this activity. The video is complemented by audio narration that likens buying Vogue to choosing inspiration over basic needs, reinforcing the aspirational theme. The various shots, alternating between her reading and posing confidently, collectively illustrate the journey and aspiration of manifesting a chic, dream lifestyle.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "magazine",
+        "Vogue",
+        "Chanel",
+        "handbag",
+        "couch",
+        "elegant room",
+        "coffee table",
+        "reading",
+        "posing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "aspirational"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "neutral tones",
+          "chic",
+          "minimalist",
+          "soft focus"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it fully conveys the stated purpose: 'reading vogue to help manifest my dream it-girl life'. The video seamlessly combines the action of reading the magazine, visual cues of a desirable lifestyle (posing, elegant setting), and a reinforcing audio narrative, all without any extraneous or trimmable content, adhering to the 'no-mistake' rule."
+    }
+  ]
+}

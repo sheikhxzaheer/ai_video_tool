@@ -1,0 +1,200 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ssstik.io_1748600690159.mp4",
+  "detailed_description": "This video captures a traditional Turkish barber providing a comprehensive hair and scalp treatment for a client. The service includes multiple stages of cleansing with various shampoos and conditioners, intense scalp massages using different techniques and tools, thorough rinsing and drying, and culminates in the final styling. The barber's skilled hand movements and the client's relaxed demeanor highlight the therapeutic and professional nature of the service.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.999",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "barber",
+        "client",
+        "scalp massage",
+        "liquid application",
+        "percussive massage",
+        "head massage"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct lighting",
+          "steady camera"
+        ]
+      },
+      "why_kept": "This segment introduces the initial stages of the comprehensive scalp treatment, showcasing the barber's precise application of product and the unique percussive massage techniques, setting the tone for the service."
+    },
+    {
+      "start_time": "00:14.000",
+      "end_time": "00:26.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "hair wash",
+        "sink",
+        "shampoo",
+        "lather",
+        "rinse",
+        "barber",
+        "client"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct lighting",
+          "steady camera"
+        ]
+      },
+      "why_kept": "This segment demonstrates the thorough washing of the client's hair in the sink, a fundamental step in any hair treatment, showing the cleansing process."
+    },
+    {
+      "start_time": "00:26.000",
+      "end_time": "00:43.999",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "towel dry",
+        "conditioner",
+        "hair brush",
+        "hair rinse",
+        "barber",
+        "client"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct lighting",
+          "steady camera"
+        ]
+      },
+      "why_kept": "This segment showcases the steps immediately following washing, including towel drying, the application of another product, and brushing, highlighting the conditioning phase of the treatment."
+    },
+    {
+      "start_time": "00:46.000",
+      "end_time": "01:15.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "blue foam",
+        "shampoo",
+        "vigorous massage",
+        "scalp treatment",
+        "barber",
+        "client"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "positive",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct lighting",
+          "steady camera",
+          "dynamic hand movements"
+        ]
+      },
+      "why_kept": "This segment is the ANCHOR as it prominently features the distinctive blue foamy product application and the barber's unique, vigorous scalp massage technique, which is a signature element of the service and highly visually engaging."
+    },
+    {
+      "start_time": "01:15.500",
+      "end_time": "02:04.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Result_Transformation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "hair rinse",
+        "towel dry",
+        "blow dryer",
+        "scalp tapping",
+        "head scratcher",
+        "barber",
+        "client",
+        "hair styling",
+        "finished hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct lighting",
+          "steady camera"
+        ]
+      },
+      "why_kept": "This segment concludes the treatment, showing the final rinsing, drying, unique stimulating scalp massages with tools, and the final styling, demonstrating the completed transformation and the client's refreshed appearance."
+    }
+  ]
+}

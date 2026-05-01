@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLife_working\\Scene26_Bonding Moments.mp4",
+  "detailed_description": "The video captures a tender moment of calm and affection between a woman and her dog, both resting comfortably on a couch. The dog is deeply asleep next to her, while the woman, initially with her eyes closed, slowly opens them and offers a soft, contented smile, reflecting a deep sense of peace and happiness in the shared quietude.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.460",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Home"
+      ],
+      "visual_keywords": [
+        "woman sleeping",
+        "dog sleeping",
+        "couch",
+        "blanket",
+        "woman smiling",
+        "peaceful moment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "cozy",
+          "natural light",
+          "affectionate"
+        ]
+      },
+      "why_kept": "This entire segment serves as the 'Emotional Climax' hero moment. It beautifully captures the genuine affection and peaceful interaction between the woman and her dog. Her subtle smile and relaxed demeanor, alongside the dog's deep sleep, convey the core emotional value of the video without any need for trimming as the moment unfolds continuously from start to end."
+    }
+  ]
+}

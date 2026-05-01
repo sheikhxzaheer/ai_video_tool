@@ -1,0 +1,179 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_Tsherig_poductapplication.mp4",
+  "detailed_description": "This video demonstrates a 9:15 PM Korean beauty skincare routine using QUIA products. The process begins with the application of the Collagen Night Wrapping Mask, which is shown being spread onto the face with a brush. This innovative mask is highlighted for its ability to enhance hydration, improve skin elasticity, and reduce fine lines, with the option to peel it off or leave it overnight. Following this, the user applies the Collagen Niacinamide Jelly Cream, emphasizing its benefits of hydrating, firming, brightening the skin, and soothing redness. The routine concludes with a satisfied smile, showcasing the visible effects of a nourished and revitalized complexion.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.810",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "Quia Korean Beauty products",
+        "pink jars",
+        "collagen mask",
+        "jelly cream"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment serves as the visual hook and product introduction, clearly setting the stage for the entire skincare routine and showcasing the key products."
+    },
+    {
+      "start_time": "00:01.810",
+      "end_time": "00:02.810",
+      "structural_tags": [
+        "Human_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bunny ear headband"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "This brief moment sets the personal context of a routine and prepares the user for the skincare application."
+    },
+    {
+      "start_time": "00:02.810",
+      "end_time": "00:07.720",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process",
+        "Mechanism_Of_Action",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "squeezing mask",
+        "applying mask",
+        "face brush",
+        "collagen mask"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct application",
+          "informative text overlay"
+        ]
+      },
+      "why_kept": "This segment is crucial as it demonstrates the direct application and active use of the first key product, highlighting its texture and initial effects."
+    },
+    {
+      "start_time": "00:07.720",
+      "end_time": "00:09.110",
+      "structural_tags": [
+        "Product_Interaction",
+        "Result_Transformation",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "peeling off mask",
+        "clear film"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "unique product feature",
+          "clear visual outcome"
+        ]
+      },
+      "why_kept": "This segment showcases a unique aspect of the mask – its peel-off property – which is a direct product interaction and a visible 'result' of its application."
+    },
+    {
+      "start_time": "00:09.110",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "scooping jelly cream",
+        "applying cream",
+        "massaging face",
+        "smiling",
+        "glowing skin",
+        "collagen jelly cream"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "gentle application",
+          "visible satisfaction",
+          "informative text overlay"
+        ]
+      },
+      "why_kept": "This segment demonstrates the application of the second core product, the final steps of the routine, and concludes with a clear positive emotional response and a visible 'result' of improved skin."
+    }
+  ]
+}

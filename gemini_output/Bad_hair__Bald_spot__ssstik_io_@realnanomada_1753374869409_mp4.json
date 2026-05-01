@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\Bald spot\\ssstik.io_@realnanomada_1753374869409.mp4",
+  "detailed_description": "The video showcases a cheerful moment at an outdoor social gathering where two men interact playfully. The central action involves them simultaneously donning distinctive plaid hats, adorned with the Spanish flag's colors, while holding drinks and sharing smiles. This lighthearted interaction highlights a sense of camaraderie and festive spirit within a lively street setting.",
+  "segments": [
+    {
+      "start_time": "00:01.333",
+      "end_time": "00:03.667",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "men",
+        "hats",
+        "drinks",
+        "street",
+        "plaid",
+        "Spanish flag colors",
+        "smiling",
+        "sunglasses"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sunny",
+          "bright lighting",
+          "casual attire"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the 'Product Interaction' as both men retrieve and put on their hats, and the 'Emotional Climax' through their shared smiles and positive interaction. It also serves as a 'Reveal' of the hats being worn, perfectly capturing the core playful and social essence of the video."
+    }
+  ]
+}

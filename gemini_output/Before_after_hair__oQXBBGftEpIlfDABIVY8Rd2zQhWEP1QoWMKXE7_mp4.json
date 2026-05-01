@@ -1,0 +1,81 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\oQXBBGftEpIlfDABIVY8Rd2zQhWEP1QoWMKXE7.mp4",
+  "detailed_description": "This video showcases a remarkable hair transformation at Empire Barbers. It begins by presenting a young man with a receding hairline and longer, unstyled hair, establishing a 'before' state. The video then transitions directly to reveal him with a fresh, modern haircut that effectively covers the previous hair loss, highlighting the barber's skill and the positive impact of the new style. The subject's confident demeanor and improved appearance demonstrate the value of the service provided.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.800",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man",
+        "unstyled hair",
+        "receding hairline",
+        "mullet",
+        "barber cape"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "professional setting"
+        ]
+      },
+      "why_kept": "This segment establishes the initial state, presenting the 'before' look with unstyled hair and a visible receding hairline, which sets the context for the subsequent transformation."
+    },
+    {
+      "start_time": "00:05.800",
+      "end_time": "00:15.300",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man",
+        "styled hair",
+        "haircut",
+        "mullet",
+        "fringe",
+        "fade",
+        "smiling",
+        "barber cape"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "positive",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "professional setting",
+          "sharp focus"
+        ]
+      },
+      "why_kept": "This is the primary hero moment, showcasing the 'after' result of the haircut. It clearly demonstrates the transformation with a stylish new look that effectively addresses the previous hair concerns, conveying the skill of the barber and the positive impact on the client's appearance."
+    }
+  ]
+}

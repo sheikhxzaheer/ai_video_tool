@@ -1,0 +1,192 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Korean woman\\ssstik.io_@kbeauty_expert_1761434340145.mp4",
+  "detailed_description": "This video showcases a 60-year-old Korean mother's anti-aging skincare routine, shared by her daughter. The mother demonstrates her step-by-step process, starting with a moisturizing mist after showering, followed by a toner, her favorite Julioly serum for hydration and smoothness, and finally an anti-wrinkle care cream. The video emphasizes product interaction and application techniques, culminating in a reveal of the mother's youthful and glowing skin, encouraging viewers to follow her routine.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.950",
+      "structural_tags": [
+        "Visual_Hook",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "mother and daughter",
+        "smiling",
+        "bathrobes",
+        "hair towels",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "casual spa attire"
+        ]
+      },
+      "why_kept": "This segment acts as the initial visual hook, introducing the mother and daughter, setting the context of the video with the on-screen text, and establishing the positive, energetic mood."
+    },
+    {
+      "start_time": "00:11.000",
+      "end_time": "00:17.760",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "UGC_Talking_Head",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "mom spraying mist",
+        "daughter patting cheek",
+        "moisturizing mist bottle",
+        "face application"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear product view",
+          "gentle movements"
+        ]
+      },
+      "why_kept": "This segment demonstrates the first step of the skincare routine – applying a moisturizing mist. It shows clear product interaction and the application process, which is a core action."
+    },
+    {
+      "start_time": "00:18.060",
+      "end_time": "00:25.990",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "UGC_Talking_Head",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "mom holding toner",
+        "toner on hands",
+        "patting face",
+        "daughter applying"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear product view",
+          "gentle patting motions"
+        ]
+      },
+      "why_kept": "This segment shows the application of toner, detailing the second step of the routine. It features product interaction, a clear demonstration of the process, and highlights the shared routine."
+    },
+    {
+      "start_time": "00:26.500",
+      "end_time": "00:41.200",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "mom holding serum",
+        "Julioly serum",
+        "applying serum to face",
+        "hydrated skin",
+        "daughter applying"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up product shot",
+          "glowing skin texture"
+        ]
+      },
+      "why_kept": "This is a key segment where the 'favorite' serum is introduced, its benefits are explained, and both mother and daughter demonstrate its application with close-ups, emphasizing the product's role in achieving hydrated skin."
+    },
+    {
+      "start_time": "00:41.500",
+      "end_time": "00:51.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "mom holding anti-wrinkle cream",
+        "applying cream",
+        "smooth skin",
+        "smiling faces",
+        "peace sign"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "satisfied",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear product view",
+          "final glow",
+          "relaxed expressions"
+        ]
+      },
+      "why_kept": "This segment presents the final step of the routine with the anti-wrinkle cream. It includes product introduction, generous application, and culminates in satisfied expressions from both showing the desired result of the complete skincare regimen."
+    }
+  ]
+}

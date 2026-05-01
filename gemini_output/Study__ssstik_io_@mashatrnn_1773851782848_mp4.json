@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Study\\ssstik.io_@mashatrnn_1773851782848.mp4",
+  "detailed_description": "This short video humorously depicts the relatable experience of quickly feeling mentally and physically exhausted after just a few minutes of studying. The young woman, sitting at a desk with a notebook, transitions from a focused posture to exaggerated expressions of weariness, sighing, and gesturing dramatically to convey extreme tiredness. The text overlay and audio voiceover reinforce the comedic premise of being utterly drained after minimal effort, concluding with a lighthearted suggestion of needing a 'two-martini night' to recover.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.232",
+      "structural_tags": [
+        "Problem_State",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Positive_Emotion",
+        "High_Energy",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "studying",
+        "writing",
+        "notebook",
+        "pencil",
+        "tired expression",
+        "exaggerated gestures",
+        "frustration",
+        "humorous relief",
+        "desk",
+        "curtains"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "relatable",
+          "exasperated"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "casual setting",
+          "meme-style"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the ANCHOR because it comprehensively captures the core message and emotional climax of the video. The initial action of writing, followed by the progressive and exaggerated expressions of exhaustion and humor, perfectly illustrates the 'me after studying for 5 minutes' premise. The facial reactions and gestures are central to conveying the problem state and the comedic resolution, making every moment essential to the semantic core. There is no 'dead air' or 'setup' to trim as the performance starts immediately and concludes with the final humorous gesture."
+    }
+  ]
+}

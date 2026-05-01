@@ -1,0 +1,141 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Woman\\ssstik.io_@drhallcute_1766931105184.mp4",
+  "detailed_description": "This video features a woman in medical scrubs who humorously educates viewers on three things they should know before getting a prostate check. She uses a lighthearted approach to demystify potential reactions and aspects of the exam, such as erections, the 'G-spot', and ejaculation during the procedure, assuring men that these are natural reactions. The video employs text overlays and brief animated diagrams to visually support her key points and maintain an engaging, informative tone.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.300",
+      "structural_tags": [
+        "Visual_Hook",
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Formula_Graphic"
+      ],
+      "visual_keywords": [
+        "woman",
+        "scrubs",
+        "stethoscope",
+        "skeleton model",
+        "prostate diagram"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment acts as a strong visual hook, introducing the video's topic and the speaker's persona as an expert. The text overlay and animated diagram clearly state the video's purpose, making it a central piece of the semantic core."
+    },
+    {
+      "start_time": "00:03.400",
+      "end_time": "00:06.800",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "woman",
+        "scrubs",
+        "stethoscope",
+        "outdoors",
+        "trees"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment delivers the first key piece of information, contributing directly to the video's core educational message. Although a 'talking head,' the information itself is the 'product' being delivered."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:10.500",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "woman",
+        "scrubs",
+        "stethoscope",
+        "car interior",
+        "steering wheel"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address",
+          "dynamic gestures"
+        ]
+      },
+      "why_kept": "This segment conveys the second essential piece of information, reinforcing the video's purpose of educating viewers about prostate checks. It's a clear demonstration of 'Key Information' being shared."
+    },
+    {
+      "start_time": "00:10.800",
+      "end_time": "00:16.800",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Formula_Graphic"
+      ],
+      "visual_keywords": [
+        "woman",
+        "scrubs",
+        "stethoscope",
+        "medical exam animation",
+        "room"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address",
+          "casual setting"
+        ]
+      },
+      "why_kept": "This final segment completes the informational triad, delivering the third key point and concluding the discussion. The embedded animation further illustrates the topic, making it integral to the semantic core."
+    }
+  ]
+}

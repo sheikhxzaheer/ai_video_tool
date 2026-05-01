@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ssstik.io_1746983328460.mp4",
+  "detailed_description": "This video humorously addresses the question 'Bro how do you have a beard at 20?' The creator, a man with a full beard, holds up half an onion and then proceeds to vigorously rub it across his face and beard area. His expressive and slightly mischievous facial reactions throughout the process convey a playful and sarcastic tone, implying the onion is his secret to beard growth at a young age.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.751",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "man",
+        "beard",
+        "curly hair",
+        "tattoo",
+        "onion",
+        "rubbing",
+        "face",
+        "jawline",
+        "playful expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "humorous",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "casual",
+          "direct address",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it presents the problem statement (on-screen text) and immediately follows with the humorous 'mechanism of action' (rubbing the onion on the face) which is the direct answer to the implied question. The continuous action and facial expressions are central to the video's comedic value and message. There is no dead air or setup to trim."
+    }
+  ]
+}

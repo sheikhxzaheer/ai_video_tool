@@ -1,0 +1,309 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bag\\ssstik.io_@gabbygarrciaa_1760554063754.mp4",
+  "detailed_description": "The video documents a woman's luxury shopping experience at Goyard, showcasing her trying on various stylish tote bags in different sizes and vibrant colors. She carefully considers each option, interacting with the salesperson and demonstrating how each bag looks when worn. The core of the video centers around her eventual purchase of a classic small black Goyard tote, highlighting its features like a zipper closure. Despite a significant delay caused by a bank fraud alert during the transaction, the video concludes with her expressing immense satisfaction and happiness with her chosen bag, emphasizing that the wait was ultimately worthwhile.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.167",
+      "structural_tags": [
+        "Product_Interaction",
+        "Emotional_Climax",
+        "Reveal_Result",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "man",
+        "Goyard bag",
+        "tote bag",
+        "trying on",
+        "smiling",
+        "shopping"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "luxury store setting"
+        ]
+      },
+      "why_kept": "This segment shows the initial product interaction as the woman tries on a large Goyard tote, showcasing her process of choosing and her positive reaction."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:09.133",
+      "structural_tags": [
+        "Product_Interaction",
+        "Reveal_Result",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "small tote bag",
+        "Goyard bag",
+        "trying on",
+        "posing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "luxury store setting"
+        ]
+      },
+      "why_kept": "This segment continues to show the product interaction, as the woman tries on a smaller black Goyard tote, providing a clear visual of its size and style."
+    },
+    {
+      "start_time": "00:12.000",
+      "end_time": "00:13.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Reveal_Result",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "blue tote bag",
+        "Goyard bag",
+        "trying on",
+        "posing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "luxury store setting"
+        ]
+      },
+      "why_kept": "This segment captures the product interaction with a blue Goyard tote, highlighting the variety of colors available and her engagement with them."
+    },
+    {
+      "start_time": "00:22.000",
+      "end_time": "00:29.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Key_Information",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "Goyard bag",
+        "small tote",
+        "black bag",
+        "zipper",
+        "bag handle",
+        "hand"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "premium",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "detailed view"
+        ]
+      },
+      "why_kept": "This segment is a crucial product reveal, showing the specific chosen bag in detail and highlighting a key feature (the zipper), which is important information for potential buyers."
+    },
+    {
+      "start_time": "00:31.000",
+      "end_time": "00:34.500",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Product_Interaction",
+        "Key_Information",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "blue Goyard bag",
+        "speaking",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "selfie-style camera",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment provides key information as the woman discusses her initial choice of the blue bag and her decision to potentially return for it, showcasing her emotional connection to the products while holding one."
+    },
+    {
+      "start_time": "00:34.900",
+      "end_time": "00:38.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Emotional_Climax",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "man",
+        "Goyard shopping bag",
+        "green bag",
+        "receiving gift",
+        "smiling",
+        "excited"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "celebratory moment"
+        ]
+      },
+      "why_kept": "This segment captures the 'result' of the purchase and the 'emotional climax' as she receives her newly bought Goyard bag, clearly displaying her excitement and satisfaction."
+    },
+    {
+      "start_time": "00:41.000",
+      "end_time": "00:47.833",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Emotional_Climax",
+        "Key_Information",
+        "Positive_Emotion",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "woman",
+        "Goyard shopping bag",
+        "walking",
+        "speaking",
+        "smiling",
+        "storefront"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "selfie-style camera",
+          "bright lighting",
+          "luxury brand signage"
+        ]
+      },
+      "why_kept": "This segment is the ANCHOR as it encapsulates the final outcome and emotional high point of her shopping experience. She is seen leaving the store with her purchase, directly addressing the camera, and sharing key information about the challenging but rewarding purchasing process, fulfilling multiple hero moment criteria including emotional climax, key information, and result."
+    },
+    {
+      "start_time": "00:52.800",
+      "end_time": "01:05.100",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Emotional_Climax",
+        "Key_Information",
+        "Positive_Emotion",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "Goyard shopping bag",
+        "walking",
+        "speaking",
+        "smiling",
+        "street",
+        "building reflection"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "happy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "selfie-style camera",
+          "sunny day",
+          "urban backdrop"
+        ]
+      },
+      "why_kept": "This segment reinforces the emotional climax and provides final key information, with the woman expressing deep satisfaction and pride in her purchase, confirming it was 'worth the wait' while walking outside the store, bag in hand."
+    }
+  ]
+}

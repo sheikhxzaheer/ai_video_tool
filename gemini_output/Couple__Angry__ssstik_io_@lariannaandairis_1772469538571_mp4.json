@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Couple\\Angry\\ssstik.io_@lariannaandairis_1772469538571.mp4",
+  "detailed_description": "This video captures a relatable scenario where a woman is in an argument with her partner, and the on-screen text humorously states that he is 'actually right,' forcing her to decide her next move. The core of the video focuses on her internal struggle and facial expressions as she contemplates a list of humorous options, including crying, fainting, bringing up his ex, or admitting he's right. Her subtle reactions and the man's continued gesturing effectively convey the dynamic of the argument and her internal dilemma.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.517",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Confusion_Doubt"
+      ],
+      "visual_keywords": [
+        "couple arguing",
+        "woman thinking",
+        "man talking",
+        "text overlay with options",
+        "internal debate"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "playful",
+          "relatable"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "direct address to camera for thinking",
+          "modern room"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it entirely encapsulates the premise and action described by the text overlay. It perfectly captures the emotional climax of the woman's internal decision-making process in a relatable 'problem state' scenario, which is the entire point of the video. No trimming is needed as the action starts immediately and ends naturally, adhering to the 'no-mistake' rule."
+    }
+  ]
+}

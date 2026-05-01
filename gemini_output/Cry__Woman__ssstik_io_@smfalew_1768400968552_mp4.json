@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cry\\Woman\\ssstik.io_@smfalew_1768400968552.mp4",
+  "detailed_description": "The video captures a young woman inside a car, visibly emotional with tears in her eyes. She directly addresses the camera, sharing a significant personal achievement: driving on the highway for the very first time. She also reveals her age, 20, adding context to the milestone. The segment conveys her raw and honest reaction to overcoming a personal challenge.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.655",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "woman",
+        "crying",
+        "speaking",
+        "car interior",
+        "tears",
+        "emotional"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "emotional",
+          "reflective",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address",
+          "natural lighting",
+          "authentic"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully captures the emotional climax and key information. The subject's visible tears and direct narration about driving on the highway for the first time at 20 years old constitute the entire value and meaning of the video, fitting the 'Emotional Climax' and 'Key Information' hero moment criteria. No trimming was applied as the action starts and ends precisely within the given duration."
+    }
+  ]
+}

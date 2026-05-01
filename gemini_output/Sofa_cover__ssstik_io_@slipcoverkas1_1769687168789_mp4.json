@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sofa cover\\ssstik.io_@slipcoverkas1_1769687168789.mp4",
+  "detailed_description": "The video comprehensively demonstrates the quick and easy application of a textured, wavy-patterned sofa cover onto an L-shaped couch. A woman is shown meticulously draping, smoothing, and tucking the plush fabric, effortlessly transforming the furniture's appearance. The final segment highlights the complete aesthetic makeover, with decorative pillows placed, culminating in the woman relaxing on the newly covered sofa, emphasizing both the product's functionality and its comforting appeal.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:09:950",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Home_Kitchen",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman",
+        "sofa cover",
+        "L-shaped couch",
+        "wavy pattern",
+        "textured fabric",
+        "hands",
+        "living room",
+        "decorative pillows"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "smooth transitions"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it comprehensively demonstrates the product's function from initial application to the final transformed look and user interaction. It effectively showcases the 'Process/Labor' of covering the sofa, the 'Product Interaction' through handling and fitting, and the 'Reveal/Result' of the couch's aesthetic change and comfort."
+    }
+  ]
+}

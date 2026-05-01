@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ðôð░ÐÇð¢ðÁ ð▓ð¥ð╗ð¥ÐüÐüÐÅ ð¥ð▒ð╗ÐûÐé ð¢ð░ð▓ð║ð¥ð╗ð¥ 3.mp4",
+  "detailed_description": "The video presents a cheerful man confidently showcasing his full, natural-looking hair, which is attributed to a 'Replique Second Skin Hairpiece.' He smiles brightly and turns his head to display the hairpiece from various angles, emphasizing its seamless integration and realistic appearance. The consistent positive facial expressions highlight the emotional benefit and satisfaction derived from the product. On-screen text provides key product details, pricing, and availability for free consultations, acting as a clear call to action.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.200",
+      "structural_tags": [
+        "Product_Intro",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Offer_CTA",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "hairpiece",
+        "full hair",
+        "smiling",
+        "happy",
+        "head turn",
+        "salon interior",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background",
+          "dynamic camera movement",
+          "direct address to camera"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the direct result of the 'Second Skin Hairpiece' through the subject's full and natural-looking hair shown from multiple angles. His consistent positive facial expressions (smiling, laughing) clearly convey the emotional satisfaction and confidence associated with the product. The on-screen text provides essential product information and a call to action, making the entire duration a comprehensive hero moment. There is no 'setup' or 'dead air' that needs trimming, and the continuous display of the result and emotion adheres to the 'no-mistake' rule."
+    }
+  ]
+}

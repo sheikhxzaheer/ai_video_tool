@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Tired\\Woman\\Scene2 concerned owner.mp4",
+  "detailed_description": "The video captures a woman's evident frustration and exasperation as she attempts to cope with persistent and loud dog barking in the background. Her expressions range from pained to visibly annoyed, accentuated by her repeated gestures of covering her face with her hand. The scene culminates with her trying to call the dog, Charlotte, amidst the ongoing noise, highlighting a common, relatable domestic disturbance.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:18.237",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "frustration",
+        "dog barking",
+        "covering face",
+        "sadness",
+        "sighing",
+        "talking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "frustrated"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "static shot"
+        ]
+      },
+      "why_kept": "This entire segment is kept because it comprehensively captures the main 'Hero Moment,' which is the emotional climax—a woman's clear display of frustration and exasperation due to continuous dog barking. Her repeated gestures of covering her face and her attempt to speak through the noise effectively communicate the 'Problem_State' and 'Negative_Emotion,' making the full duration essential to convey the continuous nature of the disturbance and her reaction."
+    }
+  ]
+}

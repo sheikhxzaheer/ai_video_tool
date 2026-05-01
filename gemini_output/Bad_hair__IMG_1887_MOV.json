@@ -1,0 +1,185 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\IMG_1887.MOV",
+  "detailed_description": "The video documents the complete process of scalp micropigmentation (SMP) to address male pattern baldness. It begins by showcasing the existing hairline and the careful preparation, including precise shaving and marking of the new, desired hairline. The core procedure involves a specialist meticulously tattooing tiny dots on the scalp to simulate natural hair follicles. The video culminates in a compelling reveal of the immediate, natural-looking results, capturing the client's genuine satisfaction with his restored hairline.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.800",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Process_Labor",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "comb",
+        "receding hairline",
+        "clippers",
+        "razor",
+        "marking",
+        "hairline design",
+        "preparation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state, highlighting the initial hair condition and showing the meticulous preparation process, including shaving and designing the new hairline. It sets the stage for the main SMP application."
+    },
+    {
+      "start_time": "00:13.200",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Mechanism_Of_Action",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "SMP",
+        "micropigmentation",
+        "tattoo gun",
+        "applying ink",
+        "barber",
+        "specialist"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused shot",
+          "detail oriented"
+        ]
+      },
+      "why_kept": "This segment demonstrates the core 'Mechanism_Of_Action' by showcasing the actual scalp micropigmentation procedure being performed, highlighting the specialized tool and precise technique used."
+    },
+    {
+      "start_time": "00:16.400",
+      "end_time": "00:24.500",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "wiping",
+        "cleaning",
+        "fresh SMP",
+        "new hairline",
+        "scalp",
+        "immediate results"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "satisfying",
+          "revealing"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "top-down view",
+          "clear reveal"
+        ]
+      },
+      "why_kept": "This segment is a critical 'Result_Transformation' moment, providing the first clear visual impact of the SMP as excess product is wiped away, revealing the immediate and tangible success of the procedure."
+    },
+    {
+      "start_time": "00:24.600",
+      "end_time": "00:28.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Face_Reaction",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "client",
+        "mirror",
+        "smiling",
+        "happy",
+        "satisfaction",
+        "full view",
+        "new look"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "positive",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural reaction",
+          "authentic joy"
+        ]
+      },
+      "why_kept": "This segment captures the 'Emotional_Climax' and the client's genuine 'Face_Reaction' of satisfaction and happiness upon seeing his transformed hairline, serving as strong social proof and highlighting the positive impact of the service."
+    },
+    {
+      "start_time": "00:28.400",
+      "end_time": "00:33.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Macro_Detail",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "finished SMP",
+        "detailed hairline",
+        "shaved head",
+        "scalp texture",
+        "natural look",
+        "close-up"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "high definition",
+          "detailed texture"
+        ]
+      },
+      "why_kept": "This segment provides a detailed 'Macro_Detail' of the finished 'Result_Transformation', allowing viewers to closely examine the quality, texture, and natural appearance of the new hairline and simulated follicles, showcasing the final product."
+    }
+  ]
+}

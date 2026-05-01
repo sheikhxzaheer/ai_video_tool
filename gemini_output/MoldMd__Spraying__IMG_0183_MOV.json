@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Spraying\\IMG_0183.MOV",
+  "detailed_description": "The video demonstrates the effectiveness of MoldMD Multi-Purpose Home Cleaner in tackling a dirty HVAC air filter. A person sprays the cleaning solution directly onto the dust-laden filter and then wipes it with a cloth, visibly removing grime and dirt. The close-up shots highlight the product's immediate cleaning action and the transformation of the soiled surface.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:20.354",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Macro_Detail",
+        "Home_Kitchen",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "spraying",
+        "wiping",
+        "air filter",
+        "dust",
+        "mold cleaner",
+        "white cloth",
+        "dirty surface",
+        "hand"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "practical demonstration",
+          "close-up details",
+          "focused action"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it comprehensively demonstrates the product's application and immediate cleaning effect on a visibly dirty air filter. It covers product interaction, the 'process/labor' of cleaning, and a clear 'reveal/result' as dirt is removed. The video begins and ends precisely with the action, adhering to the 'No-Mistake' rule."
+    }
+  ]
+}

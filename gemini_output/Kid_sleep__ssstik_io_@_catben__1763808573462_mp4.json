@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid sleep\\ssstik.io_@_catben__1763808573462.mp4",
+  "detailed_description": "This video captures a serene night scene where a young boy is sleeping peacefully in his bed, illuminated by a calming blue LED light strip along the wall. Two dogs are also seen resting on the rug beside the bed, contributing to the tranquil atmosphere. The scene highlights a moment of quiet rest and relaxation within a home environment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.220",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Night_Routine",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "boy sleeping",
+        "bed",
+        "blanket",
+        "dogs",
+        "blue LED lights",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "relaxing",
+          "peaceful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "blue lighting",
+          "dim light",
+          "cozy ambiance"
+        ]
+      },
+      "why_kept": "This segment is the entire video and perfectly encapsulates the core meaning: a peaceful night scene featuring a boy and his pets sleeping in a room with aesthetic blue lighting, demonstrating calm and relaxation."
+    }
+  ]
+}

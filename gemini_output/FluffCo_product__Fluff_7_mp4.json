@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_7.mp4",
+  "detailed_description": "The video focuses on a close-up interaction with a plush white pillow, showcasing its texture and perceived comfort. A hand is seen gently pressing and fluffing the pillow on a neatly made bed in a modern bedroom setting. Text overlays describe the pillow as 'effective,' implying a positive product review or endorsement. The overall scene conveys a sense of comfort and quality associated with the bedding.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.283",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "hand",
+        "pillow",
+        "bed",
+        "bedroom",
+        "fluffing",
+        "pressing",
+        "white bedding"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment is the entire video and perfectly encapsulates the 'Semantic Core' by demonstrating direct product interaction. The hand actively engages with the pillow, highlighting its form and softness, which aligns with the 'PRODUCT INTERACTION' hero moment criteria. The text overlays, though not spoken, convey key information about the product's effectiveness, making the entire clip a cohesive and valuable demonstration."
+    }
+  ]
+}

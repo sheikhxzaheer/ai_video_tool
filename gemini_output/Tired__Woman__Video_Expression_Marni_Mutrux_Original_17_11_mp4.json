@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Tired\\Woman\\Video_Expression_Marni Mutrux_Original_17.11.mp4",
+  "detailed_description": "The video captures a woman experiencing a clear emotional climax of distress and frustration while seated at a desk in an office setting. She repeatedly covers her face with her hands, looking up once in despair and resting her chin on her hands, before returning to a state of emotional overwhelm. Her expressions convey profound feelings of sadness, exhaustion, and possibly stress, effectively illustrating a problem state.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman covering face",
+        "frustration",
+        "distress",
+        "sadness",
+        "desk",
+        "keyboard",
+        "hands"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "distressed"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "static camera"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it constitutes a continuous and coherent 'Emotional Climax,' a key 'Hero Moment' criterion. The woman's actions and facial expressions throughout the clip effectively demonstrate a problem state of distress and frustration, with no discernible setup, calibration, or post-action dead air that would warrant trimming."
+    }
+  ]
+}

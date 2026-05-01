@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Tired\\Woman\\ssstik.io_@_yukib_1766931714889.mp4",
+  "detailed_description": "The video captures a young woman with narcolepsy attempting to work on her thesis in what appears to be an office or library setting. She is shown visibly struggling to stay awake, repeatedly fighting off moments of intense drowsiness and 'sleep attacks.' Despite her determined efforts to remain focused and continue her work, she eventually succumbs to sleep, highlighting the profound and constant challenge of managing narcolepsy during mentally demanding tasks. The video serves as a poignant visual representation of the daily struggle faced by individuals with this condition.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:27.799",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "young woman",
+        "narcoleptic",
+        "fighting sleep",
+        "dozing off",
+        "sleep attack",
+        "writing thesis",
+        "desk",
+        "office environment",
+        "tiredness",
+        "struggle"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "static shot",
+          "documentary style"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the 'Semantic Core' because it cohesively and continuously demonstrates the central theme: a narcoleptic individual's struggle to stay awake while performing a demanding task. It showcases the 'Process/Labor' of fighting sleep, the 'Emotional Climax' of repeatedly dozing off and waking up, and the ultimate succumbing to the 'Problem State' of narcolepsy, fully supported by the on-screen text."
+    }
+  ]
+}

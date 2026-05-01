@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_28.mp4",
+  "detailed_description": "The video features a close-up of a hand resting on a pristine white fabric, likely a pillow or bedsheet, conveying a sense of comfort and quality. The on-screen text 'Samforize' highlights a fabric treatment technology, implying that the material is shrinkage-controlled and superior. The interaction of the hand with the fabric, coupled with the key informational text, aims to showcase the product's premium feel and technical attributes.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Key_Information",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "white pillow",
+        "fabric",
+        "silver ring",
+        "bracelet",
+        "Samforize text"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, as it directly presents the implied product (Samforized fabric) through a subtle interaction (hand resting on it) and prominently displays the key information ('Samforize' text). Given its short duration and direct presentation of the core message, no trimming is necessary as per the 'No-Mistake Rule'."
+    }
+  ]
+}

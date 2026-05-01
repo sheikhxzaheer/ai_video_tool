@@ -1,0 +1,87 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Dry skin before_after\\ð║ð¥ðÂð░ ð╗ð©Ðåð░ ð▓ ð┐ÐÅÐéð¢ð░Ðà ð┤ð¥ ð┐ð¥Ðüð╗ðÁ 2.mp4",
+  "detailed_description": "The video provides a compelling before-and-after showcase of a woman's skin transformation over a one-year period. The initial segments depict her skin from the previous year, highlighting prevalent redness and uneven texture. Subsequently, the video transitions to reveal her current skin condition, demonstrating a noticeable improvement in clarity, smoothness, and radiance, affirmed to be without makeup or filters. This visual narrative effectively communicates a significant advancement in skin health and appearance, serving as a powerful testimonial to a successful long-term skincare journey.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.410",
+      "structural_tags": [
+        "Problem_State",
+        "Before_After",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "skin",
+        "redness",
+        "texture",
+        "blemishes",
+        "natural lighting",
+        "necklace",
+        "puffy eyes"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "warm tones",
+          "authentic portrayal"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state of the skin from last year, clearly illustrating the initial skin concerns like redness and uneven texture. The on-screen text 'my skin last year' provides essential context, setting the stage for the transformation."
+    },
+    {
+      "start_time": "00:07.410",
+      "end_time": "00:13.525",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "UGC_Talking_Head",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "skin",
+        "clear skin",
+        "glowing skin",
+        "even tone",
+        "wet hair",
+        "white robe",
+        "confident expression",
+        "no makeup",
+        "no filter"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "fresh look",
+          "clean aesthetic",
+          "authentic portrayal"
+        ]
+      },
+      "why_kept": "This segment presents the 'after' state, showcasing a significant improvement in skin clarity, reduced redness, and an overall healthier appearance. The on-screen text 'my skin today (no makeup or filter)' reinforces the authenticity and impact of the transformation, delivering the core value proposition of the video."
+    }
+  ]
+}

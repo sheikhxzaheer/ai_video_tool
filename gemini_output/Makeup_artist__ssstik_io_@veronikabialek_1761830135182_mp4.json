@@ -1,0 +1,218 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Makeup_artist\\ssstik.io_@veronikabialek_1761830135182.mp4",
+  "detailed_description": "This video offers an exclusive 'backstage' glimpse into a professional advertising campaign shoot for RTV, showcasing the meticulous process of preparing models for the camera. It highlights the skilled application of various makeup products by a makeup artist, from mixing foundation to detailed eye and lip work, culminating in the models confidently posing on set. The footage captures the vibrant energy of the production environment, emphasizing the transformation that takes place behind the scenes to achieve the desired polished look for the commercial.",
+  "segments": [
+    {
+      "start_time": "00:02.500",
+      "end_time": "00:03.400",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "makeup artist",
+        "applying foundation",
+        "model smiling",
+        "makeup sponge"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "professional lighting",
+          "behind-the-scenes",
+          "high-production"
+        ]
+      },
+      "why_kept": "This segment is chosen as the ANCHOR as it immediately showcases the core action of makeup application on a smiling model, embodying the 'Process/Labor' and 'Human Interaction' central to the backstage theme, setting a positive and engaging tone."
+    },
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:02.300",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Behind_The_Scenes",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand squeezing foundation",
+        "makeup palette",
+        "mixing foundation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed shot",
+          "professional tools",
+          "clean setup"
+        ]
+      },
+      "why_kept": "This BROLL segment adds valuable context by showing the meticulous 'Process/Labor' of preparing makeup products, featuring 'Product_Interaction' and 'Macro_Detail' shots that enhance the professional backstage narrative."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Macro_Detail",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "applying lip liner",
+        "model's lips",
+        "makeup artist"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused shot",
+          "precision",
+          "makeup detail"
+        ]
+      },
+      "why_kept": "This segment demonstrates a specific and detailed step in the 'Process/Labor' of makeup application, highlighting the 'Human_Interaction' and precision involved in achieving the desired look."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:11.900",
+      "structural_tags": [
+        "Result_Transformation",
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Behind_The_Scenes",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "model smiling",
+        "holding game controller",
+        "on set",
+        "being filmed",
+        "laughter"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dynamic framing",
+          "on-set footage",
+          "genuine reaction"
+        ]
+      },
+      "why_kept": "This segment acts as a 'Reveal/Result' by showing the first model on set, embodying 'Positive_Emotion' and 'Emotional_Climax' as she joyfully interacts with the camera, demonstrating the success of the backstage preparation."
+    },
+    {
+      "start_time": "00:18.000",
+      "end_time": "00:18.900",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "makeup artist",
+        "applying blush",
+        "model smiling",
+        "makeup brush"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "natural interaction"
+        ]
+      },
+      "why_kept": "This segment reinforces the 'Process/Labor' and 'Human_Interaction' of makeup application, featuring a different model and showing another step in the transformation with 'Positive_Emotion'."
+    },
+    {
+      "start_time": "00:23.500",
+      "end_time": "00:24.900",
+      "structural_tags": [
+        "Result_Transformation",
+        "Behind_The_Scenes",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "monitor display",
+        "model on screen",
+        "smiling",
+        "on set",
+        "gifts"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "monitor view",
+          "final footage",
+          "campaign look"
+        ]
+      },
+      "why_kept": "This segment provides a clear 'Reveal/Result' by displaying the final filmed output on a monitor, offering a meta-perspective of the campaign's polished look and the model's 'Positive_Emotion' on set."
+    }
+  ]
+}

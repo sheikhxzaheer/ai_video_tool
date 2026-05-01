@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\IMG_0930.MOV",
+  "detailed_description": "This video's core meaning is to showcase a meticulously groomed men's hairstyle. It features a man with a classic slicked-back, side-parted look, styled with a glossy finish. The camera smoothly rotates around the subject, providing a comprehensive 360-degree view of the haircut, highlighting the precise lines, neat fade, and overall polished aesthetic in a barbershop setting. It serves as a visual reveal of the final styling result.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.795",
+      "structural_tags": [
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Human_Interaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "styled hair",
+        "slicked back hair",
+        "side part",
+        "mens haircut",
+        "polished look",
+        "barbershop",
+        "man"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean cut",
+          "glossy finish",
+          "vintage aesthetic",
+          "smooth camera movement"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core, serving as the 'reveal' and showcase of the final, expertly styled men's haircut. It displays the transformation and quality of the barbershop's work from multiple angles, without any preamble or post-action dead air."
+    }
+  ]
+}

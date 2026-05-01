@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ssstik.io_1703267026791.mp4",
+  "detailed_description": "The video showcases a dramatic hair transformation, presenting a 'before' shot of a man with significant balding at the crown, followed by a quick transition to an 'after' shot where he sports a full head of dark, curly hair. The man's subsequent smile conveys satisfaction with the new look, highlighting the successful and positive change. The segment effectively uses a popular audio cue to emphasize skipping to the 'good part,' directly referencing the transformative result.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.200",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation",
+        "Before_After",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "glasses",
+        "balding head",
+        "curly hair",
+        "smile",
+        "hair transformation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "transformative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "quick cut",
+          "before and after",
+          "dramatic reveal"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by clearly presenting a 'before' state (balding hair), a rapid 'after' transformation (full, curly hair), and the subject's positive emotional reaction (a smile of satisfaction). The audio explicitly signals the 'skip to the good part,' directly aligning with the reveal of the successful transformation, making the whole video a single, impactful hero moment."
+    }
+  ]
+}

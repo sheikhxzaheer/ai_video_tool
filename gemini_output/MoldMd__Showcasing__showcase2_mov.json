@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\showcase2.mov",
+  "detailed_description": "The video showcases a smiling woman enthusiastically presenting a 'MoldMD MOLD SPOT REMOVER' spray bottle directly to the camera. She highlights the product as a multi-purpose home cleaner for mold and mildew stains, with clear labels indicating it's eco-friendly, safe for all surfaces, and cleans & protects. With a positive facial expression and a gesture, she recommends the product and encourages viewers to click a link for purchase. The entire segment functions as a direct product endorsement and a clear call to action.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.390",
+      "structural_tags": [
+        "Product_Intro",
+        "Offer_CTA",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "holding spray bottle",
+        "MoldMD product",
+        "pointing",
+        "bathroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background",
+          "direct address to camera"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully encompasses the product introduction, the speaker's positive emotional endorsement, active product interaction (holding and displaying), and a clear call to action. The visual priority rule is met as the product is front and center throughout the spoken message."
+    }
+  ]
+}

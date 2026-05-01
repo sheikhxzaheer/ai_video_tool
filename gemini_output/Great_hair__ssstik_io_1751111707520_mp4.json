@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1751111707520.mp4",
+  "detailed_description": "This video captures a man getting his hair trimmed outdoors with an electric clipper. The footage focuses on the ongoing process of the haircut, showcasing the product interaction as the clipper moves across his grey hair. The man's facial expressions indicate his reaction to the buzzing sound and sensation of the haircut, all set against a sunny, grassy backyard backdrop with a relaxed musical accompaniment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.279",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair clipper",
+        "cutting hair",
+        "grey hair",
+        "shirtless",
+        "grass",
+        "outdoor haircut"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "relaxed"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "sunny",
+          "personal perspective"
+        ]
+      },
+      "why_kept": "This entire segment showcases the core action of the video: a man getting his hair cut with an electric clipper. It demonstrates the product's use (Mechanism_Of_Action and Product_Interaction) and captures the subject's reactions (Face_Reaction) during the process. The action begins precisely at the start of the video and continues without interruption until the end, making the whole duration the semantic core based on the 'No-Mistake Rule'."
+    }
+  ]
+}

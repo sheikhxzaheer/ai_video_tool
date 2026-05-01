@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Dress\\ssstik.io_@_hanna_vs__1766164522449.mp4",
+  "detailed_description": "The video features a woman modeling a sophisticated black dress in front of a full-length mirror, capturing her reflection with a smartphone. She strikes various poses, highlighting the design and fit of the dress, which features a fitted bodice and a voluminous, flared skirt. The continuous self-recording emphasizes the aesthetic appeal and stylish nature of the outfit, presenting it as a fashionable choice. This segment serves as a direct showcase of the product being worn.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.333",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "black dress",
+        "mirror",
+        "phone",
+        "posing",
+        "heels",
+        "jewelry",
+        "outfit showcase"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "mirror reflection",
+          "soft lighting",
+          "fashion showcase",
+          "self-filmed"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it continuously showcases the black dress on the woman. There are no setup/calibration or post-action dead air frames, and the main action of modeling the dress is present throughout, demonstrating the product's appearance and style."
+    }
+  ]
+}

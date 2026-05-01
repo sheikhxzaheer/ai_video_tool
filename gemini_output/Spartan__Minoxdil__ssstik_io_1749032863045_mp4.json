@@ -1,0 +1,172 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Minoxdil\\ssstik.io_1749032863045.mp4",
+  "detailed_description": "The video demonstrates a six-month hair regrowth treatment for men using Kirkland Minoxidil. It showcases the step-by-step application of the topical solution to a balding scalp, followed by a manual massage to aid absorption. The video also introduces the product packaging, revealing the multi-bottle supply, and highlights supplementary tools. These include a microneedling device for enhanced product penetration and a red light therapy scalp massager designed to stimulate hair follicles, emphasizing a comprehensive approach to hair regrowth.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process/Labor"
+      ],
+      "visual_keywords": [
+        "dropper",
+        "Minoxidil bottle",
+        "liquid application",
+        "man's scalp"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "close-up detail"
+        ]
+      },
+      "why_kept": "This segment shows the initial product interaction, where the Minoxidil solution is drawn into the dropper and the first drops are applied to the scalp, demonstrating the beginning of the treatment process."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:19.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process/Labor",
+        "Problem_State",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "Minoxidil application",
+        "man's balding scalp",
+        "woman's hand",
+        "massaging"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused action",
+          "gentle movement"
+        ]
+      },
+      "why_kept": "This is a strong anchor segment as it clearly demonstrates the direct application of the product to the problem area and the physical process of massaging it in, which is crucial for effectiveness and shows human interaction."
+    },
+    {
+      "start_time": "00:19.400",
+      "end_time": "00:26.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "Minoxidil box",
+        "Kirkland brand",
+        "6 month supply",
+        "unboxing",
+        "multiple bottles",
+        "dropper"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear product view",
+          "packaging reveal"
+        ]
+      },
+      "why_kept": "This segment introduces the main product, showcases its packaging, and reveals the complete contents of the '6-month supply', providing essential product information and context."
+    },
+    {
+      "start_time": "00:28.000",
+      "end_time": "00:34.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "microneedling device",
+        "interchangeable needles",
+        "hygiene"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "informative",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed demonstration",
+          "clean setup"
+        ]
+      },
+      "why_kept": "This segment showcases an auxiliary tool (microneedling device) that enhances the treatment. It demonstrates product interaction and explains a key aspect of its mechanism of action regarding hygiene and effectiveness."
+    },
+    {
+      "start_time": "00:37.300",
+      "end_time": "00:48.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process/Labor",
+        "Mechanism_Of_Action",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "red light scalp massager",
+        "massaging scalp",
+        "light therapy",
+        "product penetration"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "red light glow",
+          "smooth movements",
+          "innovative tool"
+        ]
+      },
+      "why_kept": "This segment introduces another supplementary tool – a red light scalp massager – demonstrating its use to enhance product penetration, adding to the overall treatment process and mechanism of action."
+    }
+  ]
+}

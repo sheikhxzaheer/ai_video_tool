@@ -1,0 +1,41 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Result\\CNWM_JillianGray_035_Result.MOV",
+  "detailed_description": "The video features a young woman wearing a distinctive pink bow headband, speaking directly to the camera. She expresses her intent to continue using a specific product, referring to it as 'the mask,' without questioning its efficacy. Her statement is immediately followed by a clear, positive smile, conveying satisfaction and endorsement of the product. The segment highlights a personal testimonial and positive user experience, focusing on her verbal commitment to the product.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:04.288",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Positive_Emotion",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "woman",
+        "talking",
+        "smiling",
+        "pink headband",
+        "necklace"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address",
+          "personal lighting"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it contains the main point of the video: the subject's verbal commitment to continue using a product ('the mask'), indicating satisfaction. This 'Key Information' is reinforced by her 'Positive_Emotion' (a clear smile), making it a compelling 'UGC_Talking_Head' moment. The video starts and ends precisely with this action and statement, adhering to the 'no-mistake' rule."
+    }
+  ]
+}

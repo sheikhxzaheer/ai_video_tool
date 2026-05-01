@@ -1,0 +1,264 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Collagen Mask_Kadri Kallas_ProductDemo.mov",
+  "detailed_description": "This video demonstrates a two-step Korean beauty routine for achieving 'glass skin' at 42. It features the application of a collagen niacinamide jelly cream followed by a collagen night wrapping mask. The process highlights the product interaction, showing the mask being applied with a brush, and then the satisfying peel-off, culminating in a reveal of the smooth, radiant skin achieved through consistent use.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:02.800",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "holding product",
+        "pink jar",
+        "skincare"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "Introduces the first product, showing its packaging and initial presentation."
+    },
+    {
+      "start_time": "00:02.800",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "product label",
+        "QUIA Korean Beauty",
+        "collagen niacinamide jelly cream"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused shot",
+          "product branding"
+        ]
+      },
+      "why_kept": "Provides a clear, detailed view of the product's branding and type."
+    },
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:07.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "opening jar",
+        "red jelly cream",
+        "spatula",
+        "applying to face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed application",
+          "skincare ritual"
+        ]
+      },
+      "why_kept": "Demonstrates the initial step of the routine: scooping and applying the jelly cream."
+    },
+    {
+      "start_time": "00:07.500",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "holding product",
+        "pink tube",
+        "Collagen Night Wrapping Mask"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear product view"
+        ]
+      },
+      "why_kept": "Introduces the second product, a night wrapping mask, in a distinct shot."
+    },
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Night_Routine",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "applying mask",
+        "brush",
+        "face",
+        "forehead",
+        "jawline"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "precise application",
+          "skincare technique"
+        ]
+      },
+      "why_kept": "Shows the detailed application of the wrapping mask, demonstrating the 'process' of the routine."
+    },
+    {
+      "start_time": "00:20.000",
+      "end_time": "00:24.000",
+      "structural_tags": [
+        "Key_Information",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "mask on face",
+        "timer overlay",
+        "15 minutes"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "informational graphic"
+        ]
+      },
+      "why_kept": "Provides crucial information regarding the mask's recommended duration, enhancing user understanding."
+    },
+    {
+      "start_time": "00:26.000",
+      "end_time": "00:39.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "peeling mask",
+        "satisfying peel",
+        "clear film",
+        "smooth skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "satisfying",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "slow-motion effect",
+          "visual ASMR",
+          "clear skin revelation"
+        ]
+      },
+      "why_kept": "This is the 'hero moment' where the product's effect is dramatically revealed through the satisfying peel, showcasing its primary benefit and generating positive engagement."
+    },
+    {
+      "start_time": "00:39.000",
+      "end_time": "00:42.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "glass skin",
+        "smooth face",
+        "natural light",
+        "woman smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "positive",
+          "radiant",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "glowing complexion"
+        ]
+      },
+      "why_kept": "Displays the final, desired outcome of the skincare routine, emphasizing the 'glass skin' effect in natural light."
+    }
+  ]
+}

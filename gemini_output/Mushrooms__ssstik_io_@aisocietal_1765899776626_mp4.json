@@ -1,0 +1,152 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mushrooms\\ssstik.io_@aisocietal_1765899776626.mp4",
+  "detailed_description": "This video captures the fascinating and diverse growth processes of several distinct mushroom species through captivating time-lapse photography. It showcases the intricate transformation from small buds emerging from the soil to fully developed fungi, highlighting their unique shapes, colors, and textures. The compilation emphasizes the delicate beauty and dynamic nature of fungal development, revealing details often imperceptible in real-time. Each sequence offers a visual journey of natural growth, presenting the 'reveal' of mature mushrooms.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.417",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "blue mushroom",
+        "mushroom growth",
+        "time-lapse",
+        "gills unfolding",
+        "soil"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "time-lapse",
+          "black background",
+          "detailed growth",
+          "smooth animation"
+        ]
+      },
+      "why_kept": "This segment is kept as the primary anchor because it visually demonstrates the complete growth cycle of a distinctive blue mushroom from an initial bud to its full, intricate form, clearly showing the 'Mechanism_Of_Action' and 'Result_Transformation' in a visually compelling way."
+    },
+    {
+      "start_time": "00:07.917",
+      "end_time": "00:15.333",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "purple mushrooms",
+        "multiple mushrooms",
+        "mushroom cluster",
+        "soil"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "time-lapse",
+          "black background",
+          "detailed growth",
+          "cluster growth"
+        ]
+      },
+      "why_kept": "This segment shows the simultaneous growth of multiple purple mushrooms, adding variety to the 'Mechanism_Of_Action' and 'Result_Transformation' theme by showcasing a different species and growth pattern, serving as strong supporting BROLL."
+    },
+    {
+      "start_time": "00:15.917",
+      "end_time": "00:23.250",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "white mushroom",
+        "lacy skirt",
+        "netted cap",
+        "veil development",
+        "soil"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "time-lapse",
+          "black background",
+          "intricate details",
+          "unique mushroom"
+        ]
+      },
+      "why_kept": "This segment is critical for demonstrating a unique and complex 'Mechanism_Of_Action' and 'Result_Transformation' with the 'veiled lady' type mushroom, where a delicate lacy skirt unfurls, offering distinct visual interest as BROLL."
+    },
+    {
+      "start_time": "00:23.833",
+      "end_time": "00:32.417",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "blue-capped mushrooms",
+        "pink gills",
+        "multiple mushrooms",
+        "soil"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "time-lapse",
+          "black background",
+          "color changing growth",
+          "detailed gills"
+        ]
+      },
+      "why_kept": "This segment further enriches the 'Semantic Core' by showcasing another group of mushrooms with striking blue caps and pink gills, providing additional 'Mechanism_Of_Action' and 'Result_Transformation' visuals as supporting BROLL, emphasizing the diversity of fungal growth."
+    }
+  ]
+}

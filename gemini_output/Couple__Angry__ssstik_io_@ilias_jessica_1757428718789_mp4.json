@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Couple\\Angry\\ssstik.io_@ilias_jessica_1757428718789.mp4",
+  "detailed_description": "This video depicts a couple sitting at a kitchen table, eating pizza but simultaneously engrossed in their individual mobile phones. The man answers a call while the woman remains focused on her device, showcasing a clear lack of engagement with each other despite being in close proximity. The overlay text 'broken relationship' explicitly highlights the emotional distance and disengagement, making the entire scene a visual representation of a relationship in a problem state.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.026",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Home_Kitchen",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "couple",
+        "man eating",
+        "woman eating",
+        "pizza",
+        "using phone",
+        "kitchen table",
+        "refrigerator",
+        "white hoodie",
+        "NY Yankees cap"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "candid",
+          "static shot"
+        ]
+      },
+      "why_kept": "The entire segment serves as the semantic core by visually establishing and explicitly stating (via text overlay) the 'broken relationship' and 'problem state.' There is no setup, calibration, or post-action dead air; the video directly presents the core message from start to finish through the couple's disengaged behavior while physically together. This complete duration is essential to convey the intended meaning."
+    }
+  ]
+}

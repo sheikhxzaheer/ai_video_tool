@@ -1,0 +1,210 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\A woman is stroking a man's hair\\Ðüð╝ð¥ÐéÐÇÐÅÐé ð¢ð░ ð╝ÐâðÂð©ð║ð░ 4.mp4",
+  "detailed_description": "This video captures spontaneous and positive interactions between various women and the camera or an unseen subject in a bustling urban environment. The primary focus is on the candid facial expressions of the women as they walk by, predominantly showcasing smiles, laughter, and sometimes looks of surprise. Shot from behind a man walking, the camera swivels to capture these genuine human reactions. The video emphasizes lighthearted and energetic street encounters, highlighting the joyful and curious responses of passersby.",
+  "segments": [
+    {
+      "start_time": "00:01.500",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "two women walking",
+        "smiling",
+        "looking at camera"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "candid camera",
+          "daylight",
+          "street photography"
+        ]
+      },
+      "why_kept": "This segment establishes the video's premise by showing the first clear, positive, and somewhat surprised reactions of women passing by, setting the tone for subsequent interactions."
+    },
+    {
+      "start_time": "00:05.300",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "three women walking",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "candid camera",
+          "daylight",
+          "street photography"
+        ]
+      },
+      "why_kept": "It showcases another instance of positive facial reactions and human interaction, reinforcing the video's central theme of capturing candid street expressions."
+    },
+    {
+      "start_time": "00:07.800",
+      "end_time": "00:09.500",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "two women walking",
+        "smiling",
+        "covering mouth"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "candid camera",
+          "daylight",
+          "street photography"
+        ]
+      },
+      "why_kept": "This segment captures a clear and expressive reaction, with one woman smiling and covering her mouth, indicating amusement or shyness at being filmed."
+    },
+    {
+      "start_time": "00:10.500",
+      "end_time": "00:12.500",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "two women walking",
+        "broad smiles",
+        "looking at camera"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "candid camera",
+          "daylight",
+          "street photography"
+        ]
+      },
+      "why_kept": "The segment features another pair of women displaying overt positive reactions and direct engagement with the camera or unseen subject."
+    },
+    {
+      "start_time": "00:13.500",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman walking",
+        "looking directly at camera"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "calm",
+          "neutral"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "candid camera",
+          "daylight",
+          "street photography"
+        ]
+      },
+      "why_kept": "This segment shows direct eye contact and a neutral, curious gaze from a lone woman, representing a distinct type of candid human interaction."
+    },
+    {
+      "start_time": "00:16.500",
+      "end_time": "00:19.400",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "two women walking",
+        "laughing",
+        "smiling",
+        "covering mouth"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "candid camera",
+          "daylight",
+          "street photography"
+        ]
+      },
+      "why_kept": "This is the strongest emotional climax, clearly showing two women laughing heartily and covering their mouths, capturing a peak moment of positive human interaction and reaction."
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ð£ð©Ðö ð│ð¥ð╗ð¥ð▓Ðâ ðÀð░ ð┤ð¥ð┐ð¥ð╝ð¥ð│ð¥ÐÄ ð╝ð░Ðüð░ðÂðÁÐÇð░ (1).mp4",
+  "detailed_description": "The video demonstrates the use and benefits of a scalp massager. It begins with an introduction to the product, highlighting its flexible design. The user then applies shampoo directly onto the massager, showcasing how to prepare it for use. The core segment features the man actively massaging his scalp, demonstrating the product's mechanism of action in a hair care routine. On-screen text overlays emphasize key benefits such as promoting hair thickness, preventing dandruff, and exfoliating dead skin cells, effectively communicating the product's value.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.380",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand holding product",
+        "scalp massager",
+        "white spikes",
+        "dark brown base",
+        "bathroom tiles"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "direct light"
+        ]
+      },
+      "why_kept": "This segment introduces the product clearly, showcasing its design and initial presentation."
+    },
+    {
+      "start_time": "00:01.380",
+      "end_time": "00:02.160",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hand squeezing",
+        "scalp massager",
+        "flexible spikes",
+        "product material"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focus on product flexibility"
+        ]
+      },
+      "why_kept": "This segment demonstrates the product's material flexibility and tactile quality through direct interaction."
+    },
+    {
+      "start_time": "00:04.100",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "hand pouring shampoo",
+        "blue shampoo bottle",
+        "scalp massager",
+        "shampoo bubbles",
+        "sink",
+        "bathroom"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "practical demonstration",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment clearly shows how to apply shampoo to the massager, preparing it for its intended use and setting up the main action."
+    },
+    {
+      "start_time": "00:05.400",
+      "end_time": "00:14.950",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Mechanism_Of_Action",
+        "Process_Labor",
+        "Lifestyle_Active",
+        "Face_Reaction",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "man massaging hair",
+        "wet hair",
+        "shampoo foam",
+        "scalp massager",
+        "scrubbing scalp",
+        "bathroom",
+        "shower",
+        "blue t-shirt",
+        "text overlays (Melebatkan Rambut, Mencegah Kelemumur, Hilangkan Sel Kulit Mati)"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address to camera",
+          "clear action",
+          "informative text"
+        ]
+      },
+      "why_kept": "This is the core 'hero moment' where the product is actively used on the hair, demonstrating its main function, benefits (highlighted by text overlays), and how it integrates into a personal care routine. The direct gaze reinforces user engagement."
+    }
+  ]
+}

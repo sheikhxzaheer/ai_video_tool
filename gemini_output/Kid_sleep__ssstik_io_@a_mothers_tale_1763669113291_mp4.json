@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid sleep\\ssstik.io_@a_mothers_tale_1763669113291.mp4",
+  "detailed_description": "The video captures a tender, intimate moment between a mother and her sleeping baby. The mother lies on a couch, gently stroking her baby's head while the baby rests peacefully on her chest. Her face radiates contentment and love as she smiles softly. A text overlay expresses the joy of prioritizing cuddling her baby over household chores. This scene beautifully conveys the deep emotional connection and calm relaxation found in such precious moments, highlighting the simple bliss of motherhood.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.518",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Home_Kitchen",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "mother",
+        "baby",
+        "cuddling",
+        "sleeping",
+        "couch",
+        "smiling",
+        "stroking hair",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "loving",
+          "content"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "intimate shot",
+          "warm tones"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core, directly illustrating the main point conveyed by the overlaid text and the emotional display of the mother. It shows the 'hero moment' of prioritizing connection with the baby over other tasks, embodying positive emotion and calm relaxation without any setup or dead air."
+    }
+  ]
+}

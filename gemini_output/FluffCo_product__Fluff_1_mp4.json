@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_1.mp4",
+  "detailed_description": "This video showcases the 'FluffCo down' pillow through a woman's engaging interaction. She introduces the pillow, actively demonstrates its softness and fluffiness by squishing it, and then explicitly uses the product as intended by lying down on it. Her genuine smiles and relaxed demeanor convey a strong sense of comfort and satisfaction, effectively highlighting the pillow's premium quality and the soothing experience it provides.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.080",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Human_Interaction",
+        "Mechanism_Of_Action",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Product_Standalone",
+        "Home"
+      ],
+      "visual_keywords": [
+        "woman",
+        "white pillow",
+        "bed",
+        "smiling",
+        "fluffing",
+        "squishing",
+        "lying down",
+        "comfort"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "comfortable",
+          "relaxed"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "focus on product and emotion"
+        ]
+      },
+      "why_kept": "This entire segment constitutes the Semantic Core as it provides a complete and continuous demonstration of the 'FluffCo down' pillow. It initiates with a visual hook, introduces the product, clearly shows its features through active human interaction (fluffing, squishing), and concludes with the user experiencing the product's ultimate benefit (comfort and relaxation) as evidenced by her positive facial expressions. There are no setup frames, dead air, or non-essential talking head segments, making the whole duration a concentrated 'Hero Moment' of product value."
+    }
+  ]
+}

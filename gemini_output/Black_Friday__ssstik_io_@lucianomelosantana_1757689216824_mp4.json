@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Black_Friday\\ssstik.io_@lucianomelosantana_1757689216824.mp4",
+  "detailed_description": "This video vividly captures the chaotic and high-energy atmosphere of Black Friday sales in Paraguay. It shows a massive crowd of shoppers, pushing and scrambling to grab electronics like PlayStations and televisions from shelves and display tables as soon as the store opens. The scene highlights the intense competition and urgency among customers eager to secure discounted items, demonstrating a common and often frenzied aspect of global shopping events.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:48.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "High_Energy",
+        "Urgency_Rush",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "large crowd",
+        "shoppers",
+        "electronics",
+        "PlayStation boxes",
+        "TV boxes",
+        "store shelves",
+        "pushing",
+        "grabbing",
+        "chaos"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "store"
+        ],
+        "mood": [
+          "energetic",
+          "urgent",
+          "chaotic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "fast-paced",
+          "crowded",
+          "handheld camera"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core, demonstrating the extreme rush and crowd behavior during a Black Friday sale in a store in Paraguay. It effectively captures the 'Black Friday vibe' mentioned in the overlay, showing immediate product interaction, high energy, and the emotional climax of people scrambling for deals."
+    }
+  ]
+}

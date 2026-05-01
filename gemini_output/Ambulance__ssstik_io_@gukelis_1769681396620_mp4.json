@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@gukelis_1769681396620.mp4",
+  "detailed_description": "The video captures medical professionals, likely surgeons or doctors, dressed in green scrubs and caps, intently observing a medical monitor in a sterile environment. The screen displays internal imagery or scans, suggesting a live procedure or diagnostic review. The clip showcases the focused and collaborative nature of medical work, with individuals gathered around the display, engaged in understanding the information presented during what appears to be a medical procedure or consultation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.493",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "medical professionals",
+        "surgeons",
+        "doctors",
+        "green scrubs",
+        "medical monitor",
+        "scan imagery",
+        "operating room",
+        "observation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium | wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "sterile environment",
+          "focused observation"
+        ]
+      },
+      "why_kept": "This segment precisely demonstrates 'The Process/Labor' of medical professionals observing a critical medical display during what appears to be a procedure or diagnostic review. The entire clip is a continuous depiction of this professional action, starting and ending without any setup or post-action dead air, thus adhering to the 'No-Mistake' rule for trimming and forming the complete semantic core."
+    }
+  ]
+}

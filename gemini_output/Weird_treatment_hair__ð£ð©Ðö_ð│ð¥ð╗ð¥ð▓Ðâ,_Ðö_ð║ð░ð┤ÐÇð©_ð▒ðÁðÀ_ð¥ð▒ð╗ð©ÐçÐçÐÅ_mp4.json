@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ð£ð©Ðö ð│ð¥ð╗ð¥ð▓Ðâ, Ðö ð║ð░ð┤ÐÇð© ð▒ðÁðÀ ð¥ð▒ð╗ð©ÐçÐçÐÅ.mp4",
+  "detailed_description": "This video thoroughly demonstrates the step-by-step use of a specialized scalp massager. It starts by introducing the product, then shows shampoo being applied directly onto its bristles. The massager is actively used on a person's head, effectively lathering the shampoo and providing a scalp massage. The process concludes with the foamy massager being rinsed clean under a shower, highlighting its efficacy and ease of use in a daily hair care routine.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.867",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Morning_Routine",
+        "Calm_Relaxation",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hand",
+        "scalp massager",
+        "shampoo",
+        "foam",
+        "hair",
+        "shower",
+        "marble tiles"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "good lighting",
+          "focus on product use"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the 'Semantic Core' because it comprehensively demonstrates the full usage cycle of the scalp massager. It shows the product introduction, the application of shampoo, the actual process of massaging the scalp with the product, and the final rinsing, all without any unnecessary setup or post-action dead air."
+    }
+  ]
+}

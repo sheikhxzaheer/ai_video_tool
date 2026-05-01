@@ -1,0 +1,107 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ð¿ð©ð║ð░ÐÇð¢ðÁ ð▓ð¥ð╗ð¥ÐüÐüÐÅ, 19-Ðéð░ ÐüðÁð║ ð┐ÐÇð¥ð▓ð¥ð┤ð©ÐéÐî ÐÇÐâð║ð¥ÐÄ ð┐ð¥ ð▓ð¥ð╗ð¥ÐüÐüÐÄ.mp4",
+  "detailed_description": "The video showcases a young man's confident and stylish persona. Through a series of subtle fashion actions, he presents a contemporary look featuring a black kurta-style shirt, silver chain, and sunglasses. The core meaning is to present a self-assured, fashionable male image through aesthetic appeal and interaction with his attire and accessories.",
+  "segments": [
+    {
+      "start_time": "00:05.600",
+      "end_time": "00:06.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man walking",
+        "black shoes",
+        "black pants",
+        "feet"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic shot",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment provides a dynamic visual hook by showcasing the man's attire in motion, contributing to the overall aesthetic and lifestyle presentation."
+    },
+    {
+      "start_time": "00:07.400",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man buttoning shirt",
+        "black shirt",
+        "silver chain",
+        "watch"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused action",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates product interaction, showing the man actively adjusting and buttoning his shirt, which is part of presenting his stylish look."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man putting on sunglasses",
+        "black shirt",
+        "sunglasses",
+        "silver chain"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "premium",
+          "confident",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "stylish accessory use",
+          "natural lighting",
+          "profile view"
+        ]
+      },
+      "why_kept": "This segment is chosen as the ANCHOR because it presents a clear and impactful product interaction (putting on sunglasses), which significantly enhances the man's confident and stylish persona, serving as a strong visual statement of the video's aesthetic core."
+    }
+  ]
+}

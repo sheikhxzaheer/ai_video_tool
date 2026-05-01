@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melazma\\EL - BATCH 0011 DS - EL011(a).mp4",
+  "detailed_description": "The video features a woman wearing a vibrant pink hair towel, suggesting a post-shower or self-care routine. She gently touches and adjusts the towel on her head while looking directly at the camera with a calm and slightly smiling expression. This segment highlights the practical use and comfort of the hair towel, conveying a sense of well-being and interaction with the product.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.350",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink hair towel",
+        "touching head",
+        "smiling",
+        "freckles",
+        "face close-up"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "natural"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "direct address to camera"
+        ]
+      },
+      "why_kept": "This entire segment serves as the 'Semantic Core' by demonstrating direct product interaction (wearing and adjusting the pink hair towel) and showing a calm, positive facial reaction. It immediately establishes the context of a personal care or beauty routine, acting as a visual hook for the product."
+    }
+  ]
+}

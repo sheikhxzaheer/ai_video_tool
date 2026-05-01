@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\ð╝ð¥ð╗ðÁð║Ðâð╗Ðï ð▓ð¥ð┤Ðï.mp4",
+  "detailed_description": "The video displays a dynamically morphing, glowing blue-white abstract entity against a deep blue background. This intricate object continually changes its shape, showing an organic, fluid-like motion with internal light accentuating its undulating surfaces and evolving cavities. It appears to represent a microscopic or cellular structure undergoing constant transformation or a fluid simulation. The continuous animation highlights the object's complex internal and external dynamics, creating a visually captivating and almost hypnotic effect. The bright, subtle light source in the upper left corner adds depth and realism to the simulated environment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Micro_Nutrients_Anim",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "glowing object",
+        "morphing liquid",
+        "cellular structure",
+        "abstract animation",
+        "blue background",
+        "fluid dynamics"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "glowing effect",
+          "smooth animation",
+          "blue ambient light",
+          "abstract forms",
+          "3D rendering"
+        ]
+      },
+      "why_kept": "The entire duration of the video showcases the continuous, dynamic morphing of the abstract, glowing object, which is the sole focus and 'hero moment' of this animation. There are no setup, calibration, or post-action dead air frames, so the full clip is the semantic core."
+    }
+  ]
+}

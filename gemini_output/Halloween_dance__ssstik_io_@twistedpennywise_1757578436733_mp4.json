@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Halloween_dance\\ssstik.io_@twistedpennywise_1757578436733.mp4",
+  "detailed_description": "This video captures seven iconic horror movie characters—Slender Man, Michael Myers, Samara from The Ring, Pennywise, Freddy Krueger, Jason Voorhees, and Ghostface—performing a fun and surprisingly synchronized dance routine. Dressed in their full, detailed costumes, the characters move in unison to a lively beat within a studio-like setting, featuring brick walls and bright overhead lights. The performance offers an entertaining and playful take on these typically terrifying figures, showcasing their coordinated movements and the unexpected humor of their collective dance.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.820",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "High_Energy",
+        "Playful",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "horror characters",
+        "costumes",
+        "dance routine",
+        "synchronized movements",
+        "Pennywise",
+        "Freddy Krueger",
+        "Michael Myers",
+        "Jason Voorhees",
+        "Ghostface",
+        "Samara",
+        "Slender Man",
+        "studio setting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "spooky"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "professional costumes",
+          "simple background",
+          "concrete floor"
+        ]
+      },
+      "why_kept": "The entire segment is the core value of the video, featuring the complete synchronized dance performance by the array of horror characters. This consistent action represents the 'Process/Labor' hero moment, as it is the primary demonstration and entertainment of the content, with no setup, calibration, or post-action dead air to trim."
+    }
+  ]
+}

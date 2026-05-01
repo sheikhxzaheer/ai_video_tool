@@ -1,0 +1,183 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pills\\ssstik.io_1746979468176.mp4",
+  "detailed_description": "This video introduces a practical solution for preventing medication errors: reusable yellow bands that fit onto prescription bottles. It demonstrates how users can easily write the medication's name on the band using an included marker, enhancing readability for individuals with vision impairments. The video also highlights the product's reusability by showing how the writing can be effortlessly wiped away with an alcohol swab, and showcases two different sizes to accommodate various bottle types. The overall message emphasizes improved safety and ease of medication identification through this simple yet effective product.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Intro",
+        "Human_Interaction",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "hand holding pill bottle",
+        "yellow band",
+        "red cap",
+        "medication label",
+        "text 'DON'T MAKE A MISTAKE'"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "informative",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear focus",
+          "functional"
+        ]
+      },
+      "why_kept": "This segment establishes the problem of medication errors and immediately introduces the product as a solution, setting the context for the entire video."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:09.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "hand writing 'RX'",
+        "marker",
+        "yellow band",
+        "pill bottle",
+        "red cap"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "informative",
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "demonstrative action",
+          "clear focus"
+        ]
+      },
+      "why_kept": "This is a core 'Hero Moment' demonstrating the primary function of the product: labeling medication for easy identification. It shows the 'Process/Labor' of using the product."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:19.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "text 'REUSABLE'",
+        "alcohol pad",
+        "hand cleaning label",
+        "wiping 'RX' off",
+        "blank yellow band",
+        "pill bottle"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "informative",
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "demonstrative action",
+          "clear focus",
+          "transition"
+        ]
+      },
+      "why_kept": "This segment effectively showcases the reusability feature, a significant benefit, by demonstrating the cleaning process and the 'Result/Transformation' of a blank label."
+    },
+    {
+      "start_time": "00:20.000",
+      "end_time": "00:29.900",
+      "structural_tags": [
+        "Product_Intro",
+        "Key_Information",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand holding two yellow bands",
+        "different sizes",
+        "cardboard box with labels"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "informative",
+          "helpful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear presentation",
+          "simple backdrop"
+        ]
+      },
+      "why_kept": "This segment highlights the versatility of the product by showcasing different sizes and provides key information about its suitability for various users, especially those with reading difficulties."
+    },
+    {
+      "start_time": "00:30.000",
+      "end_time": "00:37.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "hand holding pill bottle",
+        "yellow band",
+        "red cap",
+        "medication label"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "helpful",
+          "urgent"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "final product shot",
+          "direct call to action"
+        ]
+      },
+      "why_kept": "This concluding segment provides a final visual of the product in use while delivering a clear call to action, reinforcing the product's benefits for accident prevention."
+    }
+  ]
+}

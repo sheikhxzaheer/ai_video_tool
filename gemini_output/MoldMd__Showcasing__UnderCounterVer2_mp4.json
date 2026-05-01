@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\UnderCounterVer2.mp4",
+  "detailed_description": "This video concisely demonstrates the process of retrieving a cleaning product from an under-sink kitchen cabinet. A hand opens the cabinet, pulls out a bottle of 'MoldMD Mold Spot Remover,' briefly showcases its label, and then places it back. The segment highlights the accessibility and storage of the product within a typical home environment, focusing on the practical interaction with the cleaning solution.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.700",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Home_Kitchen",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "hand",
+        "cabinet",
+        "cleaning product",
+        "spray bottle",
+        "MoldMD"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "functional",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "natural lighting",
+          "clear product view"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully encompasses the action of accessing, retrieving, showcasing, and then storing the 'MoldMD' cleaning product. It clearly demonstrates product interaction and its presence in a household setting, fulfilling the 'Product Interaction' hero moment criteria."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Treatmant_skin\\ssstik.io_@makeup_zhukova_1763912207300.mp4",
+  "detailed_description": "This video showcases a unique peptide-packed serum designed to restore skin firmness and elasticity. It highlights the product's distinctive 'melting peptide threads' that dissolve upon application, delivering deep firming benefits. The serum, enriched with niacinamide, aims to create a bright, even complexion and target fine lines before they become deep wrinkles. The video demonstrates the serum's lightweight, fast-absorbing, and non-sticky texture, leaving the skin with a radiant, transformed feel.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Macro_Detail",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll",
+        "Product_Standalone",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hands",
+        "opening box",
+        "serum bottle",
+        "peptide threads",
+        "packaging",
+        "surprise reaction",
+        "glowing skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "close-up detail"
+        ]
+      },
+      "why_kept": "This segment serves as the initial visual hook, introducing the product by unboxing it and showcasing its unique visual feature – the 'melting peptide threads' inside the bottle – along with a positive reaction."
+    },
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:11.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying serum",
+        "dropper",
+        "serum drops",
+        "peptide threads melting",
+        "fingers spreading",
+        "dewy skin",
+        "glowing cheek"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "macro detail",
+          "soft focus",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the core mechanism of action of the product: applying the serum, observing the peptide threads dissolve into the skin, and revealing the immediate dewy and firming effect."
+    },
+    {
+      "start_time": "00:12.900",
+      "end_time": "00:24.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying serum",
+        "dropper",
+        "serum drops",
+        "forehead",
+        "under eye",
+        "fingers spreading",
+        "glowing skin",
+        "satisfied expression",
+        "clear skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean aesthetic",
+          "smooth application"
+        ]
+      },
+      "why_kept": "This segment reinforces the product's benefits by showing application on another area (forehead and around the eyes), targeting fine lines, and culminates in a final shot of glowing, transformed skin with a look of satisfaction."
+    }
+  ]
+}

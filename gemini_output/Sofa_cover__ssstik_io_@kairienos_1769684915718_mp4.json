@@ -1,0 +1,144 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sofa cover\\ssstik.io_@kairienos_1769684915718.mp4",
+  "detailed_description": "This video elegantly showcases a luxurious cream-colored fur blanket, emphasizing its comfort, aesthetic appeal, and tactile quality. It begins with the blanket being introduced to a plush white sectional sofa, followed by a woman wrapping herself in its soft folds, highlighting its cozy functionality. Subsequent shots provide a detailed view of the blanket's rich texture and generous volume as it drapes over the furniture, contributing to a serene home ambiance. The video concludes with a close-up of a hand gently stroking the blanket, inviting viewers to appreciate its luxurious feel.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.800",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "fur blanket",
+        "throwing",
+        "draping",
+        "white couch"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "minimalist decor"
+        ]
+      },
+      "why_kept": "This segment introduces the fur blanket into the scene, showing its initial placement and volume on the sofa, serving as an effective product introduction."
+    },
+    {
+      "start_time": "00:01.800",
+      "end_time": "00:03.900",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Calm_Relaxation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "fur blanket",
+        "wrapping",
+        "cozy",
+        "relaxing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "cozy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "comfortable setting"
+        ]
+      },
+      "why_kept": "This is the primary hero moment, demonstrating the product's core benefit by showing a person comfortably using the blanket, conveying warmth and relaxation."
+    },
+    {
+      "start_time": "00:03.900",
+      "end_time": "00:09.600",
+      "structural_tags": [
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "fur blanket",
+        "texture",
+        "draped",
+        "white couch",
+        "room decor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "texture focus"
+        ]
+      },
+      "why_kept": "These shots provide multiple aesthetic views of the blanket, showcasing its rich texture, volume, and how it enhances the room's decor, emphasizing its visual appeal."
+    },
+    {
+      "start_time": "00:09.600",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Macro_Detail",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "hand",
+        "fur blanket",
+        "stroking",
+        "softness",
+        "texture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sensory focus",
+          "tactile emphasis"
+        ]
+      },
+      "why_kept": "This segment specifically highlights the luxurious, soft, and inviting tactile quality of the fur blanket through direct human interaction, a key sensory selling point."
+    }
+  ]
+}

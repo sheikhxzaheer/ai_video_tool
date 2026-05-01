@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Douxds product\\Video_3.mov",
+  "detailed_description": "This video captures a man's grooming routine, focusing on the precise application and use of an electric shaver on his face. The process highlights the product's interaction with his beard, demonstrating its functionality and effectiveness in shaping and trimming. The man's face is covered in a white cream or foam, suggesting a preparatory step before the shaving action, ensuring a smooth and clean shave.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:19.833",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "face",
+        "beard",
+        "electric shaver",
+        "shaving cream",
+        "grooming"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused action",
+          "clear product usage",
+          "grooming ritual"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the 'Process/Labor' and 'Product Interaction' hero moments. The video begins and ends precisely with the active use of the electric shaver, showing its function in a grooming routine, making it the core value of the video without any setup or post-action dead air."
+    }
+  ]
+}

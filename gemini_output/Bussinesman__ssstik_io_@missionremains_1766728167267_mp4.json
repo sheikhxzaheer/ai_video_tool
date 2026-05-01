@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bussinesman\\ssstik.io_@missionremains_1766728167267.mp4",
+  "detailed_description": "The video captures a stylish man in a black suit and sunglasses descending a grand staircase, checking his phone, and then taking a call as he walks through a spacious, modern living area. He confidently approaches a large double door, opens it while still on the phone, and exits the lavish space. The entire sequence conveys a sense of purpose, professionalism, and constant connectivity, showcasing a busy lifestyle in a luxurious setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.433",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "man",
+        "black suit",
+        "sunglasses",
+        "stairs",
+        "phone",
+        "calling",
+        "walking",
+        "luxury home",
+        "modern design",
+        "black door"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "energetic",
+          "premium",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "modern architecture",
+          "natural light",
+          "professional attire"
+        ]
+      },
+      "why_kept": "This entire segment is kept because it seamlessly demonstrates a man's purposeful and professional routine of leaving a high-end location. It combines 'Process/Labor' (walking, exiting) with 'Product Interaction' (using his phone for a call) in a continuous, uninterrupted flow, effectively conveying a professional, active lifestyle. There are no redundant frames or setup shots that need trimming."
+    }
+  ]
+}

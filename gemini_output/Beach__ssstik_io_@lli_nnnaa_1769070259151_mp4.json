@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Beach\\ssstik.io_@lli.nnnaa_1769070259151.mp4",
+  "detailed_description": "The video captures a serene moment of a woman walking barefoot along a white sandy beach at sunset. Dressed in a flowing white dress, she moves gracefully, periodically turning to reveal a joyful and contented expression. The vibrant orange and pink hues of the sunset sky, reflected in the gentle ocean waves, create a breathtaking backdrop. A Ukrainian voiceover complements the tranquil scene, speaking about recognizing one's self-worth and deserving life's beautiful moments. The visual narrative beautifully conveys a sense of peace, self-acceptance, and the simple joy of being present in a stunning environment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.460",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Human_Interaction",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "woman",
+        "white dress",
+        "beach",
+        "sunset",
+        "ocean",
+        "waves",
+        "sand",
+        "water bungalows",
+        "long hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "ocean",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "golden hour lighting",
+          "cinematic",
+          "slow motion feel",
+          "dreamy"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating a consistent mood of calm relaxation and positive emotion through the woman's actions and the beautiful sunset beach setting. The continuous voiceover reinforces the theme of self-worth and deserving, making the entire clip a cohesive and valuable 'hero moment' without any identifiable setup, dead air, or distinct sub-segments for trimming."
+    }
+  ]
+}

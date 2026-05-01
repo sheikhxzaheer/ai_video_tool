@@ -1,0 +1,88 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated Before_After\\ssstik.io_@fitzyelifts_1774442439195.mp4",
+  "detailed_description": "The video challenges societal body image norms, suggesting that happiness is not inherently linked to achieving a specific physique. It begins with a woman displaying her midsection, featuring a visible 'pouch,' accompanied by text stating, 'Losing that pouch won't make you happier.' This is juxtaposed with a second segment featuring a different woman (or a transformed version of the first) showcasing a highly toned, flat abdomen with visible abs, alongside the text 'Literally me every morning.' The compilation emphasizes self-acceptance and questions the direct correlation between physical appearance and emotional well-being.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.800",
+      "structural_tags": [
+        "Problem_State",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "sports bra",
+        "shorts",
+        "belly pouch",
+        "headphones",
+        "turning",
+        "neutral expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "plain background",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment introduces the core problem statement and the initial body image, setting the context for the video's message about happiness not being solely tied to physical appearance. The text overlay is a key piece of information."
+    },
+    {
+      "start_time": "00:07.800",
+      "end_time": "00:18.400",
+      "structural_tags": [
+        "Result_Transformation",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "sports bra",
+        "sweatpants",
+        "abs",
+        "toned body",
+        "headphones",
+        "posing",
+        "energetic movements",
+        "confident expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "plain background",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment acts as a visual counterpoint or 'after' image to the initial segment, showcasing a highly toned physique. The text 'Literally me every morning' implies a consistent state or routine, further contributing to the video's central theme of body image and personal well-being, whether through transformation or different forms of self-acceptance. It supports and complicates the initial statement."
+    }
+  ]
+}

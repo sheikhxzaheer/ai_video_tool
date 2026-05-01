@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold\\ssstik.io_@maphomesllc_1767446503515.mp4",
+  "detailed_description": "This video serves as a compelling visual documentation of a severely neglected or damaged interior space. It provides a continuous pan through several rooms, revealing extensive black and brown mold growth covering the lower and middle sections of the walls. The dilapidated condition, characterized by water stains, peeling paint, exposed ceiling grids, and stained concrete floors, clearly illustrates a significant problem state, likely caused by prolonged water intrusion and subsequent fungal infestation. The footage effectively communicates the unsanitary and uninhabitable condition of the property, highlighting the critical need for professional remediation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:27.766",
+      "structural_tags": [
+        "Problem_State",
+        "Result_Transformation",
+        "Messy_Unorganized",
+        "Aesthetic_Broll",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "mold",
+        "water damage",
+        "walls",
+        "ceiling",
+        "floor",
+        "room",
+        "doorway",
+        "abandoned",
+        "dilapidated"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "unsettling"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "documentary style",
+          "damaged interior"
+        ]
+      },
+      "why_kept": "The entire video precisely captures and continuously demonstrates the 'Problem State' and the negative 'Result_Transformation' of a space severely affected by mold and water damage. It serves as a comprehensive visual 'reveal' of the issue, making the entire duration the semantic core without any discernible setup, dead air, or irrelevant footage."
+    }
+  ]
+}

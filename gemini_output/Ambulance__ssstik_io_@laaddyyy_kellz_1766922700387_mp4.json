@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@laaddyyy_kellz_1766922700387.mp4",
+  "detailed_description": "This video captures a tender and concerning moment in a hospital setting. A man, likely a caregiver or family member, gently tends to a patient (presumably a child or young person) lying in a hospital bed. The man is seen carefully handling the patient's arm, which appears to have a bandage or medical device. The text overlay \"Dear God 😩\" conveys a deep emotional impact, suggesting worry or prayer for the patient's well-being. The scene evokes a sense of vulnerability and care during a difficult time.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.570",
+      "structural_tags": [
+        "Human_Interaction",
+        "Negative_Emotion",
+        "Emotional_Climax"
+      ],
+      "visual_keywords": [
+        "man",
+        "patient",
+        "hospital bed",
+        "hospital room",
+        "medical equipment",
+        "arm",
+        "wrist",
+        "caregiver"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "serious",
+          "concerned",
+          "empathetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "steady shot"
+        ]
+      },
+      "why_kept": "This entire segment represents the core meaning of the video, showing a compassionate interaction between a caregiver and a patient in a hospital. The emotional text overlay reinforces the gravity and emotional weight of the situation, making the entire duration a 'Hero Moment' due to its emotional climax and human interaction. No trimming was necessary as the action starts at the beginning and continues to the end, conveying the complete intended message."
+    }
+  ]
+}

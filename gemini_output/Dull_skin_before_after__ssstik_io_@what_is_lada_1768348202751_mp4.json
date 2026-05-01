@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Dull skin before_after\\ssstik.io_@what_is_lada_1768348202751.mp4",
+  "detailed_description": "The video presents a compelling before-and-after comparison highlighting a significant skin transformation. It begins with a close-up of skin showing visible pores and minor imperfections, clearly labeled 'before'. This transitions seamlessly to an 'after' shot of the same person, showcasing remarkably smoother, clearer, and more radiant skin with a healthy glow. The entire sequence functions as a direct visual demonstration of an enhanced skin appearance.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.394",
+      "structural_tags": [
+        "Visual_Hook",
+        "Before_After",
+        "Result_Transformation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "face",
+        "skin",
+        "visible pores",
+        "redness",
+        "smooth skin",
+        "glowing skin",
+        "clear complexion",
+        "before shot",
+        "after shot"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "satisfaction"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "skin focus"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it perfectly encapsulates the 'Reveal/Result' hero moment through a clear 'Before/After' comparison, which is the sole purpose and value of this short video. There is no setup, dead air, or extraneous footage to trim."
+    }
+  ]
+}

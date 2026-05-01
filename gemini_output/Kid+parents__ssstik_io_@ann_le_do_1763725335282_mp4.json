@@ -1,0 +1,138 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid+parents\\ssstik.io_@ann.le.do_1763725335282.mp4",
+  "detailed_description": "This humorous video captures the comedic contrast between parents' assumptions and their children's independent actions. It begins with a seemingly peaceful scene of a family of five sleeping in bed, where the parents wake up and initially believe their kids are still resting. However, a quick transition shows the parents' surprised reaction as they realize the children are no longer in bed. The video culminates in a delightful reveal: the three children, clad in matching plaid pajamas, confidently walk past a doorway, suggesting they've already started their day, leaving their parents to discover their 'escape'.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Morning_Routine",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "family in bed",
+        "parents wake up",
+        "kids sleeping",
+        "matching pajamas",
+        "thumbs up"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "warm lighting",
+          "bedroom aesthetic"
+        ]
+      },
+      "why_kept": "This segment establishes the initial, misleading scene of the children sleeping peacefully, which is crucial for the comedic reveal that follows."
+    },
+    {
+      "start_time": "00:03.500",
+      "end_time": "00:06.900",
+      "structural_tags": [
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "parents disappear",
+        "children left alone in bed"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "static shot"
+        ]
+      },
+      "why_kept": "This segment shows the parents leaving the bed, subtly setting up the 'problem state' that the children are now unsupervised and potentially no longer asleep."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:10.100",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Face_Reaction",
+        "Shock_Surprise",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "parents walking",
+        "surprised expressions",
+        "hand gestures",
+        "hallway"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "shock",
+          "surprise"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dynamic movement"
+        ]
+      },
+      "why_kept": "This segment captures the parents' immediate emotional reaction and realization that their children are no longer in bed, building the comedic tension."
+    },
+    {
+      "start_time": "00:17.300",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Reveal_Result",
+        "High_Energy",
+        "Morning_Routine",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "children walking",
+        "matching pajamas",
+        "youngest with backpack",
+        "doorway"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "quick cuts",
+          "humorous reveal"
+        ]
+      },
+      "why_kept": "This is the core comedic reveal and the punchline of the video, showing the children actively and independently starting their day, contrasting sharply with the initial scene."
+    }
+  ]
+}

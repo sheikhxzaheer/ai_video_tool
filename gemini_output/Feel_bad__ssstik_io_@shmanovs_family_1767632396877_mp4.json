@@ -1,0 +1,223 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Feel bad\\ssstik.io_@shmanovs_family_1767632396877.mp4",
+  "detailed_description": "The video chronicles a family's struggles with their children's health issues after moving to America. It begins with the urgent hospitalization of their youngest daughter for a severe croup attack, highlighting the rapid medical intervention and her subsequent recovery. The narrative then shifts to their middle son, who experiences mysterious episodes of chest pain, leading to multiple specialist visits, extensive cardiac testing, and repeated emergency room trips. Despite numerous examinations, including an X-ray and cardiogram, doctors have found no definitive medical cause for his recurring symptoms, leaving the family in an ongoing 'vicious cycle' of uncertainty and monitoring.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.750",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Human_Interaction",
+        "Urgency_Rush"
+      ],
+      "visual_keywords": [
+        "child",
+        "girl",
+        "ambulance",
+        "stretcher",
+        "medical equipment",
+        "adult hand holding child's hand"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "car"
+        ],
+        "mood": [
+          "serious",
+          "clinical",
+          "concerned"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright overhead lighting",
+          "mobile medical environment"
+        ]
+      },
+      "why_kept": "This segment establishes the initial critical health problem, showing the child in an emergency medical setting and conveying the urgency and concern through the visual and voiceover."
+    },
+    {
+      "start_time": "00:23.000",
+      "end_time": "00:30.500",
+      "structural_tags": [
+        "Problem_State",
+        "Key_Information",
+        "Human_Interaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "children",
+        "hospital bed",
+        "siblings",
+        "concerned expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "serious",
+          "concerned",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright hospital room",
+          "family interaction"
+        ]
+      },
+      "why_kept": "This segment introduces the ongoing, mysterious health issue of the middle son, transitioning the narrative to the core problem of the video. The voiceover provides crucial context for his recurring symptoms."
+    },
+    {
+      "start_time": "00:34.000",
+      "end_time": "00:41.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Travel_Transit",
+        "Urgency_Rush",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "nurse",
+        "boy",
+        "wheelchair",
+        "hospital hallway"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "clinical",
+          "purposeful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean hospital aesthetic",
+          "moving shot"
+        ]
+      },
+      "why_kept": "This BROLL segment illustrates the ongoing process of seeking medical help for the son, showing him being transported within the hospital for further examinations."
+    },
+    {
+      "start_time": "01:12.000",
+      "end_time": "01:25.500",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Key_Information",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "boy",
+        "hospital bed",
+        "blanket",
+        "relieved expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "calm",
+          "relieved"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "focus on child's face"
+        ]
+      },
+      "why_kept": "This segment presents a crucial turning point where doctors initially declare the son's heart healthy, bringing temporary relief and a sense of resolution to the family."
+    },
+    {
+      "start_time": "01:36.000",
+      "end_time": "01:50.000",
+      "structural_tags": [
+        "Problem_State",
+        "Confusion_Doubt",
+        "Key_Information",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "boy",
+        "hospital bed",
+        "blanket",
+        "smiling",
+        "medical equipment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hospital"
+        ],
+        "mood": [
+          "confused",
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright hospital lighting",
+          "child wrapped in blanket"
+        ]
+      },
+      "why_kept": "This segment details the frustrating 'vicious cycle' where the son's symptoms persist despite tests, leading to repeated hospital visits without a clear diagnosis, reinforcing the central problem."
+    },
+    {
+      "start_time": "01:50.000",
+      "end_time": "02:07.500",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "boy",
+        "outdoors",
+        "Lego book",
+        "walking",
+        "grass"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "serious",
+          "unresolved",
+          "hopeful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural outdoor lighting",
+          "child walking"
+        ]
+      },
+      "why_kept": "This concluding segment emphasizes the ongoing, unresolved nature of the son's condition, summarizing the family's continued vigilance and the lack of a definitive answer to their health concerns."
+    }
+  ]
+}

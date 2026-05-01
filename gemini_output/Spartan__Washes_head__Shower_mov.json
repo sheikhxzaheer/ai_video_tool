@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Washes head\\Shower.mov",
+  "detailed_description": "The video showcases a man's personal hygiene routine, specifically focusing on him washing his hair in the shower. He is seen under the running water from a modern showerhead, meticulously lathering his dark hair with shampoo, creating abundant suds across his scalp and upper body. His eyes are closed, suggesting a moment of calm and focus on the cleansing process. The segment highlights the thorough application and rinsing of hair product as part of a daily self-care regimen.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:16.483",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Calm_Relaxation",
+        "Morning_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "showering",
+        "washing hair",
+        "shampoo",
+        "lather",
+        "soap",
+        "water",
+        "showerhead"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "relaxed",
+          "clean"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "shampooing process",
+          "lathering action"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it perfectly demonstrates the 'Process/Labor' and 'Product Interaction' hero moments. The man is continuously engaged in the action of washing and rinsing his hair with shampoo, which is the core activity the video intends to show. There are no setup frames, dead air, or mistakes to trim; the action begins and ends within the provided clip."
+    }
+  ]
+}

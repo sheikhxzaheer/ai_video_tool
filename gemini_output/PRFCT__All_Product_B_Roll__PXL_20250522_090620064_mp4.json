@@ -1,0 +1,87 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250522_090620064.mp4",
+  "detailed_description": "This video introduces 'PRFCCT MORNING TANGERINE PULSE,' a hydration and metabolic activator product. It begins with an aesthetic shot of the product packaging (a main pouch and a single sachet) set against a natural outdoor backdrop of rocks and water. A hand then interacts with the product by picking up the sachet, revealing its individual branding. The camera subsequently focuses on the larger pouch, showcasing the brand name, product type, and key benefits printed on the packaging, effectively presenting the product in detail.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "product packaging",
+        "sachet",
+        "rock",
+        "water",
+        "ripples"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "nature",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clear water reflections"
+        ]
+      },
+      "why_kept": "This initial segment establishes an appealing outdoor setting for the product, serving as a visual hook and introducing the product packaging in its environment before direct interaction begins."
+    },
+    {
+      "start_time": "00:00.500",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Nutrient_Content",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "hand",
+        "sachet",
+        "product pouch",
+        "PRFCCT MORNING",
+        "TANGERINE PULSE",
+        "Hydration Fuel",
+        "Metabolic Activators",
+        "Nutrient Care",
+        "packaging details"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "nature",
+          "ocean"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up detail",
+          "natural light",
+          "hand holding product"
+        ]
+      },
+      "why_kept": "This segment is the core 'Hero Moment' as it demonstrates direct product interaction (a hand picking up and revealing the sachet) and provides a clear close-up of the product's branding and key benefits on both the sachet and the main pouch, directly conveying what the product is and what it offers."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pills\\ssstik.io_@user4198991320849_1769067342929.mp4",
+  "detailed_description": "This video features a gloved hand sifting and scooping through a massive pile of diverse, colorful pharmaceutical pills. The action highlights the sheer volume and variety of medications, creating a visually compelling and tactile experience. The sound of the pills tumbling reinforces the immersion, making the 'Pillsies' interaction the central focus.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:16.035",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "blue glove",
+        "pills",
+        "medication",
+        "colorful",
+        "scooping",
+        "sifting",
+        "pharmaceuticals"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "fascinating"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "brightly lit",
+          "overhead shot",
+          "textured sound"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core of the video, demonstrating the process of a gloved hand interacting with a vast collection of pills. It fulfills the 'Process/Labor' and 'Product Interaction' criteria, showcasing the main action and visual appeal without any irrelevant setup or dead air."
+    }
+  ]
+}

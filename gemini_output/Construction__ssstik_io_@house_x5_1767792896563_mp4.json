@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Construction\\ssstik.io_@house.x5_1767792896563.mp4",
+  "detailed_description": "This video is an aerial timelapse documenting the initial phase of a construction project on a picturesque coastal plot. It showcases the transformation of raw, undeveloped land into a site prepared with multiple building foundations. The sequence meticulously captures the progression from land clearing and leveling by heavy machinery, through the precise excavation of foundation pits, to the final pouring of concrete by numerous mixer trucks, presenting a clear before-and-after of this critical construction stage.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Behind_The_Scenes",
+        "Result_Transformation",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "construction site",
+        "aerial view",
+        "timelapse",
+        "heavy machinery",
+        "excavators",
+        "bulldozers",
+        "concrete trucks",
+        "foundations",
+        "ocean",
+        "road",
+        "pine trees"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "ocean",
+          "nature",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "drone footage",
+          "sunny",
+          "clear day",
+          "sequential build"
+        ]
+      },
+      "why_kept": "This entire segment is kept because it represents the complete 'process/labor' and 'reveal/result' of the initial construction phase. The timelapse effectively condenses the entire transformation from raw land to completed foundations, which is the core action and value demonstrated in the video. It perfectly adheres to the 'No-Mistake Rule' as the continuous progression is the hero moment without any extraneous footage."
+    }
+  ]
+}

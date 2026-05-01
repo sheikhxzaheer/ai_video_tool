@@ -1,0 +1,171 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sofa cover\\ssstik.io_@easygoing_usa_1769691301531.mp4",
+  "detailed_description": "This video demonstrates the easy installation and functional benefits of a stretchable sofa cover. It shows a person effortlessly fitting the deep red, textured cover onto a white sofa, using foam rods to secure a snug appearance. The cover's water-resistant quality is highlighted by pouring water onto it, which beads up and is easily wiped away, leaving no stains. The final shots showcase the transformed sofa with decorative pillows, emphasizing its renewed aesthetic and practical protection for daily use.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "sofa cover",
+        "red fabric",
+        "stretching",
+        "fitting",
+        "armrest"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear demonstration",
+          "functional"
+        ]
+      },
+      "why_kept": "This segment is the primary anchor as it initiates the core action of applying the sofa cover, demonstrating its stretchability and initial fit over the sofa arm, which is central to the product's value."
+    },
+    {
+      "start_time": "00:04.900",
+      "end_time": "00:09.100",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "sofa cover",
+        "tucking",
+        "white foam stick",
+        "crevice"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed action",
+          "ease of use"
+        ]
+      },
+      "why_kept": "This segment highlights a specific mechanism of action (using the foam stick) that ensures a neat and secure fit, contributing to the overall 'reveal' of the transformed sofa."
+    },
+    {
+      "start_time": "00:09.100",
+      "end_time": "00:12.700",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "water pouring",
+        "water resistance",
+        "beading water",
+        "wiping",
+        "tissue"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "functional",
+          "impressive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "proof of concept",
+          "durability test"
+        ]
+      },
+      "why_kept": "This segment provides a clear and impactful demonstration of a key product benefit: its water-resistant property, which is a major selling point and a 'hero moment' of functionality."
+    },
+    {
+      "start_time": "00:12.700",
+      "end_time": "00:19.900",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "sofa",
+        "red cover",
+        "person sitting",
+        "reading",
+        "flower pillows"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "lifestyle appeal",
+          "final product showcase",
+          "comfort"
+        ]
+      },
+      "why_kept": "This segment serves as the final 'reveal' of the product in a real-life setting, showcasing its aesthetic appeal, comfort, and how it integrates into a home environment, effectively concluding the transformation."
+    },
+    {
+      "start_time": "00:19.900",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "logo",
+        "text",
+        "Easy-Going"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "neutral"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "brand identity",
+          "call to action"
+        ]
+      },
+      "why_kept": "This segment is a standard call to action, providing branding information and inviting further engagement, which is a key part of the video's overall communication."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B-roll3 fluffco.mov",
+  "detailed_description": "The video showcases a serene moment of a woman lying comfortably in bed, looking directly at the camera with a gentle, satisfied smile. She is partially covered by a white duvet, resting her head on a white pillow, suggesting a state of peaceful relaxation. The overall scene, set in a cozy bedroom with muted tones, emphasizes comfort and positive emotion. Her direct gaze and soft smile convey a sense of intimacy and contentment within her personal space. This segment captures an emotional climax, highlighting a feeling of calm and well-being.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.957",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "duvet",
+        "pillow",
+        "smiling",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "relaxed",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "cozy",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, capturing an emotional climax where the woman displays a clear facial expression of satisfaction and calm while resting in bed. Her direct gaze and smile are the primary focus, conveying a feeling of well-being without any further action or product interaction throughout the video."
+    }
+  ]
+}

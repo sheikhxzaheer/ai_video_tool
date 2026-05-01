@@ -1,0 +1,179 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sofa_couch is dirty\\ssstik.io_@hetch.uk_1769688122207.mp4",
+  "detailed_description": "This video effectively demonstrates the removal of a challenging coke stain from a gray fabric sofa. It begins by showcasing the deliberate spill, establishing a clear problem state. The core of the video highlights the efficient cleaning process using a specialized machine, visibly lifting the dark stain. The effectiveness is further emphasized by showing the dirty water extracted from the sofa, culminating in a satisfying reveal of the now spotless and dry upholstery, restoring its original appearance.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.350",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "coke",
+        "glass",
+        "spill",
+        "sofa",
+        "stain"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear focus"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the problem state by showing the coke being spilled onto the sofa, which is the catalyst for the entire demonstration."
+    },
+    {
+      "start_time": "00:01.350",
+      "end_time": "00:02.750",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "spray bottle",
+        "cleaning solution",
+        "stain",
+        "sofa"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "action shot"
+        ]
+      },
+      "why_kept": "This segment shows the initial application of a cleaning agent, which is a crucial first step in the stain removal process."
+    },
+    {
+      "start_time": "00:02.750",
+      "end_time": "00:07.750",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "wet vacuum",
+        "upholstery cleaner",
+        "stain removal",
+        "sofa",
+        "dirty water",
+        "cleaning tool"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic shot",
+          "visible cleaning action"
+        ]
+      },
+      "why_kept": "This is the primary 'hero moment' demonstrating the product's core function: actively cleaning the sofa and visibly removing the stain, showing the mechanism of action and immediate results."
+    },
+    {
+      "start_time": "00:07.750",
+      "end_time": "00:09.350",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "dirty water",
+        "foam",
+        "sink",
+        "cleaning machine reservoir",
+        "residue"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "satisfaction"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear demonstration",
+          "proof of cleaning"
+        ]
+      },
+      "why_kept": "This segment provides visual evidence of the cleaning effectiveness by showing the dirty water extracted from the sofa, reinforcing the product's capability."
+    },
+    {
+      "start_time": "00:09.350",
+      "end_time": "00:11.550",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "clean sofa",
+        "fabric",
+        "texture",
+        "dry"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "satisfaction"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "final result"
+        ]
+      },
+      "why_kept": "This segment showcases the final successful outcome, with the sofa completely clean and dry, completing the demonstration of the stain removal process."
+    }
+  ]
+}

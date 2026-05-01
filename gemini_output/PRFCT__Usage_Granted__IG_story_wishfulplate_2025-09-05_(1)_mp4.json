@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\Usage Granted\\IG_story_wishfulplate_2025-09-05 (1).mp4",
+  "detailed_description": "The video features a woman, visibly sweaty after a 17-mile run, introducing her preferred method for post-workout hydration. She presents Perfect Morning Hydration Sticks, emphasizing their delicious taste and comprehensive nutritional profile. She highlights that the sticks contain essential vitamins, minerals, and carbohydrates necessary for replenishing glycogen stores and lost electrolytes, positioning them as an ideal recovery aid.",
+  "segments": [
+    {
+      "start_time": "00:05.625",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Product_Standalone",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Home_Kitchen",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "woman",
+        "sweaty face",
+        "green tank top",
+        "Perfect Morning Hydration Sticks pouch",
+        "gold necklace",
+        "red nail polish",
+        "kitchen background",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "positive",
+          "informational"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "casual",
+          "direct address",
+          "selfie-style video"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it perfectly captures the 'Product Interaction' and 'Key Information' hero moments. The speaker introduces the product, clearly displays it, and articulates its benefits (vitamins, minerals, carbohydrates for glycogen and electrolyte replenishment) directly to the audience after a significant physical activity, fulfilling the core value proposition of the video."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ðÀð░ð╗ð©ð▓ð░ðÁÐé ð║ð╗ð©ðÁð¢Ðéð░ Ðüð▓ð¥ðÁð©╠å ÐüÐéÐÇÐâðÁ╠êð©╠å.mp4",
+  "detailed_description": "This short, humorous video showcases a barber performing an exaggerated, 'magical' hair styling routine on a client. The process involves the barber making dramatic gestures and loud vocalizations, leading to instantaneous hair transformations through quick cuts, followed by a theatrical drenching of the client's hair with water, first from above and then directly via a hose. The client reacts with initial surprise and ultimately a satisfied smile, highlighting the playful and entertaining nature of the barber's performance.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "barber",
+        "client",
+        "hair styling",
+        "water spray",
+        "exaggerated gestures",
+        "facial expressions",
+        "salon environment",
+        "humor"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "humorous"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "quick cuts",
+          "dramatic lighting",
+          "comedic tone",
+          "slow-motion water effects"
+        ]
+      },
+      "why_kept": "This segment encompasses the entire humorous and 'magical' hair styling performance. It begins with the initial visual hook and quick hair transformations, proceeds through the central 'mechanism of action' involving dramatic gestures and water application, and culminates in the client's evolving facial reactions from surprise to a satisfied smile, effectively capturing the core intent and entertainment value of the video without any extraneous footage."
+    }
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Eat\\Man\\ssstik.io_@sidelnykov.viktor_1763569101189.mp4",
+  "detailed_description": "This video features a man and a woman reviewing the 'Steak & Lobster' restaurant in Dnipro, Ukraine. The man indulges in a massive Tomahawk steak, specially marinated with a secret recipe, and a luxurious lobster served with melted cheese and sauces. He demonstrates eating both dishes enthusiastically, highlighting the deliciousness and the unique preparation methods. The woman enjoys a fresh salad with shrimp and pineapple. The video concludes with the man summarizing the restaurant's offerings, its history, and inviting viewers to visit and share their experience.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:22.950",
+      "structural_tags": [
+        "Product_Interaction",
+        "Emotional_Climax",
+        "Process_Labor",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "steak",
+        "sauce",
+        "pouring",
+        "eating",
+        "chewing",
+        "satisfied expression",
+        "messy eating"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "restaurant"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "close-up on food and face"
+        ]
+      },
+      "why_kept": "This segment is the semantic core because it immediately establishes the video's main theme: an indulgent and messy eating experience of a large steak, showcasing the product interaction, the 'labor' of preparation (pouring sauces), and a strong emotional climax of enjoyment."
+    },
+    {
+      "start_time": "00:23.000",
+      "end_time": "00:25.800",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Product_Intro",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "man",
+        "restaurant name",
+        "steak",
+        "lobster",
+        "table"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "restaurant"
+        ],
+        "mood": [
+          "informative",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "Provides initial context about the restaurant and the main dishes, serving as an effective introduction before diving into the specifics."
+    },
+    {
+      "start_time": "00:25.800",
+      "end_time": "00:27.000",
+      "structural_tags": [
+        "Key_Information",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "restaurant entrance",
+        "Dnipro location",
+        "street view"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "clean",
+          "architectural"
+        ]
+      },
+      "why_kept": "Offers external visual context of the restaurant's location, essential for viewer information."
+    },
+    {
+      "start_time": "00:27.000",
+      "end_time": "00:30.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Key_Information",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man",
+        "lobster",
+        "cheese",
+        "french fries",
+        "price overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "restaurant"
+        ],
+        "mood": [
+          "informative",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "price overlay"
+        ]
+      },
+      "why_kept": "Introduces the second main dish, the lobster, along with its price, maintaining product focus while delivering key information."
+    },
+    {
+      "start_time": "00:30.000",
+      "end_time": "00:53.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Emotional_Climax",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "lobster",
+        "cheese",
+        "french fries",
+        "eating",
+        "peeling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "restaurant"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up on food",
+          "enthusiastic eating"
+        ]
+      },
+      "why_kept": "Shows the man actively enjoying the lobster and fries, demonstrating product interaction and an emotional reaction to the taste."
+    },
+    {
+      "start_time": "00:54.000",
+      "end_time": "00:58.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Emotional_Climax",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "lobster claw",
+        "nutcracker",
+        "eating"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "restaurant"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed action shots"
+        ]
+      },
+      "why_kept": "Highlights the process of eating a lobster claw and the resulting enjoyment, further emphasizing the dining experience."
+    },
+    {
+      "start_time": "00:58.500",
+      "end_time": "01:17.000",
+      "structural_tags": [
+        "Key_Information",
+        "Product_Interaction",
+        "UGC_Talking_Head",
+        "Emotional_Climax"
+      ],
+      "visual_keywords": [
+        "man",
+        "lobster meat",
+        "sauce",
+        "talking",
+        "explaining preparation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "restaurant"
+        ],
+        "mood": [
+          "informative",
+          "enthusiastic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address to camera"
+        ]
+      },
+      "why_kept": "Provides valuable information about the lobster's quality and the special preparation, with active product interaction, reinforcing the value proposition."
+    },
+    {
+      "start_time": "01:17.000",
+      "end_time": "01:21.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Key_Information",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man",
+        "steak",
+        "price overlay",
+        "talking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "restaurant"
+        ],
+        "mood": [
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "price overlay"
+        ]
+      },
+      "why_kept": "Re-introduces the steak with its pricing, maintaining the focus on the core offerings of the restaurant."
+    },
+    {
+      "start_time": "01:21.000",
+      "end_time": "01:28.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Emotional_Climax",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "steak on bone",
+        "eating",
+        "large bite",
+        "satisfied expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "restaurant"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up on food",
+          "expressive eating"
+        ]
+      },
+      "why_kept": "Showcases another impactful eating moment with the steak, demonstrating the sheer size and apparent deliciousness of the dish."
+    },
+    {
+      "start_time": "01:28.000",
+      "end_time": "01:40.000",
+      "structural_tags": [
+        "Key_Information",
+        "Product_Interaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man",
+        "steak",
+        "talking about recipe",
+        "pointing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "restaurant"
+        ],
+        "mood": [
+          "informative",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address to camera"
+        ]
+      },
+      "why_kept": "Delivers key information about the steak's unique preparation and secret recipe, enhancing its appeal while actively holding the product."
+    },
+    {
+      "start_time": "01:40.000",
+      "end_time": "01:46.800",
+      "structural_tags": [
+        "Key_Information",
+        "Emotional_Climax",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "messy table",
+        "steak",
+        "eating with hands",
+        "satisfied expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "restaurant"
+        ],
+        "mood": [
+          "playful",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "authentic eating experience"
+        ]
+      },
+      "why_kept": "Reinforces the enjoyable and uninhibited eating experience, culminating in another bite, showing the overall satisfaction."
+    },
+    {
+      "start_time": "01:47.000",
+      "end_time": "02:04.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Emotional_Climax",
+        "Face_Reaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "salad",
+        "shrimp",
+        "pineapple",
+        "eating",
+        "smiling",
+        "talking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "restaurant"
+        ],
+        "mood": [
+          "calm",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean presentation",
+          "positive review"
+        ]
+      },
+      "why_kept": "Introduces a different menu item, the salad, showing positive product interaction and an emotional endorsement from the woman, broadening the restaurant's appeal."
+    },
+    {
+      "start_time": "02:04.500",
+      "end_time": "02:39.000",
+      "structural_tags": [
+        "Key_Information",
+        "Offer_CTA",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man",
+        "tea",
+        "bar area",
+        "chandeliers",
+        "brick wall",
+        "artwork",
+        "talking",
+        "invitation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "restaurant"
+        ],
+        "mood": [
+          "informative",
+          "invitational",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "upscale decor",
+          "direct address to camera"
+        ]
+      },
+      "why_kept": "Concludes the video by summarizing the experience, providing additional restaurant details (history, anniversary), and a clear call to action for viewers to visit and engage, effectively wrapping up the review."
+    }
+  ]
+}

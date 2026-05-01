@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Apply\\CNWM_JillianGray_019_Applied Mask.MOV",
+  "detailed_description": "A young woman, wearing a pink bow headband and a black top, applies a skincare product to her face. Her face glistens with the applied product as she gently rubs it into her skin, looking directly at the camera. She speaks candidly about feeling like a 'crazy person' every time she uses the app, blending a personal confession with her skincare routine demonstration.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "UGC_Talking_Head",
+        "Night_Routine",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman applying cream",
+        "skincare routine",
+        "face cream",
+        "pink headband",
+        "shiny face",
+        "jawline massage",
+        "talking to camera"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "natural look",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment is the semantic core because it demonstrates the product interaction (applying cream to the face), shows the process/labor of a skincare routine, and includes a direct address to the camera (UGC_Talking_Head) where the subject shares a personal thought while performing the action. It encapsulates the core activity and narrative of the video without any setup or dead air."
+    }
+  ]
+}

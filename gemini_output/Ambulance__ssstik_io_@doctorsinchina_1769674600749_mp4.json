@@ -1,0 +1,120 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@doctorsinchina_1769674600749.mp4",
+  "detailed_description": "This video offers a glimpse into a bustling Intensive Care Unit (ICU), showcasing the critical medical procedures and the dedicated environment where lives are saved. It highlights the intricate operation of advanced medical devices, specifically a blood purification machine, connected to patients for continuous care. Medical professionals are seen actively monitoring and interacting with these complex systems, underscoring the high level of expertise and technology involved in providing life-sustaining treatment in a critical care setting.",
+  "segments": [
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Mechanism_Of_Action",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "dialysis machine",
+        "blood purification",
+        "tubes",
+        "fluids",
+        "medical equipment",
+        "monitor",
+        "NIKKISO Aquarius"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "detailed view"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it provides a detailed, close-up view of the specialized blood purification machine (NIKKISO Aquarius) in active operation, clearly demonstrating a key medical intervention and showcasing the advanced technology."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "doctors",
+        "scrubs",
+        "medical staff",
+        "machine",
+        "monitor",
+        "pointing",
+        "collaboration",
+        "medical expertise"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "action shot",
+          "focused interaction"
+        ]
+      },
+      "why_kept": "This segment showcases medical professionals actively engaging with the advanced equipment, highlighting the human element, expertise, and collaborative effort involved in critical patient care."
+    },
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:11.500",
+      "structural_tags": [
+        "Workspace_Office",
+        "Problem_State",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "ICU ward",
+        "hospital beds",
+        "patients",
+        "medical equipment",
+        "monitors",
+        "yellow bins",
+        "long hallway",
+        "critical care"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sterile environment",
+          "organized chaos"
+        ]
+      },
+      "why_kept": "This wide shot establishes the comprehensive environment of an intensive care unit, displaying multiple patients receiving critical care and the extensive medical infrastructure, providing crucial contextual information about the scale and intensity of the work."
+    }
+  ]
+}

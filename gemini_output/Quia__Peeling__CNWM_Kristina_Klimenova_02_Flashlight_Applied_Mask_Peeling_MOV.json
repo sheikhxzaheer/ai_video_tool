@@ -1,0 +1,144 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Peeling\\CNWM_Kristina Klimenova_02_Flashlight_Applied Mask_Peeling.MOV",
+  "detailed_description": "The video showcases a woman's overnight face mask routine using a peel-off mask. She first demonstrates the clear mask applied to her face before going to sleep. The next morning, she explains how tight and smooth her skin feels after the mask has dried overnight. She then proceeds to peel off the mask in several satisfying segments, highlighting its effectiveness in removing impurities and tightening her skin, expressing delight and satisfaction at the visible transformation and feel of her refreshed complexion.",
+  "segments": [
+    {
+      "start_time": "00:00.600",
+      "end_time": "00:09.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "face mask",
+        "clear mask",
+        "glowing skin",
+        "headband",
+        "woman",
+        "touching face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": []
+      },
+      "why_kept": "This segment establishes the product's initial state – the clear mask applied to the face – setting the stage for the overnight process."
+    },
+    {
+      "start_time": "00:35.000",
+      "end_time": "01:38.000",
+      "structural_tags": [
+        "Key_Information",
+        "Emotional_Climax",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Process_Labor",
+        "Positive_Emotion",
+        "UGC_Talking_Head",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "dry face mask",
+        "tight skin",
+        "smooth skin",
+        "peeling mask",
+        "clear peel-off mask",
+        "woman",
+        "red headband",
+        "peeled mask piece"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive_emotion"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": []
+      },
+      "why_kept": "This is the core segment as it verbally explains the mask's effect after drying overnight, showcases the emotional reaction to its tightness and smoothness, and immediately transitions into the primary action of peeling, demonstrating the process and the initial reveal of the peeled mask."
+    },
+    {
+      "start_time": "01:40.300",
+      "end_time": "02:00.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "peeling mask",
+        "clear mask",
+        "facial skin",
+        "woman",
+        "peeled mask piece"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": []
+      },
+      "why_kept": "This segment continues to vividly show the detailed peeling action of the mask from different areas of the face and highlights more of the removed product, reinforcing the physical transformation."
+    },
+    {
+      "start_time": "02:00.000",
+      "end_time": "02:24.100",
+      "structural_tags": [
+        "Key_Information",
+        "Emotional_Climax",
+        "Product_Interaction",
+        "Process_Labor",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "peeling mask",
+        "clean skin",
+        "smooth skin",
+        "woman",
+        "touching face",
+        "impurities removal"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "positive_emotion"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": []
+      },
+      "why_kept": "This concluding segment combines further peeling with commentary on the mask's benefits (fun to peel, removes impurities), and captures the user's final satisfaction and the appearance of revitalized skin."
+    }
+  ]
+}

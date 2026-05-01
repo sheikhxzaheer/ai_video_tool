@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ðù 6-Ðû╠ê ÐüðÁð║. ð¢ðÁ ð▓ Ðüð░ð╗ð¥ð¢Ðû, ð│ð░ÐÇð¢ð░ ðÀð░ÐçÐûÐüð║ð░.mp4",
+  "detailed_description": "This video presents a quick and effective 'before and after' showcasing a male client receiving a haircut. It begins with a view of his long, wet hair, setting up the 'before' state and the intention to give him a 'tidy medium length haircut'. The video then seamlessly transitions to reveal the client with a fresh, well-styled medium-length cut, demonstrating the successful transformation and the final aesthetic result.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation",
+        "Before_After",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "man",
+        "haircut",
+        "barber",
+        "hair salon",
+        "wet hair",
+        "styled hair",
+        "beard",
+        "transformation",
+        "side profile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "good lighting",
+          "professional setting"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by clearly presenting the 'before' state of the hair, stating the intended transformation, and then showcasing multiple 'after' views of the achieved tidy medium-length haircut. It encapsulates the complete value proposition of the haircut service as a 'Before/After' reveal."
+    }
+  ]
+}

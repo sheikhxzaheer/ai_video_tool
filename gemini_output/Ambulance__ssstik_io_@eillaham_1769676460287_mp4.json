@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@eillaham_1769676460287.mp4",
+  "detailed_description": "This video offers a first-person perspective from a patient's viewpoint in a hospital bed, explicitly showing an intravenous (IV) drip connected to their arm. The camera pans upwards to reveal a TV playing content on the wall, alongside a clock, before slowly returning to the patient's arm. The scene encapsulates the quiet reality of receiving medical treatment, emphasizing the clinical environment and the patient's passive state of recovery, perhaps using the television as a form of distraction.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "IV drip",
+        "hospital bed",
+        "patient arm",
+        "TV screen",
+        "wall clock",
+        "hospital room"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "first-person view",
+          "slow pan",
+          "ambient lighting"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, visually depicting the experience of being a patient in a hospital. It highlights the IV drip as the primary medical intervention, while the slow pan to the TV and clock establishes the setting and the passage of time during recovery, effectively conveying the 'Product Interaction' with the hospital environment and care."
+    }
+  ]
+}

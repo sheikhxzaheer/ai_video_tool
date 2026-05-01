@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\hf_20260211_105805_74597290-fffc-4b60-8e45-4560b380b742.mp4",
+  "detailed_description": "This video serves as a concise visual introduction to neurons. It begins by presenting a human head, then seamlessly transitions to reveal the intricate structure of the brain. The camera then zooms into a detailed, animated view of individual neurons, showcasing their interconnectedness and the electrical impulses that characterize their activity. The glowing and pulsating visuals effectively convey the dynamic nature of neural communication, illustrating the fundamental units of the nervous system.",
+  "segments": [
+    {
+      "start_time": "00:01.200",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Cellular_Deep_Dive",
+        "Micro_Nutrients_Anim"
+      ],
+      "visual_keywords": [
+        "man",
+        "brain",
+        "neurons",
+        "electrical impulses",
+        "neural network",
+        "glowing cells",
+        "dendrites",
+        "axons"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio",
+          "other"
+        ],
+        "mood": [
+          "educational",
+          "clinical",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "scientific visualization",
+          "dark background",
+          "glowing effects",
+          "futuristic"
+        ]
+      },
+      "why_kept": "This segment is the core value of the video. It visually introduces the concept of neurons, starting from a human context (brain reveal) and then performing a 'cellular deep dive' into the animated, active neurons. This sequence directly illustrates the subject matter implied by the 'neurons' text and demonstrates the biological process of neural activity through engaging animation, fulfilling the 'Process/Labor' and 'Reveal/Result' criteria for hero moments."
+    }
+  ]
+}

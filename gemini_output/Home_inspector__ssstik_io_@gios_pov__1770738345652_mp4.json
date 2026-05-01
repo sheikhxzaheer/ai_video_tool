@@ -1,0 +1,569 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Home inspector\\ssstik.io_@gios.pov__1770738345652.mp4",
+  "detailed_description": "This video offers an insightful glimpse into a home inspector's workday, highlighting the meticulous process of evaluating a property. It showcases the comprehensive nature of the job, from setting up essential signage and organizing specialized tools to performing detailed examinations of various home systems and components. The inspector is seen meticulously checking everything from exterior features like water meters and roofs, requiring physical access via ladders, to interior elements such as electrical panels, kitchen appliances, and plumbing. The use of advanced tools like pressure gauges and infrared thermometers demonstrates the precision involved. This visual journey underscores the dedication to uncovering potential issues and ensuring a thorough assessment of the home's safety and functionality.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:06.500",
+      "structural_tags": [
+        "Day_in_the_life",
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "car",
+        "trunk",
+        "inspection sign",
+        "leaf blower",
+        "man"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright daylight",
+          "clear sky"
+        ]
+      },
+      "why_kept": "This segment establishes the start of the inspector's day, showing him arriving at the site and preparing essential tools and signage, setting the context for the 'day in the life' theme."
+    },
+    {
+      "start_time": "00:10.500",
+      "end_time": "00:16.800",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "backpack",
+        "drill",
+        "flashlight",
+        "tools",
+        "kitchen counter"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "static shot",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment highlights the preparation phase inside the home, showcasing the variety of specialized tools a home inspector uses, emphasizing readiness for the task."
+    },
+    {
+      "start_time": "00:17.000",
+      "end_time": "00:21.500",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "tool belt",
+        "gloves",
+        "man's hands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused shot",
+          "neutral lighting"
+        ]
+      },
+      "why_kept": "This segment shows the inspector gearing up with a tool belt and gloves, symbolizing the hands-on and practical nature of the inspection work."
+    },
+    {
+      "start_time": "00:24.000",
+      "end_time": "00:25.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "water meter",
+        "cobwebs",
+        "gloved hand"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "home"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed view",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This close-up emphasizes the detailed inspection of critical outdoor utilities, indicating a thorough approach to checking all accessible components."
+    },
+    {
+      "start_time": "00:25.500",
+      "end_time": "00:26.500",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Data_Metrics_Chart"
+      ],
+      "visual_keywords": [
+        "pressure gauge",
+        "spigot",
+        "gloved hand"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "home"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "action-oriented",
+          "bright daylight"
+        ]
+      },
+      "why_kept": "This segment illustrates a specific test for water pressure, demonstrating the use of specialized equipment to assess plumbing system functionality."
+    },
+    {
+      "start_time": "00:27.500",
+      "end_time": "00:30.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "ladder",
+        "man",
+        "climbing",
+        "house exterior"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "action shot",
+          "dynamic movement"
+        ]
+      },
+      "why_kept": "This segment visually demonstrates the effort required to access elevated areas of the home, such as the roof, highlighting a key aspect of a comprehensive inspection."
+    },
+    {
+      "start_time": "00:30.000",
+      "end_time": "00:33.500",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man",
+        "roof tiles",
+        "roof inspection"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "rugged"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "action shot",
+          "high angle",
+          "bright sunlight"
+        ]
+      },
+      "why_kept": "This segment is chosen as the ANCHOR because inspecting the roof is a critical, often physically demanding, and visually striking part of a home inspection, showcasing the inspector's thoroughness in assessing all structural components."
+    },
+    {
+      "start_time": "00:34.500",
+      "end_time": "00:36.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man",
+        "ladder",
+        "attic hatch",
+        "climbing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic shot",
+          "upward angle"
+        ]
+      },
+      "why_kept": "This segment emphasizes the inspector's access to and examination of often hidden, yet crucial, areas like the attic, demonstrating a full scope inspection."
+    },
+    {
+      "start_time": "00:36.500",
+      "end_time": "00:40.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "electrical panel",
+        "circuits",
+        "screwdriver"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused action",
+          "clear detail"
+        ]
+      },
+      "why_kept": "Inspecting the electrical panel is a fundamental safety check, and this segment clearly shows the inspector performing this critical task with appropriate tools."
+    },
+    {
+      "start_time": "00:40.500",
+      "end_time": "00:44.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Data_Metrics_Chart"
+      ],
+      "visual_keywords": [
+        "pressure gauge",
+        "water pressure reading",
+        "gloved hand"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "home"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear reading",
+          "detailed view"
+        ]
+      },
+      "why_kept": "This segment provides a clear 'reveal' of the water pressure test result, showcasing how data is gathered during an inspection."
+    },
+    {
+      "start_time": "00:44.500",
+      "end_time": "00:48.500",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "microwave",
+        "oven",
+        "kitchen"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "functional check",
+          "steady shot"
+        ]
+      },
+      "why_kept": "This segment demonstrates the inspection of kitchen appliances, showing the inspector checking basic functionality, which is important for home buyers."
+    },
+    {
+      "start_time": "00:49.000",
+      "end_time": "00:52.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Data_Metrics_Chart"
+      ],
+      "visual_keywords": [
+        "infrared thermometer",
+        "stove burner",
+        "temperature reading",
+        "hand"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear reading",
+          "technical assessment"
+        ]
+      },
+      "why_kept": "This clip showcases another specialized tool, the infrared thermometer, used to verify appliance performance and safety through temperature readings, a clear 'reveal' of data."
+    },
+    {
+      "start_time": "00:52.500",
+      "end_time": "00:54.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "bathtub",
+        "running water",
+        "filling tub",
+        "plumbing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "functional test",
+          "clean environment"
+        ]
+      },
+      "why_kept": "Checking plumbing functionality by running water in the tub is a standard and essential part of a home inspection, represented clearly here."
+    },
+    {
+      "start_time": "00:54.500",
+      "end_time": "00:57.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man",
+        "pool skimmer",
+        "basket",
+        "patio"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused action",
+          "bright sunlight"
+        ]
+      },
+      "why_kept": "This segment illustrates the inspection of outdoor recreational features like a pool skimmer, demonstrating the broad scope of a home inspector's duties."
+    },
+    {
+      "start_time": "00:57.500",
+      "end_time": "01:00.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "garage door",
+        "opening",
+        "closing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "outdoor",
+          "garage"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "functional test",
+          "full view"
+        ]
+      },
+      "why_kept": "Testing the functionality of the garage door is a standard and important safety check, clearly depicted in this segment."
+    },
+    {
+      "start_time": "01:01.000",
+      "end_time": "01:02.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "tape measure",
+        "garage door gap",
+        "measurement"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "outdoor",
+          "garage"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed measurement",
+          "practical check"
+        ]
+      },
+      "why_kept": "This close-up demonstrates the inspector's attention to detail, measuring specific elements like the garage door gap for proper sealing and function."
+    },
+    {
+      "start_time": "01:02.500",
+      "end_time": "01:04.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "tool",
+        "floor",
+        "wall",
+        "inspection"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused detail",
+          "use of tool"
+        ]
+      },
+      "why_kept": "This final segment illustrates the use of a specialized tool for interior inspection, emphasizing the comprehensive nature of checking all accessible areas of the home."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Halloween_dance\\ssstik.io_@johphg_1757579694805.mp4",
+  "detailed_description": "This video features two young women dressed in coordinated Men in Black-themed costumes. They wear black suits, white shirts, ties, and dark sunglasses, embodying the iconic movie characters. Each holds a bright green alien-head balloon, with one also holding a toy gun and the other a smartphone. The duo strikes various synchronized poses, including pointing their weapons, showcasing their creative and playful Halloween or costume party attire.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.298",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "High_Energy",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "women",
+        "Men in Black costumes",
+        "black suits",
+        "ties",
+        "sunglasses",
+        "alien balloons",
+        "toy guns",
+        "smartphone",
+        "posing",
+        "hallway"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "cosplay",
+          "costume reveal",
+          "synchronized posing",
+          "upbeat music",
+          "movie tribute"
+        ]
+      },
+      "why_kept": "The entire segment is the semantic core as it fully captures the costume reveal and synchronized posing, which is the main subject and creative expression of the video. There are no extraneous frames before or after the main action."
+    }
+  ]
+}

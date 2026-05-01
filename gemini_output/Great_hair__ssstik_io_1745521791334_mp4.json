@@ -1,0 +1,118 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1745521791334.mp4",
+  "detailed_description": "This video is a compilation of aesthetic shots featuring an attractive man enjoying a sunny day on a boat. He is seen with a confident gaze and subtle smiles, looking directly at the camera, conveying a positive and relaxed mood and engaging the viewer. A brief segment shows him shirtless with wet skin, hinting at an active outdoor lifestyle. The overall purpose of the video is to showcase the individual in an aspirational and appealing manner within a beautiful natural setting.",
+  "segments": [
+    {
+      "start_time": "00:00.600",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "Man",
+        "boat",
+        "lake",
+        "tank top",
+        "smiling",
+        "looking at camera"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "sunny",
+          "bright",
+          "natural light",
+          "clear day"
+        ]
+      },
+      "why_kept": "This segment establishes the subject, his positive demeanor, and the scenic outdoor setting, engaging directly with the viewer and serving as a primary introduction to the video's aesthetic."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Man",
+        "shirtless",
+        "wet skin",
+        "looking away"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "sunny",
+          "natural light",
+          "wet look"
+        ]
+      },
+      "why_kept": "This shot adds a dynamic visual element, emphasizing an active or sporty aspect of the subject's lifestyle, complementing the relaxed boating scene."
+    },
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:07.900",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "Man",
+        "boat",
+        "lake",
+        "tank top",
+        "smiling",
+        "looking at camera"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "sunny",
+          "bright",
+          "natural light",
+          "clear day"
+        ]
+      },
+      "why_kept": "This segment reinforces the main theme of the video, with the subject confidently engaging the viewer with a smile, solidifying the aspirational and positive mood established earlier."
+    }
+  ]
+}

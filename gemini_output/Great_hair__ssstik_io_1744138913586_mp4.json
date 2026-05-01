@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1744138913586.mp4",
+  "detailed_description": "This video showcases a stylish man exuding confidence as he walks down a city street. Dressed in a sharp black suit with a white t-shirt and brown shoes, he completes his look with modern sunglasses and noticeable neck tattoos. The video uses an initial blurry sequence to build anticipation, transitioning sharply to reveal the man's composed and self-assured demeanor. His confident stride and direct gaze convey an aura of modern elegance and a distinct lifestyle aesthetic.",
+  "segments": [
+    {
+      "start_time": "00:04.908",
+      "end_time": "00:08.578",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "suit",
+        "sunglasses",
+        "walking",
+        "street",
+        "tattoo",
+        "confident",
+        "stylish",
+        "urban"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "premium",
+          "serious",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sharp focus",
+          "urban setting",
+          "clean aesthetic",
+          "confident pose",
+          "slow motion"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it clearly reveals the subject in sharp focus after an initial blurry sequence, showcasing his confident demeanor and stylish attire. It perfectly embodies the desired aesthetic and lifestyle presented, delivering the main visual impact and demonstrating the 'result' of the setup."
+    }
+  ]
+}

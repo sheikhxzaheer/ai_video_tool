@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Routine\\Doing Hair.MP4",
+  "detailed_description": "This video features a woman in a casual black strapless top and grey pants, playfully dancing and posing to upbeat music. She has a pink hair roller prominently placed on top of her head, hinting at a beauty or morning routine. The woman engages directly with the camera through various expressions, including sticking out her tongue and making a kissing face, all while moving energetically. The core of the video is her high-spirited interaction and positive emotional display in a relaxed home setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Face_Reaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "dancing",
+        "pink hair roller",
+        "black strapless top",
+        "grey pants",
+        "playful expressions",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "casual",
+          "vertical video"
+        ]
+      },
+      "why_kept": "This segment captures the entirety of the intended 'hero moment,' which is the woman's playful and energetic interaction with the camera while having a hair roller in her hair. It showcases 'Emotional Climax' through her clear facial expressions and 'Human Interaction' as she dances and poses. The presence of the hair roller implies a 'Morning_Routine,' making it a continuous demonstration of the video's core content without any setup or post-action dead air."
+    }
+  ]
+}

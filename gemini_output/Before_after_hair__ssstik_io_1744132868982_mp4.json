@@ -1,0 +1,77 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ssstik.io_1744132868982.mp4",
+  "detailed_description": "This video effectively showcases a dramatic hair transformation using a clear before-and-after sequence. It begins by presenting a man's significant hair loss and receding hairline, establishing a 'problem state'. The video then transitions to reveal the same man with a full, healthy head of hair, demonstrating a complete 'result transformation'. The segment concludes with him confidently brushing his newly restored hair, reinforcing the success and natural feel of the transformation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "receding hairline",
+        "thinning hair",
+        "forehead",
+        "glasses",
+        "looking down"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "raw"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'before' state, highlighting the problem of hair loss, which is crucial for the video's narrative of transformation. It serves as the visual hook and problem statement."
+    },
+    {
+      "start_time": "00:04.900",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "full hair",
+        "dark hair",
+        "brushing hair",
+        "yellow comb"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "confident",
+          "satisfaction"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean",
+          "effective"
+        ]
+      },
+      "why_kept": "This segment displays the 'after' state, showcasing the successful hair transformation. The action of brushing the hair further emphasizes the health and manageability of the new hair, serving as a powerful demonstration of the result."
+    }
+  ]
+}

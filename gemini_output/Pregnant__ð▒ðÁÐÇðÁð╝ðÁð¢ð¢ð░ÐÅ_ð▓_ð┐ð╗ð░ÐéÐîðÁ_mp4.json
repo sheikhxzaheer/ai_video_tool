@@ -1,0 +1,84 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pregnant\\ð▒ðÁÐÇðÁð╝ðÁð¢ð¢ð░ÐÅ ð▓ ð┐ð╗ð░ÐéÐîðÁ.mp4",
+  "detailed_description": "The video features a pregnant woman in a brown dress who performs a surprising and humorous visual trick. With a playful expression, she dramatically expands her baby bump to an exaggerated size in an instant, then rapidly deflates it back to a normal pregnant belly. The core meaning of the video is to showcase this unexpected and amusing pregnancy illusion, highlighting the transformation and the woman's delighted reaction.",
+  "segments": [
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Reveal_Result",
+        "Positive_Emotion",
+        "Shock_Surprise",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "pregnant woman",
+        "belly expansion",
+        "large belly",
+        "smiling",
+        "surprised expression",
+        "brown dress",
+        "body transformation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "shock",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual home setting"
+        ]
+      },
+      "why_kept": "This segment is the primary 'Hero Moment' as it vividly captures the initial dramatic expansion of the belly, which is the core 'Reveal/Result' of the illusion. The woman's genuine surprised and positive emotional climax is clearly demonstrated, establishing the central theme of the video."
+    },
+    {
+      "start_time": "00:08.500",
+      "end_time": "00:15.550",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Reveal_Result",
+        "Positive_Emotion",
+        "Shock_Surprise",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "pregnant woman",
+        "belly deflation",
+        "belly re-expansion",
+        "large belly",
+        "smiling",
+        "surprised expression",
+        "brown dress",
+        "body transformation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "shock",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual home setting"
+        ]
+      },
+      "why_kept": "This segment reinforces the illusion by demonstrating the belly's deflation and subsequent re-inflation/deflation cycles. It highlights the 'Mechanism_Of_Action' and further solidifies the 'Reveal/Result' by showing the trick from multiple angles and repeated action, complementing the anchor moment."
+    }
+  ]
+}

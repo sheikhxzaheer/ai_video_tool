@@ -1,0 +1,201 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of Copy of Copy of the-original-clutch-wallet-selenathelabel (2).mp4",
+  "detailed_description": "The video provides a comprehensive demonstration of a compact crossbody bag, highlighting its practical design and multiple functionalities. It showcases the bag's internal organization for essentials like smartphones, keys, and cards, emphasizing ease of access and secure storage. The video also features various individuals using the bag in everyday settings and displays the wide range of available colors, positioning it as a versatile and stylish accessory for different lifestyles.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.900",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Reveal_Transformation",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hands",
+        "gray bag",
+        "phone wallet",
+        "opening",
+        "zipping",
+        "keys",
+        "cards",
+        "smartphone",
+        "calling",
+        "smiling",
+        "walking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "practical",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "demonstration",
+          "everyday use"
+        ]
+      },
+      "why_kept": "This segment introduces the product, demonstrates its internal organization, and shows a user actively interacting with it (opening, closing, retrieving phone, making a call). It captures key product features and practical application in a continuous, engaging flow."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:18.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Reveal_Transformation",
+        "Macro_Detail",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "red bag",
+        "opening zipper",
+        "money",
+        "lipstick",
+        "cards",
+        "keys",
+        "mask",
+        "coins",
+        "airpods",
+        "compartments"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "organized"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "detailed display",
+          "flat lay"
+        ]
+      },
+      "why_kept": "This segment provides an excellent close-up 'reveal' of the bag's spacious and organized interior with various items, reinforcing its capacity and functional design from an overhead perspective."
+    },
+    {
+      "start_time": "00:19.000",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Social_Proof",
+        "Human_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "mirror selfie",
+        "crossbody bag",
+        "phone"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "stylish",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "mirror shot",
+          "casual",
+          "social media style"
+        ]
+      },
+      "why_kept": "This brief segment serves as 'social proof,' showing a person stylishly using the product in a real-world, casual context, which adds to its lifestyle appeal."
+    },
+    {
+      "start_time": "00:20.000",
+      "end_time": "00:22.900",
+      "structural_tags": [
+        "Social_Proof",
+        "Human_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "multiple women",
+        "collage",
+        "various bags",
+        "different outfits",
+        "diverse styles"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "mixed"
+        ],
+        "mood": [
+          "energetic",
+          "diverse",
+          "trendy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "grid layout",
+          "user-generated content aesthetic"
+        ]
+      },
+      "why_kept": "This collage segment effectively communicates 'social proof' by showcasing a variety of users and different ways to wear the bag, indicating its widespread appeal and versatility."
+    },
+    {
+      "start_time": "00:23.000",
+      "end_time": "00:27.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Reveal_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "multiple bags",
+        "different colors",
+        "display",
+        "red",
+        "green",
+        "pink",
+        "blue",
+        "yellow",
+        "black",
+        "gray"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "organized"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "product display",
+          "color palette showcase"
+        ]
+      },
+      "why_kept": "This segment serves as a visual 'reveal' of the product's extensive color range, appealing to aesthetic preferences and highlighting product availability."
+    }
+  ]
+}

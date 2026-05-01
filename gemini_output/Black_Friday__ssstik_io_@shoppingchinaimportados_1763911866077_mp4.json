@@ -1,0 +1,162 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Black_Friday\\ssstik.io_@shoppingchinaimportados_1763911866077.mp4",
+  "detailed_description": "This video captures the chaotic and high-energy atmosphere inside a retail store during what appears to be a promotional event or giveaway for Smart TVs. A large crowd of people is seen aggressively competing, pushing, and pulling to grab the TV boxes from a central pile. The core moments highlight individuals successfully securing a TV after a struggle, showcasing intense product interaction and strong emotional reactions of triumph and excitement amidst the scramble.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.500",
+      "structural_tags": [
+        "Human_Interaction",
+        "High_Energy",
+        "Urgency_Rush",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "crowd",
+        "grabbing",
+        "TV box",
+        "struggle",
+        "retail store"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "retail store"
+        ],
+        "mood": [
+          "energetic",
+          "urgent",
+          "chaotic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "handheld",
+          "raw footage",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the initial chaotic scene, showing multiple people engaging in a struggle to grab the product (Smart TV boxes), setting the tone for the event."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink shirt",
+        "grabbing TV",
+        "smiling",
+        "crowd",
+        "Smart TV box"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "retail store"
+        ],
+        "mood": [
+          "energetic",
+          "joyful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "handheld",
+          "raw footage",
+          "direct interaction",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This is a strong hero moment showing a clear product interaction where a woman successfully pulls a TV box and displays a direct positive emotional climax by smiling at the camera, signifying a successful grab."
+    },
+    {
+      "start_time": "00:19.000",
+      "end_time": "00:22.500",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "man",
+        "striped shirt",
+        "grabbing TV",
+        "raising TV",
+        "smiling",
+        "dreadlocks man reaction"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "retail store"
+        ],
+        "mood": [
+          "energetic",
+          "triumphant",
+          "joyful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "handheld",
+          "raw footage",
+          "celebratory moment",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment captures a clear 'reveal/result' as a man successfully secures a Smart TV box, raises it in triumph, and shows a celebratory emotional climax, which is a key payoff in this type of event."
+    },
+    {
+      "start_time": "00:29.000",
+      "end_time": "00:31.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Urgency_Rush"
+      ],
+      "visual_keywords": [
+        "woman",
+        "maroon top",
+        "pulling TV box",
+        "focused expression",
+        "child"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "retail store"
+        ],
+        "mood": [
+          "energetic",
+          "focused",
+          "urgent"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "handheld",
+          "raw footage",
+          "active struggle",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment demonstrates the 'process/labor' of acquiring the product through active pulling and shows another instance of intense product interaction during the event."
+    }
+  ]
+}

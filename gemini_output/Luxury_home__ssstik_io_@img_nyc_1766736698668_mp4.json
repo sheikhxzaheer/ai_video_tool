@@ -1,0 +1,223 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury home\\ssstik.io_@img_nyc_1766736698668.mp4",
+  "detailed_description": "This video offers a comprehensive tour of an 18 million dollar penthouse located in New York City's Upper East Side. It begins with a grand entry foyer, featuring a private vestibule, a curved staircase, and impressive double-height ceilings. The tour highlights a stylish sitting room with direct access to a private terrace, boasting expansive city skyline views. Moving through the residence, viewers are introduced to a grand living room, elegantly staged with oversized mirrors and modern art, followed by a sophisticated bar area perfect for entertaining. The adjacent formal dining room is showcased, emphasizing the apartment's generous 5,188 square feet of interior space and its suitability for both relaxation and lavish entertaining. The video concludes by teasing a future segment featuring the primary bedroom, inviting viewers to explore more of this luxurious property.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Home",
+        "Positive_Emotion",
+        "Key_Information",
+        "Reveal_Result"
+      ],
+      "visual_keywords": [
+        "private vestibule",
+        "black door",
+        "gold accents",
+        "tiled floor",
+        "curved staircase",
+        "hardwood floor",
+        "modern console table",
+        "decorations",
+        "high ceilings",
+        "entry foyer"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "luxury apartment",
+          "modern design",
+          "natural light",
+          "grand entrance"
+        ]
+      },
+      "why_kept": "This segment immediately establishes the luxurious entry of the penthouse, showcasing the private elevator vestibule, grand black door, and impressive curved staircase in the foyer, setting a high-end tone for the entire property tour. It provides initial key information about the unique entry experience and architectural grandeur."
+    },
+    {
+      "start_time": "00:16.000",
+      "end_time": "00:27.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Home",
+        "Calm_Relaxation",
+        "Lifestyle_Active",
+        "Reveal_Result"
+      ],
+      "visual_keywords": [
+        "sitting room",
+        "round rug",
+        "marble coffee table",
+        "beige armchairs",
+        "large windows",
+        "terrace",
+        "city skyline",
+        "balcony railing",
+        "brick buildings"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "outdoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "city view",
+          "modern decor",
+          "outdoor space",
+          "exclusive balcony"
+        ]
+      },
+      "why_kept": "This segment reveals a cozy yet elegant sitting area, transitioning to one of the apartment's terraces. It highlights an important amenity for relaxation and enjoying the city skyline, demonstrating an active, luxurious lifestyle opportunity."
+    },
+    {
+      "start_time": "00:27.000",
+      "end_time": "00:46.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Home",
+        "Positive_Emotion",
+        "Key_Information",
+        "Reveal_Result"
+      ],
+      "visual_keywords": [
+        "grand living room",
+        "oak floors",
+        "large area rug",
+        "sectional sofa",
+        "decorative pillows",
+        "oversized mirrors",
+        "abstract art",
+        "modern coffee tables",
+        "plants"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "spacious layout",
+          "elegant staging",
+          "design tip",
+          "contemporary art"
+        ]
+      },
+      "why_kept": "This segment showcases the expansive and beautifully staged grand living room, a central feature of the penthouse. It delivers key design information about how mirrors visually expand a space, adding practical value to the visual tour of this impressive area."
+    },
+    {
+      "start_time": "00:46.000",
+      "end_time": "01:02.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Home",
+        "Home_Kitchen",
+        "Lifestyle_Active",
+        "Key_Information",
+        "Reveal_Result"
+      ],
+      "visual_keywords": [
+        "wet bar",
+        "wine fridge",
+        "glass shelving",
+        "dining room",
+        "long dining table",
+        "patterned chairs",
+        "modern chandelier",
+        "vases with flowers",
+        "large windows",
+        "artwork",
+        "herringbone floors"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "premium",
+          "energetic"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "entertaining space",
+          "luxurious dining",
+          "detailed amenities",
+          "sophisticated bar"
+        ]
+      },
+      "why_kept": "This segment prominently features the elegant dining room and an impressive wet bar, emphasizing the apartment's excellent capacity for entertaining. It provides crucial information about the interior's square footage, highlighting its spaciousness and functionality for a luxury lifestyle."
+    },
+    {
+      "start_time": "01:02.000",
+      "end_time": "01:12.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Home",
+        "Offer_CTA",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "long hallway",
+        "hardwood floors",
+        "white walls",
+        "recessed lighting",
+        "white doors",
+        "modern sculpture",
+        "wooden pedestal"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "neutral"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "transitional space",
+          "future content preview",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment serves as a smooth visual transition through the apartment's private areas and ends with a clear call to action, encouraging viewers to anticipate the next part of the tour, effectively demonstrating an ongoing engagement strategy."
+    }
+  ]
+}

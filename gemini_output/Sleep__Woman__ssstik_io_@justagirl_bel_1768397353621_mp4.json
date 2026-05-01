@@ -1,0 +1,152 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Woman\\ssstik.io_@justagirl.bel_1768397353621.mp4",
+  "detailed_description": "This video humorously portrays the common experience of an innocent after-school nap escalating into a night-long sleep. The semantic core highlights the transition from blissful sleep to the jarring realization of the late hour (1 AM), the attempt to perform a nightly skincare routine despite overwhelming fatigue, and the ultimate surrender to sleep again, underscoring the disruption caused by an extended nap.",
+  "segments": [
+    {
+      "start_time": "00:00.600",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "person jumping on bed",
+        "lying down",
+        "purple room lights",
+        "bed"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "neon lighting",
+          "galaxy projector"
+        ]
+      },
+      "why_kept": "This segment visually establishes the initial 'nap after school' which sets the premise for the subsequent events, acting as a visual hook."
+    },
+    {
+      "start_time": "00:25.100",
+      "end_time": "00:32.400",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Problem_State",
+        "Negative_Emotion",
+        "Confusion_Doubt",
+        "Time_Wasted",
+        "Face_Reaction",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "person waking up",
+        "looking at clock",
+        "confused expression",
+        "sitting up in bed",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "shock",
+          "confusion"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "neon lighting",
+          "galaxy projector"
+        ]
+      },
+      "why_kept": "This is the primary hero moment, showcasing the emotional climax of realizing the nap has turned into an extended, unplanned sleep, clearly stating the central problem of the video."
+    },
+    {
+      "start_time": "00:34.200",
+      "end_time": "00:47.800",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Night_Routine",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "person doing skincare",
+        "makeup remover",
+        "toner",
+        "night treatment",
+        "vanity mirror"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "neon lighting",
+          "vanity lights"
+        ]
+      },
+      "why_kept": "This segment demonstrates the attempt to adhere to a nighttime routine (skincare) despite the late hour, showcasing product interaction and the effort to normalize the disrupted schedule."
+    },
+    {
+      "start_time": "00:49.000",
+      "end_time": "00:53.600",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Calm_Relaxation",
+        "Time_Wasted"
+      ],
+      "visual_keywords": [
+        "person slumping on table",
+        "getting back into bed",
+        "exhaustion",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "tired",
+          "resigned"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "neon lighting",
+          "galaxy projector"
+        ]
+      },
+      "why_kept": "This segment concludes the immediate narrative by showing the inability to fight off sleep and returning to bed, reinforcing the core problem of the disrupted sleep cycle."
+    }
+  ]
+}

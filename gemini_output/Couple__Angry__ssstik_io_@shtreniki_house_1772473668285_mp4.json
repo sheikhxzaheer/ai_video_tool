@@ -1,0 +1,233 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Couple\\Angry\\ssstik.io_@shtreniki_house_1772473668285.mp4",
+  "detailed_description": "This video humorously contrasts the drastically different reactions of a husband and wife after a heated marital dispute. Initially, the wife meticulously plans her future independence, including divorce, taking assets, and starting a business, momentarily celebrating her perceived freedom. However, this soon gives way to profound sadness, with her found crying over old wedding photos and comforting herself with ice cream while watching a melancholic movie. In stark contrast, the husband immediately embraces his newfound single life with cheerful abandon, relaxing comfortably in his car, feet up, and happily discussing his newfound free time on the phone with a friend.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.743",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion",
+        "Human_Interaction",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "couple arguing",
+        "wife frustrated",
+        "husband dismissing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dynamic camera",
+          "heated discussion"
+        ]
+      },
+      "why_kept": "Establishes the initial conflict and problem state that drives the entire narrative of contrasting reactions."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:09.125",
+      "structural_tags": [
+        "Process_Labor",
+        "Key_Information",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Financial_Stress",
+        "Lifestyle_Active",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "woman writing",
+        "notebook",
+        "divorce plan",
+        "travel"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "serious",
+          "determined"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "Illustrates the wife's initial, proactive coping strategy, detailing her plans for a new, independent life after the argument."
+    },
+    {
+      "start_time": "00:19.983",
+      "end_time": "00:22.183",
+      "structural_tags": [
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Messy_Unorganized",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "woman crying",
+        "wedding photos",
+        "sadness",
+        "tissues"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "serious",
+          "sad"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "emotional focus"
+        ]
+      },
+      "why_kept": "This segment captures the raw emotional aftermath for the wife, highlighting her deep sadness and the stark contrast to her earlier planning, serving as a primary anchor for her side of the story."
+    },
+    {
+      "start_time": "00:25.000",
+      "end_time": "00:27.000",
+      "structural_tags": [
+        "Negative_Emotion",
+        "Calm_Relaxation",
+        "Face_Reaction",
+        "Human_Interaction",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "woman eating ice cream",
+        "in bed",
+        "sad expression",
+        "laptop",
+        "tissues"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bedroom"
+        ],
+        "mood": [
+          "sad",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "cozy blanket",
+          "comfort eating"
+        ]
+      },
+      "why_kept": "Reinforces the wife's continued emotional distress and illustrates her comfort-eating coping mechanism, deepening the portrayal of her post-breakup state."
+    },
+    {
+      "start_time": "00:37.000",
+      "end_time": "00:40.000",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Face_Reaction",
+        "Travel_Transit",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "man in car",
+        "feet on dashboard",
+        "smiling",
+        "laughing",
+        "relaxed",
+        "driving"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "car"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sunset lighting",
+          "carefree attitude"
+        ]
+      },
+      "why_kept": "This segment powerfully illustrates the husband's immediate and unburdened happiness and freedom, directly contrasting the wife's sadness and serving as a primary anchor for the male reaction."
+    },
+    {
+      "start_time": "00:56.000",
+      "end_time": "01:00.720",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Social_Proof",
+        "Face_Reaction",
+        "Human_Interaction",
+        "Outdoor",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man on phone",
+        "leaning on car",
+        "smiling",
+        "confident gestures",
+        "talking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "car"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "casual setting"
+        ]
+      },
+      "why_kept": "Solidifies the husband's carefree attitude and happiness through social interaction, reinforcing the overall contrast in post-breakup coping."
+    }
+  ]
+}

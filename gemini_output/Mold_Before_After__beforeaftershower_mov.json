@@ -1,0 +1,150 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold Before_After\\beforeaftershower.mov",
+  "detailed_description": "This video demonstrates the effective use of MoldMD, an enzyme-powered mold spot remover, to clean a dirty shower drain. It showcases the entire process, from spraying the cleaner onto the grime-covered drain cover and inside the drain, to scrubbing with a brush, wiping the area clean with a cloth, and finally revealing a sparkling, hygienic surface. The clip highlights the product's ability to transform a neglected, moldy drain into a clean state.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.300",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Problem_State",
+        "Home_Kitchen",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "spray bottle",
+        "MoldMD cleaner",
+        "dirty shower drain",
+        "drain cover",
+        "black tiles"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "bright lighting",
+          "action shot"
+        ]
+      },
+      "why_kept": "This segment introduces the product and its immediate application to a visibly dirty shower drain, showcasing the initial 'Problem_State' and the 'Product_Interaction' as the cleaner is applied."
+    },
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:02.300",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "red brush",
+        "scrubbing",
+        "shower drain",
+        "black tiles"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "action shot",
+          "focused on task"
+        ]
+      },
+      "why_kept": "This segment demonstrates the physical 'Process_Labor' involved in cleaning the drain after the product application, showing the necessary effort to remove the grime."
+    },
+    {
+      "start_time": "00:02.300",
+      "end_time": "00:03.300",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "green cloth",
+        "wiping",
+        "shower drain",
+        "black tiles"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "finishing touch",
+          "clear action"
+        ]
+      },
+      "why_kept": "This segment completes the 'Process_Labor' by showing the final wiping step, preparing the area for the 'Result_Transformation' reveal."
+    },
+    {
+      "start_time": "00:03.300",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "clean shower drain",
+        "shiny chrome",
+        "black tiles",
+        "water droplets"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "detailed view",
+          "clean aesthetic",
+          "satisfying result"
+        ]
+      },
+      "why_kept": "This is the 'Reveal/Result' moment, clearly showcasing the impressive 'Result_Transformation' of the dirty drain into a perfectly clean and shiny surface, demonstrating the product's effectiveness."
+    }
+  ]
+}

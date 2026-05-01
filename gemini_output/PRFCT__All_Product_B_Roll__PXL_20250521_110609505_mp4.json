@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250521_110609505.mp4",
+  "detailed_description": "The video prominently features a 'PRFECT MORNING TANGERINE PULSE' product, a supplement designed for rapid hydration, performance, and metabolic energy. The packaging is shown with water droplets, suggesting its connection to water-based activities or consumption. A hand gently holds and then partially submerges the product into water, visually emphasizing its role as a hydration fuel. Close-up shots ensure the product's branding, key benefits like 'Metabolic Activators' and 'Nutrient Charge,' and specific ingredients are clearly visible.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Lifestyle_Active",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "product package",
+        "PRFECT MORNING TANGERINE PULSE",
+        "hand",
+        "water droplets",
+        "water",
+        "submerging",
+        "branding",
+        "text"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean shot",
+          "natural light",
+          "water reflections"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it serves as the complete Semantic Core. It effectively introduces the product, demonstrates a key interaction by showing the product being dipped into water, and highlights important textual information on the packaging, all within a continuous and focused sequence. The wetness of the package also visually communicates its hydration-related purpose. No setup/calibration or dead air is present, making the entire clip a cohesive 'hero moment'."
+    }
+  ]
+}

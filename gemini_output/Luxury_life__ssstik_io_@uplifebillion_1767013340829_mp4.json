@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury life\\ssstik.io_@uplifebillion_1767013340829.mp4",
+  "detailed_description": "This video is a compilation showcasing an extravagant and luxurious lifestyle. It features grand yachts, high-performance sports cars like Lamborghinis, McLarens, and Bugattis, and opulent real estate such as large mansions and high-rise apartments with panoramic city views. The montage also highlights exclusive travel destinations and premium fashion, culminating in a focused moment of unboxing a high-end Rolex watch. The overall theme emphasizes wealth, prestige, and a lavish existence through various visual elements.",
+  "segments": [
+    {
+      "start_time": "00:07.800",
+      "end_time": "00:09.100",
+      "structural_tags": [
+        "Product_Interaction",
+        "Reveal_Result",
+        "Macro_Detail",
+        "Product_Standalone",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "hands",
+        "Rolex box",
+        "watch",
+        "rose gold",
+        "luxury item",
+        "car interior"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "car"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "detailed focus"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it clearly demonstrates a 'Product Interaction' and 'Reveal/Result' of a high-value item. The act of unboxing a luxury Rolex watch provides a focused 'hero moment' where a significant product is actively presented and displayed, aligning with the video's overall theme of opulence and high-end living. The close-up shot emphasizes the detail and exclusivity of the product."
+    }
+  ]
+}

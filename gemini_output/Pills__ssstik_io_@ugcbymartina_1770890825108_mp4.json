@@ -1,0 +1,143 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pills\\ssstik.io_@ugcbymartina_1770890825108.mp4",
+  "detailed_description": "This video spotlights an Omega-3 fish oil supplement by Prozis. It captures the process of opening the supplement bottle and pouring the golden softgels into a hand, showcasing the product's physical form. A detailed close-up highlights the label, emphasizing the health benefits of EPA & DHA for normal heart function and the product's premium quality. The video concludes by featuring the distinct appearance of the Omega-3 capsules, reinforcing its core offering.",
+  "segments": [
+    {
+      "start_time": "00:03.400",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Reveal_Result",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "bottle",
+        "lid",
+        "omega-3 capsules",
+        "pouring",
+        "softgels"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "shadow play",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is the primary 'Hero Moment' as it directly demonstrates product interaction by showing the opening of the bottle and the main product (Omega-3 capsules) being poured out, clearly revealing its form and quantity. This is the core action of the video."
+    },
+    {
+      "start_time": "00:08.500",
+      "end_time": "00:09.600",
+      "structural_tags": [
+        "Key_Information",
+        "Macro_Detail",
+        "Product_Standalone",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "bottle label",
+        "omega-3 text",
+        "EPA & DHA",
+        "heart function",
+        "premium quality"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "sharp focus",
+          "informational",
+          "minimalist"
+        ]
+      },
+      "why_kept": "This segment provides crucial 'Key Information' from the product label, highlighting the health benefits and quality claims. It serves as a close-up 'Macro Detail' reinforcing the product's value proposition."
+    },
+    {
+      "start_time": "00:09.600",
+      "end_time": "00:11.400",
+      "structural_tags": [
+        "Macro_Detail",
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "omega-3 capsules",
+        "inside bottle",
+        "softgels"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "clear visibility",
+          "product texture"
+        ]
+      },
+      "why_kept": "This segment offers a 'Macro Detail' shot of the product inside its container, allowing viewers to see the quantity and quality of the capsules clearly, acting as a supporting visual to the main reveal."
+    },
+    {
+      "start_time": "00:11.400",
+      "end_time": "00:12.800",
+      "structural_tags": [
+        "Product_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "picking up capsules",
+        "softgels"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "shadow play",
+          "gentle movement"
+        ]
+      },
+      "why_kept": "This segment provides an additional 'Product Interaction' by showing a hand delicately picking up the capsules, emphasizing ease of handling and presenting the product in a tactile manner."
+    }
+  ]
+}

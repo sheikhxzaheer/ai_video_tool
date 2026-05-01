@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@gukelis_1769710150150.mp4",
+  "detailed_description": "The video captures medical professionals in an operating room meticulously preparing a patient for a surgical procedure. Dressed in scrubs, masks, and hairnets, the staff carefully interacts with the patient on the operating table. They check on the patient's comfort, adjust his head and body position, and handle various medical devices such as oxygen tubes and a blood pressure cuff. This footage highlights the detailed and hands-on process of pre-operative patient care, demonstrating the professional labor involved.",
+  "segments": [
+    {
+      "start_time": "00:16.000",
+      "end_time": "01:15.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "Medical staff",
+        "patient",
+        "operating room",
+        "gurney",
+        "oxygen tube",
+        "blood pressure cuff",
+        "scrubs",
+        "masks",
+        "repositioning",
+        "patient care"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "professional setting",
+          "sterile environment",
+          "focused lighting"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the 'Process/Labor' of medical professionals preparing a patient for surgery. It showcases their detailed 'Human Interaction' with the patient and 'Product Interaction' with medical equipment, which is the core value and expertise being demonstrated. The segment contains direct professional action and patient care, aligning with the 'Hero Moment' criteria."
+    }
+  ]
+}

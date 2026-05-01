@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Treatmant_skin\\ssstik.io_@doraajefora_1763928700313.mp4",
+  "detailed_description": "The video captures a young woman's skincare routine, specifically demonstrating the application of Nivea Soft cream. She begins by opening the product jar, scoops a generous amount onto her fingers, and proceeds to apply it meticulously across her forehead, cheeks, and chin. The footage highlights the texture of the cream and the careful, soothing motions of application, conveying a sense of self-care and product enjoyment. A quick close-up shot ensures the specific Nivea product is clearly identified, reinforcing the 'NIVEAHOLIC' theme displayed on screen.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:16.270",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Morning_Routine",
+        "Aesthetic_Broll",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "young woman",
+        "Nivea cream",
+        "face",
+        "hands",
+        "jar",
+        "applying moisturizer",
+        "skincare routine",
+        "rubbing",
+        "massaging"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean background",
+          "natural light",
+          "simple aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the complete process of opening and applying the Nivea cream. It includes product interaction, the labor of application, emotional expression, and a clear product identification shot. Per the 'No-Mistake Rule,' the action starts and ends precisely within this timeframe, making it a cohesive hero moment without need for trimming."
+    }
+  ]
+}

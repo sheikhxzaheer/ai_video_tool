@@ -1,0 +1,119 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ÐàÐâð║ ð▓ð¥ð╗ð¥ÐüÐï.mp4",
+  "detailed_description": "This video captures a man demonstrating his hair care routine and style transformation. Starting in front of London's Big Ben, he actively combs his curly hair into a voluminous afro, showcasing the process and immediate result. He then transitions to wearing a beanie, illustrating a practical styling choice for his large hair, and later reveals his consistently voluminous afro after removing the beanie, emphasizing the efficacy of his styling and a confident final look.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:23.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "combing hair",
+        "afro",
+        "blue comb",
+        "Big Ben",
+        "green grass",
+        "smile",
+        "hair volume"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright daylight",
+          "vibrant colors"
+        ]
+      },
+      "why_kept": "This segment is the primary hero moment, directly illustrating the 'Combing hair' action stated in the video's text. It clearly shows the process of styling afro-textured hair, the use of the comb, and the significant transformation of hair volume, concluding with a positive facial expression and the iconic Big Ben backdrop."
+    },
+    {
+      "start_time": "00:33.700",
+      "end_time": "00:36.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Result_Transformation",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man",
+        "beanie",
+        "afro",
+        "covering hair",
+        "Big Ben",
+        "black shirt"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "neutral"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright daylight"
+        ]
+      },
+      "why_kept": "This segment demonstrates a crucial styling outcome of the previously combed hair – covering it with a beanie. It serves as a 'before' look for the subsequent reveal and is a direct interaction with an accessory for the styled hair, linking it to everyday wear and travel."
+    },
+    {
+      "start_time": "01:09.600",
+      "end_time": "01:15.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Interaction",
+        "Process_Labor",
+        "Emotional_Climax",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "beanie",
+        "afro",
+        "uncovering hair",
+        "finger combing",
+        "confident expression",
+        "pointing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "confident",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting"
+        ]
+      },
+      "why_kept": "This segment provides the concluding 'reveal' of the hair after being covered, showcasing its maintained volume and texture. The brief finger-combing reinforces the styled look, and the confident pointing and smile serve as an emotional climax, emphasizing satisfaction with the hair's appearance."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\b43b1bee38374bd1ae6822300f43bdd1.mp4",
+  "detailed_description": "The video showcases a dramatic hair transformation of a man. It begins with 'before' footage showing visible hair thinning and balding on the top of his head, explicitly labeled 'How did I go from this'. This is followed by 'after' footage where the man is seen with a full, thick head of hair, clearly demonstrating a successful transformation, labeled 'to this'. The 'after' shots include direct frontal views and a side profile, emphasizing the improved hair density and appearance, suggesting a hair restoration procedure.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.160",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man",
+        "balding",
+        "thinning hair",
+        "scalp",
+        "bed",
+        "pillows"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "selfie perspective",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'before' state, showing significant hair loss and setting up the problem that the transformation will address. It serves as the initial visual hook."
+    },
+    {
+      "start_time": "00:02.160",
+      "end_time": "00:04.280",
+      "structural_tags": [
+        "Before_After",
+        "Problem_State",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "child",
+        "selfie",
+        "smiling",
+        "thinning hair",
+        "brick wall background"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "casual selfie",
+          "contextual shot"
+        ]
+      },
+      "why_kept": "This segment provides another 'before' visual, showing the man's appearance prior to the transformation in a social context, reinforcing the initial problem state."
+    },
+    {
+      "start_time": "00:04.280",
+      "end_time": "00:06.130",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "thick hair",
+        "styled hair",
+        "beard",
+        "red jacket",
+        "couch"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "confident",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "clean haircut",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This is the core 'after' moment, showcasing the successful and dramatic transformation of the man's hair from balding to full and styled. It's the key reveal of the video."
+    },
+    {
+      "start_time": "00:06.130",
+      "end_time": "00:09.111",
+      "structural_tags": [
+        "Result_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "thick hair",
+        "styled hair",
+        "side profile",
+        "beard",
+        "red jacket",
+        "couch"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "profile view",
+          "consistent style"
+        ]
+      },
+      "why_kept": "This segment reinforces the 'after' state by providing an additional angle (side profile) of the transformed hair, further demonstrating the successful result and the quality of the hair restoration."
+    }
+  ]
+}

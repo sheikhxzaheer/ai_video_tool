@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\CNWM_MayaZu_08_Results.mp4",
+  "detailed_description": "The video captures a close-up of a woman examining her face, specifically her cheek, which displays noticeable redness and visible skin flaking. She gently touches and points to the affected areas, highlighting the texture and appearance of her skin. This segment focuses on demonstrating a skin condition or a reaction, possibly from a recent skincare application or treatment, emphasizing the visual impact on her complexion.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:10.27",
+      "structural_tags": [
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "cheek",
+        "redness",
+        "flaky skin",
+        "hand",
+        "finger",
+        "headband"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by clearly demonstrating a problem state on the subject's skin—visible redness and flaking—and her direct interaction with it. It implicitly reveals the result of a skin condition or a product's effect, making it a critical 'reveal' and 'process' moment."
+    }
+  ]
+}

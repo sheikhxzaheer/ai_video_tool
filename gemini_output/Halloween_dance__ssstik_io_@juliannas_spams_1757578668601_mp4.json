@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Halloween_dance\\ssstik.io_@juliannas_spams_1757578668601.mp4",
+  "detailed_description": "The video captures a delightful and humorous interaction at what appears to be a horror-themed attraction, likely featuring 'Art the Clown' from the 'Terrifier' movie. A young woman engages in a playful 'who's more likely to' game with the costumed character, smiling and laughing as she points to either herself or the clown. The clown responds with an array of expressive, sometimes comically exaggerated, gestures and body language for each question, culminating in a dramatic, humorous exit. The scene effectively showcases a positive and entertaining human interaction within a themed entertainment setting.",
+  "segments": [
+    {
+      "start_time": "00:01.500",
+      "end_time": "00:12.791",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman smiling",
+        "woman laughing",
+        "woman pointing",
+        "Art the Clown costume",
+        "clown gesturing",
+        "clown walking away",
+        "horror attraction sign",
+        "devil face decoration",
+        "red lighting",
+        "fog/smoke"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "fun"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "night scene",
+          "red ambient lighting",
+          "theatrical fog",
+          "horror theme"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully captures the interactive game between the woman and the costumed character. It includes clear emotional responses (laughter, smiles), direct human interaction (pointing, gesturing), and the core action of the game, demonstrating the entertainment value of the attraction. The segment begins with the start of the first question and the visual setup, and ends with the final reaction to the clown's exit, thus encompassing the entire 'hero moment' of the interaction."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\ð░ð¢ð©ð╝ð░Ðåð©ÐÅ ð╝ð¥ð╗ðÁð║Ðâð╗.mp4",
+  "detailed_description": "This video presents a mesmerizing, stylized microscopic view of an amoeba, showcasing its fundamental biological processes. The organism is depicted in continuous motion, extending and retracting its pseudopods as its internal cellular components, such as food vacuoles and chloroplast-like structures, dynamically shift and change color. The entire sequence offers a captivating 'cellular deep dive' into the fluid and ever-changing world of a single-celled organism, presented with a vibrant and aesthetic animated style.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:11.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Cellular_Deep_Dive",
+        "Aesthetic_Broll",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "amoeba",
+        "microscopic organism",
+        "cellular movement",
+        "pseudopods",
+        "vacuoles",
+        "internal particles",
+        "color shift",
+        "simulation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "fascinating",
+          "scientific"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "simulated animation",
+          "vibrant colors",
+          "radial blur effect",
+          "biological visualization",
+          "fluid dynamics"
+        ]
+      },
+      "why_kept": "This entire segment serves as the 'Semantic Core' as it continuously demonstrates the primary subject matter: the dynamic movement, shape-shifting, and internal activity of a microscopic amoeba. The initial visual hook, which rapidly resolves from a blur to a clear image, is an integral part of the presentation, immediately engaging the viewer before showcasing the main cellular deep dive. There is no dead air or irrelevant content to trim."
+    }
+  ]
+}

@@ -1,0 +1,537 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Massage\\Woman\\ssstik.io_@jessiee_marie_1761826935888.mp4",
+  "detailed_description": "This video showcases a relaxing and comprehensive head spa treatment, emphasizing the therapeutic and aesthetic aspects. It demonstrates various stages of the head spa process, including initial massages, sequential application of different hair and scalp products with specialized brushes, thorough shampooing, and rinsing using both an overhead water arch and a handheld shower. The video highlights the meticulous care and specialized tools used to provide a luxurious and calming experience, ending with glimpses of the serene spa environment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.300",
+      "structural_tags": [
+        "Visual_Hook",
+        "Calm_Relaxation",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "person lying down",
+        "towel over eyes",
+        "blue light",
+        "water dripping",
+        "spa bed",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "serene ambiance"
+        ]
+      },
+      "why_kept": "This segment serves as an excellent visual hook, immediately establishing the scene, the activity (head spa), and the desired mood (relaxation) with clear text overlay."
+    },
+    {
+      "start_time": "00:02.500",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "therapist's hands",
+        "shoulder massage",
+        "client's shoulder"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "gentle movements",
+          "relaxing atmosphere"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial physical relaxation aspect of the spa treatment, showcasing the human interaction and professional labor involved in preparing the client."
+    },
+    {
+      "start_time": "00:04.300",
+      "end_time": "00:05.400",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "hair combing",
+        "green comb",
+        "scalp"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused action",
+          "detail shot"
+        ]
+      },
+      "why_kept": "This segment shows the preparation of the hair and scalp, indicating the start of the targeted head treatment using a specific tool."
+    },
+    {
+      "start_time": "00:06.500",
+      "end_time": "00:08.700",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "scalp massage brush",
+        "hair brushing",
+        "wet hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "rhythmic movements",
+          "texture focus"
+        ]
+      },
+      "why_kept": "This segment highlights another step in scalp preparation and massage, showcasing the use of a specialized brush for the head spa experience."
+    },
+    {
+      "start_time": "00:09.100",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "water arch",
+        "water shower",
+        "wet hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "flowing water",
+          "ambient lighting"
+        ]
+      },
+      "why_kept": "This segment introduces the unique overhead water arch feature, demonstrating the initial rinsing phase of the head spa."
+    },
+    {
+      "start_time": "00:10.500",
+      "end_time": "00:12.700",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "applying liquid",
+        "brush applicator",
+        "small bowl",
+        "hair treatment"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "precise application",
+          "product detail"
+        ]
+      },
+      "why_kept": "This segment shows the first application of a treatment product, emphasizing the professional and precise nature of the spa services."
+    },
+    {
+      "start_time": "00:13.500",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "shampooing",
+        "foaming hair",
+        "scalp massage",
+        "hands massaging hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "relaxing"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic action",
+          "satisfying lather",
+          "sensory focus"
+        ]
+      },
+      "why_kept": "This is the core 'Process/Labor' segment, powerfully demonstrating the main shampooing and scalp massage with abundant foam. It is the most active and visually satisfying moment, representing the essence of a head spa."
+    },
+    {
+      "start_time": "00:17.800",
+      "end_time": "00:20.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "applying gel",
+        "brush applicator",
+        "small bowl",
+        "hair treatment"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "precise application",
+          "product detail"
+        ]
+      },
+      "why_kept": "This segment demonstrates the application of a second, distinct treatment product, showcasing the multi-step nature of the head spa."
+    },
+    {
+      "start_time": "00:20.800",
+      "end_time": "00:25.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "scalp massage",
+        "foaming treatment",
+        "hands massaging hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "relaxing"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "gentle movements",
+          "sensory experience"
+        ]
+      },
+      "why_kept": "This segment continues the demonstration of thorough scalp massage and product integration, reinforcing the relaxing and meticulous process."
+    },
+    {
+      "start_time": "00:25.800",
+      "end_time": "00:27.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "water arch",
+        "red light",
+        "rinsing hair",
+        "client profile"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "ambient lighting",
+          "serene visual"
+        ]
+      },
+      "why_kept": "This segment provides a wider perspective of the rinsing process, showcasing the spa's environment and the ambiance created by the colored lights."
+    },
+    {
+      "start_time": "00:27.700",
+      "end_time": "00:29.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "scalp massager",
+        "pink tool",
+        "water flowing",
+        "red light"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "unique tool",
+          "sensory experience"
+        ]
+      },
+      "why_kept": "This segment highlights the use of another specialized tool, a scalp massager, during the rinsing phase, adding to the detailed and therapeutic nature of the head spa."
+    },
+    {
+      "start_time": "00:30.000",
+      "end_time": "00:33.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "applying cream",
+        "brush applicator",
+        "small bowl",
+        "hair treatment"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "careful application",
+          "product texture"
+        ]
+      },
+      "why_kept": "This segment shows the application of a third treatment, likely a conditioner or mask, emphasizing the multi-stage and comprehensive nature of the head spa."
+    },
+    {
+      "start_time": "00:33.500",
+      "end_time": "00:34.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "combing wet hair",
+        "fingers combing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "smooth motion",
+          "hair detail"
+        ]
+      },
+      "why_kept": "This brief moment of finger-combing ensures the hair is detangled and evenly treated before the final rinse, showcasing attention to detail."
+    },
+    {
+      "start_time": "00:34.000",
+      "end_time": "00:35.400",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "handheld shower",
+        "rinsing hair",
+        "water spray"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "thorough rinse",
+          "clean feeling"
+        ]
+      },
+      "why_kept": "This segment shows the final rinse with a handheld shower, ensuring all product is removed and the hair is thoroughly cleaned."
+    },
+    {
+      "start_time": "00:35.800",
+      "end_time": "00:36.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "towel drying",
+        "hair wrapped in towel",
+        "gentle touch"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "finishing touch",
+          "comfort"
+        ]
+      },
+      "why_kept": "This segment captures the gentle towel-drying, marking the completion of the wet treatment and adding to the overall feeling of care."
+    },
+    {
+      "start_time": "00:37.000",
+      "end_time": "00:39.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "spa room",
+        "plants",
+        "decor",
+        "water feature",
+        "bells",
+        "Sen Head Spa sign"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "inviting decor",
+          "peaceful ambiance",
+          "brand signage"
+        ]
+      },
+      "why_kept": "These segments showcase the beautiful and serene spa environment, enhancing the overall perception of a premium and relaxing experience, providing context for the service."
+    }
+  ]
+}

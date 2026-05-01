@@ -1,0 +1,238 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Douxds product\\6d93077659ac49a0ab1c2359f45522ac.mov",
+  "detailed_description": "This video showcases a comprehensive male skincare routine using a three-step product line: face wash, moisturizer, and serum, along with a cleansing brush. The user demonstrates each step, starting with dispensing and applying the face wash using a silicone brush for deep cleansing, followed by rinsing. He then applies a moisturizer, gently massaging it into his skin, and completes the regimen by applying a serum. The routine leaves his face looking refreshed, hydrated, and glowing, with a clear positive reaction to the results.",
+  "segments": [
+    {
+      "start_time": "00:02.321",
+      "end_time": "00:04.221",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man holding products",
+        "face wash bottle"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment introduces the core products of the skincare routine, setting the stage for the demonstration."
+    },
+    {
+      "start_time": "00:04.221",
+      "end_time": "00:14.701",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Process/Labor",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man dispensing face wash",
+        "applying face wash",
+        "using cleansing brush"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "detailed action"
+        ]
+      },
+      "why_kept": "This segment demonstrates the active application of the face wash and the use of the cleansing brush, highlighting the 'how-to' aspect of the routine."
+    },
+    {
+      "start_time": "00:14.701",
+      "end_time": "00:16.891",
+      "structural_tags": [
+        "Process/Labor",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man rinsing face",
+        "mirror reflection"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "action continuation"
+        ]
+      },
+      "why_kept": "This segment shows the rinsing step, which is crucial for completing the cleansing phase of the skincare routine."
+    },
+    {
+      "start_time": "00:17.511",
+      "end_time": "00:21.841",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Process/Labor",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man showing moisturizer",
+        "dispensing moisturizer",
+        "applying moisturizer"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "gentle application"
+        ]
+      },
+      "why_kept": "This segment introduces and demonstrates the application of the moisturizer, showcasing the next essential step in the routine."
+    },
+    {
+      "start_time": "00:24.081",
+      "end_time": "00:32.181",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Process/Labor",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man showing serum",
+        "dispensing serum",
+        "applying serum"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "focused application",
+          "close-up on face"
+        ]
+      },
+      "why_kept": "This segment highlights the final step of the routine, showing the introduction and application of the serum."
+    },
+    {
+      "start_time": "00:32.181",
+      "end_time": "00:35.481",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Emotional_Climax",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man showing glowing skin",
+        "satisfied expression",
+        "clear complexion"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "satisfied",
+          "confident",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "smooth skin texture",
+          "glowing appearance"
+        ]
+      },
+      "why_kept": "This is the primary 'Hero Moment' as it visually reveals the positive results of the skincare routine, emphasized by the user's satisfied facial expressions, which serves as the emotional climax and proof of efficacy."
+    },
+    {
+      "start_time": "00:36.211",
+      "end_time": "00:38.831",
+      "structural_tags": [
+        "Social_Proof",
+        "Product_Standalone",
+        "Positive_Emotion",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "man holding all products",
+        "thumbs up",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "positive",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "endorsement gesture"
+        ]
+      },
+      "why_kept": "This segment serves as a concluding visual, reinforcing all the products used, and delivers a positive social proof/call to action with the thumbs-up gesture, summarizing the satisfactory experience."
+    }
+  ]
+}

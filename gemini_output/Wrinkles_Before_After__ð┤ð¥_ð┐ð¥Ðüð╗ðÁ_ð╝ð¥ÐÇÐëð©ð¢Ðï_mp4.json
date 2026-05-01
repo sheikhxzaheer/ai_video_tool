@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Wrinkles Before_After\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ð╝ð¥ÐÇÐëð©ð¢Ðï.mp4",
+  "detailed_description": "The video presents a compelling 'before and after' narrative, beginning with a woman sharing her past struggle with feeling the need to hide behind makeup due to skin concerns. It transitions to her current appearance, showcasing a noticeable improvement in skin texture and radiance, which she attributes to K-beauty layering techniques. The transformation highlights a shift from self-consciousness to confidence, culminating in an implied invitation for viewers to explore similar skincare solutions.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.117",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Offer_CTA",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "skin",
+        "wrinkles",
+        "freckles",
+        "makeup",
+        "natural skin",
+        "headband",
+        "skincare routine",
+        "confident expression",
+        "smile",
+        "eyes"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "transformative",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "natural camera angle",
+          "authentic display"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating a clear 'before and after' transformation of the subject's skin. It directly shows the 'Problem_State' with the initial footage and text, followed by the 'Result_Transformation' and 'Positive_Emotion' in the latter half, all while serving as a 'Visual_Hook' and including an 'Offer_CTA' through the text overlays. No trimming was necessary as the action starts immediately and ends with the final message."
+    }
+  ]
+}

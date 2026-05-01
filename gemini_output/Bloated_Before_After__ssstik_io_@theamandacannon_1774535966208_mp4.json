@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated Before_After\\ssstik.io_@theamandacannon_1774535966208.mp4",
+  "detailed_description": "The video visually illustrates the journey of healing Small Intestinal Bacterial Overgrowth (SIBO) by showcasing a significant physical transformation of the abdomen. It begins by presenting the individual's stomach in a distended and bloated state, representing the 'before' or 'problem state' commonly associated with SIBO. Subsequently, the video transitions through various shots that display a notably flatter stomach, symbolizing the successful healing and the 'after' state. This progression highlights a clear physical improvement, underscored by confident poses and smiles, effectively conveying the positive results and relief achieved.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "woman",
+        "stomach",
+        "bloating",
+        "flat abdomen",
+        "leggings",
+        "sports bra",
+        "mirror",
+        "bathroom",
+        "bedroom",
+        "living room",
+        "camera phone",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "mirror reflections",
+          "body positive",
+          "health transformation"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by continuously demonstrating the 'before' (bloated stomach) and 'after' (flat stomach) states, explicitly linking them to the healing of SIBO as indicated by the persistent on-screen text. The video's progression from the problem state to the resolution effectively conveys the core message of physical transformation and the positive outcome of addressing a health condition, fulfilling the 'Reveal/Result' hero moment criteria."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury home\\ssstik.io_@brucewayneshouse_1767012065419.mp4",
+  "detailed_description": "This video captures a serene night scene, transitioning from an intimate glimpse inside a luxurious, well-lit apartment on a high floor to a panoramic view of the entire high-rise building amidst a sprawling city skyline. The clip beautifully showcases the ambiance of upscale urban living, highlighting the architectural grandeur and the vibrant energy of the city at night. It evokes a sense of calm sophistication and the impressive scale of modern city life.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:08.558",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Night_Routine",
+        "Lifestyle_Active",
+        "Result_Transformation",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "luxury apartment",
+        "person walking",
+        "modern interior",
+        "chandelier",
+        "high-rise building",
+        "city skyline",
+        "night lights",
+        "urban view"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "outdoor",
+          "city"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "sophisticated"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dramatic lighting",
+          "architectural",
+          "night cityscape",
+          "luxurious"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by first introducing a luxurious interior with a person, then dramatically zooming out to reveal the high-rise building and the vast, illuminated city below. This transition effectively demonstrates the premium lifestyle and the impressive scale of the urban environment, fulfilling the 'reveal/result' criterion by transforming the viewer's perspective from inside to a grand exterior."
+    }
+  ]
+}

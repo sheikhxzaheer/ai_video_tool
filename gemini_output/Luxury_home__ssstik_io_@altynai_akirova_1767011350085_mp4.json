@@ -1,0 +1,425 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury home\\ssstik.io_@altynai_akirova_1767011350085.mp4",
+  "detailed_description": "This video provides a guided tour of a luxurious, modern three-room penthouse apartment spanning 125 square meters in the 'New York City' residential complex. It showcases the apartment's impressive double-height living room with panoramic windows and an integrated, fully equipped kitchen. The tour highlights two elegantly designed bedrooms, each with a dedicated walk-in closet, and two high-quality, modern bathrooms. Located on the ninth floor, the apartment features central communications, autonomous gas heating, and warm floors in tiled areas, demonstrating a meticulously designed and well-appointed living space.",
+  "segments": [
+    {
+      "start_time": "00:00.677",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Reveal_Result",
+        "Aesthetic_Broll",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "luxurious living room",
+        "high ceilings",
+        "staircase",
+        "kitchen",
+        "panoramic windows",
+        "modern design",
+        "penthouse"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "ambient lighting",
+          "minimalist aesthetic"
+        ]
+      },
+      "why_kept": "This segment immediately establishes the video's core value by showcasing the expansive and luxurious main living area of the penthouse, including its double-height ceiling, modern staircase, and integrated kitchen, serving as the primary visual hook and context setter."
+    },
+    {
+      "start_time": "00:08.500",
+      "end_time": "00:12.700",
+      "structural_tags": [
+        "Product_Interaction",
+        "Reveal_Result",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "kitchen appliances",
+        "cabinets",
+        "dining table",
+        "modern kitchen"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean design",
+          "functional space"
+        ]
+      },
+      "why_kept": "This segment details the fully equipped kitchen, demonstrating its functional aspects and high-end finishes, which are part of the apartment's overall offering."
+    },
+    {
+      "start_time": "00:15.500",
+      "end_time": "00:18.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Reveal_Result",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hallway",
+        "built-in wardrobe",
+        "storage"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "integrated design",
+          "minimalist"
+        ]
+      },
+      "why_kept": "This segment highlights a practical and aesthetic feature of the entrance hall: a floor-to-ceiling built-in wardrobe, showcasing smart storage solutions."
+    },
+    {
+      "start_time": "00:23.000",
+      "end_time": "00:28.500",
+      "structural_tags": [
+        "Reveal_Result",
+        "Aesthetic_Broll",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "bathroom",
+        "vanity",
+        "mirror",
+        "toilet",
+        "bathtub",
+        "marble tiles",
+        "modern fixtures",
+        "lighting"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "glossy surfaces",
+          "LED lighting"
+        ]
+      },
+      "why_kept": "This segment fully reveals the first bathroom, emphasizing its high-quality materials, modern fixtures, and thoughtful lighting design, contributing to the apartment's luxury appeal."
+    },
+    {
+      "start_time": "00:32.000",
+      "end_time": "00:36.000",
+      "structural_tags": [
+        "Reveal_Result",
+        "Key_Information",
+        "Aesthetic_Broll",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "bedroom",
+        "double bed",
+        "desk",
+        "window",
+        "decor",
+        "125m2"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "neutral colors",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment showcases the first bedroom, detailing its comfortable and aesthetically pleasing setup, and includes key information about the apartment's total area."
+    },
+    {
+      "start_time": "00:43.000",
+      "end_time": "00:45.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Reveal_Result",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "door",
+        "walk-in closet",
+        "clothes storage"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "organized storage"
+        ]
+      },
+      "why_kept": "This segment demonstrates a desirable feature: a dedicated walk-in closet, showing practical storage space within the apartment."
+    },
+    {
+      "start_time": "00:49.000",
+      "end_time": "00:51.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Aesthetic_Broll",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "staircase",
+        "climbing stairs",
+        "glass railing",
+        "wooden steps"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "modern staircase",
+          "architectural detail"
+        ]
+      },
+      "why_kept": "This segment captures the process of ascending the stylish modern staircase, emphasizing the apartment's multi-level design and the flow between floors."
+    },
+    {
+      "start_time": "00:51.000",
+      "end_time": "00:55.000",
+      "structural_tags": [
+        "Reveal_Result",
+        "Aesthetic_Broll",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "second floor",
+        "mezzanine",
+        "living room view",
+        "double-height space",
+        "plants"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "open concept",
+          "architectural view"
+        ]
+      },
+      "why_kept": "This segment offers a stunning panoramic view from the second floor mezzanine, reinforcing the impressive double-height aspect of the living area, which is a key defining feature of the penthouse."
+    },
+    {
+      "start_time": "00:59.000",
+      "end_time": "01:03.000",
+      "structural_tags": [
+        "Reveal_Result",
+        "Aesthetic_Broll",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "bathroom",
+        "shower cabin",
+        "toilet",
+        "vanity",
+        "mirror",
+        "marble tiles",
+        "lighting"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "sleek design",
+          "recessed lighting"
+        ]
+      },
+      "why_kept": "This segment reveals the second bathroom, focusing on its contemporary shower cabin and high-quality finishes, further showcasing the apartment's amenities."
+    },
+    {
+      "start_time": "01:03.000",
+      "end_time": "01:07.000",
+      "structural_tags": [
+        "Reveal_Result",
+        "Aesthetic_Broll",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "second-floor hall",
+        "sofas",
+        "piano",
+        "recreational area"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "leisure space",
+          "modern furniture"
+        ]
+      },
+      "why_kept": "This segment highlights the additional functional space on the second floor, designed as a lounge or recreational area, indicating the spaciousness of the penthouse."
+    },
+    {
+      "start_time": "01:14.000",
+      "end_time": "01:19.000",
+      "structural_tags": [
+        "Reveal_Result",
+        "Aesthetic_Broll",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "bedroom",
+        "double bed",
+        "dressing table",
+        "chandelier",
+        "golden accents",
+        "curtains"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "luxurious decor",
+          "warm lighting"
+        ]
+      },
+      "why_kept": "This segment presents the second bedroom, showcasing its elegant and modern design with attention to luxurious details and lighting, contributing to the overall appeal of the apartment."
+    },
+    {
+      "start_time": "01:24.000",
+      "end_time": "01:27.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Reveal_Result",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "door",
+        "walk-in closet",
+        "clothes storage",
+        "washing machine"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "efficient storage",
+          "utility space"
+        ]
+      },
+      "why_kept": "This segment reveals the second walk-in closet, emphasizing its practical storage capabilities and inclusion of a washing machine, showcasing thoughtful space utilization."
+    }
+  ]
+}

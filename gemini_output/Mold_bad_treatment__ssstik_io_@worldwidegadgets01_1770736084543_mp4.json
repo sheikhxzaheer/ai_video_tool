@@ -1,0 +1,113 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold bad treatment\\ssstik.io_@worldwidegadgets01_1770736084543.mp4",
+  "detailed_description": "The video showcases a waterproof silicone sealant designed to instantly fix leaks on various surfaces. It demonstrates the product's effectiveness by applying it directly to active leaks on a roof, a metal tank, and a large plastic container. In each instance, the sealant immediately stops the water flow, proving its capability to seal and waterproof different materials like concrete, iron, steel, and other metals, offering a quick and reliable solution for preventing water damage.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.750",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "leaking roof",
+        "water drips",
+        "hand applying sealant",
+        "sealant tube",
+        "black sealant"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "rugged"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "practical demonstration",
+          "steady shot"
+        ]
+      },
+      "why_kept": "This segment introduces the problem of a leaking roof and immediately demonstrates the product being applied to stop the leak, showcasing its initial use case and efficacy."
+    },
+    {
+      "start_time": "00:05.400",
+      "end_time": "00:12.750",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "leaking blue tank",
+        "gushing water",
+        "hand applying sealant",
+        "sealant tube '9900'",
+        "black sealant"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "rugged"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dramatic demonstration",
+          "clear action"
+        ]
+      },
+      "why_kept": "This is the strongest 'hero moment' as it vividly demonstrates the product's immediate and powerful sealing capability on a significant leak from a metal tank, making it a compelling anchor for the video's core message."
+    },
+    {
+      "start_time": "00:13.400",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "leaking white tank",
+        "water stream",
+        "hand applying sealant",
+        "sealant tube '56'",
+        "black sealant"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "serious",
+          "rugged"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "practical demonstration",
+          "versatility shown"
+        ]
+      },
+      "why_kept": "This segment further reinforces the product's versatility and effectiveness by showing it successfully sealing a large leak on a different material (plastic tank), complementing the main demonstration."
+    }
+  ]
+}

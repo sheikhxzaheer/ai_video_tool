@@ -1,0 +1,55 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250521_110752435.mp4",
+  "detailed_description": "The video presents a clear, steady shot of a hand holding a 'PRFCT MORNING TANGERINE PULSE' supplement package. The product, described as 'Hydration + Metabolic Activators' and 'Nutrient Charge,' is prominently displayed against a stunning backdrop of a vast blue ocean and rugged cliffs under a bright sky. This scene effectively conveys a healthy, active, and premium lifestyle associated with the product, positioning it within a serene, outdoor morning routine.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:03.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "hand",
+        "product package",
+        "Tangerine Pulse",
+        "PRFCT Morning",
+        "ocean",
+        "cliffs",
+        "sea",
+        "sky",
+        "white watch",
+        "health supplement"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "ocean",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "lifestyle"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright daylight",
+          "natural lighting",
+          "clear blue sky",
+          "scenic background",
+          "focus on product"
+        ]
+      },
+      "why_kept": "This segment is the entire video and perfectly encapsulates a 'Product Interaction' hero moment by clearly showcasing the product in a visually appealing and contextually relevant setting. No setup or dead air frames are present, adhering to the 'NO-MISTAKE' rule to keep 100% of the duration."
+    }
+  ]
+}

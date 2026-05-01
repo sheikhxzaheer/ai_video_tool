@@ -1,0 +1,124 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury home\\ssstik.io_@erikvanconover_1766727310386.mp4",
+  "detailed_description": "This video offers a captivating virtual tour of a luxurious, modern penthouse apartment, highlighting its stunning panoramic city views. A smartly dressed man guides viewers through the opulent interior, showcasing expansive living spaces, high-end white furnishings, contemporary art, and unique design elements. The walkthrough emphasizes a sophisticated lifestyle, culminating in the reveal of a lavish bathroom and a sauna, leaving a strong impression of aspirational living.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "High_Energy",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "Man in suit",
+        "Luxury apartment",
+        "Modern living room",
+        "White furniture",
+        "City skyline",
+        "Large windows",
+        "Modern art",
+        "Large speaker"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "minimalist design",
+          "panoramic view",
+          "polished floors"
+        ]
+      },
+      "why_kept": "This segment serves as the primary visual hook, immediately establishing the video's core theme: a grand, luxurious apartment with breathtaking city views. The man's confident entry and gestures effectively set an aspirational and high-energy tone for the property showcase, making it the strongest context-setting clip."
+    },
+    {
+      "start_time": "00:13.100",
+      "end_time": "00:19.400",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "Man in suit",
+        "Luxury apartment",
+        "Bedroom",
+        "Lounge area",
+        "City skyline",
+        "Large windows",
+        "Modern sculpture",
+        "White carpet"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clean lines",
+          "urban landscape",
+          "mirrored surfaces"
+        ]
+      },
+      "why_kept": "This segment extends the narrative of luxury by showcasing another significant and equally impressive area of the apartment—a spacious bedroom or lounge with expansive city views. It reinforces the high-end lifestyle and premium aesthetic established by the anchor segment."
+    },
+    {
+      "start_time": "00:26.000",
+      "end_time": "00:28.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Man in suit",
+        "Luxury bathroom",
+        "Sauna",
+        "City skyline",
+        "Thumbs up gesture",
+        "Smiling man"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "satisfied",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "modern bathroom",
+          "glass partitions",
+          "wellness feature",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment provides a strong concluding 'hero moment' by revealing luxury amenities like a private sauna within the bathroom, further emphasizing the exclusive lifestyle. The man's explicit positive reaction (thumbs up and smile) acts as an emotional climax, effectively conveying satisfaction and desirability for the property."
+    }
+  ]
+}

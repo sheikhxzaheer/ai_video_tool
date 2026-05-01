@@ -1,0 +1,55 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Skin is peeled off\\ssstik.io_@maiarahentzz_1762086863896.mp4",
+  "detailed_description": "The video features a woman documenting her skin's condition 12 days after undergoing a chemical peel. She demonstrates the process of carefully trimming loose, peeling skin from her forehead and cheeks using small scissors. Throughout the demonstration, she provides candid commentary about her experience, explaining that the peel was done for acne scars, noting moments of slight discomfort, and expressing her strong urge to peel off all the remaining skin, while also informing viewers about the long-term results and potential for touch-ups.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "01:41.000",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Problem_State",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Key_Information",
+        "Product_Interaction",
+        "Negative_Emotion",
+        "Emotional_Climax"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "peeling skin",
+        "chemical peel",
+        "scissors",
+        "trimming",
+        "redness",
+        "acne scars",
+        "rings",
+        "tattoo",
+        "bathroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "informative",
+          "candid"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "self-recorded",
+          "casual lighting"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the explicit process of post-chemical peel skin care (trimming peeling skin with scissors), revealing the transformed skin underneath, and providing the user's detailed experience and commentary (key information and emotional reactions) directly to the viewer. The continuous interaction with her face and the peeling skin, even while speaking, fulfills the visual priority rule."
+    }
+  ]
+}

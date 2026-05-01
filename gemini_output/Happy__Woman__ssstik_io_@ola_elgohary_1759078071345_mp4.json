@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Happy\\Woman\\ssstik.io_@ola_elgohary_1759078071345.mp4",
+  "detailed_description": "The video captures a young woman with blonde hair enthusiastically dancing and lip-syncing to music while wearing black over-ear headphones. She is dressed in a dark blue vest and black skirt, showcasing high energy and joyful expressions throughout the entire clip. Her vibrant performance in an indoor, home setting serves as a continuous display of positive emotion and active product interaction, highlighting her enjoyment and connection with the music.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:25.790",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Face_Reaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "dancing",
+        "headphones",
+        "vest",
+        "skirt",
+        "lip-syncing",
+        "room"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual home setting"
+        ]
+      },
+      "why_kept": "The entire video is kept as the 'Semantic Core' because the subject consistently displays high energy, clear positive emotions (emotional climax via 'Face_Reaction'), and continuous product interaction (wearing and reacting to headphones) through dancing and lip-syncing from start to finish. There are no 'setup' or 'dead air' frames, adhering to the 'No-Mistake' Rule, making the full duration a seamless hero moment of active lifestyle and product enjoyment."
+    }
+  ]
+}

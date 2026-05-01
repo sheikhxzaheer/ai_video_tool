@@ -1,0 +1,78 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated Before_After\\ssstik.io_@lumari.appel_1774536415282.mp4",
+  "detailed_description": "This video visually demonstrates a 'gut health cheat code' by showcasing a dramatic transformation in the subject's abdomen. It starts by presenting a visibly bloated stomach (implying a 'problem state'), then transitions to a noticeably flatter and more toned abdomen (representing the 'result' or 'after'), highlighting the effectiveness of the implied solution for gut health.",
+  "segments": [
+    {
+      "start_time": "00:01.373",
+      "end_time": "00:02.435",
+      "structural_tags": [
+        "Problem_State",
+        "Human_Interaction",
+        "Before_After",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "bloated stomach",
+        "abdomen",
+        "hand pressing",
+        "side profile",
+        "grimace"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "straight shot",
+          "plain background"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'Problem State' by showing a visibly bloated abdomen and the person's reaction, which is crucial for the 'Before' part of the implied transformation."
+    },
+    {
+      "start_time": "00:02.435",
+      "end_time": "00:03.963",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Before_After",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "flatter stomach",
+        "abdomen",
+        "side profile",
+        "satisfied expression",
+        "different top"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "straight shot",
+          "plain background"
+        ]
+      },
+      "why_kept": "This segment serves as the 'Result_Transformation' or 'After' shot, directly contrasting the previous bloated state with a flatter abdomen, visually demonstrating the effectiveness of the 'gut health cheat code'."
+    }
+  ]
+}

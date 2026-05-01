@@ -1,0 +1,257 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ð╝ðÁð╗ð░ðÀð╝ð░┬áÔÇö ð║ð¥ð┐ð©ÐÅ 2.mp4",
+  "detailed_description": "This video documents a transformative skincare routine using a potent face mask. It begins by presenting the user's natural skin, followed by the application of a clarifying mask. Key moments highlight the mask's exfoliating action through visual demonstrations of it peeling off. The process concludes with a thorough cleanse, revealing a visibly refreshed, smooth, and glowing complexion, culminating in the user's satisfied reaction showcasing the product's remarkable results.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.200",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "bare face",
+        "natural skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "bright"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state of the skin and serves as the visual hook, setting the context for the entire transformation process."
+    },
+    {
+      "start_time": "00:01.200",
+      "end_time": "00:03.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying face mask",
+        "brown mask",
+        "headband",
+        "skincare routine"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial application of the product, which is a key part of the skincare process."
+    },
+    {
+      "start_time": "00:03.400",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "removing mask",
+        "cotton pad",
+        "careful application",
+        "around eyes"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright light"
+        ]
+      },
+      "why_kept": "This clip highlights a specific and careful interaction with the mask during its removal, showcasing part of the detailed process."
+    },
+    {
+      "start_time": "00:12.500",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Macro_Detail",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face mask",
+        "peeling skin",
+        "side profile",
+        "exfoliating"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clear focus"
+        ]
+      },
+      "why_kept": "This segment is crucial as it clearly demonstrates the peeling mechanism of the mask, which is the product's primary action and a key part of the skin's transformation."
+    },
+    {
+      "start_time": "00:14.500",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "washing face",
+        "white cleanser",
+        "foamy",
+        "removing mask residue"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright light"
+        ]
+      },
+      "why_kept": "This segment illustrates the final step of removing the mask and cleansing the face, completing the product application and removal process."
+    },
+    {
+      "start_time": "00:19.000",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Mechanism_Of_Action",
+        "Macro_Detail",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "peeling skin",
+        "close-up",
+        "exfoliation residue"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright light",
+          "detailed texture"
+        ]
+      },
+      "why_kept": "This provides a detailed, close-up view of the skin immediately after the main peeling, emphasizing the residual effect and highlighting the exfoliation."
+    },
+    {
+      "start_time": "00:23.000",
+      "end_time": "00:29.900",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Social_Proof",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "glowing skin",
+        "clear complexion",
+        "natural makeup",
+        "satisfied",
+        "happy"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "positive",
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "soft focus background"
+        ]
+      },
+      "why_kept": "This is the definitive 'after' shot, showcasing the successful transformation of the skin with added radiance and the user's clear satisfaction, serving as the emotional and visual climax of the video."
+    }
+  ]
+}

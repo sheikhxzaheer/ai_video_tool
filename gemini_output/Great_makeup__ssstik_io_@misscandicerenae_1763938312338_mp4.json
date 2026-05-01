@@ -1,0 +1,83 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great_makeup\\ssstik.io_@misscandicerenae_1763938312338.mp4",
+  "detailed_description": "The video showcases a professional makeup application process, highlighting both the meticulous artistry and the beautiful transformation. It begins with a close-up of a skilled hand applying makeup to a woman's cheek, demonstrating the 'process' of enhancing beauty. The segment transitions to the elegant 'reveal' of the finished look, featuring the woman with perfectly applied makeup. Her serene and confident expression serves as an 'emotional climax,' underscoring the positive impact of professional grooming.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.800",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Process_Labor",
+        "Product_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "makeup application",
+        "makeup brush",
+        "woman's face",
+        "artist's hand",
+        "blonde hair",
+        "silk robe"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "glamorous",
+          "professional"
+        ]
+      },
+      "why_kept": "This segment is kept as a primary 'Hero Moment' because it vividly demonstrates the 'Process/Labor' of makeup application, showing the skilled interaction between the artist's hand, the brush, and the subject's face. It directly captures the 'Product Interaction' and the expertise involved in the transformation."
+    },
+    {
+      "start_time": "00:05.500",
+      "end_time": "00:09.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "finished makeup",
+        "confident expression",
+        "blonde hair",
+        "silk robe"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "glamorous",
+          "polished look"
+        ]
+      },
+      "why_kept": "This segment serves as a crucial 'Hero Moment' by presenting the 'Reveal/Result' of the makeup application. The woman's composed gaze and perfectly finished look clearly demonstrate the 'Result_Transformation,' while her serene expression conveys 'Positive_Emotion' and acts as an 'Emotional Climax' to the process shown earlier."
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Emotion\\532531331_AE4425E9DF09DBCF5174C32B878E318A_video_dashinit.mp4",
+  "detailed_description": "A man addresses his noticeably receding hairline and thinning hair by deciding to shave his head. He demonstrates the sparse areas before using an electric trimmer to completely shave his scalp. The video concludes with the reveal of his bald head, signifying a complete transformation from his previous hairstyle.",
+  "segments": [
+    {
+      "start_time": "00:02.300",
+      "end_time": "00:15.500",
+      "structural_tags": [
+        "Problem_State",
+        "Key_Information",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "hairline",
+        "thinning hair",
+        "touching head",
+        "decision to shave"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "resolute"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment establishes the problem (thinning hair/receding hairline) and the key decision to shave the head. The subject actively shows his hair, making the visual integral to the spoken information."
+    },
+    {
+      "start_time": "00:16.400",
+      "end_time": "00:20.600",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "The_Process",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "electric shaver",
+        "shaving head",
+        "hair removal"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "focused",
+          "determined"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "action shot"
+        ]
+      },
+      "why_kept": "This is the core action segment, demonstrating the process of shaving the head. It shows the 'doing the work' aspect directly."
+    },
+    {
+      "start_time": "00:20.600",
+      "end_time": "00:21.800",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "cut hair",
+        "sink",
+        "mess"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "neutral"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "detail shot"
+        ]
+      },
+      "why_kept": "This BROLL shot reinforces the action just completed, visually confirming the removal of hair during the shaving process."
+    },
+    {
+      "start_time": "00:21.800",
+      "end_time": "00:25.500",
+      "structural_tags": [
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "bald head",
+        "shaved head",
+        "touching head",
+        "satisfaction"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "satisfied",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "before/after implicit",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment provides the crucial 'reveal' of the transformation, showing the final result of the head shave and the subject's satisfaction."
+    }
+  ]
+}

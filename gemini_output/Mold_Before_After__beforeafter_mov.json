@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold Before_After\\beforeafter.mov",
+  "detailed_description": "This video showcases a product called 'MoldMD' being sprayed onto a window surface. The clip highlights the product's immediate interaction with the surface, forming bubbles, while a voiceover explains that the enzymes in the product work to break down mold roots. It emphasizes the ease of use, requiring only a few sprays to activate its cleaning mechanism.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:04.998",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "hand",
+        "spray bottle",
+        "MoldMD label",
+        "window",
+        "glass",
+        "spray",
+        "bubbles",
+        "window sill"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct product demonstration",
+          "clear focus"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it perfectly demonstrates the product's introduction, its application (product interaction), and visually hints at its function (mechanism of action) with the spray and bubbles, all while the audio explicitly explains how it works on mold. It adheres to the 'No-Mistake' rule as the action starts and ends precisely within this timeframe without any extraneous footage."
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ssstik.io_@bbbeauty46_1746779246464.mp4",
+  "detailed_description": "This video demonstrates a DIY hair growth treatment using common household ingredients. It showcases the step-by-step application of garlic, potato, and a coffee-lemon mixture to a visible bald spot on a person's scalp. The video concludes by revealing the significant hair regrowth in the treated area after one month, highlighting the purported effectiveness of this natural remedy for hair loss.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "hands",
+        "garlic clove",
+        "scalp",
+        "thinning hair area",
+        "rubbing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the initial step of the hair growth treatment, applying garlic to the problem area. It's a key part of the process."
+    },
+    {
+      "start_time": "00:07.500",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "hands",
+        "potato slice",
+        "scalp",
+        "thinning hair area",
+        "rubbing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment shows the second step, the application of a potato slice. It reinforces the multi-ingredient, natural approach to the treatment."
+    },
+    {
+      "start_time": "00:15.300",
+      "end_time": "00:23.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Ingredient_Highlight",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "hands",
+        "application brush",
+        "coffee mixture",
+        "lemon",
+        "scalp",
+        "applying liquid",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment illustrates the main treatment application using a coffee and lemon mixture with a brush, and provides key usage instructions ('Use 4 times a week'), making it crucial for understanding the process."
+    },
+    {
+      "start_time": "00:24.500",
+      "end_time": "00:29.800",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "hands",
+        "towel",
+        "scalp",
+        "hair growth",
+        "transformed area",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear focus",
+          "bright lighting",
+          "reveal"
+        ]
+      },
+      "why_kept": "This is the 'Reveal/Result' moment, showing the significant hair growth after one month. It's the most impactful part of the video, demonstrating the success and value of the entire process."
+    }
+  ]
+}

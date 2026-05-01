@@ -1,0 +1,109 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold\\mold12.mp4",
+  "detailed_description": "This video effectively demonstrates a solution for common shower mold and mildew. It begins by showcasing a clear 'problem state' with visuals of discolored grout and caulk, emphasizing the mold buildup. The video then transitions to the 'solution,' illustrating the application of Clorox Tilex cleaner as a 'product interaction' and 'mechanism of action.' Finally, it highlights the impressive 'result transformation' by presenting sparkling clean grout and tiles, delivering a satisfying 'before and after' effect.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "dirty shower",
+        "mold",
+        "mildew",
+        "discolored grout",
+        "yellow stains",
+        "pointing finger"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "tiled shower",
+          "overhead lighting",
+          "identifying problem"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'problem state' by visually highlighting the mold and mildew buildup in the shower, reinforced by the descriptive text overlay. It serves as the essential 'before' state for the solution."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:09.100",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hand spraying cleaner",
+        "cleaning product",
+        "dirty grout",
+        "shower tiles"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "practical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "instructional",
+          "cleaning process",
+          "product application"
+        ]
+      },
+      "why_kept": "This segment demonstrates the 'mechanism of action' and 'product interaction' by showing the specific cleaner being applied to the problem areas, providing clear instructions for its use. This is the core 'how-to' portion of the solution."
+    },
+    {
+      "start_time": "00:09.100",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "clean shower",
+        "white grout",
+        "pristine caulk",
+        "sparkling tiles",
+        "after shot"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "satisfying"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "clean aesthetic",
+          "bright lighting",
+          "visual proof"
+        ]
+      },
+      "why_kept": "This segment is the 'reveal' or 'result transformation,' showcasing the effectively cleaned shower. It provides the crucial 'after' shot, demonstrating the product's efficacy and delivering a satisfying conclusion to the problem-solution narrative."
+    }
+  ]
+}

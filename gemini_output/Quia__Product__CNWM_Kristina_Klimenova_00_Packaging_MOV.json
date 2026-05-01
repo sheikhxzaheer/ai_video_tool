@@ -1,0 +1,151 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Product\\CNWM_Kristina Klimenova_00_Packaging.MOV",
+  "detailed_description": "The video features a woman unboxing and showcasing the QUIA Korean Beauty Collagen Night Wrapping Mask. It highlights her excited reaction as she reveals the pink mask tube and its accompanying applicator brush. A crucial segment demonstrates the mask's thick, gel-like texture as she squeezes it onto her hand, eliciting a 'wow' expression. The video also includes her explaining the product's viral popularity and status as a must-have in skincare routines.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "pink product box",
+        "QUIA KOREAN BEAUTY",
+        "Collagen Night Wrapping Mask",
+        "bathroom counter"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "simple background"
+        ]
+      },
+      "why_kept": "This segment provides a clear, static introduction of the product packaging and branding."
+    },
+    {
+      "start_time": "00:12.000",
+      "end_time": "00:26.900",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink box",
+        "unboxing",
+        "pulling out mask tube",
+        "pink mask tube",
+        "pulling out applicator brush",
+        "white and gold brush",
+        "excited expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "casual attire"
+        ]
+      },
+      "why_kept": "This segment captures the user's enthusiastic unboxing experience, showcasing both the mask tube and its dedicated applicator brush with clear emotional reactions."
+    },
+    {
+      "start_time": "01:21.000",
+      "end_time": "01:26.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "squeezing mask tube",
+        "clear gel mask",
+        "product texture",
+        "mask on hand",
+        "surprised expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "shock_surprise"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused shot",
+          "revealing texture"
+        ]
+      },
+      "why_kept": "This segment is a key reveal, visually demonstrating the product's unique texture and the user's immediate, positive reaction, which implies product quality."
+    },
+    {
+      "start_time": "01:46.000",
+      "end_time": "01:54.000",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Social_Proof",
+        "Product_Intro",
+        "Human_Interaction",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink product box",
+        "talking to camera",
+        "explaining product popularity",
+        "skincare buzz"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "engaging presentation"
+        ]
+      },
+      "why_kept": "This segment provides crucial 'Key Information' by explaining the product's viral status and popularity within the skincare community, establishing 'Social Proof'."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid with disehs\\ssstik.io_@maryemelhileh_1763672116716.mp4",
+  "detailed_description": "This video captures a young boy diligently washing a blue cup in a kitchen sink, standing on a step stool. He's focused on scrubbing the cup under running water, demonstrating a common household chore. The accompanying text highlights the patience required to reach this milestone and expresses a sense of accomplishment, showcasing a positive family moment where a child actively participates in daily tasks.",
+  "segments": [
+    {
+      "start_time": "00:00:00.00",
+      "end_time": "00:00:15.17",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "boy",
+        "washing dishes",
+        "kitchen sink",
+        "step stool",
+        "cup",
+        "water",
+        "soap",
+        "white cabinets"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "static shot",
+          "eye-level perspective"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the 'process/labor' of a child performing a household chore. The boy is actively engaged in washing the cup, which is the primary action and value being showcased. There's no setup or dead air, making the entire clip relevant to the action."
+    }
+  ]
+}

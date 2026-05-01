@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Woman\\ssstik.io_@crazy_dance_family_1763052729204.mp4",
+  "detailed_description": "This video humorously contrasts a woman's sleeping experience alone versus with her husband. Initially, she is shown comfortably sprawling across a large bed, symbolizing ample personal space. This serene scene is immediately juxtaposed with the 'after' scenario, where her husband joins her, dramatically reducing her available space and leaving her playfully squished at the edge. The clip highlights a relatable marital dynamic concerning bed space with a lighthearted and comedic tone.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.748",
+      "structural_tags": [
+        "Visual_Hook",
+        "Before_After",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman sleeping",
+        "man appearing",
+        "large bed",
+        "bedroom",
+        "dress",
+        "shorts",
+        "squished"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "static shot",
+          "modern decor"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core. It clearly presents the 'before' and 'after' scenarios of sleeping alone versus with a husband, which is the main humorous point of the video. The visual contrast, the text overlays providing context, and the immediate reveal constitute the complete message, making it untrimmable based on the 'No-Mistake' rule as it starts and ends precisely with the action."
+    }
+  ]
+}

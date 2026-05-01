@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ssstik.io_1750616581654.mp4",
+  "detailed_description": "The video captures a young man's humorous yet exasperating attempt to remove a large quantity of blue slime from his hair. Initially, he seemingly underestimated the challenge, confidently applying the sticky substance. However, as he tries to pull the slime away, he quickly realizes his grave error, displaying increasingly wide-eyed and frustrated expressions. The slime proves incredibly stubborn, clinging to every strand, leading him to a comedic moment of despair as he understands that even shaving his head wouldn't easily resolve the sticky situation. The continuous struggle and his animated reactions form the core narrative of the video.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:17.200",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Shock_Surprise",
+        "Malfunction_Fail",
+        "Messy_Unorganized",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "Man",
+        "slime",
+        "blue slime",
+        "hair",
+        "struggle",
+        "pulling",
+        "sticky",
+        "frustration",
+        "reaction"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "shock"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct address to camera",
+          "expressive facial reactions"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it forms the complete 'Semantic Core' of the video. It continuously demonstrates the core problem (slime stuck in hair), the ongoing process of trying to remove it, and the man's escalating emotional reactions (shock, frustration, surprise) as he realizes the magnitude of his predicament. The video starts and ends precisely on the action, fitting the 'No-Mistake' rule."
+    }
+  ]
+}

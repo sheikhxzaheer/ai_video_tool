@@ -1,0 +1,188 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1751800693717.mp4",
+  "detailed_description": "This video demonstrates two distinct hair styling routines using By Vilain products. First, the creator addresses the problem of unstyled hair not holding its shape and applies By Vilain Gold Digger wax, showcasing the application technique and the resulting neat, voluminous hairstyle. He highlights the wax's matte effect and ease of use. Subsequently, the video transitions to a different look, illustrating the use of By Vilain Sidekick Pre-styler with a blow dryer to achieve a voluminous style, emphasizing its heat protection and volume-boosting benefits during the process.",
+  "segments": [
+    {
+      "start_time": "00:02.327",
+      "end_time": "00:05.800",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Intro",
+        "Key_Information",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "unstyled hair",
+        "hair product container",
+        "wax"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious",
+          "resolute"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment establishes the 'Problem_State' of hair not staying in place and immediately introduces the product as the solution, setting the context for the following demonstration. The speaker's expression and clear statement make it a strong 'Key_Information' and 'Product_Intro' moment."
+    },
+    {
+      "start_time": "00:06.183",
+      "end_time": "00:13.333",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Mechanism_Of_Action",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair wax",
+        "scooping wax",
+        "rubbing hands",
+        "applying to hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "instructive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "detailed focus"
+        ]
+      },
+      "why_kept": "This segment is crucial for demonstrating the 'Product_Interaction' by showing the texture of the wax, how it's scooped, and the initial application to the hair, illustrating the 'Mechanism_Of_Action' before the main styling phase."
+    },
+    {
+      "start_time": "00:13.333",
+      "end_time": "00:23.700",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation",
+        "High_Energy",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "styling hair",
+        "fingers combing hair",
+        "hair taking shape"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "energetic",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera movement",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is a core 'Process_Labor' moment, showing the active styling technique ('tiger claws') and the immediate 'Result_Transformation' as the hair takes its desired position and hold, demonstrating the product's effectiveness."
+    },
+    {
+      "start_time": "00:24.000",
+      "end_time": "00:34.900",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Emotional_Climax",
+        "Key_Information",
+        "Product_Intro",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "styled hair",
+        "satisfied expression",
+        "different angles of hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "satisfied",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "showcasing hair texture"
+        ]
+      },
+      "why_kept": "This segment presents the final 'Result_Transformation' of the styled hair, coupled with the speaker's 'Positive_Emotion'. It also serves as 'Key_Information' and 'Product_Intro' by verbally reinforcing the wax's benefits while visually showcasing the hair from multiple angles ('Aesthetic_Broll')."
+    },
+    {
+      "start_time": "00:35.400",
+      "end_time": "00:49.200",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Product_Intro",
+        "Key_Information",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "man",
+        "curly hair",
+        "spray bottle",
+        "hair dryer",
+        "skeleton brush",
+        "voluminous hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "energetic",
+          "instructive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "mist effect",
+          "dynamic styling",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment introduces a second product and a distinct styling 'Process_Labor' (blow-drying with a brush after applying pre-styler). It clearly shows 'Product_Interaction' and provides 'Key_Information' about heat protection and volume-boosting effects, culminating in the 'Result_Transformation' of visibly more voluminous hair."
+    }
+  ]
+}

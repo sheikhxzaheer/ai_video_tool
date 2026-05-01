@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B-RollNeckpain.MOV",
+  "detailed_description": "This video effectively captures the common 'problem state' of waking up with neck and shoulder discomfort. It focuses on a woman in bed, stirring from sleep and immediately exhibiting signs of pain through her facial expressions and the action of rubbing her neck. The segment is an emotional climax, conveying a relatable struggle that sets the stage for a potential solution related to sleep comfort or pain relief. It visually communicates a negative emotional state associated with morning aches.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Morning_Routine",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "waking up",
+        "rubbing neck",
+        "pained expression",
+        "discomfort",
+        "sleep",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "calm",
+          "pain"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates an 'Emotional Climax' through the woman's pained facial expressions and actions, effectively portraying a 'Problem State' of neck discomfort upon waking. It is the core visual narrative of the video, showing the onset of physical discomfort which is a key 'Hero Moment' criterion."
+    }
+  ]
+}

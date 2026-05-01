@@ -1,0 +1,167 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold Before_After\\ssstik.io_@rmrsolutions_1767634651142.mp4",
+  "detailed_description": "This video showcases the effectiveness of a cleaning product on bathroom mold. It starts by posing a question about the product's ability to tackle mold, followed by a demonstration where the cleaner is sprayed directly onto the moldy caulk and grout in a bathtub. The area is then briefly scrubbed and thoroughly rinsed. The video culminates in a direct 'BEFORE' and 'AFTER' comparison, clearly illustrating the product's transformative power in removing the mold and restoring the cleanliness of the bathtub corner.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.300",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Intro"
+      ],
+      "visual_keywords": [
+        "hand holding spray bottle",
+        "bathtub",
+        "mold",
+        "question text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home",
+          "bathroom"
+        ],
+        "mood": [
+          "informational"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment establishes the problem (bathroom mold) and introduces the product, setting the context for the demonstration with a clear question overlay."
+    },
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:04.700",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "spraying cleaner",
+        "moldy caulk",
+        "bathtub corner"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "home",
+          "bathroom"
+        ],
+        "mood": [
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct action",
+          "focused shot"
+        ]
+      },
+      "why_kept": "This segment demonstrates the core action of applying the cleaning product directly to the problem area, showing the primary product interaction and mechanism of action."
+    },
+    {
+      "start_time": "00:04.700",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "scrubbing tool",
+        "rubbing motion",
+        "bathtub corner"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "home",
+          "bathroom"
+        ],
+        "mood": [
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "focused action",
+          "simple tool"
+        ]
+      },
+      "why_kept": "This segment shows the agitation phase of the cleaning process, which supports the overall demonstration of how the product is used to remove mold."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:09.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "rinsing with shower head",
+        "water flow",
+        "bathtub corner"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home",
+          "bathroom"
+        ],
+        "mood": [
+          "functional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "water action",
+          "initial cleanliness visible"
+        ]
+      },
+      "why_kept": "This segment shows the rinsing step, an essential part of the cleaning process that leads to the final transformation. The visual removal of grime is initiated here."
+    },
+    {
+      "start_time": "00:12.700",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Before_After",
+        "Result_Transformation",
+        "Key_Information",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "clean bathtub corner",
+        "mold removed",
+        "text overlay 'BEFORE' and 'AFTER'"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "home",
+          "bathroom"
+        ],
+        "mood": [
+          "satisfaction",
+          "clean"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "comparison shot",
+          "clear transformation"
+        ]
+      },
+      "why_kept": "This is the crucial 'reveal' moment, explicitly showing the successful transformation from a moldy to a clean surface with clear 'BEFORE' and 'AFTER' text overlays, directly answering the initial question and demonstrating the product's value."
+    }
+  ]
+}

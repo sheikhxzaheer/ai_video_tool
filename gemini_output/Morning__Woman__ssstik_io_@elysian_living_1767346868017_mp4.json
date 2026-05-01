@@ -1,0 +1,402 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Morning\\Woman\\ssstik.io_@elysian.living_1767346868017.mp4",
+  "detailed_description": "This video captures a 'girly' morning routine in an NYC setting, emphasizing self-care and aesthetic product usage. It showcases a detailed step-by-step process from waking up and making the bed, to an elaborate shower and skincare regimen using various beauty products, culminating in the preparation of a trendy layered matcha drink. The core value lies in demonstrating a luxurious and meticulous personal care ritual, highlighting product interaction and the satisfying completion of each step.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.833",
+      "structural_tags": [
+        "Visual_Hook",
+        "Morning_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman stretching",
+        "city skyline",
+        "bed",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "bright",
+          "modern apartment"
+        ]
+      },
+      "why_kept": "This segment serves as the primary visual hook, immediately establishing the video's theme ('nyc girly morning routine') and setting the scene with a person waking up against a city backdrop."
+    },
+    {
+      "start_time": "00:01.833",
+      "end_time": "00:06.133",
+      "structural_tags": [
+        "Morning_Routine",
+        "Aesthetic_Broll",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "making bed",
+        "arranging pillows",
+        "knitted blanket",
+        "room spray",
+        "bed mist"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This segment details the initial steps of the morning routine, including bed-making and using a room mist, contributing to the overall aesthetic and self-care theme."
+    },
+    {
+      "start_time": "00:06.133",
+      "end_time": "00:09.633",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Process/Labor",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "shower steamers package",
+        "opening package",
+        "pink steamer tablet",
+        "breaking tablet"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "bright lighting",
+          "marble texture"
+        ]
+      },
+      "why_kept": "This segment clearly introduces and demonstrates the use of a shower steamer, highlighting a specific product and a step in the routine with a close-up on the 'process' of breaking it."
+    },
+    {
+      "start_time": "00:09.633",
+      "end_time": "00:13.333",
+      "structural_tags": [
+        "Process/Labor",
+        "Aesthetic_Broll",
+        "Product_Standalone",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "turning on shower",
+        "shower head spraying",
+        "eucalyptus",
+        "pink shampoo",
+        "shower products on shelf"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "water sounds",
+          "bright",
+          "marble texture"
+        ]
+      },
+      "why_kept": "This segment supports the shower routine by showing the shower being turned on and displaying the aesthetic arrangement of shower products, enhancing the 'calm relaxation' mood."
+    },
+    {
+      "start_time": "00:13.333",
+      "end_time": "00:17.333",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process/Labor",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "pink body brush",
+        "shaving cream",
+        "applying to leg",
+        "rinsing brush"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates a specific grooming step, showing the application of shaving cream with a body brush, which is a key 'process' within the routine."
+    },
+    {
+      "start_time": "00:17.333",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Morning_Routine",
+        "Aesthetic_Broll",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "pink bathrobe",
+        "tying robe",
+        "opening cabinet",
+        "pink headband",
+        "putting on headband"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft colors",
+          "smooth transitions"
+        ]
+      },
+      "why_kept": "This segment acts as a transition, showing post-shower preparation, including donning a bathrobe and a headband, which sets up the next phase of the routine (skincare)."
+    },
+    {
+      "start_time": "00:20.000",
+      "end_time": "00:23.633",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Process/Labor",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "Peach & Lily essence",
+        "pouring onto heart sponges",
+        "applying to face"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft colors",
+          "bright lighting",
+          "clear product visibility"
+        ]
+      },
+      "why_kept": "This segment introduces and demonstrates the precise application of a skincare essence using heart-shaped sponges, highlighting a 'product interaction' and 'process' in detail."
+    },
+    {
+      "start_time": "00:23.633",
+      "end_time": "00:26.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Process/Labor"
+      ],
+      "visual_keywords": [
+        "OGEE face oil",
+        "dropper application",
+        "massaging face"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "focused action"
+        ]
+      },
+      "why_kept": "This segment shows another key skincare step, featuring the application and blending of face oil, emphasizing the 'process' and 'product interaction'."
+    },
+    {
+      "start_time": "00:26.500",
+      "end_time": "00:30.200",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "Drunk Elephant moisturizer",
+        "dispensing cream",
+        "Caudalie beauty elixir",
+        "spraying face mist"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "quick cuts",
+          "multiple products"
+        ]
+      },
+      "why_kept": "This segment quickly showcases the interaction with multiple skincare products (moisturizer and face mist), demonstrating a series of rapid product usages within the routine."
+    },
+    {
+      "start_time": "00:30.200",
+      "end_time": "00:33.400",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Process/Labor"
+      ],
+      "visual_keywords": [
+        "Loops face mask package",
+        "hydrogel face mask",
+        "applying mask to face"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "pink aesthetics",
+          "focused action"
+        ]
+      },
+      "why_kept": "This segment introduces and visually demonstrates the application of a face mask, which is a significant 'process' within a detailed skincare routine."
+    },
+    {
+      "start_time": "00:34.000",
+      "end_time": "00:53.933",
+      "structural_tags": [
+        "Process/Labor",
+        "Result_Transformation",
+        "Product_Interaction",
+        "Ingredient_Highlight",
+        "Home_Kitchen",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "pouring chocolate sauce",
+        "cup in freezer",
+        "matcha powder",
+        "sifting matcha",
+        "whisking matcha",
+        "strawberry syrup",
+        "pouring milk",
+        "adding ice",
+        "layered matcha drink",
+        "lid",
+        "straw",
+        "final drink shot",
+        "city skyline"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed preparation",
+          "vibrant colors",
+          "smooth pouring",
+          "city view backdrop"
+        ]
+      },
+      "why_kept": "This extended segment is a comprehensive 'process' demonstrating the detailed preparation of a layered matcha drink, including multiple ingredient highlights and product interactions. It culminates in a clear 'result transformation' with an aesthetic final shot that ties back to the 'NYC' theme, representing a major highlight of the morning routine."
+    }
+  ]
+}

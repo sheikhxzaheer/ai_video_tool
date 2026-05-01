@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Dry skin\\ssstik.io_@dermgp_1768660232409.mp4",
+  "detailed_description": "The video features a woman lying in bed, pointing to a spot on her cheek with a serious, reflective expression. An on-screen text overlay reads 'This is 40,' conveying a personal statement about aging and its visible impact on her skin. This segment serves as a clear 'problem state' or a candid personal observation regarding the natural progression of skin changes with age.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.280",
+      "structural_tags": [
+        "Problem_State",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pointing",
+        "cheek",
+        "skin",
+        "bed",
+        "serious expression",
+        "text overlay 'This is 40'",
+        "blemish",
+        "hyperpigmentation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "reflective"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "direct address",
+          "selfie-style"
+        ]
+      },
+      "why_kept": "This entire segment is the 'Semantic Core' as it powerfully conveys the video's main message: a woman's candid acknowledgment of her skin's condition at a specific age (40) through her pointing gesture and serious facial expression, reinforced by the on-screen text. This acts as an emotional climax and key information delivery point without any extraneous frames."
+    }
+  ]
+}

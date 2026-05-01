@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_23.mp4",
+  "detailed_description": "The video demonstrates the premium qualities of a pillow, highlighting its 'Hotel Quality Fluff' and 'Dual Core Support'. A person's hands are shown actively fluffing and compressing the pillow, visually emphasizing its plushness and resilience. The interaction aims to convey the comfort and luxurious feel of the product, set against a backdrop of soft, natural lighting in a bedroom environment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Home_Kitchen",
+        "Product_Intro"
+      ],
+      "visual_keywords": [
+        "hand",
+        "pillow",
+        "bed",
+        "bedroom",
+        "sunlight",
+        "fluffing",
+        "pressing",
+        "compressing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "natural light",
+          "warm glow",
+          "simple background",
+          "comfort focus"
+        ]
+      },
+      "why_kept": "This segment is the entire video and serves as the core semantic content. It perfectly demonstrates the product's key features (fluffiness, support) through direct human interaction, accompanied by text overlays that explicitly state the product's benefits ('Hotel Quality Fluff', 'Dual Core Support'). It is a clear 'Product Interaction' and 'Mechanism of Action' moment without any setup or dead air."
+    }
+  ]
+}

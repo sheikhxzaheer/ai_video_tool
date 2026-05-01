@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep treatment\\ssstik.io_@avon_uk_1761839743637.mp4",
+  "detailed_description": "The video shows a person performing a nightly ritual, spraying a product from a dark bottle onto a fluffy grey pillow on a well-made bed. The hand methodically applies the spray, suggesting the use of a linen or sleep spray to enhance comfort before sleeping. The on-screen text, 'Me every night before bed 🌙😴💤', explicitly frames the action as a consistent part of a relaxing evening routine, emphasizing product interaction within a personal, calm lifestyle context. The entire duration captures the consistent and repetitive action of preparing for bed.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.458",
+      "structural_tags": [
+        "Product_Interaction",
+        "Night_Routine",
+        "Calm_Relaxation",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "hand",
+        "spray bottle",
+        "pillow",
+        "bed",
+        "tufted headboard",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "focus on action"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it fully encompasses the core action of the video: the continuous and deliberate spraying of a pillow with a product as part of a stated nightly routine. There is no setup, post-action dead air, or extraneous footage; the entire clip demonstrates the 'Product Interaction' and 'Night Routine' which are the primary hero moments."
+    }
+  ]
+}

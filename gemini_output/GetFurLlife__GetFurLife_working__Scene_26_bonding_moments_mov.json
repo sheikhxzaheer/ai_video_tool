@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLife_working\\Scene 26_bonding moments.mov",
+  "detailed_description": "The video captures a heartwarming moment between a woman and her small dog as they relax on a couch. The woman is seen gently petting and talking to her dog, which is comfortably nestled on her chest. She displays affection through tender caresses and kisses, while the dog responds with reciprocal licks and a visibly content demeanor. This segment highlights their close bond and the peaceful, loving interaction shared between them.",
+  "segments": [
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:20.500",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "dog",
+        "petting",
+        "kissing",
+        "cuddling",
+        "smiling",
+        "couch",
+        "chihuahua"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "loving"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "cozy setting"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it clearly demonstrates the affectionate interaction between the woman and her dog, encompassing petting, kissing, and the dog's responsive actions (licking her face). It captures the positive emotional climax and the core human-animal interaction, before the woman's focus shifts away from the dog."
+    }
+  ]
+}

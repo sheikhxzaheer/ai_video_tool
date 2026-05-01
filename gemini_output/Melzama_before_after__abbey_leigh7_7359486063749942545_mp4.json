@@ -1,0 +1,180 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\abbey_leigh7_7359486063749942545.mp4",
+  "detailed_description": "This video documents the progression and results of a chemical peel treatment. It begins by showing the skin immediately after the first and second applications, followed by the pronounced redness on day three. The core of the video captures the active peeling phase from day four to day six, including close-ups of the shedding skin being carefully removed with tweezers. The transformation culminates in a clear view of the revitalized, smooth skin post-peel, further substantiated by a side-by-side 'Before/After' comparison using an OBSERV 520x skin analysis device to highlight the significant reduction in pigmentation and overall skin improvement.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "shiny skin",
+        "red skin",
+        "face",
+        "chemical peel application"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio",
+          "car"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "controlled lighting",
+          "progression shots"
+        ]
+      },
+      "why_kept": "This segment establishes the initial state of the skin post-application and the immediate, visible reaction to the chemical peel, setting the context for the subsequent transformation."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:34.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "peeling skin",
+        "red skin",
+        "scissors",
+        "face",
+        "chemical peel"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "progression shots"
+        ]
+      },
+      "why_kept": "This is a key 'process' moment, showcasing the visible and active peeling of the skin over several days, which is central to the chemical peel treatment."
+    },
+    {
+      "start_time": "00:34.000",
+      "end_time": "01:01.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Macro_Detail",
+        "Result_Transformation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "tweezers",
+        "peeling skin",
+        "skin layer",
+        "nose",
+        "cheek",
+        "chemical peel"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "precision tools"
+        ]
+      },
+      "why_kept": "This segment provides highly detailed, macro-level visuals of the skin being peeled, explicitly demonstrating the mechanism of action and transformation in progress."
+    },
+    {
+      "start_time": "01:01.000",
+      "end_time": "01:05.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "clear skin",
+        "smooth skin",
+        "face",
+        "post-chemical peel"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment clearly showcases the immediate, visible improvement of the skin after the peel, serving as a direct 'reveal' of the treatment's outcome."
+    },
+    {
+      "start_time": "01:08.000",
+      "end_time": "01:13.000",
+      "structural_tags": [
+        "Before_After",
+        "Result_Transformation",
+        "Data_Metrics_Chart"
+      ],
+      "visual_keywords": [
+        "before after comparison",
+        "skin pigmentation",
+        "clear skin",
+        "OBSERV 520x",
+        "skin analysis"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "specialized lighting",
+          "scientific comparison"
+        ]
+      },
+      "why_kept": "This is the definitive 'reveal' moment, providing scientific validation of the treatment's efficacy through a clear before-and-after comparison using specialized skin analysis equipment."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\bottle and brush 2.mov",
+  "detailed_description": "This video's semantic core features a bald man with a beard, smiling enthusiastically directly at the camera. He confidently presents a bottle of 'MoldMD Mold Spot Remover' in one hand and a small cleaning brush in the other, giving a positive 'thumbs up' gesture. The setting appears to be a well-lit bathroom, implying the product's intended use. The entire clip serves as a clear product introduction, conveying positive sentiment and ease of use through the man's cheerful demeanor and direct interaction with the cleaning items.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.875",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Product_Standalone",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "smiling",
+        "holding spray bottle",
+        "MoldMD",
+        "mold spot remover",
+        "cleaning brush",
+        "thumbs up",
+        "bathroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear focus",
+          "friendly presentation"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the semantic core because it directly introduces the product 'MoldMD Mold Spot Remover' with a clear visual presentation, active product interaction (holding the bottle and brush), and a strong positive emotional cue (smiling and thumbs up gesture). There are no irrelevant frames for trimming based on the given rules."
+    }
+  ]
+}

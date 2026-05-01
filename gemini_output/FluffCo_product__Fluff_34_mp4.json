@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_34.mp4",
+  "detailed_description": "The video showcases the premium quality of bedding by featuring a hand gently interacting with a crisp white duvet. Text overlays highlight the advanced \"Sanforized technology\" and emphasize that it's the luxurious standard used by high-end hotels. The close-up shot focuses on the soft texture and pristine appearance of the bedding, effectively conveying a sense of comfort, quality, and high-end material.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Key_Information",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "hand",
+        "white duvet",
+        "bedding",
+        "soft texture",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "minimalist"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it perfectly demonstrates product interaction through the hand gently holding and moving the duvet, highlighting its texture and quality. It also delivers key information via the prominent text overlays about 'Sanforized technology' and its use in 'luxury hotels,' which directly communicates the product's value and appeal. The visual aesthetic further enhances the perception of a premium, comfortable product."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Sleeping in mak\\Sleeping in QUIA.MOV",
+  "detailed_description": "This video's semantic core depicts a woman showcasing a facial product, likely a sleeping mask, applied to her face. She initially makes a sleeping gesture, suggesting a night routine, then opens her eyes, smiles warmly, and waves at the camera. The segment highlights the product's presence on her skin while conveying a sense of calm and positive user experience through her gentle demeanor and interaction.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.167",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Night_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face mask",
+        "sleeping gesture",
+        "smile",
+        "wave",
+        "cute headbands",
+        "warm lighting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "soft glow",
+          "cozy aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the semantic core because it demonstrates key hero moments without any identifiable 'dead air' or 'setup/calibration' frames. It shows product interaction (product visibly on face), emotional climax (positive smile and wave), and strongly implies a routine (sleeping gesture for night routine). The subject's engagement makes it a compelling display of the product's effect and user satisfaction."
+    }
+  ]
+}

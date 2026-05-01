@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Fashion\\Backstage\\ssstik.io_@glamourgermany_1762259946852.mp4",
+  "detailed_description": "The video captures a dynamic behind-the-scenes moment, likely backstage at a major fashion event, where a model is getting professional makeup applied. Dressed in red lingerie and a sheer matching robe, she confidently poses and interacts with multiple cameras, showcasing her expressions. The scene is bustling with crew and other models, highlighting the meticulous preparation and high-energy atmosphere before a show. The segment effectively conveys the glamor and hard work involved in the modeling world.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.509",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "model",
+        "makeup artist",
+        "red lingerie",
+        "red robe",
+        "backstage",
+        "makeup application",
+        "posing",
+        "camera",
+        "feather props"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "vibrant lighting",
+          "professional setup",
+          "dynamic camera angles"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core of the video, continuously showcasing the 'Process/Labor' hero moment of a model getting her makeup done backstage. It also captures 'Human_Interaction' with the makeup artist and surrounding crew, as well as the model's 'Face_Reaction' and 'Positive_Emotion' while posing. There are no identifiable 'Setup & Calibration' or 'Post-Action Dead Air' frames to trim, making the full duration essential for conveying the continuous action."
+    }
+  ]
+}

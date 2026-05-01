@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20251211_135312261.mp4",
+  "detailed_description": "The video showcases the simple act of preparing a drink in a clear glass bottle. A hand vigorously shakes the bottle, mixing a yellow liquid and creating a frothy layer at the top. The scene is set on a clean kitchen countertop, with a 'Tangerine Plum' product packet partially visible in the background, suggesting the contents being mixed. This segment demonstrates the direct interaction with a product, emphasizing its ease of preparation for daily consumption.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:07.133",
+      "structural_tags": [
+        "Product_Interaction",
+        "Home_Kitchen",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand shaking bottle",
+        "yellow liquid",
+        "drink mixing",
+        "foam forming",
+        "clear glass bottle",
+        "kitchen countertop",
+        "product packet"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "brightly lit",
+          "clean aesthetic",
+          "steady shot",
+          "natural light"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it demonstrates the core action of mixing the product in the bottle, which is a clear product interaction and process. The video begins and ends precisely with the action, adhering to the 'No-Mistake' rule. It effectively shows the preparation of the drink."
+    }
+  ]
+}

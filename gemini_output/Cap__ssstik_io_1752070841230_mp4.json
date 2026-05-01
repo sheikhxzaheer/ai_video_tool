@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cap\\ssstik.io_1752070841230.mp4",
+  "detailed_description": "The video showcases a New York Yankees baseball cap, featuring its design from multiple angles. A hand wearing a distinctive gold and black beaded bracelet holds and rotates the cap, highlighting its cream-colored front, navy blue brim, and the prominent \"NY\" logo. A circular embroidered patch commemorating \"1903-1952 50th Year\" is visible on the side. The video also gives a glimpse of the official \"New Era 9FORTY\" sticker and internal tags, emphasizing its authenticity and details. The background features shelves filled with various other caps, suggesting a retail or collection setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:16.483",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "baseball cap",
+        "New York Yankees cap",
+        "NY logo",
+        "cream and navy cap",
+        "embroidered patch",
+        "New Era sticker",
+        "clothing store",
+        "hat display",
+        "beaded bracelet"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "display",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background",
+          "product-focused"
+        ]
+      },
+      "why_kept": "This entire segment is kept because it continuously demonstrates the core value of the video: showcasing a product (the New York Yankees cap) from various angles, highlighting its design details, branding, and an embroidered patch. It perfectly fits the 'Product Interaction' and 'The Reveal/Result' criteria, with no extraneous 'setup' or 'post-action' footage, making it a complete 'Semantic Core' moment."
+    }
+  ]
+}

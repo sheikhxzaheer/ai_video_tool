@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Result\\CNWM_Kristina Klimenova_03_Result.MOV",
+  "detailed_description": "This video showcases the application of a skincare product, demonstrating the process of massaging it into the face and neck. The core value lies in the subsequent reveal of the product's benefits, highlighted by the woman's visibly glowing and smooth skin. Her delighted facial expressions and verbal affirmations of soft, wrinkle-free skin serve as a strong testament to the product's transformative effects.",
+  "segments": [
+    {
+      "start_time": "00:08.200",
+      "end_time": "00:39.600",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman",
+        "skin",
+        "face",
+        "neck",
+        "cream application",
+        "massaging",
+        "glowing skin",
+        "smooth skin",
+        "hands",
+        "satisfied expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean background",
+          "soft glow"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it clearly demonstrates the product interaction (applying and massaging cream), the process (mechanism of action), the visible transformation/results (glowing skin, no wrinkles mentioned), and the emotional climax (woman's satisfied reactions and verbal endorsements of the product's effectiveness). It combines process, reveal, product interaction, and emotional response into one cohesive sequence."
+    }
+  ]
+}

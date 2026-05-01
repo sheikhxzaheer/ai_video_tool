@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Emotion\\ðù 7 -Ðû╠ê ÐüðÁð║ ð£ð©Ðö ð│ð¥ð╗ð¥ð▓Ðâ ðùðöðÿðÆðúðÆðÉðØðØÐÅ.mp4",
+  "detailed_description": "A man in the shower shares a humorous 'shower thought' about the Star Wars character Chewbacca. He contemplates whether Chewbacca can actually pronounce his own name, suggesting it should be a Wookiee roar instead. The video captures his thinking process, a moment of realization, and his vocal imitation of a Wookiee, complete with a Chewbacca emoji appearing on his beard.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.638",
+      "structural_tags": [
+        "Visual_Hook",
+        "UGC_Talking_Head",
+        "Face_Reaction",
+        "Confusion_Doubt",
+        "Positive_Emotion",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "man",
+        "shower",
+        "washing hair",
+        "beard",
+        "text overlay",
+        "Chewbacca emoji",
+        "Wookiee sound"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address",
+          "text overlay",
+          "casual",
+          "humorous"
+        ]
+      },
+      "why_kept": "The entire segment delivers the complete 'shower thought' narrative, from posing the initial question to the expressive facial reactions and the humorous vocal imitation of Chewbacca, making it the sole and complete semantic core of the video."
+    }
+  ]
+}

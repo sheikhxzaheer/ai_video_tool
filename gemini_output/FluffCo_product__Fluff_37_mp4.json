@@ -1,0 +1,41 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_37.mp4",
+  "detailed_description": "The video opens with a woman lying in bed, eyes closed, appearing to be asleep. Text overlays indicate a 'flat pancake situation at 3am,' highlighting a common sleep discomfort. She then opens her eyes, looks towards the camera with a soft smile, subtly acknowledging the relatable problem of an uncomfortable pillow. The entire sequence sets up a 'problem state' in a calm, relatable manner.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.046",
+      "structural_tags": [
+        "Problem_State",
+        "Face_Reaction",
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman in bed",
+        "sleeping",
+        "waking up",
+        "flat pillow",
+        "looking at camera",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "neutral tones"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it perfectly encapsulates the 'Problem_State' (flat pancake pillow at 3 am) through the overlaid text and the woman's relatable facial reaction, transitioning from sleep to an acknowledgment of the situation. It's the full demonstration of the identified hero moment without any extraneous footage."
+    }
+  ]
+}

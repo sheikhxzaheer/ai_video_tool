@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Product\\IMG_5999.MOV",
+  "detailed_description": "This video concisely showcases the 'Spartan Root Activator Shampoo.' A hand picks up one of the sleek, black pump bottles, presenting it clearly to the camera. The label, which is central to the product's identity, is prominently displayed, highlighting its name and the benefit: 'PROMOTES HAIR GROWTH.' The branding emphasizes strength and vitality, aligning with the 'Spartan Warrior' theme, suggesting a product designed for mighty and voluminous hair. The segment focuses entirely on the product's visual appeal and its stated purpose.",
+  "segments": [
+    {
+      "start_time": "00:00.950",
+      "end_time": "00:06.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "shampoo bottle",
+        "Spartan brand",
+        "Root Activator Shampoo",
+        "product label",
+        "pump dispenser",
+        "black bottle"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "simple background",
+          "focused shot"
+        ]
+      },
+      "why_kept": "This segment is the core as it directly shows the product, its branding, and key information (name, purpose) through human interaction, making it the primary product introduction and display."
+    }
+  ]
+}

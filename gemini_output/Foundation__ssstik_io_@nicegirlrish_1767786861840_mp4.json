@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Foundation\\ssstik.io_@nicegirlrish_1767786861840.mp4",
+  "detailed_description": "The video features a woman applying a makeup product, likely concealer, under her eyes using a brush. She meticulously blends the product into her skin, demonstrating the smooth and effective interaction between the cosmetic and the application tool. The on-screen text, 'Коли продукт з інструментом працюють>>>' (When the product and tool work together>>>), highlights the synergy between the product and the instrument, emphasizing a successful and effortless makeup routine. The segment showcases the practical application and a gentle blending technique.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.383",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Mechanism_Of_Action",
+        "Aesthetic_Broll",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "makeup",
+        "brush",
+        "concealer",
+        "under-eye",
+        "application",
+        "blending",
+        "cosmetic tool"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "focused",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clean aesthetic",
+          "makeup tutorial style",
+          "focused shot"
+        ]
+      },
+      "why_kept": "This entire segment is the Semantic Core as it directly demonstrates the 'Process/Labor' and 'Product Interaction' of applying makeup. The video starts immediately with the action and concludes as the action ends, fulfilling the 'No-Mistake Rule' for trimming. The on-screen text explicitly supports the visual demonstration of the product and tool working together, which aligns with the 'Mechanism_Of_Action' criterion."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Money\\ssstik.io_1744018596295.mp4",
+  "detailed_description": "The video showcases the meticulous process of organizing a substantial amount of US currency. Stacks of new $100 bills, secured with colorful rubber bands, are carefully transferred from a cardboard box into a sleek, metallic briefcase. The action emphasizes the handling and arrangement of the money, highlighting its quantity and the systematic approach to storage or transportation. It implicitly conveys themes of wealth, financial management, and high-value transactions.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:16.273",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "stacks of money",
+        "hundred dollar bills",
+        "US currency",
+        "metal briefcase",
+        "cardboard box",
+        "hands",
+        "rubber bands"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "premium",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "clean lighting",
+          "focus on detail",
+          "organised arrangement"
+        ]
+      },
+      "why_kept": "This entire segment constitutes the semantic core, demonstrating the primary action of handling, transferring, and organizing large stacks of money. It clearly shows the 'process' of arranging the currency into a briefcase, fulfilling the 'Product Interaction' and 'Human Interaction' criteria, and serving as a strong 'Visual_Hook' and 'Aesthetic_Broll' for the theme of wealth/finance."
+    }
+  ]
+}

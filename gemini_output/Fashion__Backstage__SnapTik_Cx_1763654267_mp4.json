@@ -1,0 +1,573 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Fashion\\Backstage\\SnapTik.Cx_1763654267.mp4",
+  "detailed_description": "This video provides an exclusive behind-the-scenes look at the dynamic preparation for a fashion show. It captures the meticulous process of stylists, makeup artists, and models collaborating to bring unique designs to life, from reviewing look books and adjusting garments to applying intricate makeup and body paint. The core meaning highlights the creative journey, the detailed styling, and the ultimate presentation of a distinctive collection, showcasing the energy and effort involved in a major fashion event.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.999",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "people",
+        "papers",
+        "look books",
+        "flight case"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "backstage setting"
+        ]
+      },
+      "why_kept": "This segment shows the initial planning and organization phase, indicating the start of the creative process for the fashion show."
+    },
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:04.999",
+      "structural_tags": [
+        "Process_Labor",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "steaming",
+        "dress",
+        "garment rack"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "practical lighting"
+        ]
+      },
+      "why_kept": "This highlights a practical step in garment preparation, showcasing the attention to detail in getting outfits ready."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:06.999",
+      "structural_tags": [
+        "Process_Labor",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "hairstylist",
+        "model",
+        "hair styling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "makeup station"
+        ]
+      },
+      "why_kept": "Shows the crucial hair styling aspect of model preparation, an integral part of 'The Process/Labor'."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:07.999",
+      "structural_tags": [
+        "Process_Labor",
+        "Behind_The_Scenes",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "model",
+        "body paint",
+        "photographer",
+        "styling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "creative",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "mirror reflection",
+          "artistic styling"
+        ]
+      },
+      "why_kept": "Captures a unique transformation through body paint, showcasing the creative and artistic elements of the show's aesthetic."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:10.999",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "models",
+        "lineup",
+        "photography",
+        "outfits"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "anticipation",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "group shot",
+          "posing"
+        ]
+      },
+      "why_kept": "This multi-second clip shows models lined up and being photographed, capturing the collective effort and the visual impact of multiple looks together before the main event."
+    },
+    {
+      "start_time": "00:12.000",
+      "end_time": "00:12.999",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "runway",
+        "chairs",
+        "columns",
+        "event space"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "anticipation"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "grand architecture",
+          "high ceiling"
+        ]
+      },
+      "why_kept": "Establishes the setting of the fashion show, providing context for the upcoming runway action."
+    },
+    {
+      "start_time": "00:13.000",
+      "end_time": "00:13.999",
+      "structural_tags": [
+        "Macro_Detail",
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "shoes",
+        "feet",
+        "blue socks",
+        "heels"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "unique footwear",
+          "detailed shot"
+        ]
+      },
+      "why_kept": "Highlights the intricate details of the accessories and footwear, an essential part of fashion presentation."
+    },
+    {
+      "start_time": "00:14.000",
+      "end_time": "00:16.999",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "models",
+        "walking",
+        "runway",
+        "fashion show"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "fashion show rehearsal",
+          "dynamic walk",
+          "overhead view"
+        ]
+      },
+      "why_kept": "This is the ANCHOR segment as it visually represents the core action of a fashion show – models showcasing the collection on the runway, even if it's during a rehearsal."
+    },
+    {
+      "start_time": "00:17.000",
+      "end_time": "00:17.999",
+      "structural_tags": [
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "clothing rack",
+        "knitted garments",
+        "colorful clothes"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "creative",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "unique textiles",
+          "vibrant colors"
+        ]
+      },
+      "why_kept": "Showcases the distinct and visually interesting garments from the collection, emphasizing the product itself."
+    },
+    {
+      "start_time": "00:18.000",
+      "end_time": "00:18.999",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Standalone",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "look sheet",
+        "model photo",
+        "outfit details"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "organized"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "production notes",
+          "styling guide"
+        ]
+      },
+      "why_kept": "Illustrates the planning and detailed instructions behind each look, highlighting the 'Process/Labor' of styling."
+    },
+    {
+      "start_time": "00:19.000",
+      "end_time": "00:19.999",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "models",
+        "dressing",
+        "stylists",
+        "assisting"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "urgent",
+          "busy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "backstage activity",
+          "dressing area"
+        ]
+      },
+      "why_kept": "Directly captures the busy and hands-on work of getting models into their outfits, a core part of the preparation process."
+    },
+    {
+      "start_time": "00:20.000",
+      "end_time": "00:21.999",
+      "structural_tags": [
+        "Product_Interaction",
+        "Result_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "model",
+        "walking",
+        "checked dress",
+        "runway look"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "confident",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "full outfit display",
+          "posing"
+        ]
+      },
+      "why_kept": "Showcases a model effectively presenting a complete outfit, demonstrating the final look and interaction with the garment."
+    },
+    {
+      "start_time": "00:22.000",
+      "end_time": "00:22.999",
+      "structural_tags": [
+        "Process_Labor",
+        "Macro_Detail",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "model",
+        "makeup",
+        "headpiece",
+        "stylist"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "focused",
+          "creative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "intricate headwear",
+          "final touches"
+        ]
+      },
+      "why_kept": "Emphasizes the detailed and artistic application of makeup and accessories, highlighting the 'Process/Labor' involved in achieving a unique look."
+    },
+    {
+      "start_time": "00:23.000",
+      "end_time": "00:23.999",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Interaction",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "model",
+        "bridal veil",
+        "white dress",
+        "photography"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "elegant",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "final look capture",
+          "glamorous"
+        ]
+      },
+      "why_kept": "Presents a 'reveal' of a particularly striking and unique outfit, demonstrating the aesthetic outcome of the styling process."
+    },
+    {
+      "start_time": "00:27.000",
+      "end_time": "00:29.999",
+      "structural_tags": [
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "models",
+        "posing",
+        "group shot",
+        "collection display"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "confident",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "diverse outfits",
+          "model showcase"
+        ]
+      },
+      "why_kept": "This multi-second clip offers a comprehensive view of several models displaying their final looks, effectively showcasing the breadth of the collection."
+    },
+    {
+      "start_time": "00:32.000",
+      "end_time": "00:33.999",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "model",
+        "knitted dress",
+        "nose jewelry",
+        "unique outfit"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "artistic",
+          "bold"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "avant-garde fashion",
+          "distinctive accessories"
+        ]
+      },
+      "why_kept": "Highlights a particularly unique and detailed garment and accessory, drawing attention to the distinctive design elements."
+    },
+    {
+      "start_time": "00:34.000",
+      "end_time": "00:37.999",
+      "structural_tags": [
+        "High_Energy",
+        "Behind_The_Scenes",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "audience",
+        "runway",
+        "event space",
+        "lights"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "excitement"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "pre-show buzz",
+          "atmospheric lighting",
+          "crowd shots"
+        ]
+      },
+      "why_kept": "Captures the atmosphere and scale of the event, showcasing the audience and the grandeur of the fashion show setting, adding to the 'High_Energy' feel."
+    }
+  ]
+}

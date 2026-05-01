@@ -1,0 +1,153 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad electrolyte drink\\ssstik.io_@gracesynod__1770992795724.mp4",
+  "detailed_description": "This video introduces Liquid I.V.'s new sugar-free Mango Pineapple flavor. It effectively showcases the product by presenting its packaging, demonstrating the simple preparation process of mixing the powder with ice and water, and capturing the user's surprised and delighted reaction to its tropical taste. The video highlights the product's convenience for on-the-go hydration and emphasizes its appeal as a delicious, sugar-free option for a refreshing summer drink.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.600",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "Liquid I.V. packets",
+        "surprised expression",
+        "hands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear focus"
+        ]
+      },
+      "why_kept": "This segment serves as a strong visual hook, immediately introducing the product and an emotional climax, drawing the viewer in with a clear positive reaction."
+    },
+    {
+      "start_time": "00:00.600",
+      "end_time": "00:02.700",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "Liquid I.V. bag",
+        "packaging",
+        "individual packets",
+        "unboxing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "product focus",
+          "demonstrative"
+        ]
+      },
+      "why_kept": "This segment clearly introduces the product's main packaging and reveals the individual servings, providing essential context for what is being demonstrated."
+    },
+    {
+      "start_time": "00:05.700",
+      "end_time": "00:07.400",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "Liquid I.V. powder",
+        "glass",
+        "ice",
+        "water",
+        "stirring",
+        "metal straw"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "action-oriented",
+          "clear demonstration"
+        ]
+      },
+      "why_kept": "This is the core 'how-to' segment, demonstrating the product's primary action and ease of preparation, which is central to its value proposition."
+    },
+    {
+      "start_time": "00:07.400",
+      "end_time": "00:09.100",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Reveal_Result"
+      ],
+      "visual_keywords": [
+        "woman",
+        "drinking",
+        "glass",
+        "straw",
+        "surprised expression",
+        "satisfaction gesture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home_kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "expressive",
+          "post-consumption reaction"
+        ]
+      },
+      "why_kept": "This segment showcases the emotional climax and the perceived positive result of using the product, reinforcing the product's appeal through a strong user reaction."
+    }
+  ]
+}

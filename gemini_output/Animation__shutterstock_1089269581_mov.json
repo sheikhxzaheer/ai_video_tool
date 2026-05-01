@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\shutterstock_1089269581.mov",
+  "detailed_description": "This animated video visually demonstrates the process of hair growth at a magnified level. It begins with a close-up of individual hair follicles embedded in the skin, with one follicle highlighted by a glowing green base and a bright ring, suggesting activation or nourishment. Subsequently, the animation shows this hair and surrounding follicles rapidly growing, lengthening, and thickening into a dense, healthy mass of hair strands. The entire sequence illustrates an effective mechanism leading to robust hair growth and density.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Macro_Detail",
+        "Micro_Nutrients_Anim",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "hair follicle",
+        "hair growth",
+        "skin",
+        "scalp",
+        "glowing effect",
+        "3D animation",
+        "thickening hair",
+        "lengthening hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D rendered",
+          "scientific visualization",
+          "soft lighting",
+          "smooth animation"
+        ]
+      },
+      "why_kept": "This entire segment is the Semantic Core as it directly illustrates the visual narrative of hair growth and transformation from sparse, short strands to dense, long hair. It begins immediately with the action (a hair follicle being highlighted) and concludes when the full growth and density are achieved, perfectly demonstrating both the 'Mechanism_Of_Action' and 'Result_Transformation' without any setup or dead air."
+    }
+  ]
+}

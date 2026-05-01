@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\EL - BATCH 0011 DS - EL011(a)1.mp4",
+  "detailed_description": "This video showcases a visual transformation of a woman's facial skin. It begins with a shot of her 'before' state, displaying visible redness and numerous freckles. Subsequently, the video transitions to her 'after' state, revealing noticeably clearer skin with reduced redness and less prominent freckles. The entire sequence functions as a concise 'before and after' comparison, highlighting an improved skin appearance without directly showing any product interaction or process.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "skin",
+        "freckles",
+        "redness",
+        "clearer skin",
+        "dark hair",
+        "comparison"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "sequential comparison",
+          "bathroom setting"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it constitutes the 'Semantic Core' of the video. It explicitly demonstrates a 'before and after' skin transformation, starting with a 'problem state' (visible redness and freckles) and immediately transitioning to a 'result transformation' (clearer, less red skin). This visual comparison is the primary value and message conveyed."
+    }
+  ]
+}

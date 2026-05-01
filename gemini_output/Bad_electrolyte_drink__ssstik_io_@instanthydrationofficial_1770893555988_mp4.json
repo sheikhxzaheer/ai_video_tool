@@ -1,0 +1,136 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad electrolyte drink\\ssstik.io_@instanthydrationofficial_1770893555988.mp4",
+  "detailed_description": "The video, presented by a charismatic male, cleverly uses a \"we lied\" narrative hook to introduce Instant Hydration's new Lychee-flavored electrolyte drink. It transitions from a playful act of burning the sachet to demonstrating the product's preparation—mixing the powder into water, revealing a vibrant purple hue. Throughout the process, the video highlights the drink's premium ingredients, such as French grey sea salt with 80+ trace minerals, magnesium, potassium, and anti-inflammatory Aquamin, emphasizing benefits like focus, sustained energy, and zero sugar. The video culminates with a strong call to action, announcing an unprecedented discount on all flavors, especially the popular Lychee, and urging viewers to purchase before it sells out.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.800",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Intro",
+        "Key_Information",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "glasses",
+        "sachet",
+        "lighter",
+        "flame",
+        "tearing",
+        "water",
+        "glass",
+        "electrolytes",
+        "drink mix"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual setting"
+        ]
+      },
+      "why_kept": "This segment serves as an engaging visual hook, grabbing attention with a 'lie' and immediately introducing the product (sachet) while beginning to list its benefits."
+    },
+    {
+      "start_time": "00:10.800",
+      "end_time": "00:34.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Result_Transformation",
+        "Ingredient_Highlight",
+        "Key_Information",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "sachet",
+        "powder",
+        "water",
+        "glass",
+        "purple drink",
+        "stirring",
+        "straw",
+        "electrolytes",
+        "sea salt",
+        "minerals",
+        "magnesium",
+        "potassium",
+        "Aquamin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "informative",
+          "clinical",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear liquid",
+          "vibrant color change",
+          "focused shots"
+        ]
+      },
+      "why_kept": "This is the core demonstration of the product's function, showcasing the preparation process, the visual transformation of the drink, and detailing the high-quality, beneficial ingredients that are central to the product's value proposition."
+    },
+    {
+      "start_time": "00:34.000",
+      "end_time": "00:57.000",
+      "structural_tags": [
+        "Offer_CTA",
+        "Social_Proof",
+        "Urgency_Rush",
+        "Product_Standalone",
+        "Key_Information",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "drink",
+        "glass",
+        "product box",
+        "Instant Hydration",
+        "Lychee",
+        "discount",
+        "sold out"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "energetic",
+          "urgent"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "clear product display"
+        ]
+      },
+      "why_kept": "This segment delivers the critical sales message, highlighting a limited-time offer and generating urgency by mentioning scarcity, encouraging immediate purchase."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\Hair growth animation 4.mp4",
+  "detailed_description": "This video visually demonstrates the process of hair growth at a macro level. It begins with sparse, short hair follicles barely emerging from the skin and progressively animates their elongation. Over the duration, individual hair strands visibly extend, becoming denser and longer, showcasing the transformation of hair from a nascent stage to a more mature length. The animation provides a clear, simulated representation of hair development.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Macro_Detail",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "hair growth",
+        "skin",
+        "hair follicles",
+        "hair strands",
+        "animation",
+        "biological process"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "biological simulation",
+          "clear visualization",
+          "gradual process"
+        ]
+      },
+      "why_kept": "This entire segment is kept because it directly demonstrates the core action and transformation, showing the complete process of hair growing from short stubs to full length. It perfectly illustrates the 'Mechanism_Of_Action' and 'Result_Transformation' and contains no setup or dead air, thus adhering to the 'No-Mistake' rule."
+    }
+  ]
+}

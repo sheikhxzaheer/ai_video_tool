@@ -1,0 +1,191 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated Before_After\\ssstik.io_@_marybraun_1774451456407.mp4",
+  "detailed_description": "This video documents a woman's pregnancy journey by showcasing the progressive growth of her belly over several weeks. Starting with a flat stomach at 3 weeks, the montage visually illustrates the gradual expansion of her abdomen through subsequent weekly updates. Each segment captures her positive and joyful reactions, highlighting the physical transformation and emotional journey of pregnancy as her baby bump becomes increasingly visible.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.133",
+      "structural_tags": [
+        "Visual_Hook",
+        "Before_After",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "belly",
+        "flat stomach",
+        "3 weeks",
+        "bikini",
+        "hotel room"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "hotel"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment establishes the initial 'before' state of the belly, clearly setting up the premise of 'watching my belly grow' and is crucial for the overall 'Result_Transformation' narrative."
+    },
+    {
+      "start_time": "00:10.516",
+      "end_time": "00:14.916",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "belly",
+        "slight bump",
+        "9 weeks",
+        "brown shirt",
+        "jeans"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "positive",
+          "happy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "bright"
+        ]
+      },
+      "why_kept": "This segment shows the first noticeable belly growth at 9 weeks, providing a clear visual progression from the initial flat stomach and capturing a positive emotional reaction."
+    },
+    {
+      "start_time": "00:18.816",
+      "end_time": "00:22.950",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "High_Energy",
+        "Face_Reaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "woman",
+        "belly",
+        "visible bump",
+        "11 weeks",
+        "sports bra",
+        "shorts",
+        "laughing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "happy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "casual"
+        ]
+      },
+      "why_kept": "This segment demonstrates further significant belly growth at 11 weeks, paired with a joyful and energetic emotional climax, reinforcing the positive transformation."
+    },
+    {
+      "start_time": "00:26.550",
+      "end_time": "00:29.616",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "belly",
+        "pronounced bump",
+        "14 weeks",
+        "white ribbed top",
+        "jeans",
+        "big smile"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "happy",
+          "excited"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright",
+          "minimalist background"
+        ]
+      },
+      "why_kept": "This segment highlights a very clear and significant belly bump at 14 weeks, representing a strong visual 'reveal' of the pregnancy progression and a powerful emotional climax with her wide smile."
+    },
+    {
+      "start_time": "00:29.983",
+      "end_time": "00:32.416",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "belly",
+        "bump",
+        "15 weeks",
+        "white crop top",
+        "pants",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "happy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "clean background"
+        ]
+      },
+      "why_kept": "This final segment provides the culmination of the belly growth showcased in the video, illustrating the continued transformation and maintaining the positive emotional tone."
+    }
+  ]
+}

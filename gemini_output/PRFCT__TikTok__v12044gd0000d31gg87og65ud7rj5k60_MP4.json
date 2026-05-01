@@ -1,0 +1,375 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\TikTok\\v12044gd0000d31gg87og65ud7rj5k60.MP4",
+  "detailed_description": "This video showcases a runner's full day, emphasizing their approach to 'Movement + Meals' even when not actively training. The morning begins with a carefully prepared coffee and a substantial walk using ankle weights, tracked by a smartwatch to highlight daily activity. Breakfast features a protein-rich bagel with eggs and fruit, demonstrating a balanced meal. The day progresses with a heated pilates class for strength and flexibility, followed by a quick protein bar and an iced latte during work. The evening wraps up with a simple yet nutritious dinner of sautéed vegetables and chicken sausage, concluding with a relaxing magnesium hot cocoa for recovery. The creator illustrates how consistent movement, mindful eating, and strategic supplementation are integrated into their daily life.",
+  "segments": [
+    {
+      "start_time": "00:01.333",
+      "end_time": "00:02.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Lifestyle_Active",
+        "Morning_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "person",
+        "hoodie",
+        "door",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "minimalist",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment serves as a visual hook, introducing the video's theme of 'Movement + Meals as a runner' before diving into the daily routine."
+    },
+    {
+      "start_time": "00:04.266",
+      "end_time": "00:09.600",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process",
+        "Result_Transformation",
+        "Morning_Routine",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "coffee machine",
+        "Nespresso",
+        "coffee cup",
+        "coffee pod",
+        "counter"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment demonstrates a key part of the morning routine, showing product interaction and the process of preparing a daily 'meal' (coffee)."
+    },
+    {
+      "start_time": "00:11.833",
+      "end_time": "00:13.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "milk frother",
+        "frothed milk",
+        "coffee cup",
+        "kitchen scale",
+        "counter"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "focused shot"
+        ]
+      },
+      "why_kept": "Continues the coffee preparation, detailing the process of adding frothed creamer, which is part of the daily routine."
+    },
+    {
+      "start_time": "00:18.500",
+      "end_time": "00:20.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process",
+        "Lifestyle_Active",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "hands",
+        "ankle weights",
+        "pink",
+        "shoes",
+        "socks",
+        "wooden floor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright",
+          "clear focus"
+        ]
+      },
+      "why_kept": "This segment shows the preparation for the 'movement' aspect of the day, specifically the use of ankle weights to enhance the walk."
+    },
+    {
+      "start_time": "00:21.366",
+      "end_time": "00:26.433",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Data_Metrics_Chart",
+        "Morning_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "person",
+        "walking",
+        "city",
+        "river",
+        "bridge",
+        "trees",
+        "Strava overlay",
+        "fanny pack",
+        "sneakers"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic",
+          "sunny",
+          "wide shots"
+        ]
+      },
+      "why_kept": "This is the primary 'movement' segment, showcasing the runner's activity with dynamic visuals and clear data metrics, making it the strongest representation of the video's core theme."
+    },
+    {
+      "start_time": "00:33.400",
+      "end_time": "00:37.400",
+      "structural_tags": [
+        "The_Process",
+        "The_Reveal",
+        "Home_Kitchen",
+        "Morning_Routine",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "hands",
+        "bagel",
+        "cottage cheese",
+        "egg",
+        "fruit",
+        "hot sauce",
+        "honey",
+        "plate",
+        "wooden spatula"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "food styling",
+          "clean white plate"
+        ]
+      },
+      "why_kept": "This segment clearly showcases a prepared breakfast, highlighting a significant 'meal' component of the daily routine with detailed plating."
+    },
+    {
+      "start_time": "00:43.600",
+      "end_time": "00:46.066",
+      "structural_tags": [
+        "The_Process",
+        "Lifestyle_Active",
+        "Data_Metrics_Chart"
+      ],
+      "visual_keywords": [
+        "person",
+        "exercising",
+        "pilates mat",
+        "gym",
+        "ankle weights",
+        "smartwatch",
+        "workout clothes"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused",
+          "active",
+          "bright"
+        ]
+      },
+      "why_kept": "This segment shows another key 'movement' activity (pilates), demonstrating variety in the runner's physical routine."
+    },
+    {
+      "start_time": "00:57.900",
+      "end_time": "01:01.300",
+      "structural_tags": [
+        "The_Process",
+        "The_Reveal",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands",
+        "cooking",
+        "vegetables",
+        "chickpeas",
+        "sausage",
+        "rice",
+        "green dressing",
+        "bowl"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "food plating",
+          "colorful ingredients"
+        ]
+      },
+      "why_kept": "This segment presents the evening meal, showcasing the preparation and final presentation of a nutritious dinner as part of the daily 'meals' routine."
+    },
+    {
+      "start_time": "01:03.700",
+      "end_time": "01:05.100",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process",
+        "Night_Routine",
+        "Home_Kitchen",
+        "Product_Intro"
+      ],
+      "visual_keywords": [
+        "hands",
+        "Moonbrew packet",
+        "scoop",
+        "glass mug",
+        "water"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "clear focus"
+        ]
+      },
+      "why_kept": "This segment highlights the preparation of a nighttime drink, representing the concluding 'meal' or routine of the day."
+    },
+    {
+      "start_time": "01:06.600",
+      "end_time": "01:08.600",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process",
+        "Night_Routine",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hands",
+        "glass mug",
+        "spoon",
+        "stirring",
+        "hot cocoa"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "cozy feel"
+        ]
+      },
+      "why_kept": "This segment completes the preparation of the nighttime drink, showing the final step in the winding-down routine."
+    }
+  ]
+}

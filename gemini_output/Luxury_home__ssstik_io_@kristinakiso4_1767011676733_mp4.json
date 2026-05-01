@@ -1,0 +1,122 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury home\\ssstik.io_@kristinakiso4_1767011676733.mp4",
+  "detailed_description": "This video presents an immersive tour of a luxurious, expansive hotel suite, highlighting its modern amenities and breathtaking views. The experience begins with the seamless entry using a key card, immediately revealing a sophisticated main living area equipped with a pool table and vast city panoramas. The tour then showcases a lavish master bedroom and its spa-like ensuite bathroom, featuring dual vanities and an opulent soaking tub. The grand finale is an expansive private balcony, offering unparalleled, panoramic vistas of the bustling cityscape below.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Reveal_Transformation",
+        "Aesthetic_Broll",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "hand",
+        "key card",
+        "door opening",
+        "living room",
+        "dining area",
+        "pool table",
+        "city view",
+        "luxury interior"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera movement",
+          "modern design",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment serves as the primary anchor, demonstrating the initial product interaction (key card) and the immediate, impressive reveal of the suite's main luxurious living space with panoramic views, setting the tone for the entire video."
+    },
+    {
+      "start_time": "00:25.000",
+      "end_time": "00:35.000",
+      "structural_tags": [
+        "Reveal_Transformation",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "master bedroom",
+        "large bed",
+        "window view",
+        "dressing area",
+        "master bathroom",
+        "double vanity",
+        "bathtub",
+        "showers"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "luxurious decor",
+          "soft lighting",
+          "spacious"
+        ]
+      },
+      "why_kept": "This segment showcases the luxurious and private areas of the suite, specifically the master bedroom and an elaborate spa-like bathroom, emphasizing the high-end experience and amenities."
+    },
+    {
+      "start_time": "00:49.000",
+      "end_time": "01:08.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Reveal_Transformation",
+        "Aesthetic_Broll",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "balcony door",
+        "city skyline",
+        "mountains",
+        "building architecture",
+        "sunny day",
+        "Las Vegas"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "premium",
+          "energetic",
+          "awe"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "panoramic view",
+          "clear blue sky",
+          "modern city"
+        ]
+      },
+      "why_kept": "This segment is crucial as it features the reveal of the expansive balcony and the suite's most significant 'result' – the breathtaking, unobstructed panoramic views of the city, which is a key highlight of a luxury high-rise property."
+    }
+  ]
+}

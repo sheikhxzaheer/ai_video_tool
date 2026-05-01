@@ -1,0 +1,57 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Makeup\\ssstik.io_@bellaayar_1761060947883.mp4",
+  "detailed_description": "This video features a comprehensive 'Get Ready With Me' makeup routine, emphasizing the use of TIRTIR cosmetic products. The creator systematically applies various makeup items, starting with foundation, then moving through concealer, contour, blush, and lip gloss. Key TIRTIR products, such as a cushion compact, a glossy mist, and a lip product, are explicitly shown and integrated into the routine, demonstrating their application and contribution to the final look. The video focuses on the precise execution of each makeup step, highlighting product interaction and the overall transformation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:16.142",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Morning_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "makeup application",
+        "TIRTIR cushion compact",
+        "foundation",
+        "concealer",
+        "contour",
+        "blush",
+        "TIRTIR glossy mist",
+        "makeup blending",
+        "powder",
+        "highlighter",
+        "TIRTIR lip gloss",
+        "eyeshadow",
+        "makeup brush",
+        "makeup sponge"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean aesthetic",
+          "clear product visibility",
+          "seamless transitions"
+        ]
+      },
+      "why_kept": "This entire segment constitutes the semantic core of the video as it continuously demonstrates the 'Process/Labor' of makeup application and 'Product Interaction' with TIRTIR products. The video is tightly edited, starting directly with the action and ending precisely when the last makeup step is shown, leaving no trimmable setup or dead air. It fully captures the 'Get Ready With Me' routine, making the entire duration essential for conveying the core message."
+    }
+  ]
+}

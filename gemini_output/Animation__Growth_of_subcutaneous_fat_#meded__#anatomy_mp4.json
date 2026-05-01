@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\Growth of subcutaneous fat #meded  #anatomy.mp4",
+  "detailed_description": "This video utilizes a 3D anatomical model to visually demonstrate the distribution of subcutaneous fat on the human torso and upper legs. It starts by showing muscle structure with distinct fat deposits, then overlays a translucent skin layer to reveal how these fat deposits appear beneath the skin. The core value lies in illustrating the anatomical location of adipose tissue relative to muscle and the body's exterior, offering an informative visual breakdown.",
+  "segments": [
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Before_After",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "anatomical model",
+        "human torso",
+        "muscles",
+        "fat layers",
+        "adipose tissue",
+        "translucent skin",
+        "body composition"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "anatomical visualization",
+          "layered view",
+          "scientific demonstration"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the layering of fat on the human body. The skin transitioning from opaque to translucent effectively reveals the subcutaneous adipose tissue in relation to the underlying muscles, acting as a visual explanation and transformation, which is the core informative value of the video."
+    }
+  ]
+}

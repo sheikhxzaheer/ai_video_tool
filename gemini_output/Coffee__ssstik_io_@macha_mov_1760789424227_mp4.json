@@ -1,0 +1,400 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Coffee\\ssstik.io_@macha.mov_1760789424227.mp4",
+  "detailed_description": "This video beautifully captures a tranquil late morning coffee ritual. The process begins with the careful grinding of coffee beans, followed by tamping and brewing espresso in a Gaggia machine. The scene emphasizes the sensory details of coffee preparation, culminating in the addition of milk and a gentle stir to create a comforting beverage. The video concludes with the individual savoring her freshly made coffee, conveying a moment of calm satisfaction in her cozy kitchen.",
+  "segments": [
+    {
+      "start_time": "00:02.518",
+      "end_time": "00:03.268",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "hand scooping coffee beans",
+        "coffee grinder",
+        "wooden countertop"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial step of the coffee-making process: scooping fresh coffee beans, which is a key product interaction."
+    },
+    {
+      "start_time": "00:03.268",
+      "end_time": "00:04.218",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "pouring coffee beans",
+        "coffee grinder hopper"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment shows the process of loading coffee beans into the grinder, a direct product interaction and a 'doing the work' moment."
+    },
+    {
+      "start_time": "00:04.218",
+      "end_time": "00:05.568",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "coffee grinder operating",
+        "ground coffee",
+        "portafilter"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "machine in action"
+        ]
+      },
+      "why_kept": "This segment highlights the mechanical process of coffee grinding, an essential step in fresh coffee preparation."
+    },
+    {
+      "start_time": "00:05.568",
+      "end_time": "00:06.658",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman tamping coffee grounds",
+        "portafilter",
+        "espresso machine"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "profile view",
+          "natural light"
+        ]
+      },
+      "why_kept": "Shows the precise action of tamping coffee, demonstrating expertise and 'doing the work' with the product."
+    },
+    {
+      "start_time": "00:06.658",
+      "end_time": "00:07.568",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "ceramic coffee cup",
+        "text 'I GET MYSELF FLOWERS'",
+        "flower relief"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "hand holding cup",
+          "soft focus background"
+        ]
+      },
+      "why_kept": "This is a 'Product Standalone' moment, highlighting the unique and aesthetic coffee cup that will be used, adding character to the routine."
+    },
+    {
+      "start_time": "00:07.568",
+      "end_time": "00:08.528",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "inserting portafilter",
+        "Gaggia espresso machine",
+        "hand"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "overhead shot",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "action shot",
+          "clean lines"
+        ]
+      },
+      "why_kept": "This segment captures another critical step in the espresso-making process: securing the portafilter into the machine."
+    },
+    {
+      "start_time": "00:08.528",
+      "end_time": "00:09.158",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "pressing espresso machine button",
+        "Gaggia machine",
+        "red indicator light"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "overhead shot",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detail shot",
+          "machine interface"
+        ]
+      },
+      "why_kept": "This is a key 'Product Interaction' moment, showing the initiation of the espresso brewing process."
+    },
+    {
+      "start_time": "00:09.158",
+      "end_time": "00:10.518",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "espresso pouring into cup",
+        "coffee stream",
+        "crema formation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "overhead shot",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up of pouring",
+          "rich colors"
+        ]
+      },
+      "why_kept": "This segment is a 'Result/Transformation' moment, showing the beautiful extraction of espresso into the cup, demonstrating the product's function."
+    },
+    {
+      "start_time": "00:11.458",
+      "end_time": "00:12.798",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "pouring milk into coffee",
+        "small milk carton",
+        "latte preparation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead angle",
+          "hands in frame"
+        ]
+      },
+      "why_kept": "This segment shows the addition of milk, a common and visually appealing step in coffee preparation."
+    },
+    {
+      "start_time": "00:12.798",
+      "end_time": "00:13.688",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Product_Interaction",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "stirring coffee",
+        "spoon in cup",
+        "finished drink"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead angle",
+          "gentle motion"
+        ]
+      },
+      "why_kept": "The act of stirring is a final 'Product Interaction' before consumption, completing the drink preparation."
+    },
+    {
+      "start_time": "00:13.688",
+      "end_time": "00:14.518",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman holding coffee cup",
+        "finished latte",
+        "pajamas",
+        "cozy setting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "cozy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "focus on product"
+        ]
+      },
+      "why_kept": "This is the ANCHOR segment as it presents the final, perfectly prepared coffee, representing the 'Result/Transformation' and the immediate satisfaction of the 'Product Interaction' within the 'Morning_Routine' context."
+    },
+    {
+      "start_time": "00:14.518",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Human_Interaction",
+        "Morning_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman sipping coffee",
+        "slight smile",
+        "eyeglasses",
+        "enjoyment"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "authentic reaction"
+        ]
+      },
+      "why_kept": "This segment captures the 'Emotional Climax' and 'Face_Reaction' as the woman enjoys her coffee, reinforcing the positive experience."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Gym\\Weird\\ssstik.io_@extremeofficial_1763102613218.mp4",
+  "detailed_description": "This video captures a high-energy group workout session inside a gym, focusing on intense physical training. Several men are shown performing challenging exercises, including running on curved treadmills, executing dynamic movements like handstands and resistance band running, and performing pull-ups. The atmosphere is highly motivational, emphasizing raw effort and athleticism. The continuous display of these rigorous activities showcases the dedication and power of the participants.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.390",
+      "structural_tags": [
+        "Visual_Hook",
+        "Process_Labor",
+        "Product_Interaction",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Gym",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "men working out",
+        "treadmills",
+        "running",
+        "medicine balls",
+        "handstands",
+        "pull-ups",
+        "fitness",
+        "gym",
+        "intense exercise",
+        "athletic"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "inspiring"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "fast-paced",
+          "dynamic editing",
+          "athletic focus",
+          "strong lighting"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it continuously demonstrates intense physical activity, embodying the 'Process/Labor' hero moment from start to finish. There are no setup frames, dead air, or non-action elements, perfectly aligning with the 'No-Mistake' rule. The video effectively showcases product interaction with the treadmills and medicine balls, alongside the high-energy and athleticism of the participants, making every second essential to the core message."
+    }
+  ]
+}

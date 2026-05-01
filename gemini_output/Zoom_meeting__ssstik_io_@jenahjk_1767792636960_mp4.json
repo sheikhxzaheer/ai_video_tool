@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Zoom meeting\\ssstik.io_@jenahjk_1767792636960.mp4",
+  "detailed_description": "The video presents a static view of a laptop screen displaying a multi-participant virtual meeting hosted on Zoom. The screen shows a grid of attendees, some with names and titles like 'Cr Elwyn Andr', 'Cr Mike Pettit', and 'Manager Strat', alongside a 'Waapa' district council logo, suggesting an official meeting. A hand briefly enters the frame twice to point at specific individuals on the screen, indicating active engagement or discussion within the virtual conference. This clip captures a common scenario of remote work and digital collaboration.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.660",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "laptop",
+        "Zoom meeting",
+        "participants",
+        "grid view",
+        "hand",
+        "pointing",
+        "Waapa logo"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "static shot",
+          "screen capture",
+          "virtual meeting"
+        ]
+      },
+      "why_kept": "The entire video consistently showcases the core subject: a Zoom virtual meeting being displayed on a laptop. The brief moments of a hand pointing at the screen represent direct human interaction with the digital product (the Zoom interface), reinforcing the theme of engagement and collaboration within the meeting. As the continuous display of the virtual meeting is the main 'action' and 'value' of the video, the full duration serves as the semantic core without significant dead air or irrelevant content."
+    }
+  ]
+}

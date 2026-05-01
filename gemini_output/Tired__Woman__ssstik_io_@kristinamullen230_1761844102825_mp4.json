@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Tired\\Woman\\ssstik.io_@kristinamullen230_1761844102825.mp4",
+  "detailed_description": "The video opens with a woman lying on a couch, appearing tired or bored. As the music begins to build, she transitions from a relaxed state to sitting up with a sudden burst of energy. She then springs up from the couch, adopting a wide stance and shouting with an expression of intense exhilaration and high energy. The sequence captures a dynamic shift from lethargy to excitement, emphasizing an emotional climax through her physical actions and facial expressions in a home setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.637",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Positive_Emotion",
+        "High_Energy",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "couch",
+        "sitting up",
+        "standing up",
+        "shouting",
+        "energetic",
+        "kitchen background",
+        "living room"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "casual home setting",
+          "continuous shot"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating a clear emotional climax and transformation from a tired/bored 'problem state' to a highly energetic and positive 'face reaction'. The continuous action and expression of rising energy are central to the video's message, with no setup or post-action dead air to trim."
+    }
+  ]
+}

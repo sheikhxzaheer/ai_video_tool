@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Dog anxiety\\Separation Anxiety 4.mov",
+  "detailed_description": "This video intimately captures a heartwarming moment between a woman and her husky. The husky is seen lying comfortably on its back, visibly enjoying gentle belly and chest rubs from the woman. The dog's happy panting and the woman's soft interaction convey a strong bond and positive emotion. The unique, inverted camera perspective offers an engaging and fresh view of this affectionate pet-owner dynamic, highlighting the dog's contented reaction to being pampered.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:18.916",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "husky",
+        "dog",
+        "petting",
+        "belly rub",
+        "happy dog",
+        "living room"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "inverted perspective",
+          "pet interaction",
+          "cozy home",
+          "affectionate"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, showcasing the affectionate and continuous interaction between the woman and her husky. It perfectly demonstrates the 'Process/Labor' of petting and the 'Emotional Climax' through the dog's happy expression and the woman's gentle demeanor. No trimming was necessary as the action is continuous from start to finish."
+    }
+  ]
+}

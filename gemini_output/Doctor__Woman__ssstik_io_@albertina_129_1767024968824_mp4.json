@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Woman\\ssstik.io_@albertina.129_1767024968824.mp4",
+  "detailed_description": "This video captures a healthcare professional, dressed in scrubs and a lab coat, walking purposefully towards the emergency entrance of a Maimonides hospital. She is seen initially talking on a phone, then putting it away before accessing the entrance. The segment showcases her arrival at her workplace, highlighting a typical 'process' in her professional life, leading her to enter the Adult & Pediatric Trauma Center.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.825",
+      "structural_tags": [
+        "Lifestyle_Active",
+        "Workspace_Office",
+        "Travel_Transit",
+        "Behind_The_Scenes",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "scrubs",
+        "lab coat",
+        "walking",
+        "hospital",
+        "emergency room",
+        "sliding doors",
+        "sidewalk",
+        "Maimonides trailer"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "street",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "purposeful",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "daylight",
+          "natural lighting",
+          "clear view"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it constitutes the core action of the video: a healthcare professional arriving at her workplace and entering the emergency room. It demonstrates 'the process/labor' of her role, from her walk to her entry, without any setup or dead air."
+    }
+  ]
+}

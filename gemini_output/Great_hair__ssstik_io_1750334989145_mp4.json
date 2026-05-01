@@ -1,0 +1,128 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1750334989145.mp4",
+  "detailed_description": "This video features a man with curly grey hair and glasses sharing his morning reflections on the importance of kindness and understanding in daily life, citing common frustrations like road rage and grocery store upsets. He emphasizes the need for empathy towards others, who might be having a difficult day. The video then transitions to his morning ritual of making espresso, showcasing the coffee being poured. He concludes by smiling and reiterating the theme of 'thoughts and coffee', encapsulating a moment of calm reflection coupled with a daily routine.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:44.200",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Problem_State",
+        "Negative_Emotion",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Morning_Routine",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "speaking",
+        "curly grey hair",
+        "glasses",
+        "white polo shirt",
+        "gesturing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "thoughtful",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment is kept as the primary ANCHOR because it establishes the 'thoughts' aspect of the video's core theme, delivering key information and the speaker's main reflective point about societal kindness and empathy. It sets the overarching context for the video."
+    },
+    {
+      "start_time": "00:49.000",
+      "end_time": "00:52.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Macro_Detail",
+        "Aesthetic_Broll",
+        "Home_Kitchen",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "espresso machine",
+        "coffee pouring",
+        "green mug",
+        "espresso"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "focused shot",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment visually represents the 'coffee' part of the video's theme, showcasing the product interaction and the process of making espresso. It serves as essential BROLL supporting the main narrative."
+    },
+    {
+      "start_time": "00:53.600",
+      "end_time": "00:57.000",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Morning_Routine",
+        "Key_Information",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "smiling",
+        "speaking",
+        "curly grey hair",
+        "glasses"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "content"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment provides an 'Emotional Climax' and a concluding piece of 'Key Information', reinforcing the video's dual theme of 'Thoughts and Coffee' with a positive and satisfied facial expression, summarizing the overall message."
+    }
+  ]
+}

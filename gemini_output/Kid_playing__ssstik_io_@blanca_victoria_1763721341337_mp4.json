@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid playing\\ssstik.io_@blanca_victoria_1763721341337.mp4",
+  "detailed_description": "This video captures a young blonde child, dressed in pink, joyfully playing on a trampoline outdoors. The child demonstrates various ways of interacting with the trampoline, including squatting, jumping, and sitting down, all while maintaining a playful and energetic demeanor. The full duration of the video showcases continuous activity, highlighting the child's active engagement with the play equipment in a bright, natural setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:17.380",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "child",
+        "jumping",
+        "trampoline",
+        "pink clothes",
+        "pigtails",
+        "outdoor play"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright daylight",
+          "natural lighting",
+          "steady camera"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, showcasing the continuous, joyful interaction of a child playing on a trampoline. It effectively captures the high-energy activity and positive emotion without any setup, dead air, or irrelevant footage, fulfilling the 'no-mistake' rule as the complete hero moment."
+    }
+  ]
+}

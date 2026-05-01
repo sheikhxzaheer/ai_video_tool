@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\CNWM_NyejaSeltsam_08_Application 3.mov",
+  "detailed_description": "A woman, wearing a pink headband and a Hello Kitty sweatshirt, is captured in a close-up as she meticulously applies a clear gel-like facial product to her cheek and jawline using a silicone brush. The video focuses on the precise application, showcasing a calm and focused skincare routine.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.024",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Morning_Routine",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying product",
+        "silicone brush",
+        "face",
+        "gel",
+        "skincare",
+        "headband",
+        "nose piercing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean aesthetic",
+          "skincare routine"
+        ]
+      },
+      "why_kept": "This entire segment is the Semantic Core as it directly demonstrates the product interaction and the process of applying a facial product, which is the primary and continuous action of the video. There is no setup or dead air to trim."
+    }
+  ]
+}

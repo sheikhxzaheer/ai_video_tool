@@ -1,0 +1,144 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold Before_After\\ssstik.io_@teamterryofficial_1772996151961.mp4",
+  "detailed_description": "The core meaning of this video is to demonstrate the effectiveness of a wall mold remover product. It visually presents a heavily mold-infested bathroom corner, followed by the application of the spray. The product is directly applied to the affected area, showcasing its mechanism of action. The video then highlights a dramatic 'Before and After' comparison, emphasizing the complete eradication of the mold. Finally, the product itself is featured, identifying the solution used for this impressive cleaning transformation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.233",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "Hand",
+        "spray bottle",
+        "mold remover",
+        "mold",
+        "ceiling corner",
+        "tiled wall"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct application",
+          "focused action",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment demonstrates the direct application of the mold remover to the affected area, showcasing the product's mechanism of action in tackling the problem."
+    },
+    {
+      "start_time": "00:13.633",
+      "end_time": "00:16.633",
+      "structural_tags": [
+        "Before_After",
+        "Problem_State",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "Mold",
+        "ceiling corner",
+        "tiled wall",
+        "Before text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "clear contrast setup",
+          "documentary style",
+          "text overlay"
+        ]
+      },
+      "why_kept": "Clearly establishes the 'Before' state with visible mold, setting up the dramatic transformation facilitated by the product."
+    },
+    {
+      "start_time": "00:17.066",
+      "end_time": "00:19.833",
+      "structural_tags": [
+        "Before_After",
+        "Result_Transformation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "Clean ceiling",
+        "tiled wall",
+        "After text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "clean result",
+          "high contrast",
+          "text overlay"
+        ]
+      },
+      "why_kept": "This is the core 'reveal' segment, showcasing the product's complete and effective removal of mold, representing the successful outcome and primary value proposition."
+    },
+    {
+      "start_time": "00:20.766",
+      "end_time": "00:23.633",
+      "structural_tags": [
+        "Product_Standalone",
+        "Product_Intro"
+      ],
+      "visual_keywords": [
+        "Wall mold remover spray bottle",
+        "product label",
+        "cleaning solution"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean product shot",
+          "branding focus",
+          "informational"
+        ]
+      },
+      "why_kept": "Identifies the specific product responsible for the dramatic mold removal, providing crucial brand and product information."
+    }
+  ]
+}

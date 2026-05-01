@@ -1,0 +1,178 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Under-Eye Bag Before_After\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ð╝ðÁÐêð║ð© ð┐ð¥ð┤ ð│ð╗ð░ðÀð░ð╝ð©.mp4",
+  "detailed_description": "The video showcases the immediate anti-aging effects of Peter Thomas Roth's \"Instant Firm Temporary Eye Tightener.\" The creator demonstrates the product by applying it to one eye, which visibly tightens and reduces dark circles in real-time with the aid of a blow dryer. She highlights its benefits for eye bags, dark circles, eleven lines, and crow's feet, enthusiastically endorsing it as her \"secret weapon.\" The video concludes with her fully made-up face, emphasizing the dramatic and lasting improvement, and includes a call to action for viewers.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.300",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "eye bag",
+        "dark circles",
+        "pointing finger",
+        "before shot"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment establishes the problem (eye bags and dark circles) that the product aims to solve, providing a clear 'before' visual hook."
+    },
+    {
+      "start_time": "00:03.200",
+      "end_time": "00:05.900",
+      "structural_tags": [
+        "Product_Intro",
+        "Social_Proof",
+        "Key_Information",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "holding product",
+        "Peter Thomas Roth eye tightener",
+        "smiling",
+        "pointing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "neutral lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "Introduces the product by name and highlights its core benefit ('look 10 years younger'), setting the context for the demonstration. One eye already appears tightened."
+    },
+    {
+      "start_time": "00:07.700",
+      "end_time": "00:13.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Process_Labor",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "applying cream",
+        "finger",
+        "under eye area",
+        "eye bag"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "neutral lighting",
+          "focused application"
+        ]
+      },
+      "why_kept": "This segment shows the practical application of the product, detailing the 'process/labor' of how to use it on the target area (the untreated eye)."
+    },
+    {
+      "start_time": "00:19.000",
+      "end_time": "00:36.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Mechanism_Of_Action",
+        "High_Energy",
+        "Face_Reaction",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "eye tightening",
+        "dark circle reduction",
+        "blow dryer",
+        "facial expression",
+        "real-time change"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "shock"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "neutral lighting",
+          "dynamic action"
+        ]
+      },
+      "why_kept": "This is the core 'hero moment,' showcasing the dramatic, real-time transformation as the eye bag and dark circle visibly diminish due to the product and blow dryer, fulfilling the 'reveal/result' and 'mechanism of action' criteria vividly."
+    },
+    {
+      "start_time": "00:51.000",
+      "end_time": "00:59.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Intro",
+        "Offer_CTA",
+        "Key_Information",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "makeup done",
+        "eye bags gone",
+        "dark circles gone",
+        "holding product",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "neutral lighting",
+          "confident pose"
+        ]
+      },
+      "why_kept": "This segment presents the final, polished result with makeup applied, reinforcing the product's effectiveness and concluding with a clear call to action (Offer_CTA) for viewers."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Couple\\Angry\\ssstik.io_@ilias_jessica_1757428718789┬áÔÇö ð║ð¥ð┐ð©ÐÅ.mp4",
+  "detailed_description": "This video captures a heartwarming moment between a couple sharing a meal in their kitchen. They are seen playfully feeding each other pizza-like snacks, laughing, and exchanging affectionate gestures. The scene highlights their loving bond and the joy of simple, shared moments, culminating in a tender kiss. It's a sweet portrayal of domestic intimacy and connection.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.728",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Home_Kitchen",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "couple",
+        "eating",
+        "sharing food",
+        "pizza",
+        "laughing",
+        "kissing",
+        "affectionate gesture",
+        "kitchen table"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "cozy lighting",
+          "natural camera angle"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the semantic core because it directly demonstrates the key emotional interaction and activity. It begins immediately with the couple eating and interacting playfully, builds to a shared laugh and a kiss, and ends shortly after. There is no setup, dead air, or irrelevant footage, making the whole duration a continuous 'Hero Moment' of their affectionate shared meal."
+    }
+  ]
+}

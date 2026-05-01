@@ -1,0 +1,116 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Makeup\\ssstik.io_@hollzers14_1761844915082.mp4",
+  "detailed_description": "This video showcases a complete 5 AM 'Get Ready With Me' routine, focusing on makeup application and hair styling. The creator, initially appearing sleepy, goes through various steps of her morning beauty regimen, from applying foundation and contour to defining brows and lips. The video culminates in the reveal of her perfectly styled wavy hair, transitioning from rollers to a voluminous look. Despite achieving a polished appearance, the creator ends with a final yawn, humorously highlighting the early hour and the persistent struggle with morning sleepiness.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:14.600",
+      "structural_tags": [
+        "Morning_Routine",
+        "Product_Interaction",
+        "The_Process_Labor",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "applying foundation",
+        "blending makeup",
+        "contouring",
+        "applying concealer",
+        "brushing eyebrows",
+        "applying mascara",
+        "lining lips",
+        "applying lip gloss",
+        "yawning",
+        "makeup products"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "focused on face"
+        ]
+      },
+      "why_kept": "This segment is the primary action, demonstrating the extensive process of applying makeup from start to finish, including various product interactions and an initial yawn that sets the '5 AM' context."
+    },
+    {
+      "start_time": "00:14.600",
+      "end_time": "00:21.966",
+      "structural_tags": [
+        "Morning_Routine",
+        "The_Process_Labor",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "removing hair rollers",
+        "shaking out hair",
+        "wavy hair",
+        "styled hair",
+        "smiling",
+        "kissy face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "hair reveal",
+          "voluminous hair"
+        ]
+      },
+      "why_kept": "This segment shows the transformation of the hair, from being in rollers to a fully styled look, acting as a clear 'reveal' and contributing to the overall 'getting ready' narrative. The positive facial expressions mark a moment of satisfaction."
+    },
+    {
+      "start_time": "00:21.966",
+      "end_time": "00:23.233",
+      "structural_tags": [
+        "Morning_Routine",
+        "Emotional_Climax",
+        "Problem_State",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "yawning",
+        "sleepy expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "final shot",
+          "relatable humor"
+        ]
+      },
+      "why_kept": "This final yawn is an emotional climax that perfectly encapsulates the '5 AM WAKEUP MAKEUP' theme, reinforcing the relatable struggle of being sleepy despite being fully ready."
+    }
+  ]
+}

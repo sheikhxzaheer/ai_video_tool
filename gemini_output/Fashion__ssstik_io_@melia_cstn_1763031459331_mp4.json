@@ -1,0 +1,120 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Fashion\\ssstik.io_@melia.cstn_1763031459331.mp4",
+  "detailed_description": "The video showcases a highly elaborate, intricately embellished gown themed around time, travel, and fantasy, presented on a fashion runway. The dress features a vibrant array of colors, sequins, clock faces, and a train motif, culminating in a striking visual display. The video captures the model's professional presentation, highlighting the dress's intricate details and dynamic movement. It concludes with the grand finale of the fashion show, featuring the showcased gown alongside other unique designs.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "model",
+        "elaborate dress",
+        "colorful sequins",
+        "clock motifs",
+        "train motif",
+        "runway",
+        "dark stage",
+        "sparkle",
+        "detail"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "spotlight lighting",
+          "smooth rotation",
+          "detailed shot"
+        ]
+      },
+      "why_kept": "This segment provides the clearest and most detailed presentation of the highly embellished dress, showing its full design and intricate details as the model rotates, acting as the primary product reveal."
+    },
+    {
+      "start_time": "00:21.000",
+      "end_time": "00:27.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "model walking",
+        "runway",
+        "audience",
+        "colorful dress",
+        "glittering dress",
+        "fashion show"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "runway walk",
+          "audience perspective",
+          "ambient lighting"
+        ]
+      },
+      "why_kept": "This segment shows the dress in movement within the dynamic context of a fashion show, offering a dynamic view from the audience's perspective and complementing the static detailed shots."
+    },
+    {
+      "start_time": "00:41.000",
+      "end_time": "00:45.000",
+      "structural_tags": [
+        "Social_Proof",
+        "Result_Transformation",
+        "High_Energy",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "models",
+        "fashion show finale",
+        "applause",
+        "elaborate gowns",
+        "blue stage backdrop",
+        "group presentation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "positive",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "stage lighting",
+          "group pose",
+          "audience applause"
+        ]
+      },
+      "why_kept": "This segment represents the climax and successful presentation of the entire collection, with the featured dress prominently displayed alongside others, reinforced by the positive audience reaction (applause)."
+    }
+  ]
+}

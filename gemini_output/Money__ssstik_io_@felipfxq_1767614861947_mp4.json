@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Money\\ssstik.io_@felipfxq_1767614861947.mp4",
+  "detailed_description": "This video vividly displays financial abundance, starting with a hand fanning out a thick stack of $100 bills. It quickly transitions to an overhead view of numerous $50 bills meticulously arranged in a circular pattern on a dark surface. In the background, a money counting machine actively processes bills, with its digital display showing increasing counts. The presence of a diamond-encrusted watch on the person's wrist further accentuates the theme of luxury and wealth, showcasing both the physical handling and the sheer volume of cash.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.567",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Product_Standalone",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "money",
+        "cash",
+        "dollar bills",
+        "$100 bills",
+        "$50 bills",
+        "money counting machine",
+        "hand",
+        "diamond watch",
+        "stacks of money",
+        "fanned money",
+        "counting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "dark background",
+          "focused lighting",
+          "slow-motion effect"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by showcasing the 'Process/Labor' of handling money (arranging, counting with a machine) and the 'Reveal/Result' of a substantial amount of cash. The initial visual hook of fanned $100 bills and the subsequent organized display of $50 bills, coupled with the active money counter, continuously delivers the core message of wealth and its handling without any extraneous footage."
+    }
+  ]
+}

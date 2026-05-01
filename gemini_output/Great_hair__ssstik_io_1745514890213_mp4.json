@@ -1,0 +1,229 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1745514890213.mp4",
+  "detailed_description": "This video documents a 40-year-old single dad's journey to get a fresh haircut. It begins by showcasing his long, grown-out hair, establishing the need for the transformation. The core of the video captures the haircutting process, including a relaxing hair wash, precise trimming with clippers by his stylist Dario, and final blow-drying and styling. The interactions between the client and stylist are notably friendly and engaging, adding a positive emotional layer. The video culminates in a satisfying reveal of the man's new, stylish haircut, highlighting the successful transformation and his happy reaction.",
+  "segments": [
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:09.500",
+      "structural_tags": [
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man touching hair",
+        "long hair",
+        "salon interior"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "casual wear"
+        ]
+      },
+      "why_kept": "This segment effectively establishes the 'before' state of the hair, visually demonstrating the 'problem state' and setting the context for the upcoming haircut."
+    },
+    {
+      "start_time": "00:10.500",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "hair washing",
+        "shampoo",
+        "man smiling",
+        "barber's hands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "Shows a key initial step of the haircutting process, contributing to the 'Process/Labor' aspect and highlighting a positive, relaxing experience."
+    },
+    {
+      "start_time": "00:12.700",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "hair trimming",
+        "clippers",
+        "barber working",
+        "man smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment captures the active 'Process/Labor' of the haircut, with the stylist visibly working and the client showing positive engagement, serving as a core action point."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:17.500",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "man laughing",
+        "barber smiling",
+        "friendly interaction"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "Highlights the enjoyable atmosphere and positive emotional connection between the client and stylist, reinforcing the 'human interaction' aspect of the service."
+    },
+    {
+      "start_time": "00:18.000",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "hair cutting",
+        "clippers",
+        "comb",
+        "forehead"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "Provides a close-up view of the haircutting technique, adding detail to the 'Process/Labor' demonstration."
+    },
+    {
+      "start_time": "00:22.000",
+      "end_time": "00:23.000",
+      "structural_tags": [
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "blow dryer",
+        "hair styling",
+        "man smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "Illustrates the final styling step of the haircut, completing the 'Process/Labor' narrative."
+    },
+    {
+      "start_time": "00:23.500",
+      "end_time": "00:33.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "new haircut",
+        "styled hair",
+        "man smiling",
+        "looking at camera"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "happy",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "fresh look"
+        ]
+      },
+      "why_kept": "This segment is the ultimate 'reveal', showcasing the successful 'Result_Transformation' of the haircut and the client's clear 'Positive_Emotion' and satisfaction, which is a crucial hero moment."
+    }
+  ]
+}

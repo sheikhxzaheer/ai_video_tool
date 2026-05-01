@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\NFTWhale4.mp4",
+  "detailed_description": "A man confidently presents a bottle of MoldMD Mold Spot Remover in a home kitchen setting. He smiles and gives a thumbs-up, showcasing positive approval for the product. He deliberately rotates the bottle, allowing viewers to see both the front and back labels, highlighting key features and usage information without speaking. The overall impression is one of satisfaction and endorsement for the mold and mildew cleaner.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:36.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man",
+        "smiling",
+        "thumbs-up",
+        "mold spot remover",
+        "spray bottle",
+        "kitchen counter"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct presentation",
+          "static shot"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core. The man is actively introducing and interacting with the product, showing its packaging and expressing positive emotion through smiles and thumbs-up. There is no setup, calibration, dead air, or spoken dialogue without product interaction, making the whole duration a continuous hero moment for product presentation and endorsement."
+    }
+  ]
+}

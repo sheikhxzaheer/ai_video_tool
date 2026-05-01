@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Couple\\Angry\\ssstik.io_@stonermonkey4207_1772473754777.mp4",
+  "detailed_description": "The video captures a highly intense and emotionally charged argument between a man and a woman in a bright living room. The dispute escalates with the woman accusing the man of infidelity. In a shocking retort, the man confesses to having slept with her father, which the woman immediately counters by revealing she slept with his sister. The segment is the core emotional climax, showcasing strong negative emotions and a dramatic exchange of unexpected personal confessions.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.720",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Negative_Emotion",
+        "Human_Interaction",
+        "Face_Reaction",
+        "High_Energy",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "man arguing",
+        "woman yelling",
+        "heated exchange",
+        "living room",
+        "verbal confrontation",
+        "crossed arms",
+        "fists clenched"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "brightly lit",
+          "eye-level shot",
+          "direct address"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core of the video, capturing the complete emotional climax of a dramatic argument. Both individuals display intense negative emotions and facial reactions, delivering surprising and central dialogue that defines the scene. There is no extraneous footage for setup or post-action, adhering to the 'No-Mistake Rule'."
+    }
+  ]
+}

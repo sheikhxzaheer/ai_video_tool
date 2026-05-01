@@ -1,0 +1,112 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ð╝ðÁð╗ð░ðÀð╝ð░ 9.mp4",
+  "detailed_description": "This video vividly demonstrates the impressive results of a fibroblast facelift treatment. It begins by showcasing a 'Before' shot of a woman's face, revealing her initial skin texture, sun damage, and visible wrinkles. The subsequent sequence presents various 'After 1 month healed' views from multiple angles, highlighting a visibly smoother, tighter, and more radiant complexion. The core meaning culminates in a dynamic split-screen comparison, effectively illustrating the significant skin rejuvenation and lifting achieved through the procedure, serving as a clear testament to the treatment's efficacy.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.486",
+      "structural_tags": [
+        "Problem_State",
+        "Before_After",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "skin texture",
+        "wrinkles",
+        "sun spots",
+        "nose ring",
+        "neutral expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "neutral",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment establishes the 'Before' state, crucial for understanding the subsequent transformation and setting up the problem that the fibroblast facelift addresses."
+    },
+    {
+      "start_time": "00:03.486",
+      "end_time": "00:13.564",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "smoother skin",
+        "tighter jawline",
+        "radiant complexion",
+        "reduced wrinkles",
+        "nose ring",
+        "neutral expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "various angles"
+        ]
+      },
+      "why_kept": "This segment demonstrates the 'After' results from multiple angles, providing a comprehensive view of the improved skin texture, tightness, and overall rejuvenation, serving as a detailed visual outcome."
+    },
+    {
+      "start_time": "00:13.564",
+      "end_time": "00:21.050",
+      "structural_tags": [
+        "Before_After",
+        "Split_Screen",
+        "Result_Transformation",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "side-by-side comparison",
+        "skin improvement",
+        "moving split line",
+        "fibroblast facelift"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "impactful",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dynamic comparison",
+          "clear visual contrast"
+        ]
+      },
+      "why_kept": "This segment is the ultimate 'Hero Moment' as it directly compares the 'Before' and 'After' states using a split-screen effect. This visual technique provides the most compelling and undeniable evidence of the fibroblast facelift's effectiveness, making it the core demonstration of value and expertise."
+    }
+  ]
+}

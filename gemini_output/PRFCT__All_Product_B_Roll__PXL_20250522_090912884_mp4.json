@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250522_090912884.mp4",
+  "detailed_description": "This video showcases a product pouch, labeled 'TANGERINE PULSE,' floating gracefully on the surface of crystal-clear water. The serene outdoor setting, with visible ripples and reflections on the water, creates an aesthetic and tranquil visual. The product is presented in a natural environment, subtly associating it with an active or refreshing lifestyle. It's a clean, direct visual introduction to the product within its intended user context.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.096",
+      "structural_tags": [
+        "Product_Standalone",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "product pouch",
+        "clear water",
+        "floating",
+        "water ripples",
+        "outdoor"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "lifestyle"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clear water reflections",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by clearly presenting the product 'TANGERINE PULSE' floating in an appealing, natural water environment. It effectively introduces the product in a lifestyle context, aligning with the 'Product Interaction' (product interacting with its environment) and 'Product Standalone' hero moment criteria. No trimming was applied as the video starts and ends precisely with the intended action, adhering to the 'No-Mistake' rule."
+    }
+  ]
+}

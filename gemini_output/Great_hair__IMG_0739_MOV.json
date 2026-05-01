@@ -1,0 +1,345 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\IMG_0739.MOV",
+  "detailed_description": "This video provides a step-by-step guide on creating a classic gentleman's hairstyle. It begins by showcasing the desired end result as a visual hook, then transitions to the 'before' state with wet, unstyled hair. The process involves towel drying, brushing and finger styling, blow-drying with a brush for volume and shape, applying hair clay for hold, combing for refinement, and finally using hairspray to set the style. Each segment demonstrates the specific actions and product interactions needed to achieve the polished look.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "man",
+        "styled hair",
+        "elegant attire",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "premium",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "cinematic lighting",
+          "classic aesthetic",
+          "smooth transition"
+        ]
+      },
+      "why_kept": "This segment acts as a strong visual hook, immediately showcasing the desired end result and setting the context for the tutorial, making it a crucial anchor."
+    },
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:04.700",
+      "structural_tags": [
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "man",
+        "wet hair",
+        "unstyled hair",
+        "hands touching hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "mirror perspective"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the starting 'problem state' (wet, unstyled hair) from which the transformation begins, providing a necessary 'before' shot."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:06.900",
+      "structural_tags": [
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "man",
+        "towel",
+        "drying hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "action-oriented"
+        ]
+      },
+      "why_kept": "Demonstrates the initial step of the hair styling process: towel drying to remove excess moisture."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:15.800",
+      "structural_tags": [
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "man",
+        "brush",
+        "combing wet hair",
+        "finger styling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "detail-oriented",
+          "mirror perspective"
+        ]
+      },
+      "why_kept": "Shows the crucial steps of brushing and preliminary finger styling of the wet hair to create the basic shape and part."
+    },
+    {
+      "start_time": "00:16.100",
+      "end_time": "00:19.400",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "Dyson hairdryer",
+        "attachments",
+        "turning on"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "product focus",
+          "clean presentation"
+        ]
+      },
+      "why_kept": "Introduces the hairdryer product and demonstrates its setup, which is a key tool for the next process step."
+    },
+    {
+      "start_time": "00:19.400",
+      "end_time": "00:27.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "Dyson hairdryer",
+        "brush",
+        "blow-drying hair",
+        "creating volume"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "action shot",
+          "focused effort"
+        ]
+      },
+      "why_kept": "Illustrates the main action of blow-drying the hair, showing how to achieve volume and desired direction with the hairdryer and brush."
+    },
+    {
+      "start_time": "00:28.100",
+      "end_time": "00:32.200",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "Truefitt & Hill clay",
+        "product container",
+        "scooping clay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "product focus",
+          "clean presentation"
+        ]
+      },
+      "why_kept": "Introduces the styling clay and demonstrates the appropriate amount to use, which is essential for the next styling phase."
+    },
+    {
+      "start_time": "00:32.900",
+      "end_time": "00:38.200",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair clay",
+        "rubbing hands",
+        "applying to hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detail-oriented",
+          "focused application"
+        ]
+      },
+      "why_kept": "Shows the correct technique for warming the styling clay and applying it evenly through the hair for hold and texture."
+    },
+    {
+      "start_time": "00:38.200",
+      "end_time": "00:40.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "comb",
+        "combing hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "precision action",
+          "mirror perspective"
+        ]
+      },
+      "why_kept": "Demonstrates the use of a comb to refine the part and overall shape of the hairstyle after product application."
+    },
+    {
+      "start_time": "00:43.000",
+      "end_time": "00:45.000",
+      "structural_tags": [
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "hairspray",
+        "spraying hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "final touch",
+          "product application"
+        ]
+      },
+      "why_kept": "Captures the application of hairspray, indicating the final step to ensure the style holds in place."
+    },
+    {
+      "start_time": "00:46.000",
+      "end_time": "00:50.000",
+      "structural_tags": [
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "man",
+        "styled hair",
+        "classic gentleman's haircut"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean finish",
+          "multiple angles",
+          "mirror perspective"
+        ]
+      },
+      "why_kept": "This segment clearly showcases the finished hairstyle from various angles, serving as the conclusive 'after' shot and successful transformation."
+    }
+  ]
+}

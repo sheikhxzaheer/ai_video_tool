@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid playing\\ssstik.io_@emmaj2322_1763669166091.mp4",
+  "detailed_description": "This video captures a delightful and energetic toddler playing on a bed in a cozy bedroom setting. The toddler, dressed in a pink t-shirt and a patterned diaper, is seen engaging in various movements including standing, sitting, and excitedly jumping on the soft comforter. Throughout the clip, the child maintains a visibly joyful demeanor, frequently smiling and laughing, creating an atmosphere of pure childhood exuberance and fun.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.300",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "toddler",
+        "jumping",
+        "bed",
+        "smiling",
+        "laughing",
+        "pink shirt",
+        "diaper",
+        "bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright natural lighting",
+          "casual home video",
+          "focused on toddler"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the toddler's energetic play (process/labor) and clear positive emotional climax (laughter and smiles) while interacting with the bed. The video's duration perfectly captures the full action and reaction without any extraneous frames, fulfilling the 'no-mistake' rule."
+    }
+  ]
+}

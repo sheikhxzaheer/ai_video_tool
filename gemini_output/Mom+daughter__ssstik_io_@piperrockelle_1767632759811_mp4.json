@@ -1,0 +1,172 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mom+daughter\\ssstik.io_@piperrockelle_1767632759811.mp4",
+  "detailed_description": "This video captures a granddaughter's Christmas surprise for her grandma, showcasing a full spectrum of emotions. It begins with a prank where the grandma receives joke gifts of dog hair and poop, leading to an initial outburst of frustration about her demanding work. The prank then transitions into a heartfelt reveal: the granddaughter announces she will retire her grandma. This leads to an emotional climax as the grandma, overwhelmed with happiness and gratitude, breaks down in tears and shares a warm embrace with her granddaughter.",
+  "segments": [
+    {
+      "start_time": "00:07.035",
+      "end_time": "00:12.750",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "grandma opening gift bag",
+        "dog hair",
+        "dog poop bag",
+        "grandma reacting with disgust",
+        "granddaughter smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home_kitchen"
+        ],
+        "mood": [
+          "playful",
+          "shock_surprise"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual setting"
+        ]
+      },
+      "why_kept": "This segment captures the initial prank, demonstrating the immediate, strong negative emotional reaction from the grandma, which is crucial for setting up the contrast with the later positive reveal."
+    },
+    {
+      "start_time": "00:12.750",
+      "end_time": "00:23.750",
+      "structural_tags": [
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Problem_State",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "grandma complaining",
+        "grandma pointing finger",
+        "granddaughter listening"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home_kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "serious",
+          "frustrated"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address",
+          "expressive gestures"
+        ]
+      },
+      "why_kept": "This segment vividly portrays the grandma's 'Problem_State' by articulating her daily struggles and dislike for dog-related chores, which grounds the subsequent gift's significance."
+    },
+    {
+      "start_time": "00:29.800",
+      "end_time": "00:30.800",
+      "structural_tags": [
+        "Key_Information",
+        "Product_Intro",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "granddaughter speaking",
+        "grandma listening"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home_kitchen"
+        ],
+        "mood": [
+          "serious",
+          "anticipatory"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clear communication"
+        ]
+      },
+      "why_kept": "This is the precise moment the actual gift—the promise of retirement—is verbally revealed, marking the pivotal turning point in the video's narrative."
+    },
+    {
+      "start_time": "00:35.400",
+      "end_time": "00:43.700",
+      "structural_tags": [
+        "Key_Information",
+        "Human_Interaction",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "granddaughter explaining",
+        "grandma listening intently"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home_kitchen"
+        ],
+        "mood": [
+          "calm",
+          "serious",
+          "empathetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "personal dialogue",
+          "empathetic tone"
+        ]
+      },
+      "why_kept": "This segment provides crucial context and justification for the gift, explaining the granddaughter's motivation and highlighting the grandma's hard work and pain, which amplifies the emotional impact of the subsequent scene."
+    },
+    {
+      "start_time": "00:43.700",
+      "end_time": "00:58.980",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Shock_Surprise",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "grandma crying",
+        "grandma embracing granddaughter",
+        "granddaughter smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home_kitchen"
+        ],
+        "mood": [
+          "emotional",
+          "joyful",
+          "loving"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "authentic emotion",
+          "close embrace",
+          "tearful reaction"
+        ]
+      },
+      "why_kept": "This is the ultimate 'Emotional_Climax' and 'Result_Transformation' of the video, showing the grandma's overwhelming happiness and gratitude through tears and an embrace, directly fulfilling the video's premise."
+    }
+  ]
+}

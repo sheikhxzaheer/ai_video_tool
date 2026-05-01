@@ -1,0 +1,162 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid sleep\\ssstik.io_@yanalonaa_1763719768615.mp4",
+  "detailed_description": "This video showcases Ayash's complete bedtime routine, beginning with the child entering the bedroom and climbing into bed. It then details the soothing steps of drinking milk, cuddling a favorite panda plush, and turning on a comforting night light. The routine concludes with the parent leaving the room and a final shot confirming Ayash is peacefully asleep, demonstrating the successful execution of the bedtime process.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Night_Routine",
+        "Human_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "child walking",
+        "child climbing bed",
+        "bedroom",
+        "bear rug"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment introduces Ayash and the concept of the bedtime routine, showing the initial actions of entering the room and getting onto the bed, effectively setting the scene."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:13.500",
+      "structural_tags": [
+        "Night_Routine",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "child drinking milk",
+        "milk bottle",
+        "panda plush toy",
+        "cuddling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment demonstrates key product interactions (milk bottle, panda plush) and the soothing activities that are part of the bedtime preparation."
+    },
+    {
+      "start_time": "00:13.500",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Night_Routine",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "night light",
+        "hand turning on light",
+        "bedside table"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "changing light color"
+        ]
+      },
+      "why_kept": "This clip shows another specific step in the bedtime routine – activating the night light, which contributes to creating a sleep-conducive environment."
+    },
+    {
+      "start_time": "00:20.500",
+      "end_time": "00:26.000",
+      "structural_tags": [
+        "Night_Routine",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "dim room",
+        "child settling",
+        "parent's hand",
+        "bye-bye gesture"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "room dimming"
+        ]
+      },
+      "why_kept": "This segment marks the conclusion of the active parental involvement in the routine, showing the room darkening and the 'bye-bye' gesture, indicating the child is left to sleep."
+    },
+    {
+      "start_time": "00:26.000",
+      "end_time": "00:36.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Calm_Relaxation",
+        "Night_Routine",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "child sleeping",
+        "dark room",
+        "panda plush",
+        "sleeping emojis"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "low light",
+          "peaceful scene"
+        ]
+      },
+      "why_kept": "This segment reveals the successful outcome of the entire bedtime routine, showing Ayash sleeping soundly after 15 minutes, which is the ultimate 'reveal' and emotional climax of the video."
+    }
+  ]
+}

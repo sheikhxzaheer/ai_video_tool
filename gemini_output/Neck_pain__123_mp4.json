@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Neck pain\\123.mp4",
+  "detailed_description": "The video captures a young woman experiencing significant discomfort and pain while working at a desk. She is seen massaging her shoulder and clutching her lower back, with text overlays explicitly stating her back is 'killing' her from being 'at this desk all day.' This segment vividly portrays a common problem state associated with prolonged sedentary work, emphasizing physical strain and negative emotion.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.152",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman",
+        "desk",
+        "laptop",
+        "back pain",
+        "shoulder pain",
+        "massaging",
+        "discomfort",
+        "apartment",
+        "kitchen"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "serious",
+          "relatable",
+          "negative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "casual setting"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, effectively demonstrating a 'Problem_State' through the woman's clear facial expressions of discomfort, her body language (massaging her back and shoulder), and the reinforcing text overlay. It perfectly captures the 'Emotional Climax' of frustration and pain from prolonged desk work."
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cooking\\Woman\\ssstik.io_@pinkcoconutt_1774434661932.mp4",
+  "detailed_description": "This video captures the essence of a 'clean girl breakfast' routine, demonstrating the meticulous preparation of a wholesome meal. It showcases the step-by-step process of poaching an egg, assembling an avocado toast with fresh greens, and carefully plating it alongside cottage cheese, vibrant fruits, and nuts. Concurrently, the video illustrates the creation of a refreshing matcha latte. The culmination is a beautifully arranged breakfast on a bed tray, highlighting the aesthetic and healthy lifestyle, with a satisfying close-up of a perfectly runny egg yolk.",
+  "segments": [
+    {
+      "start_time": "00:00:02.267",
+      "end_time": "00:00:06.900",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Home_Kitchen",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "water",
+        "pot",
+        "induction hob",
+        "egg",
+        "small bowl",
+        "cracking egg",
+        "poaching"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "cooking process"
+        ]
+      },
+      "why_kept": "This segment initiates the breakfast preparation, focusing on the core cooking skill of poaching an egg, which is a key component of the dish."
+    },
+    {
+      "start_time": "00:00:07.434",
+      "end_time": "00:00:12.434",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Home_Kitchen",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "bread",
+        "cutting board",
+        "cream cheese",
+        "arugula",
+        "avocado",
+        "knife",
+        "poached egg",
+        "seasoning"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "food assembly"
+        ]
+      },
+      "why_kept": "This section demonstrates the active assembly of the avocado toast, showcasing the 'doing the work' aspect of creating the main breakfast item."
+    },
+    {
+      "start_time": "00:00:13.600",
+      "end_time": "00:00:17.334",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation",
+        "Home_Kitchen",
+        "Morning_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "plate",
+        "toast",
+        "cottage cheese",
+        "cherry tomatoes",
+        "blueberries",
+        "kiwi",
+        "mango",
+        "walnuts",
+        "food plating"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "colorful food",
+          "neat arrangement",
+          "clean plating"
+        ]
+      },
+      "why_kept": "This segment illustrates the careful and aesthetic plating of the entire meal, transforming individual components into a complete, visually appealing breakfast spread."
+    },
+    {
+      "start_time": "00:00:17.667",
+      "end_time": "00:00:23.167",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Home_Kitchen",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "matcha powder",
+        "bowl",
+        "water",
+        "whisk",
+        "ice",
+        "glass",
+        "milk",
+        "pouring",
+        "stirring"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "beverage preparation",
+          "vibrant green color",
+          "smooth blending"
+        ]
+      },
+      "why_kept": "This segment details the distinct process of preparing the matcha latte, emphasizing another key element of the described 'clean girl breakfast' and its associated lifestyle."
+    },
+    {
+      "start_time": "00:00:23.167",
+      "end_time": "00:00:25.067",
+      "structural_tags": [
+        "Result_Transformation",
+        "Aesthetic_Broll",
+        "Macro_Detail",
+        "Emotional_Climax",
+        "Lifestyle_Active",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "bed tray",
+        "laptop",
+        "breakfast plate",
+        "matcha latte",
+        "poached egg",
+        "fork",
+        "runny yolk"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "cozy bedroom setting",
+          "satisfying food reveal",
+          "close-up detail",
+          "lifestyle shot"
+        ]
+      },
+      "why_kept": "This segment serves as the grand reveal of the finished breakfast in a lifestyle setting, culminating in the satisfying visual of cutting into the perfectly cooked poached egg with a runny yolk, which is a strong emotional climax and visual hook."
+    }
+  ]
+}

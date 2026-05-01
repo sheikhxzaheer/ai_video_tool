@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\Hair growth animation 4┬áÔÇö ð║ð¥ð┐ð©ÐÅ.mp4",
+  "detailed_description": "The video provides a clear 3D animated visualization demonstrating the process of hair growth on a section of skin. It illustrates individual hair strands initially short and sparse, then progressively lengthening and becoming denser over time. This continuous transformation highlights the biological mechanism of hair regeneration, offering a visual representation of how hair follicles mature and produce fuller hair.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.440",
+      "structural_tags": [
+        "Result_Transformation",
+        "Mechanism_Of_Action",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "hair growth",
+        "skin",
+        "hair follicles",
+        "animation",
+        "microscopic view"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "informative",
+          "clear"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "biological process",
+          "smooth transition",
+          "detailed visualization"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by clearly and continuously demonstrating the process of hair growth from short stubble to longer, denser strands. It illustrates a 'before and after' transformation over time, which is the central action and value of the video, thus functioning as the complete hero moment."
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pills\\ssstik.io_1743611545236.mp4",
+  "detailed_description": "This video demonstrates an ingenious DIY project for upcycling discarded pill blister packs and cardboard into an elegant picture frame. The process begins with carefully cutting individual blister sections from used pill packets, followed by constructing a robust frame using hot glue and cardboard. The assembled frame is then painted black and adorned with gold accents on the recycled blister packs, transforming everyday waste into a sophisticated decorative item. The final result is a unique, handmade photo frame that showcases creative sustainability.",
+  "segments": [
+    {
+      "start_time": "00:02.300",
+      "end_time": "00:10.500",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands",
+        "scissors",
+        "pill blister pack",
+        "cutting",
+        "plastic bubbles"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "instructive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This segment initiates the core crafting process by showing the preparation of the unique recycled material (pill blister packs) that will be used for decoration."
+    },
+    {
+      "start_time": "00:17.000",
+      "end_time": "00:41.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "hands",
+        "hot glue gun",
+        "cardboard",
+        "gluing",
+        "frame assembly",
+        "pill blister packs",
+        "decorative elements"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "instructive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This segment shows the primary construction of the picture frame using cardboard and the subsequent attachment of the cut-out pill blister packs, which is a central part of the upcycling process."
+    },
+    {
+      "start_time": "00:41.500",
+      "end_time": "00:59.500",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hands",
+        "paintbrush",
+        "black paint",
+        "gold paint",
+        "cardboard frame",
+        "pill blister packs",
+        "painting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "transformative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This segment is crucial as it demonstrates the aesthetic transformation of the frame through painting, first with black and then with gold accents on the recycled elements, giving it a luxurious finish."
+    },
+    {
+      "start_time": "01:06.000",
+      "end_time": "01:14.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Standalone",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "finished picture frame",
+        "photo",
+        "wooden surface",
+        "decorative item"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "positive",
+          "satisfaction"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "product shot"
+        ]
+      },
+      "why_kept": "This segment presents the final, completed picture frame with a photo inserted, showcasing the successful transformation of discarded materials into a functional and aesthetically pleasing item, serving as the ultimate reveal."
+    }
+  ]
+}

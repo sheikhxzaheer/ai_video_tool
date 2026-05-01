@@ -1,0 +1,159 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_YevheniiaDerevesnikova_poductdemo.mp4",
+  "detailed_description": "This video demonstrates the application and benefits of a Korean beauty collagen night wrapping mask by QUIA. It shows the user applying a clear, gel-like substance to her face with a brush, highlighting its ingredients like collagen, hyaluronic acid, niacinamide, ceramide, and glycerin. The mask dries in 15 minutes, forming a peelable film. The video concludes by showing the satisfying removal of the mask and the resulting soft, firm, and moisturized skin in the morning.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "hands",
+        "gel mask",
+        "peeling mask",
+        "skincare"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment serves as an engaging visual hook, immediately showing the application of the mask and the intriguing peel-off process, hinting at the product's unique mechanism."
+    },
+    {
+      "start_time": "00:04.900",
+      "end_time": "00:11.800",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Ingredient_Highlight",
+        "Product_Interaction",
+        "Macro_Detail",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "product bottle",
+        "gel",
+        "silicone brush",
+        "ingredients text overlay",
+        "face",
+        "application"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up detail",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This segment provides crucial details about the product, showing its texture, key ingredients, and precise application method, educating the viewer on what they are using and how."
+    },
+    {
+      "start_time": "00:11.800",
+      "end_time": "00:15.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Key_Information",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "product tube",
+        "QUIAN logo",
+        "Collagen Night Wrapping Mask",
+        "benefits text overlay",
+        "woman",
+        "smile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "product branding"
+        ]
+      },
+      "why_kept": "This is the ANCHOR segment because it clearly identifies the product by name (QUIA), displays its packaging, and explicitly states its primary benefits (boost collagen, lock moisture), serving as the core value proposition of the video."
+    },
+    {
+      "start_time": "00:15.500",
+      "end_time": "00:20.500",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Social_Proof",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "hands",
+        "peeling mask",
+        "clear film",
+        "woman's face",
+        "smooth skin",
+        "firm skin text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "satisfying",
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up action",
+          "revealing shot"
+        ]
+      },
+      "why_kept": "This final segment effectively showcases the satisfying conclusion of the mask's use, highlighting the transformation to soft and firm skin, providing visual proof of the product's effectiveness and leaving a positive final impression."
+    }
+  ]
+}

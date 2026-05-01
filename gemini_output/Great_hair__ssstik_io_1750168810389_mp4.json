@@ -1,0 +1,214 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1750168810389.mp4",
+  "detailed_description": "The video captures a client's specific requests for a versatile 'chameleon' haircut and a well-defined jawline that integrates seamlessly with his beard, reflecting his personality and confidence as he approaches 50. He explains his past difficulties in achieving this look due to his white beard. The barber acknowledges these detailed preferences, and the video then showcases the successful transformation, culminating in the client's visible satisfaction and compliment towards the barber's technique. The 'before' and 'after' images explicitly highlight the dramatic change in his appearance.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:23.000",
+      "structural_tags": [
+        "Problem_State",
+        "Key_Information",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "man speaking",
+        "barber listening",
+        "hand gestures",
+        "grey hair",
+        "barber cape"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "contemplative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear audio",
+          "good lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the client's initial 'Problem State' and articulates his detailed desires for a versatile haircut that reflects his personality, setting the stage for the transformation."
+    },
+    {
+      "start_time": "00:23.000",
+      "end_time": "00:33.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Intro",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "barber speaking",
+        "client nodding",
+        "barber gesturing on hair",
+        "client speaking"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "collaborative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "barber engagement",
+          "client engagement"
+        ]
+      },
+      "why_kept": "This segment shows the barber understanding the client's request for 'chameleon' hair and the client confirming the need for flexibility, crucial for the transformation's success."
+    },
+    {
+      "start_time": "00:33.000",
+      "end_time": "01:05.000",
+      "structural_tags": [
+        "Problem_State",
+        "Key_Information",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "client speaking",
+        "gesturing to jawline",
+        "barber listening",
+        "white beard"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "reflective"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed explanation",
+          "barber's expertise acknowledged"
+        ]
+      },
+      "why_kept": "This segment elaborates on the client's specific desires for his beard, including a highlighted jawline and a seamless beard-to-hair connection, highlighting his prior difficulties and trust in the barber's skill."
+    },
+    {
+      "start_time": "01:05.000",
+      "end_time": "01:10.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "barber speaking",
+        "client nodding",
+        "barber removing cape"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "anticipatory"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear transition",
+          "shared excitement"
+        ]
+      },
+      "why_kept": "This segment marks the clear transition from discussion to action, with both the barber and client agreeing to proceed with the service."
+    },
+    {
+      "start_time": "01:12.000",
+      "end_time": "01:30.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "UGC_Talking_Head",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "client smiling",
+        "new haircut",
+        "shaped beard",
+        "touching hair",
+        "touching jawline",
+        "barber smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "joyful",
+          "satisfied",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "transformed appearance"
+        ]
+      },
+      "why_kept": "This is the primary 'hero moment,' showcasing the successful transformation of the hair and beard as per the client's requests, his immediate positive reaction, and verbal satisfaction with the outcome."
+    },
+    {
+      "start_time": "01:31.000",
+      "end_time": "01:36.700",
+      "structural_tags": [
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "before image",
+        "after image",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "informative",
+          "impactful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "static images",
+          "text overlay"
+        ]
+      },
+      "why_kept": "This segment explicitly presents the 'before' and 'after' comparison, providing a clear visual representation of the transformation achieved and reinforcing the value of the service."
+    }
+  ]
+}

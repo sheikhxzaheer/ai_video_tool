@@ -1,0 +1,119 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\Use as is - Full usage\\INSTAGRAM_REELS_blugobjj_2025-11-24-UGC (1).mp4",
+  "detailed_description": "The video highlights a man's positive experience with a hydration product called 'Perfect Morning,' designed to combat dehydration during activities like Jiu-Jitsu. He introduces the product, demonstrates the simple process of mixing it into water, and then provides an enthusiastic taste test. The core meaning emphasizes the product's superior taste and effectiveness as an electrolyte drink, resulting in an immediate and highly satisfying user reaction, effectively addressing the common problem of overly salty or unappealing hydration options.",
+  "segments": [
+    {
+      "start_time": "00:10.450",
+      "end_time": "00:16.140",
+      "structural_tags": [
+        "Product_Intro",
+        "UGC_Talking_Head",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "man",
+        "holding product",
+        "talking",
+        "car interior",
+        "sunglasses",
+        "glasses",
+        "bearded"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clear glasses",
+          "casual shirt"
+        ]
+      },
+      "why_kept": "This segment introduces the product clearly, with the subject holding and explaining it. It demonstrates product presence and active human interaction while conveying key information, adhering to the visual priority rule."
+    },
+    {
+      "start_time": "00:16.140",
+      "end_time": "00:21.460",
+      "structural_tags": [
+        "Human_Interaction",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "man",
+        "pouring powder",
+        "shaking bottle",
+        "water bottle",
+        "orange drink"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "neutral",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "action shot"
+        ]
+      },
+      "why_kept": "This segment shows the 'Process/Labor' of preparing the drink, highlighting the ease of product interaction (pouring and shaking). It's a crucial step demonstrating product usage."
+    },
+    {
+      "start_time": "00:21.460",
+      "end_time": "00:40.350",
+      "structural_tags": [
+        "Human_Interaction",
+        "Emotional_Climax",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Result_Transformation",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "man",
+        "drinking",
+        "excited reaction",
+        "facial expression",
+        "smiling",
+        "pointing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "expressive",
+          "dynamic gestures"
+        ]
+      },
+      "why_kept": "This is the 'Emotional Climax' and 'Result Transformation' of the video. The subject's highly positive and energetic reaction after tasting the drink serves as a strong 'Face Reaction' and 'Social Proof' of the product's quality, making it the most impactful 'hero moment'."
+    }
+  ]
+}

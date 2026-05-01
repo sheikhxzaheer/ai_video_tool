@@ -1,0 +1,151 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ð©ðÀð▒ð░ð▓ð╗ÐÅÐÄÐéÐüÐÅ ð¥Ðé ð¥ÐüÐéð░Ðéð║ð¥ð▓ ð▓ð¥ð╗ð¥Ðü.mp4",
+  "detailed_description": "This video captures the unique process of full head and facial waxing at a barbershop. A barber first applies a thick, black peel-off mask over the client's entire head and face. The core of the video demonstrates the meticulous removal of this mask, showcasing its 'Mechanism of Action' as it effectively peels away hair and impurities. The client's positive reaction and the 'Before/After' images highlight the smooth, hairless result and the effectiveness of the treatment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.500",
+      "structural_tags": [
+        "The Process/Labor",
+        "Product_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "barber",
+        "client",
+        "black mask",
+        "pouring mask",
+        "applying mask",
+        "face covered"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "barbershop setting"
+        ]
+      },
+      "why_kept": "This segment shows the final application of the mask, establishing the 'before' state of the mask being fully applied and preparing for the main action."
+    },
+    {
+      "start_time": "00:07.500",
+      "end_time": "00:48.000",
+      "structural_tags": [
+        "The Process/Labor",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "barber",
+        "client",
+        "peeling mask",
+        "black mask",
+        "hair removal",
+        "smooth skin",
+        "face reveal",
+        "head waxing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "detailed action"
+        ]
+      },
+      "why_kept": "This is the core 'hero moment' demonstrating the product's effectiveness and the primary action. It clearly shows the mask being peeled off, revealing the transformed, clean skin and hair removal."
+    },
+    {
+      "start_time": "00:48.000",
+      "end_time": "00:53.500",
+      "structural_tags": [
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "client",
+        "barber",
+        "smiling",
+        "thumbs up",
+        "satisfaction",
+        "clean face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "positive",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "friendly interaction"
+        ]
+      },
+      "why_kept": "This segment captures the immediate positive reaction from the client and barber, serving as crucial social proof and emotional climax, confirming the success of the treatment."
+    },
+    {
+      "start_time": "00:56.000",
+      "end_time": "00:59.000",
+      "structural_tags": [
+        "Before_After",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "client",
+        "head",
+        "stubble",
+        "hair",
+        "bald",
+        "Vorher text"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "neutral"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "static image",
+          "clear comparison"
+        ]
+      },
+      "why_kept": "This 'Before' image is essential for a complete 'Before/After' comparison, visually reinforcing the dramatic transformation achieved by the waxing process."
+    }
+  ]
+}

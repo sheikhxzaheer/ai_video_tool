@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250521_110518111.mp4",
+  "detailed_description": "This video features a 'PRFCT MORNING TANGERINE PULSE' hydration gel pouch prominently displayed next to a shimmering body of water, likely a pool or hot tub, under a bright blue sky. A hand enters the frame to gently splash the water, creating dynamic ripples that catch the light. The scene effectively conveys a sense of refreshing outdoor activity and a vibrant lifestyle, perfectly aligning with the product's likely purpose as a hydration and metabolic activator.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:08.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "PRFCT MORNING TANGERINE PULSE pouch",
+        "water",
+        "splashing",
+        "hand",
+        "outdoor setting",
+        "blue sky",
+        "wooden deck"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "premium",
+          "refreshing"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean aesthetic",
+          "water ripples",
+          "bright and clear"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it visually introduces the product in an appealing lifestyle context. The brief human interaction (hand splashing water) creates dynamism and reinforces the product's association with hydration and active, refreshing mornings. The entire duration showcases the product and its intended environment without any setup or dead air, making it a complete hero moment of product display and subtle interaction."
+    }
+  ]
+}

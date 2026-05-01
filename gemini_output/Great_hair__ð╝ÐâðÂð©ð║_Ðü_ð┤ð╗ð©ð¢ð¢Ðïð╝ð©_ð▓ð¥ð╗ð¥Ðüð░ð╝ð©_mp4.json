@@ -1,0 +1,202 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ð╝ÐâðÂð©ð║ Ðü ð┤ð╗ð©ð¢ð¢Ðïð╝ð© ð▓ð¥ð╗ð¥Ðüð░ð╝ð©.mp4",
+  "detailed_description": "The video showcases a man's hair transformation, starting with a 'before' look of shorter, styled hair, transitioning to him untying and revealing his long, flowing hair. It then introduces a hair growth serum, demonstrating the application process by drawing the serum with a dropper and massaging it into the scalp. The video implies that the serum is responsible for the visible hair growth, concluding with a satisfied look and a final shot of the product. The core message is about achieving longer hair with the help of the featured hair growth serum.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.328",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "man",
+        "car",
+        "sunglasses",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state of the hair, creating a visual contrast for the upcoming transformation and serving as a compelling visual hook for the video's premise."
+    },
+    {
+      "start_time": "00:01.328",
+      "end_time": "00:04.379",
+      "structural_tags": [
+        "Visual_Hook",
+        "Before_After",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "man",
+        "long hair",
+        "ponytail",
+        "untying hair",
+        "shaking hair",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment immediately shows the 'after' state of long hair, creating a powerful 'before/after' comparison that highlights the hair growth journey the video will detail."
+    },
+    {
+      "start_time": "00:04.498",
+      "end_time": "00:05.158",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hair growth serum",
+        "bottle",
+        "logo",
+        "text"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clear focus",
+          "clean background"
+        ]
+      },
+      "why_kept": "This close-up shot introduces the product, making its brand and purpose clear before demonstrating its use."
+    },
+    {
+      "start_time": "00:05.158",
+      "end_time": "00:06.458",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hands",
+        "hair growth serum",
+        "dropper",
+        "opening bottle"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "precise action",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial interaction with the product, showing how it's prepared for application, which is a crucial part of the user experience."
+    },
+    {
+      "start_time": "00:06.458",
+      "end_time": "00:09.958",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "applying serum",
+        "scalp",
+        "massaging hair",
+        "dropper",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct gaze",
+          "clear application",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This is the core 'hero moment' where the product's function is actively demonstrated, showing the user applying the hair growth serum to their scalp and massaging it in, directly illustrating the mechanism of action and interaction. The subject's satisfied expression also conveys a positive emotional climax."
+    },
+    {
+      "start_time": "00:14.378",
+      "end_time": "00:15.228",
+      "structural_tags": [
+        "Product_Standalone",
+        "Product_Intro",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair growth serum",
+        "bottle",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive_emotion",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear product display",
+          "friendly expression"
+        ]
+      },
+      "why_kept": "This segment provides a final, clear shot of the product, reinforcing its presence and serving as a visual call to action for viewers to remember or seek out the specific hair growth serum."
+    }
+  ]
+}

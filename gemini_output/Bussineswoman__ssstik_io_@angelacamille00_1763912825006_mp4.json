@@ -1,0 +1,146 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bussineswoman\\ssstik.io_@angelacamille00_1763912825006.mp4",
+  "detailed_description": "This video captures the essence of a modern, productive, and collaborative office environment. It showcases individuals engaged in focused work on laptops, moments of positive human interaction, and a professional emotional response. The aesthetic backdrop of a well-designed conference room reinforces the premium and dynamic nature of the workspace, highlighting a balanced blend of individual concentration and team synergy.",
+  "segments": [
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink blazer",
+        "thoughtful expression",
+        "hand to mouth",
+        "conference table"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "thoughtful",
+          "engaged"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "professional",
+          "modern office"
+        ]
+      },
+      "why_kept": "This segment captures an emotional climax, showing a clear facial expression of engagement or amusement, which is a key 'Hero Moment' criterion."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "The_Process/Labor",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "man typing",
+        "woman laughing",
+        "laptops",
+        "teamwork",
+        "conference table"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "energetic",
+          "collaborative",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "productive",
+          "team dynamic",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This is the ANCHOR segment as it strongly demonstrates 'The Process/Labor' through active laptop use and 'Human Interaction' with clear 'Positive Emotion' (smiling and laughing), embodying the core activity and mood of the video."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "The_Process/Labor",
+        "Human_Interaction",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "man typing",
+        "laptop",
+        "focused work",
+        "glasses"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "professional",
+          "individual effort"
+        ]
+      },
+      "why_kept": "This segment highlights 'The Process/Labor' by showing a person actively typing and focused on their work, complementing the collaborative ANCHOR shot with individual productivity."
+    },
+    {
+      "start_time": "00:14.000",
+      "end_time": "00:17.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "conference room",
+        "empty chairs",
+        "modern interior",
+        "light fixtures",
+        "glass walls"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "spacious",
+          "minimalist",
+          "high-end design",
+          "bright"
+        ]
+      },
+      "why_kept": "This segment serves as 'Aesthetic_Broll', establishing the modern and premium 'Workspace_Office' environment, which provides crucial context for the activities shown in other segments."
+    }
+  ]
+}

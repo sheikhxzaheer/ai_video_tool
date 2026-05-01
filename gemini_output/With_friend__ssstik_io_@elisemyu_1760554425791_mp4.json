@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\With friend\\ssstik.io_@elisemyu_1760554425791.mp4",
+  "detailed_description": "The video captures a serene nighttime scene where two women are seated on a stone ledge by a river, engaging in a quiet conversation. Illuminated city buildings and streetlights adorn the background, casting a soft glow over the tranquil waters. This moment evokes a sense of calm camaraderie, highlighting a personal connection amidst the urban backdrop after dark. It portrays an intimate, relaxed interaction between friends in a picturesque setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:16.485",
+      "structural_tags": [
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "two women",
+        "talking",
+        "river",
+        "city lights",
+        "night",
+        "sitting on ledge"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "calm",
+          "serene"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "nighttime lighting",
+          "cityscape",
+          "intimate conversation"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, depicting a complete and continuous scene of two individuals engaged in a calm, meaningful interaction in an aesthetically pleasing urban night setting. No trimming was required as the action begins and ends naturally without setup or post-action dead air, adhering to the 'No-Mistake Rule'."
+    }
+  ]
+}

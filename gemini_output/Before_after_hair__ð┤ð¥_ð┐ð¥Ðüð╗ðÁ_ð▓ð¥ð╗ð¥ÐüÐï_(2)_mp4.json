@@ -1,0 +1,90 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ð▓ð¥ð╗ð¥ÐüÐï (2).mp4",
+  "detailed_description": "The video features two different men showcasing confident and somewhat aggressive personas through dynamic facial expressions and gestures, set against a rhythmic hip-hop audio track. The first individual in a white Nike jacket performs with rapid hand movements and varied expressions, reacting to the audio's vocal cues. The second individual, with a distinct mustache and in a white t-shirt, continues the energetic display with smug smiles, winks, and head movements, maintaining strong eye contact with the camera. The core meaning lies in the expressive and engaging performance in sync with the powerful background music.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.740",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "white jacket",
+        "blue eyes",
+        "hand gestures",
+        "pointing",
+        "fist",
+        "smirk",
+        "confident expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dynamic camera movement",
+          "direct gaze",
+          "fast cuts"
+        ]
+      },
+      "why_kept": "This segment establishes the video's dynamic and confident tone through active gestures, varying facial expressions, and direct engagement with the camera, strongly reacting to the impactful audio. It serves as the primary visual hook and performance."
+    },
+    {
+      "start_time": "00:10.740",
+      "end_time": "00:22.040",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "white t-shirt",
+        "mustache",
+        "blue eyes",
+        "smug expression",
+        "winking",
+        "hair touch",
+        "confident gaze"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "confident",
+          "smug"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "different background",
+          "subtle movements"
+        ]
+      },
+      "why_kept": "This segment continues the theme of confident performance and strong facial expressions, complementing the initial segment with a different visual style and nuanced expressions, reinforcing the overall assertive vibe of the video."
+    }
+  ]
+}

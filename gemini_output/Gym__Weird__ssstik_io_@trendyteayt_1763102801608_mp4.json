@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Gym\\Weird\\ssstik.io_@trendyteayt_1763102801608.mp4",
+  "detailed_description": "This video captures an incredibly fit individual performing an extraordinary and dynamic one-arm pull-up and muscle-up variation at a gym. The segment showcases his extreme strength and body control, emphasizing a 'no excuses' approach to fitness. The core meaning lies in the demonstration of an advanced and visually impressive calisthenics workout, pushing the boundaries of typical gym exercises.",
+  "segments": [
+    {
+      "start_time": "00:09.130",
+      "end_time": "00:14.540",
+      "structural_tags": [
+        "Visual_Hook",
+        "High_Energy",
+        "Lifestyle_Active",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "gym",
+        "pull-up bar",
+        "dynamic pull-up",
+        "one-arm muscle-up",
+        "calisthenics",
+        "workout"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "gym"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dynamic camera",
+          "focused on action"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core because it demonstrates the main action and value proposition mentioned in the video's narration: the 'wildest workout ever.' It shows 'The Process/Labor' of performing a highly advanced and impressive calisthenics movement, fulfilling the 'Hero Moment' criteria."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_@moderngentlemen_1753446436317.mp4",
+  "detailed_description": "The video features a stylish man in a blue plaid suit and sunglasses, confidently walking out of a 'PACHI'S PIZZA & PASTA' restaurant. He demonstrates his fashion by putting on sunglasses and adjusting his jacket, maintaining a poised and self-assured demeanor. The clip serves as an aesthetic showcase of a premium, confident lifestyle, focusing on his personal style and presentation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.410",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Positive_Emotion",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man walking",
+        "blue plaid suit",
+        "sunglasses",
+        "restaurant exterior",
+        "fashion",
+        "style"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "premium",
+          "serious",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "urban setting",
+          "fashion focus",
+          "sharp suit"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, showcasing the individual's fashion style and confident persona. It captures the 'Product Interaction' through the man putting on sunglasses and adjusting his suit, which are key elements of his presented look. There is no 'setup' or 'dead air' before or after the action, making the full duration relevant for demonstrating the intended aesthetic and lifestyle."
+    }
+  ]
+}

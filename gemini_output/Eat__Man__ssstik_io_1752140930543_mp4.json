@@ -1,0 +1,84 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Eat\\Man\\ssstik.io_1752140930543.mp4",
+  "detailed_description": "This video humorously contrasts two stereotypical eating styles, labeling them as 'Tops' and 'Bttms.' The 'Tops' eating style is depicted as fast-paced and direct, with the individual quickly consuming nachos and tacos using their hands. In contrast, the 'Bttms' style is portrayed as more refined and deliberate, showing a person delicately holding a single chip and engaging in conversation. The video uses these caricatures to create a comedic social commentary on different dining behaviors.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.200",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man eating",
+        "nachos",
+        "tacos",
+        "fast eating",
+        "hands",
+        "focused expression",
+        "restaurant"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "dynamic action"
+        ]
+      },
+      "why_kept": "This segment introduces the first part of the humorous comparison, showcasing the 'Tops' eating style with quick, direct interaction with food and a distinct emotional reaction, setting the primary visual hook and context for the 'VS' comparison."
+    },
+    {
+      "start_time": "00:04.200",
+      "end_time": "00:07.450",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Positive_Emotion",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man eating chip",
+        "delicate eating",
+        "talking",
+        "outdoor setting",
+        "food truck",
+        "thoughtful expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual setting"
+        ]
+      },
+      "why_kept": "This segment completes the humorous comparison by presenting the 'Bttms' eating style, characterized by a more delicate interaction with food, a calmer demeanor, and a subtle emotional expression, providing the contrasting visual necessary for the video's core message."
+    }
+  ]
+}

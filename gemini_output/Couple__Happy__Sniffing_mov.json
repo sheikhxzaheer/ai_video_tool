@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Couple\\Happy\\Sniffing.mov",
+  "detailed_description": "The video captures a sweet and affectionate moment between a couple. A blonde woman is initially lying down, and a man with long dark hair then leans into the frame from behind her, gently kissing her head. They both share warm smiles and appear to be enjoying each other's company, conveying a sense of tenderness and intimacy throughout their interaction.",
+  "segments": [
+    {
+      "start_time": "00:02.500",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "couple",
+        "affection",
+        "kiss",
+        "smiles",
+        "intimacy",
+        "long hair",
+        "blonde hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "close interaction"
+        ]
+      },
+      "why_kept": "This segment captures the entire affectionate interaction, from the man's appearance and the kiss to their shared smiles and continued loving proximity. It represents the clear emotional climax and the core meaning of the video, demonstrating the couple's bond and positive emotions."
+    }
+  ]
+}

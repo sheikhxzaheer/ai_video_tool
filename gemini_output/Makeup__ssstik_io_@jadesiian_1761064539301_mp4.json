@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Makeup\\ssstik.io_@jadesiian_1761064539301.mp4",
+  "detailed_description": "This video features a woman demonstrating the application of a setting powder that claims to allow the skin's natural glow to shine through. She begins by showcasing the product in its container, then proceeds to expertly apply the finely milled powder using a soft puff to strategic areas of her face, including under her eyes and on her cheeks. The application process highlights the product's ability to set makeup while maintaining a radiant, non-matte finish, concluding with a satisfied expression as she holds the product up, implying the successful integration of the powder into her glowing makeup look.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.101",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Face_Reaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "makeup",
+        "setting powder",
+        "powder puff",
+        "makeup application",
+        "face",
+        "glowing skin",
+        "beauty product"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "glowing makeup",
+          "clean aesthetic",
+          "polished look"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the product introduction, the detailed application process ('Process/Labor' and 'Product Interaction'), and the implied 'Result/Transformation' of the makeup look, culminating in a 'Face_Reaction' of satisfaction. No irrelevant 'Setup & Calibration' or 'Post-Action Dead Air' is present, adhering to the 'No-Mistake' rule."
+    }
+  ]
+}

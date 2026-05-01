@@ -1,0 +1,126 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Getting a tan\\ssstik.io_@raganjacaty_1761083157118.mp4",
+  "detailed_description": "This video demonstrates an updated tanning routine at the beach. It highlights the importance of starting with sunscreen, showcasing the application of Vacation Classic Lotion. Following this, the video introduces and applies Isletan Intensive Tanning Gel, emphasizing its pleasant watermelon scent. A key tip is provided on applying the tanning gel closer to swimsuit lines for enhanced tan lines, concluding with the model relaxing and enjoying the tanning process on the beach.",
+  "segments": [
+    {
+      "start_time": "00:01.375",
+      "end_time": "00:05.041",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Process_Labor",
+        "Key_Information",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "sunscreen tube",
+        "tanning gel tub",
+        "hand applying sunscreen",
+        "legs",
+        "beach sand",
+        "towel"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright sunlight",
+          "beach setting",
+          "clear day"
+        ]
+      },
+      "why_kept": "This segment introduces the first product (sunscreen) and demonstrates its application, which is the initial step in the tanning routine. The accompanying text provides key information about the product."
+    },
+    {
+      "start_time": "00:05.375",
+      "end_time": "00:09.041",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Key_Information",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "tanning gel tub",
+        "small spatula",
+        "hand scooping gel",
+        "hand applying gel",
+        "legs",
+        "beach sand",
+        "towel"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright sunlight",
+          "beach setting",
+          "clear day"
+        ]
+      },
+      "why_kept": "This segment shows the interaction with and application of the second product (tanning gel), detailing the hands-on process and highlighting its appealing scent through text, which is central to the routine."
+    },
+    {
+      "start_time": "00:09.125",
+      "end_time": "00:12.333",
+      "structural_tags": [
+        "Result_Transformation",
+        "Key_Information",
+        "Calm_Relaxation",
+        "Aesthetic_Broll",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "legs with applied products",
+        "shiny skin",
+        "towel",
+        "beach sand",
+        "ocean",
+        "woman lying down",
+        "blue bikini"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "relaxed",
+          "positive_emotion"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright sunlight",
+          "beach setting",
+          "crisp tan lines tip",
+          "natural glow"
+        ]
+      },
+      "why_kept": "This segment showcases the visual result of the product application on the skin, provides a crucial tanning tip through text, and concludes with the model relaxing, representing the desired outcome and enjoyment of the tanning routine."
+    }
+  ]
+}

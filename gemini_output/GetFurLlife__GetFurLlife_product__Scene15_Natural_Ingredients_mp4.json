@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLlife_product\\Scene15_Natural Ingredients.mp4",
+  "detailed_description": "This video's semantic core features a hand holding a 'FURLIFE' product, likely a pet collar or balm, against a blurred backdrop of lavender flowers. The product's label prominently displays its key benefits, including '30 DAYS EFFECTIVENESS,' 'NATURAL INGREDIENTS,' 'WATER RESISTANT,' and 'NON-TOXIC,' along with icons suggesting its use for anxiety, loud noise, and thunderstorms in dogs. The shot effectively introduces the product and highlights its natural, safe, and effective qualities for pets.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:27.425",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "hand",
+        "product",
+        "label",
+        "dogs",
+        "Dalmatian",
+        "Weimaraner",
+        "FURLIFE",
+        "lavender flowers",
+        "natural ingredients",
+        "water resistant",
+        "non-toxic",
+        "purple collar",
+        "green background"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "natural"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "blurred background",
+          "vibrant colors",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment serves as the core introduction and presentation of the product. It clearly displays the product's packaging, branding, and all key information regarding its features and benefits, such as '30 DAYS EFFECTIVENESS,' 'NATURAL INGREDIENTS,' 'WATER RESISTANT,' and 'NON-TOXIC,' making it the primary 'Product Interaction' and 'Product Standalone' hero moment of the video."
+    }
+  ]
+}

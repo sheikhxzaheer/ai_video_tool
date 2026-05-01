@@ -1,0 +1,87 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Man\\ssstik.io_@the_dunkdoctor_1746990350425.mp4",
+  "detailed_description": "The video opens by showcasing a confident American dentist in his modern office, setting the stage for the crucial team supporting him. It then transitions to highlight three hardworking Latina team members, each proudly representing their Mexican, Puerto Rican, and Colombian heritage. Captured in a positive and energetic light, these women demonstrate the diverse and dedicated individuals essential to the dental practice. The video effectively acknowledges and celebrates the vital role played by the supporting staff behind the main professional.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.300",
+      "structural_tags": [
+        "Visual_Hook",
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "male dentist",
+        "green scrubs",
+        "walking",
+        "smiling",
+        "playful punch",
+        "modern office corridor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment introduces the American dentist and serves as a visual hook, setting the context for the main message about the team 'behind every dentist'."
+    },
+    {
+      "start_time": "00:05.300",
+      "end_time": "00:11.400",
+      "structural_tags": [
+        "Social_Proof",
+        "Behind_The_Scenes",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "three women",
+        "green scrubs",
+        "dancing",
+        "smiling",
+        "diverse team",
+        "dental office",
+        "flags (Mexico, Puerto Rico, Colombia)"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "teamwork",
+          "cultural pride"
+        ]
+      },
+      "why_kept": "This is the semantic core of the video, directly revealing and celebrating the '3 hardworking latinas' who support the dentist, fulfilling the video's central message with a display of positive teamwork and cultural pride."
+    }
+  ]
+}

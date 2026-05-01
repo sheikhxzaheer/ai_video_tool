@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B-Rollmirror1.MOV",
+  "detailed_description": "The video captures a playful and joyful interaction in a home setting, seen through a mirror reflection. A woman in blue pajamas holds a white pillow, reacting with smiles and laughter as another pillow is playfully dropped on her. Her animated expressions and energetic movements clearly convey a sense of fun and happiness, highlighting a lighthearted moment of human and product interaction.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:20.500",
+      "structural_tags": [
+        "Positive_Emotion",
+        "High_Energy",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pajamas",
+        "mirror",
+        "pillows",
+        "smiling",
+        "laughing",
+        "playful",
+        "pillow fight"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "mirror reflection",
+          "natural lighting",
+          "dynamic movement"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully captures the 'Emotional Climax' and 'Product Interaction' hero moments. The woman's clear positive emotional expressions (smiling, laughing) combined with the playful interaction involving the pillows define the entire value of the video. The action starts immediately and continues throughout, ending without any 'dead air', adhering to the 'no-mistake' rule."
+    }
+  ]
+}

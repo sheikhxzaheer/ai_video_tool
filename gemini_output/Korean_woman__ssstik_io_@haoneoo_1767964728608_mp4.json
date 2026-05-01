@@ -1,0 +1,377 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Korean woman\\ssstik.io_@haoneoo_1767964728608.mp4",
+  "detailed_description": "This video showcases a comprehensive morning beauty routine, beginning with hair preparation using fun Kuromi clips and a light mascara application. The routine then transitions into a multi-step skincare regimen, featuring cleansing, toning, serum application, and moisturizing. The creator demonstrates direct product interaction with each item, emphasizing the process of achieving hydrated and clear skin. The video concludes with a satisfied expression, highlighting the successful completion of her daily beauty ritual.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.200",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Human_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "Kuromi hair clips",
+        "hands",
+        "young woman"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "front camera view"
+        ]
+      },
+      "why_kept": "This segment introduces the subject and a playful element of her routine (hair clips), setting the tone for the video and acting as a visual hook."
+    },
+    {
+      "start_time": "00:01.200",
+      "end_time": "00:02.300",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "hair clips",
+        "securing hair",
+        "hands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "getting ready"
+        ]
+      },
+      "why_kept": "This shows the practical application of the hair clips as part of preparing for the routine, demonstrating product interaction and 'the process'."
+    },
+    {
+      "start_time": "00:02.300",
+      "end_time": "00:06.900",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "The_Process",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "mascara tube",
+        "mascara wand",
+        "applying mascara",
+        "eye makeup"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "focused application"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates product interaction (opening and applying mascara) and is part of the subject's overall morning beauty process."
+    },
+    {
+      "start_time": "00:06.900",
+      "end_time": "00:11.100",
+      "structural_tags": [
+        "Product_Interaction",
+        "The_Process",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "hands on face",
+        "rubbing face",
+        "rinsing face",
+        "water"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "skincare prep"
+        ]
+      },
+      "why_kept": "This segment shows the initial preparation of the face for skincare, implying product application and subsequent rinsing, which is a key part of the process."
+    },
+    {
+      "start_time": "00:11.100",
+      "end_time": "00:16.400",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "The_Process",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "facial cleanser tube",
+        "squeezing product",
+        "lathering face",
+        "foam",
+        "rinsing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear product view"
+        ]
+      },
+      "why_kept": "This is a clear demonstration of product introduction and interaction (cleanser), showing the core action of facial cleansing."
+    },
+    {
+      "start_time": "00:16.400",
+      "end_time": "00:20.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "The_Process",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "toner bottle",
+        "pouring liquid",
+        "applying to face",
+        "patting"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "focused application"
+        ]
+      },
+      "why_kept": "This segment highlights product interaction with a toner, showing the proper application technique as part of the skincare routine."
+    },
+    {
+      "start_time": "00:20.500",
+      "end_time": "00:23.700",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "The_Process",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "serum bottle",
+        "dropper",
+        "applying serum",
+        "rubbing into face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "detailed application"
+        ]
+      },
+      "why_kept": "Another distinct product interaction with serum, showcasing a crucial step in a multi-layered skincare routine."
+    },
+    {
+      "start_time": "00:23.700",
+      "end_time": "00:27.100",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "The_Process",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "dark serum bottle",
+        "dropper",
+        "applying serum",
+        "rubbing into face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "focused application"
+        ]
+      },
+      "why_kept": "This continues the product interaction sequence, showing the application of a different serum, emphasizing a thorough skincare process."
+    },
+    {
+      "start_time": "00:27.100",
+      "end_time": "00:30.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "The_Process",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "moisturizer tube",
+        "squeezing cream",
+        "applying to face",
+        "rubbing in"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "final skincare step"
+        ]
+      },
+      "why_kept": "This shows the application of moisturizer, a fundamental and often final step in a skincare routine, demonstrating product interaction."
+    },
+    {
+      "start_time": "00:30.500",
+      "end_time": "00:32.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "The_Process"
+      ],
+      "visual_keywords": [
+        "spot treatment pen",
+        "opening product",
+        "hands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "product detail"
+        ]
+      },
+      "why_kept": "This segment introduces and shows interaction with a spot treatment, adding another layer to the comprehensive beauty routine."
+    },
+    {
+      "start_time": "00:32.000",
+      "end_time": "00:32.800",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Result_Transformation",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "smiling face",
+        "satisfied expression",
+        "clear skin"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "post-routine glow"
+        ]
+      },
+      "why_kept": "This final shot provides an emotional climax, showing the subject's satisfaction with the completed routine and the positive outcome on her skin."
+    }
+  ]
+}

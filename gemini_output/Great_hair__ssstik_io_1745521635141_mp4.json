@@ -1,0 +1,88 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1745521635141.mp4",
+  "detailed_description": "This video intimately portrays a man with a beard, long wet hair, and extensive tattoos, wearing a gold cross necklace, engaged in a moment of cleansing and introspection. It captures water dripping from his face and beard, followed by him emerging from a pool. He runs his hands through his wet hair, covers his face in a gesture of contemplation, and then looks out with a calm, peaceful, and thoughtful expression, conveying a profound sense of serenity and renewal.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Macro_Detail",
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "wet skin",
+        "water drops",
+        "beard",
+        "tattoos",
+        "gold chain",
+        "cross pendant",
+        "hand",
+        "chest"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "slow motion effect"
+        ]
+      },
+      "why_kept": "This segment serves as an engaging visual hook, showcasing intricate details of water interacting with the man's wet skin, beard, and tattoos, establishing a sense of cleansing and intimacy. It complements the main action by setting the initial mood and focus on the wetness."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "pool",
+        "water",
+        "wet hair",
+        "beard",
+        "tattoos",
+        "hands on face",
+        "thoughtful expression",
+        "splashing water"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "rugged"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "slow motion effect"
+        ]
+      },
+      "why_kept": "This is the primary 'hero moment' as it vividly captures the man emerging from the water, his interaction with his wet hair, and a powerful emotional climax expressed through his facial reactions – covering his face in contemplation and then revealing a look of profound peace and calm. It encapsulates the core narrative of renewal and introspection."
+    }
+  ]
+}

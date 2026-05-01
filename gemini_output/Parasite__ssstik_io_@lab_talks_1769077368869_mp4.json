@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Parasite\\ssstik.io_@lab.talks_1769077368869.mp4",
+  "detailed_description": "The video presents a magnified, microscopic view of a biological sample, showcasing a distinct purple, worm-like microorganism, likely a microfilaria, against a pinkish background with red blood cells and other cellular material. The camera provides a clear and stable focus on the organism, highlighting its characteristic serpentine morphology. This visual represents a key diagnostic finding, commonly observed in a laboratory analysis for parasitic infections, serving as the central 'reveal' of the video's content.",
+  "segments": [
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:15.589",
+      "structural_tags": [
+        "Macro_Detail",
+        "Cellular_Deep_Dive",
+        "Reveal_Result",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "microorganism",
+        "parasite",
+        "microfilaria",
+        "blood cells",
+        "microscope view",
+        "stained sample",
+        "purple worm"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "microscopic",
+          "high magnification",
+          "laboratory analysis"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it clearly displays the main subject of the video: a microscopic organism (likely a parasite) in a biological sample. It represents the 'reveal' or 'result' of a diagnostic process under a microscope, demonstrating expertise in identifying such findings. The initial frames showing blurriness or zoom adjustment were removed as 'setup and calibration'."
+    }
+  ]
+}

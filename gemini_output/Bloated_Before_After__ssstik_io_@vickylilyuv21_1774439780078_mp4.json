@@ -1,0 +1,75 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated Before_After\\ssstik.io_@vickylilyuv21_1774439780078.mp4",
+  "detailed_description": "This video vividly illustrates the negative impacts of elevated cortisol levels, often referred to as 'the stress hormone,' through a series of distressing visuals. It showcases common symptoms such as a bloated abdomen, emotional distress, hair loss, and edema. The video then transitions to a positive 'before and after' style reveal, showing the woman looking significantly slimmer and happier, indicating a successful stabilization of cortisol and a reduction in associated symptoms. The overall message highlights the problems caused by high stress hormones and the positive transformation achieved when they are brought into balance.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.833",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "bloated belly",
+        "crying woman",
+        "hair loss on brush",
+        "ankle edema",
+        "distressed facial expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "car"
+        ],
+        "mood": [
+          "serious",
+          "negative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "handheld camera",
+          "close-up details"
+        ]
+      },
+      "why_kept": "This segment effectively establishes the problem state by visually demonstrating multiple symptoms associated with high cortisol, creating an emotional connection with the viewer about the challenges faced."
+    },
+    {
+      "start_time": "00:11.833",
+      "end_time": "00:16.400",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "smiling woman",
+        "loose jeans",
+        "weight loss",
+        "mirror selfie",
+        "happy expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "mirror shot",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment serves as the main 'reveal,' showcasing the positive transformation and desired outcome of stabilizing cortisol. It provides the solution aspect and is the emotional climax of the video, reinforcing the message presented in the text overlay."
+    }
+  ]
+}

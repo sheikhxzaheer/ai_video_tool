@@ -1,0 +1,622 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cooking\\Woman\\ssstik.io_@fromscratchwithbob_1768347982379.mp4",
+  "detailed_description": "This video captures the essence of preparing a heartwarming, homemade Christmas dinner entirely from scratch. It features the detailed process of cooking traditional dishes like a roasted turkey, crispy potatoes, cranberry sauce, and braised red cabbage, alongside festive activities such as collecting a Christmas tree and roasting chestnuts by the fire. The narrative emphasizes the joy and care put into a simple meal shared with loved ones, rather than an extravagant feast, culminating in a beautiful table spread and a flaming Christmas pudding.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.359",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Process_Labor",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "man",
+        "cooked turkey",
+        "roasting tray",
+        "oven",
+        "kitchen"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "Serves as a strong visual hook, immediately showcasing the perfectly roasted turkey as a hero product and setting the central theme of a homemade Christmas meal."
+    },
+    {
+      "start_time": "00:01.359",
+      "end_time": "00:03.959",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Result_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Christmas dinner table",
+        "turkey",
+        "side dishes",
+        "candles",
+        "decorations"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "festive",
+          "calm",
+          "warm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting",
+          "table decor"
+        ]
+      },
+      "why_kept": "Provides an immediate 'reveal' of the complete, beautifully laid Christmas dinner, which is the ultimate result of the entire cooking process."
+    },
+    {
+      "start_time": "00:03.959",
+      "end_time": "00:06.159",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Home_Kitchen",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "man",
+        "vegetables",
+        "brussels sprouts",
+        "leeks",
+        "carrots",
+        "kitchen counter"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "informative",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "Provides key information about the context of the early Christmas dinner and visually introduces the fresh ingredients for the meal, adhering to the visual priority rule by showing product interaction."
+    },
+    {
+      "start_time": "00:16.899",
+      "end_time": "00:19.999",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Process_Labor",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "carving turkey",
+        "knife",
+        "fork",
+        "christmas table",
+        "smile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "joyful",
+          "content"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "warm lighting"
+        ]
+      },
+      "why_kept": "Captures a crucial moment of the Christmas dinner – the carving of the turkey – with a clear facial expression of satisfaction, representing the emotional climax of the meal."
+    },
+    {
+      "start_time": "00:27.909",
+      "end_time": "00:35.809",
+      "structural_tags": [
+        "Nature",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "ducks",
+        "garden",
+        "frost",
+        "grass"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "serene"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "cold weather",
+          "early morning light"
+        ]
+      },
+      "why_kept": "Adds a charming, unexpected element to the narrative that ties into a later explanation about welcoming guests, enhancing the cozy, natural Christmas feel."
+    },
+    {
+      "start_time": "00:35.809",
+      "end_time": "00:49.779",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Process_Labor",
+        "Product_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "man",
+        "roasting chestnuts",
+        "fire",
+        "cast iron pan",
+        "peeling chestnuts",
+        "eating"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "nostalgic",
+          "calm",
+          "warm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "fire glow",
+          "traditional cooking"
+        ]
+      },
+      "why_kept": "Demonstrates a unique, nostalgic Christmas activity (roasting and eating chestnuts) from start to finish, highlighting product interaction and a sense of tradition."
+    },
+    {
+      "start_time": "00:55.339",
+      "end_time": "01:03.209",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Process_Labor",
+        "Ingredient_Highlight",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "raw turkey",
+        "rosemary",
+        "seasoning",
+        "oven",
+        "baking tray"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "focused",
+          "preparatory"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "cooking prep",
+          "fresh ingredients"
+        ]
+      },
+      "why_kept": "Shows the detailed process of preparing the main course (turkey) with fresh herbs before cooking, emphasizing the 'from scratch' aspect."
+    },
+    {
+      "start_time": "01:03.209",
+      "end_time": "01:14.999",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Process_Labor",
+        "Ingredient_Highlight",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "peeling potatoes",
+        "chopping potatoes",
+        "pot",
+        "boiling water",
+        "knife"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "focused",
+          "preparatory"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "cooking prep"
+        ]
+      },
+      "why_kept": "Illustrates the essential 'process/labor' of preparing roast potatoes, a key side dish, from peeling to boiling."
+    },
+    {
+      "start_time": "01:14.999",
+      "end_time": "01:23.639",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Process_Labor",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "shaking potatoes",
+        "hot oil",
+        "baking tray",
+        "oven",
+        "tongs"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "focused",
+          "preparatory"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "cooking technique"
+        ]
+      },
+      "why_kept": "Highlights the specific technique of roughing up potatoes and adding them to hot oil for crispy roast potatoes, a key 'process/labor' moment."
+    },
+    {
+      "start_time": "01:29.839",
+      "end_time": "01:39.559",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Process_Labor",
+        "Ingredient_Highlight",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "cranberries",
+        "orange juice",
+        "brown sugar",
+        "saucepan",
+        "cooking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "focused",
+          "preparatory"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sauce making",
+          "fresh ingredients"
+        ]
+      },
+      "why_kept": "Demonstrates the 'from scratch' preparation of cranberry sauce, showing the combination of ingredients and cooking process."
+    },
+    {
+      "start_time": "01:43.749",
+      "end_time": "01:51.099",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Process_Labor",
+        "Ingredient_Highlight",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "red cabbage",
+        "chopping",
+        "pot",
+        "brown sugar",
+        "vinegar",
+        "cooking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "focused",
+          "preparatory"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "slow cooking",
+          "braising"
+        ]
+      },
+      "why_kept": "Shows the 'process/labor' of preparing braised red cabbage, a traditional Christmas side dish, from chopping to seasoning."
+    },
+    {
+      "start_time": "01:55.799",
+      "end_time": "02:04.999",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Process_Labor",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "sausages",
+        "bacon",
+        "wrapping",
+        "baking tray",
+        "pigs in blankets"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "focused",
+          "preparatory"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "holiday food prep",
+          "manual assembly"
+        ]
+      },
+      "why_kept": "Highlights the 'process/labor' and 'product interaction' involved in making pigs in blankets, a popular festive side dish."
+    },
+    {
+      "start_time": "02:09.129",
+      "end_time": "02:17.959",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Result_Transformation",
+        "Process_Labor",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "roast potatoes",
+        "oven",
+        "baking tray",
+        "salt",
+        "crispy"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "satisfied",
+          "appetizing"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "golden brown",
+          "seasoning"
+        ]
+      },
+      "why_kept": "Showcases the 'reveal/result' of the perfectly roasted, crispy potatoes, and the final touch of salting, emphasizing a key element of the meal."
+    },
+    {
+      "start_time": "02:17.959",
+      "end_time": "02:26.069",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Positive_Emotion",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man",
+        "hanging wreath",
+        "door",
+        "hammer",
+        "decorating"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "home"
+        ],
+        "mood": [
+          "festive",
+          "welcoming"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "traditional decor",
+          "natural light"
+        ]
+      },
+      "why_kept": "Adds to the festive preparation and provides a historical context for the wreath, linking to the theme of community and welcome."
+    },
+    {
+      "start_time": "02:26.069",
+      "end_time": "02:35.439",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Result_Transformation",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "serving dishes",
+        "carrots",
+        "turkey",
+        "pigs in blankets",
+        "brussels sprouts",
+        "christmas table"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "generous",
+          "festive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "final presentation",
+          "ready to eat"
+        ]
+      },
+      "why_kept": "This segment is a key 'reveal/result' showing the final delicious dishes being placed on the beautifully set table, ready for the family to enjoy."
+    },
+    {
+      "start_time": "02:35.439",
+      "end_time": "02:44.919",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Process_Labor",
+        "Ingredient_Highlight",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "making gravy",
+        "flour",
+        "vegetable water",
+        "whisk",
+        "brussels sprouts",
+        "boiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "focused",
+          "preparatory"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sauce making",
+          "simmering"
+        ]
+      },
+      "why_kept": "Demonstrates the essential 'process/labor' of making gravy and cooking brussels sprouts, crucial finishing touches for the Christmas dinner."
+    },
+    {
+      "start_time": "02:49.619",
+      "end_time": "02:59.049",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Result_Transformation",
+        "Product_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "flaming christmas pudding",
+        "ladle",
+        "blue flame",
+        "eating pudding",
+        "smile",
+        "candlelight"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "celebratory",
+          "joyful",
+          "warm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "flaming dessert",
+          "festive atmosphere"
+        ]
+      },
+      "why_kept": "Serves as the emotional climax of the meal, featuring the spectacular flaming Christmas pudding and ending with a contented smile, symbolizing the successful and joyful dinner."
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Product\\NightMask_Yuliia_ProductDemo.mp4",
+  "detailed_description": "This video captures a comprehensive Korean beauty skincare routine using QUI A products. It highlights the unboxing and application of two key items: a Collagen Night Wrapping Mask and a Collagen Niacinamide Jelly Cream. The core value is demonstrated through clear, step-by-step product interaction, showcasing the mask's texture and the cream's consistency, followed by a visible transformation of the skin into a hydrated, glowing state. The video effectively communicates the ease of use and the immediate positive results of integrating these products into a beauty regimen, culminating in a satisfying reveal of the final radiant look.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.400",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Product_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "jute bag",
+        "pink packaging",
+        "hand placing product",
+        "mask tube",
+        "silicone brush"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "soft focus"
+        ]
+      },
+      "why_kept": "This segment serves as the initial visual hook and product introduction, setting the context for the skincare routine. It clearly shows the products being revealed, which is a key 'Product Intro' hero moment."
+    },
+    {
+      "start_time": "00:03.400",
+      "end_time": "00:16.800",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Night_Routine",
+        "Macro_Detail",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "squeezing mask",
+        "silicone brush",
+        "face application",
+        "gel texture",
+        "massaging",
+        "watch"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "detailed focus"
+        ]
+      },
+      "why_kept": "This segment demonstrates 'THE PROCESS/LABOR' and 'PRODUCT INTERACTION' of applying the night mask. It showcases the texture, application method, and initial skin interaction, which are crucial for understanding the product's use."
+    },
+    {
+      "start_time": "00:16.800",
+      "end_time": "00:27.900",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Macro_Detail",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "unboxing",
+        "jelly cream jar",
+        "spatula",
+        "scooping cream",
+        "applying to face",
+        "massaging cream"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "detailed focus"
+        ]
+      },
+      "why_kept": "This segment introduces the second product and illustrates its 'PRODUCT INTERACTION' and 'THE PROCESS/LABOR' of application. The close-ups of the jelly texture and its application further highlight the product's unique qualities."
+    },
+    {
+      "start_time": "00:27.900",
+      "end_time": "00:32.400",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Product_Standalone",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "glowing skin",
+        "hydrated face",
+        "smiling woman",
+        "holding products"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "confident pose"
+        ]
+      },
+      "why_kept": "This segment is the 'REVEAL/RESULT' and 'EMOTIONAL CLIMAX,' showcasing the clear, positive outcome of using the products with a visibly hydrated and glowing complexion. The subject's satisfied expression and the final product display reinforce the value."
+    }
+  ]
+}

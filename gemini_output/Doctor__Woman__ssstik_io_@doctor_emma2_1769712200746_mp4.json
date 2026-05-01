@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Woman\\ssstik.io_@doctor.emma2_1769712200746.mp4",
+  "detailed_description": "The video features a woman in medical scrubs, identifying herself as Dr. Emma Hall, answering a phone call. The caller, identified as 'Jeffrey' with an image of Jeffrey Epstein, asks to schedule a prostate exam. Dr. Hall, with a calm and slightly playful smile, confirms they do and advises him to come in for a quick prostate check after a current testicle exam. The humor of the video relies on the controversial caller identity combined with the context of a medical examination.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.517",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Key_Information",
+        "Workspace_Office",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "Woman",
+        "Doctor",
+        "Scrubs",
+        "Stethoscope",
+        "Phone call",
+        "Answering call",
+        "Smiling",
+        "Jeffrey Epstein caller ID",
+        "Prostate exam",
+        "Testicle exam",
+        "Medical office"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "direct address",
+          "clear framing"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it delivers the full narrative and the punchline of the video. The initial setup, the reveal of the controversial caller, and the doctor's specific response are all crucial for the joke to land. Trimming any part would diminish the meaning or impact."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLlife_product\\Scene15_Natural Ingredients (1).mp4",
+  "detailed_description": "This video presents the 'FURLIFE' product, a pet-care item designed for effectiveness over 30 days. The packaging highlights its key features: natural ingredients, water resistance, and non-toxic composition. It also indicates benefits for anxiety, loud noise, thunderstorms, and travel, as depicted by small icons. The product is held against a vibrant, natural background of blurred purple flowers, creating an aesthetic and calming impression.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:29.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "hand",
+        "product packaging",
+        "FURLIFE logo",
+        "Dalmatian dog",
+        "Weimaraner dog",
+        "purple collar",
+        "lavender flowers",
+        "blurred background",
+        "text: 30 days effectiveness, natural ingredients, water resistant, non-toxic",
+        "icons: anxiety, loud noise, thunderstorm, travel"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "natural"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "shallow depth of field",
+          "vibrant colors",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it serves as the core product introduction and showcase. The product is clearly displayed in a steady shot, highlighting its branding, visual design, and key features (effectiveness, ingredients, benefits) as printed on the label. The natural, floral background enhances the product's natural appeal and contributes to a calming aesthetic, making the entire duration essential for conveying the product's essence."
+    }
+  ]
+}

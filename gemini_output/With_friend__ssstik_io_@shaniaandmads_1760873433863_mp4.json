@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\With friend\\ssstik.io_@shaniaandmads_1760873433863.mp4",
+  "detailed_description": "This video captures two high school students performing a synchronized dance routine outdoors under a covered walkway. Dressed in school uniforms consisting of plaid skirts and sweaters, the girls energetically execute a series of coordinated movements. The segment highlights their playful interaction, the vibrant setting of a school campus, and the dynamic nature of their performance.",
+  "segments": [
+    {
+      "start_time": "00:05.800",
+      "end_time": "00:14.600",
+      "structural_tags": [
+        "High_Energy",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "two girls dancing",
+        "school uniforms",
+        "plaid skirts",
+        "green sweater",
+        "dark blue sweater",
+        "outdoor walkway",
+        "synchronized dance"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright daylight",
+          "steady camera",
+          "uniform aesthetic"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it clearly showcases the main action of the video: the synchronized dance performance by the two individuals. It effectively captures their coordination, energy, and the overall dynamic of the routine, which is the primary value being demonstrated."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury hotel\\ssstik.io_@itsurbannomadlife_1761898422698.mp4",
+  "detailed_description": "This video provides a luxurious tour of a high-end apartment or hotel suite at night. It starts from a well-appointed bedroom and transitions through a stylish hallway lined with floor-to-ceiling windows, culminating in the grand reveal of a double-height living room. The living space is elegantly furnished with modern pieces and features a stunning, multi-tiered chandelier, all overlooking a breathtaking panoramic view of the illuminated city skyline and a tranquil waterfront.",
+  "segments": [
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Product_Standalone",
+        "Calm_Relaxation",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "chandelier",
+        "living room",
+        "sofa",
+        "armchairs",
+        "coffee table",
+        "city lights",
+        "waterfront",
+        "night view",
+        "floor-to-ceiling windows",
+        "luxury apartment",
+        "modern interior"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "luxurious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "modern design",
+          "panoramic view",
+          "high ceiling",
+          "elegant lighting",
+          "dark ambiance outside",
+          "bright inside"
+        ]
+      },
+      "why_kept": "This segment effectively showcases the most impressive and luxurious aspect of the apartment/hotel suite. It presents the grand, double-height living room with its sophisticated chandelier and provides the full, breathtaking panoramic night view of the city and waterfront, representing the ultimate 'reveal' and core value of the property being presented."
+    }
+  ]
+}

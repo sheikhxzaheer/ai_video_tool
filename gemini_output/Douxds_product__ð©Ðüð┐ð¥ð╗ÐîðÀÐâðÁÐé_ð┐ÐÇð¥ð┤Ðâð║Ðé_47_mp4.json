@@ -1,0 +1,170 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Douxds product\\ð©Ðüð┐ð¥ð╗ÐîðÀÐâðÁÐé ð┐ÐÇð¥ð┤Ðâð║Ðé 47.mp4",
+  "detailed_description": "This video showcases a modern men's grooming experience, beginning with the introduction of 'douxdx FLEX' skincare tool and 'PRIME' face quench product. It then illustrates a professional barber providing a clean shave, followed by the application of the 'FLEX' tool on the client's face. The sequence culminates in a reveal of the client's transformed appearance, highlighting a fresh haircut and a precisely groomed beard, demonstrating the synergistic effect of professional service and advanced skincare tools.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.300",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "hands holding box",
+        "douxdx FLEX",
+        "performance skincare tool packaging"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear product shot",
+          "modern packaging"
+        ]
+      },
+      "why_kept": "Introduces the primary skincare tool product, setting the context for its subsequent use in the grooming routine."
+    },
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:02.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "hands holding box",
+        "douxdx PRIME",
+        "face quench packaging"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear product shot",
+          "minimalist design"
+        ]
+      },
+      "why_kept": "Introduces a complementary skincare product, establishing the range of items involved in achieving the desired grooming outcome."
+    },
+    {
+      "start_time": "00:02.500",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Human_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "barber shaving face",
+        "straight razor",
+        "beard line",
+        "grooming"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "focused action",
+          "professional service"
+        ]
+      },
+      "why_kept": "Illustrates the traditional grooming process as a foundational step before the application of the specialized skincare tool."
+    },
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Mechanism_Of_Action",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "man using skincare tool",
+        "douxdx FLEX on face",
+        "oval black device",
+        "facial massage"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "car"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "hands-on demonstration",
+          "direct application",
+          "natural light"
+        ]
+      },
+      "why_kept": "This is the core segment demonstrating the main product in active use, clearly showing its application and how it interacts with the user's skin, which is the primary value proposition."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:09.300",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man's clean shave",
+        "fresh haircut",
+        "groomed beard",
+        "side profile",
+        "satisfied expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "polished look",
+          "clean aesthetic",
+          "after shot"
+        ]
+      },
+      "why_kept": "Showcases the successful final outcome of the entire grooming and skincare process, emphasizing the desired aesthetic transformation achieved."
+    }
+  ]
+}

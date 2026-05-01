@@ -1,0 +1,82 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ssstik.io_1704298971707.mp4",
+  "detailed_description": "This video captures a young man's personal journey with hair loss. It begins by showcasing his receding hairline at the age of 18, conveying his initial concern about rapid hair thinning. The narrative then shifts to a powerful 'before and after' reveal, presenting him with a full, healthy head of hair and a confident, happy expression. The accompanying text emphasizes his perseverance, stating that he 'didn't give up on it,' highlighting a successful transformation related to his hair.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.250",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Before_After",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "young man",
+        "blonde hair",
+        "receding hairline",
+        "touching hair",
+        "concerned expression",
+        "mirror shot",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "concerned"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "casual wear",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the 'problem state' by visually demonstrating the receding hairline and the man's concerned expression, setting the context for his hair loss journey. The on-screen text reinforces this key information."
+    },
+    {
+      "start_time": "00:04.250",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Before_After",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "young man",
+        "blonde hair",
+        "full hair",
+        "smiling",
+        "happy expression",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "happy",
+          "confident",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "casual wear",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment serves as the 'reveal' or 'result transformation,' showcasing the man with a full head of hair and a satisfied, happy expression. It directly contrasts the previous segment, providing the resolution to the initial problem and conveying a positive emotional climax. The on-screen text provides the 'key information' about his perseverance."
+    }
+  ]
+}

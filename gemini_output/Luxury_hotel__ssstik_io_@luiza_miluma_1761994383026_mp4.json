@@ -1,0 +1,58 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury hotel\\ssstik.io_@luiza.miluma_1761994383026.mp4",
+  "detailed_description": "The video provides a luxurious tour of a Ritz hotel suite, beginning with the elegant process of opening a personalized key card envelope and using the card to unlock the room. The footage then smoothly transitions into a captivating walk-through, showcasing the opulent living room with its grand fireplace and refined furnishings, before revealing the equally lavish and classically decorated bedroom. It effectively highlights the sophisticated ambiance and premium experience of the hotel suite.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:46.800",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "Hand",
+        "envelope",
+        "key card",
+        "hotel hallway",
+        "hotel room door",
+        "suite entrance",
+        "living room",
+        "bedroom",
+        "chandelier",
+        "fireplace",
+        "ornate furniture",
+        "patterned carpet",
+        "large windows"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "luxurious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "smooth camera movement",
+          "elegant decor",
+          "classical architecture",
+          "soft lighting",
+          "seamless transitions"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core, demonstrating the full experience of entering and discovering a luxurious hotel suite. It seamlessly combines the 'Product Interaction' (opening the envelope and using the key card), 'Process' (entering the room), and the ultimate 'Reveal/Result' (the lavish interiors of the living room and bedroom). There are no unnecessary 'Setup & Calibration' or 'Post-Action Dead Air' frames, making the entire continuous flow essential to convey the value and aesthetic of the experience."
+    }
+  ]
+}

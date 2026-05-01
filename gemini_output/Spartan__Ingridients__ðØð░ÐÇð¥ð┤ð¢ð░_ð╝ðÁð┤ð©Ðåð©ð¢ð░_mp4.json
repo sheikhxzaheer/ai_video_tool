@@ -1,0 +1,117 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Ingridients\\ðØð░ÐÇð¥ð┤ð¢ð░ ð╝ðÁð┤ð©Ðåð©ð¢ð░.mp4",
+  "detailed_description": "This video elegantly displays a collection of homemade herbal oils and dried ingredients, emphasizing a natural and holistic theme. Various small glass bottles, infused with dried flowers and herbs, are carefully arranged on a rustic wooden surface. A hand briefly enters the frame to place an additional jar of dried chamomile flowers, subtly enhancing the composition and highlighting the raw, natural components used in these preparations. The video's core message revolves around the aesthetic presentation of natural remedies and their botanical ingredients.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "glass bottles",
+        "cork stoppers",
+        "herbal oil",
+        "dried flowers",
+        "wooden surface",
+        "natural ingredients"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "rustic",
+          "earthy tones",
+          "shallow depth of field"
+        ]
+      },
+      "why_kept": "This segment establishes the scene and showcases the primary products, providing essential context before any interaction occurs."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Behind_The_Scenes",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "placing jar",
+        "dried chamomile",
+        "herbal ingredients",
+        "glass bottles",
+        "wooden surface"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "rustic",
+          "earthy tones",
+          "shallow depth of field"
+        ]
+      },
+      "why_kept": "This is the primary 'hero moment' demonstrating product interaction and a subtle 'process' of arranging the natural ingredients, representing the core 'doing the work' aspect of crafting or presenting these items."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:27.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Result_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "glass bottles",
+        "cork stoppers",
+        "herbal oil",
+        "dried flowers",
+        "dried chamomile",
+        "wooden surface",
+        "natural ingredients"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "rustic",
+          "earthy tones",
+          "shallow depth of field"
+        ]
+      },
+      "why_kept": "This segment presents the final, enhanced product display after the interaction, serving as a 'reveal' or 'result' of the careful arrangement and showcasing the full aesthetic value of the natural products."
+    }
+  ]
+}

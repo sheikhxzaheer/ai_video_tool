@@ -1,0 +1,218 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Man\\ssstik.io_@peterpandeveloper_1766751654915.mp4",
+  "detailed_description": "The video showcases an aesthetic and highly functional work-from-home setup, emphasizing a programmer's streamlined daily routine. It begins with the individual engaging in morning rituals, interacting with smart devices like a glowing coffee mug and a retro-style flip calendar. The core of the routine involves focused coding sessions, initially performed while comfortably seated at a keyboard with noise-canceling headphones. A key highlight is the seamless transition to a standing desk, demonstrating an active and ergonomic approach to work. Throughout the video, various tech accessories and an organized workspace underscore a premium and productive environment. This montage effectively illustrates how an optimized setup contributes to an efficient and comfortable work life.",
+  "segments": [
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Morning_Routine",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "hand picking up phone",
+        "hand picking up coffee mug",
+        "glowing mug"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean desk"
+        ]
+      },
+      "why_kept": "Shows the initial interactions and setup of the daily work routine, setting a comfortable and tech-integrated tone."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Morning_Routine",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand flipping calendar",
+        "retro calendar",
+        "N64 controller image"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "wooden accent",
+          "vintage tech detail"
+        ]
+      },
+      "why_kept": "Highlights a unique and functional desk accessory, reinforcing the personalized and aesthetic nature of the workspace."
+    },
+    {
+      "start_time": "00:05.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Process/Labor",
+        "Product_Interaction",
+        "Workspace_Office",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "man sitting at desk",
+        "typing on mechanical keyboard",
+        "computer mouse"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "calm",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean desk setup",
+          "ergonomic setup"
+        ]
+      },
+      "why_kept": "Establishes the primary work activity – coding/typing – and the main workspace setup, demonstrating the core 'labor' aspect."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Process/Labor",
+        "Workspace_Office"
+      ],
+      "visual_keywords": [
+        "hand picking up headphones",
+        "man putting on headphones",
+        "man working at computer"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "focused",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "ambient lighting",
+          "organized desk",
+          "audio integration"
+        ]
+      },
+      "why_kept": "Shows the integration of noise-canceling audio equipment into the work routine, indicating focus and an enhanced work environment."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Workspace_Office",
+        "Data_Metrics_Chart"
+      ],
+      "visual_keywords": [
+        "computer screen",
+        "code editor",
+        "Spotify playlist",
+        "split screen"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "informative",
+          "focused"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "digital display",
+          "multiple applications"
+        ]
+      },
+      "why_kept": "Provides visual context for the type of work being performed, showcasing the digital tools and a multi-monitor setup."
+    },
+    {
+      "start_time": "00:11.000",
+      "end_time": "00:19.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Process/Labor",
+        "Workspace_Office",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "finger pressing button",
+        "standing desk rising",
+        "man standing",
+        "typing while standing",
+        "laptop",
+        "monitors"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "energetic",
+          "productive",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "modern design",
+          "functional space",
+          "dynamic movement",
+          "ergonomic benefit"
+        ]
+      },
+      "why_kept": "Highlights a key feature of the modern workspace – the standing desk – and demonstrates the continuation of work in an active posture, reinforcing a healthy and efficient workflow."
+    }
+  ]
+}

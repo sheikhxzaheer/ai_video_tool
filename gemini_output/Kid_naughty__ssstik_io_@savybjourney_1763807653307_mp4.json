@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid naughty\\ssstik.io_@savybjourney_1763807653307.mp4",
+  "detailed_description": "This video captures a delightful and heartwarming moment of a baby lying on a bed, dressed in a pink polka-dot onesie. The baby is actively engaging with someone off-camera, looking upwards with an open mouth and making happy cooing sounds, which quickly transition into genuine giggles and laughter. Its tiny arms move playfully, expressing pure joy and positive emotion. The scene conveys a sense of calm, loving interaction and the infectious happiness of a baby.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.467",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "baby",
+        "giggling",
+        "laughing",
+        "cooing",
+        "pink onesie",
+        "bed",
+        "playful movements"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "happy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "handheld camera",
+          "intimate shot"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core of the video, showcasing the baby's joyful laughter and playful interactions, which constitutes a clear 'Emotional Climax' and 'Face_Reaction'. There are no setup, calibration, or post-action dead air moments; the baby is consistently engaged and expressing happiness throughout the clip."
+    }
+  ]
+}

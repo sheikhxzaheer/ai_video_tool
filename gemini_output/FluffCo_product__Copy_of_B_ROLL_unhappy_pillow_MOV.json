@@ -1,0 +1,205 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B ROLL unhappy pillow.MOV",
+  "detailed_description": "This video beautifully captures the essence of a tranquil morning routine, highlighting a woman's slow and comfortable awakening in bed. The segments showcase her initial sleepy state, gentle interactions with her plush pink blanket and soft pillows, and gradual transition to alertness. Key moments include her snuggling deeper for comfort, a heartwarming smile, a natural yawn and stretch, and finally, opening her eyes fully to greet the day with a soft, content gaze.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Morning_Routine",
+        "Calm_Relaxation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "girl",
+        "bed",
+        "pink blanket",
+        "sleepy eyes",
+        "snuggling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the initial sleepy and comfortable state in bed, setting the tranquil tone for the morning routine."
+    },
+    {
+      "start_time": "00:14.000",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Morning_Routine",
+        "Human_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "girl",
+        "adjusting pillow",
+        "pink blanket",
+        "snuggling",
+        "bed"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "gentle movement"
+        ]
+      },
+      "why_kept": "Shows active, yet gentle, interaction with comfort items (pillow and blanket), reinforcing the theme of a cozy and relaxed wake-up."
+    },
+    {
+      "start_time": "00:58.000",
+      "end_time": "01:02.000",
+      "structural_tags": [
+        "Morning_Routine",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "girl",
+        "pink blanket",
+        "hiding face",
+        "smiling",
+        "bed"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "expressive face"
+        ]
+      },
+      "why_kept": "Captures a moment of positive emotion as the subject playfully interacts with the blanket and shows a gentle smile, signaling contentment."
+    },
+    {
+      "start_time": "01:06.000",
+      "end_time": "01:10.000",
+      "structural_tags": [
+        "Morning_Routine",
+        "Face_Reaction",
+        "Calm_Relaxation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "girl",
+        "stretching",
+        "yawning",
+        "rubbing neck",
+        "pink blanket"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural movement"
+        ]
+      },
+      "why_kept": "This is the primary 'hero moment' as it vividly depicts the physical action of waking up through a relatable yawn and stretch, serving as the central action of the video's theme."
+    },
+    {
+      "start_time": "01:18.000",
+      "end_time": "01:25.000",
+      "structural_tags": [
+        "Morning_Routine",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "girl",
+        "rubbing eyes",
+        "waking up",
+        "pink blanket",
+        "bed"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "intimate shot"
+        ]
+      },
+      "why_kept": "Reinforces the 'waking up' process with a universally recognized and gentle gesture of rubbing the eyes, adding to the authenticity of the routine."
+    },
+    {
+      "start_time": "01:25.000",
+      "end_time": "01:28.000",
+      "structural_tags": [
+        "Morning_Routine",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "girl",
+        "eyes open",
+        "looking at camera",
+        "pink blanket",
+        "bed"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "content"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct gaze",
+          "soft smile"
+        ]
+      },
+      "why_kept": "Provides a clear and satisfying conclusion to the waking up narrative, showing the subject fully awake and looking directly at the viewer with a pleasant expression."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated Before_After\\ssstik.io_@mikyla.prinsloo_1774425084844.mp4",
+  "detailed_description": "This video features a young woman in a dressing room, wearing a black strapless dress, who demonstrates the natural occurrence of bloating by intentionally pushing out her stomach and then relaxing it. The video's core message, conveyed through an overlaid text, is a reminder that bloating is 'NORMAL and HEALTHY.' She concludes the demonstration with a reassuring smile and a thumbs-up, reinforcing a positive body image message.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.572",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "black dress",
+        "mirror selfie",
+        "bloating demonstration",
+        "stomach",
+        "thumbs up",
+        "dressing room"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "mirror reflection",
+          "natural light",
+          "body positive message"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core. It visually demonstrates the concept of bloating, explicitly delivers the key message via text overlay ('Your reminder that bloating is NORMAL and HEALTHY'), and concludes with a positive, reassuring gesture (thumbs-up and smile). It's a self-contained 'reveal' and informational piece."
+    }
+  ]
+}

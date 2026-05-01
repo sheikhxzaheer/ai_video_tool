@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Happy\\Man\\ssstik.io_@fabriziovmoroni_1763398330877.mp4",
+  "detailed_description": "This video vividly captures a man's overwhelming joy and relief immediately after quitting his job. Despite the rainy weather, he runs down a city street with an ecstatic, red-faced smile, repeatedly shouting his declaration. His high-energy, infectious happiness and genuine emotional release are the central focus, presenting a powerful moment of personal freedom and elation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Positive_Emotion",
+        "High_Energy",
+        "Face_Reaction",
+        "UGC_Talking_Head",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "man",
+        "running",
+        "smiling",
+        "shouting",
+        "street",
+        "buildings",
+        "trees",
+        "rain",
+        "headphones"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "handheld",
+          "selfie-style",
+          "shaky"
+        ]
+      },
+      "why_kept": "This entire segment serves as the emotional climax, capturing the subject's ecstatic reaction and verbal declaration of quitting his job. His genuine, high-energy facial expressions and repeated shouting are the core value and hero moment of the video, conveying immense relief and happiness. There is no 'dead air' or 'setup' to trim, as the emotional outpouring begins and ends with the clip."
+    }
+  ]
+}

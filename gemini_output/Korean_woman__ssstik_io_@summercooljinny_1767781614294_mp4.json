@@ -1,0 +1,551 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Korean woman\\ssstik.io_@summercooljinny_1767781614294.mp4",
+  "detailed_description": "This video demonstrates a comprehensive Korean skincare night routine focused on soothing and regenerating tired skin. The routine includes a sequence of product applications: cleansing oil, foam cleanser, anti-aging and barrier care toner, a mild micro-needling shot, a PDRN peptide serum for skin renewal and glow, an EGF vital cream for regeneration, and a final relief cream for sensitive and acne-prone skin. Each step highlights specific product benefits and proper application techniques, such as gentle patting for enhanced absorption, concluding with a visibly refreshed and glowing complexion.",
+  "segments": [
+    {
+      "start_time": "00:06.800",
+      "end_time": "00:09.100",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "haruharu wonder cleansing oil bottle",
+        "hand pumping oil"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "close-up hands",
+          "neutral background"
+        ]
+      },
+      "why_kept": "Introduces the first product and demonstrates initial product interaction, crucial for starting the cleansing routine."
+    },
+    {
+      "start_time": "00:09.100",
+      "end_time": "00:15.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Key_Information",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "face",
+        "hands",
+        "cleansing oil",
+        "applying"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft focus",
+          "gentle application"
+        ]
+      },
+      "why_kept": "Shows the active application of the cleansing oil, explaining its purpose (soothing tired skin) which is a core part of the routine's value."
+    },
+    {
+      "start_time": "00:15.500",
+      "end_time": "00:18.100",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Key_Information",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "hand",
+        "face",
+        "emulsifying oil",
+        "applying"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear demonstration",
+          "emulsification visual"
+        ]
+      },
+      "why_kept": "Highlights the emulsification process, an important technique in oil cleansing, and continued application."
+    },
+    {
+      "start_time": "00:18.100",
+      "end_time": "00:21.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "Abib foam cleanser tube",
+        "hand squeezing cleanser"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "product branding clear",
+          "gentle squeezing"
+        ]
+      },
+      "why_kept": "Introduces the second cleansing step, showing the foam cleanser and its initial interaction."
+    },
+    {
+      "start_time": "00:21.000",
+      "end_time": "00:26.300",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Key_Information",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "face",
+        "hands",
+        "foam cleanser",
+        "lathering",
+        "applying"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "rich lather",
+          "thorough cleansing"
+        ]
+      },
+      "why_kept": "Demonstrates the water-based cleansing step, showing lathering and application with key ingredient benefit (centella)."
+    },
+    {
+      "start_time": "00:26.800",
+      "end_time": "00:28.900",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "Numbuzin toner bottle"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "product clear",
+          "branding visible"
+        ]
+      },
+      "why_kept": "Introduces the toner, a subsequent crucial step in the skincare routine."
+    },
+    {
+      "start_time": "00:28.900",
+      "end_time": "00:34.900",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Key_Information",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "face",
+        "hands",
+        "Numbuzin toner",
+        "applying",
+        "patting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "gentle tapping",
+          "skin absorption focus"
+        ]
+      },
+      "why_kept": "Shows the toner application and patting technique, highlighting its anti-aging, barrier care, and skin-friendly properties."
+    },
+    {
+      "start_time": "00:35.300",
+      "end_time": "00:36.100",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "VT Reedle Shot bottle"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sleek packaging",
+          "product name visible"
+        ]
+      },
+      "why_kept": "Introduces the Reedle Shot, a key treatment product in the routine."
+    },
+    {
+      "start_time": "00:36.100",
+      "end_time": "00:42.100",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Key_Information",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "face",
+        "hands",
+        "Reedle Shot",
+        "applying",
+        "patting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused application",
+          "absorption technique"
+        ]
+      },
+      "why_kept": "Demonstrates the application of the Reedle Shot, emphasizing the 'mild micro-needling' effect and patting for deeper absorption, a core 'process' moment."
+    },
+    {
+      "start_time": "00:42.600",
+      "end_time": "00:44.800",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "Medicube PDRN serum bottle",
+        "hand shaking serum"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "vibrant pink product",
+          "dropper visible"
+        ]
+      },
+      "why_kept": "Introduces the Medicube PDRN serum, highlighting its role as a specialized treatment."
+    },
+    {
+      "start_time": "00:44.800",
+      "end_time": "00:50.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Key_Information",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "face",
+        "hands",
+        "PDRN serum",
+        "applying",
+        "patting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "smooth spreading",
+          "glowing finish"
+        ]
+      },
+      "why_kept": "Shows the application of the PDRN serum for skin renewal and glow, demonstrating the precise product interaction."
+    },
+    {
+      "start_time": "00:51.000",
+      "end_time": "00:52.200",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "EGF cream tube",
+        "hand opening cap"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sleek silver packaging"
+        ]
+      },
+      "why_kept": "Introduces the EGF cream, another essential step in the regenerative routine."
+    },
+    {
+      "start_time": "00:52.200",
+      "end_time": "00:58.700",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Key_Information",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "face",
+        "hands",
+        "EGF cream",
+        "applying",
+        "spreading"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "smooth coverage",
+          "even distribution"
+        ]
+      },
+      "why_kept": "Demonstrates the application of the EGF cream, emphasizing its role in skin regeneration and its 'Korean pharmacy grade' quality."
+    },
+    {
+      "start_time": "00:59.000",
+      "end_time": "01:00.600",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "Dr. Althea cream tube",
+        "hand squeezing tube"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "minimalist packaging",
+          "product visible"
+        ]
+      },
+      "why_kept": "Introduces the final Dr. Althea relief cream, completing the product lineup."
+    },
+    {
+      "start_time": "01:00.600",
+      "end_time": "01:05.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Key_Information",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "face",
+        "hands",
+        "relief cream",
+        "applying",
+        "patting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "gentle massage",
+          "soothing effect"
+        ]
+      },
+      "why_kept": "Shows the application of the relief cream, emphasizing its benefits for acne-prone and sensitive skin, a key value proposition."
+    },
+    {
+      "start_time": "01:05.500",
+      "end_time": "01:07.828",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "face",
+        "hands",
+        "patting",
+        "smile",
+        "glowing skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "radiant skin",
+          "satisfied expression",
+          "soft glow"
+        ]
+      },
+      "why_kept": "Captures the emotional climax and the visual 'reveal' of the healthy, glowing skin after the full routine, signifying the desired outcome."
+    }
+  ]
+}

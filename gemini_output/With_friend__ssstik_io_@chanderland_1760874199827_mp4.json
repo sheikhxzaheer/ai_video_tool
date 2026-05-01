@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\With friend\\ssstik.io_@chanderland_1760874199827.mp4",
+  "detailed_description": "The video features two young women performing a dynamic and synchronized dance routine in an indoor home setting. They move their hands and bodies to the rhythm of upbeat music, consistently displaying positive emotions through smiles and expressive facial reactions. The atmosphere is energetic and playful, with another person subtly visible in the background, also moving to the music. The entire sequence focuses on their continuous dance performance.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "two women dancing",
+        "smiling",
+        "long hair",
+        "crop tops",
+        "track pants",
+        "chandelier",
+        "indoor home setting",
+        "people in background"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "casual attire",
+          "clean background"
+        ]
+      },
+      "why_kept": "This entire segment constitutes the semantic core as it continuously showcases the primary action of the video: a synchronized dance performance by two individuals. Their consistent engagement, energetic movements, and positive facial expressions are central to the video's message and align with the 'Process/Labor' and 'Emotional Climax' hero moment criteria for a performance-based video. No significant setup, dead air, or non-action elements were found that needed trimming."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\Usage Granted\\INSTAGRAM_STORY_nikkimwashington_2025-11-07-UGC (1).mp4",
+  "detailed_description": "This video showcases the 'PRFCT MORNING TANGERINE PULSE' hydration drink. It begins with the user opening the product packaging, demonstrating the ease of preparation by pouring the tangerine-flavored powder from a stick pack into a glass of water. The user then stirs the drink, adds ice, and enjoys it, expressing clear satisfaction. The drink is subsequently shared with another individual, who also reacts positively, reinforcing the product's appeal and taste. The video effectively highlights the simple preparation process and the enjoyable consumption experience of the hydration product.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:18.899",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Morning_Routine",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hands opening bag",
+        "powder supplement",
+        "tangerine pulse",
+        "stick packs",
+        "glass of water",
+        "ice",
+        "stirring drink",
+        "woman drinking",
+        "man tasting",
+        "smiles",
+        "kitchen counter",
+        "balloons"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic",
+          "casual wear",
+          "handheld camera"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by fully demonstrating the product's preparation, ease of use, and positive reception. It includes all hero moments: the process of opening and mixing, direct product interaction, and the emotional climax of satisfied consumption and social proof through sharing."
+    }
+  ]
+}

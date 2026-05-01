@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Magazine\\Cosmopolitan\\ssstik.io_@cosmopolitanaus_1771277551709.mp4",
+  "detailed_description": "This video features a woman standing against a brick wall, playfully hiding her face behind a vintage Cosmopolitan magazine. She rapidly alternates between different open magazine covers, creating a quick, dynamic montage of iconic looks. The sequence culminates in her lowering the magazine to reveal her own smiling face, adding a cheerful and engaging twist to the interaction.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "magazine",
+        "Cosmopolitan",
+        "brick wall",
+        "black trench coat",
+        "smile",
+        "vintage covers"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "vintage aesthetic",
+          "brick backdrop",
+          "dynamic edits",
+          "fashion"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as the 'Semantic Core' because it captures the complete playful action of the woman interacting with the magazines, rapidly showcasing various covers. The entire sequence builds to the final reveal of her smiling face, which serves as the emotional climax and main 'Face_Reaction,' fulfilling both the 'Product Interaction' and 'Emotional Climax' hero moment criteria without any 'setup' or 'dead air' that needs trimming."
+    }
+  ]
+}

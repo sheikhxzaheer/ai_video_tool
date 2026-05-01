@@ -1,0 +1,428 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Ambulance\\ssstik.io_@jeanne_sr_1769712140134.mp4",
+  "detailed_description": "This video vividly portrays the multi-faceted and critical work of medical professionals across various hospital environments. It showcases surgeons in operating rooms, nurses preparing medications, doctors analyzing diagnostic images, and the continuous monitoring of patients with advanced medical equipment. The inclusion of emergency helicopter transfers highlights the urgent and comprehensive nature of modern healthcare, emphasizing the dedication and dynamic efforts involved in saving lives.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.333",
+      "structural_tags": [
+        "Visual_Hook",
+        "Process_Labor",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "operating room",
+        "surgeons",
+        "medical staff",
+        "surgical procedure",
+        "hospital room",
+        "medical equipment"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "through window",
+          "dynamic",
+          "clean aesthetics"
+        ]
+      },
+      "why_kept": "This segment serves as a strong visual hook and establishes the primary theme of medical procedures in an operating room, setting the context for the entire video."
+    },
+    {
+      "start_time": "00:01.333",
+      "end_time": "00:02.433",
+      "structural_tags": [
+        "Process_Labor",
+        "Macro_Detail",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "blood bag",
+        "IV drip",
+        "medical monitors",
+        "infusion",
+        "hospital equipment"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "detailed shot"
+        ]
+      },
+      "why_kept": "Shows critical patient support and monitoring equipment, reinforcing the ongoing medical process and advanced care."
+    },
+    {
+      "start_time": "00:02.433",
+      "end_time": "00:04.033",
+      "structural_tags": [
+        "Process_Labor",
+        "Behind_The_Scenes",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "doctor",
+        "computer monitors",
+        "CT scan",
+        "medical imaging",
+        "hospital room",
+        "diagnosis"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused",
+          "diagnostic work"
+        ]
+      },
+      "why_kept": "Illustrates the diagnostic aspect of medical work, where professionals analyze patient data for treatment planning."
+    },
+    {
+      "start_time": "00:04.033",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "nurse",
+        "syringe",
+        "medical supplies",
+        "mask",
+        "preparation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean",
+          "precise action"
+        ]
+      },
+      "why_kept": "Depicts a key 'process' moment of medication preparation, showcasing the practical tasks performed by medical staff."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Behind_The_Scenes",
+        "High_Energy",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "helicopter",
+        "helipad",
+        "SAMU",
+        "emergency transport",
+        "sky",
+        "hospital building"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "urgent"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "bright daylight",
+          "action shot"
+        ]
+      },
+      "why_kept": "Adds an element of emergency and rapid response, broadening the scope of medical services shown."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:07.133",
+      "structural_tags": [
+        "Process_Labor",
+        "Macro_Detail",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "IV pumps",
+        "infusion machines",
+        "medical equipment",
+        "medication delivery"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "multiple devices"
+        ]
+      },
+      "why_kept": "Highlights the complex equipment used for continuous patient care and medication management in critical settings."
+    },
+    {
+      "start_time": "00:07.133",
+      "end_time": "00:08.100",
+      "structural_tags": [
+        "Result_Transformation",
+        "Key_Information",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "X-ray",
+        "chest scan",
+        "medical monitor",
+        "diagnostic image"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clear imagery",
+          "diagnostic output"
+        ]
+      },
+      "why_kept": "Presents a 'result' of medical diagnostics, showing crucial information used for patient assessment."
+    },
+    {
+      "start_time": "00:08.100",
+      "end_time": "00:09.133",
+      "structural_tags": [
+        "Process_Labor",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "operating room",
+        "surgeons",
+        "medical staff",
+        "patient",
+        "surgery"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused action",
+          "sterile environment"
+        ]
+      },
+      "why_kept": "Further emphasizes the 'process' of surgery, showing hands-on medical intervention."
+    },
+    {
+      "start_time": "00:09.133",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "High_Energy",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "helicopter",
+        "helipad",
+        "SAMU",
+        "night",
+        "city lights"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "urgent"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "night shot",
+          "emergency response"
+        ]
+      },
+      "why_kept": "Reinforces the continuous, around-the-clock nature of emergency medical services."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "operating room",
+        "medical staff",
+        "surgery",
+        "blinds",
+        "hospital interior"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "observational view",
+          "busy scene"
+        ]
+      },
+      "why_kept": "Provides another perspective of the operating room, showing the collective effort of the medical team."
+    },
+    {
+      "start_time": "00:11.000",
+      "end_time": "00:12.300",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Process_Labor",
+        "Urgency_Rush"
+      ],
+      "visual_keywords": [
+        "medical professionals",
+        "hospital hallway",
+        "medical bag",
+        "walking",
+        "scrubs"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic movement",
+          "real-world scenario"
+        ]
+      },
+      "why_kept": "Illustrates the mobility and responsiveness of medical teams within the hospital, often in urgent situations."
+    },
+    {
+      "start_time": "00:12.300",
+      "end_time": "00:13.200",
+      "structural_tags": [
+        "Process_Labor",
+        "Macro_Detail",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "medical monitor",
+        "Dräger",
+        "vital signs",
+        "waveforms",
+        "patient data"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "digital display",
+          "real-time data"
+        ]
+      },
+      "why_kept": "Concludes the montage by showing continuous patient monitoring, a fundamental aspect of ongoing medical care."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\ssstik.io_@epicgenetics_175804019028.mp4",
+  "detailed_description": "The video provides a vibrant 3D animation showcasing a microscopic deep dive into cellular structures, specifically highlighting a mitochondrion and its interaction with surrounding elements. Tiny pink particles are seen actively moving within the mitochondrion, which clearly spells out 'MITO' on its internal structure. A voiceover simultaneously explains the importance of stabilizing mitochondria and enhancing electron transport efficiency, effectively illustrating a key cellular mechanism.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Micro_Nutrients_Anim",
+        "Cellular_Deep_Dive",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "mitochondria",
+        "endoplasmic reticulum",
+        "cellular structures",
+        "pink particles",
+        "3D animation",
+        "'MITO' text"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "educational"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "3D animation",
+          "scientific visualization",
+          "bright colors",
+          "dynamic camera"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it visually demonstrates the 'Mechanism_Of_Action' of cellular components (mitochondria) with accompanying narration. The animation serves as the primary visual explanation, directly correlating with the spoken key information about stabilizing mitochondria and improving electron transport efficiency. According to the 'No-Mistake Rule', since the action starts immediately and ends precisely, 100% of the duration is kept."
+    }
+  ]
+}

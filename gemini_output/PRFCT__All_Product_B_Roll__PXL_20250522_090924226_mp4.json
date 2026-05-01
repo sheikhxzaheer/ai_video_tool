@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250522_090924226.mp4",
+  "detailed_description": "The video presents a single packet of 'TANGERINE PULSE' hydration fuel gently floating on the serene surface of clear, sun-dappled pool water. The camera gradually pulls back, revealing the expansive, tranquil blue water and a distant, hazy horizon. This aesthetic shot effectively showcases the product in an inviting, natural setting, subtly associating it with relaxation, hydration, and an active, premium lifestyle.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "product packet",
+        "Tangerine Pulse",
+        "pool water",
+        "ripples",
+        "horizon",
+        "floating",
+        "sunlight"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "refreshing"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clear water",
+          "bright sunlight",
+          "subtle camera movement",
+          "water reflections"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it constitutes the sole 'hero moment' of the video. It serves as a product standalone shot, aesthetically presenting the hydration fuel in a relevant and aspirational environment (floating in a pool with an ocean/sky horizon). The visual imagery directly relates to the product's purpose and creates a desired mood of calm and refreshment."
+    }
+  ]
+}

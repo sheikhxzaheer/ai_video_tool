@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Ingridients\\Licorice Root Extract 3.mp4",
+  "detailed_description": "This video captures a close-up, low-angle shot of a bundle of freshly harvested plant roots, complete with green sprouts, lying on a dirt path in an agricultural field. The roots are neatly tied together with a white string, indicating they have been collected and prepared. The lush green grass, distant trees, and a bright blue sky create a serene and natural farm setting. This segment effectively showcases the raw, natural ingredients or product directly from its source, emphasizing its origin and freshness.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.280",
+      "structural_tags": [
+        "Product_Standalone",
+        "Ingredient_Highlight",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "bundled roots",
+        "plant sprouts",
+        "dirt path",
+        "green grass",
+        "agricultural field",
+        "trees",
+        "blue sky",
+        "harvested material"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "natural"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "low angle shot",
+          "natural light",
+          "shallow depth of field",
+          "farm setting"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully presents the main subject – a bundle of harvested plant roots – in its natural, agricultural environment. It represents the 'Result/Reveal' of cultivation and serves as a clear 'Product Standalone' shot, showcasing the raw material. The entire duration is kept according to the 'No-Mistake Rule' as it perfectly captures the subject's presentation without any irrelevant frames."
+    }
+  ]
+}

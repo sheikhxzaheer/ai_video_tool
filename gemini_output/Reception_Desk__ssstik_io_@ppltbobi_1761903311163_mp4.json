@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Reception Desk\\ssstik.io_@ppltbobi_1761903311163.mp4",
+  "detailed_description": "This video captures a humorous interaction at what appears to be an office or reception desk. A woman, dressed in a professional uniform, is questioned about her employment. Her facial expression transitions from thoughtful to a playful grin as she delivers a sarcastic and amusing response, pointing to her uniform and stating, 'Nah, I just really love this uniform.' The clip effectively showcases her comedic timing and a relatable moment of subtle sarcasm.",
+  "segments": [
+    {
+      "start_time": "00:05.500",
+      "end_time": "00:09.500",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "uniform",
+        "blazer",
+        "smile",
+        "office",
+        "reception desk",
+        "sarcasm"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clear focus",
+          "professional setting"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it contains the emotional climax (her facial expression changing to a smile), the key information (her spoken, sarcastic punchline), and her gesture towards the 'product' (her uniform). It perfectly encapsulates the humorous interaction that is the core value of the video, demonstrating both emotional reaction and a comedic 'talking head' moment."
+    }
+  ]
+}

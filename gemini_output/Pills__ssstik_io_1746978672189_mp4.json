@@ -1,0 +1,94 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pills\\ssstik.io_1746978672189.mp4",
+  "detailed_description": "The video offers a critical safety tip on how to properly dispose of prescription medication bottles to protect personal information. The speaker demonstrates peeling off the label of a medication bottle to remove identifying details like barcodes, prescription numbers, and patient information. He emphasizes the importance of this step to prevent potential scams or identity theft, drawing from his experience in a professional setting where clients are on heavy medications, but also advising it for common prescription drugs.",
+  "segments": [
+    {
+      "start_time": "00:10.150",
+      "end_time": "00:15.800",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Product_Intro",
+        "Product_Interaction",
+        "Key_Information",
+        "Human_Interaction",
+        "Home_Kitchen",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "man",
+        "beard",
+        "glasses",
+        "medication bottle",
+        "prescription label",
+        "hand holding bottle",
+        "pointing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "serious",
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment introduces the core problem and the initial solution, showing the product while the speaker highlights the sensitive information to be removed. It sets the context for the main demonstration."
+    },
+    {
+      "start_time": "00:21.400",
+      "end_time": "00:46.900",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Problem_State",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Key_Information",
+        "Human_Interaction",
+        "Home_Kitchen",
+        "Calm_Relaxation",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "man",
+        "beard",
+        "glasses",
+        "medication bottle",
+        "label",
+        "peeling label",
+        "hands",
+        "kitchen cabinets"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "serious",
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "direct address",
+          "close-up detail"
+        ]
+      },
+      "why_kept": "This is the primary 'hero moment' where the speaker reinforces the importance of the tip (Problem_State: 'It's happened'), provides context, identifies the specific product, and most importantly, visually demonstrates the process of peeling off the prescription label (Mechanism_Of_Action) to remove personal information (Product_Interaction). This segment delivers the core value and expertise."
+    }
+  ]
+}

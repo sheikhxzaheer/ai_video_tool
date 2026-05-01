@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Oprah\\ssstik.io_@oprah_1763034910293 (1).mp4",
+  "detailed_description": "This video perfectly captures the transformation of a custom Dolce & Gabbana gown from a preliminary design sketch to its exquisite final form, worn by Oprah Winfrey. Oprah gleefully displays the initial drawing of an off-the-shoulder purple mermaid-style dress, then transitions to reveal herself impeccably dressed in the actual gown. Her radiant smile and the side-by-side comparison underscore the successful realization of the design, highlighting the artistry of the fashion house and the elegance of the celebrity.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Behind_The_Scenes",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Oprah Winfrey",
+        "purple gown",
+        "Dolce & Gabbana sketch",
+        "fashion drawing",
+        "off-the-shoulder dress",
+        "mermaid silhouette",
+        "glittering clutch",
+        "smiling",
+        "posing",
+        "luxury fashion"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "elegant lighting",
+          "clear focus",
+          "high-fashion aesthetic",
+          "bright room"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it visually and verbally encapsulates the entire message of the video: the journey from a design concept ('how it started') to the finished product ('how it ended'). Oprah's direct interaction with the sketch, her full reveal in the dress, and her joyful expression provide the emotional climax and the clear 'Before/After' transformation that is the main point of the content."
+    }
+  ]
+}

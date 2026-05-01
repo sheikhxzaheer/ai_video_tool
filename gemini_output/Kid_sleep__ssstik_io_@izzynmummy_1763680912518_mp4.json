@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid sleep\\ssstik.io_@izzynmummy_1763680912518.mp4",
+  "detailed_description": "The video captures a serene moment of a young child, with dark curly hair, sleeping peacefully in a 'big boy bed.' The child is covered by a soft grey blanket, clutching a small white teddy bear, while a larger brown teddy bear and a teddy-bear-patterned pillow are visible in the background, creating a cozy and comforting sleep environment. The overlaid text, 'Pov: finally sleeping in his big boy bed,' emphasizes a significant developmental milestone for the child, conveying a sense of relief and quiet triumph for the parent. The scene beautifully illustrates calm and positive emotion associated with a successful sleep transition.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.010",
+      "structural_tags": [
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "Night_Routine",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "child sleeping",
+        "big boy bed",
+        "grey blanket",
+        "teddy bears",
+        "cozy bedroom"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "warm tones",
+          "homey feel"
+        ]
+      },
+      "why_kept": "This segment is the entire video and perfectly encapsulates the 'Semantic Core' by showing the child successfully sleeping in their new 'big boy bed,' as explicitly stated in the on-screen text. It demonstrates the final, desired outcome of a significant family milestone, conveying calm, positive emotion and highlighting the peaceful sleep routine."
+    }
+  ]
+}

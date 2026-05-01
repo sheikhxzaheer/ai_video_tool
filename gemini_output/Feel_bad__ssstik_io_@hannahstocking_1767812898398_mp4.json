@@ -1,0 +1,260 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Feel bad\\ssstik.io_@hannahstocking_1767812898398.mp4",
+  "detailed_description": "This video humorously depicts a man faking extreme illness to avoid work, and his wife, a nurse, playing along with the dramatic charade. It begins with the man coughing and collapsing, leading to a full-blown 'emergency' where he's rushed into their home by medical personnel. The wife provides exaggerated care, including showing him a coffin catalog, intensifying his dramatic performance. The narrative culminates in the man's sudden 'recovery' and his panicked retreat when his wife reveals his true condition, highlighting the comedic dynamic of their relationship.",
+  "segments": [
+    {
+      "start_time": "00:02.100",
+      "end_time": "00:05.800",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man coughing",
+        "distressed face",
+        "briefcase",
+        "car"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "serious",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "daylight",
+          "exaggerated acting"
+        ]
+      },
+      "why_kept": "This segment establishes the 'problem state' with the man's exaggerated cough and distressed facial expression, setting the comedic tone for his feigned illness."
+    },
+    {
+      "start_time": "00:05.900",
+      "end_time": "00:09.100",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "nurse scrubs",
+        "stethoscope",
+        "putting on gloves"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "professional attire"
+        ]
+      },
+      "why_kept": "This segment shows the wife's transformation into a nurse, putting on gloves, which signifies the start of the 'caregiving' process and her involvement in the charade."
+    },
+    {
+      "start_time": "00:09.300",
+      "end_time": "00:15.900",
+      "structural_tags": [
+        "Problem_State",
+        "Urgency_Rush",
+        "High_Energy",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "nurses",
+        "stretcher",
+        "man collapsing",
+        "being wheeled",
+        "house interior"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "urgent",
+          "playful",
+          "high_energy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera movement",
+          "exaggerated action"
+        ]
+      },
+      "why_kept": "This segment is a high-energy 'hero moment' depicting the dramatic intervention by the 'nurses' and the man's exaggerated collapse onto the stretcher, underscoring the comedic premise."
+    },
+    {
+      "start_time": "00:20.000",
+      "end_time": "00:23.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman (nurse)",
+        "man in bed",
+        "ice pack",
+        "thermometer",
+        "medical monitor"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "clinical",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "close-up on medical actions"
+        ]
+      },
+      "why_kept": "This segment showcases the nurse's 'labor' in attending to the 'patient,' applying an ice pack and checking vitals, which adds to the comedic detail of the elaborate pretense."
+    },
+    {
+      "start_time": "00:27.500",
+      "end_time": "00:30.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Negative_Emotion",
+        "Financial_Stress",
+        "Key_Information",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "coffin catalog",
+        "prices",
+        "crying",
+        "bed"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "playful",
+          "negative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct framing",
+          "emotional facial expression"
+        ]
+      },
+      "why_kept": "This is a key emotional climax where the man's feigned illness reaches its peak, as he cries while looking at a coffin catalog, hilariously demonstrating his exaggerated fear and concern over 'costs'."
+    },
+    {
+      "start_time": "00:37.500",
+      "end_time": "00:39.500",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "man",
+        "woman (nurse)",
+        "comfort",
+        "crying",
+        "bed"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "caring",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "warm lighting",
+          "intimate framing"
+        ]
+      },
+      "why_kept": "This segment shows the human interaction of the wife comforting the 'ailing' husband, further building the deceptive narrative and highlighting her empathetic role in the prank."
+    },
+    {
+      "start_time": "00:41.000",
+      "end_time": "00:47.900",
+      "structural_tags": [
+        "Result_Transformation",
+        "Shock_Surprise",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Urgency_Rush"
+      ],
+      "visual_keywords": [
+        "man",
+        "woman (nurse)",
+        "briefcase",
+        "door",
+        "shocked face",
+        "running away"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "shock",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic action",
+          "comedic timing"
+        ]
+      },
+      "why_kept": "This is the ultimate 'reveal' and 'result transformation' moment. The man's sudden full recovery and subsequent terrified retreat, coupled with the wife's shocked expression, delivers the punchline of the entire video."
+    }
+  ]
+}

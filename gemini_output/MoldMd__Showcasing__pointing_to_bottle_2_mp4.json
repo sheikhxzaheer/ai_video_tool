@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\pointing to bottle 2.mp4",
+  "detailed_description": "The video presents a man in a home kitchen enthusiastically showcasing a bottle of 'MoldMD Mold Spot Remover'. He smiles confidently while holding the product, pointing directly to its label, and giving a thumbs-up, clearly indicating approval and endorsement. This segment serves as a visual introduction and positive recommendation for the cleaning product.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.384",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "MoldMD bottle",
+        "smiling",
+        "pointing",
+        "thumbs-up",
+        "kitchen"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it visually introduces the product, demonstrates clear human interaction (holding, pointing, thumbs-up), and conveys a strong positive emotional reaction (smiling face, thumbs-up) from the subject, fulfilling multiple 'Hero Moment' criteria for product endorsement and presentation without any dead air or setup footage."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Couple\\ssstik.io_@repnicktv_1767008707779.mp4",
+  "detailed_description": "This video humorously illustrates the progressive changes in a couple's sleeping positions as their relationship evolves over time. Starting from a month into the relationship, where they are closely cuddled, the video shows a gradual increase in physical distance. By six months, they are still intimate but slightly less intertwined, then transition to sleeping back-to-back after a year, and finally depict a fully separated, independent sleeping arrangement once married, humorously implying a decline in intimacy. The man's facial expressions subtly shift from contentment to indifference, mirroring the changing dynamics.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.820",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Before_After",
+        "Positive_Emotion",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "couple sleeping",
+        "bed",
+        "cuddling",
+        "sleeping apart",
+        "progression of time",
+        "man's expression",
+        "woman sleeping"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "bedroom setting"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it fully demonstrates the progressive change in sleeping positions over the course of a relationship, which is the central theme of the video. Each stage contributes to the overarching narrative of relationship evolution, making it impossible to trim without losing significant context and the intended humorous progression. It captures the 'before and after' over multiple stages."
+    }
+  ]
+}

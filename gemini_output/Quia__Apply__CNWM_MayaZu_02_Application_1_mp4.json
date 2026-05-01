@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Apply\\CNWM_MayaZu_02_Application 1.mp4",
+  "detailed_description": "This video captures a close-up of an individual meticulously applying a clear gel-like facial product to their cheek and jawline using a silicone brush. The process demonstrates the texture of the product as it's spread across the skin, creating a visibly hydrated and luminous effect. The segment focuses on the precise and gentle application, highlighting a skincare routine step.",
+  "segments": [
+    {
+      "start_time": "00:02.300",
+      "end_time": "00:18.967",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Macro_Detail",
+        "Morning_Routine",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "face",
+        "skin",
+        "clear gel",
+        "silicone brush",
+        "product application",
+        "skincare",
+        "routine",
+        "glowing skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "focused shot",
+          "skincare aesthetic"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully demonstrates the primary action of the video: the application of a facial product using a specific tool. It showcases the product's interaction with the skin and the process of a skincare routine, fulfilling the 'Product Interaction' and 'The Process/Labor' hero moment criteria."
+    }
+  ]
+}

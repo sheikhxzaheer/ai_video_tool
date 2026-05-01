@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Emotion\\Man\\ð¥ð│ð¥ 2.mp4",
+  "detailed_description": "This video captures a moment during a video call, showcasing a distinct emotional climax. The individual on the phone screen reacts with an exaggerated expression of shock or surprise, initially with an open mouth, then quickly covering it with their hand. The clip focuses entirely on this immediate and clear 'Wow' reaction, highlighting the impactful human interaction through technology.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Shock_Surprise",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "smartphone",
+        "video call",
+        "man reacting",
+        "surprised face",
+        "open mouth",
+        "hand over mouth"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background",
+          "handheld shot"
+        ]
+      },
+      "why_kept": "This segment is the semantic core because it directly presents an 'Emotional Climax' through the clear facial expression of shock and surprise from the person on the video call. The entire duration captures this immediate reaction, demonstrating the value and impact of the interaction without any setup or post-action dead air, adhering to the 'No-Mistake Rule'."
+    }
+  ]
+}

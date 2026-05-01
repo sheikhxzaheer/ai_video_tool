@@ -1,0 +1,181 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Douxds product\\ð©Ðüð┐ð¥ð╗ÐîðÀÐâðÁÐé ð┐ÐÇð¥ð┤Ðâð║Ðé 18.mp4.mp4",
+  "detailed_description": "This video showcases a men's daily skincare routine using Douxds products. It begins by introducing the product line, specifically a face wash and a primer. The core of the video demonstrates the application of the face wash using a cleansing device, followed by rinsing and drying the face. The routine concludes with the application of a primer, highlighting the ease of use and the desired refreshed result.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.300",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "product box",
+        "packaging",
+        "douxds flex"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "top-down shot"
+        ]
+      },
+      "why_kept": "Introduces the brand and main product line packaging."
+    },
+    {
+      "start_time": "00:01.300",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "product sachets",
+        "face wash",
+        "prime",
+        "hands holding product"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "hands holding product"
+        ]
+      },
+      "why_kept": "Introduces the specific individual product sachets for the routine."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:11.700",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Human_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "opening sachet",
+        "applying face wash",
+        "facial cleansing device",
+        "man washing face",
+        "mirror reflection"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "mirror shot",
+          "clear action",
+          "focused on face"
+        ]
+      },
+      "why_kept": "This segment is the core demonstration of the product's application and use, showing the main 'doing the work' and 'product interaction' hero moments."
+    },
+    {
+      "start_time": "00:11.700",
+      "end_time": "00:13.900",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "rinsing face",
+        "drying face",
+        "towel",
+        "sink"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "mirror reflection"
+        ]
+      },
+      "why_kept": "Shows the essential steps of a skincare routine following the product application."
+    },
+    {
+      "start_time": "00:13.900",
+      "end_time": "00:16.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Result_Transformation",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "applying moisturizer",
+        "man checking face",
+        "satisfied expression",
+        "mirror reflection"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "mirror shot",
+          "clear expression"
+        ]
+      },
+      "why_kept": "Concludes the routine with a final product application and a clear 'result' expressed through facial satisfaction, reinforcing the value proposition."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Spraying\\IMG_0173.MOV",
+  "detailed_description": "This video captures the immediate action of addressing a mold problem in an under-sink cabinet. A hand uses a white spray bottle to apply a cleaning solution directly onto a patch of black mold visible on the light-colored cabinet surface, demonstrating the initial step in a cleaning process. The shot focuses on the interaction with the product and the problem area, highlighting the mechanism of action.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.946",
+      "structural_tags": [
+        "Problem_State",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hand",
+        "spray bottle",
+        "cleaning solution",
+        "mold",
+        "cabinet",
+        "sink pipes",
+        "wires"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct lighting",
+          "functional shot"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it perfectly captures the 'Process/Labor' and 'Product Interaction' hero moments. It immediately shows the action of spraying a cleaning agent onto visible mold, which is the core problem-solving demonstration of the video. There is no setup, dead air, or extraneous footage; the action starts and ends precisely within this timeframe."
+    }
+  ]
+}

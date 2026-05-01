@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\CNWM_NyejaSeltsam_09_Application 4.mov",
+  "detailed_description": "This video captures a woman in a pink headband diligently applying a clear gel-like facial product to her cheek using a white and gold silicone brush. The focus is on the precise application, demonstrating a step in a skincare routine. Her expression is calm and focused, highlighting the product's interaction with her skin.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.908",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "applying face mask",
+        "silicone brush",
+        "gel mask",
+        "pink headband",
+        "skincare routine"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "direct focus"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it perfectly captures the 'Product Interaction' and 'The Process/Labor' hero moments. The entire video shows the continuous and active application of the product with the brush, with no setup, calibration, or post-action dead air, adhering to the 'No-Mistake' rule."
+    }
+  ]
+}

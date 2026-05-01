@@ -1,0 +1,248 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ssstik.io_1750335652875.mp4",
+  "detailed_description": "The video demonstrates the transformation of a man's gray hair to black using a 'Color-Dyeing Shampoo.' It shows the step-by-step application of the shampoo to the man's graying hair, followed by a brief waiting period. The core meaning highlights the product's effectiveness, showcasing the dramatic before-and-after transformation with the man expressing clear satisfaction. The video concludes with product packaging and feature details, emphasizing its ease of use for achieving stunning, salon-quality results without mess or effort.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Product_Interaction",
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "gray hair",
+        "man",
+        "gloves",
+        "applying shampoo",
+        "product bottle",
+        "hair dye"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "demonstration style"
+        ]
+      },
+      "why_kept": "This segment introduces the problem state (gray hair) and immediately shows the product being applied, establishing the core action and product interaction."
+    },
+    {
+      "start_time": "00:05.900",
+      "end_time": "00:12.600",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "shampoo",
+        "gray hair",
+        "hands",
+        "massaging",
+        "plastic wrap",
+        "clock graphic"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "demonstration style",
+          "time overlay"
+        ]
+      },
+      "why_kept": "This segment continues to show the product application process, including the crucial step of wrapping the head and introducing the element of time needed for the dye to work, which is part of the mechanism of action."
+    },
+    {
+      "start_time": "00:12.600",
+      "end_time": "00:16.200",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Time_Wasted"
+      ],
+      "visual_keywords": [
+        "clock",
+        "time passing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "dark background",
+          "minimalist"
+        ]
+      },
+      "why_kept": "This segment visually represents the waiting period, a necessary part of the hair dyeing process, indicating the product's mechanism of action over time."
+    },
+    {
+      "start_time": "00:16.200",
+      "end_time": "00:17.900",
+      "structural_tags": [
+        "Result_Transformation",
+        "Reveal_Result",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "dark hair",
+        "smiling man",
+        "applicator",
+        "hair dye"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "joyful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct reveal"
+        ]
+      },
+      "why_kept": "This is a key 'hero moment' showing the immediate and dramatic transformation of gray hair to black, accompanied by a clear positive emotional reaction from the customer."
+    },
+    {
+      "start_time": "00:17.900",
+      "end_time": "00:21.400",
+      "structural_tags": [
+        "Result_Transformation",
+        "Reveal_Result",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "dark hair",
+        "towel",
+        "man",
+        "happy",
+        "hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear visuals",
+          "reinforcing the result"
+        ]
+      },
+      "why_kept": "This segment further reinforces the successful transformation by showing the hair being dried and the man's continued satisfaction, solidifying the 'after' state."
+    },
+    {
+      "start_time": "00:21.400",
+      "end_time": "00:23.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Key_Information",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "product bottle",
+        "shampoo",
+        "woman model",
+        "dark hair",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "aspirational"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "marketing graphics"
+        ]
+      },
+      "why_kept": "This segment introduces the product visually with its branding and a model, providing essential product identification and an aspirational image."
+    },
+    {
+      "start_time": "00:23.500",
+      "end_time": "00:26.550",
+      "structural_tags": [
+        "Product_Standalone",
+        "Key_Information",
+        "Ingredient_Highlight",
+        "Formula_Graphic",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "product box",
+        "shampoo",
+        "ingredients (ginger, ginseng)",
+        "text features"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "informative",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "feature callouts"
+        ]
+      },
+      "why_kept": "This final segment provides key information about the product's features, ingredients, and ease of use, acting as a call to action by detailing its benefits."
+    }
+  ]
+}

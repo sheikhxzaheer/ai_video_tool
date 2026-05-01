@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Coffee\\ssstik.io_@thecreatorninja_1774370507978.mp4",
+  "detailed_description": "This video captures the serene and aesthetic process of brewing fresh coffee using an espresso machine. Steam rises from the portafilter as a rich stream of coffee pours directly into a speckled ceramic mug, held gently by a person's hands. The warm, natural light illuminates the scene, highlighting the rich crema forming in the cup. It emphasizes the simple pleasure and quality experience of making and enjoying a handcrafted coffee.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.903",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Home_Kitchen",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "espresso machine",
+        "coffee",
+        "cup",
+        "hands",
+        "steam",
+        "pouring",
+        "crema",
+        "kitchen counter",
+        "natural light"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "warm tones",
+          "soft focus background",
+          "steady shot"
+        ]
+      },
+      "why_kept": "This entire segment is the Semantic Core, showcasing the complete process of coffee pouring from an espresso machine into a cup, representing both the product interaction and the appealing final result. It starts immediately with the action and ends as the coffee is still being poured, adhering to the 'no-mistake' rule by keeping 100% of the duration."
+    }
+  ]
+}

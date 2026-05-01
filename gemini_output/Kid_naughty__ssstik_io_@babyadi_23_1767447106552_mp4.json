@@ -1,0 +1,86 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Kid naughty\\ssstik.io_@babyadi.23_1767447106552.mp4",
+  "detailed_description": "A baby lies on a grey couch, crying intensely with a wide-open mouth, clearly distressed. An adult's hand introduces a baby bottle, and as the baby begins to drink, its crying immediately ceases, and it calms down. After a brief pause, the baby starts crying again, only to be soothed once more when the bottle is reintroduced, demonstrating the immediate comforting effect of feeding.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Calm_Relaxation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "baby crying",
+        "baby bottle",
+        "drinking milk",
+        "calm baby",
+        "adult hand",
+        "couch"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "straight on shot",
+          "comforting action"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the problem (a crying baby), introduces the product (baby bottle), and demonstrates the immediate positive result (the baby calming down upon feeding), forming the core narrative of the video."
+    },
+    {
+      "start_time": "00:08.700",
+      "end_time": "00:16.216",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Calm_Relaxation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "baby crying",
+        "baby bottle",
+        "drinking milk",
+        "calm baby",
+        "adult hand",
+        "couch"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "straight on shot",
+          "comforting action"
+        ]
+      },
+      "why_kept": "This segment reinforces the established problem-solution cycle by showing a second instance of the baby crying and being soothed by the bottle, further emphasizing the product's effectiveness and the baby's immediate relief."
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad foundation\\ssstik.io_@glamzilla_1761064372125.mp4",
+  "detailed_description": "The video features a woman demonstrating the application of a new foundation, expressing immense satisfaction with its performance. She applies the product using both a brush and a beauty blender, showcasing its smooth application and natural finish. Subsequently, she reveals the product as Laura Mercier's Real Flawless Weightless Perfecting Foundation, emphasizing its waterproof and long-lasting formula, and shares her specific shade. Her enthusiastic reaction throughout highlights the product's quality and her personal endorsement.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:36.700",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "High_Energy",
+        "UGC_Talking_Head",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "applying foundation",
+        "makeup brush",
+        "beauty blender",
+        "face",
+        "glowing skin",
+        "woman talking",
+        "makeup application"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the process of applying the foundation, showcasing its immediate effect and the user's strong positive emotional response. It covers the 'Process/Labor', 'Product Interaction', 'Emotional Climax', and 'Reveal/Result' criteria."
+    },
+    {
+      "start_time": "00:36.700",
+      "end_time": "00:57.900",
+      "structural_tags": [
+        "Product_Intro",
+        "Key_Information",
+        "Social_Proof",
+        "Positive_Emotion",
+        "High_Energy",
+        "Face_Reaction",
+        "Product_Standalone",
+        "Human_Interaction",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "holding foundation bottle",
+        "Laura Mercier",
+        "foundation product",
+        "woman talking",
+        "smiling",
+        "product description"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "premium",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment is crucial for the 'Key Information' and 'Product Interaction' criteria. The speaker introduces the specific product, highlights its key features (waterproof, long-lasting), and reiterates her enthusiastic recommendation while visibly holding the product, adhering to the 'Visual Priority Rule'."
+    }
+  ]
+}

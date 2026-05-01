@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan cap\\IMG_7611.MOV",
+  "detailed_description": "This video effectively demonstrates the discreet and convenient use of a red light therapy hair growth cap within a daily routine. It begins by showcasing the cap's internal red lights, highlighting its core feature, before the user puts it on. The man is then shown comfortably wearing the cap while grocery shopping in the produce section of a supermarket, emphasizing how the device seamlessly integrates into an active lifestyle without drawing attention. The segment concludes with a subtle positive reaction from the user, reinforcing the product's ease of use and user satisfaction.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.300",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man with beard",
+        "black cap",
+        "red lights",
+        "supermarket",
+        "produce section",
+        "vegetables",
+        "shopping cart",
+        "wearing cap",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the semantic core because it comprehensively showcases the product from its initial reveal (red lights inside the cap), through its application (putting it on), and its practical, discreet use during a common daily activity (grocery shopping). The subtle smile at the end adds a positive emotional component, making it a complete demonstration of the product's intended user experience."
+    }
+  ]
+}

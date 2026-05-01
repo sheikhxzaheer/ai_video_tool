@@ -1,0 +1,191 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Woman\\ssstik.io_@dentilifepa_1760035436734.mp4",
+  "detailed_description": "This video is a dynamic montage celebrating 'women in dentistry,' showcasing various professionals actively engaged in their roles within a modern dental office. It highlights dentists performing procedures with precision, utilizing dental tools and technology, and reviewing patient X-rays. The video also features staff members at their workstations and in clinic hallways, all with smiles, conveying a positive, professional, and approachable work environment in the dental field. It emphasizes the dedication and skilled work of women in this profession.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.627",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Workspace_Office",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "dentist",
+        "dental assistant",
+        "patient",
+        "dental chair",
+        "dental tools",
+        "loupes",
+        "face mask",
+        "scrubs"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "monochromatic",
+          "well-lit",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is the primary 'Hero Moment' demonstrating the core professional action (The Process/Labor) of a dentist actively working on a patient, which is central to the theme of 'women in dentistry'."
+    },
+    {
+      "start_time": "00:00.627",
+      "end_time": "00:01.328",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Workspace_Office",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "dentist",
+        "X-ray screen",
+        "patient",
+        "dental chair",
+        "scrubs"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "clinical",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "monochromatic",
+          "well-lit",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment showcases another critical aspect of dental work – reviewing X-rays – providing a broader view of the professional responsibilities within dentistry."
+    },
+    {
+      "start_time": "00:01.328",
+      "end_time": "00:02.129",
+      "structural_tags": [
+        "Workspace_Office",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "dentist",
+        "computer",
+        "desk",
+        "smile",
+        "face mask",
+        "scrubs"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "monochromatic",
+          "well-lit"
+        ]
+      },
+      "why_kept": "This segment captures an 'Emotional Climax' with the dentist smiling, reflecting the positive and approachable demeanor of women in the dental profession, which reinforces the video's core message."
+    },
+    {
+      "start_time": "00:02.829",
+      "end_time": "00:03.429",
+      "structural_tags": [
+        "Workspace_Office",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "dental staff",
+        "computer",
+        "desk",
+        "smile"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "monochromatic",
+          "well-lit"
+        ]
+      },
+      "why_kept": "This segment further reinforces the theme by showcasing another female staff member in a dental office setting, smiling and contributing to the positive representation of women in dentistry."
+    },
+    {
+      "start_time": "00:03.429",
+      "end_time": "00:04.129",
+      "structural_tags": [
+        "Workspace_Office",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "dental staff",
+        "protective gown",
+        "face mask",
+        "smile",
+        "hallway"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "professional"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "monochromatic",
+          "well-lit",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This clip expands on the 'Emotional Climax' and 'Workspace_Office' by showing another smiling female professional in a clinical setting, contributing to the diverse and positive portrayal of women in dentistry."
+    }
+  ]
+}

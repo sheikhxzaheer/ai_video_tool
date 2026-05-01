@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1750432291668.mp4",
+  "detailed_description": "A middle-aged man with grey hair and a beard, wearing a lemon-patterned shirt, speaks directly to the camera from what appears to be a balcony. He discusses the intense heatwave in Guadalajara, Mexico, mentioning temperatures of 35 degrees Celsius and an upcoming 'wave of heat.' He connects this to global climate change, highlighting irregular weather patterns like rain, hail, and hurricanes in unusual places. He urges viewers to contribute to environmental protection by cycling, driving less, planting trees, and recycling to ensure a better world for future generations.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:58.500",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Problem_State",
+        "Offer_CTA",
+        "Calm_Relaxation",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "grey hair",
+        "beard",
+        "lemon shirt",
+        "gesturing",
+        "potted plant",
+        "balcony",
+        "window",
+        "city view"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct gaze",
+          "natural light",
+          "casual attire",
+          "vlogging style",
+          "balcony setting"
+        ]
+      },
+      "why_kept": "This segment is the complete semantic core, functioning as a 'Key Information' talking head where the speaker delivers a cohesive message about climate change, describes a 'Problem State' (heatwave and irregular weather), and provides an 'Offer_CTA' with actionable solutions for environmental care. There are no identifiable 'setup & calibration' or 'post-action dead air' portions that require trimming, as the delivery is continuous and relevant from start to finish."
+    }
+  ]
+}

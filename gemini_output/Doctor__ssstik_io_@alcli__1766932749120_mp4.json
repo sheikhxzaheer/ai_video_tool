@@ -1,0 +1,55 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\ssstik.io_@alcli__1766932749120.mp4",
+  "detailed_description": "This video captures a C-section delivery, highlighting the physical and emotional strength of mothers who undergo this procedure. The footage shows a team of medical professionals performing the surgery, culminating in the birth of a newborn. Overlaying text emphasizes the complexity of the surgery, involving seven layers of tissue, and the expectation for mothers to be mobile soon after, all while immediately assuming responsibility for a fragile new life. The video concludes by celebrating C-section mothers as incredibly strong and encourages pride in their journey.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:27.000",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Key_Information",
+        "Process_Labor",
+        "Reveal_Result",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "Cesarean section",
+        "surgery",
+        "operating room",
+        "doctors",
+        "newborn baby",
+        "medical tools",
+        "IV drip",
+        "surgical lights",
+        "mother",
+        "birth"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "hospital",
+          "operating room",
+          "clinical"
+        ],
+        "mood": [
+          "serious",
+          "clinical",
+          "hopeful",
+          "emotional"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright clinical lighting",
+          "documentary style",
+          "overhead view",
+          "real-time action"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it fully encapsulates the video's core message and visual narrative. It includes the crucial text overlay that provides context and meaning, as well as the climactic moment of the baby's birth, which serves as the ultimate 'reveal/result' and 'emotional climax'. The entire duration effectively demonstrates the 'process/labor' of a C-section and the profound outcome. There is no setup/calibration or post-action dead air that detracts from the central theme, adhering to the 'NO-MISTAKE' rule."
+    }
+  ]
+}

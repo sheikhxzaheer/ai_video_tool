@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\All Product B Roll\\PXL_20250521_033542002.mp4",
+  "detailed_description": "This video, effectively a still image, captures two 'PRFCT MORNING' product packets, 'TANGERINE PULSE,' displayed on a rustic wooden surface. The products are positioned against a stunning backdrop of a golden sunrise over a body of water, viewed through a window. The scene evokes a sense of calm and a premium morning routine, subtly highlighting the product in an aspirational, natural setting.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Aesthetic_Broll",
+        "Morning_Routine",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "product sachets",
+        "PRFCT MORNING",
+        "TANGERINE PULSE",
+        "wooden surface",
+        "sunrise",
+        "ocean",
+        "window frame",
+        "natural light"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "ocean"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "golden hour lighting",
+          "natural light",
+          "aspirational setting"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it presents the product prominently within an aspirational lifestyle context, specifically a serene morning routine with a beautiful sunrise backdrop. It acts as a visual hook, showcasing the product in a premium, natural setting, aligning with the implied brand messaging."
+    }
+  ]
+}

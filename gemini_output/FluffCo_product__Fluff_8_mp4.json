@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_8.mp4",
+  "detailed_description": "This video segment visually introduces the topic of sleep setup improvements. It features a medium shot of a neatly made bed with white pillows and a light-colored duvet, providing the core visual context for an upcoming discussion or demonstration. The overlaid text explicitly hints at 'improvements' the creator has made, setting the stage for the video's content.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:02.00",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Standalone",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "bed",
+        "pillows",
+        "duvet",
+        "headboard",
+        "bedroom",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "home",
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clean aesthetic",
+          "light colors",
+          "minimalist"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it acts as the primary visual hook and context setter for the video's implied theme of 'sleep setup improvements.' Despite its brevity, it directly presents the subject (the bed) and introduces the core topic via text, making it the semantic core and a complete introductory unit as per the 'No-Mistake' rule."
+    }
+  ]
+}

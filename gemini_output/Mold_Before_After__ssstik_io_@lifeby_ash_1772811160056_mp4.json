@@ -1,0 +1,246 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Mold Before_After\\ssstik.io_@lifeby_ash_1772811160056.mp4",
+  "detailed_description": "The video showcases the removal of black mold from a damp apartment wall and skirting board. It begins by highlighting the extensive mold problem, then introduces an 'ASDA Mould & Mildew Cleaning Spray.' The product is directly applied to the affected areas, demonstrating an immediate and powerful chemical reaction that visibly dissolves the mold. The process is completed by wiping away the residue, revealing perfectly clean, white surfaces, illustrating the product's effective transformation. This is repeated for a second area, reinforcing the cleaning spray's efficacy.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "mold",
+        "damp apartment",
+        "wall",
+        "skirting board",
+        "black spots",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "unpleasant"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "close up",
+          "white walls"
+        ]
+      },
+      "why_kept": "This segment establishes the problem state clearly and acts as a visual hook, showing the extent of the mold infestation."
+    },
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "hand",
+        "cleaning spray bottle",
+        "ASDA Mould & Mildew",
+        "anti-bac"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "product focus",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment introduces the product that will be used to solve the problem, clearly displaying its branding and purpose."
+    },
+    {
+      "start_time": "00:04.288",
+      "end_time": "00:11.334",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "spray",
+        "mould remover",
+        "wall",
+        "skirting board",
+        "mold disappearing",
+        "liquid dripping"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "satisfying",
+          "effective"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "action shot",
+          "fast paced",
+          "visible chemical reaction"
+        ]
+      },
+      "why_kept": "This is the primary hero moment, demonstrating the product's effectiveness as the mold visibly disappears upon application, showing the core 'Mechanism_Of_Action' and immediate 'Result_Transformation'."
+    },
+    {
+      "start_time": "00:11.334",
+      "end_time": "00:16.160",
+      "structural_tags": [
+        "The_Process/Labor",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "hand",
+        "cloth",
+        "wiping",
+        "skirting board",
+        "clean surface",
+        "carpet"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "satisfying"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "cleaning action",
+          "steady shot"
+        ]
+      },
+      "why_kept": "This segment shows the completion of the cleaning process, ensuring a pristine finish and solidifying the 'Result_Transformation' after the initial spray."
+    },
+    {
+      "start_time": "00:17.382",
+      "end_time": "00:18.298",
+      "structural_tags": [
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "wall",
+        "mold spots",
+        "corner"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "pan up",
+          "detailed view"
+        ]
+      },
+      "why_kept": "This re-establishes the 'Problem_State' on a different section of the wall, setting up a second demonstration of the product's efficacy."
+    },
+    {
+      "start_time": "00:18.298",
+      "end_time": "00:20.101",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "hand",
+        "spray",
+        "wall",
+        "mold disappearing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "satisfying",
+          "effective"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "action shot",
+          "fast paced",
+          "visible chemical reaction"
+        ]
+      },
+      "why_kept": "This segment reinforces the product's effectiveness by showing a repeated application with the same rapid 'Result_Transformation' of disappearing mold."
+    },
+    {
+      "start_time": "00:20.101",
+      "end_time": "00:23.000",
+      "structural_tags": [
+        "The_Process/Labor",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "hand",
+        "cloth",
+        "wiping",
+        "wall",
+        "clean surface"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "satisfying"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "cleaning action",
+          "final result",
+          "steady shot"
+        ]
+      },
+      "why_kept": "This final segment completes the cleaning cycle for the second area, demonstrating the thoroughness of the cleaning process and presenting the final clean 'Result_Transformation'."
+    }
+  ]
+}

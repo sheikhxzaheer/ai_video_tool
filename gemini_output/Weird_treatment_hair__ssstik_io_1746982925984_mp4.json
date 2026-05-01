@@ -1,0 +1,119 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ssstik.io_1746982925984.mp4",
+  "detailed_description": "This video captures the process of a man creating a homemade hair growth oil using minced serrano peppers and flaxseed oil. He demonstrates meticulously dicing the peppers and adding them into small bottles before pouring in the oil, explaining his goal to achieve even application with reduced intensity. The man then shows himself applying the concoction to his scalp with a pad, noting a significant decrease in the burning sensation while still feeling a beneficial tingle. He concludes by expressing satisfaction with the early results and hints at a follow-up video to track his progress.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:37.896",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "Ingredient_Highlight",
+        "Home_Kitchen",
+        "Human_Interaction",
+        "Product_Intro"
+      ],
+      "visual_keywords": [
+        "chopping",
+        "serrano peppers",
+        "seeds",
+        "small bottle",
+        "wooden board",
+        "man preparing",
+        "flaxseed oil"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": "kitchen",
+        "mood": "serious",
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": "natural lighting, focused action"
+      },
+      "why_kept": "This segment is kept as an ANCHOR because it directly demonstrates 'The Process/Labor' of creating the hair oil, showcasing the key ingredients and the meticulous preparation involved, which is central to the video's expertise and value proposition."
+    },
+    {
+      "start_time": "00:37.896",
+      "end_time": "00:41.696",
+      "structural_tags": [
+        "Product_Intro",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Home_Kitchen",
+        "Human_Interaction",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "small bottle",
+        "green liquid",
+        "man smiling",
+        "kitchen counter"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": "kitchen",
+        "mood": "calm",
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": "natural lighting, direct address"
+      },
+      "why_kept": "This segment is kept as BROLL because it serves as a 'Product Intro' by showing the completed oil and an 'Emotional Climax' with the man's smile, indicating satisfaction, and providing 'Key Information' about the reduced tingle, setting up the application phase."
+    },
+    {
+      "start_time": "00:41.696",
+      "end_time": "01:21.800",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "applying oil",
+        "scalp",
+        "pad",
+        "bottle",
+        "man's head",
+        "even application"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": "kitchen",
+        "mood": "serious",
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": "overhead perspective, detailed application"
+      },
+      "why_kept": "This is a primary ANCHOR segment as it visually demonstrates 'Product Interaction' and the 'Mechanism of Action,' showing how the oil is applied to the scalp. This is where the core value of the product's application and effect is directly showcased."
+    },
+    {
+      "start_time": "01:21.800",
+      "end_time": "01:27.170",
+      "structural_tags": [
+        "Positive_Emotion",
+        "UGC_Talking_Head",
+        "Offer_CTA",
+        "Human_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "man smiling",
+        "satisfied expression",
+        "kitchen background"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": "kitchen",
+        "mood": "positive",
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": "direct gaze, closing statement"
+      },
+      "why_kept": "This segment acts as BROLL and a strong 'Emotional Climax' and implied 'Offer_CTA'. The man's genuine smile conveys a positive result, and his closing statement builds anticipation for future content, reinforcing the overall success of the demonstration."
+    }
+  ]
+}

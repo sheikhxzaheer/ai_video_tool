@@ -1,0 +1,111 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ssstik.io_1751795802792.mp4",
+  "detailed_description": "The video captures a young man playfully applying a bright blue, slimy substance to his hair in various public outdoor settings, primarily a gas station. He demonstrates a range of positive emotional reactions, from excited smiles during the initial application to amused expressions while spreading the unique hair mask. A key moment involves him stretching the gooey substance, highlighting its distinct texture and reinforcing the whimsical nature of the 'slime hair mask' concept. The video conveys a fun, lighthearted approach to a hair treatment performed in public.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Process_Labor",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "pouring slime",
+        "blue slime",
+        "man smiling",
+        "gas station"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "playful",
+          "high_energy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "dynamic camera"
+        ]
+      },
+      "why_kept": "This segment immediately establishes the core concept of applying a 'slime hair mask' in public, featuring the initial product interaction and a strong, positive emotional reaction from the subject, serving as an effective visual hook."
+    },
+    {
+      "start_time": "00:14.900",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "man smiling",
+        "blue slime on hair",
+        "adjusting hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "playful",
+          "high_energy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "close-up"
+        ]
+      },
+      "why_kept": "This segment reinforces the subject's positive engagement with the hair mask through a close-up shot, showcasing his continued joyful facial expressions and active product interaction as he adjusts the slime."
+    },
+    {
+      "start_time": "00:25.000",
+      "end_time": "00:29.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "pulling blue slime",
+        "stretching slime",
+        "man smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "playful",
+          "high_energy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "dynamic action"
+        ]
+      },
+      "why_kept": "This segment serves as a 'reveal' moment, explicitly demonstrating the unique, stretchy texture of the slime hair mask. The subject's clear and joyful reaction further emphasizes the playful and distinctive nature of the product."
+    }
+  ]
+}

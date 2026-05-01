@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury home\\ssstik.io_@skylinebestviewresto_1766728001388.mp4",
+  "detailed_description": "The video provides an immersive tour of a luxurious rooftop restaurant or bar at night, beginning with a captivating panoramic view of a sprawling city sparkling with lights. The camera then smoothly pans to reveal the establishment's sophisticated open-air design, featuring elegant wooden flooring, stylish white and dark cushioned seating areas, and ambient lighting that includes hanging spherical lamps and trees adorned with warm, glowing lights. This sequence effectively showcases both the breathtaking urban vista and the inviting, serene atmosphere of the venue, highlighting its unique aesthetic and potential for a memorable evening experience.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:11.75",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Night_Routine",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "city lights",
+        "night view",
+        "rooftop restaurant",
+        "outdoor seating",
+        "wooden tables",
+        "couches",
+        "ambient lighting",
+        "glowing trees",
+        "glass railing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "romantic"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "night photography",
+          "ambient lighting",
+          "panoramic view",
+          "modern design"
+        ]
+      },
+      "why_kept": "This entire segment serves as the 'Semantic Core' as it provides a complete and continuous visual presentation of the rooftop restaurant's main appeal: its stunning night cityscape view combined with its elegant, ambient interior. The pan from the wide city view to the detailed interior setup acts as a full 'reveal' of the location, with no extraneous or trim-worthy frames. It seamlessly introduces the setting and its atmosphere."
+    }
+  ]
+}

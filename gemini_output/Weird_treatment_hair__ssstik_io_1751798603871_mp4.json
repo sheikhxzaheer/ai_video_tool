@@ -1,0 +1,54 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ssstik.io_1751798603871.mp4",
+  "detailed_description": "The video captures a playful and humorous moment where a young man attempts to play with light blue slime that he initially claims is 'perfect' and doesn't stick. He proceeds to put it on his head, only for the slime to become incredibly messy, covering his hair, face, and clothing. A woman joins in, playfully pushing more slime onto him, leading to his exaggerated screams and laughter, showcasing a mix of shock and amusement at the unexpected stickiness. The scene culminates in a hilariously messy situation, emphasizing the chaotic fun of the activity.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "02:29.623",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Shock_Surprise",
+        "High_Energy",
+        "Messy_Unorganized"
+      ],
+      "visual_keywords": [
+        "man",
+        "woman",
+        "slime",
+        "light blue slime",
+        "sprinkles",
+        "bowl",
+        "mess",
+        "laughter",
+        "screaming",
+        "hoodie",
+        "pajama pants"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "spontaneous",
+          "casual setting"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core. It demonstrates the complete humorous narrative: the initial confidence in the slime, the process of interaction, the unexpected and messy 'result transformation' of the slime getting stuck and covering the man, and the emotional climax of both subjects' reactions (shock, laughter, playful struggle). There is no significant setup or dead air; the action is continuous and builds to the core comedic moment."
+    }
+  ]
+}

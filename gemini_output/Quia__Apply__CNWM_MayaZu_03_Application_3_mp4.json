@@ -1,0 +1,79 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Apply\\CNWM_MayaZu_03_Application 3.mp4",
+  "detailed_description": "This video captures a moment from a skincare routine, focusing on the careful application of a clear gel product. The process begins with the precise dispensing of the gel from a pink bottle onto a silicone brush, highlighting the product's texture and clarity. Subsequently, the individual uses the brush to smoothly apply the gel across their cheeks and forehead, demonstrating the product's ease of use and the gentle technique involved in its application. The video emphasizes product interaction and the systematic steps of a beauty regimen.",
+  "segments": [
+    {
+      "start_time": "00:12.500",
+      "end_time": "00:18.800",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail",
+        "Mechanism_Of_Action",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "clear gel",
+        "silicone brush",
+        "pink bottle",
+        "product dispensing",
+        "skincare application"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear liquid",
+          "smooth dispensing",
+          "bright lighting",
+          "focused shot"
+        ]
+      },
+      "why_kept": "This segment is the strongest 'Product Interaction' and 'Macro_Detail' moment, clearly showcasing the product's texture and the act of dispensing it onto the application tool. It's visually compelling and crucial for understanding the product itself."
+    },
+    {
+      "start_time": "00:20.200",
+      "end_time": "00:54.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "clear gel",
+        "silicone brush",
+        "face application",
+        "skincare routine",
+        "forehead application",
+        "cheek application"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "gentle strokes",
+          "clear product",
+          "natural light",
+          "focused on face"
+        ]
+      },
+      "why_kept": "This segment demonstrates the 'Mechanism_Of_Action' and 'Human_Interaction' as the product is applied to the face. It shows the practical use and ease of application, complementing the initial product reveal."
+    }
+  ]
+}

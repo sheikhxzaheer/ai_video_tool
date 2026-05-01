@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ð╝ÐâðÂð©ð║ Ðü ð▓ð¥ð╗ð¥Ðüð░ð╝ð© (4).mp4",
+  "detailed_description": "This video captures a confident and attractive bearded man in a vibrant turquoise rooftop pool, showcasing his physique and direct gaze. He subtly shifts his poses, runs a hand through his hair, and makes eye contact with the camera, conveying a sense of relaxed self-assurance. The urban backdrop of modern buildings beneath a clear sky enhances the luxurious and aspirational lifestyle aesthetic.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:11.750",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Positive_Emotion",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "man",
+        "bearded",
+        "pool",
+        "rooftop",
+        "city buildings",
+        "posing",
+        "water",
+        "chest hair",
+        "sunny"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "sunny lighting",
+          "direct gaze",
+          "confident posture",
+          "clear sky"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as the 'No-Mistake' rule applies; the main action of the subject posing and looking at the camera begins at the start of the video and concludes at the end. It effectively serves as a visual hook and showcases the subject's aesthetic appeal and confident presence in a lifestyle setting, which is the core value of the content."
+    }
+  ]
+}

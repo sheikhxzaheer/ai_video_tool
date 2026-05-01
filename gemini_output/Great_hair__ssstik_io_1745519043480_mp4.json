@@ -1,0 +1,145 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ssstik.io_1745519043480.mp4",
+  "detailed_description": "This video showcases the process of styling a man's hair using Slick Gorilla Clay Pomade and a specialized comb. It begins by introducing the product, clearly displaying its packaging. The clip then transitions to demonstrate the meticulous combing technique used to shape and define the hair. The stylist expertly works through the client's hair, highlighting the product's ability to create a well-groomed look. The final segments unveil the transformation, presenting the neatly styled hair from various angles, concluding with a satisfied look from the client.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.916",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "hand holding product",
+        "Slick Gorilla Clay Pomade jar",
+        "gorilla logo",
+        "pomade"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear product shot",
+          "focus on product"
+        ]
+      },
+      "why_kept": "This segment introduces the product that is central to the video's theme, clearly displaying its branding and function. It's an essential 'Product_Intro' moment."
+    },
+    {
+      "start_time": "00:01.916",
+      "end_time": "00:03.416",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man's hair",
+        "side profile",
+        "damp hair",
+        "styled back hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment provides a clear visual of the client's hair before the active styling process begins, setting the context for the subsequent 'Mechanism_Of_Action'."
+    },
+    {
+      "start_time": "00:03.416",
+      "end_time": "00:10.583",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "The_Process_Labor"
+      ],
+      "visual_keywords": [
+        "combing hair",
+        "hair styling",
+        "black comb",
+        "barber's hand",
+        "hair gel/pomade"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "focused",
+          "precise"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "detailed action shot",
+          "natural lighting",
+          "smooth camera movement"
+        ]
+      },
+      "why_kept": "This is the core 'Process/Labor' segment, demonstrating the application of expertise and the primary action of styling the hair with the comb, implicitly showing the product's effect."
+    },
+    {
+      "start_time": "00:10.583",
+      "end_time": "00:14.216",
+      "structural_tags": [
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "styled hair",
+        "man's face",
+        "satisfied expression",
+        "side profile",
+        "frontal view",
+        "hair texture"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "satisfied",
+          "confident"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "clean shot",
+          "showcasing final look",
+          "engaging client pose"
+        ]
+      },
+      "why_kept": "This segment clearly shows the 'Result_Transformation' and captures the client's positive 'Face_Reaction' to the newly styled hair, effectively concluding the demonstration of the product's effectiveness."
+    }
+  ]
+}

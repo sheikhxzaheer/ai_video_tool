@@ -1,0 +1,152 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Drink\\Water\\ssstik.io_@multiman_01_1770893902816.mp4",
+  "detailed_description": "The video showcases a laborer attempting to drink a 5-liter bottle of water in one go as part of a bet. It captures the initial challenge setup, the intense and often struggling process of consuming the large volume of water, and his triumphant, albeit wet, reaction upon completing the task. The video concludes with a clear visual of the nearly empty bottle, confirming his accomplishment in what appears to be a construction environment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.117",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Key_Information",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "water bottle",
+        "5 litres",
+        "smiling",
+        "plastering shirt",
+        "construction site"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "handheld camera"
+        ]
+      },
+      "why_kept": "This segment introduces the challenge, the product (5-liter water bottle), and the individual attempting it, setting the primary context for the entire video. The man's smile and verbal declaration are key."
+    },
+    {
+      "start_time": "00:09.117",
+      "end_time": "00:44.200",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Negative_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man drinking",
+        "large water bottle",
+        "struggling",
+        "choking",
+        "sweat/water"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "handheld camera",
+          "dynamic movement"
+        ]
+      },
+      "why_kept": "This is the core action segment, demonstrating the difficult process of consuming such a large volume of water, highlighting the effort and struggle involved, which is central to the bet."
+    },
+    {
+      "start_time": "00:44.200",
+      "end_time": "00:49.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man smiling",
+        "water dripping",
+        "wet shirt",
+        "satisfied expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "positive",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "close-up reaction"
+        ]
+      },
+      "why_kept": "This segment captures the immediate emotional payoff and reaction after the intense effort, showing a clear sense of accomplishment and satisfaction, making it an emotional climax."
+    },
+    {
+      "start_time": "00:54.000",
+      "end_time": "00:58.333",
+      "structural_tags": [
+        "Reveal_Result",
+        "Product_Interaction",
+        "Key_Information",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man holding bottle",
+        "empty water bottle",
+        "water level",
+        "confirmation of achievement"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "satisfied",
+          "accomplished"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "clear product shot"
+        ]
+      },
+      "why_kept": "This segment visually confirms the outcome of the challenge by showing the nearly empty bottle, providing the 'reveal' or 'result' that completes the narrative of the bet."
+    }
+  ]
+}

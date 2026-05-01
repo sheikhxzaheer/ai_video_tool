@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\A woman is stroking a man's hair\\ðƒðÁÐüÐéð©ÐéÐî ð©╠åð¥ð│ð¥ ð│ð¥ð╗ð¥ð▓Ðâ.mp4",
+  "detailed_description": "This video captures a tender moment between two individuals inside a car. A hand, adorned with small tattoos and painted nails, gently caresses the back of a man's head as he is seated, presumably driving. The shot emphasizes human interaction and conveys a sense of affection and calm, highlighted by the gentle gesture and serene background music. The car interior, with its stylized seat, provides the intimate setting for this personal connection.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.828",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Travel_Transit",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand touching head",
+        "man driving",
+        "car interior",
+        "tattoos",
+        "glasses"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "car"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "steady shot",
+          "intimate frame"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the 'Semantic Core' because it perfectly captures the sole meaningful action and emotional essence of the video: a gentle, affectionate human interaction within a specific setting. There is no setup, post-action dead air, or extraneous content; the action begins and ends precisely with the video's duration, demonstrating the 'No-Mistake' rule."
+    }
+  ]
+}

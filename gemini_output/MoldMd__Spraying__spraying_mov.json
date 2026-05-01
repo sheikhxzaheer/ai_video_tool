@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Spraying\\spraying.mov",
+  "detailed_description": "The video demonstrates the straightforward application of MoldMD Mold Spot Remover. A hand is shown actively spraying the cleaning solution onto the base of a shower door frame, emphasizing the product's direct use and mechanism of action. This segment highlights the initial step of a cleaning process, showcasing product interaction within a bathroom setting for addressing mold and mildew stains.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.373",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "hand",
+        "spray bottle",
+        "MoldMD",
+        "cleaning product",
+        "shower door",
+        "bathroom",
+        "tiles",
+        "white bath mat"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "product focus",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it perfectly captures the product interaction and the demonstration of its mechanism of action. The hand actively sprays the 'MoldMD' cleaner, clearly showing how the product is applied, which is a key 'hero moment' for a cleaning product. The entire duration is essential as it starts and ends precisely with the action without any setup or post-action dead air."
+    }
+  ]
+}

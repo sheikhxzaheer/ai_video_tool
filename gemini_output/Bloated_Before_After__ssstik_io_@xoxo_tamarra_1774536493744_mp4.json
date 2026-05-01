@@ -1,0 +1,81 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bloated Before_After\\ssstik.io_@xoxo.tamarra_1774536493744.mp4",
+  "detailed_description": "This video showcases a personal body transformation, specifically focusing on the change in a person's stomach appearance from night to morning. It visually compares a visibly bloated stomach before going to sleep to a significantly flatter stomach upon waking up. The individual, dressed in black loungewear, poses in a kitchen setting to highlight this 'before and after' effect. The transformation suggests a positive daily change or routine, emphasizing the body's natural processes or the impact of personal habits on appearance.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.767",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Night_Routine",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bloated stomach",
+        "black outfit",
+        "kitchen",
+        "text overlay",
+        "posing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "neutral"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "casual"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state, clearly showing the individual's stomach as visibly bloated before sleep, which is a crucial part of the intended transformation narrative."
+    },
+    {
+      "start_time": "00:04.767",
+      "end_time": "00:08.083",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Morning_Routine",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "flat stomach",
+        "black outfit",
+        "kitchen",
+        "text overlay",
+        "posing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "neutral",
+          "satisfaction"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "casual"
+        ]
+      },
+      "why_kept": "This segment presents the 'after' state, showcasing a significantly flatter stomach upon waking, completing the visual transformation and acting as the positive outcome to the initial 'before' state."
+    }
+  ]
+}

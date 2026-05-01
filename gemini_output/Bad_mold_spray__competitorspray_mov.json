@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad mold spray\\competitorspray.mov",
+  "detailed_description": "This video visually and emotionally communicates the negative aspects of conventional cleaning products. It begins with a woman expressing frustration and discomfort regarding the toxic smell and skin irritation caused by chemicals in a yellow spray bottle. The camera then closely inspects the product's label, highlighting multiple detailed warnings about eye irritation, skin contact, and the harmful nature of its ingredients. The video effectively emphasizes the problem state associated with harsh household cleaners and the hidden dangers on their labels.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:07.166",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Product_Interaction",
+        "Key_Information",
+        "Home_Kitchen",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "woman",
+        "spray bottle",
+        "cleaning product",
+        "label",
+        "warning text",
+        "chemicals",
+        "hand",
+        "pointing",
+        "frustration",
+        "disgust"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear focus",
+          "handheld camera movement"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by establishing a problem state through the woman's emotional reaction and verbal complaint about toxic chemicals, followed by a direct visual confirmation of these concerns through a close-up on the product's warning label. It clearly demonstrates the negative experience and highlights the key information on the product itself."
+    }
+  ]
+}

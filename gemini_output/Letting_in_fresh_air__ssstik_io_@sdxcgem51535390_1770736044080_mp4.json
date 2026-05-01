@@ -1,0 +1,200 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Letting in fresh air\\ssstik.io_@sdxcgem51535390_1770736044080.mp4",
+  "detailed_description": "This video beautifully captures the serene and cozy ambiance of an indoor space during a heavy rainy day. It showcases various perspectives of a room, emphasizing the comfort of being inside while observing a storm raging outside. Key elements like dramatically blowing curtains, the visual and auditory presence of rain and thunder, and a person quietly observing the weather from bed or a desk create an immersive and tranquil experience. The warm, dim lighting from candles and lamps further enhances the inviting atmosphere, portraying a moment of peace and introspection amidst the gloomy weather.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.600",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Home_Kitchen",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "bedroom",
+        "dark room",
+        "white curtains blowing",
+        "decorative butterflies",
+        "fairy lights",
+        "cat on bed",
+        "rain sound"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "cozy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "low light",
+          "dreamy",
+          "ambient"
+        ]
+      },
+      "why_kept": "Establishes the initial cozy and atmospheric scene of a room during rain, with subtle movement of curtains and a cat adding to the calm, setting the mood."
+    },
+    {
+      "start_time": "00:01.600",
+      "end_time": "00:03.900",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Home_Kitchen",
+        "Workspace_Office",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "person with headphones",
+        "desk with computer",
+        "window with trees",
+        "white curtains blowing",
+        "rain sound"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "focused"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "low light",
+          "natural light from window"
+        ]
+      },
+      "why_kept": "Shows a different perspective of the room and highlights a human element interacting with the environment by looking out the window, reinforcing the relaxed, indoor mood during rain."
+    },
+    {
+      "start_time": "00:03.900",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Home_Kitchen",
+        "Human_Interaction",
+        "Night_Routine"
+      ],
+      "visual_keywords": [
+        "bed",
+        "person sitting up",
+        "looking out window",
+        "rain",
+        "trees",
+        "plaid curtain blowing",
+        "desk",
+        "laptop",
+        "candles",
+        "dark room",
+        "thunder sound"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "contemplative",
+          "cozy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dark room lighting",
+          "candlelight",
+          "dramatic curtain movement"
+        ]
+      },
+      "why_kept": "This segment powerfully combines the indoor coziness (dark room, candles, person in bed) with the intense outdoor rain and thunder, and the dramatic blowing curtain, creating a vivid 'rainy day at home' atmosphere, serving as the strongest representation of the video's core theme."
+    },
+    {
+      "start_time": "00:08.000",
+      "end_time": "00:08.800",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Nature",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "rain on trees",
+        "green leaves"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "natural"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "rainy day filter",
+          "vibrant green"
+        ]
+      },
+      "why_kept": "Provides a close-up detail shot of the rain on the trees, emphasizing the heavy downpour and enhancing the outdoor element of the rainy day theme, complementing the indoor shots."
+    },
+    {
+      "start_time": "00:08.800",
+      "end_time": "00:14.900",
+      "structural_tags": [
+        "Aesthetic_Broll",
+        "Calm_Relaxation",
+        "Home_Kitchen",
+        "Human_Interaction",
+        "Night_Routine",
+        "Shock_Surprise"
+      ],
+      "visual_keywords": [
+        "person in bed",
+        "looking out window",
+        "plaid curtain blowing fiercely",
+        "rain",
+        "thunder",
+        "lightning flash",
+        "dark room"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "intense",
+          "cozy"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dark room lighting",
+          "dramatic curtain movement",
+          "lightning effect"
+        ]
+      },
+      "why_kept": "Concludes the narrative of observing the storm from bed, with the curtain blowing intensely and a sudden flash of lightning, cementing the immersive and cozy yet dramatic rainy day experience."
+    }
+  ]
+}

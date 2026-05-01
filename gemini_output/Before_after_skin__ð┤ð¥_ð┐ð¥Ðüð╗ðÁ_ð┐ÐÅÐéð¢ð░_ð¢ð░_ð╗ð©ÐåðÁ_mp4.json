@@ -1,0 +1,193 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after skin\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ð┐ÐÅÐéð¢ð░ ð¢ð░ ð╗ð©ÐåðÁ.mp4",
+  "detailed_description": "This video showcases the dramatic skin transformation over 10 days following an IPL/BBL treatment. It begins with a 'Before' shot of the subject's face, highlighting existing sun spots and redness. Subsequent clips document the immediate post-treatment effects, including increased redness and darkening of pigment, and then chronologically track the healing process at one, four, and six days after the procedure, showing the spots resurfacing and flaking. The video concludes with a triumphant '10 days after' reveal, displaying significantly clearer, brighter skin with reduced hyperpigmentation and a visibly satisfied expression from the subject.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.533",
+      "structural_tags": [
+        "Before_After",
+        "Problem_State",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "freckles",
+        "redness",
+        "speaking",
+        "yellow hoodie"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "neutral"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the 'Before' state, providing crucial context for the subsequent transformation. It clearly shows the initial skin condition the treatment aims to address."
+    },
+    {
+      "start_time": "00:04.533",
+      "end_time": "00:08.533",
+      "structural_tags": [
+        "Result_Transformation",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "redness",
+        "dark spots",
+        "pointing to face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "car"
+        ],
+        "mood": [
+          "serious",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment shows the immediate post-treatment effects, demonstrating the initial response of the skin to the IPL/BBL procedure, which is a key stage in the transformation process."
+    },
+    {
+      "start_time": "00:08.533",
+      "end_time": "00:11.166",
+      "structural_tags": [
+        "Result_Transformation",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "dark spots",
+        "oily skin",
+        "close up"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "detailed view",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment illustrates the skin's appearance one day after treatment, showcasing the increased prominence of dark spots as melanin comes to the surface, a critical step in the healing journey."
+    },
+    {
+      "start_time": "00:11.166",
+      "end_time": "00:15.300",
+      "structural_tags": [
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "dark spots",
+        "redness",
+        "yellow hoodie"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "neutral"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "various angles"
+        ]
+      },
+      "why_kept": "This segment highlights the skin's condition four days after treatment, demonstrating the continued progression of the healing process as the dark spots begin to fade or dry."
+    },
+    {
+      "start_time": "00:15.300",
+      "end_time": "00:19.466",
+      "structural_tags": [
+        "Result_Transformation",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "dark spots",
+        "flaking skin",
+        "redness"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "observational"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment provides an update six days post-treatment, showing the crucial phase where dark spots are actively flaking off, visually confirming the treatment's mechanism of action."
+    },
+    {
+      "start_time": "00:19.466",
+      "end_time": "00:24.466",
+      "structural_tags": [
+        "Before_After",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "clear skin",
+        "smiling",
+        "reduced redness",
+        "black shirt"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright and clear skin"
+        ]
+      },
+      "why_kept": "This is the climactic 'After' segment, showcasing the final, significant improvement in skin clarity and tone after 10 days. The subject's bright smile and the 'Amazing!' text underscore the successful outcome and emotional satisfaction, making it a powerful reveal."
+    }
+  ]
+}

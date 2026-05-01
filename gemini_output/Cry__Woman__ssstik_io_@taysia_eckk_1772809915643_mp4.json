@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cry\\Woman\\ssstik.io_@taysia.eckk_1772809915643.mp4",
+  "detailed_description": "This video captures a young woman expressing profound grief and sadness over the loss of her pet. With tears streaming down her face, she laments having moved out before her pet passed away, believing her pet was waiting for her return. She heartbreakingly notes that her pet's 'brothers' (presumably other pets) are also sad, and mentions having a paw print as a memento. The video powerfully conveys the raw emotional impact of losing a beloved animal companion.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:59.638",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Emotional_Climax",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "woman crying",
+        "sadness",
+        "grief",
+        "tears",
+        "hand on face",
+        "emotional expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "somber"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "dim lighting",
+          "raw emotion",
+          "personal camera angle"
+        ]
+      },
+      "why_kept": "The entire video is a continuous, intense emotional expression of grief and sadness, which is the core subject and emotional climax. Trimming any part would diminish the impact and narrative of her experience. Her spoken words directly convey the 'problem state' (loss of pet) and her 'face reaction' and 'negative emotion' are central to the video's meaning."
+    }
+  ]
+}

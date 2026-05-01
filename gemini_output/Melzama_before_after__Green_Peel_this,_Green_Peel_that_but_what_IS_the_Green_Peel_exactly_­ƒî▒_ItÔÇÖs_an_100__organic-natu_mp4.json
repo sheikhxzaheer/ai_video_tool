@@ -1,0 +1,149 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\Green Peel this, Green Peel that but what IS the Green Peel exactly ­ƒî▒ ItÔÇÖs an 100_ organic-natu.mp4",
+  "detailed_description": "This video vividly demonstrates a dramatic skin transformation using ZENA Natural Peeling Algae. It begins by showcasing the 'before' state of the skin, riddled with dark spots and acne marks, highlighting the common struggle of skin imperfections. The narrative then shifts to reveal the impressive 'after' result, featuring significantly clearer, smoother, and healthier-looking skin. A compelling split-screen comparison provides undeniable proof of the product's effectiveness, making the transformation undeniable. Finally, the video introduces the ZENA Natural Peeling Algae product, positioning it as the ultimate solution for achieving such remarkable skin improvements, hinting at a professional treatment process.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.811",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "face",
+        "skin",
+        "dark spots",
+        "acne",
+        "hyperpigmentation",
+        "profile view"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "unfiltered"
+        ]
+      },
+      "why_kept": "This segment serves as the 'Problem_State' hero moment, clearly illustrating the skin condition before treatment, which is crucial for setting up the subsequent transformation."
+    },
+    {
+      "start_time": "00:05.811",
+      "end_time": "00:07.477",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "face",
+        "clear skin",
+        "smooth skin",
+        "profile view"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is a 'Reveal/Result' hero moment, showing the improved skin condition. It directly contrasts with the previous segment, demonstrating the effectiveness."
+    },
+    {
+      "start_time": "00:07.477",
+      "end_time": "00:09.677",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Split_Screen",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "face",
+        "dark spots",
+        "acne",
+        "clear skin",
+        "before and after comparison"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "clinical",
+          "satisfaction"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct comparison",
+          "clear contrast"
+        ]
+      },
+      "why_kept": "This is the strongest 'Reveal/Result' hero moment, presenting a direct and compelling 'Before/After' split-screen comparison. It visually encapsulates the entire value proposition of the video."
+    },
+    {
+      "start_time": "00:09.677",
+      "end_time": "00:13.277",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Behind_The_Scenes",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Zena product",
+        "Natural Peeling Algae",
+        "gloved hand",
+        "skin treatment",
+        "treatment bed",
+        "ring light"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "clinical",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "professional setup",
+          "product focus",
+          "treatment process implied"
+        ]
+      },
+      "why_kept": "This segment is a 'Product Interaction' and 'Process/Labor' hero moment. It introduces the specific product (ZENA Natural Peeling Algae) responsible for the transformation and subtly shows the professional context of its application, completing the narrative of problem, solution, and result."
+    }
+  ]
+}

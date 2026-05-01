@@ -1,0 +1,41 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad mold spray\\IMG_0176.MOV",
+  "detailed_description": "This short video captures a quick, everyday action within a modern kitchen setting. A hand is seen dropping a small bottle into one of two open trash cans, illustrating the act of waste disposal. In the background, a bottle of 'MoldMD' is visible on the kitchen counter, providing context about household cleaning or maintenance products. The clip focuses on the functional aspect of discarding an item, fitting into a typical home routine.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.000",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Human_Interaction",
+        "Product_Present"
+      ],
+      "visual_keywords": [
+        "hand",
+        "dropping",
+        "bottle",
+        "trash can",
+        "kitchen counter",
+        "MoldMD bottle"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "everyday scene"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it captures the complete and concise action of an item being disposed of in a home environment. The 'No-Mistake Rule' applies here as the action begins and ends precisely within the video's duration, without any setup or post-action dead air. It demonstrates product interaction (with a trash can and a discarded item) within a clear context."
+    }
+  ]
+}

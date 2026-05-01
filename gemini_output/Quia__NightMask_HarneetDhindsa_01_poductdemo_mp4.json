@@ -1,0 +1,79 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_HarneetDhindsa_01_poductdemo.mp4",
+  "detailed_description": "The video comprehensively showcases the satisfying application and removal of a peel-off face mask, leading to a radiant complexion. It captures the meticulous process of peeling the mask from the face, followed by a clear reveal of the smooth, 'glass skin' result. The content highlights both the tactile satisfaction of the mask removal and the visible skin transformation achieved by the product.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "woman peeling face mask",
+        "peel-off mask",
+        "satisfying peel",
+        "fingernails",
+        "skin texture"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "satisfying"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is the core action, demonstrating the 'process' of peeling the mask and 'product interaction,' fulfilling the promise of 'a satisfying peel.' It effectively hooks the viewer and shows the product in action and its immediate, tangible result (the peeled mask)."
+    },
+    {
+      "start_time": "00:05.500",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "glass skin",
+        "smooth skin",
+        "radiant complexion",
+        "satisfied expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "natural look"
+        ]
+      },
+      "why_kept": "This segment serves as the 'reveal/result,' showcasing the 'glass skin' effect on the woman's face immediately after the mask. Her expression conveys 'positive emotion' and satisfaction, providing social proof for the product's efficacy."
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Fashion\\ssstik.io_@evelleniare_1763653581704.mp4",
+  "detailed_description": "This video captures the essence of a high-fashion runway show, spotlighting a collection defined by intricate embellishments and luxurious textures. Models gracefully present sleeveless tops, dresses, and skirts, predominantly in opulent gold and shimmering white hues. Each garment features sophisticated beading, fringe, and metallic details that catch the light, creating a dynamic visual experience. The collection conveys a sense of glamour and refined craftsmanship, characteristic of haute couture. The backdrop, adorned with large, golden, sculptural elements, complements the collection's rich aesthetic. This showcases the fashion line's unique blend of classic elegance and contemporary sparkle.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.400",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "model walking",
+        "gold beaded top",
+        "fringed skirt",
+        "runway",
+        "fashion show",
+        "sparkle",
+        "luxurious"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "elegant",
+          "glamorous"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "glittering fabrics",
+          "opulent golden textures",
+          "runway lighting",
+          "structured backdrop"
+        ]
+      },
+      "why_kept": "This segment introduces one of the key fashion pieces from the collection, immediately establishing the luxurious and embellished aesthetic. It serves as a strong anchor by showcasing the design, material, and movement of the garment on the runway."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "model walking",
+        "gold fringed dress",
+        "runway",
+        "fashion show",
+        "shimmering",
+        "movement"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "elegant",
+          "dramatic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "liquid gold effect",
+          "sparkling fringe",
+          "runway lighting",
+          "sculptural background"
+        ]
+      },
+      "why_kept": "This segment presents another distinct and luxurious garment from the collection, reinforcing the overall theme of opulent textures and intricate design, making it a valuable supporting visual."
+    },
+    {
+      "start_time": "00:08.800",
+      "end_time": "00:13.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "model walking",
+        "white embellished jacket",
+        "fringed skirt",
+        "runway",
+        "fashion show",
+        "beadwork"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "elegant",
+          "sophisticated"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "intricate beadwork",
+          "layered textures",
+          "clean white aesthetic",
+          "runway lighting"
+        ]
+      },
+      "why_kept": "This final segment completes the showcase of the core collection pieces, demonstrating the range and craftsmanship within the fashion line, further enriching the semantic core of the video."
+    }
+  ]
+}

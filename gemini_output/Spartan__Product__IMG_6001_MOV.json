@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Product\\IMG_6001.MOV",
+  "detailed_description": "The video introduces the 'SPARTAN Root Activator Conditioner' in a sleek, black pump bottle. A hand picks up the product from a collection, showcasing its label which prominently displays the brand name, product type, and key claims. The conditioner is promoted for hair growth, aiming to achieve a 'mighty, voluminous, and vigorous' hair comparable to a Spartan warrior's helm. The focus is on a clear product display and interaction.",
+  "segments": [
+    {
+      "start_time": "00:00:00.000",
+      "end_time": "00:00:06.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "black bottle",
+        "pump dispenser",
+        "product label",
+        "text",
+        "conditioner",
+        "hair growth"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean white background",
+          "clear product display",
+          "steady shot"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it clearly demonstrates product interaction from the moment the hand engages with the bottle to picking it up and holding it steady to display its branding and key information. As per the 'No-Mistake Rule,' the action of displaying the product spans the entire duration without any dead air or setup/calibration."
+    }
+  ]
+}

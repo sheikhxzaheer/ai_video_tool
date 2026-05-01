@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Result\\CNWM_JillianGray_039_Result.MOV",
+  "detailed_description": "The video features a woman expressing genuine surprise and satisfaction about the state of her skin. Wearing a pink headband, she gestures towards her face, noting its newfound smoothness and softness. Her excitement culminates in a delighted realization that her wrinkles have significantly diminished, which she announces with a clear, positive facial reaction. This clip serves as a strong testimonial, highlighting the immediate and impressive results of a skincare routine or product.",
+  "segments": [
+    {
+      "start_time": "00:00.045",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Result_Transformation",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "UGC_Talking_Head"
+      ],
+      "visual_keywords": [
+        "Woman",
+        "Pink headband",
+        "Touching face",
+        "Smiling",
+        "Expressing surprise",
+        "Skin smoothness",
+        "Wrinkle reduction"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "positive",
+          "surprised"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address",
+          "soft lighting"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it fully captures the 'Emotional Climax' and 'Reveal/Result' hero moments. The woman's genuine surprise and happiness regarding her smooth skin and reduced wrinkles directly communicates the product's (or routine's) effectiveness without needing the product to be explicitly shown. Her facial expressions and verbal testimony convey the entire value proposition."
+    }
+  ]
+}

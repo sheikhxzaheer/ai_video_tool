@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B-roll2 fluffco.mov",
+  "detailed_description": "This video captures a woman in a bedroom setting, engaged in the natural movements of waking up or finding comfort in bed. She is seen stretching, yawning, and meticulously adjusting her pillow and blankets, conveying a sense of serene relaxation. Her expressions shift from sleepy to content, highlighting the comfort of her bedding and the peaceful start or end to her day, potentially emphasizing the quality or comfort of the bedding.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:26.700",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Product_Present",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "bed",
+        "pillow",
+        "blanket",
+        "stretching",
+        "yawning",
+        "adjusting",
+        "relaxing",
+        "sleepy"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "calm",
+          "relaxed"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "bedroom aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating the process of a woman getting comfortable or waking up in bed. It includes actions like stretching, yawning, and adjusting bedding, which clearly convey comfort and relaxation (Emotional Climax and Process/Labor) and interaction with the bed/pillow (Product Interaction), without any extraneous setup or post-action dead air."
+    }
+  ]
+}

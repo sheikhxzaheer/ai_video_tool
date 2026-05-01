@@ -1,0 +1,78 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\IMG_1884.MOV",
+  "detailed_description": "The video highlights a male hair transformation, beginning with a brief view of the subject's naturally long, voluminous curly hair before the service. It then transitions to showcase the immediate 'after' result of the haircut, where the hair appears significantly shorter, neatly trimmed, and wet. The camera provides multiple angles, panning around the subject's head to fully display the fresh, styled look from the back and both side profiles.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "long curly hair",
+        "dark brown hair",
+        "back of head",
+        "man's hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "neutral"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "clean background"
+        ]
+      },
+      "why_kept": "This segment establishes the 'before' state, providing a clear visual contrast for the hair transformation that follows and serving as a visual hook."
+    },
+    {
+      "start_time": "00:03.400",
+      "end_time": "00:11.750",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Aesthetic_Broll",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "wet trimmed hair",
+        "short sides",
+        "dark brown hair",
+        "man's haircut",
+        "side profile",
+        "nape",
+        "subtle smile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "wet hair texture",
+          "clean cut",
+          "natural light",
+          "clear reflection"
+        ]
+      },
+      "why_kept": "This is the primary 'reveal' segment, showcasing the completed haircut after washing and initial styling. It demonstrates the transformation and the new look from multiple angles, constituting the core value of the video. The subtle smile contributes to a positive face reaction."
+    }
+  ]
+}

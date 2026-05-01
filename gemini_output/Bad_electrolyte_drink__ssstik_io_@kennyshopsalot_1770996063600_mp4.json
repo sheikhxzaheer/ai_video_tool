@@ -1,0 +1,55 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad electrolyte drink\\ssstik.io_@kennyshopsalot_1770996063600.mp4",
+  "detailed_description": "The video features a woman enthusiastically introducing and reviewing Liquid I.V.'s new sugar-free Mango Pineapple hydration multiplier. She demonstrates mixing the powder into ice water, stirring, and tasting it. Throughout the video, she highlights the product's benefits, such as superior hydration, electrolytes, and B vitamins, and expresses her strong satisfaction, calling it her favorite sugar-free option. She concludes with a positive recommendation and encourages viewers to try the newly launched flavor.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:32.327",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Positive_Emotion",
+        "Offer_CTA",
+        "Home_Kitchen",
+        "Lifestyle_Active",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "Liquid I.V. packet",
+        "glass of ice water",
+        "pouring powder",
+        "stirring drink",
+        "drinking",
+        "smiling",
+        "talking",
+        "gesturing",
+        "Liquid I.V. bag"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "kitchen",
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "natural",
+          "engaging",
+          "close-up"
+        ]
+      },
+      "why_kept": "This entire segment constitutes the semantic core as it fully introduces the new product, demonstrates its usage (pouring, stirring, drinking), highlights its key benefits through spoken information, showcases the user's highly positive emotional reaction, and delivers a clear call to action, all while continuously featuring the product prominently. There are no significant 'dead air' or 'setup' moments, making the entire clip a continuous hero moment for product demonstration and review."
+    }
+  ]
+}

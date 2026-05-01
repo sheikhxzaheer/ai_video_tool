@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\TikTok\\19.mp4",
+  "detailed_description": "A woman enthusiastically presents a product called 'Tangerine Pulse,' highlighting a double discount offer with 25% off and free, fast shipping, available only for today. She explains that the tangerine-flavored product helps with hydration, metabolic activation, and nutrient replenishment, urging viewers to click the orange cart to purchase before the offer expires. Her presentation is dynamic, continuously interacting with the product while conveying key information and a strong call to action.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:23.700",
+      "structural_tags": [
+        "Product_Intro",
+        "Offer_CTA",
+        "UGC_Talking_Head",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Urgency_Rush",
+        "Home_Kitchen",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "woman",
+        "glasses",
+        "Tangerine Pulse product",
+        "kitchen background",
+        "hands holding product",
+        "speaking"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct address to camera"
+        ]
+      },
+      "why_kept": "This segment is the entire video and serves as the semantic core because the speaker continuously presents the product, outlines a double discount offer, explains its benefits, and delivers a clear call to action with a sense of urgency, all while actively holding and interacting with the product. There are no identifiable 'setup' or 'dead air' moments, making the full duration the most impactful part."
+    }
+  ]
+}

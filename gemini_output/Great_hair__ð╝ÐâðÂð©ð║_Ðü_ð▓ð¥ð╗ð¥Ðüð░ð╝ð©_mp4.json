@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ð╝ÐâðÂð©ð║ Ðü ð▓ð¥ð╗ð¥Ðüð░ð╝ð©.mp4",
+  "detailed_description": "The video features a charismatic man with curly brown hair and a beard, wearing a light blue sleeveless top. Initially looking away, he turns to directly face the camera, maintaining strong eye contact. A warm, genuine smile spreads across his face, conveying a sense of happiness and engagement, complemented by upbeat background music. The setting appears to be a modern indoor apartment, providing a casual and inviting atmosphere.",
+  "segments": [
+    {
+      "start_time": "00:00:02.000",
+      "end_time": "00:00:14.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "man",
+        "smiling",
+        "direct eye contact",
+        "curly hair",
+        "beard",
+        "light blue tank top",
+        "apartment interior"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "apartment",
+          "living room"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "positive",
+          "engaging"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "selfie shot",
+          "natural lighting",
+          "upbeat music",
+          "casual"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it perfectly captures the 'Emotional Climax' and 'Human Interaction' hero moments. The subject turns to directly engage the viewer with a clear, genuine smile and positive facial expression, which is the central value and action of this short video clip. It begins precisely when his direct eye contact and smile are fully established, and ends without any post-action dead air."
+    }
+  ]
+}

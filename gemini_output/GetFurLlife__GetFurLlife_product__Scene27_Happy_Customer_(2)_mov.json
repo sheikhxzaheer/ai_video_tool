@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLlife_product\\Scene27_Happy Customer (2).mov",
+  "detailed_description": "This video segment captures a heartwarming moment between a young woman and her small, light-furred dog, who is affectionately resting on her shoulder. The woman smiles genuinely throughout while holding a round, green-packaged pet product in her hands. She presents the product towards the camera, showcasing its design and content. Occasional affectionate interactions with her dog, like a gentle kiss, emphasize a positive and caring pet ownership lifestyle in a casual indoor setting.",
+  "segments": [
+    {
+      "start_time": "00:00.900",
+      "end_time": "00:09.600",
+      "structural_tags": [
+        "Product_Intro",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman",
+        "small dog",
+        "green product tin",
+        "smiling",
+        "pet owner",
+        "dog collar",
+        "pet care product"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "warm tone",
+          "casual",
+          "candid"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it clearly introduces the pet product through direct interaction and presentation by the user. It effectively demonstrates product interaction, culminates in a clear shot of the product packaging (when it's moved closer), and highlights a strong positive emotional connection between the woman and her dog, reinforcing the product's relevance to pet well-being and a happy pet owner lifestyle. The segment is trimmed to focus on the active product presentation and positive human-pet interaction."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\holding concetrate bottle 1.mov",
+  "detailed_description": "This video features a man in an indoor setting, presenting a cleaning product called \"MoldMD Mold Spot Remover Concentrate.\" He confidently holds the product bottle, smiles, and points to its label, visually introducing and highlighting the item for the viewer. The segment focuses on the product and the man's positive endorsement of it.",
+  "segments": [
+    {
+      "start_time": "00:03.500",
+      "end_time": "00:10.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "product bottle",
+        "MoldMD",
+        "mold remover",
+        "concentrate",
+        "pointing",
+        "smiling"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "direct address",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment is the core of the video as it clearly shows the subject introducing and interacting with the product. His smile and gesture of pointing directly to the bottle emphasize the product's presence and convey a positive sentiment, fulfilling the 'Product Interaction', 'Emotional Climax', and 'Key Information' criteria for a hero moment."
+    }
+  ]
+}

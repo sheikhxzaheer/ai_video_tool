@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Sleep\\Couple\\ssstik.io_@thekd.official_1766674552555.mp4",
+  "detailed_description": "The video captures a tender \"point of view\" scene of a woman waking up and needing to cuddle her fiancé to fall back asleep. It depicts her gently moving closer to him in bed, wrapping her arm around him, and settling into a comfortable, affectionate embrace. The scene beautifully illustrates the intimate bond and dependence on physical closeness for comfort and sleep within a relationship, set against the backdrop of a peaceful bedroom. The visual emphasizes the comfort and connection found in cuddling, a common and relatable experience for couples.",
+  "segments": [
+    {
+      "start_time": "00:05.800",
+      "end_time": "00:16.425",
+      "structural_tags": [
+        "Human_Interaction",
+        "Calm_Relaxation",
+        "Positive_Emotion",
+        "Night_Routine",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Couple cuddling",
+        "sleeping in bed",
+        "woman snuggling",
+        "man sleeping",
+        "plush toy"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "bedroom scene",
+          "relatable content"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it directly shows the action described by the 'pov' text: the woman actively moving to cuddle her fiancé and settling into a shared, comfortable sleeping position. It captures the essential 'process' and 'result' of the stated need for physical closeness to sleep, clearly demonstrating the human interaction and emotional connection."
+    }
+  ]
+}

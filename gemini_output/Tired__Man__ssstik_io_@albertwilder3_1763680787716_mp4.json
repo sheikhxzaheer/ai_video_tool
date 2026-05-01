@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Tired\\Man\\ssstik.io_@albertwilder3_1763680787716.mp4",
+  "detailed_description": "The video features a man in a shower, initially holding his hand to his forehead with his eyes closed, conveying deep emotional distress. A melancholic voiceover speaks of being 'damaged' and unable to accept help, questioning if anyone has ever helped him and if his current state stems from feeling undeserving. As the voiceover continues, the man slowly lowers his hand and opens his eyes, looking directly into the camera with a vulnerable and profound sadness, emphasizing the raw emotional weight of the narration. This segment powerfully captures a moment of introspection and emotional turmoil.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.656",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction",
+        "Emotional_Climax"
+      ],
+      "visual_keywords": [
+        "man",
+        "shower",
+        "distressed",
+        "sad",
+        "emotional",
+        "hand on forehead",
+        "closed eyes",
+        "open eyes",
+        "looking at camera",
+        "beard",
+        "tattoos",
+        "white tiles",
+        "shower head"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "sad",
+          "vulnerable"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "low-angle shot",
+          "intimate",
+          "raw",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the semantic core because it directly demonstrates the emotional climax and problem state described by the voiceover. The man's facial expressions and body language evolve from deep distress to vulnerable eye contact, perfectly illustrating the 'Emotional Climax' and 'Problem_State' criteria. There is no setup or dead air, and the visuals are integral to the message, not just a 'talking head' without interaction."
+    }
+  ]
+}

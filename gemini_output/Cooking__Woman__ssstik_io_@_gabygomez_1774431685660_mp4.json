@@ -1,0 +1,360 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cooking\\Woman\\ssstik.io_@_gabygomez_1774431685660.mp4",
+  "detailed_description": "This video captures a serene morning routine focused on crafting a delightful breakfast. It meticulously showcases the preparation of an iced caramel coffee, highlighting product interactions with an espresso machine from grinding beans to brewing. Following this, a fresh yogurt bowl is assembled with precision, featuring a base of vanilla yogurt generously topped with vibrant strawberries, blackberries, and crunchy granola. The meal is completed with buttered crackers, culminating in a satisfying and aesthetically pleasing spread, enjoyed with a moment of calm reflection.",
+  "segments": [
+    {
+      "start_time": "00:01.350",
+      "end_time": "00:02.350",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Product_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "hand",
+        "opening cabinet",
+        "taking mug",
+        "colorful mugs"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment initiates the breakfast preparation by showing the selection of a mug, which is the first product interaction."
+    },
+    {
+      "start_time": "00:03.300",
+      "end_time": "00:05.650",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Product_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "hand",
+        "adding ice",
+        "pouring milk",
+        "pouring coffee creamer",
+        "mug"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "close up on action"
+        ]
+      },
+      "why_kept": "This segment demonstrates multiple product interactions central to preparing the iced coffee base."
+    },
+    {
+      "start_time": "00:05.650",
+      "end_time": "00:13.350",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Process_Labor",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "hand",
+        "espresso machine",
+        "portafilter",
+        "grinding coffee",
+        "tamping",
+        "espresso pouring",
+        "mug"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "action-focused",
+          "sound design"
+        ]
+      },
+      "why_kept": "This is a core 'process/labor' segment, showcasing the detailed steps of making espresso with the machine."
+    },
+    {
+      "start_time": "00:13.350",
+      "end_time": "00:17.450",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Morning_Routine",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "stirring coffee",
+        "mug",
+        "spoon",
+        "smile"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "natural look"
+        ]
+      },
+      "why_kept": "This segment completes the coffee preparation and captures a positive emotional response, adding to the 'morning routine' theme."
+    },
+    {
+      "start_time": "00:18.400",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Product_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "woman",
+        "opening refrigerator",
+        "taking yogurt",
+        "taking berries"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment marks the beginning of the second breakfast item, showing the collection of fresh ingredients from the refrigerator."
+    },
+    {
+      "start_time": "00:21.000",
+      "end_time": "00:22.500",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Product_Interaction",
+        "Process_Labor",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "hand",
+        "opening yogurt container",
+        "scooping yogurt",
+        "coconut bowl"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "overhead shot"
+        ]
+      },
+      "why_kept": "This segment shows the initial step of preparing the yogurt bowl, involving product interaction and the 'process/labor' of scooping."
+    },
+    {
+      "start_time": "00:22.500",
+      "end_time": "00:23.500",
+      "structural_tags": [
+        "Product_Standalone",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "yogurt",
+        "coconut bowl",
+        "spoon"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "close-up detail",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This close-up serves as a 'macro detail' of the yogurt, highlighting its texture and presenting it as a standalone product before toppings are added."
+    },
+    {
+      "start_time": "00:24.000",
+      "end_time": "00:31.900",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Product_Interaction",
+        "Process_Labor",
+        "Aesthetic_Broll",
+        "Morning_Routine",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "hand",
+        "strawberries",
+        "blackberries",
+        "granola",
+        "coconut bowl",
+        "yogurt"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "overhead shot",
+          "colorful food"
+        ]
+      },
+      "why_kept": "This extended segment details the core assembly of the yogurt bowl, showcasing the layering of berries and granola, leading to a visual 'transformation' of the dish."
+    },
+    {
+      "start_time": "00:33.200",
+      "end_time": "00:37.750",
+      "structural_tags": [
+        "Home_Kitchen",
+        "Product_Interaction",
+        "Process_Labor",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "hand",
+        "crackers",
+        "butter",
+        "butter dish",
+        "knife",
+        "spreading butter",
+        "plate"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "aesthetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "close up on action"
+        ]
+      },
+      "why_kept": "This segment shows the preparation of an additional breakfast item, adding to the complete meal and demonstrating practical 'process/labor'."
+    },
+    {
+      "start_time": "00:45.000",
+      "end_time": "00:48.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Result_Transformation",
+        "Morning_Routine",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "eating yogurt",
+        "drinking coffee",
+        "smile",
+        "table",
+        "breakfast spread"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "cozy home vibe",
+          "satisfaction"
+        ]
+      },
+      "why_kept": "This is the 'emotional climax' and 'result' segment, showing the culmination of the breakfast preparation and the enjoyment of the meal."
+    }
+  ]
+}

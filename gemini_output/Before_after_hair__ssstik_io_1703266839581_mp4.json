@@ -1,0 +1,258 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ssstik.io_1703266839581.mp4",
+  "detailed_description": "This video showcases a hair replacement system application, starting with a client experiencing significant hair loss. It meticulously details the professional process performed by 'Toupee Queen,' including shaving the scalp, preparing the hair system with adhesive, and carefully applying the adhesive to the client's head. The toupee is then expertly placed and blended with the client's existing hair, followed by styling and cutting. The video culminates in a dramatic and satisfying transformation, revealing the client with a full, natural-looking head of curly hair and a visibly happy, confident reaction.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "bald spot",
+        "hair loss",
+        "client",
+        "serious expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment clearly establishes the initial problem state of hair loss, serving as a visual hook for the transformation to come."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:07.500",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "hairdresser",
+        "electric shaver",
+        "shaving head",
+        "client",
+        "preparation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "professional setting",
+          "focused action"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial professional action of preparing the client's scalp by shaving, which is a crucial step in the hair system application."
+    },
+    {
+      "start_time": "00:07.500",
+      "end_time": "00:13.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hairdresser",
+        "hair system",
+        "adhesive",
+        "glue application",
+        "brush"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed work",
+          "precise application"
+        ]
+      },
+      "why_kept": "This segment highlights the preparation of the hair system itself, specifically the application of adhesive, showcasing product interaction and a detailed part of the process."
+    },
+    {
+      "start_time": "00:13.500",
+      "end_time": "00:26.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "hairdresser",
+        "spray bottle",
+        "adhesive",
+        "scalp application",
+        "client's head"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "continuous action",
+          "focused work"
+        ]
+      },
+      "why_kept": "This segment shows the professional applying adhesive directly to the client's scalp, a critical step for securely attaching the hair system."
+    },
+    {
+      "start_time": "00:26.500",
+      "end_time": "00:37.500",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "hairdresser",
+        "hair system placement",
+        "blending hair",
+        "client",
+        "smile",
+        "happy reaction"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "immediate transformation",
+          "visible happiness"
+        ]
+      },
+      "why_kept": "This segment captures the pivotal moment of the hair system's placement and initial blending, showing the immediate and positive change, reinforced by the client's smile."
+    },
+    {
+      "start_time": "00:37.500",
+      "end_time": "00:48.500",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Behind_The_Scenes"
+      ],
+      "visual_keywords": [
+        "hairdresser",
+        "spray bottle",
+        "comb",
+        "scissors",
+        "styling hair",
+        "cutting hair"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "detailed styling",
+          "professional finishing touches"
+        ]
+      },
+      "why_kept": "This segment illustrates the detailed work involved in styling and cutting the new hair system to seamlessly blend with the client's natural hair, ensuring a polished and natural look."
+    },
+    {
+      "start_time": "00:48.500",
+      "end_time": "01:00.600",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Social_Proof",
+        "Human_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "man",
+        "hairdresser",
+        "finished hair",
+        "curly hair",
+        "smile",
+        "happy",
+        "confident",
+        "natural look",
+        "head of hair"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive",
+          "confidence"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic reveal",
+          "glowing client",
+          "natural texture",
+          "satisfaction"
+        ]
+      },
+      "why_kept": "This is the primary 'reveal' segment, showcasing the complete and successful transformation. It highlights the final, natural-looking result, the client's joy and confidence, and acts as the emotional climax and ultimate social proof for the service."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Fluff_30.mp4",
+  "detailed_description": "The video showcases a woman peacefully sleeping on a white pillow, illustrating the product's ability to maintain natural neck alignment. The tranquil scene and accompanying text, 'your neck stays its natural position,' effectively communicate the pillow's core benefit of providing comfortable and supportive sleep.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.957",
+      "structural_tags": [
+        "Product_Interaction",
+        "Calm_Relaxation",
+        "Night_Routine",
+        "Human_Interaction",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "sleeping woman",
+        "white pillow",
+        "bed",
+        "comfortable sleep",
+        "neck support"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "relaxed",
+          "cozy"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "bedroom setting"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it directly demonstrates the product's primary function and benefit. The visual of the woman sleeping comfortably on the pillow, combined with the on-screen text explaining how it keeps the neck in its natural position, clearly conveys the value proposition of the product."
+    }
+  ]
+}

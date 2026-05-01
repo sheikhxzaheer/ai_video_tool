@@ -1,0 +1,147 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad hair\\Bald spot\\ssstik.io_@denap27_1752220425288.mp4",
+  "detailed_description": "This video captures a heartfelt surprise gathering for a bald man, celebrating with his friends and family. It showcases moments of genuine warmth, including joyful embraces, shared laughter, and strong camaraderie among the group. The emotional climax is the man's overwhelmed and joyous reaction as he enters a room filled with his loved ones, visibly moved by the surprise. The celebration culminates in a group photo, radiating happiness and shared bonds, emphasizing the positive emotional connections.",
+  "segments": [
+    {
+      "start_time": "00:02.300",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man laughing",
+        "getting up from chair",
+        "smiling face",
+        "friends in background"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "restaurant"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "candid",
+          "warm lighting"
+        ]
+      },
+      "why_kept": "This segment captures an early strong display of positive emotion and human interaction from the main subject, setting the tone for the celebration."
+    },
+    {
+      "start_time": "00:27.000",
+      "end_time": "00:30.500",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "men hugging",
+        "smiling faces",
+        "friends watching"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "restaurant"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "candid",
+          "warm lighting"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates a heartfelt human interaction with positive emotional expressions, reinforcing the theme of camaraderie."
+    },
+    {
+      "start_time": "00:54.000",
+      "end_time": "00:59.000",
+      "structural_tags": [
+        "Emotional_Climax",
+        "High_Energy",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man entering room",
+        "clapping hands",
+        "extreme happiness",
+        "friends cheering",
+        "surprise reaction"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "positive",
+          "shock_surprise"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "candid",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This is the core emotional climax and 'reveal' moment of the video, showcasing the most intense and authentic joyous reaction from the main subject upon being surprised."
+    },
+    {
+      "start_time": "00:59.800",
+      "end_time": "01:02.000",
+      "structural_tags": [
+        "Social_Proof",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "group photo",
+        "men smiling",
+        "party banner"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "positive",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "posed",
+          "celebratory background"
+        ]
+      },
+      "why_kept": "This segment provides social proof and a clear visual summary of the celebratory event, showing the collective happiness of the group."
+    }
+  ]
+}

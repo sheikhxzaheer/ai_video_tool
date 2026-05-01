@@ -1,0 +1,147 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Transplantation hair\\ssstik.io_1746986235943.mp4",
+  "detailed_description": "This video showcases a specialized hair transplant clinic that offers high-density procedures capable of treating all levels of baldness, including severe cases like grade 7, which are often turned away by other clinics. The core message emphasizes their unique system, which allows for a comprehensive resolution in a single procedure, restoring hope and results for patients with extensive hair loss.",
+  "segments": [
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:05.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Mechanism_Of_Action",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "bald head",
+        "scalp marking",
+        "purple lines",
+        "liquid application",
+        "medical procedure"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "clinical"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment visually initiates the demonstration of the hair transplant process, showing the critical initial step of scalp marking and preparation."
+    },
+    {
+      "start_time": "00:09.000",
+      "end_time": "00:10.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "bald man",
+        "mirror reflection",
+        "scalp marking",
+        "consultation",
+        "medical tool"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "clinical"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "patient perspective",
+          "detailed focus"
+        ]
+      },
+      "why_kept": "This segment shows direct patient interaction during the preparation phase, highlighting the collaborative and patient-focused aspect of the procedure."
+    },
+    {
+      "start_time": "00:18.000",
+      "end_time": "00:22.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Behind_The_Scenes",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "medical staff",
+        "multiple hands",
+        "scalp preparation",
+        "surgical lights",
+        "hair transplant",
+        "teamwork"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "clinical"
+        ],
+        "mood": [
+          "clinical",
+          "professional",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic angle",
+          "bright lighting",
+          "focus on action"
+        ]
+      },
+      "why_kept": "This is the strongest 'Hero Moment' as it comprehensively demonstrates the professional process with multiple medical staff actively engaged in the detailed preparation of the patient's scalp, embodying the clinic's expertise and commitment to severe cases."
+    },
+    {
+      "start_time": "00:35.000",
+      "end_time": "00:39.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "bald man",
+        "beard",
+        "mirror",
+        "scalp marking",
+        "medical pen"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "clinical"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "patient's perspective",
+          "consultation detail"
+        ]
+      },
+      "why_kept": "This segment reinforces the detailed planning and patient involvement, showing the continuous marking and consultation process crucial for a successful high-density transplant."
+    }
+  ]
+}

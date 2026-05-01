@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Massage\\Woman\\ssstik.io_@aebeautyspa_1763039960841.mp4",
+  "detailed_description": "This video captures the essence of a professional spa treatment, focusing on a soothing facial massage. A skilled esthetician is shown expertly applying a product to a client's face and neck using gentle, circular motions. The client appears deeply relaxed, with her eyes closed, enveloped in a towel on a spa bed. The segment effectively conveys the tranquil and luxurious experience of a facial.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.680",
+      "structural_tags": [
+        "Visual_Hook",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "facial massage",
+        "spa treatment",
+        "esthetician hands",
+        "client",
+        "relaxed expression",
+        "product application",
+        "white towel"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "calm",
+          "premium",
+          "soothing"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "professional",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment is the Semantic Core as it directly showcases the professional process of a facial massage. It demonstrates the 'doing the work' aspect by the esthetician, the 'product interaction' through application, and the 'emotional climax' of the client's visible relaxation. There is no setup, dead air, or irrelevant footage, making the full duration relevant."
+    }
+  ]
+}

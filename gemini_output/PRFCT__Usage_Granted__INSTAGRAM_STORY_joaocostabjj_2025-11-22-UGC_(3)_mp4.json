@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\Usage Granted\\INSTAGRAM_STORY_joaocostabjj_2025-11-22-UGC (3).mp4",
+  "detailed_description": "This video captures a quick and efficient morning routine, highlighting the preparation of 'PRFCT Morning Tangerine Pulse.' It begins by showcasing the product's packaging and a shaker cup filled with ice and water. The user then demonstrates the ease of use by tearing open a single-serving packet and pouring the yellow, tangerine-flavored powder directly into the cup, emphasizing the product interaction. The short clip concludes with the powder mixed into the water, ready to be consumed as a hydration fuel and metabolic activator.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Home_Kitchen",
+        "Morning_Routine",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "bag of PRFCT Morning Tangerine Pulse",
+        "shaker cup",
+        "ice water",
+        "hand",
+        "pouring powder",
+        "stovetop"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "static shot",
+          "direct focus"
+        ]
+      },
+      "why_kept": "This segment is kept as the Semantic Core because it fully encapsulates the introduction of the product, the core action of preparing the drink (product interaction), and the setting of a morning routine. It provides a complete demonstration of how the product is used, which is the primary value conveyed in the video, without any unnecessary setup or dead air."
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Minoxdil\\ð£Ðûð¢ð¥ð║Ðüð©ð┤ð©ð╗.mp4",
+  "detailed_description": "This video features a man with a receding hairline introducing his 3-month journey testing Minoxidil 5% for moderate hair loss. He presents the product box, then the spray bottle, highlighting its 5% concentration. He clearly shows his balding scalp, establishing the 'problem state'. He then demonstrates the first application, applying the liquid to his head and gently rubbing it in. The video concludes with his commitment to provide weekly updates on his hair regrowth progress, setting an expectation for ongoing content.",
+  "segments": [
+    {
+      "start_time": "00:06.200",
+      "end_time": "00:08.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "Man",
+        "product box",
+        "Minoxidil packaging",
+        "Dva shirt"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment introduces the product packaging and the man's initial interaction with it."
+    },
+    {
+      "start_time": "00:14.300",
+      "end_time": "00:23.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Key_Information",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "Man",
+        "product box",
+        "Minoxidil packaging",
+        "Dva shirt",
+        "explaining duration"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "Further introduces the product and provides key information about the planned 3-month testing period with weekly updates."
+    },
+    {
+      "start_time": "00:26.500",
+      "end_time": "00:31.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Problem_State",
+        "Product_Interaction",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "Man",
+        "Minoxidil bottle",
+        "bald scalp",
+        "pointing to head",
+        "Dva shirt",
+        "5% concentration"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural light"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it clearly presents the specific product (bottle), its active concentration, and visually demonstrates the problem (baldness) that the product aims to address, directly before the application."
+    },
+    {
+      "start_time": "00:34.700",
+      "end_time": "00:40.800",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "Man",
+        "Minoxidil bottle",
+        "spraying product",
+        "bald scalp",
+        "Dva shirt"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct application"
+        ]
+      },
+      "why_kept": "Demonstrates the initial step of applying the product to the scalp."
+    },
+    {
+      "start_time": "00:43.700",
+      "end_time": "00:51.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "Man",
+        "massaging scalp",
+        "bald head",
+        "Dva shirt"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up on head",
+          "consistent lighting"
+        ]
+      },
+      "why_kept": "Shows the user massaging the product into his scalp, completing the application process."
+    },
+    {
+      "start_time": "00:54.000",
+      "end_time": "00:57.000",
+      "structural_tags": [
+        "Key_Information",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "Man",
+        "talking head",
+        "Dva shirt",
+        "promising updates"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "direct address"
+        ]
+      },
+      "why_kept": "Provides crucial information about the upcoming follow-up videos, acting as a soft call to action for viewers to stay tuned."
+    }
+  ]
+}

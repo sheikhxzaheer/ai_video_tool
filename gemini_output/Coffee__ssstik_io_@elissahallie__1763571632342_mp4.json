@@ -1,0 +1,158 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Coffee\\ssstik.io_@elissahallie__1763571632342.mp4",
+  "detailed_description": "This video illustrates the step-by-step process of preparing a homemade iced oat milk latte, showcasing the woman adding ice, oat milk, cinnamon, honey, and coffee, and stirring the mixture. The sequence culminates in an unexpected and relatable mishap when the plastic cup collapses as she tries to put on the lid, spilling the entire drink across the kitchen counter, capturing her genuine reaction of surprise and dismay.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Home_Kitchen",
+        "Ingredient_Highlight",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "ice",
+        "plastic cup",
+        "oat milk carton",
+        "cinnamon shaker",
+        "pouring",
+        "sprinkling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "bright"
+        ]
+      },
+      "why_kept": "This segment demonstrates the initial steps of drink preparation, showing product interaction and the process of adding multiple ingredients to the main cup, setting up the context for the final drink."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:29.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Home_Kitchen",
+        "Ingredient_Highlight",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "honey bottle",
+        "espresso cup",
+        "stirring spoon",
+        "pouring honey",
+        "stirring coffee"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "focused shot"
+        ]
+      },
+      "why_kept": "This segment captures the meticulous preparation of the coffee component, including the addition of honey and stirring, which are essential steps before combining all elements."
+    },
+    {
+      "start_time": "00:31.000",
+      "end_time": "00:38.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Home_Kitchen",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "woman",
+        "coffee cup",
+        "main plastic cup",
+        "pouring coffee",
+        "stirring drink",
+        "layered drink"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear cup visuals",
+          "blending liquids"
+        ]
+      },
+      "why_kept": "This segment shows the crucial step of combining the coffee with the iced milk base and the final stirring, visually completing the drink preparation before the incident."
+    },
+    {
+      "start_time": "00:40.000",
+      "end_time": "00:47.000",
+      "structural_tags": [
+        "Malfunction_Fail",
+        "Face_Reaction",
+        "Emotional_Climax",
+        "Negative_Emotion",
+        "Product_Interaction",
+        "Home_Kitchen",
+        "Messy_Unorganized",
+        "Shock_Surprise",
+        "Visual_Hook",
+        "Time_Wasted"
+      ],
+      "visual_keywords": [
+        "woman",
+        "plastic lid",
+        "plastic cup",
+        "spilling drink",
+        "messy counter",
+        "frustrated expression",
+        "hands over mouth"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "shock_surprise",
+          "negative_emotion"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dramatic moment",
+          "clear facial reaction"
+        ]
+      },
+      "why_kept": "This is the primary 'Hero Moment' of the video, featuring an unexpected and impactful malfunction with a clear emotional climax and strong facial reaction from the subject. It is the core event that captures attention and conveys a relatable experience."
+    }
+  ]
+}

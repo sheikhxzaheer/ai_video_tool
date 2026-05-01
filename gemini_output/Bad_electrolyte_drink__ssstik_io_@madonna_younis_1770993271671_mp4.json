@@ -1,0 +1,136 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad electrolyte drink\\ssstik.io_@madonna.younis_1770993271671.mp4",
+  "detailed_description": "This video introduces Ultima Replenisher, an electrolyte drink mix, by showcasing its key benefits of being zero sugar and zero calories. The creator demonstrates the simple preparation process: pouring water into a glass and mixing in one of the flavored sticks, specifically the Raspberry Lemonade. The video highlights the product's 6 essential electrolytes and Vitamin C, followed by the creator enjoying the refreshing, pink-colored drink with visible satisfaction. It concludes by reinforcing its healthy attributes, such as being keto and vegan friendly, encouraging viewers to stay hydrated and feel amazing.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.933",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Key_Information",
+        "Human_Interaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hand",
+        "Ultima Replenisher packaging",
+        "electrolyte sticks",
+        "product opening",
+        "zero sugar",
+        "zero calories"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual setting"
+        ]
+      },
+      "why_kept": "This segment effectively introduces the product, highlights its core benefits (zero sugar/calories), and showcases the variety of available flavors, serving as a strong visual hook."
+    },
+    {
+      "start_time": "00:05.500",
+      "end_time": "00:22.500",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Key_Information",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hand",
+        "water bottle",
+        "glass",
+        "electrolyte stick",
+        "powder pouring",
+        "spoon",
+        "pink drink",
+        "straw",
+        "ice",
+        "sipping",
+        "facial expression",
+        "satisfaction",
+        "mixing"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear liquid visuals",
+          "vibrant color transformation",
+          "casual setting",
+          "focused interaction"
+        ]
+      },
+      "why_kept": "This segment is the core 'Hero Moment' as it vividly demonstrates the product's preparation process ('The Process/Labor'), shows the liquid transforming into a vibrant drink ('The Reveal/Result'), and captures the user's authentic positive reaction and enjoyment upon tasting it ('Emotional Climax' and 'Product Interaction')."
+    },
+    {
+      "start_time": "00:24.700",
+      "end_time": "00:31.000",
+      "structural_tags": [
+        "Key_Information",
+        "Positive_Emotion",
+        "Offer_CTA",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hand",
+        "Ultima Replenisher packaging",
+        "drink glass",
+        "OK gesture",
+        "smiling face",
+        "keto friendly",
+        "vegan friendly",
+        "stay hydrated"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "energetic",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "confident posture",
+          "direct appeal",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This final segment effectively summarizes additional key benefits (Keto + Vegan Friendly) and delivers a clear call to action, reinforcing the product's overall value proposition with a positive emotional appeal."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Skin is peeled off\\ssstik.io_@classiclasersa_1762086626554.mp4",
+  "detailed_description": "This video demonstrates a professional skin treatment involving the meticulous peeling of a facial mask. A gloved aesthetician uses tools to carefully remove a transparent film from the client's face, revealing refreshed and smoother skin. The process highlights the precise application and removal technique, showcasing a 'Mechanism of Action.' The video concludes with a clear 'Before and After' comparison, visually emphasizing the transformative results, with the treated skin appearing brighter and more even-toned.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:25.800",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "hands in gloves",
+        "tweezers",
+        "skin peel",
+        "face mask removal",
+        "spatula"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused action",
+          "clean aesthetic",
+          "detailed work"
+        ]
+      },
+      "why_kept": "This segment is the primary demonstration of the skin treatment's process. It shows the detailed action of peeling the mask, which is the core 'doing the work' and 'product interaction' of the video."
+    },
+    {
+      "start_time": "00:26.000",
+      "end_time": "00:30.000",
+      "structural_tags": [
+        "Before_After",
+        "Result_Transformation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "face",
+        "before",
+        "after",
+        "smooth skin",
+        "glowing skin"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "overhead shot",
+          "static comparison",
+          "clear visibility"
+        ]
+      },
+      "why_kept": "This segment clearly presents the 'Before and After' results, providing crucial visual proof of the treatment's effectiveness and the desired outcome, directly showing the 'Result_Transformation'."
+    }
+  ]
+}

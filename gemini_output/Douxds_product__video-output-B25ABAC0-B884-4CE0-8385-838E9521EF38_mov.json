@@ -1,0 +1,195 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Douxds product\\video-output-B25ABAC0-B884-4CE0-8385-838E9521EF38.mov",
+  "detailed_description": "This video meticulously showcases a man's comprehensive morning skincare routine using a line of 'douxds' products. It begins by establishing a confident and positive mood, then proceeds to visually demonstrate the step-by-step application of a face wash with a cleansing brush, followed by a bump eliminator and a face quench. The routine emphasizes active product interaction and concludes with a clear expression of satisfaction, highlighting the positive impact of the skincare regimen.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.130",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "Man",
+        "mirror",
+        "confident gaze",
+        "smile",
+        "thumbs up"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This segment serves as a strong visual hook and sets a positive, confident tone, demonstrating an emotional climax before the routine begins."
+    },
+    {
+      "start_time": "00:02.130",
+      "end_time": "00:15.390",
+      "structural_tags": [
+        "The_Process",
+        "Product_Interaction",
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "Wetting face",
+        "sink",
+        "face wash bottle (douxds WAR)",
+        "cleansing brush",
+        "applying face wash",
+        "massaging face",
+        "rinsing face",
+        "towel"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up on hands",
+          "mirror reflection"
+        ]
+      },
+      "why_kept": "This is a core 'hero moment' demonstrating the initial and most involved step of the skincare routine: introducing and actively using the face wash and cleansing brush, which showcases the product's mechanism of action and the process of labor."
+    },
+    {
+      "start_time": "00:15.390",
+      "end_time": "00:20.660",
+      "structural_tags": [
+        "The_Process",
+        "Product_Interaction",
+        "Product_Intro",
+        "Human_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "Bump eliminator bottle (douxds CRUSH)",
+        "dispensing product",
+        "applying cream",
+        "rubbing face",
+        "jawline"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up on product",
+          "mirror reflection"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the 'process' of applying the second product, the 'douxds CRUSH' bump eliminator, highlighting direct product interaction and its use within the routine."
+    },
+    {
+      "start_time": "00:20.660",
+      "end_time": "00:28.460",
+      "structural_tags": [
+        "The_Process",
+        "Product_Interaction",
+        "Product_Intro",
+        "Human_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "Face quench bottle (douxds PRIME)",
+        "dispensing product",
+        "applying cream",
+        "rubbing face",
+        "forehead",
+        "cheeks"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-up on product",
+          "mirror reflection"
+        ]
+      },
+      "why_kept": "This segment completes the skincare 'process' by introducing and showing the application of the third product, 'douxds PRIME' face quench, which is a key product interaction and step in the demonstrated routine."
+    },
+    {
+      "start_time": "00:28.460",
+      "end_time": "00:29.980",
+      "structural_tags": [
+        "Result_Transformation",
+        "Emotional_Climax",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "Smile",
+        "peace sign",
+        "mirror",
+        "satisfaction",
+        "well-groomed"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "direct address"
+        ]
+      },
+      "why_kept": "This final segment provides an emotional climax, visually confirming the positive result and satisfaction derived from completing the skincare routine, serving as a concluding 'hero moment' of positive emotion."
+    }
+  ]
+}

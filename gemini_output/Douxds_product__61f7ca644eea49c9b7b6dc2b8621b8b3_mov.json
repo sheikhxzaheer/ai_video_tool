@@ -1,0 +1,294 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Douxds product\\61f7ca644eea49c9b7b6dc2b8621b8b3.mov",
+  "detailed_description": "This video showcases a young man demonstrating a comprehensive men's skincare routine using Douxds products. He introduces the Douxds Flex device and various creams (Prime, War, Crush) before meticulously applying them. The routine includes using the Flex device for facial cleansing, washing his face, drying it with a branded towel, and then applying the Prime and Crush creams to his skin. The video emphasizes the hands-on application of each product, culminating in a satisfied facial expression that implies the effectiveness and benefits of the skincare regimen.",
+  "segments": [
+    {
+      "start_time": "00:03.490",
+      "end_time": "00:07.120",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "bathroom",
+        "mirror",
+        "skincare product boxes",
+        "Douxds Flex",
+        "Prime",
+        "War",
+        "Crush"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "informational",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "direct presentation"
+        ]
+      },
+      "why_kept": "This segment introduces the range of products used in the routine, setting the stage for the subsequent steps."
+    },
+    {
+      "start_time": "00:07.120",
+      "end_time": "00:11.230",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "man",
+        "bathroom",
+        "mirror",
+        "Douxds Flex device",
+        "unboxing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "informational",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused shot",
+          "product reveal"
+        ]
+      },
+      "why_kept": "This segment details the unboxing and initial handling of the core Douxds Flex device, highlighting product design and texture."
+    },
+    {
+      "start_time": "00:13.290",
+      "end_time": "00:16.480",
+      "structural_tags": [
+        "Product_Interaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "man",
+        "bathroom",
+        "mirror",
+        "Douxds Prime",
+        "Douxds War",
+        "Douxds Crush",
+        "cream bottles",
+        "unboxing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "informational",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused shot",
+          "product reveal"
+        ]
+      },
+      "why_kept": "This segment showcases the unboxing and presentation of the Douxds skincare creams, which are essential components of the routine."
+    },
+    {
+      "start_time": "00:18.250",
+      "end_time": "00:26.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "bathroom",
+        "mirror",
+        "Douxds Flex device",
+        "facial cleansing",
+        "applying device to face"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct action",
+          "demonstration"
+        ]
+      },
+      "why_kept": "This is a primary 'hero moment' demonstrating the core function and application of the Douxds Flex device, showing the user actively engaging with the product as part of a skincare process."
+    },
+    {
+      "start_time": "00:27.050",
+      "end_time": "00:30.410",
+      "structural_tags": [
+        "Process_Labor",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "bathroom",
+        "sink",
+        "washing face",
+        "water"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "refreshing"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "routine step"
+        ]
+      },
+      "why_kept": "This segment shows a natural step in a skincare routine (face washing), providing context for the product application."
+    },
+    {
+      "start_time": "00:31.420",
+      "end_time": "00:35.340",
+      "structural_tags": [
+        "Product_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "bathroom",
+        "mirror",
+        "Douxds towel",
+        "drying face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "branded element",
+          "routine step"
+        ]
+      },
+      "why_kept": "This segment features the branded Douxds towel, reinforcing brand presence even in a simple action like drying the face."
+    },
+    {
+      "start_time": "00:36.560",
+      "end_time": "00:44.800",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "bathroom",
+        "mirror",
+        "Douxds Prime",
+        "cream application",
+        "rubbing cream on face"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed application",
+          "skincare technique"
+        ]
+      },
+      "why_kept": "This segment is a crucial 'hero moment' demonstrating the proper application and integration of the Douxds Prime cream into the skincare routine, showing the active use of the product."
+    },
+    {
+      "start_time": "00:45.980",
+      "end_time": "00:50.190",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Emotional_Climax",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "man",
+        "bathroom",
+        "mirror",
+        "Douxds Crush",
+        "cream application",
+        "rubbing cream on face",
+        "satisfied expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "satisfied",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed application",
+          "positive facial reaction"
+        ]
+      },
+      "why_kept": "This segment captures the final step of the routine with the application of Douxds Crush and concludes with a clear facial expression of satisfaction, serving as the emotional climax and implying the positive result of the overall skincare process."
+    }
+  ]
+}

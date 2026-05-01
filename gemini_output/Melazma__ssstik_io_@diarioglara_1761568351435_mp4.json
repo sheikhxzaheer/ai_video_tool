@@ -1,0 +1,42 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melazma\\ssstik.io_@diarioglara_1761568351435.mp4",
+  "detailed_description": "The video features a woman directly addressing the camera, highlighting the melasma on her face. She poses a direct question to the audience, asking if they believe melasma can be cured. Subsequently, she announces her personal journey towards a 'cure' for her melasma, inviting viewers to follow her daily progress. This segment acts as an introductory hook and a call to action for a series documenting her melasma treatment process.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.300",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "UGC_Talking_Head",
+        "Key_Information",
+        "Offer_CTA"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "melasma",
+        "speaking",
+        "pointing to face"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "determined"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address",
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment is kept as the semantic core because it directly introduces the video's central theme: the journey to cure melasma. The speaker clearly presents the problem (melasma on her face), asks a thought-provoking question, and provides key information about her intention to document her 'cure' process daily, ending with a clear call to action for viewers to follow along. This aligns with the 'Key Information' and 'Offer_CTA' hero moments, with the visual emphasis on her face and melasma serving as the 'Problem_State' and visual hook."
+    }
+  ]
+}

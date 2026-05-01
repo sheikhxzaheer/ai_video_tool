@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Skin is peeled off\\snaptik_7419192106125774086.mp4",
+  "detailed_description": "This video showcases a cosmetic procedure focused on removing hyperpigmentation from a client's face. A professional, wearing gloves, uses tweezers to meticulously peel off a transparent, adhesive film or mask from the client's cheek and forehead. As the film is removed, a noticeable difference in skin tone is revealed, with the treated areas appearing lighter and free of dark spots. The removed film clearly shows captured dark patches, visually demonstrating the effectiveness of the treatment in lifting pigmentation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:46.060",
+      "structural_tags": [
+        "Result_Transformation",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Before_After",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "peeling mask",
+        "hyperpigmentation removal",
+        "skin treatment",
+        "gloved hands",
+        "tweezers",
+        "face",
+        "skin tone correction",
+        "cosmetic procedure"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "transformative",
+          "satisfying"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "detailed",
+          "direct focus",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment demonstrates the core value proposition: the visual removal of hyperpigmentation. It shows the 'Process/Labor' of peeling the treatment, the 'Product Interaction' with the film, and the 'Reveal/Result' of lighter skin and the pigmentation on the peeled film. The continuous action and clear visual transformation make the entire duration essential to the semantic core."
+    }
+  ]
+}

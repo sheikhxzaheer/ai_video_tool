@@ -1,0 +1,115 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Wrinkles Before_After\\ssstik.io_@michelealcos_1761472784926.mp4",
+  "detailed_description": "This video captures a 55-year-old woman's journey to achieving healthier-looking skin. It begins by showcasing her skin's initial state, implying common age-related concerns. The narrative progresses to reveal her discovery and use of Oliveda's Hydroxytyrosol + Hyaluron product. The video culminates in a compelling 'before and after' presentation, highlighting the visible transformation to glowing and rejuvenated skin, concluding with a direct call to action for viewers seeking similar results.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "Woman",
+        "bare skin",
+        "tired eyes",
+        "looking at camera",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "reflective"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "minimal makeup"
+        ]
+      },
+      "why_kept": "This segment serves as the initial 'before' shot, visually establishing the problem state and hooking the viewer, explicitly stating 'How it started...'."
+    },
+    {
+      "start_time": "00:35.000",
+      "end_time": "00:37.900",
+      "structural_tags": [
+        "Product_Interaction",
+        "Product_Standalone",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "Woman",
+        "holding jar",
+        "smelling product",
+        "glowing skin",
+        "text overlay"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "natural look",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment shows direct product interaction, highlighting the product itself and subtly demonstrating the transformation of her skin after one month of use, making it a key 'hero moment'."
+    },
+    {
+      "start_time": "00:38.000",
+      "end_time": "00:45.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation",
+        "Product_Intro",
+        "Offer_CTA",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "Woman",
+        "touching hair",
+        "glowing skin",
+        "text overlay",
+        "confident look",
+        "jewelry"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "confident",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "natural makeup",
+          "hair styling",
+          "text overlay"
+        ]
+      },
+      "why_kept": "This segment acts as a powerful 'before and after' reveal, articulating the user's desire ('wanting good skin'), presenting the product as the solution, and showcasing the positive transformation of her skin, complete with a call to action."
+    }
+  ]
+}

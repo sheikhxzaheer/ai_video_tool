@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Minoxdil\\ssstik.io_1749030184843.mp4",
+  "detailed_description": "The video showcases a daily minoxidil routine for hair loss, demonstrating the practical application steps. A man in a white robe applies minoxidil solution to his scalp using a dropper. Following the application, he massages the solution into his scalp with a scalp massager, illustrating a structured self-care regimen. The routine is presented as part of a journey, marked as 'day 324,' highlighting consistency in addressing hair loss.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.680",
+      "structural_tags": [
+        "Product_Interaction",
+        "Human_Interaction",
+        "Morning_Routine",
+        "Mechanism_Of_Action",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "white robe",
+        "minoxidil",
+        "dropper",
+        "scalp",
+        "hair",
+        "scalp massager",
+        "applying",
+        "massaging"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "clean",
+          "self-care",
+          "grooming",
+          "routine"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety because it directly demonstrates the core action and value of the video: the step-by-step minoxidil application and massage routine. It starts precisely with the action and ends after the key actions are clearly shown, aligning with the 'No-Mistake' rule and the 'Product Interaction' and 'Process/Labor' criteria."
+    }
+  ]
+}

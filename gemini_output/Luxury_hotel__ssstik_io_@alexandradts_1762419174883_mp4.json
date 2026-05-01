@@ -1,0 +1,60 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury hotel\\ssstik.io_@alexandradts_1762419174883.mp4",
+  "detailed_description": "The video provides a captivating walk-through of a luxurious property, transitioning from a chic interior to an expansive outdoor oasis. It starts with a woman entering a stylish room featuring exposed brick walls, a modern marble counter, and elegant decor. She then proceeds to open large doors that lead to a private rooftop terrace. The terrace, bathed in sunlight, is beautifully appointed with comfortable lounge chairs, decorative olive trees, and a private hot tub, offering breathtaking panoramic views of the city. The sequence effectively showcases the seamless blend of indoor sophistication with outdoor leisure.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:21.435",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Aesthetic_Broll",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "door",
+        "hallway",
+        "room",
+        "brick wall",
+        "marble counter",
+        "bed",
+        "window",
+        "terrace",
+        "patio",
+        "hot tub",
+        "jacuzzi",
+        "lounge chairs",
+        "olive trees",
+        "city view",
+        "blue sky",
+        "buildings"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "outdoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clear sunny day",
+          "modern design",
+          "luxurious"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the 'Semantic Core' because it presents a continuous and coherent narrative of revealing a luxurious space. It begins with the initial entry into a stylish room, showcases its elegant features, and culminates in the grand reveal of a private rooftop terrace complete with a hot tub and scenic views. Each part contributes to the overall 'hero moment' of demonstrating the property's value and lifestyle appeal, making it a complete experience without any unnecessary setup or dead air."
+    }
+  ]
+}

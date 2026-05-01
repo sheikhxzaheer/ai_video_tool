@@ -1,0 +1,43 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLife_working\\Scene 26_bonding.mov",
+  "detailed_description": "This video captures a tender and affectionate moment between a woman and her small dog. The woman is lying down, smiling with her eyes mostly closed, while her dog nestles close and repeatedly licks her face and neck. The scene conveys a strong sense of calm, relaxation, and mutual affection, highlighting the loving bond between them. The woman's gentle demeanor and the dog's warm interaction create a heartwarming visual.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Human_Interaction",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman cuddling dog",
+        "dog licking face",
+        "smiling woman",
+        "affectionate pet",
+        "relaxed posture"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "affectionate"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "cozy lighting",
+          "candid shot",
+          "warm tones"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it perfectly captures the hero moment: the emotional climax of a loving and relaxed interaction between a woman and her dog. The dog's affectionate licks and the woman's contented smiles and closed eyes clearly demonstrate positive emotion and a strong bond, fulfilling the criteria for emotional climax and human interaction without needing any trimming."
+    }
+  ]
+}

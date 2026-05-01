@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Korean woman\\ssstik.io_@mtn.star_1768336549362.mp4",
+  "detailed_description": "The video captures acclaimed actress Youn Yuh-jung at a promotional event for her film 'Dog Days'. Dressed elegantly in a gray ribbed top and a flowing black skirt, she confidently walks onto the stage and positions herself in front of the movie's backdrop. Guided by an unseen host, she gracefully poses for photographers, turning to her left, then front, and finally to her right. Throughout her poses, she maintains a warm and radiant smile, showcasing her enduring charm and positive demeanor. This segment highlights her public appearance, engaging with the media and embodying the warmth expected from the film's lead.",
+  "segments": [
+    {
+      "start_time": "00:10.700",
+      "end_time": "00:49.500",
+      "structural_tags": [
+        "The_Process_Labor",
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Product_Present",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "Youn Yuh-jung",
+        "actress",
+        "movie promotion",
+        "stage",
+        "backdrop",
+        "movie poster",
+        "Dog Days",
+        "posing",
+        "smiling",
+        "gray hair",
+        "gray top",
+        "black skirt"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "positive",
+          "elegant",
+          "cheerful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "event lighting",
+          "celebrity appearance",
+          "professional setting"
+        ]
+      },
+      "why_kept": "This segment captures the actress actively engaged in her professional role of promoting a film. It showcases her charisma, positive emotional expression, and direct interaction with the media by posing for photographs, which is a key part of such an event. The trimming removes the initial walk-on and minor adjustments, focusing solely on the intentional posing and audience engagement."
+    }
+  ]
+}

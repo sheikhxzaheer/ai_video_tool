@@ -1,0 +1,143 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Foundation\\ssstik.io_@sarahgzeiler_1763976751401.mp4",
+  "detailed_description": "The video demonstrates a unique under-eye concealer application method for achieving a lifted, non-cakey look, particularly relevant for mature skin. The process begins by using a specific concealer as an eye primer, highlighting its beneficial ingredients like caffeine and hyaluronic acid. Following this, eyeshadow is applied to set the base. The crucial step involves strategically placing two dots of concealer—one at the inner corner and another at the outer corner, consciously avoiding the direct under-eye area—and blending them upwards and outwards with a brush. This technique aims to visually lift the eye and avoid the common issue of creasing or excessive product. The tutorial concludes with a light application of setting powder to ensure the makeup remains flawless and streak-free throughout the day.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:16.890",
+      "structural_tags": [
+        "Product_Intro",
+        "Mechanism_Of_Action",
+        "Ingredient_Highlight",
+        "Process_Labor",
+        "Product_Interaction",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "woman holding concealer",
+        "applying concealer to eyelid",
+        "blending with brush"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean",
+          "educational"
+        ]
+      },
+      "why_kept": "Introduces the concealer product, explains its initial use as an eye primer with highlighted ingredients, and demonstrates the application process."
+    },
+    {
+      "start_time": "00:18.423",
+      "end_time": "00:46.307",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Key_Information"
+      ],
+      "visual_keywords": [
+        "woman showing eyeshadow palette",
+        "applying eyeshadow to eyelid",
+        "applying eyeshadow to lower lash line"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean",
+          "educational"
+        ]
+      },
+      "why_kept": "This segment shows the preparatory step of applying eyeshadow, directly leading into the main under-eye concealer technique. It includes verbal explanation and product use."
+    },
+    {
+      "start_time": "00:50.787",
+      "end_time": "01:56.687",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Process_Labor",
+        "Result_Transformation",
+        "Key_Information",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman applying concealer dots",
+        "blending concealer with brush",
+        "showing lifted eye effect",
+        "facial expression of satisfaction"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "informative",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean",
+          "educational"
+        ]
+      },
+      "why_kept": "This is the core 'hero moment,' demonstrating the precise under-eye concealer placement (dots at inner and outer corners, avoiding the direct under-eye area) and blending technique to achieve a lifted look. It includes direct explanations and visual results."
+    },
+    {
+      "start_time": "02:00.677",
+      "end_time": "02:14.367",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "woman applying setting powder with brush",
+        "blending powder"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clean",
+          "educational"
+        ]
+      },
+      "why_kept": "The final step of applying setting powder to complete the makeup look and ensure longevity, preventing streaking or smudging."
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Bad electrolyte drink\\ssstik.io_@elizabrookes_1769680175104.mp4",
+  "detailed_description": "This video demonstrates the simple, step-by-step process of preparing a refreshing strawberry and lime electrolyte drink. It begins with a quick visual of the finished beverage, then proceeds to show the user adding a powdered electrolyte sachet to a glass, pouring in sparkling water, mixing it thoroughly with a frother, and finally adding ice for a perfectly chilled, vibrant pink drink. The core value lies in showcasing the ease and visual appeal of making this hydration-enhanced beverage.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.900",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Interaction",
+        "Result_Transformation",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "glass",
+        "pink drink",
+        "ice",
+        "stirring",
+        "straw"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "bright",
+          "focus on drink"
+        ]
+      },
+      "why_kept": "This segment acts as an immediate visual hook, showcasing the appealing final product and setting the stage for the preparation."
+    },
+    {
+      "start_time": "00:01.000",
+      "end_time": "00:04.200",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "sachet",
+        "vidrate",
+        "strawberry & lime",
+        "pink powder",
+        "glass"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "bright",
+          "focus on product"
+        ]
+      },
+      "why_kept": "This segment introduces the core product (electrolyte sachet) and demonstrates the initial step of pouring the powder into the glass."
+    },
+    {
+      "start_time": "00:04.400",
+      "end_time": "00:07.100",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "sparkling water bottle",
+        "pouring",
+        "pink liquid",
+        "glass"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "bright",
+          "dynamic pour"
+        ]
+      },
+      "why_kept": "This essential step shows the user adding the sparkling water, which activates and mixes with the electrolyte powder."
+    },
+    {
+      "start_time": "00:07.200",
+      "end_time": "00:09.600",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "pink frother",
+        "stirring",
+        "pink liquid",
+        "glass"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "bright",
+          "mixing action"
+        ]
+      },
+      "why_kept": "This segment demonstrates the specific tool and method used to effectively mix and dissolve the powder, ensuring a smooth drink."
+    },
+    {
+      "start_time": "00:10.000",
+      "end_time": "00:13.200",
+      "structural_tags": [
+        "Product_Interaction",
+        "Result_Transformation",
+        "Product_Standalone",
+        "Home_Kitchen",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "ice cubes",
+        "adding",
+        "pink drink",
+        "glass",
+        "picking up glass"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "bright",
+          "final presentation"
+        ]
+      },
+      "why_kept": "This segment completes the drink preparation by adding ice and concludes with the final presentation of the ready-to-enjoy beverage."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Fashion\\ssstik.io_@evelleniare_1763031518141.mp4",
+  "detailed_description": "The video captures a model confidently walking down a runway, showcasing a translucent, light green jumpsuit or two-piece ensemble paired with a matching headscarf, dark sunglasses, and striking gold accessories. The camera follows the model from a full-body shot to closer views, highlighting the flowing fabric, the cut of the garment, and the stylish details of the accessories, emphasizing the overall fashion aesthetic during the runway presentation. The entire duration functions as a continuous display of the 'product' (the outfit) in its intended context.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.680",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "High_Energy"
+      ],
+      "visual_keywords": [
+        "model",
+        "runway",
+        "fashion show",
+        "sheer jumpsuit",
+        "headscarf",
+        "sunglasses",
+        "gold jewelry",
+        "heels",
+        "walking",
+        "outfit"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "premium",
+          "energetic",
+          "stylish"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera movement",
+          "runway lighting",
+          "confident stride",
+          "chic aesthetic"
+        ]
+      },
+      "why_kept": "This entire segment is the core 'reveal' and 'product interaction' of the video. The model's continuous walk on the runway is the primary action, demonstrating the fashion ensemble in motion from various angles (wide, medium, closeup on details like shoes, fabric, and face). There are no setup frames or dead air, making the entire clip a continuous hero moment of presentation in a fashion show context."
+    }
+  ]
+}

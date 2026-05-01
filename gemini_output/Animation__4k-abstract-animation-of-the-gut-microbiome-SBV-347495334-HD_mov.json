@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\4k-abstract-animation-of-the-gut-microbiome-SBV-347495334-HD.mov",
+  "detailed_description": "This video vividly illustrates an internal bodily process, focusing on the digestive system. It begins with a transparent, holographic human figure, then zooms in to highlight the intestines, which are shown with numerous glowing particles. Red, concentric circles emanate from the abdominal area, symbolizing a state of activity, inflammation, or a problem within the gut, suggesting a focus on internal health, discomfort, or the mechanism of action of a treatment or condition.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.279",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Mechanism_Of_Action",
+        "Cellular_Deep_Dive"
+      ],
+      "visual_keywords": [
+        "transparent human body",
+        "skeletal structure",
+        "internal organs",
+        "intestines",
+        "glowing particles",
+        "red radiating circles",
+        "gut health",
+        "abdomen",
+        "digestive system"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "holographic animation",
+          "blue glow",
+          "red warning overlay",
+          "digital rendering"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, demonstrating a complex internal biological process within the human gut. The animation visually represents a 'Mechanism_Of_Action' with glowing particles potentially indicating microbial activity or inflammation, further emphasized by the 'Problem_State' indicated by the radiating red circles. It's a strong 'Visual_Hook' and offers a 'Cellular_Deep_Dive' into the gut, fulfilling the criteria for a hero moment by illustrating a core concept or problem."
+    }
+  ]
+}

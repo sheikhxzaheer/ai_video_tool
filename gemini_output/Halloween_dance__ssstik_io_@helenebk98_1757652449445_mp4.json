@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Halloween_dance\\ssstik.io_@helenebk98_1757652449445.mp4",
+  "detailed_description": "Two young women dressed in shiny silver astronaut-style jumpsuits perform a playful and energetic dance and pose routine. They exhibit a range of positive emotions, including smiles and laughter, while moving in sync with each other to an accompanying voiceover discussing Halloween costumes. The video captures their coordinated expressions and movements, embodying a lighthearted and festive mood.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.166",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "silver astronaut costumes",
+        "jumpsuits",
+        "women",
+        "dancing",
+        "posing",
+        "smiling",
+        "laughing",
+        "pointing",
+        "indoor setting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean background",
+          "coordinated movements"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the semantic core because it represents a continuous, high-energy performance by two individuals in astronaut costumes. It immediately showcases the visual content and mood, with the subjects constantly in action, displaying various expressions and poses. There are no clear 'setup' or 'post-action dead air' moments to trim, adhering to the 'no-mistake' rule where the action begins and ends with the video duration."
+    }
+  ]
+}

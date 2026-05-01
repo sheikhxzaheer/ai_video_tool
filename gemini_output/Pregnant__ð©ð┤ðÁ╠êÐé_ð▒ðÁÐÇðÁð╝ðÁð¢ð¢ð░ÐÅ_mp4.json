@@ -1,0 +1,75 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pregnant\\ð©ð┤ðÁ╠êÐé ð▒ðÁÐÇðÁð╝ðÁð¢ð¢ð░ÐÅ.mp4",
+  "detailed_description": "This video humorously illustrates the experience of pregnancy in the third trimester by comparing a pregnant woman's walk to that of a penguin. The video opens with a smiling pregnant woman confidently walking down a set of stairs, accompanied by a text overlay that playfully declares 'Pregnancy level 3rd trimester Penguin mode loaded successfully.' This visual is immediately followed by a clip of a penguin waddling through a snowy landscape, perfectly embodying the lighthearted comparison and serving as the visual punchline to the text's assertion.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.816",
+      "structural_tags": [
+        "Visual_Hook",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "pregnant woman",
+        "walking",
+        "stairs",
+        "building exterior",
+        "smile",
+        "text overlay"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "outdoor",
+          "street"
+        ],
+        "mood": [
+          "playful",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "sunny day"
+        ]
+      },
+      "why_kept": "This segment introduces the main subject (a pregnant woman) and explicitly states the video's humorous premise through the on-screen text, setting the stage for the visual comparison that follows. The woman's walk and positive expression reinforce the lighthearted tone."
+    },
+    {
+      "start_time": "00:05.816",
+      "end_time": "00:10.050",
+      "structural_tags": [
+        "Result_Transformation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "penguin",
+        "waddling",
+        "snow",
+        "ice"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "observational"
+        ],
+        "people_present": false,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "winter landscape"
+        ]
+      },
+      "why_kept": "This segment serves as the visual confirmation and punchline to the text in the previous segment. It directly illustrates the 'Penguin mode' with actual footage of a penguin, completing the humorous comparison and the core message of the video."
+    }
+  ]
+}

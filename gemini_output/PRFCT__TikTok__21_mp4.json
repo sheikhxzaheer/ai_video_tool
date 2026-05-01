@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\PRFCT\\TikTok\\21.mp4",
+  "detailed_description": "The video features a woman enthusiastically promoting a product called 'Tangerine Pulse', identified as a metabolic activator and nutrient fuel. She announces a 'double discount' and free rapid shipping, stressing that this special offer is only valid 'today' and urges viewers to click the orange cart icon to purchase. She explains that the tangerine-flavored product helps to hydrate, activate metabolism, and recharge nutrients, suggesting it's beneficial for combating tiredness. The entire clip serves as an urgent call to action with a clear product introduction and benefit explanation.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:22.750",
+      "structural_tags": [
+        "Offer_CTA",
+        "Product_Intro",
+        "Human_Interaction",
+        "Face_Reaction",
+        "High_Energy",
+        "Urgency_Rush",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "Tangerine Pulse",
+        "supplement bag",
+        "glasses",
+        "kitchen background",
+        "discount text overlay",
+        "pointing gesture"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "urgent",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "direct address",
+          "bright lighting",
+          "dynamic hand gestures"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it clearly presents the product, outlines the offer with urgency, explains the product's benefits, and includes a direct call to action. The woman actively holds and interacts with the product throughout, fulfilling the 'Product Interaction' and 'Key Information' hero moment criteria under the Visual Priority Rule. There is no setup or dead air, making it a complete and self-contained promotional message."
+    }
+  ]
+}

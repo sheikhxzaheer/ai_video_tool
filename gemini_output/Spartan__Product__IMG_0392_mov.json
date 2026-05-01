@@ -1,0 +1,45 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Product\\IMG_0392.mov",
+  "detailed_description": "This video showcases a black shampoo bottle, 'SPARTAN ROOT ACTIVATOR SHAMPOO,' held in a hand against a minimalist white and marble background. The hand rotates the bottle to display its front, sides, and back, highlighting the product name, claims (promotes hair growth, mighty, voluminous, vigorous hair), and usage directions/ingredients. The presentation emphasizes the product's design and key features in a clean, direct manner.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:12.790",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Aesthetic_Broll",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "hand holding bottle",
+        "rotating shampoo bottle",
+        "black bottle",
+        "product label",
+        "pump dispenser",
+        "marble background"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean background",
+          "soft lighting",
+          "product focus",
+          "minimalist"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by clearly presenting the product from multiple angles. The hand interaction (holding and rotating) is crucial for showcasing the bottle's design, branding, and textual information. It fulfills the 'Product Interaction' and 'The Reveal/Result' criteria by presenting the final product. There's no setup, calibration, or dead air; the product display is continuous and the primary action."
+    }
+  ]
+}

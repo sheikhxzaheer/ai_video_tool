@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\IMG_1788.MOV",
+  "detailed_description": "This video showcases a dramatic before-and-after transformation, illustrating the effectiveness of Minoxidil for hair regrowth. It begins with an overhead view of a man experiencing significant balding, labeled 'BEFORE MINOXIDIL.' The footage then transitions to the same individual, now with visibly fuller hair across his scalp, marked as 'AFTER MINOXIDIL.' The video concludes with the man expressing clear satisfaction, smiling and making a peace sign, highlighting the positive outcome of using the treatment.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "man",
+        "hair loss",
+        "balding",
+        "hair growth",
+        "full hair",
+        "scalp",
+        "beard",
+        "smile",
+        "peace sign"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "hopeful",
+          "transformative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "personal testimony",
+          "direct comparison",
+          "clear lighting"
+        ]
+      },
+      "why_kept": "This entire segment functions as the core 'Reveal/Result' hero moment, clearly demonstrating the transformation from hair loss to regrowth through explicit 'Before/After' labeling. The concluding smile and peace sign provide an 'Emotional Climax,' reinforcing the positive outcome and serving as social proof for the product's efficacy."
+    }
+  ]
+}

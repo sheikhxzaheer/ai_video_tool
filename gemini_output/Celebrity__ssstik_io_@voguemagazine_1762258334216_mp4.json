@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Celebrity\\ssstik.io_@voguemagazine_1762258334216.mp4",
+  "detailed_description": "This video captures celebrity couple Rihanna and A$AP Rocky arriving and posing together on the white carpet at the 2025 CFDA Fashion Awards. They are seen holding hands, smiling, and playfully interacting with each other and the photographers present. The couple exudes positive energy and affection, showcasing their stylish presence at the prestigious fashion event. The entire duration highlights their joint appearance and charismatic interaction.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:19.462",
+      "structural_tags": [
+        "Human_Interaction",
+        "Positive_Emotion",
+        "Aesthetic_Broll",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "Rihanna",
+        "A$AP Rocky",
+        "couple",
+        "CFDA Awards",
+        "red carpet",
+        "posing",
+        "smiling",
+        "holding hands",
+        "fashion",
+        "black trench coat",
+        "white pleated pants",
+        "black suit",
+        "yellow shirt"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio",
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "energetic",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "event photography",
+          "white backdrop"
+        ]
+      },
+      "why_kept": "The entire segment showcases the core value: Rihanna and A$AP Rocky's arrival and positive interaction at a high-profile fashion event. It captures their charisma, style, and the emotional connection between them, which is the 'hero moment' of their public appearance."
+    }
+  ]
+}

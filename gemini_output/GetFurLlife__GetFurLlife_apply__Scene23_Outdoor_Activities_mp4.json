@@ -1,0 +1,48 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\GetFurLlife\\GetFurLlife_apply\\Scene23_Outdoor Activities.mp4",
+  "detailed_description": "This video captures a leisurely walk with a gray pitbull-type dog. The dog is seen on a leash and purple collar, walking calmly alongside its owner on both a paved sidewalk and a grassy area. The dog appears relaxed, occasionally panting with its tongue out, and exhibits curiosity by sniffing its surroundings, showcasing a typical, pleasant dog-walking experience.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:28.083",
+      "structural_tags": [
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Product_Interaction",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "dog",
+        "leash",
+        "collar",
+        "walking",
+        "sidewalk",
+        "grass",
+        "person",
+        "outdoor",
+        "sun"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "street",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "sunny day",
+          "natural light"
+        ]
+      },
+      "why_kept": "This entire segment consistently demonstrates the core activity of walking a dog on a leash, showcasing both the 'process' of the walk and 'product interaction' with the leash and collar. The dog's relaxed demeanor and exploration of its surroundings also contribute to a positive, lifestyle-oriented 'hero moment' without any identifiable 'dead air' or 'setup' frames."
+    }
+  ]
+}

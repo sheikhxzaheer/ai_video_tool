@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pills\\ssstik.io_@tiktang25_1747418266915.mp4",
+  "detailed_description": "This video offers a candid, behind-the-scenes glimpse into a bustling manufacturing facility. Numerous factory workers, uniformly dressed in blue protective smocks and caps, are diligently engaged in the repetitive process of assembling or processing small components along a well-organized production line. The environment is characteristic of a modern, clean factory floor, featuring rows of workstations, some automated machinery, and bright fluorescent lighting. The footage effectively highlights the precise and systematic nature of industrial labor, showcasing the collective effort involved in large-scale production.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:13.91",
+      "structural_tags": [
+        "Behind_The_Scenes",
+        "The_Process/Labor",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "factory workers",
+        "assembly line",
+        "production process",
+        "electronic components",
+        "blue uniforms",
+        "manufacturing machinery",
+        "workstations"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "wide",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "brightly lit",
+          "industrial setting",
+          "clean lines",
+          "organized workflow"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core, consistently demonstrating the 'Process/Labor' of manufacturing. It shows multiple workers actively engaged in assembly tasks on a production line, providing a comprehensive view of the factory's operation. There are no extraneous frames, setup, or dead air, making the entire duration essential for conveying the video's core message."
+    }
+  ]
+}

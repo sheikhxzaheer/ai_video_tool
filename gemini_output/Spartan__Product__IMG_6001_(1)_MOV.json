@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Product\\IMG_6001 (1).MOV",
+  "detailed_description": "This video features a close-up introduction of a 'SPARTAN ROOT ACTIVATOR CONDITIONER' bottle. A hand retrieves the sleek black bottle from a white surface, clearly presenting its label to the camera. The label highlights the product's primary function to 'PROMOTE HAIR GROWTH' and promises hair as 'mighty, voluminous, and vigorous as a Spartan warrior,' effectively showcasing the product's branding and core benefit.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.167",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Standalone",
+        "Human_Interaction",
+        "Macro_Detail",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "hand",
+        "bottle",
+        "product label",
+        "conditioner",
+        "hair growth",
+        "white surface"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean aesthetic",
+          "well-lit",
+          "product focus"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it demonstrates direct product interaction, clearly introduces the product by showing its label, and highlights key information such as its brand ('SPARTAN'), type ('ROOT ACTIVATOR CONDITIONER'), and main benefit ('PROMOTES HAIR GROWTH'). The camera focus and steady hold ensure all critical details are visible."
+    }
+  ]
+}

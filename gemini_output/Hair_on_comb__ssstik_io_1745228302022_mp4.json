@@ -1,0 +1,105 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Hair on comb\\ssstik.io_1745228302022.mp4",
+  "detailed_description": "This video visually demonstrates the amount of hair a woman loses in a week after brushing. It begins by showing her actively brushing her long, dark hair, then transitions to a close-up shot revealing the significant quantity of shed hair collected on the purple hairbrush. The video concludes with her removing the accumulated hair from the brush, reinforcing the visual evidence of hair shedding.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.023",
+      "structural_tags": [
+        "Visual_Hook",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "woman",
+        "brushing hair",
+        "long dark hair",
+        "purple hairbrush",
+        "hair loss"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clear lighting",
+          "simple background"
+        ]
+      },
+      "why_kept": "This segment sets the context by showing the initial action of brushing and introduces the problem/question of weekly hair loss as stated in the overlay text, leading up to the main reveal."
+    },
+    {
+      "start_time": "00:03.023",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Result_Transformation",
+        "Macro_Detail",
+        "Product_Interaction",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "hairbrush",
+        "shed hair",
+        "collected hair",
+        "purple brush",
+        "hair loss"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "detailed focus",
+          "neutral background"
+        ]
+      },
+      "why_kept": "This is the core 'reveal' segment, directly answering the video's premise by explicitly showing the significant amount of hair collected on the brush. It is the strongest visual evidence of the hair loss mentioned."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "cleaning brush",
+        "removing hair",
+        "shed hair",
+        "purple brush"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "continuous action"
+        ]
+      },
+      "why_kept": "This segment shows the process of cleaning the collected hair from the brush, completing the visual narrative of hair loss and its management after brushing."
+    }
+  ]
+}

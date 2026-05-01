@@ -1,0 +1,41 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Acne\\ssstik.io_@mayaya.kimmm_1767965581394.mp4",
+  "detailed_description": "This video serves as a visual hook, presenting common skin concerns such as small bumps, redness, visible pores, and acne. It uses close-up shots of a person's face with text overlays 'if you have this' and 'or this' to highlight these specific skin problems, aiming to resonate with viewers experiencing similar conditions.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "face",
+        "skin",
+        "acne",
+        "bumps",
+        "redness",
+        "pores",
+        "finger"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural light",
+          "skin texture detail"
+        ]
+      },
+      "why_kept": "This entire segment acts as the 'Semantic Core' by establishing a clear 'Problem State' through direct visual examples of various skin conditions. The close-ups and text overlays effectively create a 'Visual Hook' for the audience, presenting the core issue that the video (or a potential longer video) would address. There is no setup, calibration, or dead air, so the full duration is kept as per the 'No-Mistake' rule."
+    }
+  ]
+}

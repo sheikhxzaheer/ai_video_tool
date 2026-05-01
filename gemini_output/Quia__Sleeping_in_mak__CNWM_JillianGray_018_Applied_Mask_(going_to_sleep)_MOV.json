@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Sleeping in mak\\CNWM_JillianGray_018_Applied Mask (going to sleep).MOV",
+  "detailed_description": "The video features a woman with a pink bow headband applying a clear, glossy skincare product to her face and neck. She uses her fingers to gently massage the product into her skin, highlighting the smooth application and the luminous, hydrated finish on her complexion. Her serene expression conveys a sense of calm and satisfaction during her skincare routine, emphasizing the product's sensory experience and aesthetic appeal.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.400",
+      "structural_tags": [
+        "Product_Interaction",
+        "Face_Reaction",
+        "Calm_Relaxation",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman",
+        "skincare application",
+        "glossy product",
+        "face",
+        "neck",
+        "hands",
+        "pink headband",
+        "glowing skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic",
+          "natural look",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment is kept in its entirety as it perfectly encapsulates the 'Product Interaction' hero moment. It directly demonstrates the application of a skincare product, showing the user's gentle technique and the immediate visual effect (glossy, hydrated skin). Her calm facial expression also contributes to an 'Emotional Climax' of satisfaction, making this the core value proposition of the video without any need for trimming."
+    }
+  ]
+}

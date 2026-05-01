@@ -1,0 +1,219 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Weird treatment hair\\ðÆÐüðÁ ð▓ð¥ð╗ð¥ÐüÐüÐÅ ð▓ ð╗Ðîð¥ð┤Ðû.mp4",
+  "detailed_description": "This video captures the dramatic transformation of a man's hair and beard into intricate icicles after engaging in an extreme winter cold water activity. Donning a wetsuit, the man showcases the stark visual effect of frozen hair and facial hair, which is covered in a thick layer of ice. The footage highlights his resilience and exhilaration, moving from the icy outdoor environment, displaying the extensive ice formations and his jovial reactions to the camera, and finally showing the ice visibly melting under a shower, illustrating the full extent of the freezing experience and its aftermath.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.975",
+      "structural_tags": [
+        "Reveal_Result",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "wetsuit",
+        "hair",
+        "beard",
+        "ice",
+        "icicles",
+        "outdoors",
+        "water",
+        "trees"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "rugged"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "clear focus",
+          "dynamic camera"
+        ]
+      },
+      "why_kept": "This segment introduces the man and the striking visual of his hair and beard covered in icicles, setting the initial scene for the extreme cold exposure."
+    },
+    {
+      "start_time": "00:15.000",
+      "end_time": "00:18.980",
+      "structural_tags": [
+        "Reveal_Result",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "wetsuit",
+        "hair",
+        "beard",
+        "ice",
+        "icicles",
+        "ocean",
+        "water",
+        "clouds"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "ocean"
+        ],
+        "mood": [
+          "serious",
+          "rugged"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "sharp detail",
+          "cloudy sky"
+        ]
+      },
+      "why_kept": "This segment offers a dramatic outdoor shot, clearly showcasing the extensive ice formations on the man's hair and beard against the backdrop of an icy body of water."
+    },
+    {
+      "start_time": "00:26.000",
+      "end_time": "00:30.291",
+      "structural_tags": [
+        "Reveal_Result",
+        "Macro_Detail",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "face",
+        "hair",
+        "beard",
+        "ice",
+        "icicles",
+        "red skin",
+        "wetsuit",
+        "smile"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "intimate shot",
+          "focus on facial expression"
+        ]
+      },
+      "why_kept": "This close-up captures the man's emotional climax, showing a wide, joyful smile despite the extreme cold, with clear detail of the ice and his reddened skin."
+    },
+    {
+      "start_time": "00:32.493",
+      "end_time": "00:35.088",
+      "structural_tags": [
+        "Visual_Hook",
+        "Reveal_Result",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Lifestyle_Active",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "wetsuit",
+        "hair",
+        "beard",
+        "ice",
+        "snow",
+        "outdoors",
+        "horizon",
+        "smile"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "rugged",
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "wide shot",
+          "overcast lighting",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This is the most striking and iconic moment of the video, showing the man completely covered in ice while lying in the snow, delivering a powerful visual and emotional climax that serves as the primary 'hero moment'."
+    },
+    {
+      "start_time": "00:54.606",
+      "end_time": "00:59.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "wetsuit",
+        "hair",
+        "beard",
+        "ice",
+        "water",
+        "shower",
+        "melting"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "relief"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright indoor lighting",
+          "focus on water and ice",
+          "slow motion effect"
+        ]
+      },
+      "why_kept": "This segment shows the compelling 'result transformation' as the ice dramatically melts under warm water, providing a satisfying conclusion to the visual narrative of extreme cold."
+    }
+  ]
+}

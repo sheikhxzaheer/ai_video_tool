@@ -1,0 +1,52 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\Showing mask\\CNWM_JillianGray_08_Texture 1.MOV",
+  "detailed_description": "This video showcases a woman preparing for a night routine, featuring a Korean Beauty Collagen Night Sleeping Mask. She is wearing a distinctive pink bow headband and a black tank top, with a silver crescent moon necklace. The core action involves her expertly squeezing the clear, gel-like mask from its pink tube directly onto a small silicone application brush. Her relaxed and pleasant demeanor, evidenced by her consistent smile and direct eye contact, highlights a calm and enjoyable skincare preparation. The segment focuses entirely on product interaction and the initial steps of a beauty ritual.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:09.300",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Night_Routine",
+        "Human_Interaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pink headband",
+        "skincare product",
+        "face mask",
+        "collagen mask",
+        "tube",
+        "brush applicator",
+        "gel",
+        "applying",
+        "smiling",
+        "moon necklace",
+        "rings"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "playful",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "authentic",
+          "personal",
+          "soft focus"
+        ]
+      },
+      "why_kept": "This entire segment serves as the semantic core by clearly demonstrating product interaction – specifically, the process of preparing to apply the face mask by squeezing the product onto an applicator brush. The subject's positive emotion and direct engagement with the camera reinforce the product's appeal and the ritualistic aspect of the night routine. There are no redundant frames or setup/dead air; the action is continuous and purposeful from start to finish."
+    }
+  ]
+}

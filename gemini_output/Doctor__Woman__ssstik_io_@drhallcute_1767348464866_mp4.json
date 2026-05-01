@@ -1,0 +1,50 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Woman\\ssstik.io_@drhallcute_1767348464866.mp4",
+  "detailed_description": "A medical professional, dressed in scrubs and gloves, interacts with a patient lying on an examination table. As she prepares to adjust the patient's gown, a humorous 'fart sound' is triggered, leading to her reacting with a surprised yet playful smile and an apology. The video captures a lighthearted, unexpected moment in a clinical setting, highlighting human interaction and a comedic twist.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:06.183",
+      "structural_tags": [
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Shock_Surprise",
+        "Visual_Hook"
+      ],
+      "visual_keywords": [
+        "medical professional",
+        "patient",
+        "examination table",
+        "medical gown",
+        "gloves",
+        "stethoscope",
+        "skeleton model",
+        "doctor's office",
+        "touching",
+        "smiling",
+        "reacting"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "studio"
+        ],
+        "mood": [
+          "playful",
+          "clinical",
+          "lighthearted"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "steady camera"
+        ]
+      },
+      "why_kept": "This entire segment serves as the 'Semantic Core' because it presents the complete humorous scenario, from the professional initiating an action, through the unexpected sound effect, to her genuine and playful emotional reaction. It encompasses the interaction, the event, and the climax of the clip, making it a self-contained narrative."
+    }
+  ]
+}

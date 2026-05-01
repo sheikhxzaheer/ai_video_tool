@@ -1,0 +1,123 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Lab\\Woman\\ssstik.io_@luha_ahmed_1767024640873.mp4",
+  "detailed_description": "This video showcases a female lab technician performing a series of essential tasks within a modern laboratory setting. She is seen meticulously pipetting samples into vials, demonstrating precision in liquid handling, a fundamental skill in diagnostics. Subsequently, she engages in microscopic analysis, carefully adjusting the instrument to examine specimens for detailed observation. The video also highlights her interaction with sophisticated automated laboratory equipment, where she efficiently loads samples and navigates the machine's interface. These various actions underscore her proficiency in diverse and critical lab procedures, reflecting the daily operations of a professional medical laboratory.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "lab technician",
+        "pipette",
+        "vials",
+        "gloves",
+        "lab bench",
+        "liquid transfer"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "professional"
+        ]
+      },
+      "why_kept": "This segment is kept as the ANCHOR because it immediately establishes the core theme of professional lab work through the precise action of pipetting, which is a foundational lab technique. It effectively demonstrates the 'Process/Labor' hero moment."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:09.900",
+      "structural_tags": [
+        "Process_Labor",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "lab technician",
+        "microscope",
+        "adjusting focus",
+        "slides",
+        "lab bench"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "focused shot"
+        ]
+      },
+      "why_kept": "This segment serves as BROLL, complementing the ANCHOR by showcasing another critical lab procedure: microscopic analysis. It further reinforces the 'Process/Labor' hero moment and illustrates the diverse responsibilities of a lab technician."
+    },
+    {
+      "start_time": "00:09.900",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Workspace_Office",
+        "Aesthetic_Broll",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "lab technician",
+        "automated analyzer",
+        "sample vials",
+        "touch screen",
+        "machine operation",
+        "gloves"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio",
+          "other"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "clean lighting",
+          "modern lab equipment"
+        ]
+      },
+      "why_kept": "This segment is kept as BROLL because it demonstrates the technician's interaction with advanced automated lab equipment, including loading samples and using the touch screen. This highlights the 'Product Interaction' and 'Process/Labor' aspects, showcasing modern lab practices and further supporting the overall theme of professional lab work."
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Quia\\NightMask_ElReconcito_poductdemo.mp4",
+  "detailed_description": "This video showcases a skincare routine featuring two Korean beauty products: a collagen niacinamide jelly cream and a collagen night wrapping mask. The creator begins by expressing concern about her skin, then introduces the products. She demonstrates the application of the jelly cream and later, after a transition to nightwear, applies the wrapping mask. The highlight is the satisfying peel-off of the night mask, revealing smoother, radiant skin, followed by her delighted reaction and a final shot of the products.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:01.800",
+      "structural_tags": [
+        "Problem_State",
+        "Human_Interaction",
+        "Negative_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "touching cheek",
+        "concerned expression",
+        "bare face"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment establishes the 'Problem_State,' creating a relatable hook and setting the context for the product's solution."
+    },
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:03.900",
+      "structural_tags": [
+        "Problem_State",
+        "Negative_Emotion",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "displeased face",
+        "pointing fingers",
+        "bare face"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting"
+        ]
+      },
+      "why_kept": "This segment reinforces the 'Problem_State' visually with a clear negative facial expression."
+    },
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:05.100",
+      "structural_tags": [
+        "Product_Intro",
+        "Positive_Emotion",
+        "Human_Interaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman",
+        "smiling",
+        "holding products",
+        "pink packaging",
+        "skincare"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment introduces the solution (the products) with a positive and engaging expression, serving as a direct contrast to the problem state."
+    },
+    {
+      "start_time": "00:05.100",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Macro_Detail",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "pink jar",
+        "QUI A Korean Beauty",
+        "Collagen Niacinamide Jelly Cream",
+        "product label"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean product shot",
+          "informative text"
+        ]
+      },
+      "why_kept": "This segment provides a clear, detailed view of one of the products, highlighting its name and key ingredients."
+    },
+    {
+      "start_time": "00:07.000",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "scooping cream",
+        "spatula",
+        "pink jelly texture",
+        "product consistency"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "tactile demonstration",
+          "product texture focus"
+        ]
+      },
+      "why_kept": "This segment visually demonstrates the product's texture and how it's dispensed, showing the 'Mechanism_Of_Action' before application."
+    },
+    {
+      "start_time": "00:11.000",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Mechanism_Of_Action",
+        "Product_Interaction",
+        "Morning_Routine"
+      ],
+      "visual_keywords": [
+        "applying cream",
+        "face",
+        "rubbing in",
+        "skincare routine"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "relaxing"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "smooth application",
+          "everyday routine"
+        ]
+      },
+      "why_kept": "This segment shows the practical application of the first product, illustrating how it's used as part of a daily routine."
+    },
+    {
+      "start_time": "00:18.000",
+      "end_time": "00:20.000",
+      "structural_tags": [
+        "Product_Standalone",
+        "Macro_Detail",
+        "Ingredient_Highlight"
+      ],
+      "visual_keywords": [
+        "pink tube",
+        "QUI A Korean Beauty",
+        "Collagen Night Wrapping Mask",
+        "product label"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "premium",
+          "clinical"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "clean product shot",
+          "informative text"
+        ]
+      },
+      "why_kept": "This segment provides a clear, detailed view of the second product, the night wrapping mask."
+    },
+    {
+      "start_time": "00:20.000",
+      "end_time": "00:23.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "squeezing mask",
+        "onto brush",
+        "gel texture",
+        "product dispensing"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "tactile demonstration",
+          "product texture focus"
+        ]
+      },
+      "why_kept": "This segment demonstrates the texture and dispensing method of the night mask, showing its preparation for application."
+    },
+    {
+      "start_time": "00:23.000",
+      "end_time": "00:28.000",
+      "structural_tags": [
+        "Human_Interaction",
+        "Mechanism_Of_Action",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "applying mask",
+        "brush",
+        "face",
+        "skincare"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "relaxing"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "smooth application",
+          "facial coverage"
+        ]
+      },
+      "why_kept": "This segment clearly shows the application of the night mask to the face."
+    },
+    {
+      "start_time": "00:30.000",
+      "end_time": "00:37.000",
+      "structural_tags": [
+        "Night_Routine",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "woman in pajamas",
+        "applying product",
+        "glossy face",
+        "skincare",
+        "night ritual"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "relaxing"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "time lapse implied",
+          "self-care"
+        ]
+      },
+      "why_kept": "This segment visually signals a time transition and emphasizes the 'Night_Routine' aspect of the wrapping mask, showing the product visibly on the skin."
+    },
+    {
+      "start_time": "00:37.000",
+      "end_time": "00:45.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Mechanism_Of_Action",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "peeling mask",
+        "clear film",
+        "face",
+        "skin",
+        "mask removal"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "satisfying"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "satisfying peel",
+          "visible transformation"
+        ]
+      },
+      "why_kept": "This is a key 'Hero Moment' demonstrating the core function and immediate 'Result_Transformation' of the night wrapping mask."
+    },
+    {
+      "start_time": "00:45.000",
+      "end_time": "00:48.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "smooth skin",
+        "happy expression",
+        "smiling",
+        "touching face",
+        "radiant skin"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "glowing skin",
+          "confident pose"
+        ]
+      },
+      "why_kept": "This segment shows the direct positive outcome on the skin and the user's emotional satisfaction after using the product, completing the transformation narrative."
+    },
+    {
+      "start_time": "00:48.000",
+      "end_time": "00:51.000",
+      "structural_tags": [
+        "Product_Intro",
+        "Offer_CTA",
+        "Positive_Emotion",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman smiling",
+        "holding product boxes",
+        "pink packaging",
+        "skincare"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "positive",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "final presentation",
+          "brand emphasis"
+        ]
+      },
+      "why_kept": "This segment serves as a final 'Call to Action' or 'Offer_CTA', reinforcing the product's brand with a confident and happy user."
+    }
+  ]
+}

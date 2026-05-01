@@ -1,0 +1,191 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Before_after hair\\ðÜð╗ð░Ðüð¢ðÁ ðöð× ðƒðåðíðøð».mp4",
+  "detailed_description": "This video vividly documents a hair transplant journey, presenting a compelling before-and-after narrative. It begins by showcasing the initial state of hair loss, featuring a receding hairline and thinning crown. The progression then highlights the transformative process, from the immediate post-operative phase with a shaved head and visible grafts, through various stages of early and mid-growth. The video culminates in impactful 'after' shots, displaying a full, dense, and natural-looking head of hair, effectively demonstrating the successful restoration of the hairline and overall hair density.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.150",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Before_After",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "beard",
+        "receding hairline",
+        "thin hair",
+        "bald spot",
+        "looking at camera",
+        "top view of head"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "front-facing camera",
+          "bathroom tiles background"
+        ]
+      },
+      "why_kept": "This segment serves as the crucial 'Before' moment, clearly establishing the problem state of hair loss from both frontal and top-down perspectives. It sets the context for the entire transformation."
+    },
+    {
+      "start_time": "00:02.150",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "beard",
+        "shaved head",
+        "short hair",
+        "post-operative scalp",
+        "redness on scalp"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "front-facing camera",
+          "plain wall background"
+        ]
+      },
+      "why_kept": "This segment visually marks the immediate post-procedure phase, showing the shaved scalp and indicating the beginning of the hair transplant recovery process. It's a key step in the transformation narrative."
+    },
+    {
+      "start_time": "00:03.000",
+      "end_time": "00:04.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "beard",
+        "hair growing in",
+        "early growth",
+        "scalp redness",
+        "short hair",
+        "looking at camera"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "front-facing camera",
+          "pink pillow background"
+        ]
+      },
+      "why_kept": "This segment illustrates the early stages of hair growth post-transplant, with visible new hair and some residual redness, showing the progress of the transformation."
+    },
+    {
+      "start_time": "00:04.000",
+      "end_time": "00:06.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Face_Reaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "beard",
+        "hair growing in",
+        "mid-stage growth",
+        "less redness",
+        "denser hair",
+        "looking at camera"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "front-facing camera",
+          "living room background",
+          "sunflower decor"
+        ]
+      },
+      "why_kept": "This segment further demonstrates the progression of hair growth, showing increased density and reduced redness, indicating a successful healing and growth phase."
+    },
+    {
+      "start_time": "00:06.000",
+      "end_time": "00:11.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Before_After",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man",
+        "beard",
+        "full hair",
+        "dense hair",
+        "natural hairline",
+        "looking at camera",
+        "top view of head"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "front-facing camera",
+          "living room background"
+        ]
+      },
+      "why_kept": "This is the ultimate 'After' segment, clearly showcasing the successful and complete transformation with a full head of dense, natural-looking hair from both frontal and top perspectives. It provides the final reveal of the positive outcome."
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ð╝ðÁð╗ð░ðÀð╝ð░.mp4",
+  "detailed_description": "This video showcases a comprehensive chemical peel skincare routine, beginning with the application of a facial mask. It then visually captures the intense, yet temporary, redness and subsequent peeling phase, highlighting the product's mechanism of action. The process culminates in a dramatic transformation, revealing significantly clearer, glowing, and revitalized skin, demonstrating the journey from initial application to a radiant final result.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:02.000",
+      "structural_tags": [
+        "Visual_Hook",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "natural skin",
+        "subtle smile"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "natural"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment serves as the 'Before' state, providing essential context for the subsequent transformation and acting as a visual hook."
+    },
+    {
+      "start_time": "00:02.000",
+      "end_time": "00:03.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "brown face mask",
+        "headband"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "direct gaze"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the initial 'Process/Labor' of applying the facial mask, marking the beginning of the treatment."
+    },
+    {
+      "start_time": "00:05.000",
+      "end_time": "00:07.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Problem_State"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "red skin",
+        "post-mask redness"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "neutral lighting",
+          "clear visibility of skin reaction"
+        ]
+      },
+      "why_kept": "This segment highlights the immediate 'Result_Transformation' after mask removal, showing the expected redness associated with a chemical peel, which is a temporary 'Problem_State' before improvement."
+    },
+    {
+      "start_time": "00:12.000",
+      "end_time": "00:14.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "peeling skin",
+        "skin exfoliation"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "mirror reflection",
+          "visible skin texture"
+        ]
+      },
+      "why_kept": "This segment is crucial as it clearly demonstrates the 'Mechanism_Of_Action' of the peel, showing the visible peeling of the skin."
+    },
+    {
+      "start_time": "00:14.000",
+      "end_time": "00:15.000",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "applying cleanser",
+        "hands"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "calm",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "focused action",
+          "gentle movement"
+        ]
+      },
+      "why_kept": "This segment illustrates 'Product_Interaction' and 'Process/Labor' during the peeling phase, showing how the skin is cared for during the exfoliation."
+    },
+    {
+      "start_time": "00:16.000",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Result_Transformation"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "prominent peeling skin",
+        "headband"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "bathroom"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "detailed skin texture",
+          "neutral background"
+        ]
+      },
+      "why_kept": "This segment provides another clear view of the 'Mechanism_Of_Action' with pronounced peeling, emphasizing the skin's transformation."
+    },
+    {
+      "start_time": "00:20.000",
+      "end_time": "00:23.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "clear skin",
+        "glowing complexion",
+        "neat bun"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "calm",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "soft lighting",
+          "fresh look"
+        ]
+      },
+      "why_kept": "This segment shows the initial 'Result_Transformation' to clear, glowing skin, indicating the positive outcome of the peel."
+    },
+    {
+      "start_time": "00:23.000",
+      "end_time": "00:29.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "radiant skin",
+        "confident smile",
+        "blue eyes"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor",
+          "home"
+        ],
+        "mood": [
+          "energetic",
+          "positive",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "bright lighting",
+          "dynamic movement",
+          "authentic happiness"
+        ]
+      },
+      "why_kept": "This is the ultimate 'Reveal/Result' segment, showcasing the final, radiant skin with a clear 'Positive_Emotion' and confident 'Face_Reaction', making it the strongest 'After' moment and the core value proposition of the video."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Melzama before_after\\ð┤ð¥ ð┐ð¥Ðüð╗ðÁ ð╝ðÁð╗ð░ðÀð╝ð░ 5 (1)┬áÔÇö ð║ð¥ð┐ð©ÐÅ.mp4",
+  "detailed_description": "This video vividly demonstrates a before-and-after skin transformation. It begins with a 'Before' segment showcasing a woman's face affected by melasma, with visible dark patches and an implied negative impact on her appearance, stated as 'Melasma hijacked my face.' The video then transitions to an 'After' segment, revealing the same woman with significantly clearer, glowing skin and a confident smile. This comparison effectively highlights a successful cosmetic or skincare outcome, celebrating the dramatic improvement and a 'glow' that signifies positive change.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:13.633",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Result_Transformation",
+        "Face_Reaction",
+        "Before_After",
+        "Negative_Emotion",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman's face",
+        "melasma",
+        "dark patches",
+        "clear skin",
+        "glowing skin",
+        "smiling",
+        "facial transformation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "serious",
+          "positive"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct lighting",
+          "front-facing camera",
+          "selfie-style"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it constitutes the complete 'Semantic Core' of the video. It directly presents the 'Before/After' transformation, clearly showing the 'Problem_State' of melasma and the subsequent 'Result_Transformation' to clear, glowing skin. The facial expressions and text overlays explicitly convey the emotional journey from implied negative feelings to a clear 'Positive_Emotion' of satisfaction and confidence. No trimming was needed as the video is concise and directly communicates its core message."
+    }
+  ]
+}

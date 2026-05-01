@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\MoldMd\\Showcasing\\pointing to brush 1.mp4",
+  "detailed_description": "This video features a man in a modern kitchen introducing and demonstrating a small red and black brush. He holds the brush up, smiles, and actively rotates it to showcase its different sides and the bristles, indicating a clear product presentation. His consistent positive facial expression conveys enthusiasm or satisfaction with the item being shown.",
+  "segments": [
+    {
+      "start_time": "00:00:00.00",
+      "end_time": "00:00:11.00",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "man",
+        "kitchen",
+        "brush",
+        "red handle",
+        "black bristles",
+        "smiling",
+        "demonstrating product"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "kitchen"
+        ],
+        "mood": [
+          "positive",
+          "energetic"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "well-lit",
+          "direct address",
+          "clear product view"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the 'Semantic Core' because it cohesively introduces a product, demonstrates its physical attributes through active handling (rotating the brush), and communicates a positive emotional response via the presenter's consistent smile. There are no redundant frames or dead air according to the trimming rules."
+    }
+  ]
+}

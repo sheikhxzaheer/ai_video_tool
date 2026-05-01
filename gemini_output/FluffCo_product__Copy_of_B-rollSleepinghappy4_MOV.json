@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\FluffCo_product\\Copy of B-rollSleepinghappy4.MOV",
+  "detailed_description": "This video showcases the comfort and quality of a 'FLUFF CO.' pillow through a direct user interaction. A woman is seen resting her head on the soft white pillow, her closed eyes and serene expression conveying a strong sense of calm and relaxation. The segment effectively highlights the product's comfort benefits and its premium feel, with the brand label clearly visible.",
+  "segments": [
+    {
+      "start_time": "00:01.370",
+      "end_time": "00:09.309",
+      "structural_tags": [
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Calm_Relaxation",
+        "Human_Interaction",
+        "Product_Standalone"
+      ],
+      "visual_keywords": [
+        "woman",
+        "pillow",
+        "resting",
+        "sleeping",
+        "comfortable",
+        "relaxed",
+        "bed"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "soft lighting",
+          "clean aesthetic"
+        ]
+      },
+      "why_kept": "This segment is the Semantic Core as it directly demonstrates the product's use (Product_Interaction) and its primary benefit (comfort and relaxation), conveyed through the woman's peaceful facial expression and body language (Emotional_Climax / Positive_Emotion / Calm_Relaxation). The 'FLUFF CO.' brand is clearly visible, making it a strong product showcase."
+    }
+  ]
+}

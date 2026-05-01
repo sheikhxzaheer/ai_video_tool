@@ -1,0 +1,227 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Pills\\ssstik.io_1746978972896.mp4",
+  "detailed_description": "This video, presented by a pharmacist, educates viewers about Zolpidem (Ambien), a potent sleep medication. It highlights the drug's common side effect of inducing complex sleep behaviors, such as sleep-texting, driving, or cooking while fully asleep, often leading to unusual situations like grocery shopping in underwear. The video emphasizes the importance of taking the medication immediately before sleep and warns against combining it with alcohol. It also briefly touches on off-label uses for anxiety or PTSD-related insomnia and concludes with a strong caution about its power and potential for causing sleepwalking-induced breakups.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:08.600",
+      "structural_tags": [
+        "Product_Intro",
+        "Problem_State",
+        "Human_Interaction",
+        "Process_Labor",
+        "Key_Information",
+        "Product_Standalone",
+        "Social_Proof"
+      ],
+      "visual_keywords": [
+        "hand holding pill bottle",
+        "Zolpidem",
+        "Ambien",
+        "pills poured onto tray",
+        "pharmacist desk",
+        "calculator",
+        "phone"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "pharmacy counter view"
+        ]
+      },
+      "why_kept": "This segment introduces the product (Zolpidem/Ambien) and immediately sets the tone by highlighting a common, humorous yet problematic side effect (sleep-texting an ex), making it the core hook and initial problem statement. The visual action of handling the bottle and pouring pills establishes the context of a pharmacist at work."
+    },
+    {
+      "start_time": "00:08.600",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Key_Information",
+        "Social_Proof",
+        "Process_Labor",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "pills on counting tray",
+        "spatula moving pills",
+        "Zolpidem pills",
+        "warning text",
+        "Schedule IV"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "pharmacy counter view"
+        ]
+      },
+      "why_kept": "This segment reinforces the 'Problem State' by detailing extreme sleepwalking behaviors (making meals, driving, writing novels) associated with Ambien, while also delivering key regulatory information (Schedule IV) and emphasizing the unpredictable nature of the drug. The visual continues to show the pharmacist's process."
+    },
+    {
+      "start_time": "00:18.000",
+      "end_time": "00:29.000",
+      "structural_tags": [
+        "Key_Information",
+        "Process_Labor",
+        "Human_Interaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "pills being counted",
+        "spatula",
+        "counting tray",
+        "dispensing chute",
+        "pharmacist tip text",
+        "warning text"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "pharmacy counter view"
+        ]
+      },
+      "why_kept": "This segment provides direct, actionable 'Pharmacist Tip' on how to take the medication (immediately before sleep) and lists critical warnings about severe side effects like sleepwalking, driving, and cooking, which are vital for user safety. The visual illustrates the professional handling of the medication."
+    },
+    {
+      "start_time": "00:29.000",
+      "end_time": "00:38.000",
+      "structural_tags": [
+        "Social_Proof",
+        "Key_Information",
+        "Process_Labor",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "pills dispensing into vial",
+        "anecdote text",
+        "Ambien chronicles",
+        "avoid alcohol warning"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "pharmacy counter view"
+        ]
+      },
+      "why_kept": "This segment deepens the understanding of Ambien's effects through a memorable anecdote (night shift dude grocery shopping in underwear) and delivers a crucial 'Key Information' warning against alcohol consumption, which significantly increases the risks."
+    },
+    {
+      "start_time": "00:38.000",
+      "end_time": "00:46.000",
+      "structural_tags": [
+        "Key_Information",
+        "Process_Labor",
+        "Human_Interaction",
+        "Product_Interaction",
+        "Calm_Relaxation"
+      ],
+      "visual_keywords": [
+        "pills dispensing into vial",
+        "off-label use text",
+        "onset time",
+        "don't fight the wave text",
+        "good sleep text"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "clinical",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "pharmacy counter view"
+        ]
+      },
+      "why_kept": "This segment expands on the drug's utility by mentioning its off-label uses for anxiety or PTSD-related insomnia, provides practical information about its rapid onset (15 minutes), and offers advice for optimal experience, balancing the previous warnings with potential benefits."
+    },
+    {
+      "start_time": "00:46.000",
+      "end_time": "00:52.000",
+      "structural_tags": [
+        "Key_Information",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Problem_State",
+        "Negative_Emotion"
+      ],
+      "visual_keywords": [
+        "last pill dispensed",
+        "vial capped",
+        "hand holding pill bottle",
+        "warning text",
+        "sleepwalking breakups",
+        "don't play with it"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "clinical"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "pharmacy counter view"
+        ]
+      },
+      "why_kept": "This concluding segment delivers a powerful final warning, stating that Ambien is not 'lightweight' and has caused significant 'sleepwalking breakups,' reinforcing the potential for serious consequences and advising extreme caution. The capping of the bottle and final hold on the product visually punctuates the message."
+    }
+  ]
+}

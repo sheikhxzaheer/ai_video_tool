@@ -1,0 +1,65 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Luxury life\\ssstik.io_@luxelife.1_1767013467899.mp4",
+  "detailed_description": "This video presents a rapid-fire montage of luxurious experiences and high-end possessions, consistently tagged with the phrase 'THIS LIFE'. It showcases an aspirational lifestyle featuring expensive cars like Rolls-Royce, Bugattis, and Ferraris, a floating breakfast in a pool, yachting, private jet travel, and fine dining with scenic views. The core meaning is to visually encapsulate and promote an opulent, dream-like existence, emphasizing wealth, leisure, and exclusive experiences.",
+  "segments": [
+    {
+      "start_time": "00:00.00",
+      "end_time": "00:15.00",
+      "structural_tags": [
+        "Visual_Hook",
+        "Aesthetic_Broll",
+        "Lifestyle_Active",
+        "Travel_Transit",
+        "Home_Kitchen",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "luxury cars",
+        "Rolls Royce",
+        "Bugatti",
+        "Ferrari",
+        "Mercedes",
+        "swimming pool",
+        "floating breakfast",
+        "yacht",
+        "jet ski",
+        "airplane",
+        "Monte Carlo Casino",
+        "restaurant with view",
+        "palm trees",
+        "opulent lifestyle"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "indoor",
+          "ocean",
+          "street",
+          "car",
+          "hotel",
+          "restaurant",
+          "airport",
+          "pool"
+        ],
+        "mood": [
+          "premium",
+          "energetic",
+          "calm",
+          "aspirational"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "cinematic",
+          "high-contrast",
+          "smooth transitions",
+          "luxury aesthetic",
+          "fast-paced"
+        ]
+      },
+      "why_kept": "The entire video functions as a cohesive montage, where each shot contributes directly to building the 'THIS LIFE' narrative of luxury and aspiration. There is no single 'product interaction' or 'process' to isolate; the value is in the collective visual experience of the showcased lifestyle. Thus, the full duration effectively captures the semantic core as a visual hook for an aspirational life."
+    }
+  ]
+}

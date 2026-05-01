@@ -1,0 +1,53 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Great hair\\ð╝ÐâðÂð©ð║ Ðü ð▓ð¥ð╗ð¥Ðüð░ð╝ð© (2).mp4",
+  "detailed_description": "This video captures a man's stylish transformation, beginning with him grooming his hair and adjusting his formal suit and tie. The sequence quickly progresses to him shedding his jacket and tie, then unbuttoning his white shirt to dramatically reveal a heavily tattooed chest and arms. The video serves as a confident presentation of his dual persona or a surprising reveal of his extensive body art, all set to an energetic soundtrack with dynamic cuts.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:15.111",
+      "structural_tags": [
+        "Visual_Hook",
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "High_Energy",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "man",
+        "suit",
+        "tie",
+        "shirt",
+        "tattoos",
+        "combing hair",
+        "getting dressed",
+        "undressing",
+        "reveal",
+        "confident pose"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "energetic",
+          "playful",
+          "confident",
+          "stylish"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "quick cuts",
+          "dynamic editing",
+          "modern setting",
+          "strong contrast"
+        ]
+      },
+      "why_kept": "This entire segment is kept as the Semantic Core because it perfectly captures the complete narrative arc of the video: the initial setup of a 'stylish' formal look, the process of transformation through undressing, and the impactful reveal of the heavily tattooed body. Per the 'No-Mistake Rule,' the video starts directly with relevant action (grooming for style) and ends immediately after the main reveal, making the entire duration essential to demonstrating the core value and visual hook."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan\\Ingridients\\Licorice Root Extract 5.mp4",
+  "detailed_description": "This video vividly captures a freshly harvested plant, possibly a root crop like cassava, laid upon dark, rich soil in an expansive agricultural field. The primary focus is on the plant's extensive and complex root system, which is prominently revealed as the valuable yield. Lush green foliage on the plant itself and surrounding crops, under a serene sky, underscore its natural, organic origin and the bounty of the harvest. The scene beautifully showcases the raw form of an agricultural product.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:04.200",
+      "structural_tags": [
+        "Result_Transformation",
+        "Product_Standalone",
+        "Ingredient_Highlight",
+        "Aesthetic_Broll",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "plant",
+        "roots",
+        "soil",
+        "field",
+        "crops",
+        "agriculture",
+        "harvest",
+        "green leaves",
+        "sky"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "outdoor",
+          "nature"
+        ],
+        "mood": [
+          "calm",
+          "natural"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "natural light",
+          "shallow depth of field",
+          "golden hour light",
+          "agricultural setting"
+        ]
+      },
+      "why_kept": "This segment is the semantic core as it visually demonstrates the 'Reveal/Result' hero moment. The video entirely focuses on showcasing the harvested plant's intricate root system, which represents the valuable output of agricultural labor. The clarity and detail of the roots, combined with the context of the field, highlight the essence of the plant as a natural product, fitting the 'Product_Standalone' and 'Ingredient_Highlight' criteria without any unnecessary frames."
+    }
+  ]
+}

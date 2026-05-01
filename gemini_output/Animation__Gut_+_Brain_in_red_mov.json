@@ -1,0 +1,47 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\Gut + Brain in red.mov",
+  "detailed_description": "This animation clearly visualizes the complex relationship between the human digestive system and the brain, commonly known as the gut-brain axis. It begins by highlighting the internal organs of the digestive tract with glowing orange and red tones, potentially indicating activity or inflammation. Subsequently, a bright white arrow emerges from the gut, ascendng to the brain, which also becomes illuminated, thereby illustrating the direct neural communication pathway and the significant influence the gut has on brain function.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.200",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Mechanism_Of_Action"
+      ],
+      "visual_keywords": [
+        "human anatomy",
+        "digestive system",
+        "brain",
+        "glowing organs",
+        "red inflammation",
+        "white arrow",
+        "gut-brain axis",
+        "neural connection",
+        "3D animation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "informative"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "3D animation",
+          "transparent body model",
+          "glowing effects",
+          "medical visualization"
+        ]
+      },
+      "why_kept": "This entire segment is the semantic core as it visually demonstrates the 'Mechanism_Of_Action' of the gut-brain axis. The initial red glow around the digestive system implies a 'Problem_State' (e.g., inflammation), and the subsequent arrow to the glowing brain clearly illustrates the communication pathway, serving as a strong 'Visual_Hook' to explain this biological concept."
+    }
+  ]
+}

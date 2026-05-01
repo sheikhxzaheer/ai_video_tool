@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Animation\\skin-cells-and-molecular-structure-3d-rendering-free-video.mp4",
+  "detailed_description": "This video vividly illustrates a microscopic process, depicting small, pink, star-shaped molecules actively penetrating an upper skin-like barrier. The molecules then seamlessly integrate into a lower, cellular layer composed of numerous spherical structures. The animation serves to visually explain the mechanism of action of an ingredient or formula, highlighting its ability to be absorbed and interact with biological tissues at a cellular depth, crucial for product efficacy in skincare or medical applications.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:00.09.500",
+      "structural_tags": [
+        "Mechanism_Of_Action",
+        "Cellular_Deep_Dive",
+        "Ingredient_Highlight",
+        "Formula_Graphic",
+        "Aesthetic_Broll"
+      ],
+      "visual_keywords": [
+        "molecules",
+        "skin layers",
+        "penetration",
+        "cells",
+        "biological barrier",
+        "absorption",
+        "animation"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "calm"
+        ],
+        "people_present": false,
+        "product_present": true,
+        "style_keywords": [
+          "3D animation",
+          "soft lighting",
+          "pastel colors",
+          "smooth movement"
+        ]
+      },
+      "why_kept": "This entire segment is kept as it demonstrates the core value proposition: the active penetration of molecules (representing an ingredient or formula) into a deeper cellular layer. It perfectly illustrates the 'Mechanism_Of_Action' and provides a 'Cellular_Deep_Dive' into how a product might work, making it the complete 'hero moment' of the video without any extraneous footage."
+    }
+  ]
+}

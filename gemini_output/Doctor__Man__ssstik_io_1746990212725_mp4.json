@@ -1,0 +1,44 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Doctor\\Man\\ssstik.io_1746990212725.mp4",
+  "detailed_description": "This video features a plastic surgeon explaining the typical process of a first consultation with an aesthetic surgeon. He outlines key aspects such as discussing the patient's medical history, understanding their motivations for seeking cosmetic surgery, and conducting an examination. The surgeon emphasizes the importance of thoroughly explaining the 'before, during, and after' phases of the surgery to ensure the patient has a complete understanding of the intervention for optimal results.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:47.387",
+      "structural_tags": [
+        "UGC_Talking_Head",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "man speaking",
+        "doctor",
+        "surgical scrubs",
+        "explaining consultation process",
+        "hand gestures",
+        "medical information"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "studio"
+        ],
+        "mood": [
+          "clinical",
+          "serious",
+          "informative",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "direct address",
+          "professional lighting",
+          "clear audio",
+          "expert explanation"
+        ]
+      },
+      "why_kept": "This segment is the semantic core because it directly provides essential information about the first consultation process with an aesthetic surgeon, which is the main subject and expertise shared in the video. The entire video is a 'talking head' delivering this key educational content, fitting the 'Key Information' hero moment criterion. No trimming was applied as per the 'NO-MISTAKE' rule, as the segment starts and ends precisely with the expert's explanation."
+    }
+  ]
+}

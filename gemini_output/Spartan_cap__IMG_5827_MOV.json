@@ -1,0 +1,46 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Spartan cap\\IMG_5827.MOV",
+  "detailed_description": "This video demonstrates the use of an innovative red light therapy device designed for hair. A man is shown activating the device, which emits a distinct red glow, and then effortlessly integrating it into a black baseball cap. He proceeds to put on the cap, showcasing how the therapy can be discreetly applied as part of a daily routine, highlighting the product's ease of use and integrated design for hair wellness.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:20.570",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Human_Interaction",
+        "Lifestyle_Active"
+      ],
+      "visual_keywords": [
+        "man",
+        "beard",
+        "black cap",
+        "red light therapy device",
+        "inserting device",
+        "wearing cap",
+        "demonstration"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm",
+          "clinical",
+          "demonstrative"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "natural lighting",
+          "straightforward shot",
+          "product-focused"
+        ]
+      },
+      "why_kept": "This segment comprehensively captures the semantic core of the video, demonstrating the product introduction, the activation and mechanism of action (red light emission), the process of integrating the device into the cap, and the final use case of wearing it. It perfectly illustrates product interaction and its intended lifestyle application, without any unnecessary setup or dead air."
+    }
+  ]
+}

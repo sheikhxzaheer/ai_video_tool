@@ -1,0 +1,218 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Wrinkles Before_After\\ssstik.io_1761432309583.mp4",
+  "detailed_description": "This video documents a woman's skin transformation after an IPL (Intense Pulsed Light) treatment. It showcases the 'before' state with visible sunspots and broken capillaries, followed by the immediate post-treatment redness and swelling. The progression illustrates the healing process over several days, showing brown spots darkening and gradually sloughing off. The final 'after' shot, taken one week later, reveals significantly lightened brown spots and the successful elimination of broken capillaries, demonstrating the positive results of the IPL treatment.",
+  "segments": [
+    {
+      "start_time": "00:04.500",
+      "end_time": "00:09.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Problem_State",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "skin",
+        "forehead",
+        "natural skin",
+        "neutral expression",
+        "touching forehead"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "no makeup"
+        ]
+      },
+      "why_kept": "This segment establishes the initial condition of the skin before the IPL treatment, highlighting areas with sunspots and setting the baseline for the subsequent transformation."
+    },
+    {
+      "start_time": "00:12.500",
+      "end_time": "00:18.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "woman",
+        "red face",
+        "swollen skin",
+        "post-treatment",
+        "serious expression"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "outdoor"
+        ],
+        "mood": [
+          "serious"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "no makeup"
+        ]
+      },
+      "why_kept": "This segment clearly shows the immediate and expected physical reaction (redness and swelling) of the skin directly after an IPL treatment, demonstrating the initial phase of the process."
+    },
+    {
+      "start_time": "00:20.000",
+      "end_time": "00:24.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "red spots",
+        "darker spots",
+        "healing skin"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "no makeup"
+        ]
+      },
+      "why_kept": "This segment provides an intermediate update 24 hours post-treatment, showing the initial darkening of sunspots as the skin begins its healing process, crucial for understanding the full transformation."
+    },
+    {
+      "start_time": "00:29.000",
+      "end_time": "00:33.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "darker spots",
+        "red areas",
+        "healing skin",
+        "touching forehead"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "no makeup"
+        ]
+      },
+      "why_kept": "This segment continues to track the healing progression 48 hours later, where the treated spots are visibly darker and more prominent, indicating the treatment's ongoing effect on hyperpigmentation."
+    },
+    {
+      "start_time": "00:38.000",
+      "end_time": "00:43.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Before_After"
+      ],
+      "visual_keywords": [
+        "woman",
+        "face",
+        "dark spots",
+        "sloughing skin",
+        "touching face",
+        "active process"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "no makeup"
+        ]
+      },
+      "why_kept": "This crucial segment, 4 days post-treatment, visibly shows the darker spots actively 'sloughing off,' which is a key phase of the IPL treatment's effectiveness in removing damaged skin cells and pigments."
+    },
+    {
+      "start_time": "00:47.000",
+      "end_time": "00:55.000",
+      "structural_tags": [
+        "Result_Transformation",
+        "Social_Proof",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Before_After",
+        "Positive_Emotion"
+      ],
+      "visual_keywords": [
+        "woman",
+        "clear skin",
+        "lightened spots",
+        "no broken capillaries",
+        "smiling",
+        "satisfied expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "closeup",
+        "environment": [
+          "indoor"
+        ],
+        "mood": [
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": false,
+        "style_keywords": [
+          "natural lighting",
+          "no makeup"
+        ]
+      },
+      "why_kept": "This is the ultimate 'After' segment, revealing the final, successful outcome of the IPL treatment one week later. It clearly demonstrates the removal of broken capillaries and lightening of brown spots, culminating in a positive emotional reaction from the subject, serving as compelling social proof."
+    }
+  ]
+}

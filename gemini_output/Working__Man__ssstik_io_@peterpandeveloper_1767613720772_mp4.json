@@ -1,0 +1,93 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Working\\Man\\ssstik.io_@peterpandeveloper_1767613720772.mp4",
+  "detailed_description": "The video highlights the convenience and productivity benefits of a portable dual-screen setup for remote work. It demonstrates the quick and easy assembly of a portable monitor with a laptop in a cafe environment. The user is then shown engaging in various tasks, including coding, browsing, and participating in a virtual meeting with an AI note-taker, effectively showcasing how the expanded display enhances multitasking and workflow efficiency outside of a traditional office setting.",
+  "segments": [
+    {
+      "start_time": "00:10.500",
+      "end_time": "00:20.500",
+      "structural_tags": [
+        "Product_Intro",
+        "Product_Interaction",
+        "Mechanism_Of_Action",
+        "Workspace_Office",
+        "Travel_Transit"
+      ],
+      "visual_keywords": [
+        "laptop",
+        "backpack",
+        "monitor sleeve",
+        "portable monitor",
+        "SOTSU monitor",
+        "cable",
+        "hands"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "dynamic camera movement",
+          "clear focus",
+          "bright lighting"
+        ]
+      },
+      "why_kept": "This segment clearly demonstrates the 'Product_Intro' and 'Mechanism_Of_Action' of the portable monitor, showing its effortless setup from unboxing (from backpack) to connecting the cable. It's crucial for establishing the product's value and ease of use in a mobile work context."
+    },
+    {
+      "start_time": "00:23.500",
+      "end_time": "00:40.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Reveal_Transformation",
+        "Key_Information",
+        "Workspace_Office",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "laptop",
+        "portable monitor",
+        "dual screens",
+        "mouse",
+        "coffee",
+        "coding",
+        "Google Meet",
+        "Notta.ai",
+        "transcription",
+        "man working",
+        "cafe"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "office"
+        ],
+        "mood": [
+          "serious",
+          "productive",
+          "calm",
+          "premium"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "close-ups of screens",
+          "wide shots of workspace",
+          "focused lighting"
+        ]
+      },
+      "why_kept": "This segment is the core 'Process_Labor' and 'Result_Transformation', showing the fully functional dual-screen setup in action. It effectively demonstrates multitasking for coding, browsing, and particularly highlights the 'Key_Information' processing during a virtual meeting with an AI note-taker, directly addressing productivity and the benefits of an extended display."
+    }
+  ]
+}

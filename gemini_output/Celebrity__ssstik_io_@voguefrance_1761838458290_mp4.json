@@ -1,0 +1,174 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Celebrity\\ssstik.io_@voguefrance_1761838458290.mp4",
+  "detailed_description": "This video captures Hailey Bieber's delightful experience with a luxurious dessert, a crème brûlée with coconut ice cream and a crunchy caramel topping. The segment opens with a dramatic, smoky reveal of the dessert, eliciting a 'wow' reaction from Hailey. She then meticulously cuts into it, savors each bite, and eloquently describes the unique flavors, especially the coconut milk ice cream and the serious caramel. The video culminates with her strong endorsement and a 'chef's kiss,' emphasizing her absolute love for the dessert and its exquisite taste.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:03.200",
+      "structural_tags": [
+        "Visual_Hook",
+        "Reveal_Transformation",
+        "Emotional_Climax",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "chef",
+        "smoking dessert",
+        "cloche",
+        "Hailey Bieber",
+        "wow reaction",
+        "clapping"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "premium",
+          "energetic",
+          "shock_surprise"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "luxurious setting",
+          "dramatic lighting",
+          "smoke effect",
+          "elegant",
+          "polished"
+        ]
+      },
+      "why_kept": "This segment is the visual hook and the dramatic reveal of the dessert, followed by Hailey's immediate and strong positive emotional climax ('Wow!'), setting the tone for the entire video."
+    },
+    {
+      "start_time": "00:10.700",
+      "end_time": "00:23.700",
+      "structural_tags": [
+        "Product_Interaction",
+        "Process_Labor",
+        "Key_Information",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Macro_Detail"
+      ],
+      "visual_keywords": [
+        "Hailey Bieber",
+        "cutting dessert",
+        "fork",
+        "knife",
+        "caramel",
+        "tasting",
+        "spoon",
+        "coconut milk ice cream"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "mixed",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "premium",
+          "calm",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "luxurious setting",
+          "detailed food shot",
+          "elegant",
+          "focused lighting"
+        ]
+      },
+      "why_kept": "This segment shows direct product interaction, with Hailey cutting and tasting the dessert. It provides key information about the dessert's components (caramel, coconut ice cream) and her initial positive reaction to its taste."
+    },
+    {
+      "start_time": "00:29.600",
+      "end_time": "00:36.500",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Key_Information",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "Hailey Bieber",
+        "chef's kiss",
+        "crème brûlée",
+        "crunchy caramel",
+        "coconut ice cream",
+        "smiling"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "premium",
+          "energetic",
+          "satisfied"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "luxurious setting",
+          "elegant",
+          "expressive facial reaction",
+          "polished"
+        ]
+      },
+      "why_kept": "This segment delivers a strong emotional climax through Hailey's 'chef's kiss' and explicit declaration of love for the dessert, combined with a detailed description of its appealing textures and flavors."
+    },
+    {
+      "start_time": "00:41.200",
+      "end_time": "00:48.000",
+      "structural_tags": [
+        "Key_Information",
+        "Positive_Emotion",
+        "Face_Reaction",
+        "Social_Proof",
+        "Product_Interaction"
+      ],
+      "visual_keywords": [
+        "Hailey Bieber",
+        "endorsement",
+        "smiling",
+        "satisfied"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "indoor",
+          "other"
+        ],
+        "mood": [
+          "premium",
+          "satisfied",
+          "calm"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "luxurious setting",
+          "direct address",
+          "elegant",
+          "confident",
+          "polished"
+        ]
+      },
+      "why_kept": "This segment provides a clear, strong final endorsement and social proof, with Hailey explicitly stating her desire to eat the dessert repeatedly, signifying high satisfaction and a conclusive positive review."
+    }
+  ]
+}

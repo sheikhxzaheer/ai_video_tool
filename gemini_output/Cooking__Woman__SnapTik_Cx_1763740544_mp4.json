@@ -1,0 +1,236 @@
+{
+  "path": "C:\\Nil AI-ML\\run_index\\final-database\\Cooking\\Woman\\SnapTik.Cx_1763740544.mp4",
+  "detailed_description": "This video showcases the preparation and enjoyment of a hot pot meal, highlighting different preferences for spicy versus plain broths. A mother demonstrates adding various ingredients like mushrooms, tofu, vegetables, noodles, and meat to a divided hot pot, with an overlayed voice-over from her child expressing specific food preferences. The mother retrieves the cooked food, emphasizing the delicious dipping sauce. The video culminates in a humorous moment where the child reveals having 'saved' all the unwanted vegetables and meat for the mother, underscoring the playful dynamic and individual tastes.",
+  "segments": [
+    {
+      "start_time": "00:00.000",
+      "end_time": "00:10.500",
+      "structural_tags": [
+        "Visual_Hook",
+        "Product_Intro",
+        "Key_Information",
+        "Human_Interaction"
+      ],
+      "visual_keywords": [
+        "woman",
+        "hot pot",
+        "lid",
+        "spicy broth",
+        "plain broth",
+        "kitchen"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual home setting"
+        ]
+      },
+      "why_kept": "This segment introduces the hot pot, explains its dual-broth setup for different preferences (spicy vs. plain), and establishes the key interaction dynamic, serving as a strong visual and informational hook."
+    },
+    {
+      "start_time": "00:10.500",
+      "end_time": "00:26.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Negative_Emotion",
+        "Positive_Emotion",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "tongs",
+        "mushrooms",
+        "tofu",
+        "veggies",
+        "noodles",
+        "meat",
+        "spicy broth",
+        "hot pot"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "energetic",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual home setting"
+        ]
+      },
+      "why_kept": "This segment demonstrates the 'process' of preparing hot pot by adding various ingredients to the spicy side, showcasing diverse options and setting up the contrast with the child's preferences."
+    },
+    {
+      "start_time": "00:26.500",
+      "end_time": "00:43.700",
+      "structural_tags": [
+        "Process_Labor",
+        "Product_Interaction",
+        "Human_Interaction",
+        "Negative_Emotion",
+        "Positive_Emotion",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "tongs",
+        "noodles",
+        "mushrooms",
+        "tofu",
+        "veggies",
+        "meat",
+        "plain broth",
+        "hot pot"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "playful"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual home setting"
+        ]
+      },
+      "why_kept": "This segment highlights the 'process' of accommodating different tastes by adding specific ingredients to the child's plain broth side, including the playful struggle to introduce vegetables, enhancing the human interaction aspect."
+    },
+    {
+      "start_time": "00:46.500",
+      "end_time": "01:17.500",
+      "structural_tags": [
+        "Process_Labor",
+        "Result_Transformation",
+        "Product_Interaction",
+        "Positive_Emotion",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "tongs",
+        "cooked meat",
+        "veggies",
+        "tofu",
+        "mushrooms",
+        "noodles",
+        "hot pot",
+        "small bowls"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "satisfaction"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual home setting"
+        ]
+      },
+      "why_kept": "This segment effectively showcases the 'result' of the cooking process as the woman meticulously retrieves the various cooked ingredients from both broths, demonstrating the full extent of the hot pot's offerings."
+    },
+    {
+      "start_time": "01:17.500",
+      "end_time": "01:25.500",
+      "structural_tags": [
+        "Key_Information",
+        "Product_Interaction",
+        "Face_Reaction",
+        "Positive_Emotion",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "woman",
+        "chopsticks",
+        "dipping sauce",
+        "bowl of food",
+        "eating",
+        "smile"
+      ],
+      "role": "BROLL",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "calm",
+          "satisfaction"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual home setting"
+        ]
+      },
+      "why_kept": "This segment delivers 'key information' about the importance of dipping sauce in hot pot, combined with the 'product interaction' of eating and the 'positive emotional climax' of the woman's enjoyment."
+    },
+    {
+      "start_time": "01:25.500",
+      "end_time": "01:32.500",
+      "structural_tags": [
+        "Emotional_Climax",
+        "Human_Interaction",
+        "Face_Reaction",
+        "Negative_Emotion",
+        "Home_Kitchen"
+      ],
+      "visual_keywords": [
+        "child's voice",
+        "woman",
+        "bowl of food",
+        "plate of unwanted food",
+        "surprised expression"
+      ],
+      "role": "ANCHOR",
+      "attributes": {
+        "shot_type": "medium",
+        "environment": [
+          "kitchen"
+        ],
+        "mood": [
+          "playful",
+          "shock"
+        ],
+        "people_present": true,
+        "product_present": true,
+        "style_keywords": [
+          "bright lighting",
+          "casual home setting"
+        ]
+      },
+      "why_kept": "This segment is the 'emotional climax' of the video, providing a humorous twist where the child 'saves' all the unwanted vegetables for the mother, resulting in a clear and relatable 'face reaction' of surprise and mild annoyance from the mother."
+    }
+  ]
+}
