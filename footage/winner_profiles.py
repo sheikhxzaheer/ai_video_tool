@@ -40,7 +40,11 @@ def find_all_winners_folders(root_dir="Brands"):
     
     return winners_folders
     
-def analyze_winner_video(video_path: str):
+def analyze_winner_video(video_path: str, ui_callback=None):
+    def log_both(msg):
+        logging.info(msg)
+        if ui_callback:
+            ui_callback(msg)
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
         logging.error("Can't find GEMINI_API_KEY in .env file!")
@@ -49,17 +53,17 @@ def analyze_winner_video(video_path: str):
     genai.configure(api_key=api_key) # type: ignore
     model = genai.GenerativeModel("gemini-2.5-flash") # type: ignore
     
-    logging.info(f"Gemini API connecting for: {Path(video_path).name}...")
+    log_both(f"Gemini API connecting for: {Path(video_path).name}...")
     try:
         video_file = genai.upload_file(video_path) # type: ignore
         
-        logging.info("Waiting for Google servers to process the video...")
+        log_both("Waiting for Google servers to process the video...")
         while video_file.state.name == "PROCESSING":
             time.sleep(3)
             video_file = genai.get_file(video_file.name) # type: ignore
             
         if video_file.state.name == "FAILED":
-            logging.error(f"Google failed to process video: {Path(video_path).name}")
+            log_both(f"Google failed to process video: {Path(video_path).name}")
             return None
             
         response = model.generate_content([video_file, WINNER_ANALYSIS_PROMPT])
@@ -67,7 +71,7 @@ def analyze_winner_video(video_path: str):
         raw_text = re.sub(r"```json\s*|```\s*", "", (response.text or "").strip())
         features = json.loads(raw_text)
         
-        logging.info(f"Success! DNA extracted for {Path(video_path).name}")
+        log_both(f"Success! DNA extracted for {Path(video_path).name}")
         return features
         
     except Exception as e:
@@ -103,7 +107,11 @@ def update_brain_with_dna(features, filename):
     
     logging.info(f"Brain updated successfully with DNA from {filename}")
 
-def scan_all_winners(winners_folder="Winners"):
+def scan_all_winners(winners_folder="Winners", ui_callback=None):
+    def log_both(msg):
+        logging.info(msg)
+        if ui_callback:
+            ui_callback(msg)
     if not os.path.exists(winners_folder):
         logging.warning(f"Folder '{winners_folder}' not found. Aborting scan.")
         return
@@ -115,7 +123,7 @@ def scan_all_winners(winners_folder="Winners"):
         logging.warning(f"Folder '{winners_folder}' is empty or has no .mp4 files. Skipping.")
         return
 
-    logging.info(f"Starting batch scan. Found {len(video_files)} Winner videos in {winners_folder}.")
+    log_both(f"Starting batch scan. Found {len(video_files)} Winner videos in {winners_folder}.")
 
     brain = load_brain()
     processed_list = brain.get("processed_videos", [])
@@ -125,15 +133,15 @@ def scan_all_winners(winners_folder="Winners"):
         filename = filepath_obj.name
 
         if filename in processed_list:
-            logging.info(f"Skipping: '{filename}' (Already in processed memory)")
+            log_both(f"Skipping: '{filename}' (Already in processed memory)")
             continue
 
-        dna_features = analyze_winner_video(filepath)
+        dna_features = analyze_winner_video(filepath, ui_callback)
         if dna_features:
             update_brain_with_dna(dna_features, filename)
-            logging.info("Applying 15s rate-limit cooldown to protect API quotas...")
+            log_both("Applying 15s rate-limit cooldown to protect API quotas...")
             time.sleep(15)
-            
+            log_both("Cooldown complete. Resuming...")
     print("\n" + "=" * 50)
     print(f"Winner DNA from {winners_folder} saved to 'learning_weights.json'")
     print("\nTop 10 Strongest DNA Tags (AI's Favorite):")
@@ -146,4 +154,4 @@ def scan_all_winners(winners_folder="Winners"):
         print(f"  {tag:<25} {score:.2f}  {bar}")
     print("=" * 50)
     
-    logging.info(f"Batch scanning complete for {winners_folder}.")
+    log_both(f"Batch scanning complete for {winners_folder}.")

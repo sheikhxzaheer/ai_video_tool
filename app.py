@@ -119,30 +119,51 @@ async def process_pipeline(audio_path: str, script: Optional[str] = None) -> dic
 
 
 def display_segments_with_alternatives(data):
+    st.markdown("""
+        <style>
+        .red-button {
+            background-color: #ff4444 !important;
+            color: white !important;
+            border: none !important;
+            padding: 0.5rem 1rem !important;
+            border-radius: 0.25rem !important;
+            font-weight: 500 !important;
+            cursor: pointer !important;
+            font-size: 0.95rem !important;
+        }
+        .red-button:hover {
+            background-color: #cc0000 !important;
+        }
+        </style>
+    """, unsafe_allow_html=True)
+    
     st.subheader("🎬 Segment Inspector")
     for i, seg in enumerate(data['segments']):
         with st.expander(f"Segment {i+1}: {seg.get('text', '')[:50]}..."):
             matched = seg.get('matched_footage', {})
             alts = seg.get('alternatives', [])
             st.write(f"**Text:** {seg.get('text', '')}")
+            st.caption(f"**Segment Time:** {seg.get('start', 0)}s - {seg.get('end', 0)}s")
             if matched:
-                st.info(f"🎥 **Matched Clip:** {matched.get('path', 'Unknown')}")
-                st.caption(f"⏱️ **In:** {matched.get('in_point', 0)}s | **Out:** {matched.get('out_point', 0)}s")
-                st.write(f"📊 **AI Reasoning:** {matched.get('score_explanation', 'N/A')}")
+                st.info(f"**Matched Clip:** {matched.get('path', 'Unknown')}")
+                st.caption(f"**Clip In:** {matched.get('in_point', 0)}s | **Clip Out:** {matched.get('out_point', 0)}s")
+                st.write(f"**AI Reasoning:** {matched.get('score_explanation', 'N/A')}")
 
-                if alts and st.button(f"Reject & Replace ❌", key=f"reject_btn_{i}"):
-                    bad_clip_data = {
-                        "structural_tags": ["rejected_by_roman"],
-                        "visual_keywords": []
-                    }
-                    save_rejection(bad_clip_data)
-                    new_matched = alts.pop(0)
-                    seg['matched_footage'] = new_matched
+                col1, col2 = st.columns([3, 1])
+                with col2:
+                    if alts and st.button(f"❌ Reject", key=f"reject_btn_{i}", use_container_width=True):
+                        bad_clip_data = {
+                            "structural_tags": ["rejected_by_roman"],
+                            "visual_keywords": []
+                        }
+                        save_rejection(bad_clip_data)
+                        new_matched = alts.pop(0)
+                        seg['matched_footage'] = new_matched
 
-                    alts.append(matched)
-                    seg['alternatives'] = alts
-                    st.session_state.processed_data = data
-                    st.rerun()
+                        alts.append(matched)
+                        seg['alternatives'] = alts
+                        st.session_state.processed_data = data
+                        st.rerun()
             else:
                 st.warning("No footage matched for this segment.")
 
@@ -159,21 +180,22 @@ def main():
         
         if st.button("Train on New Winners", type="primary"):
             with st.spinner("Scanning for Winners folders..."):
-                winners_folders = find_all_winners_folders("Brands")
-                
-                if not winners_folders:
-                    st.warning("⚠️ No 'Winners' folders found in Brands/")
-                else:
-                    st.info(f"Found {len(winners_folders)} Winners folder(s):")
-                    for wf in winners_folders:
-                        st.caption(f"  📂 {wf}")
-                    
-                    with st.spinner("Analyzing winner videos with Gemini... This might take a minute."):
+                live_status_box = st.empty()
+                def update_live_status(msg):
+                    live_status_box.info(f"⚡ **Live Activity:** {msg}")
+                with st.spinner("Scanning for Winners folders..."):
+                    winners_folders = find_all_winners_folders("Brands")
+                    if not winners_folders:
+                        st.warning(" No 'Winners' folders found in Brands/")
+                    else:
+                        st.info(f"Found {len(winners_folders)} Winners folder(s):")
+                        for wf in winners_folders:
+                            st.caption(f"  📂 {wf}")
                         try:
                             for winners_path in winners_folders:
-                                st.info(f"Processing: {winners_path}")
-                                scan_all_winners(winners_path)
-                            st.success("✅ Training complete! AI Brain updated with all winners.")
+                                update_live_status(f"Opening folder: {winners_path}")
+                                scan_all_winners(winners_path, ui_callback=update_live_status)
+                            live_status_box.success("✅ Training complete! AI Brain updated with all winners.")
                             time.sleep(2)
                             st.rerun()
                         except Exception as e:
