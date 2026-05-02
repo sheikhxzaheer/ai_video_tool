@@ -4,6 +4,7 @@ import json
 import asyncio
 from pathlib import Path
 from typing import Optional
+from footage.qa_store import load_brain, save_rejection
 
 from dotenv import load_dotenv
 load_dotenv()
@@ -114,6 +115,36 @@ async def process_pipeline(audio_path: str, script: Optional[str] = None) -> dic
     return result
 
 
+
+def display_segments_with_alternatives(data):
+    st.subheader("🎬 Segment Inspector")
+    for i, seg in enumerate(data['segments']):
+        with st.expander(f"Segment {i+1}: {seg.get('text', '')[:50]}..."):
+            matched = seg.get('matched_footage', {})
+            alts = seg.get('alternatives', [])
+            st.write(f"**Text:** {seg.get('text', '')}")
+            if matched:
+                st.info(f"🎥 **Matched Clip:** {matched.get('path', 'Unknown')}")
+                st.caption(f"⏱️ **In:** {matched.get('in_point', 0)}s | **Out:** {matched.get('out_point', 0)}s")
+                st.write(f"📊 **AI Reasoning:** {matched.get('score_explanation', 'N/A')}")
+
+                if alts and st.button(f"Reject & Replace ❌", key=f"reject_btn_{i}"):
+                    bad_clip_data = {
+                        "structural_tags": ["rejected_by_roman"],
+                        "visual_keywords": []
+                    }
+                    save_rejection(bad_clip_data)
+                    new_matched = alts.pop(0)
+                    seg['matched_footage'] = new_matched
+
+                    alts.append(matched)
+                    seg['alternatives'] = alts
+                    st.session_state.processed_data = data
+                    st.rerun()
+            else:
+                st.warning("No footage matched for this segment.")
+
+
 def main():
     """Main Streamlit application."""
     st.title("🎬 AI Video Editing Tool")
@@ -203,6 +234,12 @@ def main():
             with metrics_col2:
                 st.metric("Segments", len(data['segments']))
             
+            st.divider()
+
+            # display_brain_status()
+            # st.divider()
+
+            display_segments_with_alternatives(data)
             st.divider()
             
             json_str = json.dumps(data, indent=2)

@@ -129,7 +129,8 @@
   "qa_rejected_tags": {
     "collapse": -0.2,
     "rubble": -0.2,
-    "disaster": -0.2
+    "disaster": -0.2,
+    "rejected_by_roman": -0.15
   },
   "processed_videos": [
     "Pillow - 23(1) SS1.mp4",
