@@ -2,9 +2,11 @@ import streamlit as st
 import os
 import json
 import asyncio
+import time
 from pathlib import Path
 from typing import Optional
 from footage.qa_store import load_brain, save_rejection
+from footage.winner_profiles import scan_all_winners, find_all_winners_folders
 
 from dotenv import load_dotenv
 load_dotenv()
@@ -152,6 +154,33 @@ def main():
     init_models()
 
     with st.sidebar:
+        st.header("AI Brain Training")
+        st.caption("Automatically finds & learns from all 'Winners' folders in Brands/")
+        
+        if st.button("Train on New Winners", type="primary"):
+            with st.spinner("Scanning for Winners folders..."):
+                winners_folders = find_all_winners_folders("Brands")
+                
+                if not winners_folders:
+                    st.warning("⚠️ No 'Winners' folders found in Brands/")
+                else:
+                    st.info(f"Found {len(winners_folders)} Winners folder(s):")
+                    for wf in winners_folders:
+                        st.caption(f"  📂 {wf}")
+                    
+                    with st.spinner("Analyzing winner videos with Gemini... This might take a minute."):
+                        try:
+                            for winners_path in winners_folders:
+                                st.info(f"Processing: {winners_path}")
+                                scan_all_winners(winners_path)
+                            st.success("✅ Training complete! AI Brain updated with all winners.")
+                            time.sleep(2)
+                            st.rerun()
+                        except Exception as e:
+                            st.error(f"Error during training: {str(e)}")
+                            st.exception(e)
+        st.divider()
+
         st.header("📁 Footage Index (Milestone-2)")
         st.caption("Build the segment-level vector index from your footage folder before processing.")
         footage_root = st.text_input(

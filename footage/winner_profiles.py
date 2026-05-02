@@ -32,6 +32,14 @@ Return ONLY valid JSON — no markdown, no explanation:
 }
 """
 
+def find_all_winners_folders(root_dir="Brands"):
+    root_path = Path(root_dir)
+    if not root_path.exists():
+        return []
+    winners_folders = [str(p) for p in root_path.rglob("**/Winners") if p.is_dir()]
+    
+    return winners_folders
+    
 def analyze_winner_video(video_path: str):
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
@@ -100,31 +108,34 @@ def scan_all_winners(winners_folder="Winners"):
         logging.warning(f"Folder '{winners_folder}' not found. Aborting scan.")
         return
 
-    video_files = [f for f in os.listdir(winners_folder) if f.endswith(".mp4")]
+    folder_path = Path(winners_folder)
+    video_files = list(folder_path.rglob("*.mp4"))
+
     if not video_files:
-        logging.warning(f"Folder '{winners_folder}' is empty. No videos to scan.")
+        logging.warning(f"Folder '{winners_folder}' is empty or has no .mp4 files. Skipping.")
         return
 
-    logging.info(f"Starting batch scan. Found {len(video_files)} Winner videos.")
-    
+    logging.info(f"Starting batch scan. Found {len(video_files)} Winner videos in {winners_folder}.")
+
     brain = load_brain()
     processed_list = brain.get("processed_videos", [])
+    
+    for filepath_obj in video_files:
+        filepath = str(filepath_obj)
+        filename = filepath_obj.name
 
-    for filename in video_files:
         if filename in processed_list:
             logging.info(f"Skipping: '{filename}' (Already in processed memory)")
             continue
-            
-        filepath = os.path.join(winners_folder, filename)
+
         dna_features = analyze_winner_video(filepath)
-        
         if dna_features:
             update_brain_with_dna(dna_features, filename)
             logging.info("Applying 15s rate-limit cooldown to protect API quotas...")
             time.sleep(15)
-
+            
     print("\n" + "=" * 50)
-    print("Winner DNA saved to 'learning_weights.json'")
+    print(f"Winner DNA from {winners_folder} saved to 'learning_weights.json'")
     print("\nTop 10 Strongest DNA Tags (AI's Favorite):")
     
     updated_brain = load_brain()
@@ -135,7 +146,4 @@ def scan_all_winners(winners_folder="Winners"):
         print(f"  {tag:<25} {score:.2f}  {bar}")
     print("=" * 50)
     
-    logging.info("Batch scanning complete.")
-
-if __name__ == "__main__":
-    scan_all_winners("Winners")
+    logging.info(f"Batch scanning complete for {winners_folder}.")
