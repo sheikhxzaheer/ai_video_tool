@@ -73,10 +73,10 @@ def update_brain_with_dna(features, filename):
     brain = load_brain()
     
     if "processed_videos" not in brain:
-        brain["processed_videos"] = {}
+        brain["processed_videos"] = [] # type: ignore
         
     if filename not in brain["processed_videos"]:
-        brain["processed_videos"][filename] = True
+        brain["processed_videos"].append(filename) # type: ignore
 
     all_good_tags = []
     for key in ["structural_tags", "style_keywords", "visual_keywords", "mood"]:
@@ -137,4 +137,4 @@ def scan_all_winners(winners_folder="Winners"):
     logging.info("Batch scanning complete.")
 
 if __name__ == "__main__":
-    scan_all_winners("Brands/Pillow/winners")
+    scan_all_winners("Winners")
