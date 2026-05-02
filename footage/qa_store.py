@@ -1,6 +1,7 @@
 import json
 import os
 import logging
+import shutil
 
 logging.basicConfig(
     level=logging.INFO,
@@ -17,11 +18,19 @@ def load_brain(filepath="learning_weights.json"):
             with open(filepath, "r") as f:
                 return json.load(f)
         except Exception as e:
-            print(f"Error reading JSON: {e}")
+            logging.error(f"Error reading JSON: {e}")
+            backup_path = filepath + ".bak"
+            if os.path.exists(backup_path):
+                logging.info(f"Restoring from backup file: {backup_path}")
+                try:
+                    with open(backup_path, "r") as f:
+                        return json.load(f)
+                except Exception as backup_error:
+                    logging.error(f"Backup file is also corrupted: {backup_error}")
     else:
         logging.warning(f"Can't find Brain file '{filepath}'. Starting with new empty brain.")
 
-    return {"winner_tags": {}, "qa_rejected_tags": {}}
+    return {"winner_tags": {}, "qa_rejected_tags": {}, "processed_videos": []}
 
 def save_rejection(bad_video_data, filepath="learning_weights.json"):
     brain = load_brain(filepath)
@@ -30,12 +39,15 @@ def save_rejection(bad_video_data, filepath="learning_weights.json"):
     
     for tag in bad_tags:
         if tag:
-            current_score = brain["qa_rejected_tags"].get(tag, 0.0)
-            brain["qa_rejected_tags"][tag] = round(current_score + REJECT_PENALTY, 4)
+            clean_tag = tag.strip().lower()
+            current_score = brain.get("qa_rejected_tags", {}).get(clean_tag, 0.0)
+            brain["qa_rejected_tags"][clean_tag] = round(current_score + REJECT_PENALTY, 4)
+    if os.path.exists(filepath):
+        shutil.copy(filepath, filepath + ".bak")
             
     with open(filepath, "w") as f:
         json.dump(brain, f, indent=2)
-    logging.info(f"🛑 REJECTED: Video rejected. Applied {REJECT_PENALTY} penalty to tags: {bad_tags}")
+    logging.info(f"🛑 REJECTED: Video rejected. Applied {REJECT_PENALTY} penalty.")
 
 def save_winner(good_video_data, filepath="learning_weights.json"):
     brain = load_brain(filepath)
@@ -44,9 +56,36 @@ def save_winner(good_video_data, filepath="learning_weights.json"):
     
     for tag in good_tags:
         if tag:
-            current_score = brain["winner_tags"].get(tag, 0.0)
-            brain["winner_tags"][tag] = round(current_score + WINNER_BOOST, 4)
+            clean_tag = tag.strip().lower()
+            current_score = brain.get("winner_tags", {}).get(clean_tag, 0.0)
+            brain["winner_tags"][clean_tag] = round(current_score + WINNER_BOOST, 4)
+    if os.path.exists(filepath):
+        shutil.copy(filepath, filepath + ".bak")
             
     with open(filepath, "w") as f:
         json.dump(brain, f, indent=2)
-    logging.info(f"✅ SAVED WINNER: Video accepted. Applied {WINNER_BOOST} boost to tags: {good_tags}")
+    logging.info(f"✅ SAVED WINNER: Video accepted. Applied {WINNER_BOOST} boost.")
+
+def clean_existing_brain(filepath="learning_weights.json"):
+    brain = load_brain(filepath)
+    cleaned_brain = {
+        "winner_tags": {},
+        "qa_rejected_tags": {},
+        "processed_videos": brain.get("processed_videos", [])
+    }
+    for tag, score in brain.get("winner_tags", {}).items():
+        clean_tag = tag.strip().lower()
+        current_score = cleaned_brain["winner_tags"].get(clean_tag, 0.0)
+        cleaned_brain["winner_tags"][clean_tag] = round(current_score + score, 4)
+    for tag, score in brain.get("qa_rejected_tags", {}).items():
+        clean_tag = tag.strip().lower()
+        current_score = cleaned_brain["qa_rejected_tags"].get(clean_tag, 0.0)
+        cleaned_brain["qa_rejected_tags"][clean_tag] = round(current_score + score, 4)
+    if os.path.exists(filepath):
+        shutil.copy(filepath, filepath + ".bak")
+    with open(filepath, "w") as f:
+        json.dump(cleaned_brain, f, indent=2)
+    print("\n✅ Success! Brain cleaned and normalized. All tags have been standardized to lowercase and stripped of whitespace.")
+
+if __name__ == "__main__":
+    clean_existing_brain()

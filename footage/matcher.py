@@ -325,6 +325,26 @@ def match_segments_to_footage(
             "score_explanation": best.get("score_explanation", "No explanation available"),
         }
 
+        alternatives = []
+        best_path = best.get("video_path") or best.get("path")
+        for cand in penalized:
+            cand_path = cand.get("video_path") or cand.get("path")
+            if cand_path != best_path:
+                alt_in = cand.get("segment_start") or 0.0
+                alt_out = cand.get("segment_end") or min(float(cand.get("video_duration") or 5.0), seg_duration)
+
+                alternatives.append({
+                    "path": cand_path or "",
+                    "in_point": float(alt_in),
+                    "out_point": float(alt_out),
+                    "similarity_score": round(float(cand.get("similarity") or 0.0), 4),
+                    "final_similarity_score": round(float(cand.get("final_similarity_score") or cand.get("similarity") or 0.0), 4),
+                    "score_explanation": cand.get("score_explanation", "No explanation available")
+                })
+                if len(alternatives) >= 3:
+                    break
+                seg_copy["alternatives"] = alternatives
+
         if enable_anchor_broll and broll:
             seg_copy["matched_broll"] = [
                 {

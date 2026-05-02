@@ -86,8 +86,9 @@ def update_brain_with_dna(features, filename):
     WINNER_BOOST = 0.15
     for tag in all_good_tags:
         if tag:
-            current_score = brain.get("winner_tags", {}).get(tag, 0.0)
-            brain["winner_tags"][tag] = round(current_score + WINNER_BOOST, 4)
+            clean_tag = tag.strip().lower()
+            current_score = brain.get("winner_tags", {}).get(clean_tag, 0.0)
+            brain["winner_tags"][clean_tag] = round(current_score + WINNER_BOOST, 4)
             
     with open("learning_weights.json", "w") as f:
         json.dump(brain, f, indent=2)
