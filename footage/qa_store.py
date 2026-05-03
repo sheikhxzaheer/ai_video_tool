@@ -27,13 +27,6 @@ def _apply_time_decay(brain, filepath):
         if days_since < DECAY_INTERVAL_DAYS:
             return brain
 
-    for tag in list(brain.get("winner_tags", {}).keys()):
-        new_val = round(brain["winner_tags"][tag] * DECAY_FACTOR, 4)
-        if abs(new_val) < MIN_WEIGHT:
-            del brain["winner_tags"][tag]
-        else:
-            brain["winner_tags"][tag] = new_val
-
     for tag in list(brain.get("qa_rejected_tags", {}).keys()):
         new_val = round(brain["qa_rejected_tags"][tag] * DECAY_FACTOR, 4)
         if abs(new_val) < MIN_WEIGHT:
@@ -48,7 +41,7 @@ def _apply_time_decay(brain, filepath):
     with open(filepath, "w") as f:
         json.dump(brain, f, indent=2)
 
-    logging.info(f"TIME DECAY applied. Factor: {DECAY_FACTOR}. Next decay in {DECAY_INTERVAL_DAYS} days.")
+    logging.info(f"TIME DECAY applied to qa_rejected_tags only. Factor: {DECAY_FACTOR}. Next decay in {DECAY_INTERVAL_DAYS} days.")
 
     return brain
 

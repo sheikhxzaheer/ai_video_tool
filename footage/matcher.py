@@ -7,7 +7,7 @@ import chromadb
 
 from footage.embeddings import embed_texts_batch
 from footage.reranker import RerankContext, rerank_candidates
-from footage.qa_store import load_brain
+from footage.qa_store import load_brain, load_brain_with_decay
 
 
 # Default ChromaDB path
@@ -288,7 +288,7 @@ def match_segments_to_footage(
             penalty_reused=penalty_reused,
         )
 
-        brain_data = load_brain()
+        brain_data = load_brain_with_decay()
 
         penalized = rerank_candidates(
             penalized,
@@ -296,6 +296,7 @@ def match_segments_to_footage(
             winners_signal=brain_data.get("winner_tags", {}),
             qa_signal=brain_data.get("qa_rejected_tags", {})
         )
+
 
         if not penalized:
             result.append(seg_copy)
