@@ -323,6 +323,8 @@ def match_segments_to_footage(
             "similarity_score": round(float(best.get("similarity") or 0.0), 4),
             "final_similarity_score": round(float(best.get("final_similarity_score") or best.get("similarity") or 0.0), 4),
             "score_explanation": best.get("score_explanation", "No explanation available"),
+            "structural_tags": best.get("structural_tags", []),
+            "visual_keywords": best.get("visual_keywords", []),
         }
 
         alternatives = []
@@ -343,7 +345,7 @@ def match_segments_to_footage(
                 })
                 if len(alternatives) >= 3:
                     break
-                seg_copy["alternatives"] = alternatives
+        seg_copy["alternatives"] = alternatives
 
         if enable_anchor_broll and broll:
             seg_copy["matched_broll"] = [

@@ -2,6 +2,7 @@ import json
 import os
 import logging
 import shutil
+from datetime import datetime, timezone
 
 logging.basicConfig(
     level=logging.INFO,
@@ -11,6 +12,53 @@ logging.basicConfig(
         logging.StreamHandler()
     ]
 )
+
+DECAY_INTERVAL_DAYS = 7
+DECAY_FACTOR = 0.90
+MIN_WEIGHT = 0.01
+
+def _apply_time_decay(brain, filepath):
+    today_str = datetime.now(timezone.utc).date().isoformat()
+    last_decay = brain.get("last_decay_date", None)
+    if last_decay:
+        last_date = datetime.fromisoformat(last_decay).date()
+        today_date = datetime.now(timezone.utc).date()
+        days_since = (today_date - last_date).days
+        if days_since < DECAY_INTERVAL_DAYS:
+            return brain
+
+    for tag in list(brain.get("winner_tags", {}).keys()):
+        new_val = round(brain["winner_tags"][tag] * DECAY_FACTOR, 4)
+        if abs(new_val) < MIN_WEIGHT:
+            del brain["winner_tags"][tag]
+        else:
+            brain["winner_tags"][tag] = new_val
+
+    for tag in list(brain.get("qa_rejected_tags", {}).keys()):
+        new_val = round(brain["qa_rejected_tags"][tag] * DECAY_FACTOR, 4)
+        if abs(new_val) < MIN_WEIGHT:
+            del brain["qa_rejected_tags"][tag]
+        else:
+            brain["qa_rejected_tags"][tag] = new_val
+
+    brain["last_decay_date"] = today_str
+
+    if os.path.exists(filepath):
+        shutil.copy(filepath, filepath + ".bak")
+    with open(filepath, "w") as f:
+        json.dump(brain, f, indent=2)
+
+    logging.info(f"TIME DECAY applied. Factor: {DECAY_FACTOR}. Next decay in {DECAY_INTERVAL_DAYS} days.")
+
+    return brain
+
+
+def load_brain_with_decay(filepath="learning_weights.json"):
+    brain = load_brain(filepath)
+    brain = _apply_time_decay(brain, filepath)
+    return brain
+
+
 
 def load_brain(filepath="learning_weights.json"):
     if os.path.exists(filepath):
