@@ -326,6 +326,9 @@ def match_segments_to_footage(
             "score_explanation": best.get("score_explanation", "No explanation available"),
             "structural_tags": best.get("structural_tags", []),
             "visual_keywords": best.get("visual_keywords", []),
+            "style_keywords": best.get("style_keywords", []),
+            "environment": best.get("environment", []),
+            "mood": best.get("mood", []),
         }
 
         alternatives = []
@@ -342,7 +345,12 @@ def match_segments_to_footage(
                     "out_point": float(alt_out),
                     "similarity_score": round(float(cand.get("similarity") or 0.0), 4),
                     "final_similarity_score": round(float(cand.get("final_similarity_score") or cand.get("similarity") or 0.0), 4),
-                    "score_explanation": cand.get("score_explanation", "No explanation available")
+                    "score_explanation": cand.get("score_explanation", "No explanation available"),
+                    "structural_tags": cand.get("structural_tags", []),
+                    "visual_keywords": cand.get("visual_keywords", []),
+                    "style_keywords": cand.get("style_keywords", []),
+                    "environment": cand.get("environment", []),
+                    "mood": cand.get("mood", []),
                 })
                 if len(alternatives) >= 3:
                     break
