@@ -153,8 +153,13 @@ def display_segments_with_alternatives(data):
                 with col2:
                     if alts and st.button(f"❌ Reject", key=f"reject_btn_{i}", use_container_width=True):
                         bad_clip_data = {
-                            "structural_tags": ["rejected_by_roman"],
-                            "visual_keywords": []
+                            "structural_tags": (
+                                matched.get("structural_tags", []) +
+                                matched.get("style_keywords", []) +
+                                matched.get("environment", []) +
+                                matched.get("mood", [])
+                            ),
+                            "visual_keywords": matched.get("visual_keywords", [])
                         }
                         save_rejection(bad_clip_data)
                         new_matched = alts.pop(0)
