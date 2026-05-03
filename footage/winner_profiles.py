@@ -41,7 +41,7 @@ def find_all_winners_folders(root_dir="Brands"):
     return winners_folders
     
 def analyze_winner_video(video_path: str, ui_callback=None):
-    def log_both(msg):
+    def send_status_update(msg):
         logging.info(msg)
         if ui_callback:
             ui_callback(msg)
@@ -53,17 +53,17 @@ def analyze_winner_video(video_path: str, ui_callback=None):
     genai.configure(api_key=api_key) # type: ignore
     model = genai.GenerativeModel("gemini-2.5-flash") # type: ignore
     
-    log_both(f"Gemini API connecting for: {Path(video_path).name}...")
+    send_status_update(f"Uploading to Gemini: {Path(video_path).name}...")
     try:
         video_file = genai.upload_file(video_path) # type: ignore
         
-        log_both("Waiting for Google servers to process the video...")
+        send_status_update("Waiting for Gemini to analyze video...")
         while video_file.state.name == "PROCESSING":
             time.sleep(3)
             video_file = genai.get_file(video_file.name) # type: ignore
             
         if video_file.state.name == "FAILED":
-            log_both(f"Google failed to process video: {Path(video_path).name}")
+            send_status_update(f"Gemini failed to process: {Path(video_path).name}")
             return None
             
         response = model.generate_content([video_file, WINNER_ANALYSIS_PROMPT])
@@ -71,7 +71,7 @@ def analyze_winner_video(video_path: str, ui_callback=None):
         raw_text = re.sub(r"```json\s*|```\s*", "", (response.text or "").strip())
         features = json.loads(raw_text)
         
-        log_both(f"Success! DNA extracted for {Path(video_path).name}")
+        send_status_update(f"DNA extracted: {Path(video_path).name}")
         return features
         
     except Exception as e:
@@ -108,7 +108,7 @@ def update_brain_with_dna(features, filename):
     logging.info(f"Brain updated successfully with DNA from {filename}")
 
 def scan_all_winners(winners_folder="Winners", ui_callback=None):
-    def log_both(msg):
+    def send_status_update(msg):
         logging.info(msg)
         if ui_callback:
             ui_callback(msg)
@@ -123,25 +123,25 @@ def scan_all_winners(winners_folder="Winners", ui_callback=None):
         logging.warning(f"Folder '{winners_folder}' is empty or has no .mp4 files. Skipping.")
         return
 
-    log_both(f"Starting batch scan. Found {len(video_files)} Winner videos in {winners_folder}.")
+    send_status_update(f"Found {len(video_files)} winner video(s) in {winners_folder}")
 
     brain = load_brain()
-    processed_list = brain.get("processed_videos", [])
+    processed_list = brain.get("processed_videos", []) if brain else []
     
     for filepath_obj in video_files:
         filepath = str(filepath_obj)
         filename = filepath_obj.name
 
         if filename in processed_list:
-            log_both(f"Skipping: '{filename}' (Already in processed memory)")
+            send_status_update(f"Skipping '{filename}' (already processed)")
             continue
 
         dna_features = analyze_winner_video(filepath, ui_callback)
         if dna_features:
             update_brain_with_dna(dna_features, filename)
-            log_both("Applying 15s rate-limit cooldown to protect API quotas...")
+            send_status_update("Cooldown: 15s rate-limit to protect API")
             time.sleep(15)
-            log_both("Cooldown complete. Resuming...")
+            send_status_update("Resuming analysis...")
     print("\n" + "=" * 50)
     print(f"Winner DNA from {winners_folder} saved to 'learning_weights.json'")
     print("\nTop 10 Strongest DNA Tags (AI's Favorite):")
@@ -154,4 +154,4 @@ def scan_all_winners(winners_folder="Winners", ui_callback=None):
         print(f"  {tag:<25} {score:.2f}  {bar}")
     print("=" * 50)
     
-    log_both(f"Batch scanning complete for {winners_folder}.")
+    send_status_update(f"Batch scan complete for {winners_folder}")
