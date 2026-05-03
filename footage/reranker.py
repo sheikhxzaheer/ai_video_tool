@@ -39,7 +39,13 @@ def rerank_candidates(
         winner_score = 0.0
         qa_score = 0.0
 
-        clip_tags = c.get("structural_tags", []) + c.get("visual_keywords", [])
+        clip_tags = (
+            c.get("structural_tags", []) + 
+            c.get("visual_keywords", []) +
+            c.get("style_keywords", []) + 
+            c.get("environment", []) + 
+            c.get("mood", [])
+        )
         for tag in clip_tags:
             qa_score += qa_dict.get(tag, 0.0)
             winner_score += winner_dict.get(tag, 0.0)

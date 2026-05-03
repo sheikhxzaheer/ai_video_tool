@@ -116,6 +116,30 @@ async def process_pipeline(audio_path: str, script: Optional[str] = None) -> dic
     st.info("Step 5/5: Export ready!")
     return result
 
+def display_brain_status():
+    """UI Panel to show what the AI has learned so far."""
+    st.subheader("🧠 AI Brain Status")
+    brain = load_brain()
+    
+    col1, col2 = st.columns(2)
+    with col1:
+        st.markdown("**Top Learned Styles (Favorites)**")
+        winners = sorted(brain.get("winner_tags", {}).items(), key=lambda x: -x[1])
+        if winners:
+            for tag, score in winners[:3]:
+                st.success(f"📈 {tag} (+{score:.2f})")
+        else:
+            st.info("No winners saved yet.")
+            
+    with col2:
+        st.markdown("**Avoided Styles (Rejected)**")
+        rejected = sorted(brain.get("qa_rejected_tags", {}).items(), key=lambda x: x[1])
+        if rejected:
+            for tag, score in rejected[:3]:
+                st.error(f"📉 {tag} ({score:.2f})")
+        else:
+            st.info("No rejections yet.")
+
 
 
 def display_segments_with_alternatives(data):
@@ -292,8 +316,8 @@ def main():
             
             st.divider()
 
-            # display_brain_status()
-            # st.divider()
+            display_brain_status()
+            st.divider()
 
             display_segments_with_alternatives(data)
             st.divider()

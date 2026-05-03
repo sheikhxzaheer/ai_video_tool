@@ -76,19 +76,23 @@ def load_brain(filepath="learning_weights.json"):
 def save_rejection(bad_video_data, filepath="learning_weights.json"):
     brain = load_brain(filepath)
     bad_tags = bad_video_data.get("structural_tags", []) + bad_video_data.get("visual_keywords", [])
-    REJECT_PENALTY = -0.15
+    REJECT_PENALTY = -0.25
     
     for tag in bad_tags:
         if tag:
             clean_tag = tag.strip().lower()
             current_score = brain.get("qa_rejected_tags", {}).get(clean_tag, 0.0)
-            brain["qa_rejected_tags"][clean_tag] = round(current_score + REJECT_PENALTY, 4)
+            new_score = current_score + REJECT_PENALTY
+            normalized_score = max(new_score, -1.0)
+            brain["qa_rejected_tags"][clean_tag] = round(normalized_score, 4)
     if os.path.exists(filepath):
         shutil.copy(filepath, filepath + ".bak")
             
     with open(filepath, "w") as f:
         json.dump(brain, f, indent=2)
     logging.info(f"🛑 REJECTED: Video rejected. Applied {REJECT_PENALTY} penalty.")
+
+
 
 def save_winner(good_video_data, filepath="learning_weights.json"):
     brain = load_brain(filepath)
@@ -99,7 +103,9 @@ def save_winner(good_video_data, filepath="learning_weights.json"):
         if tag:
             clean_tag = tag.strip().lower()
             current_score = brain.get("winner_tags", {}).get(clean_tag, 0.0)
-            brain["winner_tags"][clean_tag] = round(current_score + WINNER_BOOST, 4)
+            new_score = current_score + WINNER_BOOST
+            normalized_score = min(new_score, 1.0)
+            brain["winner_tags"][clean_tag] = round(normalized_score, 4)
     if os.path.exists(filepath):
         shutil.copy(filepath, filepath + ".bak")
             

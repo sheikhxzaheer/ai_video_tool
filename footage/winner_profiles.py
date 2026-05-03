@@ -20,15 +20,26 @@ logging.basicConfig(
 )
 
 WINNER_ANALYSIS_PROMPT = """
-You are analyzing a winning video ad. Extract its visual features for a scoring system.
-Focus on the style, pacing, and vibe (the DNA).
-Return ONLY valid JSON — no markdown, no explanation:
+You are an elite Direct-Response Video Editor and Creative Strategist. Your task is to perform a deep "DNA Extraction" on this winning video ad. 
+We are feeding this data into an advanced AI scoring system, so your tags must be highly precise, descriptive, and analytical.
+
+Analyze the video's core mechanics—why it captures attention, its pacing, its visual hooks, and its emotional resonance. 
+
+Guidelines for Tagging:
+- Use clear, descriptive terms connected by underscores (e.g., "fast_paced_montage", "intimate_ugc").
+- Avoid vague or generic words like "good", "happy", "nice", "video".
+- "structural_tags" should define the marketing framework (e.g., "Problem_Hook", "Social_Proof", "Product_Demo", "Us_vs_Them").
+- "visual_keywords" should be literal actions or objects (e.g., "pointing_at_camera", "applying_cream", "green_screen", "holding_phone").
+- "style_keywords" should define the camera work and editing (e.g., "jump_cuts", "handheld_shaky", "text_heavy", "split_screen").
+- Keep all tags concise (1 to 3 words maximum).
+
+Return ONLY valid JSON — no markdown formatting, no explanations, no code blocks:
 {
   "structural_tags": ["e.g. Problem_Hook, Face_to_Camera, Product_Intro"],
   "visual_keywords": ["e.g. holding_phone, drinking, running"],
   "style_keywords": ["e.g. Handheld, Fast_paced, Low_res_UGC, Cinematic"],
   "environment": ["e.g. indoor, bedroom, street"],
-  "mood": ["e.g. energetic, calm, chaotic"]
+  "mood": ["e.g. energetic, calm, chaotic, urgent, trustworthy"]
 }
 """
 
