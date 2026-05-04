@@ -158,6 +158,13 @@ def display_segments_with_alternatives(data):
         .red-button:hover {
             background-color: #cc0000 !important;
         }
+        .timeline-container {
+            width: 100%; height: 10px; background-color: #2b2b36; 
+            border-radius: 5px; display: flex; overflow: hidden; margin-top: 5px; margin-bottom: 15px;
+        }
+        .timeline-cut {
+            background-color: #00d26a; border-radius: 5px; height: 100%;
+        }
         </style>
     """, unsafe_allow_html=True)
     
@@ -167,25 +174,14 @@ def display_segments_with_alternatives(data):
         with st.expander(f"Segment {i+1} | {title_text}", expanded=False):
             matched = seg.get('matched_footage', {})
             alts = seg.get('alternatives', [])
-            st.write(f"**Script Line:** {seg.get('text', '')}")
-            st.caption(f"**Voiceover Timing:** {seg.get('start', 0)}s - {seg.get('end', 0)}s")
             if matched:
                 clip_path = matched.get('path', '')
 
-                # 👇👇👇 TEMPORARY MAC PATH HACK 👇👇👇
-                clip_path = clip_path.replace("\\", "/")
-                if "C:/Nil AI-ML/run_index/final-database/" in clip_path:
-                    clip_path = clip_path.replace(
-                        "C:/Nil AI-ML/run_index/final-database/", 
-                        "/Users/sheikhxzaheer/Documents/Programming/Django/AI Video Tool/database/"
-                    )
-                # 👆👆👆 TEMPORARY MAC PATH HACK 👆👆👆
-
-
                 clip_name = Path(clip_path).name
-                in_point_seconds = int(matched.get('in_point', 0))
+                in_point_seconds = float(matched.get('in_point', 0))
+                out_point_seconds = float(matched.get('out_point', 0))
                 vo_duration = seg.get('end', 0) - seg.get('start', 0)
-                clip_duration = matched.get('out_point', 0) - matched.get('in_point', 0)
+                clip_duration = out_point_seconds - in_point_seconds
 
                 col_info, col_video = st.columns([1.2, 1])
 
@@ -204,7 +200,14 @@ def display_segments_with_alternatives(data):
                         
                     st.divider()
 
-                    if alts and st.button(f"❌ Reject & Swap Clip", key=f"reject_btn_{i}", use_container_width=True):
+                    alts_count = len(alts)
+                    if alts_count > 0:
+                        st.markdown(f"**🔄 {alts_count} Backup Clips Ready**")
+                        reject_label = f"❌ Reject & Swap Clip"
+                    else:
+                        reject_label = "❌ Reject (No backups left)"
+
+                    if alts and st.button(reject_label, key=f"reject_btn_{i}", use_container_width=True):
                         bad_clip_data = {
                             "structural_tags": (
                                 matched.get("structural_tags", []) +
@@ -223,13 +226,27 @@ def display_segments_with_alternatives(data):
                         st.rerun()
 
                 with col_video:
-                    st.markdown("###Source Monitor")
                     try:
                         st.video(clip_path, start_time=in_point_seconds)
                     except Exception:
                         st.warning(f"⚠️ Video preview not available.")
                     st.caption(f"**File:** {clip_name}")
-                    st.caption(f"**Cut In:** {matched.get('in_point', 0)}s | **Cut Out:** {matched.get('out_point', 0)}s")
+
+                    visual_total = max(out_point_seconds * 1.2, 15.0) 
+                    in_pct = (in_point_seconds / visual_total) * 100
+                    cut_pct = (clip_duration / visual_total) * 100
+
+                    timeline_html = f"""
+                    <div style="font-size: 12px; color: #bbb; display: flex; justify-content: space-between; margin-top: 10px;">
+                        <span>In: <b>{round(in_point_seconds, 1)}s</b></span>
+                        <span>Out: <b>{round(out_point_seconds, 1)}s</b></span>
+                    </div>
+                    <div class="timeline-container">
+                        <div style="width: {in_pct}%; background-color: transparent;"></div>
+                        <div class="timeline-cut" style="width: {cut_pct}%;"></div>
+                    </div>
+                    """
+                    st.markdown(timeline_html, unsafe_allow_html=True)
                     if clip_duration < vo_duration:
                         st.warning(f"⚠️ Clip is shorter than VO. Extra B-roll required.")
                     else:
