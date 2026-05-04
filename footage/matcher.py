@@ -317,6 +317,11 @@ def match_segments_to_footage(
             in_point = in_point if in_point is not None else in_point2
             out_point = out_point if out_point is not None else out_point2
 
+        if in_point is not None and out_point is not None:
+            actual_cut_duration = out_point - in_point
+            if actual_cut_duration > seg_duration:
+                out_point = in_point + seg_duration
+
         seg_copy["matched_footage"] = {
             "path": best.get("video_path") or best.get("path") or "",
             "in_point": float(in_point),
@@ -337,7 +342,15 @@ def match_segments_to_footage(
             cand_path = cand.get("video_path") or cand.get("path")
             if cand_path != best_path:
                 alt_in = cand.get("segment_start") or 0.0
-                alt_out = cand.get("segment_end") or min(float(cand.get("video_duration") or 5.0), seg_duration)
+                # alt_out = cand.get("segment_end") or min(float(cand.get("video_duration") or 5.0), seg_duration)
+
+                alt_in = float(cand.get("segment_start") or 0.0)
+                alt_out_raw = float(cand.get("segment_end") or float(cand.get("video_duration") or 5.0))
+
+                if (alt_out_raw - alt_in) > seg_duration:
+                    alt_out = alt_in + seg_duration
+                else:
+                    alt_out = alt_out_raw
 
                 alternatives.append({
                     "path": cand_path or "",
