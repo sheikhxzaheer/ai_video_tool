@@ -163,36 +163,48 @@ def display_segments_with_alternatives(data):
     
     st.subheader("🎬 Segment Inspector")
     for i, seg in enumerate(data['segments']):
-        with st.expander(f"Segment {i+1}: {seg.get('text', '')[:50]}...", expanded=False):
+        title_text = seg.get('text', '')[:60] + "..." if len(seg.get('text', '')) > 60 else seg.get('text', '')
+        with st.expander(f"Segment {i+1} | {title_text}", expanded=False):
             matched = seg.get('matched_footage', {})
             alts = seg.get('alternatives', [])
             st.write(f"**Script Line:** {seg.get('text', '')}")
             st.caption(f"**Voiceover Timing:** {seg.get('start', 0)}s - {seg.get('end', 0)}s")
             if matched:
                 clip_path = matched.get('path', '')
+
+                # 👇👇👇 TEMPORARY MAC PATH HACK 👇👇👇
+                clip_path = clip_path.replace("\\", "/")
+                if "C:/Nil AI-ML/run_index/final-database/" in clip_path:
+                    clip_path = clip_path.replace(
+                        "C:/Nil AI-ML/run_index/final-database/", 
+                        "/Users/sheikhxzaheer/Documents/Programming/Django/AI Video Tool/database/"
+                    )
+                # 👆👆👆 TEMPORARY MAC PATH HACK 👆👆👆
+
+
                 clip_name = Path(clip_path).name
-
-                st.divider()
-
                 in_point_seconds = int(matched.get('in_point', 0))
                 vo_duration = seg.get('end', 0) - seg.get('start', 0)
                 clip_duration = matched.get('out_point', 0) - matched.get('in_point', 0)
-                col_vid, col_space = st.columns([1, 1])
-                with col_vid:
-                    try:
-                        st.video(clip_path, start_time=in_point_seconds)
-                    except Exception:
-                        st.warning(f"⚠️ Video preview not available for: {clip_path}")
 
+                col_info, col_video = st.columns([1.2, 1])
 
-                st.caption(f"**File:** {clip_name} | **Cut In:** {matched.get('in_point', 0)}s | **Cut Out:** {matched.get('out_point', 0)}s")
-                if clip_duration < vo_duration:
-                    st.warning(f"⚠️ Clip is shorter than VO ({round(clip_duration, 1)}s vs {round(vo_duration, 1)}s). Extra B-roll required.")
-                st.info(f" **AI Reasoning:** {matched.get('score_explanation', 'N/A')}")
+                with col_info:
+                    st.markdown("### Script & Timing")
+                    st.write(f"**Voiceover:** *\"{seg.get('text', '')}\"*")
+                    st.caption(f"**VO Timing:** {seg.get('start', 0)}s - {seg.get('end', 0)}s (Length: {round(vo_duration, 1)}s)")
+                    
+                    st.divider()
+                    st.markdown("### AI Analysis")
+                    st.info(f"**Reasoning:** {matched.get('score_explanation', 'N/A')}")
+                    
+                    matched_tags = matched.get('structural_tags', [])[:3] + matched.get('style_keywords', [])[:2]
+                    if matched_tags:
+                        st.caption(f"**Key Matches:** {', '.join(matched_tags)}")
+                        
+                    st.divider()
 
-                col1, col2 = st.columns([3, 1])
-                with col2:
-                    if alts and st.button(f"Reject", key=f"reject_btn_{i}", use_container_width=True):
+                    if alts and st.button(f"❌ Reject & Swap Clip", key=f"reject_btn_{i}", use_container_width=True):
                         bad_clip_data = {
                             "structural_tags": (
                                 matched.get("structural_tags", []) +
@@ -205,13 +217,23 @@ def display_segments_with_alternatives(data):
                         save_rejection(bad_clip_data)
                         new_matched = alts.pop(0)
                         seg['matched_footage'] = new_matched
-
                         alts.append(matched)
                         seg['alternatives'] = alts
                         st.session_state.processed_data = data
                         st.rerun()
-            else:
-                st.warning("No footage matched for this segment.")
+
+                with col_video:
+                    st.markdown("###Source Monitor")
+                    try:
+                        st.video(clip_path, start_time=in_point_seconds)
+                    except Exception:
+                        st.warning(f"⚠️ Video preview not available.")
+                    st.caption(f"**File:** {clip_name}")
+                    st.caption(f"**Cut In:** {matched.get('in_point', 0)}s | **Cut Out:** {matched.get('out_point', 0)}s")
+                    if clip_duration < vo_duration:
+                        st.warning(f"⚠️ Clip is shorter than VO. Extra B-roll required.")
+                    else:
+                        st.warning("No footage matched for this segment.")
 
 
 def main():
