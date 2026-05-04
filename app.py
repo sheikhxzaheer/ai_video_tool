@@ -163,19 +163,36 @@ def display_segments_with_alternatives(data):
     
     st.subheader("🎬 Segment Inspector")
     for i, seg in enumerate(data['segments']):
-        with st.expander(f"Segment {i+1}: {seg.get('text', '')[:50]}..."):
+        with st.expander(f"Segment {i+1}: {seg.get('text', '')[:50]}...", expanded=False):
             matched = seg.get('matched_footage', {})
             alts = seg.get('alternatives', [])
-            st.write(f"**Text:** {seg.get('text', '')}")
-            st.caption(f"**Segment Time:** {seg.get('start', 0)}s - {seg.get('end', 0)}s")
+            st.write(f"**Script Line:** {seg.get('text', '')}")
+            st.caption(f"**Voiceover Timing:** {seg.get('start', 0)}s - {seg.get('end', 0)}s")
             if matched:
-                st.info(f"**Matched Clip:** {matched.get('path', 'Unknown')}")
-                st.caption(f"**Clip In:** {matched.get('in_point', 0)}s | **Clip Out:** {matched.get('out_point', 0)}s")
-                st.write(f"**AI Reasoning:** {matched.get('score_explanation', 'N/A')}")
+                clip_path = matched.get('path', '')
+                clip_path = clip_path.replace("\\", "/")
+                if "C:/Nil AI-ML/run_index/final-database/" in clip_path:
+                    clip_path = clip_path.replace(
+                        "C:/Nil AI-ML/run_index/final-database/", 
+                        "/Users/sheikhxzaheer/Documents/Programming/Django/AI Video Tool/database/"
+                    )
+                clip_name = Path(clip_path).name
+
+                st.divider()
+
+                in_point_seconds = int(matched.get('in_point', 0))
+                try:
+                    st.video(clip_path, start_time=in_point_seconds)
+                except Exception:
+                    st.warning(f"⚠️ Video preview not available for: {clip_name}")
+
+
+                st.caption(f"**File:** {clip_name} | **Cut In:** {matched.get('in_point', 0)}s | **Cut Out:** {matched.get('out_point', 0)}s")
+                st.info(f" **AI Reasoning:** {matched.get('score_explanation', 'N/A')}")
 
                 col1, col2 = st.columns([3, 1])
                 with col2:
-                    if alts and st.button(f"❌ Reject", key=f"reject_btn_{i}", use_container_width=True):
+                    if alts and st.button(f"Reject", key=f"reject_btn_{i}", use_container_width=True):
                         bad_clip_data = {
                             "structural_tags": (
                                 matched.get("structural_tags", []) +
