@@ -170,24 +170,24 @@ def display_segments_with_alternatives(data):
             st.caption(f"**Voiceover Timing:** {seg.get('start', 0)}s - {seg.get('end', 0)}s")
             if matched:
                 clip_path = matched.get('path', '')
-                clip_path = clip_path.replace("\\", "/")
-                if "C:/Nil AI-ML/run_index/final-database/" in clip_path:
-                    clip_path = clip_path.replace(
-                        "C:/Nil AI-ML/run_index/final-database/", 
-                        "/Users/sheikhxzaheer/Documents/Programming/Django/AI Video Tool/database/"
-                    )
                 clip_name = Path(clip_path).name
 
                 st.divider()
 
                 in_point_seconds = int(matched.get('in_point', 0))
-                try:
-                    st.video(clip_path, start_time=in_point_seconds)
-                except Exception:
-                    st.warning(f"⚠️ Video preview not available for: {clip_name}")
+                vo_duration = seg.get('end', 0) - seg.get('start', 0)
+                clip_duration = matched.get('out_point', 0) - matched.get('in_point', 0)
+                col_vid, col_space = st.columns([1, 1])
+                with col_vid:
+                    try:
+                        st.video(clip_path, start_time=in_point_seconds)
+                    except Exception:
+                        st.warning(f"⚠️ Video preview not available for: {clip_path}")
 
 
                 st.caption(f"**File:** {clip_name} | **Cut In:** {matched.get('in_point', 0)}s | **Cut Out:** {matched.get('out_point', 0)}s")
+                if clip_duration < vo_duration:
+                    st.warning(f"⚠️ Clip is shorter than VO ({round(clip_duration, 1)}s vs {round(vo_duration, 1)}s). Extra B-roll required.")
                 st.info(f" **AI Reasoning:** {matched.get('score_explanation', 'N/A')}")
 
                 col1, col2 = st.columns([3, 1])
