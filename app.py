@@ -69,30 +69,15 @@ async def process_pipeline(audio_path: str, script: Optional[str] = None) -> dic
     if not sentence_chunks:
         # Fallback: treat whole text as one chunk
         sentence_chunks = [base_text] if base_text else []
-
+    
     segments = map_chunks_to_segments(
         sentence_chunks,
         word_timestamps=word_timestamps,
         script_alignment=script_alignment,
     )
-
-    st.info("Step 2.5/5: Microsegmentation per sentence (subtitles)...")
-    micro_tasks = [
-        insert_markers(seg["text"], partitions=2, model="claude-haiku-4-5")
-        for seg in segments
-    ]
-    micro_marked_list = await asyncio.gather(*micro_tasks) if micro_tasks else []
-    enriched_segments = []
-    for seg, micro_marked in zip(segments, micro_marked_list):
-        subtitle_lines = extract_blocks(micro_marked)
-        enriched_segments.append(
-            {
-                **seg,
-                "section": None,
-                "subtitle": subtitle_lines,
-            }
-        )
-    segments = enriched_segments
+    for seg in segments:
+        seg["section"] = None
+        seg["subtitle"] = [seg["text"]]
     
     st.info("Step 3/5: Generating semantic tags with LLM...")
     segments_with_tags = await generate_tags_async(

@@ -28,6 +28,63 @@ def _tags_to_query(segment: Dict[str, Any]) -> str:
     parts = [text] + [str(p) for p in tags if p] + [str(p) for p in additional if p]
     return " ".join(p for p in parts if p).strip()
 
+
+MAX_CUT_DURATION = 3.0  # Max seconds per clip cut (Roman's requirement)
+
+def _build_context_bridge_query(micro_cut):
+    """Search DB with FULL parent sentence, not tiny micro-cut text.
+    Fixes: 'in the gym' searching for gym clips instead of sleep/fatigue clips.
+    """
+    parent_text = (micro_cut.get("_parent_context") or micro_cut.get("text") or "").strip()
+    tags = micro_cut.get("tags") or []
+    additional = micro_cut.get("additional_tags") or []
+    parts = [parent_text] + [str(p) for p in tags if p] + [str(p) for p in additional if p]
+    return " ".join(p for p in parts if p).strip()
+
+
+def _expand_to_micro_cuts(seg):
+    """Split long segments into 2-3 second micro-cuts.
+    Short segments (<= 3s): returned as-is.
+    Long segments: split proportionally by subtitle word count.
+    Each micro-cut keeps _parent_context for context bridge searching.
+    """
+    start = float(seg.get("start") or 0)
+    end = float(seg.get("end") or 0)
+    total_duration = end - start
+
+    if total_duration <= MAX_CUT_DURATION:
+        return [seg]
+
+    subtitle_blocks = seg.get("subtitle") or []
+    parent_text = (seg.get("text") or "").strip()
+
+    if not subtitle_blocks:
+        n_cuts = max(2, round(total_duration / MAX_CUT_DURATION))
+        slice_dur = total_duration / n_cuts
+        return [{**seg, "start": round(start + i*slice_dur, 3),
+                 "end": round(start + (i+1)*slice_dur, 3),
+                 "_parent_context": parent_text, "subtitle": []}
+                for i in range(n_cuts)]
+
+    word_counts = [len(b.split()) for b in subtitle_blocks]
+    total_words = sum(word_counts) or 1
+    micro_cuts = []
+    current_time = start
+
+    for block_text, wc in zip(subtitle_blocks, word_counts):
+        block_dur = min(total_duration * (wc / total_words), MAX_CUT_DURATION)
+        cut_end = round(current_time + block_dur, 3)
+        micro_cuts.append({**seg, "text": block_text,
+                           "_parent_context": parent_text,
+                           "start": round(current_time, 3),
+                           "end": cut_end, "subtitle": [block_text]})
+        current_time = cut_end
+        if current_time >= end:
+            break
+
+    return micro_cuts or [seg]
+
+
 def _split_pipe_list(s: Any) -> List[str]:
     if not s:
         return []
@@ -91,7 +148,7 @@ def _apply_penalties(
     used_paths: set[str],
     recent_paths: List[str],
     penalty_recent: float = 0.3,
-    penalty_reused: float = 0.5,
+    penalty_reused: float = 1.5,
     recent_window: int = 5,
 ) -> List[Dict[str, Any]]:
     """Apply penalties for repetition; return re-sorted candidates."""
@@ -102,12 +159,12 @@ def _apply_penalties(
             score = 1 - c["distance"]
         path = c.get("path", "")
         if path in used_paths:
-            score -= penalty_reused
+           score -= penalty_reused
         for i, rp in enumerate(reversed(recent_paths[-recent_window:])):
             if path == rp:
                 score -= penalty_recent * (1 - i / recent_window)
                 break
-        scored.append((max(0, score), c))
+        scored.append((score, c))
     scored.sort(key=lambda x: -x[0])
     return [c for _, c in scored]
 
@@ -209,9 +266,16 @@ def match_segments_to_footage(
     except Exception as e:
         print(f"ChromaDB not available: {e}. Run build_footage_index first.")
         return segments
-    
+    expanded = []
+    for seg in segments:
+        expanded.extend(_expand_to_micro_cuts(seg))
+    print(f"[Context Bridge] {len(segments)} sentences -> {len(expanded)} micro-cuts")
+    segments = expanded
+
     used_paths: set[str] = set()
     recent_paths: List[str] = []
+
+    prev_was_ugc = False
 
     queries: List[str] = [_tags_to_query(s) for s in segments]
     query_embeddings = embed_texts_batch([q for q in queries if q])
@@ -297,7 +361,19 @@ def match_segments_to_footage(
             qa_signal=brain_data.get("qa_rejected_tags", {})
         )
 
+        if prev_was_ugc:
+            for c in penalized:
+                c_tags = [str(t).upper() for t in c.get("structural_tags", [])]
+                if "UGC_TALKING_HEAD" in c_tags or "FACE_REACTION" in c_tags:
+                    current_score = float(c.get("final_similarity_score", c.get("similarity", 0.0)))
+                    c["final_similarity_score"] = current_score - 2.0
+                    c["score_explanation"] = c.get("score_explanation", "") + " | Balancer: -2.0 (Too many faces)"
+                elif "PRODUCT_STANDALONE" in c_tags or "AESTHETIC_BROLL" in c_tags:
+                    current_score = float(c.get("final_similarity_score", c.get("similarity", 0.0)))
+                    c["final_similarity_score"] = current_score + 1.5
+                    c["score_explanation"] = c.get("score_explanation", "") + " | Balancer: +1.5 (Product Focus Needed)"
 
+        penalized.sort(key=lambda x: -float(x.get("final_similarity_score") or x.get("similarity") or 0.0))
         if not penalized:
             result.append(seg_copy)
             continue
@@ -380,6 +456,8 @@ def match_segments_to_footage(
                 for b in broll
                 if (b.get("video_path") or b.get("path"))
             ]
+        best_tags = [str(t).upper() for t in best.get("structural_tags", [])]
+        prev_was_ugc = "UGC_TALKING_HEAD" in best_tags or "FACE_REACTION" in best_tags
 
         used_paths.add(seg_copy["matched_footage"]["path"])
         recent_paths.append(seg_copy["matched_footage"]["path"])
