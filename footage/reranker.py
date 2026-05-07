@@ -50,9 +50,17 @@ def rerank_candidates(
             qa_score += qa_dict.get(tag, 0.0)
             winner_score += winner_dict.get(tag, 0.0)
 
-        final_score = base_score + winner_score + qa_score
+
+        winner_contribution = winner_score * base_score
+
+        final_score = base_score + winner_contribution + qa_score
         c["final_similarity_score"] = final_score
-        c["score_explanation"] = f"Score: {final_score:.4f} (Semantic: {base_score:.4f}, Winner: {winner_score:+.4f}, QA: {qa_score:+.4f})"
+        c["score_explanation"] = (
+            f"Score: {final_score:.4f} "
+            f"(Semantic: {base_score:.4f}, "
+            f"Winner: {winner_contribution:+.4f} [raw={winner_score:.2f}×sem], "
+            f"QA: {qa_score:+.4f})"
+        )
 
     candidates.sort(key=lambda x: x.get("final_similarity_score", 0.0), reverse=True)
     return candidates

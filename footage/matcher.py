@@ -277,7 +277,7 @@ def match_segments_to_footage(
 
     prev_was_ugc = False
 
-    queries: List[str] = [_tags_to_query(s) for s in segments]
+    queries: List[str] = [_build_context_bridge_query(s) for s in segments]
     query_embeddings = embed_texts_batch([q for q in queries if q])
 
     # Map back embeddings to segment indices (skip empty queries)
@@ -373,6 +373,52 @@ def match_segments_to_footage(
                     c["final_similarity_score"] = current_score + 1.5
                     c["score_explanation"] = c.get("score_explanation", "") + " | Balancer: +1.5 (Product Focus Needed)"
 
+
+        text_lower = (seg.get("text") or "").lower()
+        seg_tags = [str(t).upper() for t in (seg.get("tags") or [])]
+
+        universal_triggers = [
+            "solution", "found", "finally", "changed", "decided", "invested",
+            "introducing", "discovered", "switched", "until i tried",
+            "game changer", "bought", "i tried", "the secret", "that's when",
+            "and then", "which is why", "and it", "so i"
+        ]
+        has_pivot_word = any(trigger in text_lower for trigger in universal_triggers)
+
+        has_product_intent = any(tag in seg_tags for tag in [
+            "PRODUCT_INTRO", "RESULT_TRANSFORMATION", "OFFER_CTA"
+        ])
+
+        is_pivot_moment = has_pivot_word or has_product_intent
+
+        if is_pivot_moment:
+            for c in penalized:
+                c_tags = [str(t).upper() for t in c.get("structural_tags", [])]
+                current_score = float(c.get("final_similarity_score", c.get("similarity", 0.0)))
+                if "PRODUCT_STANDALONE" in c_tags or "PRODUCT_INTERACTION" in c_tags:
+                    c["final_similarity_score"] = current_score + 5.0
+                    c["score_explanation"] = (
+                        c.get("score_explanation", "") + " | PIVOT: +5.0 (Product Hero Reveal)"
+                    )
+                elif "PROBLEM_STATE" in c_tags or "NEGATIVE_EMOTION" in c_tags:
+                    c["final_similarity_score"] = current_score - 5.0
+                    c["score_explanation"] = (
+                        c.get("score_explanation", "") + " | PIVOT: -5.0 (Suppress Pain Visuals)"
+                    )
+
+        seg_is_negative = (
+            "PROBLEM_STATE" in seg_tags and
+            "NEGATIVE_EMOTION" in seg_tags
+        )
+        if seg_is_negative and not is_pivot_moment:
+            for c in penalized:
+                c_tags = [str(t).upper() for t in c.get("structural_tags", [])]
+                current_score = float(c.get("final_similarity_score", c.get("similarity", 0.0)))
+                if "POSITIVE_EMOTION" in c_tags or "RESULT_TRANSFORMATION" in c_tags:
+                    c["final_similarity_score"] = current_score - 1.5
+                    c["score_explanation"] = (
+                        c.get("score_explanation", "") + " | SENTIMENT: -1.5 (Suppress Happy on Pain)"
+                    )
         penalized.sort(key=lambda x: -float(x.get("final_similarity_score") or x.get("similarity") or 0.0))
         if not penalized:
             result.append(seg_copy)
